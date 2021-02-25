@@ -1,0 +1,370 @@
+{
+ "an_data_depute": {
+  "dateNais": "1965-10-23",
+  "femme": false,
+  "ident": {
+   "alpha": "Hemedinger",
+   "civ": "M.",
+   "nom": "Hemedinger",
+   "prenom": "Yves",
+   "trigramme": "YHE"
+  },
+  "nom": "Yves Hemedinger"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774956.jpg",
+  "nosiege": "72"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA774956",
+  "civ": "M.",
+  "communes": [
+   "Algolsheim (68600)",
+   "Andolsheim (68280)",
+   "Appenwihr (68280)",
+   "Artzenheim (68320)",
+   "Balgau (68740)",
+   "Baltzenheim (68320)",
+   "Biesheim (68600)",
+   "Bischwihr (68320)",
+   "Colmar (68000)",
+   "Dessenheim (68600)",
+   "Durrenentzen (68320)",
+   "Fortschwihr (68320)",
+   "Geiswasser (68600)",
+   "Grussenheim (68320)",
+   "Heiteren (68600)",
+   "Hettenschlag (68600)",
+   "Horbourg-Wihr (68180)",
+   "Houssen (68125)",
+   "Jebsheim (68320)",
+   "Kunheim (68320)",
+   "Logelheim (68280)",
+   "Muntzenheim (68320)",
+   "Nambsheim (68740)",
+   "Neuf-Brisach (68600)",
+   "Obersaasheim (68600)",
+   "Porte du Ried (68320)",
+   "Sainte-Croix-en-Plaine (68127)",
+   "Sundhoffen (68280)",
+   "Urschenheim (68320)",
+   "Vogelgrun (68600)",
+   "Volgelsheim (68600)",
+   "Weckolsheim (68600)",
+   "Wickerschwihr (68320)",
+   "Widensolen (68320)",
+   "Wolfgantzen (68600)"
+  ],
+  "departement": "Haut-rhin",
+  "group": "Les Républicains",
+  "nom": "Hemedinger",
+  "numCirco": "1",
+  "numDepartement": "68",
+  "prenom": "Yves"
+ },
+ "datan": "https://datan.fr/deputes/haut-rhin-68/depute_yves-hemedinger",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 5,
+   "curRadiusIndex": 11,
+   "id": "ai5ri11",
+   "no": 72,
+   "polar": {
+    "angle": 0.19883497807530337,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.9802973668046362,
+    "y": -0.1975664501835878
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "28/09/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Haut-Rhin / Conseil départemental / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Mathieu Kott"
+   },
+   {
+    "collaborateur": "M. Laurent Denzer-Figue"
+   },
+   {
+    "collaborateur": "Mme Albertine Ferreira"
+   },
+   {
+    "collaborateur": "Mme Mathilde Thuet"
+   },
+   {
+    "collaborateur": "M. Yves Baumuller"
+   }
+  ],
+  "date_naissance": "1965-10-23",
+  "emails": [
+   {
+    "email": "yves.hemedinger@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 644,
+  "id_an": "774956",
+  "lieu_naissance": "Colmar (Haut-Rhin)",
+  "mandat_debut": "2020-09-28",
+  "nb_mandats": 1,
+  "nom": "Yves Hemedinger",
+  "nom_circo": "Haut-Rhin",
+  "nom_de_famille": "Hemedinger",
+  "num_circo": 1,
+  "num_deptmt": "68",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "72",
+  "prenom": "Yves",
+  "profession": "Cadre du secteur privé",
+  "sexe": "H",
+  "sites_web": [
+   "http://www.yves-hemedinger.fr",
+   "https://twitter.com/YvesHemedinger"
+  ],
+  "slug": "yves-hemedinger",
+  "twitter": "YvesHemedinger",
+  "twitter_created_at": "2015-10-25T21:03:16",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Sun Oct 25 21:03:16 +0000 2015",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Député de la 1ère Circonscription du Haut-Rhin @AssembleeNat @Republicains_An Membre de l’Assemblée Parlementaire @CoE_fr Conseiller d'Alsace à @toutelalsace",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "yves-hemedinger.fr",
+       "expanded_url": "http://www.yves-hemedinger.fr",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/l9H8gHlBzT"
+      }
+     ]
+    }
+   },
+   "favourites_count": 321,
+   "follow_request_sent": false,
+   "followers_count": 1080,
+   "following": false,
+   "friends_count": 589,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 4041591748,
+   "id_str": "4041591748",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 21,
+   "location": "Colmar, France",
+   "name": "Hemedinger Yves",
+   "notifications": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4041591748/1605907070",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1323557858768769026/HSets03z_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323557858768769026/HSets03z_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "YvesHemedinger",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 22 11:07:38 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1363807658340401152",
+       "indices": [
+        117,
+        140
+       ],
+       "url": "https://t.co/imXcNK8dCX"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 10,
+    "favorited": false,
+    "geo": null,
+    "id": 1363807658340401200,
+    "id_str": "1363807658340401152",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "La polémique autour de la décision de la Mairie de Lyon d'un menu unique sans viande se trompe de cible.\nLe véritab… https://t.co/imXcNK8dCX",
+    "truncated": true
+   },
+   "statuses_count": 980,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/l9H8gHlBzT",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Député de la 1ère Circonscription du Haut-Rhin @AssembleeNat @Republicains_An Membre de l’Assemblée Parlementaire @CoE_fr Conseiller d'Alsace à @toutelalsace",
+  "twitter_favourites": 321,
+  "twitter_followers": 1080,
+  "twitter_following": 589,
+  "twitter_id": 4041591748,
+  "twitter_listed": 21,
+  "twitter_name": "Hemedinger Yves",
+  "twitter_protected": false,
+  "twitter_tweets": 980,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774956",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774956",
+  "url_nosdeputes": "https://www.nosdeputes.fr/yves-hemedinger",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/yves-hemedinger/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Yves-Hemedinger",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774956",
+ "scrutins": {
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V2992": "P",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3060": "A",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3135": "C",
+  "VTANR5L15V3158": "C",
+  "VTANR5L15V3159": "P",
+  "VTANR5L15V3160": "P",
+  "VTANR5L15V3161": "P",
+  "VTANR5L15V3162": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3190": "C",
+  "VTANR5L15V3192": "C",
+  "VTANR5L15V3193": "P",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3261": "C",
+  "VTANR5L15V3264": "P",
+  "VTANR5L15V3265": "C",
+  "VTANR5L15V3266": "P",
+  "VTANR5L15V3267": "C",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "P",
+  "VTANR5L15V3278": "C",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3299": "C",
+  "VTANR5L15V3301": "C",
+  "VTANR5L15V3308": "C",
+  "VTANR5L15V3321": "C",
+  "VTANR5L15V3322": "C",
+  "VTANR5L15V3324": "P",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "P",
+  "VTANR5L15V3352": "P",
+  "VTANR5L15V3373": "C",
+  "VTANR5L15V3374": "P",
+  "VTANR5L15V3375": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3379": "P",
+  "VTANR5L15V3382": "P",
+  "VTANR5L15V3383": "P",
+  "VTANR5L15V3389": "P",
+  "VTANR5L15V3390": "A",
+  "VTANR5L15V3392": "A",
+  "VTANR5L15V3394": "C",
+  "VTANR5L15V3395": "P",
+  "VTANR5L15V3399": "C",
+  "VTANR5L15V3400": "P",
+  "VTANR5L15V3401": "C",
+  "VTANR5L15V3402": "C",
+  "VTANR5L15V3404": "C",
+  "VTANR5L15V3405": "C",
+  "VTANR5L15V3406": "C",
+  "VTANR5L15V3407": "A",
+  "VTANR5L15V3409": "C",
+  "VTANR5L15V3410": "C",
+  "VTANR5L15V3411": "A",
+  "VTANR5L15V3412": "C",
+  "VTANR5L15V3413": "C",
+  "VTANR5L15V3414": "P",
+  "VTANR5L15V3415": "A",
+  "VTANR5L15V3416": "C",
+  "VTANR5L15V3417": "P",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "P"
+ },
+ "twitter": {
+  "id": "418590420",
+  "name": "Yves Baumuller",
+  "public_metrics": {
+   "followers_count": 1446,
+   "following_count": 942,
+   "listed_count": 28,
+   "tweet_count": 6748
+  },
+  "username": "YvesBaumuller"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "YvesBaumuller"
+ },
+ "uid": "PA774956"
+}

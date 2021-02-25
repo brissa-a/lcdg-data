@@ -1,0 +1,377 @@
+{
+ "an_data_depute": {
+  "dateNais": "1945-04-04",
+  "femme": false,
+  "ident": {
+   "alpha": "Teissier",
+   "civ": "M.",
+   "nom": "Teissier",
+   "prenom": "Guy",
+   "trigramme": "GTE"
+  },
+  "nom": "Guy Teissier"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/2796.jpg",
+  "nosiege": "84"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA2796",
+  "civ": "M.",
+  "communes": [
+   "Marseille",
+   "Marseille 10eme arrondissement (13010)",
+   "Marseille 9eme arrondissement (13009)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Les Républicains",
+  "nom": "Teissier",
+  "numCirco": "6",
+  "numDepartement": "13",
+  "prenom": "Guy"
+ },
+ "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_guy-teissier",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 6,
+   "curRadiusIndex": 2,
+   "id": "ai6ri2",
+   "no": 84,
+   "polar": {
+    "angle": 0.6499846869496124,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": 0.3482907162462191,
+    "y": -0.2648160653998102
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Mairie 9ème et 10ème arrondissements 150 Boulevard Paul Claudel 13009 Marseille"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.91.09"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
+   },
+   {
+    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
+   },
+   {
+    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
+   },
+   {
+    "mandat": "02/04/1993 / 21/04/1997 / fin de législature"
+   },
+   {
+    "mandat": "13/06/1988 / 26/11/1988 / annulation de l'élection sur décision du conseil constitutionnel"
+   },
+   {
+    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
+   },
+   {
+    "mandat": "21/06/2017 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Pays-d'Aix-en-Provence / Communauté d'agglomération / membre"
+   },
+   {
+    "mandat": "Marseille / Conseil municipal / membre"
+   },
+   {
+    "mandat": "Marseille Provence Métropole / Communauté urbaine / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Albane Duteurtre"
+   },
+   {
+    "collaborateur": "M. Lionel Royer-Perreaut"
+   },
+   {
+    "collaborateur": "M. Albert Tranchand"
+   },
+   {
+    "collaborateur": "M. Stéphane Lachaud"
+   }
+  ],
+  "date_naissance": "1945-04-04",
+  "emails": [
+   {
+    "email": "guy.teissier@assemblee-nationale.fr"
+   },
+   {
+    "email": "gteissier@mairie-marseille.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 156,
+  "id_an": "2796",
+  "lieu_naissance": "Marseille (Bouches-du-Rhône)",
+  "mandat_debut": "2017-06-21",
+  "nb_mandats": 3,
+  "nom": "Guy Teissier",
+  "nom_circo": "Bouches-du-Rhône",
+  "nom_de_famille": "Teissier",
+  "num_circo": 6,
+  "num_deptmt": "13",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "84",
+  "prenom": "Guy",
+  "profession": "Retraité",
+  "sexe": "H",
+  "sites_web": [
+   "http://www.guyteissier.com",
+   "https://twitter.com/guyteissier"
+  ],
+  "slug": "guy-teissier",
+  "twitter": "guyteissier",
+  "twitter_created_at": "2012-05-04T10:09:42",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Fri May 04 10:09:42 +0000 2012",
+   "default_profile": false,
+   "default_profile_image": false,
+   "description": "Député LR des Bouches-du-Rhône/Conseiller métropolitain/Maire honoraire des 9&10èmes arrondissements de Marseille/Président du Cercle d'amitié France-#Artsakh",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 563,
+   "follow_request_sent": false,
+   "followers_count": 9290,
+   "following": false,
+   "friends_count": 377,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 570703871,
+   "id_str": "570703871",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 228,
+   "location": "Marseille",
+   "name": "Guy Teissier",
+   "notifications": false,
+   "profile_background_color": "022330",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/570703871/1602856610",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1174277157629124613/2c8tFUFQ_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174277157629124613/2c8tFUFQ_normal.jpg",
+   "profile_link_color": "0084B4",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "C0DFEC",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "guyteissier",
+   "statuses_count": 2475,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": true
+  },
+  "twitter_description": "Député LR des Bouches-du-Rhône/Conseiller métropolitain/Maire honoraire des 9&10èmes arrondissements de Marseille/Président du Cercle d'amitié France-#Artsakh",
+  "twitter_favourites": 563,
+  "twitter_followers": 9290,
+  "twitter_following": 377,
+  "twitter_id": 570703871,
+  "twitter_listed": 228,
+  "twitter_name": "Guy Teissier",
+  "twitter_protected": false,
+  "twitter_tweets": 2475,
+  "twitter_verified": true,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796",
+  "url_nosdeputes": "https://www.nosdeputes.fr/guy-teissier",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/guy-teissier/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Guy-Teissier",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796",
+ "scrutins": {
+  "VTANR5L15V1": "A",
+  "VTANR5L15V105": "C",
+  "VTANR5L15V106": "P",
+  "VTANR5L15V1082": "P",
+  "VTANR5L15V1083": "P",
+  "VTANR5L15V1114": "P",
+  "VTANR5L15V1171": "P",
+  "VTANR5L15V119": "C",
+  "VTANR5L15V1209": "A",
+  "VTANR5L15V122": "A",
+  "VTANR5L15V123": "C",
+  "VTANR5L15V124": "P",
+  "VTANR5L15V125": "P",
+  "VTANR5L15V1263": "C",
+  "VTANR5L15V1283": "A",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V138": "C",
+  "VTANR5L15V139": "C",
+  "VTANR5L15V1429": "C",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1536": "C",
+  "VTANR5L15V1561": "C",
+  "VTANR5L15V1633": "C",
+  "VTANR5L15V1634": "C",
+  "VTANR5L15V1662": "P",
+  "VTANR5L15V1709": "C",
+  "VTANR5L15V1711": "C",
+  "VTANR5L15V1814": "C",
+  "VTANR5L15V183": "C",
+  "VTANR5L15V184": "C",
+  "VTANR5L15V1840": "C",
+  "VTANR5L15V1912": "A",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1941": "C",
+  "VTANR5L15V1957": "A",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V2039": "P",
+  "VTANR5L15V2042": "P",
+  "VTANR5L15V2071": "C",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V208": "C",
+  "VTANR5L15V2131": "P",
+  "VTANR5L15V2146": "C",
+  "VTANR5L15V2147": "C",
+  "VTANR5L15V2177": "C",
+  "VTANR5L15V2235": "C",
+  "VTANR5L15V2307": "C",
+  "VTANR5L15V2329": "A",
+  "VTANR5L15V2337": "C",
+  "VTANR5L15V2338": "P",
+  "VTANR5L15V2420": "P",
+  "VTANR5L15V2474": "C",
+  "VTANR5L15V2706": "P",
+  "VTANR5L15V272": "C",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "A",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "P",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "A",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2751": "C",
+  "VTANR5L15V2752": "C",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "C",
+  "VTANR5L15V2761": "C",
+  "VTANR5L15V2762": "C",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V285": "A",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2947": "P",
+  "VTANR5L15V2949": "C",
+  "VTANR5L15V2976": "C",
+  "VTANR5L15V2978": "P",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3108": "P",
+  "VTANR5L15V314": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3256": "C",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3308": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V339": "A",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V345": "C",
+  "VTANR5L15V351": "C",
+  "VTANR5L15V365": "A",
+  "VTANR5L15V385": "C",
+  "VTANR5L15V389": "P",
+  "VTANR5L15V407": "C",
+  "VTANR5L15V419": "P",
+  "VTANR5L15V433": "A",
+  "VTANR5L15V477": "P",
+  "VTANR5L15V483": "C",
+  "VTANR5L15V577": "C",
+  "VTANR5L15V729": "A",
+  "VTANR5L15V74": "P",
+  "VTANR5L15V75": "P",
+  "VTANR5L15V78": "P",
+  "VTANR5L15V79": "P",
+  "VTANR5L15V811": "P",
+  "VTANR5L15V812": "P",
+  "VTANR5L15V813": "P",
+  "VTANR5L15V830": "P",
+  "VTANR5L15V831": "P",
+  "VTANR5L15V832": "P",
+  "VTANR5L15V833": "P",
+  "VTANR5L15V834": "C",
+  "VTANR5L15V928": "C",
+  "VTANR5L15V942": "P",
+  "VTANR5L15V974": "C"
+ },
+ "twitter": {
+  "id": "570703871",
+  "name": "Guy Teissier",
+  "public_metrics": {
+   "followers_count": 9289,
+   "following_count": 377,
+   "listed_count": 227,
+   "tweet_count": 2475
+  },
+  "username": "guyteissier"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "guyteissier"
+ },
+ "uid": "PA2796"
+}

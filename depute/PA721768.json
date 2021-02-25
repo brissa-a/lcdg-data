@@ -1,0 +1,355 @@
+{
+ "an_data_depute": {
+  "dateNais": "1978-10-04",
+  "femme": true,
+  "ident": {
+   "alpha": "Silin",
+   "civ": "Mme",
+   "nom": "Silin",
+   "prenom": "Marie",
+   "trigramme": "MSI"
+  },
+  "nom": "Marie Silin"
+ },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721768.jpg",
+  "nosiege": "571"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/MarieSilinDeputee/",
+  "twitter_link": "https://twitter.com/@Mariesilin/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA721768",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 15eme arrondissement (75015)",
+   "Paris 7eme arrondissement (75007)"
+  ],
+  "departement": "Paris",
+  "group": "La République en Marche",
+  "nom": "Silin",
+  "numCirco": "12",
+  "numDepartement": "75",
+  "prenom": "Marie"
+ },
+ "datan": "https://datan.fr/deputes/paris-75/depute_marie-silin",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 69,
+   "curRadiusIndex": 11,
+   "id": "ai69ri11",
+   "no": 571,
+   "polar": {
+    "angle": 2.743922697439187,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.9219658547282068,
+    "y": -0.3873477417678206
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire 6 Place de Breteuil 75015 Paris"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "27/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Alice Ermecini"
+   },
+   {
+    "collaborateur": "M. Thomas Barreau"
+   },
+   {
+    "collaborateur": "Mme Marie Andrieux"
+   }
+  ],
+  "date_naissance": "1978-10-04",
+  "emails": [
+   {
+    "email": "marie.silin@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LREM",
+  "id": 637,
+  "id_an": "721768",
+  "lieu_naissance": "Saint-Cloud (Haute-Marne)",
+  "mandat_debut": "2020-08-27",
+  "nb_mandats": 1,
+  "nom": "Marie Silin",
+  "nom_circo": "Paris",
+  "nom_de_famille": "Silin",
+  "num_circo": 12,
+  "num_deptmt": "75",
+  "parti_ratt_financier": "La République en Marche",
+  "place_en_hemicycle": "571",
+  "prenom": "Marie",
+  "profession": "Cadre en entreprise",
+  "sexe": "F",
+  "sites_web": [
+   "http://www.mariesilin.fr",
+   "https://twitter.com/Mariesilin",
+   "http://linkedin.com/in/marie-silin-2a3b25",
+   "https://fr-fr.facebook.com/MarieSilinDeputee"
+  ],
+  "slug": "marie-silin",
+  "twitter": "Mariesilin",
+  "twitter_created_at": "2009-09-04T19:03:28",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Fri Sep 04 19:03:28 +0000 2009",
+   "default_profile": false,
+   "default_profile_image": false,
+   "description": "Députée de Paris. \nCommissaire @AN_DevDur. Juge suppléante à la #CJR .\n#Circo7512 #Paris #LREM #DirectAN \n#TransitionEcologique #Europe #JamaisSansElles",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "mariesilin.fr",
+       "expanded_url": "https://www.mariesilin.fr/",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/PiGP221tJe"
+      }
+     ]
+    }
+   },
+   "favourites_count": 29576,
+   "follow_request_sent": false,
+   "followers_count": 2812,
+   "following": false,
+   "friends_count": 3672,
+   "geo_enabled": false,
+   "has_extended_profile": true,
+   "id": 71610575,
+   "id_str": "71610575",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 34,
+   "location": "Paris, France",
+   "name": "Marie Silin",
+   "notifications": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/71610575/1612560851",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1316851146502344704/CbZ7Pszb_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316851146502344704/CbZ7Pszb_normal.jpg",
+   "profile_link_color": "91D2FA",
+   "profile_location": null,
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "protected": false,
+   "screen_name": "mariesilin",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 16:48:39 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        38,
+        59
+       ],
+       "text": "precaritemenstruelle"
+      }
+     ],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1364255863658209281",
+       "indices": [
+        117,
+        140
+       ],
+       "url": "https://t.co/yGYlzEKY4O"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 19,
+    "favorited": false,
+    "geo": null,
+    "id": 1364255863658209300,
+    "id_str": "1364255863658209281",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "1 étudiante sur 3 est en situation de #precaritemenstruelle. \nEn 2020, 5M€ ont été investis pr lutter contre.\nJe sa… https://t.co/yGYlzEKY4O",
+    "truncated": true
+   },
+   "statuses_count": 9673,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/PiGP221tJe",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de Paris. Commissaire @AN_DevDur. Juge suppléante à la #CJR . #Circo7512 #Paris #LREM #DirectAN #TransitionEcologique #Europe #JamaisSansElles",
+  "twitter_favourites": 29576,
+  "twitter_followers": 2812,
+  "twitter_following": 3672,
+  "twitter_id": 71610575,
+  "twitter_listed": 34,
+  "twitter_name": "Marie Silin",
+  "twitter_protected": false,
+  "twitter_tweets": 9673,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721768",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721768",
+  "url_nosdeputes": "https://www.nosdeputes.fr/marie-silin",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/marie-silin/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Marie-Silin",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721768",
+ "scrutins": {
+  "VTANR5L15V2931": "C",
+  "VTANR5L15V2932": "C",
+  "VTANR5L15V2933": "C",
+  "VTANR5L15V2936": "A",
+  "VTANR5L15V2937": "C",
+  "VTANR5L15V2940": "A",
+  "VTANR5L15V2941": "P",
+  "VTANR5L15V2956": "C",
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V2992": "C",
+  "VTANR5L15V3006": "C",
+  "VTANR5L15V3007": "C",
+  "VTANR5L15V3008": "P",
+  "VTANR5L15V3009": "C",
+  "VTANR5L15V3010": "P",
+  "VTANR5L15V3019": "C",
+  "VTANR5L15V3020": "P",
+  "VTANR5L15V3021": "P",
+  "VTANR5L15V3044": "C",
+  "VTANR5L15V3045": "C",
+  "VTANR5L15V3047": "C",
+  "VTANR5L15V3048": "C",
+  "VTANR5L15V3049": "C",
+  "VTANR5L15V3050": "C",
+  "VTANR5L15V3051": "C",
+  "VTANR5L15V3052": "C",
+  "VTANR5L15V3053": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3136": "C",
+  "VTANR5L15V3137": "C",
+  "VTANR5L15V3139": "C",
+  "VTANR5L15V3140": "C",
+  "VTANR5L15V3141": "C",
+  "VTANR5L15V3142": "C",
+  "VTANR5L15V3143": "C",
+  "VTANR5L15V3145": "C",
+  "VTANR5L15V3146": "C",
+  "VTANR5L15V3147": "C",
+  "VTANR5L15V3148": "C",
+  "VTANR5L15V3149": "C",
+  "VTANR5L15V3162": "C",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3194": "C",
+  "VTANR5L15V3195": "C",
+  "VTANR5L15V3196": "P",
+  "VTANR5L15V3203": "P",
+  "VTANR5L15V3204": "P",
+  "VTANR5L15V3205": "C",
+  "VTANR5L15V3206": "P",
+  "VTANR5L15V3207": "C",
+  "VTANR5L15V3208": "P",
+  "VTANR5L15V3211": "C",
+  "VTANR5L15V3213": "C",
+  "VTANR5L15V3214": "C",
+  "VTANR5L15V3216": "C",
+  "VTANR5L15V3217": "C",
+  "VTANR5L15V3218": "C",
+  "VTANR5L15V3219": "P",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3265": "P",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "C",
+  "VTANR5L15V3278": "P",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "C",
+  "VTANR5L15V3282": "C",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3295": "P",
+  "VTANR5L15V3304": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3311": "P",
+  "VTANR5L15V3317": "C",
+  "VTANR5L15V3318": "C",
+  "VTANR5L15V3321": "P",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3364": "C",
+  "VTANR5L15V3365": "P",
+  "VTANR5L15V3366": "P",
+  "VTANR5L15V3367": "P",
+  "VTANR5L15V3368": "P",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3379": "P",
+  "VTANR5L15V3384": "C",
+  "VTANR5L15V3386": "P",
+  "VTANR5L15V3387": "P",
+  "VTANR5L15V3388": "P",
+  "VTANR5L15V3389": "C",
+  "VTANR5L15V3390": "P",
+  "VTANR5L15V3391": "P",
+  "VTANR5L15V3400": "P",
+  "VTANR5L15V3401": "P",
+  "VTANR5L15V3407": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P"
+ },
+ "twitter": {
+  "id": "71610575",
+  "name": "Marie Silin",
+  "public_metrics": {
+   "followers_count": 2816,
+   "following_count": 3673,
+   "listed_count": 34,
+   "tweet_count": 9676
+  },
+  "username": "mariesilin"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "mariesilin"
+ },
+ "uid": "PA721768"
+}

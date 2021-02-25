@@ -1,0 +1,353 @@
+{
+ "an_data_depute": {
+  "dateNais": "1961-05-17",
+  "femme": true,
+  "ident": {
+   "alpha": "Ramassamy",
+   "civ": "Mme",
+   "nom": "Ramassamy",
+   "prenom": "Nadia",
+   "trigramme": "NRA"
+  },
+  "nom": "Nadia Ramassamy"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721070.jpg",
+  "nosiege": "44"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721070",
+  "civ": "Mme",
+  "communes": [
+   "Saint-André (97440)",
+   "Saint-Denis (97400)",
+   "Saint-Denis (97417)",
+   "Saint-Denis (97490)",
+   "Sainte-Marie (La Réunion) (97438)",
+   "Sainte-Suzanne (La Réunion) (97441)"
+  ],
+  "departement": "La réunion",
+  "group": "Les Républicains",
+  "nom": "Ramassamy",
+  "numCirco": "6",
+  "numDepartement": "974",
+  "prenom": "Nadia"
+ },
+ "datan": "https://datan.fr/deputes/reunion-974/depute_nadia-ramassamy",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 5,
+   "curRadiusIndex": 8,
+   "id": "ai5ri8",
+   "no": 44,
+   "polar": {
+    "angle": 0.2344472129544622,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7902723605764106,
+    "y": -0.18878541952320932
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "9310 Avenue Leconte de Lisle 97490 Saint-Denis Téléphone : 02.62.58.54.68"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 68 78"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "21/06/2017 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Réunion / Conseil régional / vice-présidente"
+   },
+   {
+    "mandat": "Réunion / Conseil départemental / vice-présidente"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Brice Baillard"
+   },
+   {
+    "collaborateur": "M. Gérard Cazanove"
+   },
+   {
+    "collaborateur": "Mme Aliette Soupaya Valliama"
+   },
+   {
+    "collaborateur": "M. Luçay Sautron"
+   }
+  ],
+  "date_naissance": "1961-05-17",
+  "emails": [
+   {
+    "email": "nadia.ramassamy@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 366,
+  "id_an": "721070",
+  "lieu_naissance": "Sainte-Clotilde (Réunion)",
+  "mandat_debut": "2017-06-21",
+  "nb_mandats": 2,
+  "nom": "Nadia Ramassamy",
+  "nom_circo": "Réunion",
+  "nom_de_famille": "Ramassamy",
+  "num_circo": 6,
+  "num_deptmt": "974",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "44",
+  "prenom": "Nadia",
+  "profession": "Médecin",
+  "sexe": "F",
+  "sites_web": [
+   "http://nadiaramassamy.fr",
+   "https://twitter.com/NadiaRamassamy"
+  ],
+  "slug": "nadia-ramassamy",
+  "twitter": "NadiaRamassamy",
+  "twitter_created_at": "2017-12-04T11:24:33",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Mon Dec 04 11:24:33 +0000 2017",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de #LaRéunion. Commission des Affaires sociales. Médecin généraliste.",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
+       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/q8G4WFxvyX"
+      }
+     ]
+    }
+   },
+   "favourites_count": 606,
+   "follow_request_sent": false,
+   "followers_count": 1051,
+   "following": false,
+   "friends_count": 677,
+   "geo_enabled": false,
+   "has_extended_profile": true,
+   "id": 937643785240096800,
+   "id_str": "937643785240096768",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 43,
+   "location": "La Réunion",
+   "name": "Nadia Ramassamy",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/937643785240096768/1536074656",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1044922003684241409/JGu3utWo_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044922003684241409/JGu3utWo_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "NadiaRamassamy",
+   "statuses_count": 1106,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/q8G4WFxvyX",
+   "utc_offset": null,
+   "verified": true
+  },
+  "twitter_description": "Députée de #LaRéunion. Commission des Affaires sociales. Médecin généraliste.",
+  "twitter_favourites": 606,
+  "twitter_followers": 1051,
+  "twitter_following": 677,
+  "twitter_id": 937643785240096800,
+  "twitter_listed": 43,
+  "twitter_name": "Nadia Ramassamy",
+  "twitter_protected": false,
+  "twitter_tweets": 1106,
+  "twitter_verified": true,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
+  "url_nosdeputes": "https://www.nosdeputes.fr/nadia-ramassamy",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/nadia-ramassamy/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Nadia-Ramassamy",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
+ "scrutins": {
+  "VTANR5L15V1": "A",
+  "VTANR5L15V105": "A",
+  "VTANR5L15V106": "A",
+  "VTANR5L15V1171": "P",
+  "VTANR5L15V118": "P",
+  "VTANR5L15V119": "C",
+  "VTANR5L15V1209": "A",
+  "VTANR5L15V1263": "C",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V138": "C",
+  "VTANR5L15V139": "C",
+  "VTANR5L15V1429": "C",
+  "VTANR5L15V143": "C",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1536": "C",
+  "VTANR5L15V1633": "C",
+  "VTANR5L15V1634": "C",
+  "VTANR5L15V1662": "P",
+  "VTANR5L15V1709": "A",
+  "VTANR5L15V1711": "C",
+  "VTANR5L15V1768": "A",
+  "VTANR5L15V1769": "P",
+  "VTANR5L15V1770": "P",
+  "VTANR5L15V1772": "P",
+  "VTANR5L15V1773": "A",
+  "VTANR5L15V1814": "C",
+  "VTANR5L15V183": "C",
+  "VTANR5L15V184": "C",
+  "VTANR5L15V185": "P",
+  "VTANR5L15V186": "P",
+  "VTANR5L15V187": "P",
+  "VTANR5L15V1912": "A",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1941": "C",
+  "VTANR5L15V1957": "A",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V199": "C",
+  "VTANR5L15V202": "P",
+  "VTANR5L15V2039": "P",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V208": "C",
+  "VTANR5L15V2102": "P",
+  "VTANR5L15V2103": "P",
+  "VTANR5L15V2130": "P",
+  "VTANR5L15V2131": "P",
+  "VTANR5L15V2146": "P",
+  "VTANR5L15V2147": "P",
+  "VTANR5L15V2268": "P",
+  "VTANR5L15V2269": "P",
+  "VTANR5L15V2270": "A",
+  "VTANR5L15V2329": "P",
+  "VTANR5L15V233": "P",
+  "VTANR5L15V234": "C",
+  "VTANR5L15V235": "P",
+  "VTANR5L15V2706": "P",
+  "VTANR5L15V272": "C",
+  "VTANR5L15V273": "P",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "A",
+  "VTANR5L15V274": "A",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "P",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "A",
+  "VTANR5L15V275": "A",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2751": "C",
+  "VTANR5L15V2752": "C",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V276": "A",
+  "VTANR5L15V2760": "C",
+  "VTANR5L15V2761": "C",
+  "VTANR5L15V2762": "C",
+  "VTANR5L15V277": "A",
+  "VTANR5L15V278": "C",
+  "VTANR5L15V279": "A",
+  "VTANR5L15V280": "P",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V3163": "P",
+  "VTANR5L15V3164": "P",
+  "VTANR5L15V3165": "P",
+  "VTANR5L15V3166": "P",
+  "VTANR5L15V3167": "A",
+  "VTANR5L15V3168": "C",
+  "VTANR5L15V3169": "A",
+  "VTANR5L15V3170": "C",
+  "VTANR5L15V3171": "P",
+  "VTANR5L15V3172": "P",
+  "VTANR5L15V3173": "C",
+  "VTANR5L15V3174": "P",
+  "VTANR5L15V3175": "P",
+  "VTANR5L15V3176": "P",
+  "VTANR5L15V3177": "C",
+  "VTANR5L15V3178": "P",
+  "VTANR5L15V3179": "P",
+  "VTANR5L15V3180": "P",
+  "VTANR5L15V3254": "A",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V338": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V365": "A",
+  "VTANR5L15V389": "P",
+  "VTANR5L15V407": "C",
+  "VTANR5L15V408": "P",
+  "VTANR5L15V419": "P",
+  "VTANR5L15V433": "A",
+  "VTANR5L15V439": "C",
+  "VTANR5L15V477": "A",
+  "VTANR5L15V483": "C",
+  "VTANR5L15V729": "A",
+  "VTANR5L15V730": "A",
+  "VTANR5L15V928": "P",
+  "VTANR5L15V942": "A",
+  "VTANR5L15V974": "C"
+ },
+ "twitter": {
+  "id": "937643785240096768",
+  "name": "Nadia Ramassamy",
+  "public_metrics": {
+   "followers_count": 1051,
+   "following_count": 677,
+   "listed_count": 44,
+   "tweet_count": 1107
+  },
+  "username": "NadiaRamassamy"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "NadiaRamassamy"
+ },
+ "uid": "PA721070"
+}

@@ -1,0 +1,897 @@
+{
+ "an_data_depute": {
+  "dateNais": "1983-12-22",
+  "femme": false,
+  "ident": {
+   "alpha": "Meizonnet",
+   "civ": "M.",
+   "nom": "Meizonnet",
+   "prenom": "Nicolas",
+   "trigramme": "NME"
+  },
+  "nom": "Nicolas Meizonnet"
+ },
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719436.jpg",
+  "nosiege": "58"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@NMeizonnet/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA719436",
+  "civ": "M.",
+  "communes": [
+   "Aigues-Mortes (30220)",
+   "Aigues-Vives (Gard) (30670)",
+   "Aimargues (30470)",
+   "Aspères (30250)",
+   "Aubais (30250)",
+   "Aubord (30620)",
+   "Aujargues (30250)",
+   "Beauvoisin (Gard) (30640)",
+   "Bernis (30620)",
+   "Boissières (Gard) (30114)",
+   "Calvisson (30420)",
+   "Codognan (30920)",
+   "Congénies (30111)",
+   "Fontanès (Gard) (30250)",
+   "Gallargues-le-Montueux (30660)",
+   "Générac (Gard) (30510)",
+   "Junas (30250)",
+   "Langlade (30980)",
+   "Le Cailar (30740)",
+   "Le Grau-du-Roi (30240)",
+   "Lecques (30250)",
+   "Mus (30121)",
+   "Nages-et-Solorgues (30114)",
+   "Saint-Clément (Gard) (30260)",
+   "Saint-Dionizy (30980)",
+   "Saint-Gilles (Gard) (30800)",
+   "Saint-Laurent-d'Aigouze (30220)",
+   "Salinelles (30250)",
+   "Sommières (30250)",
+   "Souvignargues (30250)",
+   "Uchaud (30620)",
+   "Vauvert (30600)",
+   "Vergèze (30310)",
+   "Vestric-et-Candiac (30600)",
+   "Villevieille (30250)"
+  ],
+  "departement": "Gard",
+  "group": "Non inscrit",
+  "nom": "Meizonnet",
+  "numCirco": "2",
+  "numDepartement": "30",
+  "prenom": "Nicolas"
+ },
+ "datan": "https://datan.fr/deputes/gard-30/depute_nicolas-meizonnet",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 2,
+   "curRadiusIndex": 10,
+   "id": "ai2ri10",
+   "no": 58,
+   "polar": {
+    "angle": 0.07757018897752575,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.9346808823448051,
+    "y": -0.07266350779222838
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "01/02/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Vauvert / Conseil municipal / membre"
+   },
+   {
+    "mandat": "Gard / Conseil départemental / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Alexandre Loubet"
+   },
+   {
+    "collaborateur": "Mme Salomé Reeves"
+   },
+   {
+    "collaborateur": "M. Thierry Cortes"
+   },
+   {
+    "collaborateur": "Mme Sherley Stobiac"
+   },
+   {
+    "collaborateur": "Mme Emmanuelle Gavanon"
+   }
+  ],
+  "date_naissance": "1983-12-22",
+  "emails": [
+   {
+    "email": "Nicolas.Meizonnet@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "NI",
+  "id": 611,
+  "id_an": "719436",
+  "lieu_naissance": "Nîmes (Gard)",
+  "mandat_debut": "2020-02-01",
+  "nb_mandats": 2,
+  "nom": "Nicolas Meizonnet",
+  "nom_circo": "Gard",
+  "nom_de_famille": "Meizonnet",
+  "num_circo": 2,
+  "num_deptmt": "30",
+  "parti_ratt_financier": "Rassemblement national",
+  "place_en_hemicycle": "58",
+  "prenom": "Nicolas",
+  "profession": "Ingénieur en informatique",
+  "sexe": "H",
+  "sites_web": [
+   "https://twitter.com/NMeizonnet"
+  ],
+  "slug": "nicolas-meizonnet",
+  "twitter": "NMeizonnet",
+  "twitter_created_at": "2012-08-22T15:02:01",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Wed Aug 22 15:02:01 +0000 2012",
+   "default_profile": false,
+   "default_profile_image": false,
+   "description": "Député du Gard - Rassemblement National - Conseiller départemental du Canton de Vauvert",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
+       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719436",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/5XXgzk2UyO"
+      }
+     ]
+    }
+   },
+   "favourites_count": 2253,
+   "follow_request_sent": false,
+   "followers_count": 4569,
+   "following": false,
+   "friends_count": 1435,
+   "geo_enabled": true,
+   "has_extended_profile": true,
+   "id": 773854656,
+   "id_str": "773854656",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 54,
+   "location": "Vauvert, France",
+   "name": "Nicolas Meizonnet",
+   "notifications": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/773854656/1583404290",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1226867857352470528/JGfkrE4d_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226867857352470528/JGfkrE4d_normal.jpg",
+   "profile_link_color": "0378F5",
+   "profile_location": null,
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": false,
+   "protected": false,
+   "screen_name": "NMeizonnet",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 19:01:51 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        71,
+        86
+       ],
+       "text": "Régionales2021"
+      },
+      {
+       "indices": [
+        102,
+        112
+       ],
+       "text": "Occitanie"
+      }
+     ],
+     "media": [
+      {
+       "display_url": "pic.twitter.com/HzoZZuwbIP",
+       "expanded_url": "https://twitter.com/RNational_off/status/1364288956846718977/photo/1",
+       "id": 1364288951637467100,
+       "id_str": "1364288951637467136",
+       "indices": [
+        116,
+        139
+       ],
+       "media_url": "http://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+       "sizes": {
+        "large": {
+         "h": 1133,
+         "resize": "fit",
+         "w": 2048
+        },
+        "medium": {
+         "h": 664,
+         "resize": "fit",
+         "w": 1200
+        },
+        "small": {
+         "h": 376,
+         "resize": "fit",
+         "w": 680
+        },
+        "thumb": {
+         "h": 150,
+         "resize": "crop",
+         "w": 150
+        }
+       },
+       "source_status_id": 1364288956846719000,
+       "source_status_id_str": "1364288956846718977",
+       "source_user_id": 78085410,
+       "source_user_id_str": "78085410",
+       "type": "photo",
+       "url": "https://t.co/HzoZZuwbIP"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 78085410,
+       "id_str": "78085410",
+       "indices": [
+        3,
+        17
+       ],
+       "name": "Rassemblement National",
+       "screen_name": "RNational_off"
+      },
+      {
+       "id": 92795265,
+       "id_str": "92795265",
+       "indices": [
+        33,
+        43
+       ],
+       "name": "Jean-Paul GARRAUD",
+       "screen_name": "JPGarraud"
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "display_url": "pic.twitter.com/HzoZZuwbIP",
+       "expanded_url": "https://twitter.com/RNational_off/status/1364288956846718977/photo/1",
+       "id": 1364288951637467100,
+       "id_str": "1364288951637467136",
+       "indices": [
+        116,
+        139
+       ],
+       "media_url": "http://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+       "sizes": {
+        "large": {
+         "h": 1133,
+         "resize": "fit",
+         "w": 2048
+        },
+        "medium": {
+         "h": 664,
+         "resize": "fit",
+         "w": 1200
+        },
+        "small": {
+         "h": 376,
+         "resize": "fit",
+         "w": 680
+        },
+        "thumb": {
+         "h": 150,
+         "resize": "crop",
+         "w": 150
+        }
+       },
+       "source_status_id": 1364288956846719000,
+       "source_status_id_str": "1364288956846718977",
+       "source_user_id": 78085410,
+       "source_user_id_str": "78085410",
+       "type": "photo",
+       "url": "https://t.co/HzoZZuwbIP"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1364289385747857400,
+    "id_str": "1364289385747857410",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 92,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Tue Feb 23 19:00:09 +0000 2021",
+     "entities": {
+      "hashtags": [
+       {
+        "indices": [
+         52,
+         67
+        ],
+        "text": "Régionales2021"
+       },
+       {
+        "indices": [
+         83,
+         93
+        ],
+        "text": "Occitanie"
+       }
+      ],
+      "media": [
+       {
+        "display_url": "pic.twitter.com/HzoZZuwbIP",
+        "expanded_url": "https://twitter.com/RNational_off/status/1364288956846718977/photo/1",
+        "id": 1364288951637467100,
+        "id_str": "1364288951637467136",
+        "indices": [
+         97,
+         120
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+        "sizes": {
+         "large": {
+          "h": 1133,
+          "resize": "fit",
+          "w": 2048
+         },
+         "medium": {
+          "h": 664,
+          "resize": "fit",
+          "w": 1200
+         },
+         "small": {
+          "h": 376,
+          "resize": "fit",
+          "w": 680
+         },
+         "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+         }
+        },
+        "type": "photo",
+        "url": "https://t.co/HzoZZuwbIP"
+       }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+       {
+        "id": 92795265,
+        "id_str": "92795265",
+        "indices": [
+         14,
+         24
+        ],
+        "name": "Jean-Paul GARRAUD",
+        "screen_name": "JPGarraud"
+       }
+      ]
+     },
+     "extended_entities": {
+      "media": [
+       {
+        "display_url": "pic.twitter.com/HzoZZuwbIP",
+        "expanded_url": "https://twitter.com/RNational_off/status/1364288956846718977/photo/1",
+        "id": 1364288951637467100,
+        "id_str": "1364288951637467136",
+        "indices": [
+         97,
+         120
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eu7tkr1XYAAYBFd.jpg",
+        "sizes": {
+         "large": {
+          "h": 1133,
+          "resize": "fit",
+          "w": 2048
+         },
+         "medium": {
+          "h": 664,
+          "resize": "fit",
+          "w": 1200
+         },
+         "small": {
+          "h": 376,
+          "resize": "fit",
+          "w": 680
+         },
+         "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+         }
+        },
+        "type": "photo",
+        "url": "https://t.co/HzoZZuwbIP"
+       }
+      ]
+     },
+     "favorite_count": 238,
+     "favorited": false,
+     "geo": null,
+     "id": 1364288956846719000,
+     "id_str": "1364288956846718977",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 92,
+     "retweeted": false,
+     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+     "text": "🔵⚪️🔴 Soutenez @JPGarraud, investi tête de liste aux #Régionales2021 pour la région #Occitanie ⤵️ https://t.co/HzoZZuwbIP",
+     "truncated": false
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RNational_off: 🔵⚪️🔴 Soutenez @JPGarraud, investi tête de liste aux #Régionales2021 pour la région #Occitanie ⤵️ https://t.co/HzoZZuwbIP",
+    "truncated": false
+   },
+   "statuses_count": 1546,
+   "time_zone": null,
+   "translator_type": "regular",
+   "url": "https://t.co/5XXgzk2UyO",
+   "utc_offset": null,
+   "verified": true
+  },
+  "twitter_description": "Député du Gard - Rassemblement National - Conseiller départemental du Canton de Vauvert",
+  "twitter_favourites": 2253,
+  "twitter_followers": 4569,
+  "twitter_following": 1435,
+  "twitter_id": 773854656,
+  "twitter_listed": 54,
+  "twitter_name": "Nicolas Meizonnet",
+  "twitter_protected": false,
+  "twitter_tweets": 1546,
+  "twitter_verified": true,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719436",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719436",
+  "url_nosdeputes": "https://www.nosdeputes.fr/nicolas-meizonnet",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/nicolas-meizonnet/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Nicolas-Meizonnet",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719436",
+ "scrutins": {
+  "VTANR5L15V2460": "P",
+  "VTANR5L15V2461": "P",
+  "VTANR5L15V2462": "P",
+  "VTANR5L15V2463": "P",
+  "VTANR5L15V2464": "P",
+  "VTANR5L15V2465": "A",
+  "VTANR5L15V2466": "A",
+  "VTANR5L15V2467": "P",
+  "VTANR5L15V2468": "A",
+  "VTANR5L15V2469": "P",
+  "VTANR5L15V2470": "P",
+  "VTANR5L15V2471": "P",
+  "VTANR5L15V2472": "P",
+  "VTANR5L15V2473": "P",
+  "VTANR5L15V2474": "A",
+  "VTANR5L15V2475": "P",
+  "VTANR5L15V2476": "P",
+  "VTANR5L15V2477": "A",
+  "VTANR5L15V2478": "A",
+  "VTANR5L15V2479": "A",
+  "VTANR5L15V2480": "P",
+  "VTANR5L15V2481": "A",
+  "VTANR5L15V2482": "P",
+  "VTANR5L15V2483": "A",
+  "VTANR5L15V2484": "A",
+  "VTANR5L15V2485": "A",
+  "VTANR5L15V2486": "A",
+  "VTANR5L15V2487": "A",
+  "VTANR5L15V2488": "A",
+  "VTANR5L15V2489": "A",
+  "VTANR5L15V2490": "A",
+  "VTANR5L15V2491": "P",
+  "VTANR5L15V2492": "A",
+  "VTANR5L15V2501": "A",
+  "VTANR5L15V2502": "A",
+  "VTANR5L15V2503": "A",
+  "VTANR5L15V2504": "A",
+  "VTANR5L15V2505": "A",
+  "VTANR5L15V2507": "P",
+  "VTANR5L15V2508": "A",
+  "VTANR5L15V2509": "A",
+  "VTANR5L15V2510": "A",
+  "VTANR5L15V2511": "A",
+  "VTANR5L15V2512": "A",
+  "VTANR5L15V2513": "A",
+  "VTANR5L15V2514": "A",
+  "VTANR5L15V2515": "A",
+  "VTANR5L15V2516": "A",
+  "VTANR5L15V2517": "A",
+  "VTANR5L15V2518": "A",
+  "VTANR5L15V2519": "A",
+  "VTANR5L15V2520": "A",
+  "VTANR5L15V2521": "A",
+  "VTANR5L15V2522": "A",
+  "VTANR5L15V2523": "A",
+  "VTANR5L15V2524": "P",
+  "VTANR5L15V2525": "A",
+  "VTANR5L15V2526": "A",
+  "VTANR5L15V2527": "P",
+  "VTANR5L15V2528": "P",
+  "VTANR5L15V2532": "A",
+  "VTANR5L15V2533": "A",
+  "VTANR5L15V2534": "A",
+  "VTANR5L15V2535": "P",
+  "VTANR5L15V2536": "A",
+  "VTANR5L15V2537": "A",
+  "VTANR5L15V2538": "A",
+  "VTANR5L15V2539": "A",
+  "VTANR5L15V2540": "A",
+  "VTANR5L15V2541": "A",
+  "VTANR5L15V2542": "A",
+  "VTANR5L15V2543": "A",
+  "VTANR5L15V2545": "A",
+  "VTANR5L15V2553": "P",
+  "VTANR5L15V2554": "A",
+  "VTANR5L15V2555": "A",
+  "VTANR5L15V2556": "A",
+  "VTANR5L15V2557": "A",
+  "VTANR5L15V2558": "A",
+  "VTANR5L15V2559": "P",
+  "VTANR5L15V2560": "A",
+  "VTANR5L15V2565": "P",
+  "VTANR5L15V2566": "A",
+  "VTANR5L15V2567": "A",
+  "VTANR5L15V2568": "A",
+  "VTANR5L15V2569": "A",
+  "VTANR5L15V2570": "A",
+  "VTANR5L15V2571": "A",
+  "VTANR5L15V2572": "A",
+  "VTANR5L15V2573": "A",
+  "VTANR5L15V2574": "A",
+  "VTANR5L15V2575": "P",
+  "VTANR5L15V2576": "P",
+  "VTANR5L15V2577": "A",
+  "VTANR5L15V2578": "A",
+  "VTANR5L15V2579": "P",
+  "VTANR5L15V2580": "A",
+  "VTANR5L15V2581": "P",
+  "VTANR5L15V2582": "A",
+  "VTANR5L15V2583": "P",
+  "VTANR5L15V2584": "A",
+  "VTANR5L15V2585": "A",
+  "VTANR5L15V2586": "A",
+  "VTANR5L15V2587": "A",
+  "VTANR5L15V2588": "P",
+  "VTANR5L15V2589": "P",
+  "VTANR5L15V2590": "P",
+  "VTANR5L15V2591": "P",
+  "VTANR5L15V2593": "P",
+  "VTANR5L15V2594": "A",
+  "VTANR5L15V2595": "A",
+  "VTANR5L15V2596": "P",
+  "VTANR5L15V2597": "P",
+  "VTANR5L15V2598": "P",
+  "VTANR5L15V2599": "A",
+  "VTANR5L15V2600": "P",
+  "VTANR5L15V2601": "A",
+  "VTANR5L15V2602": "P",
+  "VTANR5L15V2603": "A",
+  "VTANR5L15V2649": "A",
+  "VTANR5L15V2650": "P",
+  "VTANR5L15V2651": "P",
+  "VTANR5L15V2652": "P",
+  "VTANR5L15V2653": "P",
+  "VTANR5L15V2654": "C",
+  "VTANR5L15V2655": "C",
+  "VTANR5L15V2656": "P",
+  "VTANR5L15V2657": "A",
+  "VTANR5L15V2658": "P",
+  "VTANR5L15V2664": "P",
+  "VTANR5L15V2665": "A",
+  "VTANR5L15V2666": "P",
+  "VTANR5L15V2667": "A",
+  "VTANR5L15V2668": "P",
+  "VTANR5L15V2669": "C",
+  "VTANR5L15V2670": "P",
+  "VTANR5L15V2671": "A",
+  "VTANR5L15V2672": "C",
+  "VTANR5L15V2673": "P",
+  "VTANR5L15V2674": "A",
+  "VTANR5L15V2675": "A",
+  "VTANR5L15V2676": "A",
+  "VTANR5L15V2677": "A",
+  "VTANR5L15V2678": "P",
+  "VTANR5L15V2679": "A",
+  "VTANR5L15V2680": "C",
+  "VTANR5L15V2681": "A",
+  "VTANR5L15V2682": "A",
+  "VTANR5L15V2683": "A",
+  "VTANR5L15V2684": "A",
+  "VTANR5L15V2685": "A",
+  "VTANR5L15V2686": "C",
+  "VTANR5L15V2687": "A",
+  "VTANR5L15V2688": "P",
+  "VTANR5L15V2689": "A",
+  "VTANR5L15V2690": "A",
+  "VTANR5L15V2691": "A",
+  "VTANR5L15V2707": "P",
+  "VTANR5L15V2708": "P",
+  "VTANR5L15V2709": "A",
+  "VTANR5L15V2710": "A",
+  "VTANR5L15V2712": "A",
+  "VTANR5L15V2713": "A",
+  "VTANR5L15V2714": "A",
+  "VTANR5L15V2715": "A",
+  "VTANR5L15V2717": "A",
+  "VTANR5L15V2718": "A",
+  "VTANR5L15V2719": "A",
+  "VTANR5L15V2720": "A",
+  "VTANR5L15V2721": "A",
+  "VTANR5L15V2722": "A",
+  "VTANR5L15V2723": "A",
+  "VTANR5L15V2724": "A",
+  "VTANR5L15V2725": "A",
+  "VTANR5L15V2726": "A",
+  "VTANR5L15V2727": "C",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "C",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "P",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2752": "A",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "P",
+  "VTANR5L15V2761": "A",
+  "VTANR5L15V2762": "P",
+  "VTANR5L15V2774": "C",
+  "VTANR5L15V2775": "C",
+  "VTANR5L15V2776": "C",
+  "VTANR5L15V2777": "C",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2816": "A",
+  "VTANR5L15V2818": "P",
+  "VTANR5L15V2819": "P",
+  "VTANR5L15V2820": "P",
+  "VTANR5L15V2822": "C",
+  "VTANR5L15V2823": "C",
+  "VTANR5L15V2824": "C",
+  "VTANR5L15V2825": "C",
+  "VTANR5L15V2826": "C",
+  "VTANR5L15V2827": "P",
+  "VTANR5L15V2828": "C",
+  "VTANR5L15V2875": "A",
+  "VTANR5L15V2882": "C",
+  "VTANR5L15V2883": "A",
+  "VTANR5L15V2884": "P",
+  "VTANR5L15V2885": "P",
+  "VTANR5L15V2886": "P",
+  "VTANR5L15V2887": "P",
+  "VTANR5L15V2888": "A",
+  "VTANR5L15V2889": "P",
+  "VTANR5L15V2890": "P",
+  "VTANR5L15V2891": "P",
+  "VTANR5L15V2892": "P",
+  "VTANR5L15V2893": "P",
+  "VTANR5L15V2895": "P",
+  "VTANR5L15V2896": "P",
+  "VTANR5L15V2897": "C",
+  "VTANR5L15V2898": "P",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2947": "P",
+  "VTANR5L15V2948": "C",
+  "VTANR5L15V2949": "C",
+  "VTANR5L15V2950": "C",
+  "VTANR5L15V2951": "P",
+  "VTANR5L15V2952": "C",
+  "VTANR5L15V2953": "P",
+  "VTANR5L15V2954": "P",
+  "VTANR5L15V2955": "C",
+  "VTANR5L15V2957": "P",
+  "VTANR5L15V2958": "A",
+  "VTANR5L15V2959": "A",
+  "VTANR5L15V2960": "A",
+  "VTANR5L15V2961": "A",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3061": "A",
+  "VTANR5L15V3086": "A",
+  "VTANR5L15V3087": "A",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "A",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "C",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3108": "P",
+  "VTANR5L15V3110": "A",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V3145": "P",
+  "VTANR5L15V3146": "P",
+  "VTANR5L15V3147": "P",
+  "VTANR5L15V3148": "C",
+  "VTANR5L15V3149": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3188": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3191": "A",
+  "VTANR5L15V3192": "C",
+  "VTANR5L15V3193": "P",
+  "VTANR5L15V3198": "P",
+  "VTANR5L15V3199": "P",
+  "VTANR5L15V3200": "P",
+  "VTANR5L15V3201": "P",
+  "VTANR5L15V3202": "P",
+  "VTANR5L15V3203": "P",
+  "VTANR5L15V3204": "P",
+  "VTANR5L15V3205": "A",
+  "VTANR5L15V3206": "A",
+  "VTANR5L15V3207": "C",
+  "VTANR5L15V3208": "A",
+  "VTANR5L15V3209": "C",
+  "VTANR5L15V3210": "P",
+  "VTANR5L15V3211": "C",
+  "VTANR5L15V3212": "P",
+  "VTANR5L15V3213": "C",
+  "VTANR5L15V3214": "C",
+  "VTANR5L15V3215": "C",
+  "VTANR5L15V3216": "C",
+  "VTANR5L15V3217": "C",
+  "VTANR5L15V3218": "C",
+  "VTANR5L15V3219": "P",
+  "VTANR5L15V3220": "C",
+  "VTANR5L15V3221": "P",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3268": "A",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3308": "C",
+  "VTANR5L15V3317": "P",
+  "VTANR5L15V3321": "C",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3346": "P",
+  "VTANR5L15V3347": "P",
+  "VTANR5L15V3348": "C",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "P",
+  "VTANR5L15V3352": "P",
+  "VTANR5L15V3353": "P",
+  "VTANR5L15V3354": "P",
+  "VTANR5L15V3355": "P",
+  "VTANR5L15V3356": "P",
+  "VTANR5L15V3357": "P",
+  "VTANR5L15V3358": "P",
+  "VTANR5L15V3359": "P",
+  "VTANR5L15V3360": "P",
+  "VTANR5L15V3361": "P",
+  "VTANR5L15V3362": "P",
+  "VTANR5L15V3363": "P",
+  "VTANR5L15V3365": "A",
+  "VTANR5L15V3366": "C",
+  "VTANR5L15V3367": "A",
+  "VTANR5L15V3368": "A",
+  "VTANR5L15V3369": "A",
+  "VTANR5L15V3370": "P",
+  "VTANR5L15V3371": "A",
+  "VTANR5L15V3372": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3380": "P",
+  "VTANR5L15V3381": "P",
+  "VTANR5L15V3383": "P",
+  "VTANR5L15V3385": "P",
+  "VTANR5L15V3386": "A",
+  "VTANR5L15V3387": "P",
+  "VTANR5L15V3388": "P",
+  "VTANR5L15V3389": "A",
+  "VTANR5L15V3390": "A",
+  "VTANR5L15V3392": "P",
+  "VTANR5L15V3393": "C",
+  "VTANR5L15V3394": "A",
+  "VTANR5L15V3395": "P",
+  "VTANR5L15V3399": "C",
+  "VTANR5L15V3400": "P",
+  "VTANR5L15V3401": "P",
+  "VTANR5L15V3403": "C",
+  "VTANR5L15V3407": "P",
+  "VTANR5L15V3408": "P",
+  "VTANR5L15V3421": "A",
+  "VTANR5L15V3422": "P"
+ },
+ "twitter": {
+  "id": "773854656",
+  "name": "Nicolas Meizonnet",
+  "public_metrics": {
+   "followers_count": 4570,
+   "following_count": 1436,
+   "listed_count": 54,
+   "tweet_count": 1549
+  },
+  "username": "NMeizonnet"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "NMeizonnet"
+ },
+ "uid": "PA719436"
+}

@@ -1,0 +1,407 @@
+{
+ "an_data_depute": {
+  "dateNais": "1966-11-01",
+  "femme": false,
+  "ident": {
+   "alpha": "Geismar",
+   "civ": "M.",
+   "nom": "Geismar",
+   "prenom": "Luc",
+   "trigramme": "LGE"
+  },
+  "nom": "Luc Geismar"
+ },
+ "an_www_depute": {
+  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720006.jpg",
+  "nosiege": "189"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA720006",
+  "civ": "M.",
+  "communes": [
+   "Carquefou (44470)",
+   "Casson (44390)",
+   "Couffé (44521)",
+   "Grandchamps-des-Fontaines (44119)",
+   "Héric (44810)",
+   "La Chapelle-sur-Erdre (44240)",
+   "Le Cellier (44850)",
+   "Les Touches (44390)",
+   "Ligné (Loire-Atlantique) (44850)",
+   "Mauves-sur-Loire (44470)",
+   "Mouzeil (44850)",
+   "Nantes (44000)",
+   "Nantes (44100)",
+   "Nantes (44200)",
+   "Nantes (44300)",
+   "Nort-sur-Erdre (44390)",
+   "Petit-Mars (44390)",
+   "Saint-Mars-du-Désert (Loire-Atlantique) (44850)",
+   "Sainte-Luce-sur-Loire (44980)",
+   "Sucé-sur-Erdre (44240)",
+   "Thouaré-sur-Loire (44470)",
+   "Treillières (44119)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "nom": "Geismar",
+  "numCirco": "5",
+  "numDepartement": "44",
+  "prenom": "Luc"
+ },
+ "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_luc-geismar",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 15,
+   "curRadiusIndex": 6,
+   "id": "ai15ri6",
+   "no": 189,
+   "polar": {
+    "angle": 0.8891299962989981,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.4331853924624263,
+    "y": -0.5339657047422877
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 318 Route de Saint-Joseph 44300 Nantes"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "27/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Sophie Alix-Liorit"
+   },
+   {
+    "collaborateur": "M. Olivier Tonnerre"
+   },
+   {
+    "collaborateur": "M. David Grangemare"
+   },
+   {
+    "collaborateur": "M. Maxime Castric"
+   },
+   {
+    "collaborateur": "Mme Florence Daubrée"
+   }
+  ],
+  "date_naissance": "1966-11-01",
+  "emails": [
+   {
+    "email": "luc.geismar@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "MODEM",
+  "id": 638,
+  "id_an": "720006",
+  "lieu_naissance": "Colmar (Haut-Rhin)",
+  "mandat_debut": "2020-08-27",
+  "nb_mandats": 1,
+  "nom": "Luc Geismar",
+  "nom_circo": "Loire-Atlantique",
+  "nom_de_famille": "Geismar",
+  "num_circo": 5,
+  "num_deptmt": "44",
+  "parti_ratt_financier": "Mouvement Démocrate",
+  "place_en_hemicycle": "189",
+  "prenom": "Luc",
+  "profession": "Directeur régional des ventes",
+  "sexe": "H",
+  "sites_web": [
+   "http://depute-geismar.fr",
+   "https://twitter.com/GeismarLuc"
+  ],
+  "slug": "luc-geismar",
+  "twitter": "GeismarLuc",
+  "twitter_created_at": "2017-05-19T22:46:52",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Fri May 19 22:46:52 +0000 2017",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Député de #LoireAtlantique #Circo4405 #MoDem @AN_AfCult",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "depute-geismar.fr",
+       "expanded_url": "http://depute-geismar.fr",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/8z2WapbwPv"
+      }
+     ]
+    }
+   },
+   "favourites_count": 1638,
+   "follow_request_sent": false,
+   "followers_count": 1390,
+   "following": false,
+   "friends_count": 1132,
+   "geo_enabled": true,
+   "has_extended_profile": true,
+   "id": 865700310131630100,
+   "id_str": "865700310131630080",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 16,
+   "location": "Sainte luce sur loire",
+   "name": "GEISMAR Luc",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865700310131630080/1495238012",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1305265016166375426/xE9FSUHi_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305265016166375426/xE9FSUHi_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "GeismarLuc",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 20 10:02:19 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        15,
+        21
+       ],
+       "text": "Ligné"
+      },
+      {
+       "indices": [
+        69,
+        83
+       ],
+       "text": "volsdemoutons"
+      }
+     ],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1363066443420606466",
+       "indices": [
+        117,
+        140
+       ],
+       "url": "https://t.co/0Fn6HnqV0Q"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 11,
+    "favorited": false,
+    "geo": null,
+    "id": 1363066443420606500,
+    "id_str": "1363066443420606466",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": {
+     "attributes": {},
+     "bounding_box": {
+      "coordinates": [
+       [
+        [
+         1.2022475,
+         43.7374737
+        ],
+        [
+         1.356182,
+         43.7374737
+        ],
+        [
+         1.356182,
+         43.8032097
+        ],
+        [
+         1.2022475,
+         43.8032097
+        ]
+       ]
+      ],
+      "type": "Polygon"
+     },
+     "contained_within": [],
+     "country": "France",
+     "country_code": "FR",
+     "full_name": "Grenade, France",
+     "id": "34c306f0e9175747",
+     "name": "Grenade",
+     "place_type": "city",
+     "url": "https://api.twitter.com/1.1/geo/id/34c306f0e9175747.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "J'étais hier à #Ligné pour rencontrer les éleveurs qui subissent des #volsdemoutons à répétition, plus de 500 uniqu… https://t.co/0Fn6HnqV0Q",
+    "truncated": true
+   },
+   "statuses_count": 636,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/8z2WapbwPv",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Député de #LoireAtlantique #Circo4405 #MoDem @AN_AfCult",
+  "twitter_favourites": 1638,
+  "twitter_followers": 1390,
+  "twitter_following": 1132,
+  "twitter_id": 865700310131630100,
+  "twitter_listed": 16,
+  "twitter_name": "GEISMAR Luc",
+  "twitter_protected": false,
+  "twitter_tweets": 636,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720006",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720006",
+  "url_nosdeputes": "https://www.nosdeputes.fr/luc-geismar",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/luc-geismar/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Luc-Geismar",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720006",
+ "scrutins": {
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "P",
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V3059": "P",
+  "VTANR5L15V3060": "C",
+  "VTANR5L15V3062": "C",
+  "VTANR5L15V3063": "C",
+  "VTANR5L15V3065": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3067": "P",
+  "VTANR5L15V3068": "C",
+  "VTANR5L15V3069": "C",
+  "VTANR5L15V3075": "C",
+  "VTANR5L15V3076": "P",
+  "VTANR5L15V3094": "C",
+  "VTANR5L15V3095": "C",
+  "VTANR5L15V3096": "C",
+  "VTANR5L15V3097": "C",
+  "VTANR5L15V3098": "C",
+  "VTANR5L15V3099": "C",
+  "VTANR5L15V3100": "C",
+  "VTANR5L15V3102": "C",
+  "VTANR5L15V3103": "C",
+  "VTANR5L15V3104": "C",
+  "VTANR5L15V3105": "C",
+  "VTANR5L15V3106": "C",
+  "VTANR5L15V3107": "C",
+  "VTANR5L15V3108": "C",
+  "VTANR5L15V3109": "P",
+  "VTANR5L15V3120": "C",
+  "VTANR5L15V3121": "C",
+  "VTANR5L15V3122": "P",
+  "VTANR5L15V3123": "C",
+  "VTANR5L15V3124": "P",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3187": "C",
+  "VTANR5L15V3188": "P",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3190": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3269": "P",
+  "VTANR5L15V3272": "C",
+  "VTANR5L15V3273": "P",
+  "VTANR5L15V3280": "A",
+  "VTANR5L15V3281": "C",
+  "VTANR5L15V3282": "C",
+  "VTANR5L15V3292": "C",
+  "VTANR5L15V3293": "P",
+  "VTANR5L15V3294": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3309": "C",
+  "VTANR5L15V3315": "P",
+  "VTANR5L15V3316": "P",
+  "VTANR5L15V3331": "P",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3379": "P",
+  "VTANR5L15V3395": "C",
+  "VTANR5L15V3396": "C",
+  "VTANR5L15V3398": "P",
+  "VTANR5L15V3409": "P",
+  "VTANR5L15V3410": "P",
+  "VTANR5L15V3411": "P",
+  "VTANR5L15V3412": "P",
+  "VTANR5L15V3413": "P",
+  "VTANR5L15V3415": "P",
+  "VTANR5L15V3416": "P",
+  "VTANR5L15V3417": "P",
+  "VTANR5L15V3418": "P",
+  "VTANR5L15V3419": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3424": "P",
+  "VTANR5L15V3425": "C",
+  "VTANR5L15V3426": "P",
+  "VTANR5L15V3427": "P",
+  "VTANR5L15V3430": "P",
+  "VTANR5L15V3431": "P",
+  "VTANR5L15V3432": "P",
+  "VTANR5L15V3436": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "P",
+  "VTANR5L15V3440": "P",
+  "VTANR5L15V3441": "P",
+  "VTANR5L15V3442": "P",
+  "VTANR5L15V3443": "P"
+ },
+ "twitter": {
+  "id": "865700310131630080",
+  "name": "GEISMAR Luc",
+  "public_metrics": {
+   "followers_count": 1390,
+   "following_count": 1132,
+   "listed_count": 15,
+   "tweet_count": 636
+  },
+  "username": "GeismarLuc"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "GeismarLuc"
+ },
+ "uid": "PA720006"
+}

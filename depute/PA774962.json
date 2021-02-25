@@ -1,0 +1,259 @@
+{
+ "an_data_depute": {
+  "dateNais": "1985-06-09",
+  "femme": true,
+  "ident": {
+   "alpha": "Lebon",
+   "civ": "Mme",
+   "nom": "Lebon",
+   "prenom": "Karine",
+   "trigramme": "KLE"
+  },
+  "nom": "Karine Lebon"
+ },
+ "an_www_depute": {
+  "groupe": "Gauche démocrate et républicaine",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774962.jpg",
+  "nosiege": "594"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA774962",
+  "civ": "Mme",
+  "communes": [
+   "La Possession (97419)",
+   "Le Port (La Réunion) (97420)",
+   "Saint-Paul (97411)",
+   "Saint-Paul (97422)",
+   "Saint-Paul (97423)",
+   "Saint-Paul (97434)",
+   "Saint-Paul (97435)",
+   "Saint-Paul (97460)"
+  ],
+  "departement": "La réunion",
+  "group": "Gauche démocrate et républicaine",
+  "nom": "Lebon",
+  "numCirco": "2",
+  "numDepartement": "974",
+  "prenom": "Karine"
+ },
+ "datan": "https://datan.fr/deputes/reunion-974/depute_karine-lebon",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 44,
+   "curRadiusIndex": 5,
+   "id": "ai44ri5",
+   "no": 594,
+   "polar": {
+    "angle": 2.9410654629351254,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.6124760656478667,
+    "y": -0.12451585376734234
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 19 Chaussée Royale 97460 Saint-Paul"
+   },
+   {
+    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "28/09/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Saint-Paul / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Evelyne Corbière"
+   }
+  ],
+  "date_naissance": "1985-06-09",
+  "emails": [
+   {
+    "email": "karine.lebon@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "GDR",
+  "id": 646,
+  "id_an": "774962",
+  "lieu_naissance": "Port (Réunion)",
+  "mandat_debut": "2020-09-28",
+  "nb_mandats": 1,
+  "nom": "Karine Lebon",
+  "nom_circo": "Réunion",
+  "nom_de_famille": "Lebon",
+  "num_circo": 2,
+  "num_deptmt": "974",
+  "parti_ratt_financier": "Parti communiste français",
+  "place_en_hemicycle": "594",
+  "prenom": "Karine",
+  "profession": "Professeure des écoles",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/KarineLebon"
+  ],
+  "slug": "karine-lebon",
+  "twitter": "KarineLebon",
+  "twitter_created_at": "2021-01-14T11:16:09",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Thu Jan 14 11:16:09 +0000 2021",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de la deuxième circonscription de la Réunion \nConseillère municipale à Saint-Paul (Réunion)\nSecrétaire générale à l’UFR (Union des Femmes Réunionnaises)",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 13,
+   "follow_request_sent": false,
+   "followers_count": 25,
+   "following": false,
+   "friends_count": 75,
+   "geo_enabled": false,
+   "has_extended_profile": true,
+   "id": 1349674527219982300,
+   "id_str": "1349674527219982336",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 0,
+   "location": "",
+   "name": "KARINE LEBON",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1349677114543501313/w3zHGsNc_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349677114543501313/w3zHGsNc_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "KarineLebon",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Feb 18 18:11:14 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1362464707618168836",
+       "indices": [
+        114,
+        137
+       ],
+       "url": "https://t.co/Y5R3NMoaVU"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 1362464707618168800,
+    "id_str": "1362464707618168836",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Proposition de loi concernant la lutte contre les violences sexuelles faites aux mineurs adoptée à l’unanimité !… https://t.co/Y5R3NMoaVU",
+    "truncated": true
+   },
+   "statuses_count": 14,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de la deuxième circonscription de la Réunion Conseillère municipale à Saint-Paul (Réunion) Secrétaire générale à l’UFR (Union des Femmes Réunionnaises)",
+  "twitter_favourites": 13,
+  "twitter_followers": 25,
+  "twitter_following": 75,
+  "twitter_id": 1349674527219982300,
+  "twitter_listed": 0,
+  "twitter_name": "KARINE LEBON",
+  "twitter_protected": false,
+  "twitter_tweets": 14,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774962",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774962",
+  "url_nosdeputes": "https://www.nosdeputes.fr/karine-lebon",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/karine-lebon/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Karine-Lebon",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774962",
+ "scrutins": {
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V3113": "A",
+  "VTANR5L15V3121": "P",
+  "VTANR5L15V3122": "A",
+  "VTANR5L15V3123": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3301": "P",
+  "VTANR5L15V3302": "C",
+  "VTANR5L15V3308": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "C",
+  "VTANR5L15V3433": "C",
+  "VTANR5L15V3434": "P",
+  "VTANR5L15V3435": "P",
+  "VTANR5L15V3436": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "A",
+  "VTANR5L15V3440": "P"
+ },
+ "twitter": {
+  "id": "1349674527219982336",
+  "name": "KARINE LEBON",
+  "public_metrics": {
+   "followers_count": 27,
+   "following_count": 75,
+   "listed_count": 1,
+   "tweet_count": 14
+  },
+  "username": "KarineLebon"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "KarineLebon"
+ },
+ "uid": "PA774962"
+}

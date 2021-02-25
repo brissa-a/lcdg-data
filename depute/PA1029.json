@@ -1,0 +1,381 @@
+{
+ "an_data_depute": {
+  "dateNais": "1953-10-16",
+  "femme": false,
+  "ident": {
+   "alpha": "Deflesselles",
+   "civ": "M.",
+   "nom": "Deflesselles",
+   "prenom": "Bernard",
+   "trigramme": "BDF"
+  },
+  "nom": "Bernard Deflesselles"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1029.jpg",
+  "nosiege": "88"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/bernarddeflesselles/",
+  "twitter_link": "https://twitter.com/@BDeflesselles/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA1029",
+  "civ": "M.",
+  "communes": [
+   "Aubagne (13400)",
+   "Carnoux-en-Provence (13470)",
+   "Cassis (13260)",
+   "Ceyreste (13600)",
+   "Cuges-les-Pins (13780)",
+   "Gémenos (13420)",
+   "La Ciotat (13600)",
+   "La Penne-sur-Huveaune (13821)",
+   "Roquefort-la-Bédoule (13830)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Les Républicains",
+  "nom": "Deflesselles",
+  "numCirco": "9",
+  "numDepartement": "13",
+  "prenom": "Bernard"
+ },
+ "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_bernard-deflesselles",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 7,
+   "curRadiusIndex": 3,
+   "id": "ai7ri3",
+   "no": 88,
+   "polar": {
+    "angle": 0.6872233929727672,
+    "radius": 0.5
+   },
+   "pos": {
+    "x": 0.3865052266813685,
+    "y": -0.31725935481143713
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "4 Rue Chaulan, 13400 Aubagne Téléphone : 04 42 82 20 10"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "29/03/1999 / 18/06/2002 / fin de législature"
+   },
+   {
+    "mandat": "21/06/2017 /  / "
+   },
+   {
+    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
+   },
+   {
+    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
+   },
+   {
+    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Provence-Alpes-Côte d'Azur / Conseil régional / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Stéphanie Mayadoux"
+   },
+   {
+    "collaborateur": "Mme Stéphanie Montredon"
+   },
+   {
+    "collaborateur": "Mme Judith Dossemont"
+   },
+   {
+    "collaborateur": "M. Jean-Laurent Méfret"
+   }
+  ],
+  "date_naissance": "1953-10-16",
+  "emails": [
+   {
+    "email": "contact@bernarddeflesselles.com"
+   },
+   {
+    "email": "bernard.deflesselles@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 134,
+  "id_an": "1029",
+  "lieu_naissance": "Paris 6ème (Paris)",
+  "mandat_debut": "2017-06-21",
+  "nb_mandats": 1,
+  "nom": "Bernard Deflesselles",
+  "nom_circo": "Bouches-du-Rhône",
+  "nom_de_famille": "Deflesselles",
+  "num_circo": 9,
+  "num_deptmt": "13",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "88",
+  "prenom": "Bernard",
+  "profession": "Ingénieur",
+  "sexe": "H",
+  "sites_web": [
+   "https://twitter.com/BDeflesselles",
+   "http://www.bernarddeflesselles.com",
+   "https://fr-fr.facebook.com/bernarddeflesselles"
+  ],
+  "slug": "bernard-deflesselles",
+  "twitter": "BDeflesselles",
+  "twitter_created_at": "2016-01-19T15:22:48",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Jan 19 15:22:48 +0000 2016",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Député de la 9e circo des BdR - Vice-Président de la commission @AN_AfEur de l’@assembleenat • Conseiller métropolitain • Conseiller municipal de #La_Ciotat",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "bernarddeflesselles.com",
+       "expanded_url": "http://www.bernarddeflesselles.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/foXvrO7wFw"
+      }
+     ]
+    }
+   },
+   "favourites_count": 130,
+   "follow_request_sent": false,
+   "followers_count": 1695,
+   "following": false,
+   "friends_count": 168,
+   "geo_enabled": true,
+   "has_extended_profile": true,
+   "id": 4826853935,
+   "id_str": "4826853935",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 100,
+   "location": "Bouches-du-Rhône",
+   "name": "Bernard Deflesselles",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4826853935/1475500505",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/916210041576968192/fdHQJ1ud_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/916210041576968192/fdHQJ1ud_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "BDeflesselles",
+   "statuses_count": 668,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/foXvrO7wFw",
+   "utc_offset": null,
+   "verified": true
+  },
+  "twitter_description": "Député de la 9e circo des BdR - Vice-Président de la commission @AN_AfEur de l’@assembleenat • Conseiller métropolitain • Conseiller municipal de #La_Ciotat",
+  "twitter_favourites": 130,
+  "twitter_followers": 1695,
+  "twitter_following": 168,
+  "twitter_id": 4826853935,
+  "twitter_listed": 100,
+  "twitter_name": "Bernard Deflesselles",
+  "twitter_protected": false,
+  "twitter_tweets": 668,
+  "twitter_verified": true,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029",
+  "url_nosdeputes": "https://www.nosdeputes.fr/bernard-deflesselles",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/bernard-deflesselles/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Bernard-Deflesselles",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029",
+ "scrutins": {
+  "VTANR5L15V1": "C",
+  "VTANR5L15V1017": "C",
+  "VTANR5L15V106": "P",
+  "VTANR5L15V1114": "P",
+  "VTANR5L15V1171": "P",
+  "VTANR5L15V1181": "C",
+  "VTANR5L15V119": "C",
+  "VTANR5L15V1209": "A",
+  "VTANR5L15V1263": "C",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V138": "P",
+  "VTANR5L15V139": "C",
+  "VTANR5L15V1429": "C",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1536": "C",
+  "VTANR5L15V1585": "P",
+  "VTANR5L15V1633": "C",
+  "VTANR5L15V1634": "C",
+  "VTANR5L15V1662": "P",
+  "VTANR5L15V1709": "C",
+  "VTANR5L15V1711": "C",
+  "VTANR5L15V1814": "C",
+  "VTANR5L15V183": "C",
+  "VTANR5L15V184": "C",
+  "VTANR5L15V1840": "C",
+  "VTANR5L15V1912": "A",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1941": "C",
+  "VTANR5L15V1957": "A",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V2039": "P",
+  "VTANR5L15V2042": "P",
+  "VTANR5L15V2047": "A",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2071": "C",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V208": "C",
+  "VTANR5L15V2130": "P",
+  "VTANR5L15V2131": "P",
+  "VTANR5L15V2146": "C",
+  "VTANR5L15V2147": "P",
+  "VTANR5L15V2177": "C",
+  "VTANR5L15V2235": "C",
+  "VTANR5L15V2307": "C",
+  "VTANR5L15V2329": "A",
+  "VTANR5L15V2337": "C",
+  "VTANR5L15V2338": "P",
+  "VTANR5L15V2466": "A",
+  "VTANR5L15V2467": "P",
+  "VTANR5L15V2642": "P",
+  "VTANR5L15V2706": "P",
+  "VTANR5L15V272": "C",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "A",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "P",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "A",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2751": "C",
+  "VTANR5L15V2752": "C",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "C",
+  "VTANR5L15V2761": "C",
+  "VTANR5L15V2762": "C",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2960": "P",
+  "VTANR5L15V2961": "C",
+  "VTANR5L15V2962": "C",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3067": "A",
+  "VTANR5L15V3068": "C",
+  "VTANR5L15V3069": "C",
+  "VTANR5L15V3070": "A",
+  "VTANR5L15V3071": "A",
+  "VTANR5L15V3072": "A",
+  "VTANR5L15V3073": "A",
+  "VTANR5L15V3074": "A",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V314": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3192": "C",
+  "VTANR5L15V3193": "P",
+  "VTANR5L15V3194": "C",
+  "VTANR5L15V3195": "C",
+  "VTANR5L15V3196": "P",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3308": "A",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "A",
+  "VTANR5L15V345": "C",
+  "VTANR5L15V351": "C",
+  "VTANR5L15V365": "A",
+  "VTANR5L15V389": "P",
+  "VTANR5L15V407": "C",
+  "VTANR5L15V419": "P",
+  "VTANR5L15V433": "A",
+  "VTANR5L15V477": "P",
+  "VTANR5L15V483": "C",
+  "VTANR5L15V729": "A",
+  "VTANR5L15V822": "P",
+  "VTANR5L15V928": "C",
+  "VTANR5L15V942": "P",
+  "VTANR5L15V974": "C"
+ },
+ "twitter": {
+  "id": "4826853935",
+  "name": "Bernard Deflesselles",
+  "public_metrics": {
+   "followers_count": 1696,
+   "following_count": 168,
+   "listed_count": 98,
+   "tweet_count": 669
+  },
+  "username": "BDeflesselles"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "BDeflesselles"
+ },
+ "uid": "PA1029"
+}

@@ -1,0 +1,380 @@
+{
+ "an_data_depute": {
+  "dateNais": "1963-01-11",
+  "femme": true,
+  "ident": {
+   "alpha": "Six",
+   "civ": "Mme",
+   "nom": "Six",
+   "prenom": "Valérie",
+   "trigramme": "VSI"
+  },
+  "nom": "Valérie Six"
+ },
+ "an_www_depute": {
+  "groupe": "UDI et Indépendants",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720488.jpg",
+  "nosiege": "113"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/ValerieSixAN//",
+  "twitter_link": "https://twitter.com/@six_valerie/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA720488",
+  "civ": "Mme",
+  "communes": [
+   "Croix (Nord) (59170)",
+   "Hem (59510)",
+   "Lannoy (59390)",
+   "Leers (59115)",
+   "Lys-lez-Lannoy (59390)",
+   "Roubaix (59100)",
+   "Toufflers (59390)",
+   "Wasquehal (59290)"
+  ],
+  "departement": "Nord",
+  "group": "UDI et Indépendants",
+  "nom": "Six",
+  "numCirco": "7",
+  "numDepartement": "59",
+  "prenom": "Valérie"
+ },
+ "datan": "https://datan.fr/deputes/nord-59/depute_valerie-six",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 11,
+   "curRadiusIndex": 7,
+   "id": "ai11ri7",
+   "no": 113,
+   "polar": {
+    "angle": 0.6520286639525986,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.5961408310600149,
+    "y": -0.4551900868930851
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire Résidence Flandres Entrée 19 59170 Croix"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "23/06/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Hauts-de-France / Conseil régional / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Juliette Lorthoy"
+   },
+   {
+    "collaborateur": "Mme Romanie Tiberghien"
+   },
+   {
+    "collaborateur": "Mme Kelly Verkindere"
+   }
+  ],
+  "date_naissance": "1963-01-11",
+  "emails": [
+   {
+    "email": "valerie.six@assemblee-nationale.fr"
+   },
+   {
+    "email": "contact@valerie-six.fr"
+   }
+  ],
+  "groupe_sigle": "UDI",
+  "id": 618,
+  "id_an": "720488",
+  "lieu_naissance": "Séclin (Nord)",
+  "mandat_debut": "2020-06-23",
+  "nb_mandats": 1,
+  "nom": "Valérie Six",
+  "nom_circo": "Nord",
+  "nom_de_famille": "Six",
+  "num_circo": 7,
+  "num_deptmt": "59",
+  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
+  "place_en_hemicycle": "113",
+  "prenom": "Valérie",
+  "profession": "Pharmacienne",
+  "sexe": "F",
+  "sites_web": [
+   "http://valerie-six.fr",
+   "https://twitter.com/six_valerie",
+   "https://fr-fr.facebook.com/ValerieSixAN"
+  ],
+  "slug": "valerie-six",
+  "twitter": "six_valerie",
+  "twitter_created_at": "2017-08-29T10:00:25",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Aug 29 10:00:25 +0000 2017",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de la 7e circonscription du Nord #UDI - Membre @AN_AfSoc - Conseillère Régionale Hauts de France #HDF #Autravail\nhttps://t.co/64kYEmFe2Q",
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "display_url": "facebook.com/ValerieSixAN",
+       "expanded_url": "https://www.facebook.com/ValerieSixAN",
+       "indices": [
+        121,
+        144
+       ],
+       "url": "https://t.co/64kYEmFe2Q"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "valerie-six.fr",
+       "expanded_url": "http://valerie-six.fr",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/KF3HsypIIG"
+      }
+     ]
+    }
+   },
+   "favourites_count": 1419,
+   "follow_request_sent": false,
+   "followers_count": 737,
+   "following": false,
+   "friends_count": 624,
+   "geo_enabled": false,
+   "has_extended_profile": true,
+   "id": 902470987765211100,
+   "id_str": "902470987765211137",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 20,
+   "location": "",
+   "name": "Valérie Six",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/902470987765211137/1592864429",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1275191953106317315/YI3rJEPF_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275191953106317315/YI3rJEPF_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "six_valerie",
+   "statuses_count": 822,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/KF3HsypIIG",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de la 7e circonscription du Nord #UDI - Membre @AN_AfSoc - Conseillère Régionale Hauts de France #HDF #Autravail https://t.co/64kYEmFe2Q",
+  "twitter_favourites": 1419,
+  "twitter_followers": 737,
+  "twitter_following": 624,
+  "twitter_id": 902470987765211100,
+  "twitter_listed": 20,
+  "twitter_name": "Valérie Six",
+  "twitter_protected": false,
+  "twitter_tweets": 822,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488",
+  "url_nosdeputes": "https://www.nosdeputes.fr/valerie-six",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/valerie-six/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Valérie-Six",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488",
+ "scrutins": {
+  "VTANR5L15V2766": "P",
+  "VTANR5L15V2814": "A",
+  "VTANR5L15V2816": "A",
+  "VTANR5L15V2817": "P",
+  "VTANR5L15V2818": "P",
+  "VTANR5L15V2819": "P",
+  "VTANR5L15V2820": "P",
+  "VTANR5L15V2821": "P",
+  "VTANR5L15V2822": "C",
+  "VTANR5L15V2823": "C",
+  "VTANR5L15V2824": "C",
+  "VTANR5L15V2825": "C",
+  "VTANR5L15V2826": "C",
+  "VTANR5L15V2827": "P",
+  "VTANR5L15V2829": "P",
+  "VTANR5L15V2830": "C",
+  "VTANR5L15V2842": "P",
+  "VTANR5L15V2848": "P",
+  "VTANR5L15V2849": "C",
+  "VTANR5L15V2850": "C",
+  "VTANR5L15V2851": "C",
+  "VTANR5L15V2853": "C",
+  "VTANR5L15V2854": "C",
+  "VTANR5L15V2856": "C",
+  "VTANR5L15V2857": "P",
+  "VTANR5L15V2858": "P",
+  "VTANR5L15V2859": "P",
+  "VTANR5L15V2860": "P",
+  "VTANR5L15V2861": "P",
+  "VTANR5L15V2862": "P",
+  "VTANR5L15V2863": "A",
+  "VTANR5L15V2864": "A",
+  "VTANR5L15V2865": "P",
+  "VTANR5L15V2890": "P",
+  "VTANR5L15V2891": "P",
+  "VTANR5L15V2892": "P",
+  "VTANR5L15V2940": "A",
+  "VTANR5L15V2941": "P",
+  "VTANR5L15V2947": "P",
+  "VTANR5L15V2948": "C",
+  "VTANR5L15V2949": "C",
+  "VTANR5L15V2950": "C",
+  "VTANR5L15V2951": "P",
+  "VTANR5L15V2952": "C",
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V2992": "P",
+  "VTANR5L15V2993": "C",
+  "VTANR5L15V2994": "C",
+  "VTANR5L15V2995": "C",
+  "VTANR5L15V2996": "C",
+  "VTANR5L15V2997": "C",
+  "VTANR5L15V2998": "P",
+  "VTANR5L15V2999": "P",
+  "VTANR5L15V3001": "P",
+  "VTANR5L15V3002": "P",
+  "VTANR5L15V3004": "C",
+  "VTANR5L15V3005": "C",
+  "VTANR5L15V3006": "P",
+  "VTANR5L15V3007": "P",
+  "VTANR5L15V3008": "P",
+  "VTANR5L15V3009": "P",
+  "VTANR5L15V3010": "C",
+  "VTANR5L15V3011": "P",
+  "VTANR5L15V3012": "P",
+  "VTANR5L15V3013": "P",
+  "VTANR5L15V3015": "P",
+  "VTANR5L15V3016": "P",
+  "VTANR5L15V3017": "C",
+  "VTANR5L15V3018": "C",
+  "VTANR5L15V3019": "C",
+  "VTANR5L15V3020": "P",
+  "VTANR5L15V3021": "P",
+  "VTANR5L15V3022": "P",
+  "VTANR5L15V3023": "P",
+  "VTANR5L15V3024": "C",
+  "VTANR5L15V3025": "P",
+  "VTANR5L15V3026": "P",
+  "VTANR5L15V3059": "A",
+  "VTANR5L15V3064": "C",
+  "VTANR5L15V3065": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3088": "C",
+  "VTANR5L15V3089": "C",
+  "VTANR5L15V3090": "P",
+  "VTANR5L15V3091": "C",
+  "VTANR5L15V3093": "C",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3111": "P",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V3115": "A",
+  "VTANR5L15V3116": "C",
+  "VTANR5L15V3117": "P",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3245": "C",
+  "VTANR5L15V3246": "C",
+  "VTANR5L15V3247": "C",
+  "VTANR5L15V3248": "C",
+  "VTANR5L15V3249": "C",
+  "VTANR5L15V3250": "C",
+  "VTANR5L15V3251": "C",
+  "VTANR5L15V3252": "C",
+  "VTANR5L15V3253": "C",
+  "VTANR5L15V3254": "A",
+  "VTANR5L15V3255": "C",
+  "VTANR5L15V3256": "C",
+  "VTANR5L15V3257": "C",
+  "VTANR5L15V3258": "C",
+  "VTANR5L15V3259": "P",
+  "VTANR5L15V3260": "P",
+  "VTANR5L15V3268": "C",
+  "VTANR5L15V3269": "A",
+  "VTANR5L15V3270": "P",
+  "VTANR5L15V3271": "C",
+  "VTANR5L15V3272": "P",
+  "VTANR5L15V3273": "A",
+  "VTANR5L15V3274": "P",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "P",
+  "VTANR5L15V3278": "P",
+  "VTANR5L15V3295": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3395": "P",
+  "VTANR5L15V3396": "A",
+  "VTANR5L15V3397": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3423": "P",
+  "VTANR5L15V3424": "C",
+  "VTANR5L15V3425": "P",
+  "VTANR5L15V3426": "P",
+  "VTANR5L15V3427": "P",
+  "VTANR5L15V3428": "P",
+  "VTANR5L15V3429": "P",
+  "VTANR5L15V3430": "P",
+  "VTANR5L15V3431": "P",
+  "VTANR5L15V3432": "P"
+ },
+ "twitter": {
+  "id": "902470987765211137",
+  "name": "Valérie Six",
+  "public_metrics": {
+   "followers_count": 740,
+   "following_count": 626,
+   "listed_count": 21,
+   "tweet_count": 824
+  },
+  "username": "six_valerie"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "six_valerie"
+ },
+ "uid": "PA720488"
+}

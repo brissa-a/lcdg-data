@@ -1,0 +1,73 @@
+{
+ "an_data_depute": {
+  "dateNais": "1979-04-06",
+  "femme": true,
+  "ident": {
+   "alpha": "Gatel",
+   "civ": "Mme",
+   "nom": "Gatel",
+   "prenom": "Maud",
+   "trigramme": "GAM"
+  },
+  "nom": "Maud Gatel"
+ },
+ "an_www_depute": {
+  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721760.jpg",
+  "nosiege": "257"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721760",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 14eme arrondissement (75014)",
+   "Paris 6eme arrondissement (75006)"
+  ],
+  "departement": "Paris",
+  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "nom": "Gatel",
+  "numCirco": "11",
+  "numDepartement": "75",
+  "prenom": "Maud"
+ },
+ "datan": "https://datan.fr/deputes/paris-75/depute_maud-gatel",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 15,
+   "curRadiusIndex": 4,
+   "id": "ai15ri4",
+   "no": 257,
+   "polar": {
+    "angle": 1.208304866765305,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.19946524896142637,
+    "y": -0.5260506210577675
+   }
+  }
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Maud-Gatel",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721760",
+ "scrutins": {
+  "VTANR5L15V3328": "P",
+  "VTANR5L15V3329": "P",
+  "VTANR5L15V3395": "C",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3427": "P",
+  "VTANR5L15V3428": "P",
+  "VTANR5L15V3429": "P",
+  "VTANR5L15V3430": "P",
+  "VTANR5L15V3431": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "C",
+  "VTANR5L15V3440": "P"
+ },
+ "twitter_username": "maudgatel",
+ "uid": "PA721760"
+}

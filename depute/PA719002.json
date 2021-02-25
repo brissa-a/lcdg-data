@@ -1,0 +1,517 @@
+{
+ "an_data_depute": {
+  "dateNais": "1978-02-16",
+  "femme": false,
+  "ident": {
+   "alpha": "Ravier",
+   "civ": "M.",
+   "nom": "Ravier",
+   "prenom": "Julien",
+   "trigramme": "JRV"
+  },
+  "nom": "Julien Ravier"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719002.jpg",
+  "nosiege": "153"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA719002",
+  "civ": "M.",
+  "communes": [
+   "Marseille",
+   "Marseille 10eme arrondissement (13010)",
+   "Marseille 11eme arrondissement (13011)",
+   "Marseille 12eme arrondissement (13012)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Les Républicains",
+  "nom": "Ravier",
+  "numCirco": "1",
+  "numDepartement": "13",
+  "prenom": "Julien"
+ },
+ "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_julien-ravier",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 12,
+   "curRadiusIndex": 11,
+   "id": "ai12ri11",
+   "no": 153,
+   "polar": {
+    "angle": 0.47720394738072813,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.8882826127491319,
+    "y": -0.4593880965736568
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "08/10/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Marseille 6ème secteur / Conseil municipal / membre"
+   },
+   {
+    "mandat": "Métropole d'Aix-Marseille Provence /  / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Christine Esposito"
+   },
+   {
+    "collaborateur": "Mme Maud Antonellini"
+   },
+   {
+    "collaborateur": "M. Roger Pécout"
+   },
+   {
+    "collaborateur": "M. Louis Roussel"
+   }
+  ],
+  "date_naissance": "1978-02-16",
+  "emails": [
+   {
+    "email": "julien.ravier@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 647,
+  "id_an": "719002",
+  "lieu_naissance": "Marseille (Bouches-du-Rhône)",
+  "mandat_debut": "2020-10-08",
+  "nb_mandats": 2,
+  "nom": "Julien Ravier",
+  "nom_circo": "Bouches-du-Rhône",
+  "nom_de_famille": "Ravier",
+  "num_circo": 1,
+  "num_deptmt": "13",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "153",
+  "prenom": "Julien",
+  "profession": "Directeur des relations institutionnelles et médias",
+  "sexe": "H",
+  "sites_web": [
+   "https://twitter.com/JuRavier",
+   "https://www.facebook.com/julienravier1112"
+  ],
+  "slug": "julien-ravier",
+  "twitter": "JuRavier",
+  "twitter_created_at": "2013-03-26T13:42:08",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Mar 26 13:42:08 +0000 2013",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Député #LR de la 1ère circonscription des Bouches-du-Rhône Ancien maire de @marseille1112 Vice-Président du Conseil de Territoire Marseille-Provence",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "facebook.com/julienravier11…",
+       "expanded_url": "https://www.facebook.com/julienravier1112/",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/xRgT5vRXRZ"
+      }
+     ]
+    }
+   },
+   "favourites_count": 1694,
+   "follow_request_sent": false,
+   "followers_count": 2681,
+   "following": false,
+   "friends_count": 1910,
+   "geo_enabled": false,
+   "has_extended_profile": false,
+   "id": 1304097324,
+   "id_str": "1304097324",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 42,
+   "location": "Marseille, France",
+   "name": "Julien Ravier",
+   "notifications": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304097324/1594647751",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1280406620980289537/9Q6u5o2J_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280406620980289537/9Q6u5o2J_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "JuRavier",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 17 14:01:45 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 1247505375148093400,
+       "id_str": "1247505375148093441",
+       "indices": [
+        3,
+        10
+       ],
+       "name": "AFASH",
+       "screen_name": "AFASH_"
+      },
+      {
+       "id": 1247505375148093400,
+       "id_str": "1247505375148093441",
+       "indices": [
+        15,
+        22
+       ],
+       "name": "AFASH",
+       "screen_name": "AFASH_"
+      },
+      {
+       "id": 1304097324,
+       "id_str": "1304097324",
+       "indices": [
+        51,
+        60
+       ],
+       "name": "Julien Ravier",
+       "screen_name": "JuRavier"
+      },
+      {
+       "id": 600345740,
+       "id_str": "600345740",
+       "indices": [
+        105,
+        118
+       ],
+       "name": "Olivier Véran",
+       "screen_name": "olivierveran"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1362039535937421300,
+    "id_str": "1362039535937421314",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 4,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Wed Feb 17 13:46:09 +0000 2021",
+     "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1362035611046182921",
+        "indices": [
+         117,
+         140
+        ],
+        "url": "https://t.co/IT2ycTKVhH"
+       }
+      ],
+      "user_mentions": [
+       {
+        "id": 1247505375148093400,
+        "id_str": "1247505375148093441",
+        "indices": [
+         3,
+         10
+        ],
+        "name": "AFASH",
+        "screen_name": "AFASH_"
+       },
+       {
+        "id": 1304097324,
+        "id_str": "1304097324",
+        "indices": [
+         39,
+         48
+        ],
+        "name": "Julien Ravier",
+        "screen_name": "JuRavier"
+       },
+       {
+        "id": 600345740,
+        "id_str": "600345740",
+        "indices": [
+         93,
+         106
+        ],
+        "name": "Olivier Véran",
+        "screen_name": "olivierveran"
+       }
+      ]
+     },
+     "favorite_count": 9,
+     "favorited": false,
+     "geo": null,
+     "id": 1362035611046183000,
+     "id_str": "1362035611046182921",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 4,
+     "retweeted": false,
+     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+     "text": "L' @AFASH_ remercie Monsieur le Député @JuRavier pour son intervention. Monsieur le Ministre @olivierveran et le mi… https://t.co/IT2ycTKVhH",
+     "truncated": true
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @AFASH_: L' @AFASH_ remercie Monsieur le Député @JuRavier pour son intervention. Monsieur le Ministre @olivierveran et le ministère @San…",
+    "truncated": false
+   },
+   "statuses_count": 1855,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/xRgT5vRXRZ",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Député #LR de la 1ère circonscription des Bouches-du-Rhône Ancien maire de @marseille1112 Vice-Président du Conseil de Territoire Marseille-Provence",
+  "twitter_favourites": 1694,
+  "twitter_followers": 2681,
+  "twitter_following": 1910,
+  "twitter_id": 1304097324,
+  "twitter_listed": 42,
+  "twitter_name": "Julien Ravier",
+  "twitter_protected": false,
+  "twitter_tweets": 1855,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719002",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719002",
+  "url_nosdeputes": "https://www.nosdeputes.fr/julien-ravier",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/julien-ravier/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Julien-Ravier",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719002",
+ "scrutins": {
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3108": "P",
+  "VTANR5L15V3109": "C",
+  "VTANR5L15V3110": "P",
+  "VTANR5L15V3111": "P",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3190": "C",
+  "VTANR5L15V3191": "P",
+  "VTANR5L15V3192": "C",
+  "VTANR5L15V3193": "P",
+  "VTANR5L15V3194": "C",
+  "VTANR5L15V3195": "C",
+  "VTANR5L15V3197": "A",
+  "VTANR5L15V3198": "P",
+  "VTANR5L15V3199": "P",
+  "VTANR5L15V3200": "P",
+  "VTANR5L15V3201": "P",
+  "VTANR5L15V3202": "P",
+  "VTANR5L15V3203": "P",
+  "VTANR5L15V3204": "P",
+  "VTANR5L15V3205": "C",
+  "VTANR5L15V3206": "P",
+  "VTANR5L15V3207": "C",
+  "VTANR5L15V3208": "P",
+  "VTANR5L15V3209": "C",
+  "VTANR5L15V3210": "P",
+  "VTANR5L15V3211": "C",
+  "VTANR5L15V3212": "C",
+  "VTANR5L15V3213": "C",
+  "VTANR5L15V3214": "C",
+  "VTANR5L15V3215": "C",
+  "VTANR5L15V3216": "C",
+  "VTANR5L15V3217": "C",
+  "VTANR5L15V3218": "C",
+  "VTANR5L15V3219": "P",
+  "VTANR5L15V3222": "C",
+  "VTANR5L15V3223": "P",
+  "VTANR5L15V3224": "C",
+  "VTANR5L15V3225": "P",
+  "VTANR5L15V3226": "P",
+  "VTANR5L15V3228": "P",
+  "VTANR5L15V3229": "P",
+  "VTANR5L15V3230": "P",
+  "VTANR5L15V3231": "P",
+  "VTANR5L15V3232": "P",
+  "VTANR5L15V3233": "P",
+  "VTANR5L15V3234": "C",
+  "VTANR5L15V3235": "C",
+  "VTANR5L15V3236": "C",
+  "VTANR5L15V3237": "C",
+  "VTANR5L15V3238": "C",
+  "VTANR5L15V3239": "C",
+  "VTANR5L15V3240": "C",
+  "VTANR5L15V3241": "C",
+  "VTANR5L15V3242": "C",
+  "VTANR5L15V3243": "C",
+  "VTANR5L15V3244": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "P",
+  "VTANR5L15V3278": "C",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3284": "C",
+  "VTANR5L15V3285": "C",
+  "VTANR5L15V3286": "C",
+  "VTANR5L15V3292": "P",
+  "VTANR5L15V3293": "A",
+  "VTANR5L15V3294": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3311": "P",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3346": "P",
+  "VTANR5L15V3347": "P",
+  "VTANR5L15V3348": "C",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "P",
+  "VTANR5L15V3352": "P",
+  "VTANR5L15V3353": "P",
+  "VTANR5L15V3354": "P",
+  "VTANR5L15V3355": "P",
+  "VTANR5L15V3356": "A",
+  "VTANR5L15V3357": "A",
+  "VTANR5L15V3358": "P",
+  "VTANR5L15V3359": "P",
+  "VTANR5L15V3360": "C",
+  "VTANR5L15V3361": "P",
+  "VTANR5L15V3362": "P",
+  "VTANR5L15V3363": "P",
+  "VTANR5L15V3364": "P",
+  "VTANR5L15V3365": "C",
+  "VTANR5L15V3366": "C",
+  "VTANR5L15V3367": "C",
+  "VTANR5L15V3368": "C",
+  "VTANR5L15V3369": "C",
+  "VTANR5L15V3370": "P",
+  "VTANR5L15V3371": "C",
+  "VTANR5L15V3372": "P",
+  "VTANR5L15V3373": "C",
+  "VTANR5L15V3374": "P",
+  "VTANR5L15V3375": "C",
+  "VTANR5L15V3376": "A",
+  "VTANR5L15V3377": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3380": "P",
+  "VTANR5L15V3381": "P",
+  "VTANR5L15V3382": "A",
+  "VTANR5L15V3383": "P",
+  "VTANR5L15V3384": "C",
+  "VTANR5L15V3385": "P",
+  "VTANR5L15V3386": "A",
+  "VTANR5L15V3387": "P",
+  "VTANR5L15V3388": "P",
+  "VTANR5L15V3389": "P",
+  "VTANR5L15V3390": "A",
+  "VTANR5L15V3391": "P",
+  "VTANR5L15V3392": "A",
+  "VTANR5L15V3395": "P",
+  "VTANR5L15V3396": "C",
+  "VTANR5L15V3397": "P",
+  "VTANR5L15V3398": "A",
+  "VTANR5L15V3399": "C",
+  "VTANR5L15V3400": "P",
+  "VTANR5L15V3401": "C",
+  "VTANR5L15V3402": "C",
+  "VTANR5L15V3403": "C",
+  "VTANR5L15V3407": "A",
+  "VTANR5L15V3408": "A",
+  "VTANR5L15V3409": "C",
+  "VTANR5L15V3410": "C",
+  "VTANR5L15V3411": "A",
+  "VTANR5L15V3412": "A",
+  "VTANR5L15V3413": "C",
+  "VTANR5L15V3414": "P",
+  "VTANR5L15V3415": "P",
+  "VTANR5L15V3416": "C",
+  "VTANR5L15V3417": "P",
+  "VTANR5L15V3418": "P",
+  "VTANR5L15V3419": "C",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "P"
+ },
+ "twitter": {
+  "id": "1304097324",
+  "name": "Julien Ravier",
+  "public_metrics": {
+   "followers_count": 2687,
+   "following_count": 1910,
+   "listed_count": 41,
+   "tweet_count": 1855
+  },
+  "username": "JuRavier"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "JuRavier"
+ },
+ "uid": "PA719002"
+}

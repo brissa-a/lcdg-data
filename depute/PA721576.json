@@ -1,0 +1,331 @@
+{
+ "an_data_depute": {
+  "dateNais": "1957-07-03",
+  "femme": true,
+  "ident": {
+   "alpha": "BouchetBellecourt",
+   "civ": "Mme",
+   "nom": "Bouchet Bellecourt",
+   "prenom": "Sylvie",
+   "trigramme": "SBOU"
+  },
+  "nom": "Sylvie Bouchet Bellecourt"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721576.jpg",
+  "nosiege": "25"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721576",
+  "civ": "Mme",
+  "communes": [
+   "Achères-la-Forêt (77760)",
+   "Amponville (77760)",
+   "Arville (Seine-et-Marne) (77890)",
+   "Aufferville (77570)",
+   "Avon (Seine-et-Marne) (77210)",
+   "Bagneaux-sur-Loing (77167)",
+   "Beaumont-du-Gâtinais (77890)",
+   "Blennes (77940)",
+   "Bois-le-Roi (Seine-et-Marne) (77590)",
+   "Boissy-aux-Cailles (77760)",
+   "Bougligny (77570)",
+   "Boulancourt (77760)",
+   "Bourron-Marlotte (77780)",
+   "Bransles (77620)",
+   "Burcy (77760)",
+   "Buthiers (Seine-et-Marne) (77760)",
+   "Chaintreaux (77460)",
+   "Chenou (77570)",
+   "Chevrainvilliers (77760)",
+   "Chevry-en-Sereine (77710)",
+   "Château-Landon (77570)",
+   "Châtenoy (Seine-et-Marne) (77167)",
+   "Darvault (77140)",
+   "Diant (77940)",
+   "Egreville (77620)",
+   "Faÿ-lès-Nemours (77167)",
+   "Flagy (Seine-et-Marne) (77940)",
+   "Fontainebleau (77300)",
+   "Fromont (77760)",
+   "Garentreville (77890)",
+   "Gironville (77890)",
+   "Grez-sur-Loing (77880)",
+   "Guercheville (77760)",
+   "Héricy (77850)",
+   "Ichy (77890)",
+   "La Chapelle-la-Reine (77760)",
+   "La Genevraye (77690)",
+   "La Madeleine-sur-Loing (77570)",
+   "Larchant (77760)",
+   "Le Vaudoué (77123)",
+   "Lorrez-le-Bocage-Préaux (77710)",
+   "Maisoncelles-en-Gâtinais (77570)",
+   "Mondreville (Seine-et-Marne) (77570)",
+   "Montcourt-Fromonville (77140)",
+   "Montmachoux (77940)",
+   "Nanteau-sur-Essonne (77760)",
+   "Nanteau-sur-Lunain (77710)",
+   "Nemours (77140)",
+   "Noisy-Rudignon (77940)",
+   "Noisy-sur-Ecole (77123)",
+   "Nonville (Seine-et-Marne) (77140)",
+   "Obsonville (77890)",
+   "Ormesson (77167)",
+   "Paley (77710)",
+   "Poligny (Seine-et-Marne) (77167)",
+   "Recloses (77760)",
+   "Remauville (77710)",
+   "Rumont (Seine-et-Marne) (77760)",
+   "Saint-Ange-le-Viel (77710)",
+   "Saint-Pierre-lès-Nemours (77140)",
+   "Samois-sur-Seine (77920)",
+   "Samoreau (77210)",
+   "Souppes-sur-Loing (77460)",
+   "Thoury-Férottes (77940)",
+   "Tousson (77123)",
+   "Treuzy-Levelay (77710)",
+   "Ury (77760)",
+   "Vaux-sur-Lunain (77710)",
+   "Villebéon (77710)",
+   "Villemaréchal (77710)",
+   "Villiers-sous-Grez (77760)",
+   "Voulx (77940)",
+   "Vulaines-sur-Seine (77870)"
+  ],
+  "departement": "Seine-et-marne",
+  "group": "Les Républicains",
+  "nom": "Bouchet Bellecourt",
+  "numCirco": "2",
+  "numDepartement": "77",
+  "prenom": "Sylvie"
+ },
+ "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_sylvie-bouchetbellecourt",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 2,
+   "curRadiusIndex": 6,
+   "id": "ai2ri6",
+   "no": 25,
+   "polar": {
+    "angle": 0.11855066617319975,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.6826745035092929,
+    "y": -0.08132888130710728
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 202 Rue grande 77300 Fontainebleau"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "23/06/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Héricy (Seine-et-Marne) /  / conseillère"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Charlotte Vaillot"
+   },
+   {
+    "collaborateur": "M. Pascal Aujard"
+   },
+   {
+    "collaborateur": "M. Pierre Ceugniet"
+   }
+  ],
+  "date_naissance": "1957-07-03",
+  "emails": [
+   {
+    "email": "sylvie.bouchetbellecourt@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 619,
+  "id_an": "721576",
+  "lieu_naissance": "Bondy (Seine-Inférieure)",
+  "mandat_debut": "2020-06-23",
+  "nb_mandats": 1,
+  "nom": "Sylvie Bouchet Bellecourt",
+  "nom_circo": "Seine-et-Marne",
+  "nom_de_famille": "Bouchet Bellecourt",
+  "num_circo": 2,
+  "num_deptmt": "77",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "25",
+  "prenom": "Sylvie",
+  "profession": "Infirmière libérale",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/SBouchetB"
+  ],
+  "slug": "sylvie-bouchet-bellecourt",
+  "twitter": "SBouchetB",
+  "twitter_created_at": "2020-06-23T17:21:35",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Jun 23 17:21:35 +0000 2020",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de Seine-et-Marne • Ancien Maire de Héricy",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 238,
+   "follow_request_sent": false,
+   "followers_count": 355,
+   "following": false,
+   "friends_count": 448,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 1275478906221576200,
+   "id_str": "1275478906221576193",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 9,
+   "location": "Seine-et-Marne, Ile-de-France",
+   "name": "Sylvie Bouchet Bellecourt",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275478906221576193/1593094570",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1323211100008140807/8jDo-Idv_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323211100008140807/8jDo-Idv_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "SBouchetB",
+   "statuses_count": 245,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de Seine-et-Marne • Ancien Maire de Héricy",
+  "twitter_favourites": 238,
+  "twitter_followers": 355,
+  "twitter_following": 448,
+  "twitter_id": 1275478906221576200,
+  "twitter_listed": 9,
+  "twitter_name": "Sylvie Bouchet Bellecourt",
+  "twitter_protected": false,
+  "twitter_tweets": 245,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721576",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721576",
+  "url_nosdeputes": "https://www.nosdeputes.fr/sylvie-bouchet-bellecourt",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/sylvie-bouchet-bellecourt/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Sylvie-Bouchet Bellecourt",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721576",
+ "scrutins": {
+  "VTANR5L15V2766": "P",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2931": "C",
+  "VTANR5L15V2932": "C",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3075": "C",
+  "VTANR5L15V3076": "P",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3108": "P",
+  "VTANR5L15V3111": "P",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V3144": "C",
+  "VTANR5L15V3145": "P",
+  "VTANR5L15V3146": "P",
+  "VTANR5L15V3147": "P",
+  "VTANR5L15V3148": "C",
+  "VTANR5L15V3149": "P",
+  "VTANR5L15V3150": "C",
+  "VTANR5L15V3151": "P",
+  "VTANR5L15V3152": "P",
+  "VTANR5L15V3164": "P",
+  "VTANR5L15V3165": "P",
+  "VTANR5L15V3166": "C",
+  "VTANR5L15V3167": "C",
+  "VTANR5L15V3168": "P",
+  "VTANR5L15V3169": "P",
+  "VTANR5L15V3170": "C",
+  "VTANR5L15V3171": "P",
+  "VTANR5L15V3172": "C",
+  "VTANR5L15V3173": "C",
+  "VTANR5L15V3174": "P",
+  "VTANR5L15V3175": "C",
+  "VTANR5L15V3176": "P",
+  "VTANR5L15V3177": "C",
+  "VTANR5L15V3178": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3321": "A",
+  "VTANR5L15V3322": "A",
+  "VTANR5L15V3323": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3395": "P",
+  "VTANR5L15V3397": "P",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "P"
+ },
+ "twitter": {
+  "id": "1275478906221576193",
+  "name": "Sylvie Bouchet Bellecourt",
+  "public_metrics": {
+   "followers_count": 357,
+   "following_count": 448,
+   "listed_count": 10,
+   "tweet_count": 245
+  },
+  "username": "SBouchetB"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "SBouchetB"
+ },
+ "uid": "PA721576"
+}

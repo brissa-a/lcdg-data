@@ -1,0 +1,401 @@
+{
+ "an_data_depute": {
+  "dateNais": "1950-07-11",
+  "femme": false,
+  "ident": {
+   "alpha": "Bouley",
+   "civ": "M.",
+   "nom": "Bouley",
+   "prenom": "Bernard",
+   "trigramme": "BBL"
+  },
+  "nom": "Bernard Bouley"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/604.jpg",
+  "nosiege": "47"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA604",
+  "civ": "M.",
+  "communes": [
+   "Abbéville-la-Rivière (91150)",
+   "Angerville (Essonne) (91670)",
+   "Arrancourt (91690)",
+   "Auvernaux (91830)",
+   "Ballancourt-sur-Essonne (91610)",
+   "Baulne (91590)",
+   "Blandy (Essonne) (91150)",
+   "Boigneville (91720)",
+   "Bois-Herpin (91150)",
+   "Boissy-la-Rivière (91690)",
+   "Boissy-le-Cutté (91590)",
+   "Boissy-le-Sec (91870)",
+   "Boutervilliers (91150)",
+   "Boutigny-sur-Essonne (91820)",
+   "Bouville (Essonne) (91880)",
+   "Brières-les-Scellés (91150)",
+   "Brouy (91150)",
+   "Buno-Bonnevaux (91720)",
+   "Cerny (91590)",
+   "Chalo-Saint-Mars (91780)",
+   "Chalou-Moulineux (91740)",
+   "Champcueil (91750)",
+   "Champmotteux (91150)",
+   "Chevannes (Essonne) (91750)",
+   "Congerville-Thionville (91740)",
+   "Courances (91490)",
+   "Courdimanche-sur-Essonne (91720)",
+   "D'Huison-Longueville (91590)",
+   "Dannemois (91490)",
+   "Echarcon (91540)",
+   "Estouches (91660)",
+   "Etampes (91150)",
+   "Fontaine-la-Rivière (91690)",
+   "Fontenay-le-Vicomte (91540)",
+   "Gironville-sur-Essonne (91720)",
+   "Guigneville-sur-Essonne (91590)",
+   "Guillerval (91690)",
+   "Itteville (91760)",
+   "La Ferté-Alais (91590)",
+   "La Forêt-Sainte-Croix (91150)",
+   "Le Coudray-Montceaux (91830)",
+   "Maisse (91720)",
+   "Marolles-en-Beauce (91150)",
+   "Mennecy (91540)",
+   "Mespuits (91150)",
+   "Milly-la-Forêt (91490)",
+   "Moigny-sur-Ecole (91490)",
+   "Mondeville (Essonne) (91590)",
+   "Monnerville (91930)",
+   "Morigny-Champigny (91150)",
+   "Méréville (Essonne) (91660)",
+   "Nainville-les-Roches (91750)",
+   "Oncy-sur-Ecole (91490)",
+   "Ormoy (Essonne) (91540)",
+   "Ormoy-la-Rivière (91150)",
+   "Orveau (91590)",
+   "Prunay-sur-Essonne (91720)",
+   "Puiselet-le-Marais (91150)",
+   "Pussay (91740)",
+   "Roinvilliers (91150)",
+   "Saclas (91690)",
+   "Saint-Cyr-la-Rivière (91690)",
+   "Saint-Hilaire (Essonne) (91780)",
+   "Soisy-sur-Ecole (91840)",
+   "Valpuiseaux (91720)",
+   "Vayres-sur-Essonne (91820)",
+   "Vert-le-Grand (91810)",
+   "Vert-le-Petit (91710)",
+   "Videlles (91890)"
+  ],
+  "departement": "Essonne",
+  "group": "Les Républicains",
+  "nom": "Bouley",
+  "numCirco": "2",
+  "numDepartement": "91",
+  "prenom": "Bernard"
+ },
+ "datan": "https://datan.fr/deputes/essonne-91/depute_bernard-bouley",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 0,
+   "curRadiusIndex": 9,
+   "id": "ai0ri9",
+   "no": 47,
+   "polar": {
+    "angle": 0,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.875,
+    "y": 0
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire 41 rue Langlois 91490 Milly-la-Forêt Téléphone : 01 69 89 03 66"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "05/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Deux Vallées / Communauté de communes / membre"
+   },
+   {
+    "mandat": "Milly-la-Forêt (Essonne) /  / conseiller"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Eric Sequert"
+   },
+   {
+    "collaborateur": "Mme Janique Joly"
+   },
+   {
+    "collaborateur": "M. Franck Marlin"
+   }
+  ],
+  "date_naissance": "1950-07-11",
+  "emails": [
+   {
+    "email": "bernard.bouley@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 630,
+  "id_an": "604",
+  "lieu_naissance": "Paris (Paris)",
+  "mandat_debut": "2020-08-05",
+  "nb_mandats": 2,
+  "nom": "Bernard Bouley",
+  "nom_circo": "Essonne",
+  "nom_de_famille": "Bouley",
+  "num_circo": 2,
+  "num_deptmt": "91",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "47",
+  "prenom": "Bernard",
+  "profession": "Chef d'entreprise",
+  "sexe": "H",
+  "sites_web": [
+   "http://bernardbouley.fr",
+   "https://twitter.com/BouleyBernard"
+  ],
+  "slug": "bernard-bouley",
+  "twitter": "BouleyBernard",
+  "twitter_created_at": "2017-05-24T11:36:11",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Wed May 24 11:36:11 +0000 2017",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Député de l'Essonne",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 35,
+   "follow_request_sent": false,
+   "followers_count": 55,
+   "following": false,
+   "friends_count": 41,
+   "geo_enabled": false,
+   "has_extended_profile": false,
+   "id": 867343466057130000,
+   "id_str": "867343466057129985",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 0,
+   "location": "",
+   "name": "BOULEY BERNARD",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/867343466057129985/1605801102",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1329451092086820864/zPgjOiOB_normal.png",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329451092086820864/zPgjOiOB_normal.png",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "BouleyBernard",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 12:53:45 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1364196749011800071",
+       "indices": [
+        116,
+        139
+       ],
+       "url": "https://t.co/ch3sBIxvMZ"
+      }
+     ],
+     "user_mentions": [
+      {
+       "id": 1289627183544258600,
+       "id_str": "1289627183544258560",
+       "indices": [
+        59,
+        74
+       ],
+       "name": "Hebert Gérard",
+       "screen_name": "gerardhebert91"
+      },
+      {
+       "id": 737938064765530100,
+       "id_str": "737938064765530112",
+       "indices": [
+        76,
+        88
+       ],
+       "name": "Guy CROSNIER",
+       "screen_name": "guycrosnier"
+      },
+      {
+       "id": 242045239,
+       "id_str": "242045239",
+       "indices": [
+        90,
+        106
+       ],
+       "name": "Johann MITTELHAUSSER",
+       "screen_name": "j_mittelhausser"
+      }
+     ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 1364196749011800000,
+    "id_str": "1364196749011800071",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Matinée aux «cressonnières de la Vallée de la Juine» avec  @gerardhebert91, @guycrosnier, @j_mittelhausser  et Guy… https://t.co/ch3sBIxvMZ",
+    "truncated": true
+   },
+   "statuses_count": 49,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Député de l'Essonne",
+  "twitter_favourites": 35,
+  "twitter_followers": 55,
+  "twitter_following": 41,
+  "twitter_id": 867343466057130000,
+  "twitter_listed": 0,
+  "twitter_name": "BOULEY BERNARD",
+  "twitter_protected": false,
+  "twitter_tweets": 49,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA604",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA604",
+  "url_nosdeputes": "https://www.nosdeputes.fr/bernard-bouley",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/bernard-bouley/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Bernard-Bouley",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA604",
+ "scrutins": {
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3109": "C",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V3163": "P",
+  "VTANR5L15V3164": "P",
+  "VTANR5L15V3165": "P",
+  "VTANR5L15V3166": "P",
+  "VTANR5L15V3167": "C",
+  "VTANR5L15V3168": "P",
+  "VTANR5L15V3169": "P",
+  "VTANR5L15V3170": "A",
+  "VTANR5L15V3171": "C",
+  "VTANR5L15V3172": "C",
+  "VTANR5L15V3173": "C",
+  "VTANR5L15V3174": "A",
+  "VTANR5L15V3175": "C",
+  "VTANR5L15V3176": "P",
+  "VTANR5L15V3177": "P",
+  "VTANR5L15V3178": "C",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3187": "C",
+  "VTANR5L15V3188": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3321": "A",
+  "VTANR5L15V3345": "A",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3382": "P",
+  "VTANR5L15V3383": "P",
+  "VTANR5L15V3420": "P",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3423": "P",
+  "VTANR5L15V3424": "P",
+  "VTANR5L15V3425": "C",
+  "VTANR5L15V3426": "P",
+  "VTANR5L15V3427": "P",
+  "VTANR5L15V3428": "P",
+  "VTANR5L15V3429": "P",
+  "VTANR5L15V3430": "P",
+  "VTANR5L15V3431": "C",
+  "VTANR5L15V3432": "P"
+ },
+ "twitter": {
+  "id": "867343466057129985",
+  "name": "BOULEY BERNARD",
+  "public_metrics": {
+   "followers_count": 56,
+   "following_count": 41,
+   "listed_count": 0,
+   "tweet_count": 49
+  },
+  "username": "BouleyBernard"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "BouleyBernard"
+ },
+ "uid": "PA604"
+}

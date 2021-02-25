@@ -1,0 +1,450 @@
+{
+ "an_data_depute": {
+  "dateNais": "1971-05-06",
+  "femme": true,
+  "ident": {
+   "alpha": "Keclard-Mondésir",
+   "civ": "Mme",
+   "nom": "Kéclard-Mondésir",
+   "prenom": "Manuéla",
+   "trigramme": "MMD"
+  },
+  "nom": "Manuéla Kéclard-Mondésir"
+ },
+ "an_www_depute": {
+  "groupe": "Gauche démocrate et républicaine",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721012.jpg",
+  "nosiege": "596"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721012",
+  "civ": "Mme",
+  "communes": [
+   "Basse-Pointe (97218)",
+   "Bellefontaine (Martinique) (97222)",
+   "Case-Pilote (97222)",
+   "Fonds-Saint-Denis (97250)",
+   "Grand'Rivière (97218)",
+   "L'Ajoupa-Bouillon (97216)",
+   "Le Carbet (97221)",
+   "Le Lorrain (97214)",
+   "Le Marigot (97225)",
+   "Le Morne-Rouge (97260)",
+   "Le Morne-Vert (97226)",
+   "Le Prêcheur (97250)",
+   "Macouba (97218)",
+   "Saint-Joseph (Martinique) (97212)",
+   "Saint-Pierre (Martinique) (97250)",
+   "Sainte-Marie (Martinique) (97230)",
+   "Schoelcher (97233)"
+  ],
+  "departement": "Martinique",
+  "group": "Gauche démocrate et républicaine",
+  "nom": "Kéclard-Mondésir",
+  "numCirco": "2",
+  "numDepartement": "972",
+  "prenom": "Manuéla"
+ },
+ "datan": "https://datan.fr/deputes/martinique-972/depute_manuela-keclardmondesir",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 46,
+   "curRadiusIndex": 5,
+   "id": "ai46ri5",
+   "no": 596,
+   "polar": {
+    "angle": 3.074750256704904,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.6236042991394707,
+    "y": -0.041753649544207065
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 95 Avenue du Général de Gaulle Grand Anse 97221 Carbet"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "24/04/2018 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Saint-Joseph / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Pascal Margueritte"
+   },
+   {
+    "collaborateur": "M. Bruno Daniel"
+   },
+   {
+    "collaborateur": "M. Jean-Simon Salvage"
+   }
+  ],
+  "date_naissance": "1971-05-06",
+  "emails": [
+   {
+    "email": "Manuela.Keclard-Mondesir@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "GDR",
+  "id": 590,
+  "id_an": "721012",
+  "lieu_naissance": "Lamentin (Martinique)",
+  "mandat_debut": "2018-04-24",
+  "nb_mandats": 1,
+  "nom": "Manuéla Kéclard-Mondésir",
+  "nom_circo": "Martinique",
+  "nom_de_famille": "Kéclard-Mondésir",
+  "num_circo": 2,
+  "num_deptmt": "972",
+  "parti_ratt_financier": "Parti communiste français",
+  "place_en_hemicycle": "596",
+  "prenom": "Manuéla",
+  "profession": "technicienne territoriale",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/KeclardManuela"
+  ],
+  "slug": "manuela-keclard-mondesir",
+  "twitter": "KeclardManuela",
+  "twitter_created_at": "2019-10-29T08:06:58",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Oct 29 08:06:58 +0000 2019",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de Martinique (Circonscription Nord),  Martiniquaise, De Saint-Joseph",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 32,
+   "follow_request_sent": false,
+   "followers_count": 129,
+   "following": false,
+   "friends_count": 101,
+   "geo_enabled": false,
+   "has_extended_profile": false,
+   "id": 1189091159701966800,
+   "id_str": "1189091159701966849",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 2,
+   "location": "",
+   "name": "Manuéla KÉCLARD-MONDÉSIR",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1189091159701966849/1576587025",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1189091755733467136/rUUMmpo4_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189091755733467136/rUUMmpo4_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "KeclardManuela",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 15 19:48:44 +0000 2020",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        18,
+        30
+       ],
+       "text": "Intempéries"
+      },
+      {
+       "indices": [
+        34,
+        45
+       ],
+       "text": "Martinique"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 3650038578,
+       "id_str": "3650038578",
+       "indices": [
+        3,
+        16
+       ],
+       "name": "Outremers360",
+       "screen_name": "outremers360"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1338934032327958500,
+    "id_str": "1338934032327958534",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 3,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Tue Dec 15 18:29:06 +0000 2020",
+     "entities": {
+      "hashtags": [
+       {
+        "indices": [
+         0,
+         12
+        ],
+        "text": "Intempéries"
+       },
+       {
+        "indices": [
+         16,
+         27
+        ],
+        "text": "Martinique"
+       }
+      ],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1338913992140582913",
+        "indices": [
+         117,
+         140
+        ],
+        "url": "https://t.co/XxpVmnGuD8"
+       }
+      ],
+      "user_mentions": []
+     },
+     "favorite_count": 3,
+     "favorited": false,
+     "geo": null,
+     "id": 1338913992140583000,
+     "id_str": "1338913992140582913",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 3,
+     "retweeted": false,
+     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+     "text": "#Intempéries en #Martinique : «Un nouvel arrêté englobant l’ensemble des cas d’indemnisation publié dans les procha… https://t.co/XxpVmnGuD8",
+     "truncated": true
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @outremers360: #Intempéries en #Martinique : «Un nouvel arrêté englobant l’ensemble des cas d’indemnisation publié dans les prochains jo…",
+    "truncated": false
+   },
+   "statuses_count": 62,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de Martinique (Circonscription Nord), Martiniquaise, De Saint-Joseph",
+  "twitter_favourites": 32,
+  "twitter_followers": 129,
+  "twitter_following": 101,
+  "twitter_id": 1189091159701966800,
+  "twitter_listed": 2,
+  "twitter_name": "Manuéla KÉCLARD-MONDÉSIR",
+  "twitter_protected": false,
+  "twitter_tweets": 62,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721012",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721012",
+  "url_nosdeputes": "https://www.nosdeputes.fr/manuela-keclard-mondesir",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/manuela-keclard-mondesir/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Manuéla-Kéclard-Mondésir",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721012",
+ "scrutins": {
+  "VTANR5L15V1171": "C",
+  "VTANR5L15V1209": "C",
+  "VTANR5L15V1210": "C",
+  "VTANR5L15V1211": "A",
+  "VTANR5L15V1212": "P",
+  "VTANR5L15V1213": "P",
+  "VTANR5L15V1217": "C",
+  "VTANR5L15V1219": "A",
+  "VTANR5L15V1220": "P",
+  "VTANR5L15V1221": "C",
+  "VTANR5L15V1222": "C",
+  "VTANR5L15V1223": "C",
+  "VTANR5L15V1224": "C",
+  "VTANR5L15V1225": "C",
+  "VTANR5L15V1226": "C",
+  "VTANR5L15V1227": "C",
+  "VTANR5L15V1228": "C",
+  "VTANR5L15V1263": "C",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V1331": "P",
+  "VTANR5L15V1333": "A",
+  "VTANR5L15V1334": "P",
+  "VTANR5L15V1337": "P",
+  "VTANR5L15V1338": "P",
+  "VTANR5L15V1429": "A",
+  "VTANR5L15V1430": "P",
+  "VTANR5L15V1431": "C",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1536": "C",
+  "VTANR5L15V1633": "C",
+  "VTANR5L15V1634": "C",
+  "VTANR5L15V1654": "P",
+  "VTANR5L15V1655": "P",
+  "VTANR5L15V1656": "P",
+  "VTANR5L15V1659": "P",
+  "VTANR5L15V1661": "P",
+  "VTANR5L15V1662": "C",
+  "VTANR5L15V1709": "A",
+  "VTANR5L15V1711": "C",
+  "VTANR5L15V1767": "C",
+  "VTANR5L15V1768": "P",
+  "VTANR5L15V1774": "A",
+  "VTANR5L15V1778": "P",
+  "VTANR5L15V1779": "P",
+  "VTANR5L15V1793": "C",
+  "VTANR5L15V1794": "C",
+  "VTANR5L15V1795": "C",
+  "VTANR5L15V1814": "A",
+  "VTANR5L15V1840": "P",
+  "VTANR5L15V1912": "C",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1957": "A",
+  "VTANR5L15V1988": "C",
+  "VTANR5L15V2039": "A",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2071": "C",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V2130": "C",
+  "VTANR5L15V2131": "C",
+  "VTANR5L15V2146": "C",
+  "VTANR5L15V2147": "P",
+  "VTANR5L15V2235": "A",
+  "VTANR5L15V2268": "P",
+  "VTANR5L15V2269": "P",
+  "VTANR5L15V2329": "P",
+  "VTANR5L15V2337": "A",
+  "VTANR5L15V2460": "P",
+  "VTANR5L15V2461": "P",
+  "VTANR5L15V2462": "P",
+  "VTANR5L15V2707": "P",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "C",
+  "VTANR5L15V2735": "C",
+  "VTANR5L15V2736": "C",
+  "VTANR5L15V2737": "A",
+  "VTANR5L15V2738": "A",
+  "VTANR5L15V2739": "P",
+  "VTANR5L15V2740": "A",
+  "VTANR5L15V2741": "A",
+  "VTANR5L15V2743": "A",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "A",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "C",
+  "VTANR5L15V2750": "A",
+  "VTANR5L15V2751": "P",
+  "VTANR5L15V2752": "P",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "A",
+  "VTANR5L15V2755": "C",
+  "VTANR5L15V2756": "C",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "A",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "P",
+  "VTANR5L15V2761": "P",
+  "VTANR5L15V2762": "P",
+  "VTANR5L15V2814": "A",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2992": "P",
+  "VTANR5L15V3006": "A",
+  "VTANR5L15V3007": "A",
+  "VTANR5L15V3008": "P",
+  "VTANR5L15V3009": "C",
+  "VTANR5L15V3010": "C",
+  "VTANR5L15V3011": "P",
+  "VTANR5L15V3012": "C",
+  "VTANR5L15V3013": "P",
+  "VTANR5L15V3015": "P",
+  "VTANR5L15V3016": "P",
+  "VTANR5L15V3025": "P",
+  "VTANR5L15V3026": "P",
+  "VTANR5L15V3059": "P",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3308": "C",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "C",
+  "VTANR5L15V729": "A",
+  "VTANR5L15V731": "P",
+  "VTANR5L15V823": "P",
+  "VTANR5L15V942": "C",
+  "VTANR5L15V974": "A",
+  "VTANR5L15V976": "P"
+ },
+ "twitter": {
+  "id": "1189091159701966849",
+  "name": "Manuéla KÉCLARD-MONDÉSIR",
+  "public_metrics": {
+   "followers_count": 130,
+   "following_count": 101,
+   "listed_count": 3,
+   "tweet_count": 62
+  },
+  "username": "KeclardManuela"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "KeclardManuela"
+ },
+ "uid": "PA721012"
+}

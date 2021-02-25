@@ -1,0 +1,509 @@
+{
+ "an_data_depute": {
+  "dateNais": "1979-03-05",
+  "femme": true,
+  "ident": {
+   "alpha": "Roques-Etienne",
+   "civ": "Mme",
+   "nom": "Roques-Etienne",
+   "prenom": "Muriel",
+   "trigramme": "MRQ"
+  },
+  "nom": "Muriel Roques-Etienne"
+ },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721538.jpg",
+  "nosiege": "469"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721538",
+  "civ": "Mme",
+  "communes": [
+   "Alban (81250)",
+   "Albi (81000)",
+   "Ambialet (81430)",
+   "Anglès (Tarn) (81260)",
+   "Arifat (81360)",
+   "Assac (81340)",
+   "Barre (81320)",
+   "Bellegarde-Marsal (81430)",
+   "Berlats (81260)",
+   "Brassac (Tarn) (81260)",
+   "Burlats (81100)",
+   "Cadix (81340)",
+   "Cambon (81990)",
+   "Cambounès (81260)",
+   "Carlus (81990)",
+   "Castres (81100)",
+   "Courris (81340)",
+   "Cunac (81990)",
+   "Curvalle (81250)",
+   "Dénat (81120)",
+   "Escroux (81530)",
+   "Espérausses (81260)",
+   "Fauch (81120)",
+   "Faussergues (81340)",
+   "Fontrieu (81260)",
+   "Frayssines (81340)",
+   "Fréjairolles (81990)",
+   "Gijounet (81530)",
+   "Laboutarie (81120)",
+   "Lacapelle-Pinet (81340)",
+   "Lacaune (81230)",
+   "Lacaze (81330)",
+   "Lacrouzette (81210)",
+   "Lamillarié (81120)",
+   "Lamontélarié (81260)",
+   "Lasfaillades (81260)",
+   "Le Bez (81260)",
+   "Le Dourn (81340)",
+   "Le Fraysse (81430)",
+   "Le Masnau-Massuguiès (81530)",
+   "Le Sequestre (81990)",
+   "Le Travet (81120)",
+   "Lombers (81120)",
+   "Lédas-et-Penthiès (81340)",
+   "Massals (81250)",
+   "Miolles (81250)",
+   "Mont-Roc (81120)",
+   "Montfa (Tarn) (81210)",
+   "Montredon-Labessonnié (81360)",
+   "Moulin-Mage (81320)",
+   "Mouzieys-Teulet (81430)",
+   "Murat-sur-Vèbre (81320)",
+   "Nages (81320)",
+   "Orban (81120)",
+   "Padiès (81340)",
+   "Paulinet (81250)",
+   "Poulan-Pouzols (81120)",
+   "Puygouzon (81990)",
+   "Rayssac (81330)",
+   "Ronel (81120)",
+   "Roquecourbe (81210)",
+   "Rouffiac (Tarn) (81150)",
+   "Roumégoux (Tarn) (81120)",
+   "Réalmont (81120)",
+   "Saint-André (Tarn) (81250)",
+   "Saint-Antonin-de-Lacalm (81120)",
+   "Saint-Cirgue (81340)",
+   "Saint-Germier (Tarn) (81210)",
+   "Saint-Jean-de-Vals (81210)",
+   "Saint-Julien-Gaulène (81340)",
+   "Saint-Juéry (Tarn) (81160)",
+   "Saint-Lieux-Lafenasse (81120)",
+   "Saint-Michel-Labadié (81340)",
+   "Saint-Pierre-de-Trivisy (81330)",
+   "Saint-Salvi-de-Carcavès (81530)",
+   "Saliès (81990)",
+   "Senaux (81530)",
+   "Sieurac (81120)",
+   "Teillet (81120)",
+   "Terre-Clapier (81120)",
+   "Trébas (81340)",
+   "Vabre (81330)",
+   "Valence-d'Albigeois (81340)",
+   "Viane (81530)",
+   "Villefranche-d'Albigeois (81430)"
+  ],
+  "departement": "Tarn",
+  "group": "La République en Marche",
+  "nom": "Roques-Etienne",
+  "numCirco": "1",
+  "numDepartement": "81",
+  "prenom": "Muriel"
+ },
+ "datan": "https://datan.fr/deputes/tarn-81/depute_muriel-roquesetienne",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 57,
+   "curRadiusIndex": 10,
+   "id": "ai57ri10",
+   "no": 469,
+   "polar": {
+    "angle": 2.210750385859484,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.5598361797213618,
+    "y": -0.7521391687302793
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire 63 Avenue Gambetta 81000 Albi Téléphone : 06.70.46.01.48"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "08/10/2020 /  / "
+   }
+  ],
+  "autres_mandats": [],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Jérémy Haddad"
+   },
+   {
+    "collaborateur": "Mme Marie Dauzan"
+   },
+   {
+    "collaborateur": "M. Florian Demarest"
+   }
+  ],
+  "date_naissance": "1979-03-05",
+  "emails": [
+   {
+    "email": "muriel.roquesetienne@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LREM",
+  "id": 649,
+  "id_an": "721538",
+  "lieu_naissance": "Albi (Tarn)",
+  "mandat_debut": "2020-10-08",
+  "nb_mandats": 1,
+  "nom": "Muriel Roques-Etienne",
+  "nom_circo": "Tarn",
+  "nom_de_famille": "Roques-Etienne",
+  "num_circo": 1,
+  "num_deptmt": "81",
+  "parti_ratt_financier": "La République en Marche",
+  "place_en_hemicycle": "469",
+  "prenom": "Muriel",
+  "profession": "Expert comptable et commissaire aux comptes",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/MRoquesetienne"
+  ],
+  "slug": "muriel-roques-etienne",
+  "twitter": "MRoquesetienne",
+  "twitter_created_at": "2013-03-28T12:24:50",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Thu Mar 28 12:24:50 +0000 2013",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée du #Tarn 1ère Circonscription 🇫🇷 Membre de la Commission Défense @LaREM_AN Membre de la mission d’information #Barkhane",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 1267,
+   "follow_request_sent": false,
+   "followers_count": 640,
+   "following": false,
+   "friends_count": 580,
+   "geo_enabled": true,
+   "has_extended_profile": true,
+   "id": 1310410140,
+   "id_str": "1310410140",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 8,
+   "location": "",
+   "name": "Muriel RoquesEtienne",
+   "notifications": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310410140/1604353807",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1360971616956649474/1CFr7M2C_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1360971616956649474/1CFr7M2C_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "MRoquesetienne",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 22 19:41:20 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        22,
+        31
+       ],
+       "text": "getlucky"
+      },
+      {
+       "indices": [
+        32,
+        41
+       ],
+       "text": "daftpunk"
+      },
+      {
+       "indices": [
+        42,
+        58
+       ],
+       "text": "DaftPunkForever"
+      },
+      {
+       "indices": [
+        59,
+        76
+       ],
+       "text": "daftpunkepilogue"
+      }
+     ],
+     "media": [
+      {
+       "display_url": "pic.twitter.com/6Xgx1KErdx",
+       "expanded_url": "https://twitter.com/MRoquesetienne/status/1363936933186056194/photo/1",
+       "id": 1363936926995148800,
+       "id_str": "1363936926995148802",
+       "indices": [
+        77,
+        100
+       ],
+       "media_url": "http://pbs.twimg.com/media/Eu2taJ2VcAIcakn.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/Eu2taJ2VcAIcakn.jpg",
+       "sizes": {
+        "large": {
+         "h": 1072,
+         "resize": "fit",
+         "w": 1674
+        },
+        "medium": {
+         "h": 768,
+         "resize": "fit",
+         "w": 1200
+        },
+        "small": {
+         "h": 435,
+         "resize": "fit",
+         "w": 680
+        },
+        "thumb": {
+         "h": 150,
+         "resize": "crop",
+         "w": 150
+        }
+       },
+       "type": "photo",
+       "url": "https://t.co/6Xgx1KErdx"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": []
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "display_url": "pic.twitter.com/6Xgx1KErdx",
+       "expanded_url": "https://twitter.com/MRoquesetienne/status/1363936933186056194/photo/1",
+       "id": 1363936926995148800,
+       "id_str": "1363936926995148802",
+       "indices": [
+        77,
+        100
+       ],
+       "media_url": "http://pbs.twimg.com/media/Eu2taJ2VcAIcakn.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/Eu2taJ2VcAIcakn.jpg",
+       "sizes": {
+        "large": {
+         "h": 1072,
+         "resize": "fit",
+         "w": 1674
+        },
+        "medium": {
+         "h": 768,
+         "resize": "fit",
+         "w": 1200
+        },
+        "small": {
+         "h": 435,
+         "resize": "fit",
+         "w": 680
+        },
+        "thumb": {
+         "h": 150,
+         "resize": "crop",
+         "w": 150
+        }
+       },
+       "type": "photo",
+       "url": "https://t.co/6Xgx1KErdx"
+      }
+     ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1363936933186056200,
+    "id_str": "1363936933186056194",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "La fin d’une époque 🙂 #getlucky #daftpunk #DaftPunkForever #daftpunkepilogue https://t.co/6Xgx1KErdx",
+    "truncated": false
+   },
+   "statuses_count": 683,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée du #Tarn 1ère Circonscription 🇫🇷 Membre de la Commission Défense @LaREM_AN Membre de la mission d’information #Barkhane",
+  "twitter_favourites": 1267,
+  "twitter_followers": 640,
+  "twitter_following": 580,
+  "twitter_id": 1310410140,
+  "twitter_listed": 8,
+  "twitter_name": "Muriel RoquesEtienne",
+  "twitter_protected": false,
+  "twitter_tweets": 683,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721538",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721538",
+  "url_nosdeputes": "https://www.nosdeputes.fr/muriel-roques-etienne",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/muriel-roques-etienne/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Muriel-Roques-Etienne",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721538",
+ "scrutins": {
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V3059": "P",
+  "VTANR5L15V3060": "C",
+  "VTANR5L15V3061": "P",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3082": "C",
+  "VTANR5L15V3083": "C",
+  "VTANR5L15V3084": "C",
+  "VTANR5L15V3085": "C",
+  "VTANR5L15V3086": "P",
+  "VTANR5L15V3087": "P",
+  "VTANR5L15V3094": "C",
+  "VTANR5L15V3095": "C",
+  "VTANR5L15V3096": "C",
+  "VTANR5L15V3097": "C",
+  "VTANR5L15V3098": "C",
+  "VTANR5L15V3099": "C",
+  "VTANR5L15V3100": "C",
+  "VTANR5L15V3101": "C",
+  "VTANR5L15V3102": "C",
+  "VTANR5L15V3103": "C",
+  "VTANR5L15V3104": "C",
+  "VTANR5L15V3105": "C",
+  "VTANR5L15V3106": "C",
+  "VTANR5L15V3107": "C",
+  "VTANR5L15V3108": "C",
+  "VTANR5L15V3109": "P",
+  "VTANR5L15V3110": "C",
+  "VTANR5L15V3111": "C",
+  "VTANR5L15V3112": "P",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3187": "C",
+  "VTANR5L15V3188": "P",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3190": "C",
+  "VTANR5L15V3191": "P",
+  "VTANR5L15V3197": "P",
+  "VTANR5L15V3198": "P",
+  "VTANR5L15V3199": "P",
+  "VTANR5L15V3200": "C",
+  "VTANR5L15V3201": "P",
+  "VTANR5L15V3202": "P",
+  "VTANR5L15V3203": "P",
+  "VTANR5L15V3204": "P",
+  "VTANR5L15V3205": "C",
+  "VTANR5L15V3206": "P",
+  "VTANR5L15V3211": "C",
+  "VTANR5L15V3212": "C",
+  "VTANR5L15V3245": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3261": "P",
+  "VTANR5L15V3263": "P",
+  "VTANR5L15V3292": "C",
+  "VTANR5L15V3293": "P",
+  "VTANR5L15V3295": "P",
+  "VTANR5L15V3296": "P",
+  "VTANR5L15V3297": "P",
+  "VTANR5L15V3298": "P",
+  "VTANR5L15V3300": "P",
+  "VTANR5L15V3301": "C",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3309": "C",
+  "VTANR5L15V3315": "P",
+  "VTANR5L15V3320": "P",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3368": "P",
+  "VTANR5L15V3369": "P",
+  "VTANR5L15V3370": "P",
+  "VTANR5L15V3371": "P",
+  "VTANR5L15V3372": "P",
+  "VTANR5L15V3373": "P",
+  "VTANR5L15V3374": "P",
+  "VTANR5L15V3375": "A",
+  "VTANR5L15V3376": "P",
+  "VTANR5L15V3377": "P",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3380": "C",
+  "VTANR5L15V3381": "P",
+  "VTANR5L15V3382": "P",
+  "VTANR5L15V3383": "P",
+  "VTANR5L15V3384": "C",
+  "VTANR5L15V3385": "P",
+  "VTANR5L15V3386": "P",
+  "VTANR5L15V3387": "P",
+  "VTANR5L15V3388": "P",
+  "VTANR5L15V3389": "C",
+  "VTANR5L15V3390": "P",
+  "VTANR5L15V3391": "P",
+  "VTANR5L15V3392": "P",
+  "VTANR5L15V3393": "P",
+  "VTANR5L15V3394": "P",
+  "VTANR5L15V3395": "C",
+  "VTANR5L15V3396": "C",
+  "VTANR5L15V3399": "P",
+  "VTANR5L15V3400": "P",
+  "VTANR5L15V3401": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P"
+ },
+ "twitter": {
+  "id": "1310410140",
+  "name": "Muriel RoquesEtienne",
+  "public_metrics": {
+   "followers_count": 641,
+   "following_count": 580,
+   "listed_count": 9,
+   "tweet_count": 683
+  },
+  "username": "MRoquesetienne"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "MRoquesetienne"
+ },
+ "uid": "PA721538"
+}

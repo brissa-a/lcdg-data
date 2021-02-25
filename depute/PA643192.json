@@ -1,0 +1,526 @@
+{
+ "an_data_depute": {
+  "dateNais": "1958-09-02",
+  "femme": true,
+  "ident": {
+   "alpha": "Jourdan",
+   "civ": "Mme",
+   "nom": "Jourdan",
+   "prenom": "Chantal",
+   "trigramme": "CJO"
+  },
+  "nom": "Chantal Jourdan"
+ },
+ "an_www_depute": {
+  "groupe": "Socialistes et apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643192.jpg",
+  "nosiege": "516"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA643192",
+  "civ": "Mme",
+  "communes": [
+   "Alençon (61000)",
+   "Aunay-les-Bois (61500)",
+   "Aunou-sur-Orne (61500)",
+   "Avrilly (Orne) (61700)",
+   "Bagnoles de l'Orne Normandie (61140)",
+   "Bagnoles de l'Orne Normandie (61600)",
+   "Beauvain (61600)",
+   "Belfonds (61500)",
+   "Boitron (Orne) (61500)",
+   "Brullemail (61390)",
+   "Bures (Orne) (61170)",
+   "Bursard (61500)",
+   "Carrouges (61320)",
+   "Ceaucé (61330)",
+   "Cerisé (61000)",
+   "Chahains (61320)",
+   "Chailloué (61240)",
+   "Chailloué (61500)",
+   "Champsecret (61700)",
+   "Ciral (61320)",
+   "Colombiers (Orne) (61250)",
+   "Condé-sur-Sarthe (61250)",
+   "Coulonges-sur-Sarthe (61170)",
+   "Courtomer (Orne) (61390)",
+   "Cuissai (61250)",
+   "Damigny (61250)",
+   "Domfront en Poiraie (61700)",
+   "Ecouves (61250)",
+   "Essay (61500)",
+   "Ferrières-la-Verrerie (61390)",
+   "Fontenai-les-Louvets (61420)",
+   "Gandelain (61420)",
+   "Godisson (61240)",
+   "Gâprée (61390)",
+   "Hauterive (Orne) (61250)",
+   "Héloup (61250)",
+   "Joué-du-Bois (61320)",
+   "Juvigny Val d'Andaine (61140)",
+   "Juvigny Val d'Andaine (61330)",
+   "La Chapelle-près-Sées (61500)",
+   "La Chaux (Orne) (61600)",
+   "La Ferrière-Bochard (61420)",
+   "La Ferrière-Béchet (61500)",
+   "La Ferté-Macé (61410)",
+   "La Ferté-Macé (61600)",
+   "La Lande-de-Goult (61320)",
+   "La Motte-Fouquet (61600)",
+   "La Roche-Mabile (61420)",
+   "Lalacelle (61320)",
+   "Laleu (Orne) (61170)",
+   "Larré (Orne) (61250)",
+   "Le Bouillon (61500)",
+   "Le Cercueil (61500)",
+   "Le Chalange (61390)",
+   "Le Champ-de-la-Pierre (61320)",
+   "Le Ménil-Broût (61250)",
+   "Le Ménil-Guyon (61170)",
+   "Le Ménil-Scelleur (61320)",
+   "Le Mêle-sur-Sarthe (61170)",
+   "Le Plantis (61170)",
+   "Les Monts d'Andaine (61600)",
+   "Les Ventes-de-Bourse (61170)",
+   "Livaie (61420)",
+   "Longuenoë (61320)",
+   "Lonlay-l'Abbaye (61700)",
+   "Lonlay-le-Tesson (61600)",
+   "Lonrai (61250)",
+   "Macé (61500)",
+   "Magny-le-Désert (61600)",
+   "Mantilly (61350)",
+   "Marchemaisons (61170)",
+   "Mieuxcé (61250)",
+   "Montchevrel (61170)",
+   "Méhoudin (61410)",
+   "Ménil-Erreux (61250)",
+   "Neauphe-sous-Essai (61500)",
+   "Neuilly-le-Bisson (61250)",
+   "Pacé (Orne) (61250)",
+   "Passais Villages (61350)",
+   "Perrou (61700)",
+   "Rives d'Andaine (61140)",
+   "Rives d'Andaine (61410)",
+   "Rouperroux (61320)",
+   "Saint-Agnan-sur-Sarthe (61170)",
+   "Saint-Aubin-d'Appenai (61170)",
+   "Saint-Brice (Orne) (61700)",
+   "Saint-Bômer-les-Forges (61700)",
+   "Saint-Clair-de-Halouze (61490)",
+   "Saint-Céneri-le-Gérei (61250)",
+   "Saint-Denis-sur-Sarthon (61420)",
+   "Saint-Didier-sous-Ecouves (61320)",
+   "Saint-Ellier-les-Bois (61320)",
+   "Saint-Fraimbault (61350)",
+   "Saint-Germain-du-Corbéis (61000)",
+   "Saint-Germain-le-Vieux (61390)",
+   "Saint-Gervais-du-Perron (61500)",
+   "Saint-Gilles-des-Marais (61700)",
+   "Saint-Hilaire-la-Gérard (61500)",
+   "Saint-Léger-sur-Sarthe (61170)",
+   "Saint-Léonard-des-Parcs (61390)",
+   "Saint-Mars-d'Egrenne (61350)",
+   "Saint-Martin-des-Landes (61320)",
+   "Saint-Martin-l'Aiguillon (61320)",
+   "Saint-Nicolas-des-Bois (Orne) (61250)",
+   "Saint-Ouen-le-Brisoult (61410)",
+   "Saint-Patrice-du-Désert (61600)",
+   "Saint-Roch-sur-Egrenne (61350)",
+   "Saint-Sauveur-de-Carrouges (61320)",
+   "Sainte-Marguerite-de-Carrouges (61320)",
+   "Sainte-Marie-la-Robert (61320)",
+   "Sainte-Scolasse-sur-Sarthe (61170)",
+   "Semallé (61250)",
+   "Sées (61500)",
+   "Tanville (61500)",
+   "Tellières-le-Plessis (61390)",
+   "Tessé-Froulay (61410)",
+   "Torchamp (61330)",
+   "Trémont (61390)",
+   "Valframbert (61250)"
+  ],
+  "departement": "Orne",
+  "group": "Socialistes et apparentés",
+  "nom": "Jourdan",
+  "numCirco": "1",
+  "numDepartement": "61",
+  "prenom": "Chantal"
+ },
+ "datan": "https://datan.fr/deputes/orne-61/depute_chantal-jourdan",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 43,
+   "curRadiusIndex": 6,
+   "id": "ai43ri6",
+   "no": 516,
+   "polar": {
+    "angle": 2.5488393227237944,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": -0.5702164087470137,
+    "y": -0.3841455856362521
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire 61 Rue Balzac 61000 Alençon Téléphone : 02 33 26 44 23"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "03/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Champsecret / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Catherine Gallerand"
+   },
+   {
+    "collaborateur": "Mme Vanessa Bournel"
+   },
+   {
+    "collaborateur": "Mme Mélanie Poussier"
+   },
+   {
+    "collaborateur": "M. Thomas Le Bihan-Jeannot"
+   }
+  ],
+  "date_naissance": "1958-09-02",
+  "emails": [
+   {
+    "email": "chantal.jourdan@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "SOC",
+  "id": 627,
+  "id_an": "643192",
+  "lieu_naissance": "Domfront (Orne)",
+  "mandat_debut": "2020-08-03",
+  "nb_mandats": 1,
+  "nom": "Chantal Jourdan",
+  "nom_circo": "Orne",
+  "nom_de_famille": "Jourdan",
+  "num_circo": 1,
+  "num_deptmt": "61",
+  "parti_ratt_financier": "Parti socialiste",
+  "place_en_hemicycle": "516",
+  "prenom": "Chantal",
+  "profession": "Psychologue",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/ChantalJourdan"
+  ],
+  "slug": "chantal-jourdan",
+  "twitter": "ChantalJourdan",
+  "twitter_created_at": "2020-10-20T10:11:58",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Oct 20 10:11:58 +0000 2020",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de la 1ère circonscription de l'Orne -\nCommission Développement durable et Affaires européennes\n#AssembléeNationale",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 0,
+   "follow_request_sent": false,
+   "followers_count": 125,
+   "following": false,
+   "friends_count": 59,
+   "geo_enabled": false,
+   "has_extended_profile": true,
+   "id": 1318495091280040000,
+   "id_str": "1318495091280039936",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 6,
+   "location": "",
+   "name": "Chantal JOURDAN",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1318495425872252928/1JDCFbWM_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318495425872252928/1JDCFbWM_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "ChantalJourdan",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 16 10:07:41 +0000 2020",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 201737230,
+       "id_str": "201737230",
+       "indices": [
+        3,
+        17
+       ],
+       "name": "Députés Socialistes et apparentés",
+       "screen_name": "socialistesAN"
+      },
+      {
+       "id": 201737230,
+       "id_str": "201737230",
+       "indices": [
+        23,
+        37
+       ],
+       "name": "Députés Socialistes et apparentés",
+       "screen_name": "socialistesAN"
+      },
+      {
+       "id": 380989705,
+       "id_str": "380989705",
+       "indices": [
+        45,
+        57
+       ],
+       "name": "Socialistes au Sénat",
+       "screen_name": "senateursPS"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1339150197327335400,
+    "id_str": "1339150197327335424",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 95,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Tue Dec 15 16:42:22 +0000 2020",
+     "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1338887134720221188",
+        "indices": [
+         117,
+         140
+        ],
+        "url": "https://t.co/P2xb5PO3zO"
+       }
+      ],
+      "user_mentions": [
+       {
+        "id": 201737230,
+        "id_str": "201737230",
+        "indices": [
+         4,
+         18
+        ],
+        "name": "Députés Socialistes et apparentés",
+        "screen_name": "socialistesAN"
+       },
+       {
+        "id": 380989705,
+        "id_str": "380989705",
+        "indices": [
+         26,
+         38
+        ],
+        "name": "Socialistes au Sénat",
+        "screen_name": "senateursPS"
+       }
+      ]
+     },
+     "favorite_count": 160,
+     "favorited": false,
+     "geo": null,
+     "id": 1338887134720221200,
+     "id_str": "1338887134720221188",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 95,
+     "retweeted": false,
+     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+     "text": "Les @socialistesAN et les @senateursPS proposent aujourd’hui un référendum d’initiative partagée pour empêcher le d… https://t.co/P2xb5PO3zO",
+     "truncated": true
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @socialistesAN: Les @socialistesAN et les @senateursPS proposent aujourd’hui un référendum d’initiative partagée pour empêcher le démant…",
+    "truncated": false
+   },
+   "statuses_count": 19,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de la 1ère circonscription de l'Orne - Commission Développement durable et Affaires européennes #AssembléeNationale",
+  "twitter_favourites": 0,
+  "twitter_followers": 125,
+  "twitter_following": 59,
+  "twitter_id": 1318495091280040000,
+  "twitter_listed": 6,
+  "twitter_name": "Chantal JOURDAN",
+  "twitter_protected": false,
+  "twitter_tweets": 19,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643192",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643192",
+  "url_nosdeputes": "https://www.nosdeputes.fr/chantal-jourdan",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/chantal-jourdan/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Chantal-Jourdan",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643192",
+ "scrutins": {
+  "VTANR5L15V2858": "C",
+  "VTANR5L15V2865": "P",
+  "VTANR5L15V2889": "P",
+  "VTANR5L15V2890": "P",
+  "VTANR5L15V2895": "C",
+  "VTANR5L15V2896": "C",
+  "VTANR5L15V2898": "C",
+  "VTANR5L15V2916": "P",
+  "VTANR5L15V2917": "P",
+  "VTANR5L15V2931": "P",
+  "VTANR5L15V2932": "P",
+  "VTANR5L15V2934": "P",
+  "VTANR5L15V2935": "P",
+  "VTANR5L15V2936": "C",
+  "VTANR5L15V2937": "P",
+  "VTANR5L15V2938": "C",
+  "VTANR5L15V2939": "P",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2947": "C",
+  "VTANR5L15V2948": "P",
+  "VTANR5L15V2950": "P",
+  "VTANR5L15V2951": "A",
+  "VTANR5L15V2952": "P",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V2992": "P",
+  "VTANR5L15V3009": "C",
+  "VTANR5L15V3010": "C",
+  "VTANR5L15V3020": "P",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3060": "P",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3131": "P",
+  "VTANR5L15V3132": "P",
+  "VTANR5L15V3136": "P",
+  "VTANR5L15V3137": "P",
+  "VTANR5L15V3138": "P",
+  "VTANR5L15V3139": "P",
+  "VTANR5L15V3140": "P",
+  "VTANR5L15V3141": "P",
+  "VTANR5L15V3142": "P",
+  "VTANR5L15V3143": "P",
+  "VTANR5L15V3163": "P",
+  "VTANR5L15V3164": "P",
+  "VTANR5L15V3165": "P",
+  "VTANR5L15V3166": "P",
+  "VTANR5L15V3167": "C",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3189": "P",
+  "VTANR5L15V3190": "A",
+  "VTANR5L15V3191": "A",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3269": "C",
+  "VTANR5L15V3270": "P",
+  "VTANR5L15V3271": "P",
+  "VTANR5L15V3272": "P",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "P",
+  "VTANR5L15V3278": "P",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "C",
+  "VTANR5L15V3282": "C",
+  "VTANR5L15V3283": "A",
+  "VTANR5L15V3284": "P",
+  "VTANR5L15V3285": "P",
+  "VTANR5L15V3286": "C",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3298": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3310": "C",
+  "VTANR5L15V3312": "P",
+  "VTANR5L15V3346": "C",
+  "VTANR5L15V3348": "C",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3421": "A",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3433": "C",
+  "VTANR5L15V3434": "P",
+  "VTANR5L15V3435": "P",
+  "VTANR5L15V3436": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "A",
+  "VTANR5L15V3440": "P",
+  "VTANR5L15V3441": "C",
+  "VTANR5L15V3442": "C",
+  "VTANR5L15V3443": "C"
+ },
+ "twitter": {
+  "id": "1318495091280039936",
+  "name": "Chantal JOURDAN",
+  "public_metrics": {
+   "followers_count": 130,
+   "following_count": 59,
+   "listed_count": 7,
+   "tweet_count": 19
+  },
+  "username": "ChantalJourdan"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "ChantalJourdan"
+ },
+ "uid": "PA643192"
+}

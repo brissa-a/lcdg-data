@@ -1,0 +1,627 @@
+{
+ "an_data_depute": {
+  "dateNais": "1975-09-19",
+  "femme": true,
+  "ident": {
+   "alpha": "Josso",
+   "civ": "Mme",
+   "nom": "Josso",
+   "prenom": "Sandrine",
+   "trigramme": "SJO"
+  },
+  "nom": "Sandrine Josso"
+ },
+ "an_www_depute": {
+  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720038.jpg",
+  "nosiege": "201"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Sandrinejosso2017/",
+  "twitter_link": "https://twitter.com/@Josso2017/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA720038",
+  "civ": "Mme",
+  "communes": [
+   "Assérac (44410)",
+   "Batz-sur-Mer (44740)",
+   "Besné (44160)",
+   "Crossac (44160)",
+   "Drefféac (44530)",
+   "Guenrouet (44530)",
+   "Guérande (44350)",
+   "Herbignac (44410)",
+   "La Baule-Escoublac (44500)",
+   "La Chapelle-des-Marais (44410)",
+   "La Turballe (44420)",
+   "Le Croisic (44490)",
+   "Le Pouliguen (44510)",
+   "Mesquer (44420)",
+   "Missillac (44780)",
+   "Piriac-sur-Mer (44420)",
+   "Pontchâteau (44160)",
+   "Pornichet (44380)",
+   "Saint-André-des-Eaux (Loire-Atlantique) (44117)",
+   "Saint-Gildas-des-Bois (44530)",
+   "Saint-Joachim (44720)",
+   "Saint-Lyphard (44410)",
+   "Saint-Molf (44350)",
+   "Sainte-Anne-sur-Brivet (44160)",
+   "Sainte-Reine-de-Bretagne (44160)",
+   "Sévérac (44530)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "nom": "Josso",
+  "numCirco": "7",
+  "numDepartement": "44",
+  "prenom": "Sandrine"
+ },
+ "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_sandrine-josso",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 19,
+   "curRadiusIndex": 7,
+   "id": "ai19ri7",
+   "no": 201,
+   "polar": {
+    "angle": 1.1262313286453975,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.32254890170739037,
+    "y": -0.6772322411271303
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "21/06/2017 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Herbignac / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Océane Auvray"
+   },
+   {
+    "collaborateur": "Mme Graziella Guillanton"
+   },
+   {
+    "collaborateur": "Mme Cindie Camart"
+   },
+   {
+    "collaborateur": "Mme Fabienne Cléry"
+   }
+  ],
+  "date_naissance": "1975-09-19",
+  "emails": [
+   {
+    "email": "sandrinejossocommunications@gmail.com"
+   },
+   {
+    "email": "sandrine.josso@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "MODEM",
+  "id": 224,
+  "id_an": "720038",
+  "lieu_naissance": "Guérande (Loire-Atlantique)",
+  "mandat_debut": "2017-06-21",
+  "nb_mandats": 1,
+  "nom": "Sandrine Josso",
+  "nom_circo": "Loire-Atlantique",
+  "nom_de_famille": "Josso",
+  "num_circo": 7,
+  "num_deptmt": "44",
+  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
+  "place_en_hemicycle": "201",
+  "prenom": "Sandrine",
+  "profession": "Autre profession libérale",
+  "sexe": "F",
+  "sites_web": [
+   "http://Sandrinejosso.fr",
+   "https://twitter.com/sandrinejossoan",
+   "https://fr-fr.facebook.com/Sandrinejosso2017"
+  ],
+  "slug": "sandrine-josso",
+  "twitter": "sandrinejossoan",
+  "twitter_created_at": "2019-06-18T12:40:56",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Jun 18 12:40:56 +0000 2019",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "🇫🇷🏛📖 Députée Loire-Atlantique Centriste Mvt Démocrate apparenté créatrice et rapporteure com enquête #SanteEnvironnementale @AssembleeNat @AN_culture #Bzh",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Sandrinejosso.fr",
+       "expanded_url": "http://Sandrinejosso.fr",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/hV3XsPadzR"
+      }
+     ]
+    }
+   },
+   "favourites_count": 2862,
+   "follow_request_sent": false,
+   "followers_count": 1082,
+   "following": false,
+   "friends_count": 2704,
+   "geo_enabled": true,
+   "has_extended_profile": true,
+   "id": 1140962599250661400,
+   "id_str": "1140962599250661376",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 20,
+   "location": "La Baule-Escoublac, France",
+   "name": "@sandrinejossoAN 🐝🌍",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140962599250661376/1600268509",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1141314353821560832/ph7JqmeM_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141314353821560832/ph7JqmeM_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "sandrinejossoan",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 14:51:44 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        20,
+        28
+       ],
+       "text": "WOD2021"
+      },
+      {
+       "indices": [
+        29,
+        37
+       ],
+       "text": "obesity"
+      },
+      {
+       "indices": [
+        75,
+        81
+       ],
+       "text": "4mars"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 142732328,
+       "id_str": "142732328",
+       "indices": [
+        3,
+        18
+       ],
+       "name": "PhP / Ligue contre l’obésité",
+       "screen_name": "Philippe_Palat"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1364226443748642800,
+    "id_str": "1364226443748642819",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Mon Feb 22 20:12:52 +0000 2021",
+     "entities": {
+      "hashtags": [
+       {
+        "indices": [
+         0,
+         8
+        ],
+        "text": "WOD2021"
+       },
+       {
+        "indices": [
+         9,
+         17
+        ],
+        "text": "obesity"
+       },
+       {
+        "indices": [
+         55,
+         61
+        ],
+        "text": "4mars"
+       }
+      ],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1363944868607836162",
+        "indices": [
+         117,
+         140
+        ],
+        "url": "https://t.co/fR89cgQfSD"
+       }
+      ],
+      "user_mentions": []
+     },
+     "favorite_count": 3,
+     "favorited": false,
+     "geo": null,
+     "id": 1363944868607836200,
+     "id_str": "1363944868607836162",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 1,
+     "retweeted": false,
+     "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+     "text": "#WOD2021 #obesity ⭕️ Journée mondiale contre l’obésité #4mars Près de 50 événements organisés en France 🇫🇷 par la L… https://t.co/fR89cgQfSD",
+     "truncated": true
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Philippe_Palat: #WOD2021 #obesity ⭕️ Journée mondiale contre l’obésité #4mars Près de 50 événements organisés en France 🇫🇷 par la Ligue…",
+    "truncated": false
+   },
+   "statuses_count": 2111,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/hV3XsPadzR",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "🇫🇷🏛📖 Députée Loire-Atlantique Centriste Mvt Démocrate apparenté créatrice et rapporteure com enquête #SanteEnvironnementale @AssembleeNat @AN_culture #Bzh",
+  "twitter_favourites": 2862,
+  "twitter_followers": 1082,
+  "twitter_following": 2704,
+  "twitter_id": 1140962599250661400,
+  "twitter_listed": 20,
+  "twitter_name": "@sandrinejossoAN 🐝🌍",
+  "twitter_protected": false,
+  "twitter_tweets": 2111,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720038",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720038",
+  "url_nosdeputes": "https://www.nosdeputes.fr/sandrine-josso",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/sandrine-josso/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Sandrine-Josso",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720038",
+ "scrutins": {
+  "VTANR5L15V1": "P",
+  "VTANR5L15V10": "C",
+  "VTANR5L15V106": "P",
+  "VTANR5L15V107": "P",
+  "VTANR5L15V108": "C",
+  "VTANR5L15V109": "C",
+  "VTANR5L15V11": "C",
+  "VTANR5L15V110": "C",
+  "VTANR5L15V111": "C",
+  "VTANR5L15V118": "C",
+  "VTANR5L15V119": "P",
+  "VTANR5L15V1192": "P",
+  "VTANR5L15V12": "C",
+  "VTANR5L15V1209": "P",
+  "VTANR5L15V1263": "P",
+  "VTANR5L15V1330": "P",
+  "VTANR5L15V138": "P",
+  "VTANR5L15V139": "P",
+  "VTANR5L15V1394": "C",
+  "VTANR5L15V1395": "C",
+  "VTANR5L15V1396": "C",
+  "VTANR5L15V1429": "P",
+  "VTANR5L15V1432": "P",
+  "VTANR5L15V145": "C",
+  "VTANR5L15V146": "C",
+  "VTANR5L15V1536": "P",
+  "VTANR5L15V154": "P",
+  "VTANR5L15V155": "C",
+  "VTANR5L15V156": "C",
+  "VTANR5L15V1633": "P",
+  "VTANR5L15V1634": "P",
+  "VTANR5L15V1662": "P",
+  "VTANR5L15V1709": "P",
+  "VTANR5L15V18": "C",
+  "VTANR5L15V1814": "P",
+  "VTANR5L15V183": "P",
+  "VTANR5L15V184": "P",
+  "VTANR5L15V1840": "P",
+  "VTANR5L15V1860": "C",
+  "VTANR5L15V1861": "C",
+  "VTANR5L15V1862": "P",
+  "VTANR5L15V19": "C",
+  "VTANR5L15V1912": "P",
+  "VTANR5L15V1926": "P",
+  "VTANR5L15V1941": "A",
+  "VTANR5L15V1955": "P",
+  "VTANR5L15V1957": "P",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V20": "C",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2071": "A",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V208": "P",
+  "VTANR5L15V21": "C",
+  "VTANR5L15V2130": "P",
+  "VTANR5L15V2131": "P",
+  "VTANR5L15V2146": "A",
+  "VTANR5L15V2147": "P",
+  "VTANR5L15V2177": "A",
+  "VTANR5L15V22": "C",
+  "VTANR5L15V2235": "C",
+  "VTANR5L15V2274": "P",
+  "VTANR5L15V23": "P",
+  "VTANR5L15V2307": "C",
+  "VTANR5L15V2329": "P",
+  "VTANR5L15V2337": "C",
+  "VTANR5L15V2338": "P",
+  "VTANR5L15V245": "C",
+  "VTANR5L15V26": "C",
+  "VTANR5L15V27": "C",
+  "VTANR5L15V2706": "P",
+  "VTANR5L15V2707": "P",
+  "VTANR5L15V272": "P",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "C",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "C",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "A",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "A",
+  "VTANR5L15V2750": "A",
+  "VTANR5L15V2751": "A",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "A",
+  "VTANR5L15V2761": "A",
+  "VTANR5L15V2762": "A",
+  "VTANR5L15V2814": "A",
+  "VTANR5L15V2852": "P",
+  "VTANR5L15V2853": "C",
+  "VTANR5L15V2854": "C",
+  "VTANR5L15V2855": "C",
+  "VTANR5L15V2856": "C",
+  "VTANR5L15V29": "C",
+  "VTANR5L15V2931": "A",
+  "VTANR5L15V2932": "C",
+  "VTANR5L15V2936": "A",
+  "VTANR5L15V2937": "C",
+  "VTANR5L15V2938": "C",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "P",
+  "VTANR5L15V2963": "C",
+  "VTANR5L15V2964": "P",
+  "VTANR5L15V2965": "C",
+  "VTANR5L15V2966": "A",
+  "VTANR5L15V2967": "C",
+  "VTANR5L15V2968": "P",
+  "VTANR5L15V2969": "C",
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V30": "P",
+  "VTANR5L15V3059": "P",
+  "VTANR5L15V3062": "C",
+  "VTANR5L15V3063": "C",
+  "VTANR5L15V3064": "C",
+  "VTANR5L15V3065": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3076": "C",
+  "VTANR5L15V3094": "C",
+  "VTANR5L15V3095": "C",
+  "VTANR5L15V3096": "C",
+  "VTANR5L15V3097": "C",
+  "VTANR5L15V3098": "C",
+  "VTANR5L15V3099": "C",
+  "VTANR5L15V3100": "C",
+  "VTANR5L15V3101": "C",
+  "VTANR5L15V3102": "C",
+  "VTANR5L15V3103": "C",
+  "VTANR5L15V3104": "C",
+  "VTANR5L15V3105": "C",
+  "VTANR5L15V3106": "C",
+  "VTANR5L15V3107": "C",
+  "VTANR5L15V3108": "C",
+  "VTANR5L15V3109": "P",
+  "VTANR5L15V3110": "C",
+  "VTANR5L15V3111": "C",
+  "VTANR5L15V3112": "P",
+  "VTANR5L15V314": "P",
+  "VTANR5L15V3162": "A",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3187": "C",
+  "VTANR5L15V3188": "P",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3190": "C",
+  "VTANR5L15V3192": "C",
+  "VTANR5L15V3193": "P",
+  "VTANR5L15V3254": "A",
+  "VTANR5L15V3295": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3328": "P",
+  "VTANR5L15V3329": "P",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3396": "C",
+  "VTANR5L15V3400": "P",
+  "VTANR5L15V3403": "C",
+  "VTANR5L15V3409": "P",
+  "VTANR5L15V3410": "P",
+  "VTANR5L15V3411": "P",
+  "VTANR5L15V3414": "P",
+  "VTANR5L15V3417": "P",
+  "VTANR5L15V3418": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V345": "P",
+  "VTANR5L15V351": "P",
+  "VTANR5L15V365": "P",
+  "VTANR5L15V389": "P",
+  "VTANR5L15V407": "P",
+  "VTANR5L15V419": "P",
+  "VTANR5L15V433": "P",
+  "VTANR5L15V438": "C",
+  "VTANR5L15V465": "C",
+  "VTANR5L15V466": "C",
+  "VTANR5L15V477": "P",
+  "VTANR5L15V480": "C",
+  "VTANR5L15V483": "P",
+  "VTANR5L15V495": "C",
+  "VTANR5L15V5": "C",
+  "VTANR5L15V50": "C",
+  "VTANR5L15V53": "C",
+  "VTANR5L15V54": "C",
+  "VTANR5L15V55": "C",
+  "VTANR5L15V56": "C",
+  "VTANR5L15V57": "C",
+  "VTANR5L15V578": "P",
+  "VTANR5L15V58": "C",
+  "VTANR5L15V587": "C",
+  "VTANR5L15V588": "C",
+  "VTANR5L15V589": "C",
+  "VTANR5L15V59": "C",
+  "VTANR5L15V590": "C",
+  "VTANR5L15V591": "C",
+  "VTANR5L15V592": "C",
+  "VTANR5L15V593": "C",
+  "VTANR5L15V60": "C",
+  "VTANR5L15V61": "C",
+  "VTANR5L15V611": "P",
+  "VTANR5L15V612": "C",
+  "VTANR5L15V613": "C",
+  "VTANR5L15V614": "C",
+  "VTANR5L15V615": "C",
+  "VTANR5L15V616": "C",
+  "VTANR5L15V617": "C",
+  "VTANR5L15V618": "C",
+  "VTANR5L15V619": "P",
+  "VTANR5L15V62": "C",
+  "VTANR5L15V63": "C",
+  "VTANR5L15V64": "P",
+  "VTANR5L15V65": "C",
+  "VTANR5L15V66": "C",
+  "VTANR5L15V67": "C",
+  "VTANR5L15V68": "C",
+  "VTANR5L15V69": "C",
+  "VTANR5L15V7": "C",
+  "VTANR5L15V70": "C",
+  "VTANR5L15V71": "C",
+  "VTANR5L15V72": "C",
+  "VTANR5L15V729": "P",
+  "VTANR5L15V73": "C",
+  "VTANR5L15V730": "C",
+  "VTANR5L15V74": "C",
+  "VTANR5L15V75": "C",
+  "VTANR5L15V76": "C",
+  "VTANR5L15V77": "C",
+  "VTANR5L15V807": "P",
+  "VTANR5L15V808": "P",
+  "VTANR5L15V809": "C",
+  "VTANR5L15V810": "C",
+  "VTANR5L15V811": "C",
+  "VTANR5L15V816": "C",
+  "VTANR5L15V817": "C",
+  "VTANR5L15V819": "C",
+  "VTANR5L15V827": "C",
+  "VTANR5L15V828": "C",
+  "VTANR5L15V829": "C",
+  "VTANR5L15V830": "C",
+  "VTANR5L15V831": "C",
+  "VTANR5L15V832": "C",
+  "VTANR5L15V833": "C",
+  "VTANR5L15V834": "C",
+  "VTANR5L15V835": "C",
+  "VTANR5L15V9": "C",
+  "VTANR5L15V928": "P",
+  "VTANR5L15V941": "C",
+  "VTANR5L15V942": "P",
+  "VTANR5L15V974": "P"
+ },
+ "twitter": {
+  "id": "1140962599250661376",
+  "name": "@sandrinejossoAN 🐝🌍",
+  "public_metrics": {
+   "followers_count": 1084,
+   "following_count": 2707,
+   "listed_count": 21,
+   "tweet_count": 2116
+  },
+  "username": "sandrinejossoan"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "sandrinejossoan"
+ },
+ "uid": "PA720038"
+}

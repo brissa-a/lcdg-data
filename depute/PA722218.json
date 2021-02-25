@@ -1,0 +1,548 @@
+{
+ "an_data_depute": {
+  "dateNais": "1964-03-23",
+  "femme": true,
+  "ident": {
+   "alpha": "Delpirou",
+   "civ": "Mme",
+   "nom": "Delpirou",
+   "prenom": "Cécile",
+   "trigramme": "CDP"
+  },
+  "nom": "Cécile Delpirou"
+ },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722218.jpg",
+  "nosiege": "525"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@c_delpirou/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA722218",
+  "civ": "Mme",
+  "communes": [
+   "Amiens (80000)",
+   "Amiens (80080)",
+   "Amiens (80090)",
+   "Blangy-Tronville (80440)",
+   "Boves (80440)",
+   "Cachy (80800)",
+   "Cagny (Somme) (80330)",
+   "Cottenchy (80440)",
+   "Dommartin (Somme) (80440)",
+   "Dreuil-lès-Amiens (80470)",
+   "Dury (Somme) (80480)",
+   "Estrées-sur-Noye (80250)",
+   "Fouencamps (80440)",
+   "Gentelles (80800)",
+   "Glisy (80440)",
+   "Grattepanche (80680)",
+   "Guyencourt-sur-Noye (80250)",
+   "Hailles (80440)",
+   "Hébécourt (Somme) (80680)",
+   "Pont-de-Metz (80480)",
+   "Remiencourt (80250)",
+   "Rivery (80136)",
+   "Rumigny (Somme) (80680)",
+   "Sains-en-Amiénois (80680)",
+   "Saint-Fuscien (80680)",
+   "Saint-Sauflieu (80160)",
+   "Saleux (80480)",
+   "Salouël (80480)",
+   "Saveuse (80470)",
+   "Thézy-Glimont (80440)",
+   "Vers-sur-Selles (80480)"
+  ],
+  "departement": "Somme",
+  "group": "La République en Marche",
+  "nom": "Delpirou",
+  "numCirco": "2",
+  "numDepartement": "80",
+  "prenom": "Cécile"
+ },
+ "datan": "https://datan.fr/deputes/somme-80/depute_cecile-delpirou",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 44,
+   "curRadiusIndex": 7,
+   "id": "ai44ri7",
+   "no": 525,
+   "polar": {
+    "angle": 2.6081146558103945,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": -0.6457827088255167,
+    "y": -0.3814737449898014
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "07/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Emmanuelle Steuperaert"
+   },
+   {
+    "collaborateur": "M. Hugo Conzelmann"
+   },
+   {
+    "collaborateur": "Mme Sabine Tirmarche"
+   }
+  ],
+  "date_naissance": "1964-03-23",
+  "emails": [
+   {
+    "email": "cecile.delpirou@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LREM",
+  "id": 631,
+  "id_an": "722218",
+  "lieu_naissance": "Saint-Maur-des-Fossés (Val-de-Marne)",
+  "mandat_debut": "2020-08-07",
+  "nb_mandats": 1,
+  "nom": "Cécile Delpirou",
+  "nom_circo": "Somme",
+  "nom_de_famille": "Delpirou",
+  "num_circo": 2,
+  "num_deptmt": "80",
+  "parti_ratt_financier": "La République en Marche",
+  "place_en_hemicycle": "525",
+  "prenom": "Cécile",
+  "profession": "Ingénieure mécanicienne",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/c_delpirou",
+   "https://www.cecile-delpirou.fr"
+  ],
+  "slug": "cecile-delpirou",
+  "twitter": "c_delpirou",
+  "twitter_created_at": "2017-01-31T17:11:34",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Jan 31 17:11:34 +0000 2017",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de la 2ème circonscription de la #Somme #circo8002\nFacebook : https://t.co/QrDBZGatn2",
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "display_url": "bit.ly/3isuLe8",
+       "expanded_url": "http://bit.ly/3isuLe8",
+       "indices": [
+        70,
+        93
+       ],
+       "url": "https://t.co/QrDBZGatn2"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "cecile-delpirou.fr",
+       "expanded_url": "https://www.cecile-delpirou.fr",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/BQxI99Nu8E"
+      }
+     ]
+    }
+   },
+   "favourites_count": 2053,
+   "follow_request_sent": false,
+   "followers_count": 432,
+   "following": false,
+   "friends_count": 208,
+   "geo_enabled": false,
+   "has_extended_profile": false,
+   "id": 826478037780852700,
+   "id_str": "826478037780852737",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 16,
+   "location": "Amiens, France",
+   "name": "Cecile Delpirou",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/826478037780852737/1496579266",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1308757078002016256/gEbUDHIs_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308757078002016256/gEbUDHIs_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "C_Delpirou",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 19 10:04:04 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        29,
+        45
+       ],
+       "text": "PPLsantétravail"
+      },
+      {
+       "indices": [
+        67,
+        76
+       ],
+       "text": "handicap"
+      },
+      {
+       "indices": [
+        128,
+        134
+       ],
+       "text": "Sante"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 258844830,
+       "id_str": "258844830",
+       "indices": [
+        3,
+        12
+       ],
+       "name": "Sophie Cluzel",
+       "screen_name": "s_cluzel"
+      },
+      {
+       "id": 242694507,
+       "id_str": "242694507",
+       "indices": [
+        50,
+        63
+       ],
+       "name": "Assemblée nationale",
+       "screen_name": "AssembleeNat"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1362704497827582000,
+    "id_str": "1362704497827581952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 49,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Fri Feb 19 07:56:46 +0000 2021",
+     "entities": {
+      "hashtags": [
+       {
+        "indices": [
+         15,
+         31
+        ],
+        "text": "PPLsantétravail"
+       },
+       {
+        "indices": [
+         53,
+         62
+        ],
+        "text": "handicap"
+       }
+      ],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1362672458839568385",
+        "indices": [
+         115,
+         138
+        ],
+        "url": "https://t.co/pUD0BzK7FE"
+       }
+      ],
+      "user_mentions": [
+       {
+        "id": 242694507,
+        "id_str": "242694507",
+        "indices": [
+         36,
+         49
+        ],
+        "name": "Assemblée nationale",
+        "screen_name": "AssembleeNat"
+       }
+      ]
+     },
+     "favorite_count": 117,
+     "favorited": false,
+     "geo": null,
+     "id": 1362672458839568400,
+     "id_str": "1362672458839568385",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 49,
+     "retweeted": false,
+     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+     "text": "Adoption de la #PPLsantétravail à l’@AssembleeNat\nLe #handicap enfin pris en considération dans les situations de… https://t.co/pUD0BzK7FE",
+     "truncated": true
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @s_cluzel: Adoption de la #PPLsantétravail à l’@AssembleeNat\nLe #handicap enfin pris en considération dans les situations de #Sante au t…",
+    "truncated": false
+   },
+   "statuses_count": 1124,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/BQxI99Nu8E",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de la 2ème circonscription de la #Somme #circo8002 Facebook : https://t.co/QrDBZGatn2",
+  "twitter_favourites": 2053,
+  "twitter_followers": 432,
+  "twitter_following": 208,
+  "twitter_id": 826478037780852700,
+  "twitter_listed": 16,
+  "twitter_name": "Cecile Delpirou",
+  "twitter_protected": false,
+  "twitter_tweets": 1124,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722218",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722218",
+  "url_nosdeputes": "https://www.nosdeputes.fr/cecile-delpirou",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/cecile-delpirou/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Cécile-Delpirou",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722218",
+ "scrutins": {
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2947": "C",
+  "VTANR5L15V2948": "P",
+  "VTANR5L15V2957": "P",
+  "VTANR5L15V2958": "C",
+  "VTANR5L15V2959": "C",
+  "VTANR5L15V2960": "C",
+  "VTANR5L15V2973": "C",
+  "VTANR5L15V2974": "C",
+  "VTANR5L15V2975": "C",
+  "VTANR5L15V2976": "C",
+  "VTANR5L15V2977": "C",
+  "VTANR5L15V2978": "C",
+  "VTANR5L15V2979": "C",
+  "VTANR5L15V2980": "P",
+  "VTANR5L15V2981": "C",
+  "VTANR5L15V2982": "C",
+  "VTANR5L15V2983": "P",
+  "VTANR5L15V2984": "C",
+  "VTANR5L15V2985": "P",
+  "VTANR5L15V2986": "C",
+  "VTANR5L15V2987": "C",
+  "VTANR5L15V2988": "C",
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V2993": "C",
+  "VTANR5L15V2994": "C",
+  "VTANR5L15V2995": "C",
+  "VTANR5L15V2996": "C",
+  "VTANR5L15V2997": "C",
+  "VTANR5L15V2998": "C",
+  "VTANR5L15V2999": "C",
+  "VTANR5L15V3000": "C",
+  "VTANR5L15V3001": "C",
+  "VTANR5L15V3002": "C",
+  "VTANR5L15V3004": "C",
+  "VTANR5L15V3005": "C",
+  "VTANR5L15V3006": "C",
+  "VTANR5L15V3007": "C",
+  "VTANR5L15V3008": "P",
+  "VTANR5L15V3009": "C",
+  "VTANR5L15V3010": "P",
+  "VTANR5L15V3011": "P",
+  "VTANR5L15V3012": "C",
+  "VTANR5L15V3013": "C",
+  "VTANR5L15V3014": "C",
+  "VTANR5L15V3015": "C",
+  "VTANR5L15V3017": "C",
+  "VTANR5L15V3018": "C",
+  "VTANR5L15V3019": "C",
+  "VTANR5L15V3020": "P",
+  "VTANR5L15V3021": "P",
+  "VTANR5L15V3023": "C",
+  "VTANR5L15V3024": "P",
+  "VTANR5L15V3025": "P",
+  "VTANR5L15V3026": "P",
+  "VTANR5L15V3028": "C",
+  "VTANR5L15V3029": "P",
+  "VTANR5L15V3030": "P",
+  "VTANR5L15V3031": "P",
+  "VTANR5L15V3032": "P",
+  "VTANR5L15V3033": "P",
+  "VTANR5L15V3059": "P",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3075": "C",
+  "VTANR5L15V3076": "P",
+  "VTANR5L15V3077": "C",
+  "VTANR5L15V3078": "C",
+  "VTANR5L15V3079": "P",
+  "VTANR5L15V3080": "C",
+  "VTANR5L15V3081": "C",
+  "VTANR5L15V3082": "C",
+  "VTANR5L15V3083": "C",
+  "VTANR5L15V3084": "C",
+  "VTANR5L15V3085": "P",
+  "VTANR5L15V3094": "C",
+  "VTANR5L15V3095": "C",
+  "VTANR5L15V3096": "C",
+  "VTANR5L15V3097": "C",
+  "VTANR5L15V3098": "C",
+  "VTANR5L15V3099": "C",
+  "VTANR5L15V3100": "C",
+  "VTANR5L15V3101": "C",
+  "VTANR5L15V3102": "C",
+  "VTANR5L15V3103": "C",
+  "VTANR5L15V3104": "C",
+  "VTANR5L15V3105": "C",
+  "VTANR5L15V3106": "C",
+  "VTANR5L15V3107": "C",
+  "VTANR5L15V3112": "P",
+  "VTANR5L15V3114": "P",
+  "VTANR5L15V3135": "P",
+  "VTANR5L15V3136": "C",
+  "VTANR5L15V3137": "C",
+  "VTANR5L15V3138": "C",
+  "VTANR5L15V3139": "C",
+  "VTANR5L15V3140": "C",
+  "VTANR5L15V3141": "C",
+  "VTANR5L15V3142": "C",
+  "VTANR5L15V3143": "C",
+  "VTANR5L15V3165": "C",
+  "VTANR5L15V3166": "C",
+  "VTANR5L15V3167": "P",
+  "VTANR5L15V3168": "C",
+  "VTANR5L15V3169": "C",
+  "VTANR5L15V3170": "C",
+  "VTANR5L15V3171": "C",
+  "VTANR5L15V3172": "C",
+  "VTANR5L15V3173": "C",
+  "VTANR5L15V3174": "C",
+  "VTANR5L15V3175": "C",
+  "VTANR5L15V3176": "C",
+  "VTANR5L15V3177": "P",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3187": "C",
+  "VTANR5L15V3194": "C",
+  "VTANR5L15V3195": "C",
+  "VTANR5L15V3196": "P",
+  "VTANR5L15V3245": "C",
+  "VTANR5L15V3246": "P",
+  "VTANR5L15V3247": "A",
+  "VTANR5L15V3249": "P",
+  "VTANR5L15V3250": "P",
+  "VTANR5L15V3251": "P",
+  "VTANR5L15V3252": "P",
+  "VTANR5L15V3253": "P",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3280": "A",
+  "VTANR5L15V3281": "C",
+  "VTANR5L15V3282": "C",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3284": "P",
+  "VTANR5L15V3285": "P",
+  "VTANR5L15V3286": "P",
+  "VTANR5L15V3295": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3309": "C",
+  "VTANR5L15V3310": "P",
+  "VTANR5L15V3311": "P",
+  "VTANR5L15V3315": "P",
+  "VTANR5L15V3321": "P",
+  "VTANR5L15V3344": "C",
+  "VTANR5L15V3346": "C",
+  "VTANR5L15V3347": "C",
+  "VTANR5L15V3348": "P",
+  "VTANR5L15V3349": "P",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3353": "C",
+  "VTANR5L15V3354": "C",
+  "VTANR5L15V3355": "C",
+  "VTANR5L15V3360": "C",
+  "VTANR5L15V3361": "P",
+  "VTANR5L15V3362": "P",
+  "VTANR5L15V3363": "P",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3395": "C",
+  "VTANR5L15V3407": "P",
+  "VTANR5L15V3408": "P",
+  "VTANR5L15V3420": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3423": "P",
+  "VTANR5L15V3424": "P",
+  "VTANR5L15V3425": "C",
+  "VTANR5L15V3426": "P"
+ },
+ "twitter": {
+  "id": "826478037780852737",
+  "name": "Cecile Delpirou",
+  "public_metrics": {
+   "followers_count": 432,
+   "following_count": 208,
+   "listed_count": 17,
+   "tweet_count": 1124
+  },
+  "username": "C_Delpirou"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "C_Delpirou"
+ },
+ "uid": "PA722218"
+}

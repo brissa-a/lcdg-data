@@ -1,0 +1,402 @@
+{
+ "an_data_depute": {
+  "dateNais": "1964-03-09",
+  "femme": true,
+  "ident": {
+   "alpha": "Ballet-Blu",
+   "civ": "Mme",
+   "nom": "Ballet-Blu",
+   "prenom": "Françoise",
+   "trigramme": "FBL"
+  },
+  "nom": "Françoise Ballet-Blu"
+ },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722082.jpg",
+  "nosiege": "410"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA722082",
+  "civ": "Mme",
+  "communes": [
+   "Amberre (86110)",
+   "Avanton (86170)",
+   "Beaumont-Saint-Cyr (86490)",
+   "Bignoux (86800)",
+   "Bonnes (Vienne) (86300)",
+   "Buxerolles (Vienne) (86180)",
+   "Chabournay (86380)",
+   "Champigny en Rochereau (86170)",
+   "Chasseneuil-du-Poitou (86360)",
+   "Cherves (86170)",
+   "Cissé (86170)",
+   "Cuhon (86110)",
+   "Dissay (86130)",
+   "Jardres (86800)",
+   "Jaunay-Marigny (86130)",
+   "La Chapelle-Moulière (86210)",
+   "Lavoux (86800)",
+   "Liniers (86800)",
+   "Maisonneuve (86170)",
+   "Massognes (86170)",
+   "Migné-Auxances (86440)",
+   "Mirebeau (86110)",
+   "Montamisé (86360)",
+   "Neuville-de-Poitou (86170)",
+   "Poitiers (86000)",
+   "Pouillé (Vienne) (86800)",
+   "Saint Martin la Pallu (86380)",
+   "Saint-Georges-lès-Baillargeaux (86130)",
+   "Saint-Julien-l'Ars (86800)",
+   "Savigny-Lévescault (86800)",
+   "Sèvres-Anxaumont (86800)",
+   "Tercé (86800)",
+   "Thurageau (86110)",
+   "Varennes (Vienne) (86110)",
+   "Villiers (Vienne) (86190)",
+   "Vouzailles (86170)",
+   "Yversay (86170)"
+  ],
+  "departement": "Vienne",
+  "group": "La République en Marche",
+  "nom": "Ballet-Blu",
+  "numCirco": "1",
+  "numDepartement": "86",
+  "prenom": "Françoise"
+ },
+ "datan": "https://datan.fr/deputes/vienne-86/depute_francoise-balletblu",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 20,
+   "curRadiusIndex": 2,
+   "id": "ai20ri2",
+   "no": 410,
+   "polar": {
+    "angle": 2.1666156231653746,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": -0.24551934109604223,
+    "y": -0.36218552999063175
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 4 Allée du Nivernais 86000 Poitiers Téléphone : 05.49.03.61.20 Téléphone : 06.40.60.46.21"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "25/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Mélanie Beau-Fournier"
+   },
+   {
+    "collaborateur": "M. Samuel Auzanneau"
+   },
+   {
+    "collaborateur": "M. Enrique Prazian"
+   },
+   {
+    "collaborateur": "Mme Juliette Kocher"
+   }
+  ],
+  "date_naissance": "1964-03-09",
+  "emails": [
+   {
+    "email": "deputee@fballetblu.fr"
+   },
+   {
+    "email": "francoise.ballet-blu@assemblee-nationale.fr"
+   },
+   {
+    "email": "contact@fballetblu.fr"
+   }
+  ],
+  "groupe_sigle": "LREM",
+  "id": 634,
+  "id_an": "722082",
+  "lieu_naissance": "Annemasse (Haute-Savoie)",
+  "mandat_debut": "2020-08-25",
+  "nb_mandats": 1,
+  "nom": "Françoise Ballet-Blu",
+  "nom_circo": "Vienne",
+  "nom_de_famille": "Ballet-Blu",
+  "num_circo": 1,
+  "num_deptmt": "86",
+  "parti_ratt_financier": "La République en Marche",
+  "place_en_hemicycle": "410",
+  "prenom": "Françoise",
+  "profession": "Chef d'entreprise",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/fballetblu"
+  ],
+  "slug": "francoise-ballet-blu",
+  "twitter": "fballetblu",
+  "twitter_created_at": "2017-05-18T20:07:37",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Thu May 18 20:07:37 +0000 2017",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de la 1ère circonscription de la Vienne",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 657,
+   "follow_request_sent": false,
+   "followers_count": 481,
+   "following": false,
+   "friends_count": 294,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 865297846786031600,
+   "id_str": "865297846786031616",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 8,
+   "location": "Poitiers, France",
+   "name": "Françoise Ballet-Blu",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865297846786031616/1598620195",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1299333163072725000/izysuYDO_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299333163072725000/izysuYDO_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": {
+    "attributes": {},
+    "bounding_box": null,
+    "contained_within": [],
+    "country": "",
+    "country_code": "",
+    "full_name": "Poitiers, France",
+    "id": "52d8dd3073ba2905",
+    "name": "Poitiers, France",
+    "place_type": "unknown",
+    "url": "https://api.twitter.com/1.1/geo/id/52d8dd3073ba2905.json"
+   },
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "fballetblu",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 18:09:12 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1364276136398770179",
+       "indices": [
+        116,
+        139
+       ],
+       "url": "https://t.co/FKh2Mmjxqi"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1364276136398770200,
+    "id_str": "1364276136398770179",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1364263757380284400,
+    "quoted_status_id_str": "1364263757380284420",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Pour lutter contre toutes les précarités :\n\n✅Nous avons décidé de mettre à disposition des protections périodiques… https://t.co/FKh2Mmjxqi",
+    "truncated": true
+   },
+   "statuses_count": 144,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de la 1ère circonscription de la Vienne",
+  "twitter_favourites": 657,
+  "twitter_followers": 481,
+  "twitter_following": 294,
+  "twitter_id": 865297846786031600,
+  "twitter_listed": 8,
+  "twitter_name": "Françoise Ballet-Blu",
+  "twitter_protected": false,
+  "twitter_tweets": 144,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722082",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722082",
+  "url_nosdeputes": "https://www.nosdeputes.fr/francoise-ballet-blu",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/francoise-ballet-blu/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Françoise-Ballet-Blu",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722082",
+ "scrutins": {
+  "VTANR5L15V2865": "P",
+  "VTANR5L15V2876": "P",
+  "VTANR5L15V2886": "P",
+  "VTANR5L15V2887": "C",
+  "VTANR5L15V2889": "C",
+  "VTANR5L15V2890": "C",
+  "VTANR5L15V2891": "C",
+  "VTANR5L15V2892": "C",
+  "VTANR5L15V2895": "C",
+  "VTANR5L15V2896": "C",
+  "VTANR5L15V2897": "C",
+  "VTANR5L15V2898": "C",
+  "VTANR5L15V2899": "C",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "P",
+  "VTANR5L15V2971": "P",
+  "VTANR5L15V2991": "P",
+  "VTANR5L15V2995": "C",
+  "VTANR5L15V2996": "C",
+  "VTANR5L15V2997": "C",
+  "VTANR5L15V2998": "C",
+  "VTANR5L15V2999": "C",
+  "VTANR5L15V3000": "C",
+  "VTANR5L15V3001": "C",
+  "VTANR5L15V3002": "C",
+  "VTANR5L15V3003": "C",
+  "VTANR5L15V3004": "C",
+  "VTANR5L15V3005": "C",
+  "VTANR5L15V3006": "C",
+  "VTANR5L15V3007": "C",
+  "VTANR5L15V3008": "P",
+  "VTANR5L15V3009": "C",
+  "VTANR5L15V3010": "A",
+  "VTANR5L15V3011": "P",
+  "VTANR5L15V3012": "C",
+  "VTANR5L15V3013": "A",
+  "VTANR5L15V3014": "C",
+  "VTANR5L15V3017": "C",
+  "VTANR5L15V3018": "C",
+  "VTANR5L15V3020": "P",
+  "VTANR5L15V3021": "P",
+  "VTANR5L15V3059": "P",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3086": "P",
+  "VTANR5L15V3087": "P",
+  "VTANR5L15V3096": "C",
+  "VTANR5L15V3097": "C",
+  "VTANR5L15V3098": "C",
+  "VTANR5L15V3099": "C",
+  "VTANR5L15V3100": "C",
+  "VTANR5L15V3101": "C",
+  "VTANR5L15V3102": "C",
+  "VTANR5L15V3103": "C",
+  "VTANR5L15V3104": "C",
+  "VTANR5L15V3105": "C",
+  "VTANR5L15V3106": "C",
+  "VTANR5L15V3107": "C",
+  "VTANR5L15V3108": "C",
+  "VTANR5L15V3109": "P",
+  "VTANR5L15V3110": "C",
+  "VTANR5L15V3111": "C",
+  "VTANR5L15V3112": "P",
+  "VTANR5L15V3137": "C",
+  "VTANR5L15V3138": "C",
+  "VTANR5L15V3139": "C",
+  "VTANR5L15V3140": "C",
+  "VTANR5L15V3141": "C",
+  "VTANR5L15V3142": "C",
+  "VTANR5L15V3143": "C",
+  "VTANR5L15V3168": "C",
+  "VTANR5L15V3169": "C",
+  "VTANR5L15V3170": "C",
+  "VTANR5L15V3171": "C",
+  "VTANR5L15V3172": "C",
+  "VTANR5L15V3173": "C",
+  "VTANR5L15V3174": "C",
+  "VTANR5L15V3175": "C",
+  "VTANR5L15V3176": "C",
+  "VTANR5L15V3177": "P",
+  "VTANR5L15V3186": "P",
+  "VTANR5L15V3187": "C",
+  "VTANR5L15V3188": "P",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3190": "C",
+  "VTANR5L15V3198": "P",
+  "VTANR5L15V3200": "C",
+  "VTANR5L15V3201": "P",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3295": "P",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3320": "P",
+  "VTANR5L15V3321": "P",
+  "VTANR5L15V3345": "C",
+  "VTANR5L15V3346": "C",
+  "VTANR5L15V3347": "C",
+  "VTANR5L15V3348": "P",
+  "VTANR5L15V3349": "P",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3378": "P",
+  "VTANR5L15V3382": "P",
+  "VTANR5L15V3383": "P",
+  "VTANR5L15V3384": "C",
+  "VTANR5L15V3385": "P",
+  "VTANR5L15V3386": "P",
+  "VTANR5L15V3387": "P",
+  "VTANR5L15V3388": "P",
+  "VTANR5L15V3421": "P",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3423": "P",
+  "VTANR5L15V3424": "P",
+  "VTANR5L15V3425": "C",
+  "VTANR5L15V3426": "P"
+ },
+ "twitter": {
+  "id": "865297846786031616",
+  "name": "Françoise Ballet-Blu",
+  "public_metrics": {
+   "followers_count": 486,
+   "following_count": 294,
+   "listed_count": 9,
+   "tweet_count": 144
+  },
+  "username": "fballetblu"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "fballetblu"
+ },
+ "uid": "PA722082"
+}

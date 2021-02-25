@@ -1,0 +1,477 @@
+{
+ "an_data_depute": {
+  "dateNais": "1963-10-13",
+  "femme": true,
+  "ident": {
+   "alpha": "Rouaux",
+   "civ": "Mme",
+   "nom": "Rouaux",
+   "prenom": "Claudia",
+   "trigramme": "ROC"
+  },
+  "nom": "Claudia Rouaux"
+ },
+ "an_www_depute": {
+  "groupe": "Socialistes et apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/342196.jpg",
+  "nosiege": "511"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/claudiarouaux35/",
+  "twitter_link": "https://twitter.com/@claudia_rouaux/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA342196",
+  "civ": "Mme",
+  "communes": [
+   "Bléruais (35750)",
+   "Boisgervilly (35360)",
+   "Bonnemain (35270)",
+   "Breteil (35160)",
+   "Bécherel (35190)",
+   "Bédée (35137)",
+   "Cardroc (35190)",
+   "Clayes (35590)",
+   "Combourg (35270)",
+   "Cuguen (35270)",
+   "Gaël (35290)",
+   "Gévezé (35850)",
+   "Iffendic (35750)",
+   "Irodouër (35850)",
+   "La Baussaine (35190)",
+   "La Chapelle-Chaussée (35630)",
+   "La Chapelle-Thouarault (35590)",
+   "La Chapelle-aux-Filtzméens (35190)",
+   "La Chapelle-du-Lou-du-Lac (35360)",
+   "La Nouaye (35137)",
+   "Landujan (35360)",
+   "Langan (35850)",
+   "Lanhélin (35720)",
+   "Le Crouais (35290)",
+   "Le Verger (35160)",
+   "Les Iffs (35630)",
+   "Longaulnay (35190)",
+   "Lourmais (35270)",
+   "Meillac (35270)",
+   "Miniac-sous-Bécherel (35190)",
+   "Montauban-de-Bretagne (35360)",
+   "Montfort-sur-Meu (35160)",
+   "Muel (35290)",
+   "Médréac (35360)",
+   "Pacé (Ille-et-Vilaine) (35740)",
+   "Parthenay-de-Bretagne (35850)",
+   "Plesder (35720)",
+   "Pleugueneuc (35720)",
+   "Pleumeleuc (35137)",
+   "Quédillac (35290)",
+   "Rennes (35000)",
+   "Rennes (35200)",
+   "Rennes (35700)",
+   "Romillé (35850)",
+   "Saint-Brieuc-des-Iffs (35630)",
+   "Saint-Domineuc (35190)",
+   "Saint-Gonlay (35750)",
+   "Saint-Léger-des-Prés (35270)",
+   "Saint-M'Hervon (35360)",
+   "Saint-Malon-sur-Mel (35750)",
+   "Saint-Maugan (35750)",
+   "Saint-Méen-le-Grand (35290)",
+   "Saint-Onen-la-Chapelle (35290)",
+   "Saint-Pern (35190)",
+   "Saint-Pierre-de-Plesguen (35720)",
+   "Saint-Thual (35190)",
+   "Saint-Uniac (35360)",
+   "Talensac (35160)",
+   "Tinténiac (35190)",
+   "Tressé (35720)",
+   "Trimer (35190)",
+   "Trémeheuc (35270)",
+   "Trévérien (35190)"
+  ],
+  "departement": "Ille-et-vilaine",
+  "group": "Socialistes et apparentés",
+  "nom": "Rouaux",
+  "numCirco": "3",
+  "numDepartement": "35",
+  "prenom": "Claudia"
+ },
+ "datan": "https://datan.fr/deputes/ille-et-vilaine-35/depute_claudia-rouaux",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 39,
+   "curRadiusIndex": 5,
+   "id": "ai39ri5",
+   "no": 511,
+   "polar": {
+    "angle": 2.6068534785106796,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.5377509870375872,
+    "y": -0.31857337409205605
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 2 Avenue du Languedoc 35000 Rennes Téléphone : 02.99.33.03.92"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "12/02/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Bretagne / Conseil régional / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Delphine Rolland"
+   },
+   {
+    "collaborateur": "M. Julien Cahu"
+   }
+  ],
+  "date_naissance": "1963-10-13",
+  "emails": [
+   {
+    "email": "claudia.rouaux@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "SOC",
+  "id": 612,
+  "id_an": "342196",
+  "lieu_naissance": "Sainte-Gemmes-d'Andigné (Maine-et-Loire)",
+  "mandat_debut": "2020-02-12",
+  "nb_mandats": 1,
+  "nom": "Claudia Rouaux",
+  "nom_circo": "Ille-et-Vilaine",
+  "nom_de_famille": "Rouaux",
+  "num_circo": 3,
+  "num_deptmt": "35",
+  "parti_ratt_financier": "Parti socialiste",
+  "place_en_hemicycle": "511",
+  "prenom": "Claudia",
+  "profession": "Gestionnaire à l'INRAE",
+  "sexe": "F",
+  "sites_web": [
+   "http://www.claudiarouaux.fr",
+   "https://twitter.com/claudia_rouaux",
+   "https://fr-fr.facebook.com/claudiarouaux35"
+  ],
+  "slug": "claudia-rouaux",
+  "twitter": "claudia_rouaux",
+  "twitter_created_at": "2015-11-03T07:23:59",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Tue Nov 03 07:23:59 +0000 2015",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée de la 3e circonscription d'Ille-et-Vilaine. Membre de la commission des finances. Conseillère régionale de la @regionbretagne 🌹",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 1523,
+   "follow_request_sent": false,
+   "followers_count": 841,
+   "following": false,
+   "friends_count": 589,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 4103047462,
+   "id_str": "4103047462",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 23,
+   "location": "",
+   "name": "Claudia Rouaux",
+   "notifications": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4103047462/1582577698",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1233385615087022085/jk8MHoY5_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233385615087022085/jk8MHoY5_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "claudia_rouaux",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 21 19:48:30 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        21,
+        37
+       ],
+       "text": "MinimumJeunesse"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 443129202,
+       "id_str": "443129202",
+       "indices": [
+        3,
+        19
+       ],
+       "name": "Valérie Rabault",
+       "screen_name": "Valerie_Rabault"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1363576350800502800,
+    "id_str": "1363576350800502785",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 81,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Sun Feb 21 12:40:01 +0000 2021",
+     "entities": {
+      "hashtags": [
+       {
+        "indices": [
+         0,
+         16
+        ],
+        "text": "MinimumJeunesse"
+       }
+      ],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1363468516842754048",
+        "indices": [
+         117,
+         140
+        ],
+        "url": "https://t.co/6HYarPnx4V"
+       }
+      ],
+      "user_mentions": []
+     },
+     "favorite_count": 148,
+     "favorited": false,
+     "geo": null,
+     "id": 1363468516842754000,
+     "id_str": "1363468516842754048",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 81,
+     "retweeted": false,
+     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+     "text": "#MinimumJeunesse : 5 raisons\n1. En Europe, 23 des 27 pays en ont de un. Pas la France\n2. La pauvreté augmente de fa… https://t.co/6HYarPnx4V",
+     "truncated": true
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Valerie_Rabault: #MinimumJeunesse : 5 raisons\n1. En Europe, 23 des 27 pays en ont de un. Pas la France\n2. La pauvreté augmente de façon…",
+    "truncated": false
+   },
+   "statuses_count": 608,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée de la 3e circonscription d'Ille-et-Vilaine. Membre de la commission des finances. Conseillère régionale de la @regionbretagne 🌹",
+  "twitter_favourites": 1523,
+  "twitter_followers": 841,
+  "twitter_following": 589,
+  "twitter_id": 4103047462,
+  "twitter_listed": 23,
+  "twitter_name": "Claudia Rouaux",
+  "twitter_protected": false,
+  "twitter_tweets": 608,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342196",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342196",
+  "url_nosdeputes": "https://www.nosdeputes.fr/claudia-rouaux",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/claudia-rouaux/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Claudia-Rouaux",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342196",
+ "scrutins": {
+  "VTANR5L15V2707": "P",
+  "VTANR5L15V2713": "P",
+  "VTANR5L15V2714": "P",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "A",
+  "VTANR5L15V2735": "A",
+  "VTANR5L15V2736": "A",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "C",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "C",
+  "VTANR5L15V2742": "A",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "C",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2751": "A",
+  "VTANR5L15V2752": "A",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "C",
+  "VTANR5L15V2756": "C",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "P",
+  "VTANR5L15V2761": "P",
+  "VTANR5L15V2762": "P",
+  "VTANR5L15V2772": "C",
+  "VTANR5L15V2773": "C",
+  "VTANR5L15V2774": "A",
+  "VTANR5L15V2775": "P",
+  "VTANR5L15V2776": "P",
+  "VTANR5L15V2777": "P",
+  "VTANR5L15V2778": "P",
+  "VTANR5L15V2781": "P",
+  "VTANR5L15V2782": "P",
+  "VTANR5L15V2783": "P",
+  "VTANR5L15V2784": "P",
+  "VTANR5L15V2785": "P",
+  "VTANR5L15V2786": "P",
+  "VTANR5L15V2787": "P",
+  "VTANR5L15V2788": "C",
+  "VTANR5L15V2789": "P",
+  "VTANR5L15V2791": "P",
+  "VTANR5L15V2793": "P",
+  "VTANR5L15V2794": "P",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2816": "C",
+  "VTANR5L15V2817": "A",
+  "VTANR5L15V2886": "P",
+  "VTANR5L15V2931": "P",
+  "VTANR5L15V2932": "P",
+  "VTANR5L15V2933": "P",
+  "VTANR5L15V2934": "P",
+  "VTANR5L15V2935": "P",
+  "VTANR5L15V2936": "C",
+  "VTANR5L15V2937": "P",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2956": "P",
+  "VTANR5L15V2957": "P",
+  "VTANR5L15V2960": "P",
+  "VTANR5L15V2961": "P",
+  "VTANR5L15V2962": "P",
+  "VTANR5L15V2990": "P",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V2992": "P",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3137": "P",
+  "VTANR5L15V3164": "P",
+  "VTANR5L15V3165": "P",
+  "VTANR5L15V3166": "P",
+  "VTANR5L15V3167": "C",
+  "VTANR5L15V3168": "C",
+  "VTANR5L15V3169": "C",
+  "VTANR5L15V3170": "P",
+  "VTANR5L15V3171": "P",
+  "VTANR5L15V3172": "P",
+  "VTANR5L15V3173": "P",
+  "VTANR5L15V3174": "A",
+  "VTANR5L15V3175": "P",
+  "VTANR5L15V3177": "A",
+  "VTANR5L15V3179": "P",
+  "VTANR5L15V3180": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3279": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3309": "P",
+  "VTANR5L15V3310": "C",
+  "VTANR5L15V3311": "P",
+  "VTANR5L15V3312": "P",
+  "VTANR5L15V3314": "C",
+  "VTANR5L15V3315": "C",
+  "VTANR5L15V3326": "P",
+  "VTANR5L15V3327": "P",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3379": "P",
+  "VTANR5L15V3421": "A",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3427": "P",
+  "VTANR5L15V3433": "C",
+  "VTANR5L15V3434": "P",
+  "VTANR5L15V3435": "P",
+  "VTANR5L15V3436": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "C",
+  "VTANR5L15V3440": "P",
+  "VTANR5L15V3441": "C",
+  "VTANR5L15V3442": "C",
+  "VTANR5L15V3443": "C"
+ },
+ "twitter": {
+  "id": "4103047462",
+  "name": "Claudia Rouaux",
+  "public_metrics": {
+   "followers_count": 846,
+   "following_count": 592,
+   "listed_count": 24,
+   "tweet_count": 609
+  },
+  "username": "claudia_rouaux"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "claudia_rouaux"
+ },
+ "uid": "PA342196"
+}

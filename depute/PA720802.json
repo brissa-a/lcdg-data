@@ -1,0 +1,567 @@
+{
+ "an_data_depute": {
+  "dateNais": "1960-04-06",
+  "femme": true,
+  "ident": {
+   "alpha": "Pujol",
+   "civ": "Mme",
+   "nom": "Pujol",
+   "prenom": "Catherine",
+   "trigramme": "CPU"
+  },
+  "nom": "Catherine Pujol"
+ },
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720802.jpg",
+  "nosiege": "59"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/catherine.pujol.94/",
+  "twitter_link": "https://twitter.com/@catherinepujol1/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA720802",
+  "civ": "Mme",
+  "communes": [
+   "Alenya (66200)",
+   "Ansignan (66220)",
+   "Arboussols (66320)",
+   "Bélesta (Pyrénées-Orientales) (66720)",
+   "Campoussy (66730)",
+   "Canet-en-Roussillon (66140)",
+   "Caramany (66720)",
+   "Cases-de-Pène (66600)",
+   "Cassagnes (Pyrénées-Orientales) (66720)",
+   "Caudiès-de-Fenouillèdes (66220)",
+   "Claira (66530)",
+   "Espira-de-l'Agly (66600)",
+   "Estagel (66310)",
+   "Felluns (66730)",
+   "Fenouillet (Pyrénées-Orientales) (66220)",
+   "Fosse (Pyrénées-Orientales) (66220)",
+   "Lansac (Pyrénées-Orientales) (66720)",
+   "Latour-Bas-Elne (66200)",
+   "Latour-de-France (66720)",
+   "Le Barcarès (66420)",
+   "Le Vivier (66730)",
+   "Lesquerde (66220)",
+   "Maury (66460)",
+   "Montner (66720)",
+   "Opoul-Périllos (66600)",
+   "Perpignan (66000)",
+   "Perpignan (66100)",
+   "Peyrestortes (66600)",
+   "Pia (66380)",
+   "Planèzes (66720)",
+   "Prats-de-Sournia (66730)",
+   "Prugnanes (66220)",
+   "Pézilla-de-Conflent (66730)",
+   "Rabouillet (66730)",
+   "Rasiguères (66720)",
+   "Rivesaltes (66600)",
+   "Saint-Arnac (66220)",
+   "Saint-Cyprien (Pyrénées-Orientales) (66750)",
+   "Saint-Hippolyte (Pyrénées-Orientales) (66510)",
+   "Saint-Laurent-de-la-Salanque (66250)",
+   "Saint-Martin-de-Fenouillet (66220)",
+   "Saint-Nazaire (Pyrénées-Orientales) (66570)",
+   "Saint-Paul-de-Fenouillet (66220)",
+   "Sainte-Marie-la-Mer (66470)",
+   "Saleilles (66280)",
+   "Salses-le-Château (66600)",
+   "Sournia (66730)",
+   "Tarerach (66320)",
+   "Tautavel (66720)",
+   "Torreilles (66440)",
+   "Trilla (66220)",
+   "Trévillach (66130)",
+   "Villelongue-de-la-Salanque (66410)",
+   "Vingrau (66600)",
+   "Vira (Pyrénées-Orientales) (66220)"
+  ],
+  "departement": "Pyrénées-orientales",
+  "group": "Non inscrit",
+  "nom": "Pujol",
+  "numCirco": "2",
+  "numDepartement": "66",
+  "prenom": "Catherine"
+ },
+ "datan": "https://datan.fr/deputes/pyrenees-orientales-66/depute_catherine-pujol",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 3,
+   "curRadiusIndex": 10,
+   "id": "ai3ri10",
+   "no": 59,
+   "polar": {
+    "angle": 0.11635528346628862,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.9311609603830716,
+    "y": -0.10885862510185755
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Permanence parlementaire 16 Avenue de Catalogne 66140 Canet-en-Roussillon"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "03/08/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": " /  / membre"
+   },
+   {
+    "mandat": "Perpignan / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Jean-François Lopez"
+   },
+   {
+    "collaborateur": "Mme Rania Elias-Milad"
+   },
+   {
+    "collaborateur": "M. Louis Mompeu"
+   },
+   {
+    "collaborateur": "Mme Séverine Potel"
+   }
+  ],
+  "date_naissance": "1960-04-06",
+  "emails": [
+   {
+    "email": "catherinepujol16@gmail.com"
+   },
+   {
+    "email": "catherine.pujol@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "NI",
+  "id": 626,
+  "id_an": "720802",
+  "lieu_naissance": "Perpignan (Pyrénées-Orientales)",
+  "mandat_debut": "2020-08-03",
+  "nb_mandats": 2,
+  "nom": "Catherine Pujol",
+  "nom_circo": "Pyrénées-Orientales",
+  "nom_de_famille": "Pujol",
+  "num_circo": 2,
+  "num_deptmt": "66",
+  "parti_ratt_financier": "Rassemblement national",
+  "place_en_hemicycle": "59",
+  "prenom": "Catherine",
+  "profession": "non communiqué",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/catherinepujol1",
+   "https://fr-fr.facebook.com/catherine.pujol.94"
+  ],
+  "slug": "catherine-pujol",
+  "twitter": "catherinepujol1",
+  "twitter_created_at": "2016-11-03T23:09:19",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Thu Nov 03 23:09:19 +0000 2016",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée 🇫🇷Commission Défense🇫🇷#PyrénéesOrientales / Conseillère Municipale & Communautaire #Perpignan RN / Cadre Supérieur de Santé",
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   },
+   "favourites_count": 18213,
+   "follow_request_sent": false,
+   "followers_count": 2933,
+   "following": false,
+   "friends_count": 1263,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 794315550352691200,
+   "id_str": "794315550352691205",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 39,
+   "location": "Perpignan, France",
+   "name": "Catherine Pujol",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/794315550352691205/1596435483",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1297328603978436608/iMOZTE7I_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297328603978436608/iMOZTE7I_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "CatherinePUJOL1",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 00:24:02 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "media": [
+      {
+       "display_url": "pic.twitter.com/7rKV07pyAV",
+       "expanded_url": "https://twitter.com/JPGarraud/status/1363788859109236739/photo/1",
+       "id": 1363788853639860200,
+       "id_str": "1363788853639860224",
+       "indices": [
+        106,
+        129
+       ],
+       "media_url": "http://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+       "sizes": {
+        "large": {
+         "h": 1178,
+         "resize": "fit",
+         "w": 1600
+        },
+        "medium": {
+         "h": 884,
+         "resize": "fit",
+         "w": 1200
+        },
+        "small": {
+         "h": 501,
+         "resize": "fit",
+         "w": 680
+        },
+        "thumb": {
+         "h": 150,
+         "resize": "crop",
+         "w": 150
+        }
+       },
+       "source_status_id": 1363788859109236700,
+       "source_status_id_str": "1363788859109236739",
+       "source_user_id": 92795265,
+       "source_user_id_str": "92795265",
+       "type": "photo",
+       "url": "https://t.co/7rKV07pyAV"
+      }
+     ],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "facebook.com/10005067885081…",
+       "expanded_url": "https://www.facebook.com/100050678850815/posts/249484373417523/?d=n",
+       "indices": [
+        82,
+        105
+       ],
+       "url": "https://t.co/L0OEGrQPVU"
+      }
+     ],
+     "user_mentions": [
+      {
+       "id": 92795265,
+       "id_str": "92795265",
+       "indices": [
+        3,
+        13
+       ],
+       "name": "Jean-Paul GARRAUD",
+       "screen_name": "JPGarraud"
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "display_url": "pic.twitter.com/7rKV07pyAV",
+       "expanded_url": "https://twitter.com/JPGarraud/status/1363788859109236739/photo/1",
+       "id": 1363788853639860200,
+       "id_str": "1363788853639860224",
+       "indices": [
+        106,
+        129
+       ],
+       "media_url": "http://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+       "sizes": {
+        "large": {
+         "h": 1178,
+         "resize": "fit",
+         "w": 1600
+        },
+        "medium": {
+         "h": 884,
+         "resize": "fit",
+         "w": 1200
+        },
+        "small": {
+         "h": 501,
+         "resize": "fit",
+         "w": 680
+        },
+        "thumb": {
+         "h": 150,
+         "resize": "crop",
+         "w": 150
+        }
+       },
+       "source_status_id": 1363788859109236700,
+       "source_status_id_str": "1363788859109236739",
+       "source_user_id": 92795265,
+       "source_user_id_str": "92795265",
+       "type": "photo",
+       "url": "https://t.co/7rKV07pyAV"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1364008078090330000,
+    "id_str": "1364008078090330113",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 118,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Mon Feb 22 09:52:56 +0000 2021",
+     "entities": {
+      "hashtags": [],
+      "media": [
+       {
+        "display_url": "pic.twitter.com/7rKV07pyAV",
+        "expanded_url": "https://twitter.com/JPGarraud/status/1363788859109236739/photo/1",
+        "id": 1363788853639860200,
+        "id_str": "1363788853639860224",
+        "indices": [
+         91,
+         114
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+        "sizes": {
+         "large": {
+          "h": 1178,
+          "resize": "fit",
+          "w": 1600
+         },
+         "medium": {
+          "h": 884,
+          "resize": "fit",
+          "w": 1200
+         },
+         "small": {
+          "h": 501,
+          "resize": "fit",
+          "w": 680
+         },
+         "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+         }
+        },
+        "type": "photo",
+        "url": "https://t.co/7rKV07pyAV"
+       }
+      ],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "facebook.com/10005067885081…",
+        "expanded_url": "https://www.facebook.com/100050678850815/posts/249484373417523/?d=n",
+        "indices": [
+         67,
+         90
+        ],
+        "url": "https://t.co/L0OEGrQPVU"
+       }
+      ],
+      "user_mentions": []
+     },
+     "extended_entities": {
+      "media": [
+       {
+        "display_url": "pic.twitter.com/7rKV07pyAV",
+        "expanded_url": "https://twitter.com/JPGarraud/status/1363788859109236739/photo/1",
+        "id": 1363788853639860200,
+        "id_str": "1363788853639860224",
+        "indices": [
+         91,
+         114
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eu0mvJnXUAAPqZC.jpg",
+        "sizes": {
+         "large": {
+          "h": 1178,
+          "resize": "fit",
+          "w": 1600
+         },
+         "medium": {
+          "h": 884,
+          "resize": "fit",
+          "w": 1200
+         },
+         "small": {
+          "h": 501,
+          "resize": "fit",
+          "w": 680
+         },
+         "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+         }
+        },
+        "type": "photo",
+        "url": "https://t.co/7rKV07pyAV"
+       }
+      ]
+     },
+     "favorite_count": 229,
+     "favorited": false,
+     "geo": null,
+     "id": 1363788859109236700,
+     "id_str": "1363788859109236739",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 118,
+     "retweeted": false,
+     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+     "text": "✍🏼 Retrouvez ma tribune sur notre contre-projet sur l'islamisme 👉🏼 https://t.co/L0OEGrQPVU https://t.co/7rKV07pyAV",
+     "truncated": false
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @JPGarraud: ✍🏼 Retrouvez ma tribune sur notre contre-projet sur l'islamisme 👉🏼 https://t.co/L0OEGrQPVU https://t.co/7rKV07pyAV",
+    "truncated": false
+   },
+   "statuses_count": 18451,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": null,
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée 🇫🇷Commission Défense🇫🇷#PyrénéesOrientales / Conseillère Municipale & Communautaire #Perpignan RN / Cadre Supérieur de Santé",
+  "twitter_favourites": 18213,
+  "twitter_followers": 2933,
+  "twitter_following": 1263,
+  "twitter_id": 794315550352691200,
+  "twitter_listed": 39,
+  "twitter_name": "Catherine Pujol",
+  "twitter_protected": false,
+  "twitter_tweets": 18451,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720802",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720802",
+  "url_nosdeputes": "https://www.nosdeputes.fr/catherine-pujol",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/catherine-pujol/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Catherine-Pujol",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720802",
+ "scrutins": {
+  "VTANR5L15V2885": "P",
+  "VTANR5L15V2886": "P",
+  "VTANR5L15V2887": "P",
+  "VTANR5L15V2895": "P",
+  "VTANR5L15V2896": "P",
+  "VTANR5L15V2897": "C",
+  "VTANR5L15V2898": "P",
+  "VTANR5L15V2899": "P",
+  "VTANR5L15V2931": "A",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2947": "P",
+  "VTANR5L15V2948": "A",
+  "VTANR5L15V2958": "A",
+  "VTANR5L15V2959": "A",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V2993": "P",
+  "VTANR5L15V2994": "P",
+  "VTANR5L15V2995": "C",
+  "VTANR5L15V2996": "C",
+  "VTANR5L15V2997": "C",
+  "VTANR5L15V2999": "P",
+  "VTANR5L15V3000": "P",
+  "VTANR5L15V3001": "P",
+  "VTANR5L15V3003": "A",
+  "VTANR5L15V3004": "C",
+  "VTANR5L15V3005": "C",
+  "VTANR5L15V3006": "P",
+  "VTANR5L15V3007": "P",
+  "VTANR5L15V3008": "P",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3272": "P",
+  "VTANR5L15V3273": "A",
+  "VTANR5L15V3274": "C",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3279": "C",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3296": "C",
+  "VTANR5L15V3308": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3420": "P",
+  "VTANR5L15V3421": "A",
+  "VTANR5L15V3423": "P",
+  "VTANR5L15V3424": "P",
+  "VTANR5L15V3425": "P",
+  "VTANR5L15V3426": "P",
+  "VTANR5L15V3430": "P",
+  "VTANR5L15V3431": "C",
+  "VTANR5L15V3432": "P"
+ },
+ "twitter": {
+  "id": "794315550352691205",
+  "name": "Catherine Pujol",
+  "public_metrics": {
+   "followers_count": 2936,
+   "following_count": 1263,
+   "listed_count": 40,
+   "tweet_count": 18453
+  },
+  "username": "CatherinePUJOL1"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "CatherinePUJOL1"
+ },
+ "uid": "PA720802"
+}

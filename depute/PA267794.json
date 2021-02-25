@@ -1,0 +1,343 @@
+{
+ "an_data_depute": {
+  "dateNais": "1962-10-13",
+  "femme": true,
+  "ident": {
+   "alpha": "Tabarot",
+   "civ": "Mme",
+   "nom": "Tabarot",
+   "prenom": "Michèle",
+   "trigramme": "MTA"
+  },
+  "nom": "Michèle Tabarot"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267794.jpg",
+  "nosiege": "86"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA267794",
+  "civ": "Mme",
+  "communes": [
+   "Auribeau-sur-Siagne (06810)",
+   "Grasse (06130)",
+   "Grasse (06520)",
+   "La Roquette-sur-Siagne (06550)",
+   "Le Cannet (06110)",
+   "Mouans-Sartoux (06370)",
+   "Mougins (06250)",
+   "Pégomas (06580)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Les Républicains",
+  "nom": "Tabarot",
+  "numCirco": "9",
+  "numDepartement": "06",
+  "prenom": "Michèle"
+ },
+ "datan": "https://datan.fr/deputes/alpes-maritimes-06/depute_michele-tabarot",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 5,
+   "curRadiusIndex": 3,
+   "id": "ai5ri3",
+   "no": 86,
+   "polar": {
+    "angle": 0.4908738521234052,
+    "radius": 0.5
+   },
+   "pos": {
+    "x": 0.44096063217417747,
+    "y": -0.23574496817506388
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Mairie, 20 Boulevard Sadi Carnot, 06110 Le Cannet Téléphone : 04 92 18 21 00"
+   },
+   {
+    "adresse": "Permanence de Pégomas 56 Place du Logis 06580 Pégomas Téléphone : 04 93 42 61 23"
+   },
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
+   },
+   {
+    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
+   },
+   {
+    "mandat": "21/06/2017 /  / "
+   },
+   {
+    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Cannet / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Romain Aidaoui"
+   },
+   {
+    "collaborateur": "Mme Marie-Thérèse David"
+   },
+   {
+    "collaborateur": "M. Frank Mezzasoma"
+   },
+   {
+    "collaborateur": "M. David Avaliani"
+   },
+   {
+    "collaborateur": "M. Rémi Blardone"
+   }
+  ],
+  "date_naissance": "1962-10-13",
+  "emails": [
+   {
+    "email": "michele.tabarot@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 61,
+  "id_an": "267794",
+  "lieu_naissance": "Alicante (Espagne)",
+  "mandat_debut": "2017-06-21",
+  "nb_mandats": 1,
+  "nom": "Michèle Tabarot",
+  "nom_circo": "Alpes-Maritimes",
+  "nom_de_famille": "Tabarot",
+  "num_circo": 9,
+  "num_deptmt": "06",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "86",
+  "prenom": "Michèle",
+  "profession": "Chef d'entreprise",
+  "sexe": "F",
+  "sites_web": [
+   "https://twitter.com/MTabarot",
+   "http://www.micheletabarot.fr"
+  ],
+  "slug": "michele-tabarot",
+  "twitter": "MTabarot",
+  "twitter_created_at": "2012-03-04T17:09:16",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Sun Mar 04 17:09:16 +0000 2012",
+   "default_profile": false,
+   "default_profile_image": false,
+   "description": "Député des Alpes-Maritimes #9Circo — Membre commissions des Affaires étrangères & européennes @AssembleeNat • Présidente de la Majorité municipale du Cannet",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "micheletabarot.fr",
+       "expanded_url": "http://www.micheletabarot.fr/",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/yxj9hd2TnR"
+      }
+     ]
+    }
+   },
+   "favourites_count": 59,
+   "follow_request_sent": false,
+   "followers_count": 5480,
+   "following": false,
+   "friends_count": 520,
+   "geo_enabled": true,
+   "has_extended_profile": false,
+   "id": 514546669,
+   "id_str": "514546669",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 147,
+   "location": "Alpes-Maritimes",
+   "name": "Michèle Tabarot",
+   "notifications": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/514546669/1498496588",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1354027728228524033/q8TV7Hed_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354027728228524033/q8TV7Hed_normal.jpg",
+   "profile_link_color": "0049B4",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "protected": false,
+   "screen_name": "MTabarot",
+   "statuses_count": 1595,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/yxj9hd2TnR",
+   "utc_offset": null,
+   "verified": true
+  },
+  "twitter_description": "Député des Alpes-Maritimes #9Circo — Membre commissions des Affaires étrangères & européennes @AssembleeNat • Présidente de la Majorité municipale du Cannet",
+  "twitter_favourites": 59,
+  "twitter_followers": 5480,
+  "twitter_following": 520,
+  "twitter_id": 514546669,
+  "twitter_listed": 147,
+  "twitter_name": "Michèle Tabarot",
+  "twitter_protected": false,
+  "twitter_tweets": 1595,
+  "twitter_verified": true,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794",
+  "url_nosdeputes": "https://www.nosdeputes.fr/michele-tabarot",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/michele-tabarot/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Michèle-Tabarot",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794",
+ "scrutins": {
+  "VTANR5L15V1": "C",
+  "VTANR5L15V106": "P",
+  "VTANR5L15V1114": "P",
+  "VTANR5L15V1171": "P",
+  "VTANR5L15V119": "C",
+  "VTANR5L15V1209": "A",
+  "VTANR5L15V1263": "C",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V138": "C",
+  "VTANR5L15V139": "C",
+  "VTANR5L15V1429": "C",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1536": "C",
+  "VTANR5L15V1633": "C",
+  "VTANR5L15V1634": "C",
+  "VTANR5L15V1662": "P",
+  "VTANR5L15V1709": "C",
+  "VTANR5L15V1711": "C",
+  "VTANR5L15V18": "C",
+  "VTANR5L15V1814": "C",
+  "VTANR5L15V183": "C",
+  "VTANR5L15V184": "C",
+  "VTANR5L15V1840": "C",
+  "VTANR5L15V19": "C",
+  "VTANR5L15V1912": "A",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1941": "C",
+  "VTANR5L15V1957": "A",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V2039": "P",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2071": "C",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V208": "C",
+  "VTANR5L15V2130": "P",
+  "VTANR5L15V2131": "P",
+  "VTANR5L15V2146": "C",
+  "VTANR5L15V2147": "P",
+  "VTANR5L15V2177": "C",
+  "VTANR5L15V2235": "C",
+  "VTANR5L15V2307": "C",
+  "VTANR5L15V2329": "A",
+  "VTANR5L15V2337": "C",
+  "VTANR5L15V2461": "P",
+  "VTANR5L15V2706": "P",
+  "VTANR5L15V272": "C",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "A",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "P",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "A",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2751": "C",
+  "VTANR5L15V2752": "C",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "C",
+  "VTANR5L15V2761": "C",
+  "VTANR5L15V2762": "C",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V314": "P",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "P",
+  "VTANR5L15V3278": "C",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3303": "C",
+  "VTANR5L15V3304": "C",
+  "VTANR5L15V3305": "C",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "A",
+  "VTANR5L15V345": "C",
+  "VTANR5L15V351": "C",
+  "VTANR5L15V365": "A",
+  "VTANR5L15V389": "P",
+  "VTANR5L15V407": "C",
+  "VTANR5L15V419": "P",
+  "VTANR5L15V433": "A",
+  "VTANR5L15V477": "P",
+  "VTANR5L15V483": "C",
+  "VTANR5L15V729": "A",
+  "VTANR5L15V928": "C",
+  "VTANR5L15V942": "P",
+  "VTANR5L15V974": "C"
+ },
+ "twitter": {
+  "id": "514546669",
+  "name": "Michèle Tabarot",
+  "public_metrics": {
+   "followers_count": 5482,
+   "following_count": 520,
+   "listed_count": 147,
+   "tweet_count": 1596
+  },
+  "username": "MTabarot"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "MTabarot"
+ },
+ "uid": "PA267794"
+}

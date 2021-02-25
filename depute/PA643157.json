@@ -1,0 +1,441 @@
+{
+ "an_data_depute": {
+  "dateNais": "1960-08-14",
+  "femme": false,
+  "ident": {
+   "alpha": "Naillet",
+   "civ": "M.",
+   "nom": "Naillet",
+   "prenom": "Philippe",
+   "trigramme": "PNI"
+  },
+  "nom": "Philippe Naillet"
+ },
+ "an_www_depute": {
+  "groupe": "Socialistes et apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643157.jpg",
+  "nosiege": "505"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA643157",
+  "civ": "M.",
+  "communes": [
+   "Saint-Denis (97400)",
+   "Saint-Denis (97417)",
+   "Saint-Denis (97490)"
+  ],
+  "departement": "La réunion",
+  "group": "Socialistes et apparentés",
+  "nom": "Naillet",
+  "numCirco": "1",
+  "numDepartement": "974",
+  "prenom": "Philippe"
+ },
+ "datan": "https://datan.fr/deputes/reunion-974/depute_philippe-naillet",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 32,
+   "curRadiusIndex": 4,
+   "id": "ai32ri4",
+   "no": 505,
+   "polar": {
+    "angle": 2.5777170490993173,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.4754194231183844,
+    "y": -0.30069646593645033
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire 190 Rue des Deux Canons Immeuble Futura 97490 Sainte-Clotilde Téléphone : 02 62 29 14 14 Télécopie : 02 62 29 14 15"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "12/03/2016 / 17/06/2017 / reprise de l'exercice du mandat d'un ancien membre du gouvernement"
+   },
+   {
+    "mandat": "14/07/2020 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Saint-Denis / Conseil municipal / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Yann Lowinsky"
+   },
+   {
+    "collaborateur": "M. Thomas Vigot"
+   },
+   {
+    "collaborateur": "M. Alexandre Boyer"
+   }
+  ],
+  "date_naissance": "1960-08-14",
+  "emails": [
+   {
+    "email": "philippe.naillet@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "SOC",
+  "id": 622,
+  "id_an": "643157",
+  "lieu_naissance": "Saint-Denis de la Réunion (Réunion)",
+  "mandat_debut": "2020-07-14",
+  "nb_mandats": 1,
+  "nom": "Philippe Naillet",
+  "nom_circo": "Réunion",
+  "nom_de_famille": "Naillet",
+  "num_circo": 1,
+  "num_deptmt": "974",
+  "parti_ratt_financier": "Parti socialiste",
+  "place_en_hemicycle": "505",
+  "prenom": "Philippe",
+  "profession": "Inspecteur assurance-vie",
+  "sexe": "H",
+  "sites_web": [
+   "https://twitter.com/PNaillet",
+   "https://www.facebook.com/nailletphilippe"
+  ],
+  "slug": "philippe-naillet",
+  "twitter": "PNaillet",
+  "twitter_created_at": "2020-07-15T08:52:09",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Wed Jul 15 08:52:09 +0000 2020",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Député de la 1ère circonscription de La Réunion\n1er Secrétaire de la fédération #socialiste de #LaRéunion 🇲🇫🇷🇪🌹",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "facebook.com/nailletphilippe",
+       "expanded_url": "https://www.facebook.com/nailletphilippe",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/ekrniLfZil"
+      }
+     ]
+    }
+   },
+   "favourites_count": 869,
+   "follow_request_sent": false,
+   "followers_count": 389,
+   "following": false,
+   "friends_count": 330,
+   "geo_enabled": false,
+   "has_extended_profile": true,
+   "id": 1283323346076283000,
+   "id_str": "1283323346076282880",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 15,
+   "location": "Saint-Denis de La Réunion",
+   "name": "Philippe Naillet",
+   "notifications": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": null,
+   "profile_background_image_url_https": null,
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283323346076282880/1594803985",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1283325298730205184/KN5sBPCQ_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283325298730205184/KN5sBPCQ_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "PNaillet",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 16:07:15 +0000 2021",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        44,
+        61
+       ],
+       "text": "VaccinationCovid"
+      }
+     ],
+     "symbols": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "id": 443129202,
+       "id_str": "443129202",
+       "indices": [
+        3,
+        19
+       ],
+       "name": "Valérie Rabault",
+       "screen_name": "Valerie_Rabault"
+      },
+      {
+       "id": 951480480,
+       "id_str": "951480480",
+       "indices": [
+        90,
+        105
+       ],
+       "name": "Gouvernement",
+       "screen_name": "gouvernementFR"
+      }
+     ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1364245446072361000,
+    "id_str": "1364245446072360961",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "retweet_count": 23,
+    "retweeted": false,
+    "retweeted_status": {
+     "contributors": null,
+     "coordinates": null,
+     "created_at": "Mon Feb 22 18:44:09 +0000 2021",
+     "entities": {
+      "hashtags": [
+       {
+        "indices": [
+         23,
+         40
+        ],
+        "text": "VaccinationCovid"
+       }
+      ],
+      "symbols": [],
+      "urls": [
+       {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1363922541493026816",
+        "indices": [
+         120,
+         143
+        ],
+        "url": "https://t.co/6SgCywbRuX"
+       }
+      ],
+      "user_mentions": [
+       {
+        "id": 951480480,
+        "id_str": "951480480",
+        "indices": [
+         69,
+         84
+        ],
+        "name": "Gouvernement",
+        "screen_name": "gouvernementFR"
+       }
+      ]
+     },
+     "favorite_count": 21,
+     "favorited": false,
+     "geo": null,
+     "id": 1363922541493026800,
+     "id_str": "1363922541493026816",
+     "in_reply_to_screen_name": null,
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "is_quote_status": false,
+     "lang": "fr",
+     "place": null,
+     "possibly_sensitive": false,
+     "retweet_count": 23,
+     "retweeted": false,
+     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+     "text": "De gros écarts dans la #VaccinationCovid au 20 février 2021 (données @gouvernementFR)\n% des Personnes &gt; 75 ans ayan… https://t.co/6SgCywbRuX",
+     "truncated": true
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @Valerie_Rabault: De gros écarts dans la #VaccinationCovid au 20 février 2021 (données @gouvernementFR)\n% des Personnes &gt; 75 ans ayant r…",
+    "truncated": false
+   },
+   "statuses_count": 210,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/ekrniLfZil",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Député de la 1ère circonscription de La Réunion 1er Secrétaire de la fédération #socialiste de #LaRéunion 🇲🇫🇷🇪🌹",
+  "twitter_favourites": 869,
+  "twitter_followers": 389,
+  "twitter_following": 330,
+  "twitter_id": 1283323346076283000,
+  "twitter_listed": 15,
+  "twitter_name": "Philippe Naillet",
+  "twitter_protected": false,
+  "twitter_tweets": 210,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643157",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643157",
+  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-naillet",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-naillet/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Naillet",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643157",
+ "scrutins": {
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2816": "C",
+  "VTANR5L15V2823": "P",
+  "VTANR5L15V2824": "P",
+  "VTANR5L15V2825": "P",
+  "VTANR5L15V2826": "P",
+  "VTANR5L15V2831": "P",
+  "VTANR5L15V2832": "C",
+  "VTANR5L15V2833": "C",
+  "VTANR5L15V2865": "P",
+  "VTANR5L15V2885": "P",
+  "VTANR5L15V2891": "P",
+  "VTANR5L15V2892": "P",
+  "VTANR5L15V2893": "P",
+  "VTANR5L15V2921": "P",
+  "VTANR5L15V2922": "P",
+  "VTANR5L15V2923": "C",
+  "VTANR5L15V2924": "A",
+  "VTANR5L15V2925": "C",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2947": "C",
+  "VTANR5L15V2948": "P",
+  "VTANR5L15V2949": "P",
+  "VTANR5L15V2950": "P",
+  "VTANR5L15V2951": "A",
+  "VTANR5L15V2952": "P",
+  "VTANR5L15V2958": "P",
+  "VTANR5L15V2959": "P",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V2992": "P",
+  "VTANR5L15V2993": "P",
+  "VTANR5L15V2994": "P",
+  "VTANR5L15V2995": "P",
+  "VTANR5L15V2996": "P",
+  "VTANR5L15V2997": "P",
+  "VTANR5L15V2998": "C",
+  "VTANR5L15V2999": "C",
+  "VTANR5L15V3000": "C",
+  "VTANR5L15V3001": "C",
+  "VTANR5L15V3002": "C",
+  "VTANR5L15V3003": "P",
+  "VTANR5L15V3004": "P",
+  "VTANR5L15V3005": "P",
+  "VTANR5L15V3006": "P",
+  "VTANR5L15V3008": "A",
+  "VTANR5L15V3009": "C",
+  "VTANR5L15V3017": "P",
+  "VTANR5L15V3030": "C",
+  "VTANR5L15V3031": "C",
+  "VTANR5L15V3033": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3075": "P",
+  "VTANR5L15V3076": "C",
+  "VTANR5L15V3077": "P",
+  "VTANR5L15V3078": "P",
+  "VTANR5L15V3080": "P",
+  "VTANR5L15V3081": "P",
+  "VTANR5L15V3082": "P",
+  "VTANR5L15V3083": "P",
+  "VTANR5L15V3113": "A",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3188": "C",
+  "VTANR5L15V3189": "P",
+  "VTANR5L15V3190": "A",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3268": "P",
+  "VTANR5L15V3269": "C",
+  "VTANR5L15V3270": "P",
+  "VTANR5L15V3271": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3324": "P",
+  "VTANR5L15V3325": "P",
+  "VTANR5L15V3332": "P",
+  "VTANR5L15V3336": "C",
+  "VTANR5L15V3341": "P",
+  "VTANR5L15V3342": "P",
+  "VTANR5L15V3343": "P",
+  "VTANR5L15V3344": "A",
+  "VTANR5L15V3346": "P",
+  "VTANR5L15V3348": "C",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3356": "P",
+  "VTANR5L15V3357": "P",
+  "VTANR5L15V3360": "C",
+  "VTANR5L15V3361": "P",
+  "VTANR5L15V3364": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3379": "P",
+  "VTANR5L15V3421": "A",
+  "VTANR5L15V3422": "A",
+  "VTANR5L15V3427": "P",
+  "VTANR5L15V3433": "C",
+  "VTANR5L15V3434": "P",
+  "VTANR5L15V3435": "P",
+  "VTANR5L15V3436": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "C",
+  "VTANR5L15V3440": "P",
+  "VTANR5L15V3441": "C",
+  "VTANR5L15V3442": "C",
+  "VTANR5L15V3443": "C",
+  "VTANR5L15V3445": "A",
+  "VTANR5L15V3450": "P",
+  "VTANR5L15V3451": "P"
+ },
+ "twitter": {
+  "id": "1283323346076282880",
+  "name": "Philippe Naillet",
+  "public_metrics": {
+   "followers_count": 395,
+   "following_count": 334,
+   "listed_count": 15,
+   "tweet_count": 211
+  },
+  "username": "PNaillet"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "PNaillet"
+ },
+ "uid": "PA643157"
+}

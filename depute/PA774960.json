@@ -1,0 +1,321 @@
+{
+ "an_data_depute": {
+  "dateNais": "1965-09-20",
+  "femme": true,
+  "ident": {
+   "alpha": "Santiago",
+   "civ": "Mme",
+   "nom": "Santiago",
+   "prenom": "Isabelle",
+   "trigramme": "ISA"
+  },
+  "nom": "Isabelle Santiago"
+ },
+ "an_www_depute": {
+  "groupe": "Socialistes et apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774960.jpg",
+  "nosiege": "510"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA774960",
+  "civ": "Mme",
+  "communes": [
+   "Alfortville (94140)",
+   "Vitry-sur-Seine (94400)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Socialistes et apparentés",
+  "nom": "Santiago",
+  "numCirco": "9",
+  "numDepartement": "94",
+  "prenom": "Isabelle"
+ },
+ "datan": "https://datan.fr/deputes/val-de-marne-94/depute_isabelle-santiago",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 38,
+   "curRadiusIndex": 5,
+   "id": "ai38ri5",
+   "no": 510,
+   "polar": {
+    "angle": 2.5400110816257904,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.5152759752136002,
+    "y": -0.353786867087987
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "28/09/2020 /  / "
+   }
+  ],
+  "autres_mandats": [],
+  "collaborateurs": [
+   {
+    "collaborateur": "M. Stéphane Exposito"
+   },
+   {
+    "collaborateur": "Mme Yafa Berdugo"
+   }
+  ],
+  "date_naissance": "1965-09-20",
+  "emails": [
+   {
+    "email": "isabelle.santiago@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "SOC",
+  "id": 645,
+  "id_an": "774960",
+  "lieu_naissance": "Neuilly-sur-Seine (Hauts-de-Seine)",
+  "mandat_debut": "2020-09-28",
+  "nb_mandats": 1,
+  "nom": "Isabelle Santiago",
+  "nom_circo": "Val-de-Marne",
+  "nom_de_famille": "Santiago",
+  "num_circo": 9,
+  "num_deptmt": "94",
+  "parti_ratt_financier": "Parti socialiste",
+  "place_en_hemicycle": "510",
+  "prenom": "Isabelle",
+  "profession": "Cadre territorial",
+  "sexe": "F",
+  "sites_web": [
+   "http://isabellesantiago.fr",
+   "https://twitter.com/isasantiago_94"
+  ],
+  "slug": "isabelle-santiago",
+  "twitter": "isasantiago_94",
+  "twitter_created_at": "2013-02-16T16:03:57",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Sat Feb 16 16:03:57 +0000 2013",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Députée du Val de Marne (circo9409) / Conseillère Départementale d’Alfortville Membre du CNPE Présidente de la FHF94",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "isabellesantiago.fr",
+       "expanded_url": "http://isabellesantiago.fr",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/c0HM4gjnVj"
+      }
+     ]
+    }
+   },
+   "favourites_count": 6763,
+   "follow_request_sent": false,
+   "followers_count": 2170,
+   "following": false,
+   "friends_count": 1301,
+   "geo_enabled": true,
+   "has_extended_profile": true,
+   "id": 1186673785,
+   "id_str": "1186673785",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 32,
+   "location": "Alfortville",
+   "name": "Isabelle Santiago",
+   "notifications": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186673785/1601503472",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1353042175760748544/kcVdID_5_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353042175760748544/kcVdID_5_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_location": null,
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "isasantiago_94",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 23 16:55:41 +0000 2021",
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/unicef_france/…",
+       "expanded_url": "https://twitter.com/unicef_france/status/1364257256414580740",
+       "indices": [
+        25,
+        48
+       ],
+       "url": "https://t.co/KSISU0oax2"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "geo": null,
+    "id": 1364257636418519000,
+    "id_str": "1364257636418519040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1364257256414580700,
+    "quoted_status_id_str": "1364257256414580740",
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Bravo à notre jeunesse 🤝 https://t.co/KSISU0oax2",
+    "truncated": false
+   },
+   "statuses_count": 3946,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/c0HM4gjnVj",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Députée du Val de Marne (circo9409) / Conseillère Départementale d’Alfortville Membre du CNPE Présidente de la FHF94",
+  "twitter_favourites": 6763,
+  "twitter_followers": 2170,
+  "twitter_following": 1301,
+  "twitter_id": 1186673785,
+  "twitter_listed": 32,
+  "twitter_name": "Isabelle Santiago",
+  "twitter_protected": false,
+  "twitter_tweets": 3946,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774960",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774960",
+  "url_nosdeputes": "https://www.nosdeputes.fr/isabelle-santiago",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/isabelle-santiago/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Isabelle-Santiago",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774960",
+ "scrutins": {
+  "VTANR5L15V2888": "P",
+  "VTANR5L15V2903": "P",
+  "VTANR5L15V2904": "P",
+  "VTANR5L15V2905": "P",
+  "VTANR5L15V2906": "P",
+  "VTANR5L15V2907": "P",
+  "VTANR5L15V2909": "A",
+  "VTANR5L15V2910": "P",
+  "VTANR5L15V2911": "P",
+  "VTANR5L15V2912": "P",
+  "VTANR5L15V2914": "P",
+  "VTANR5L15V2915": "C",
+  "VTANR5L15V2940": "C",
+  "VTANR5L15V2941": "C",
+  "VTANR5L15V2947": "C",
+  "VTANR5L15V2948": "P",
+  "VTANR5L15V2956": "P",
+  "VTANR5L15V2989": "C",
+  "VTANR5L15V2990": "P",
+  "VTANR5L15V3016": "P",
+  "VTANR5L15V3017": "P",
+  "VTANR5L15V3018": "P",
+  "VTANR5L15V3020": "P",
+  "VTANR5L15V3021": "P",
+  "VTANR5L15V3030": "C",
+  "VTANR5L15V3031": "C",
+  "VTANR5L15V3033": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3066": "P",
+  "VTANR5L15V3129": "P",
+  "VTANR5L15V3130": "P",
+  "VTANR5L15V3131": "P",
+  "VTANR5L15V3132": "P",
+  "VTANR5L15V3133": "C",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3188": "C",
+  "VTANR5L15V3189": "P",
+  "VTANR5L15V3213": "P",
+  "VTANR5L15V3254": "C",
+  "VTANR5L15V3261": "P",
+  "VTANR5L15V3262": "P",
+  "VTANR5L15V3268": "P",
+  "VTANR5L15V3269": "C",
+  "VTANR5L15V3281": "C",
+  "VTANR5L15V3282": "C",
+  "VTANR5L15V3283": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3308": "P",
+  "VTANR5L15V3310": "C",
+  "VTANR5L15V3311": "P",
+  "VTANR5L15V3312": "P",
+  "VTANR5L15V3313": "P",
+  "VTANR5L15V3314": "C",
+  "VTANR5L15V3326": "P",
+  "VTANR5L15V3327": "P",
+  "VTANR5L15V3344": "A",
+  "VTANR5L15V3346": "A",
+  "VTANR5L15V3347": "A",
+  "VTANR5L15V3348": "A",
+  "VTANR5L15V3349": "C",
+  "VTANR5L15V3350": "P",
+  "VTANR5L15V3351": "C",
+  "VTANR5L15V3352": "C",
+  "VTANR5L15V3356": "P",
+  "VTANR5L15V3357": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3379": "P",
+  "VTANR5L15V3421": "A",
+  "VTANR5L15V3422": "A",
+  "VTANR5L15V3433": "C",
+  "VTANR5L15V3434": "P",
+  "VTANR5L15V3435": "P",
+  "VTANR5L15V3436": "P",
+  "VTANR5L15V3437": "P",
+  "VTANR5L15V3438": "P",
+  "VTANR5L15V3439": "P",
+  "VTANR5L15V3440": "P",
+  "VTANR5L15V3441": "C",
+  "VTANR5L15V3442": "C",
+  "VTANR5L15V3443": "C"
+ },
+ "twitter": {
+  "id": "1186673785",
+  "name": "Isabelle Santiago",
+  "public_metrics": {
+   "followers_count": 2176,
+   "following_count": 1301,
+   "listed_count": 32,
+   "tweet_count": 3949
+  },
+  "username": "isasantiago_94"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "isasantiago_94"
+ },
+ "uid": "PA774960"
+}

@@ -1,0 +1,366 @@
+{
+ "an_data_depute": {
+  "dateNais": "1964-09-16",
+  "femme": false,
+  "ident": {
+   "alpha": "Brial",
+   "civ": "M.",
+   "nom": "Brial",
+   "prenom": "Sylvain",
+   "trigramme": "SBR"
+  },
+  "nom": "Sylvain Brial"
+ },
+ "an_www_depute": {
+  "groupe": "Libertés et Territoires",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/755549.jpg",
+  "nosiege": "221"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA755549",
+  "civ": "M.",
+  "communes": [
+   "Wallis-Et-Futuna"
+  ],
+  "departement": "Wallis-et-futuna",
+  "group": "Libertés et Territoires",
+  "nom": "Brial",
+  "numCirco": "1",
+  "numDepartement": "986",
+  "prenom": "Sylvain"
+ },
+ "datan": "https://datan.fr/deputes/wallis-et-futuna-986/depute_sylvain-brial",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 24,
+   "curRadiusIndex": 9,
+   "id": "ai24ri9",
+   "no": 221,
+   "polar": {
+    "angle": 1.0927278795094932,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.40255690801475813,
+    "y": -0.777053166380148
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "Permanence parlementaire Leava 98620 Sigave Téléphone : 00.681.72.30.86"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "16/04/2018 /  / "
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Assemblée territoriale de Wallis-et-Futuna /  / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Katy Lauhea"
+   },
+   {
+    "collaborateur": "M. Olivier Castel"
+   },
+   {
+    "collaborateur": "Mme Lutovika Taalo"
+   },
+   {
+    "collaborateur": "M. Sosefo Hensen"
+   }
+  ],
+  "date_naissance": "1964-09-16",
+  "emails": [
+   {
+    "email": "Sylvain.Brial@assemblee-nationale.fr"
+   }
+  ],
+  "groupe_sigle": "LT",
+  "id": 589,
+  "id_an": "755549",
+  "lieu_naissance": "Sigave (Wallis-et-Futuna)",
+  "mandat_debut": "2018-04-16",
+  "nb_mandats": 1,
+  "nom": "Sylvain Brial",
+  "nom_circo": "Wallis-et-Futuna",
+  "nom_de_famille": "Brial",
+  "num_circo": 1,
+  "num_deptmt": "986",
+  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
+  "place_en_hemicycle": "221",
+  "prenom": "Sylvain",
+  "profession": "chef d'entreprise",
+  "sexe": "H",
+  "sites_web": [
+   "https://sylvain-brial.com",
+   "https://twitter.com/SylvainBrial"
+  ],
+  "slug": "sylvain-brial",
+  "twitter": "SylvainBrial",
+  "twitter_created_at": "2018-07-12T11:08:42",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Thu Jul 12 11:08:42 +0000 2018",
+   "default_profile": false,
+   "default_profile_image": false,
+   "description": "Député et conseiller territorial de Wallis-et-Futuna",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "sylvain-brial.com",
+       "expanded_url": "https://sylvain-brial.com/",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/KDNlJKpfxj"
+      }
+     ]
+    }
+   },
+   "favourites_count": 7,
+   "follow_request_sent": false,
+   "followers_count": 73,
+   "following": false,
+   "friends_count": 2,
+   "geo_enabled": false,
+   "has_extended_profile": false,
+   "id": 1017365125546823700,
+   "id_str": "1017365125546823681",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 16,
+   "location": "Paris, France",
+   "name": "Sylvain Brial",
+   "notifications": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017365125546823681/1542794838",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1020367359033389056/lbv1FCfu_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020367359033389056/lbv1FCfu_normal.jpg",
+   "profile_link_color": "007E91",
+   "profile_location": {
+    "attributes": {},
+    "bounding_box": null,
+    "contained_within": [],
+    "country": "",
+    "country_code": "",
+    "full_name": "Paris, France",
+    "id": "09f6a7707f18e0b1",
+    "name": "Paris, France",
+    "place_type": "unknown",
+    "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+   },
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "protected": false,
+   "screen_name": "SylvainBrial",
+   "status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 12 17:25:53 +0000 2020",
+    "entities": {
+     "hashtags": [
+      {
+       "indices": [
+        17,
+        25
+       ],
+       "text": "PLF2021"
+      },
+      {
+       "indices": [
+        53,
+        68
+       ],
+       "text": "Wallisetfutuna"
+      }
+     ],
+     "symbols": [],
+     "urls": [
+      {
+       "display_url": "twitter.com/i/web/status/1…",
+       "expanded_url": "https://twitter.com/i/web/status/1326939284067266562",
+       "indices": [
+        117,
+        140
+       ],
+       "url": "https://t.co/YG83FOOzGb"
+      }
+     ],
+     "user_mentions": []
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 1326939284067266600,
+    "id_str": "1326939284067266562",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+    "text": "Dans le cadre du #PLF2021, ️ 🧬  l'Agence de Santé de #Wallisetfutuna a fait l'objet d'un rapport de la Commission d… https://t.co/YG83FOOzGb",
+    "truncated": true
+   },
+   "statuses_count": 32,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/KDNlJKpfxj",
+   "utc_offset": null,
+   "verified": false
+  },
+  "twitter_description": "Député et conseiller territorial de Wallis-et-Futuna",
+  "twitter_favourites": 7,
+  "twitter_followers": 73,
+  "twitter_following": 2,
+  "twitter_id": 1017365125546823700,
+  "twitter_listed": 16,
+  "twitter_name": "Sylvain Brial",
+  "twitter_protected": false,
+  "twitter_tweets": 32,
+  "twitter_verified": false,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA755549",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA755549",
+  "url_nosdeputes": "https://www.nosdeputes.fr/sylvain-brial",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/sylvain-brial/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Sylvain-Brial",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA755549",
+ "scrutins": {
+  "VTANR5L15V1010": "P",
+  "VTANR5L15V1011": "C",
+  "VTANR5L15V1012": "C",
+  "VTANR5L15V1013": "C",
+  "VTANR5L15V1027": "C",
+  "VTANR5L15V1028": "C",
+  "VTANR5L15V1029": "C",
+  "VTANR5L15V1030": "C",
+  "VTANR5L15V1031": "C",
+  "VTANR5L15V1032": "P",
+  "VTANR5L15V1169": "C",
+  "VTANR5L15V1171": "P",
+  "VTANR5L15V1209": "A",
+  "VTANR5L15V1263": "P",
+  "VTANR5L15V1274": "P",
+  "VTANR5L15V1275": "P",
+  "VTANR5L15V1276": "C",
+  "VTANR5L15V1277": "P",
+  "VTANR5L15V1278": "P",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V1331": "P",
+  "VTANR5L15V1332": "C",
+  "VTANR5L15V1333": "P",
+  "VTANR5L15V1334": "P",
+  "VTANR5L15V1429": "A",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1526": "C",
+  "VTANR5L15V1527": "C",
+  "VTANR5L15V1528": "C",
+  "VTANR5L15V1529": "C",
+  "VTANR5L15V1530": "P",
+  "VTANR5L15V1531": "C",
+  "VTANR5L15V1532": "P",
+  "VTANR5L15V1533": "P",
+  "VTANR5L15V1536": "A",
+  "VTANR5L15V1540": "P",
+  "VTANR5L15V1541": "C",
+  "VTANR5L15V1542": "P",
+  "VTANR5L15V1543": "C",
+  "VTANR5L15V1544": "C",
+  "VTANR5L15V1545": "C",
+  "VTANR5L15V1546": "C",
+  "VTANR5L15V1547": "C",
+  "VTANR5L15V1548": "C",
+  "VTANR5L15V1549": "P",
+  "VTANR5L15V1550": "P",
+  "VTANR5L15V1557": "C",
+  "VTANR5L15V1568": "C",
+  "VTANR5L15V1569": "P",
+  "VTANR5L15V1570": "C",
+  "VTANR5L15V1571": "P",
+  "VTANR5L15V1633": "P",
+  "VTANR5L15V1634": "P",
+  "VTANR5L15V1640": "P",
+  "VTANR5L15V1662": "C",
+  "VTANR5L15V1709": "A",
+  "VTANR5L15V1711": "P",
+  "VTANR5L15V1725": "C",
+  "VTANR5L15V1726": "C",
+  "VTANR5L15V1814": "A",
+  "VTANR5L15V1840": "A",
+  "VTANR5L15V1912": "A",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1926": "P",
+  "VTANR5L15V1941": "P",
+  "VTANR5L15V1957": "P",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V2039": "A",
+  "VTANR5L15V2042": "P",
+  "VTANR5L15V2057": "C",
+  "VTANR5L15V2058": "P",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2065": "P",
+  "VTANR5L15V2071": "P",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V716": "P",
+  "VTANR5L15V717": "P",
+  "VTANR5L15V748": "P",
+  "VTANR5L15V752": "C",
+  "VTANR5L15V765": "C",
+  "VTANR5L15V766": "C",
+  "VTANR5L15V767": "C",
+  "VTANR5L15V807": "P",
+  "VTANR5L15V808": "P"
+ },
+ "twitter": {
+  "id": "1017365125546823681",
+  "name": "Sylvain Brial",
+  "public_metrics": {
+   "followers_count": 74,
+   "following_count": 2,
+   "listed_count": 16,
+   "tweet_count": 32
+  },
+  "username": "SylvainBrial"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "SylvainBrial"
+ },
+ "uid": "PA755549"
+}

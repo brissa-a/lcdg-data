@@ -1,0 +1,426 @@
+{
+ "an_data_depute": {
+  "dateNais": "1953-10-18",
+  "femme": false,
+  "ident": {
+   "alpha": "Reynes",
+   "civ": "M.",
+   "nom": "Reynès",
+   "prenom": "Bernard",
+   "trigramme": "BRE"
+  },
+  "nom": "Bernard Reynès"
+ },
+ "an_www_depute": {
+  "groupe": "Les Républicains",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/330788.jpg",
+  "nosiege": "101"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/bernard.reynes/",
+  "twitter_link": "https://twitter.com/@bernardreynes/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA330788",
+  "civ": "M.",
+  "communes": [
+   "Alleins (13980)",
+   "Aureille (13930)",
+   "Barbentane (13570)",
+   "Cabannes (13440)",
+   "Charleval (Bouches-du-Rhône) (13350)",
+   "Châteaurenard (13160)",
+   "Eygalières (13810)",
+   "Eyguières (13430)",
+   "Eyragues (13630)",
+   "Graveson (13690)",
+   "La Roque-d'Anthéron (13640)",
+   "Lamanon (13113)",
+   "Lambesc (13410)",
+   "Les Baux-de-Provence (13520)",
+   "Maillane (13910)",
+   "Mallemort (13370)",
+   "Maussane-les-Alpilles (13520)",
+   "Mollégès (13940)",
+   "Mouriès (13890)",
+   "Noves (13550)",
+   "Orgon (13660)",
+   "Paradou (13520)",
+   "Plan-d'Orgon (13750)",
+   "Rognes (13840)",
+   "Rognonas (13870)",
+   "Saint-Andiol (13670)",
+   "Saint-Cannat (13760)",
+   "Saint-Estève-Janson (13610)",
+   "Saint-Rémy-de-Provence (13210)",
+   "Sénas (13560)",
+   "Vernègues (13116)",
+   "Verquières (13670)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Les Républicains",
+  "nom": "Reynès",
+  "numCirco": "15",
+  "numDepartement": "13",
+  "prenom": "Bernard"
+ },
+ "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_bernard-reynes",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 7,
+   "curRadiusIndex": 6,
+   "id": "ai7ri6",
+   "no": 101,
+   "polar": {
+    "angle": 0.4149273316061991,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.6291626118545751,
+    "y": -0.27720215224865424
+   }
+  }
+ },
+ "nd_twitter": {
+  "adresses": [
+   {
+    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
+   },
+   {
+    "adresse": "34 Avenue du général de Gaulle, 13160 Châteaurenard Téléphone : 04 32 62 10 06"
+   }
+  ],
+  "anciens_autres_mandats": [],
+  "anciens_mandats": [
+   {
+    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
+   },
+   {
+    "mandat": "21/06/2017 /  / "
+   },
+   {
+    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
+   }
+  ],
+  "autres_mandats": [
+   {
+    "mandat": "Châteaurenard / Conseil municipal / membre"
+   },
+   {
+    "mandat": "Terre de Provence / Communauté d'agglomération / membre"
+   }
+  ],
+  "collaborateurs": [
+   {
+    "collaborateur": "Mme Marie Madeleine Diandy"
+   },
+   {
+    "collaborateur": "M. Christophe Marcellin"
+   },
+   {
+    "collaborateur": "M. Didier Bonnefoy"
+   },
+   {
+    "collaborateur": "Mme Laury Saladin"
+   }
+  ],
+  "date_naissance": "1953-10-18",
+  "emails": [
+   {
+    "email": "bernard.reynes@assemblee-nationale.fr"
+   },
+   {
+    "email": "depute@bernard-reynes.com"
+   }
+  ],
+  "groupe_sigle": "LR",
+  "id": 422,
+  "id_an": "330788",
+  "lieu_naissance": "Meknès (Maroc)",
+  "mandat_debut": "2017-06-21",
+  "nb_mandats": 2,
+  "nom": "Bernard Reynès",
+  "nom_circo": "Bouches-du-Rhône",
+  "nom_de_famille": "Reynès",
+  "num_circo": 15,
+  "num_deptmt": "13",
+  "parti_ratt_financier": "Les Républicains",
+  "place_en_hemicycle": "101",
+  "prenom": "Bernard",
+  "profession": "Chirurgien-Dentiste",
+  "sexe": "H",
+  "sites_web": [
+   "http://www.bernard-reynes.fr",
+   "http://www.bernard-reynes.com",
+   "https://twitter.com/bernardreynes",
+   "https://fr-fr.facebook.com/bernard.reynes"
+  ],
+  "slug": "bernard-reynes",
+  "twitter": "bernardreynes",
+  "twitter_created_at": "2009-09-23T14:53:21",
+  "twitter_data": {
+   "contributors_enabled": false,
+   "created_at": "Wed Sep 23 14:53:21 +0000 2009",
+   "default_profile": true,
+   "default_profile_image": false,
+   "description": "Secrétaire National #LesRépublicains - Député des Bouches du Rhône",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "bernard-reynes.com",
+       "expanded_url": "http://www.bernard-reynes.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/hoJWAJFZmB"
+      }
+     ]
+    }
+   },
+   "favourites_count": 1613,
+   "follow_request_sent": false,
+   "followers_count": 9759,
+   "following": false,
+   "friends_count": 1355,
+   "geo_enabled": false,
+   "has_extended_profile": false,
+   "id": 76662684,
+   "id_str": "76662684",
+   "is_translation_enabled": false,
+   "is_translator": false,
+   "lang": null,
+   "listed_count": 190,
+   "location": "Châteaurenard, france",
+   "name": "reynes bernard",
+   "notifications": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/76662684/1435157790",
+   "profile_image_url": "http://pbs.twimg.com/profile_images/822441653738815488/4hem_51V_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/822441653738815488/4hem_51V_normal.jpg",
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "protected": false,
+   "screen_name": "bernardreynes",
+   "statuses_count": 2092,
+   "time_zone": null,
+   "translator_type": "none",
+   "url": "https://t.co/hoJWAJFZmB",
+   "utc_offset": null,
+   "verified": true
+  },
+  "twitter_description": "Secrétaire National #LesRépublicains - Député des Bouches du Rhône",
+  "twitter_favourites": 1613,
+  "twitter_followers": 9759,
+  "twitter_following": 1355,
+  "twitter_id": 76662684,
+  "twitter_listed": 190,
+  "twitter_name": "reynes bernard",
+  "twitter_protected": false,
+  "twitter_tweets": 2092,
+  "twitter_verified": true,
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330788",
+  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330788",
+  "url_nosdeputes": "https://www.nosdeputes.fr/bernard-reynes",
+  "url_nosdeputes_api": "https://www.nosdeputes.fr/bernard-reynes/json"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Bernard-Reynès",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330788",
+ "scrutins": {
+  "VTANR5L15V1": "C",
+  "VTANR5L15V106": "P",
+  "VTANR5L15V107": "C",
+  "VTANR5L15V1114": "P",
+  "VTANR5L15V1171": "P",
+  "VTANR5L15V119": "C",
+  "VTANR5L15V1209": "A",
+  "VTANR5L15V1263": "C",
+  "VTANR5L15V1330": "C",
+  "VTANR5L15V138": "C",
+  "VTANR5L15V139": "C",
+  "VTANR5L15V1430": "P",
+  "VTANR5L15V1431": "C",
+  "VTANR5L15V1432": "C",
+  "VTANR5L15V1536": "C",
+  "VTANR5L15V1633": "C",
+  "VTANR5L15V1634": "C",
+  "VTANR5L15V1662": "P",
+  "VTANR5L15V1709": "C",
+  "VTANR5L15V1711": "C",
+  "VTANR5L15V1814": "C",
+  "VTANR5L15V183": "C",
+  "VTANR5L15V184": "C",
+  "VTANR5L15V1840": "C",
+  "VTANR5L15V1912": "A",
+  "VTANR5L15V1923": "C",
+  "VTANR5L15V1941": "C",
+  "VTANR5L15V1957": "A",
+  "VTANR5L15V1988": "P",
+  "VTANR5L15V2039": "P",
+  "VTANR5L15V2059": "C",
+  "VTANR5L15V2071": "C",
+  "VTANR5L15V2078": "P",
+  "VTANR5L15V2079": "P",
+  "VTANR5L15V208": "C",
+  "VTANR5L15V2130": "P",
+  "VTANR5L15V2131": "P",
+  "VTANR5L15V2146": "C",
+  "VTANR5L15V2147": "P",
+  "VTANR5L15V2177": "C",
+  "VTANR5L15V2235": "C",
+  "VTANR5L15V2307": "C",
+  "VTANR5L15V2329": "A",
+  "VTANR5L15V2337": "C",
+  "VTANR5L15V2706": "P",
+  "VTANR5L15V272": "C",
+  "VTANR5L15V2733": "P",
+  "VTANR5L15V2734": "P",
+  "VTANR5L15V2735": "P",
+  "VTANR5L15V2736": "P",
+  "VTANR5L15V2737": "P",
+  "VTANR5L15V2738": "P",
+  "VTANR5L15V2739": "A",
+  "VTANR5L15V2740": "C",
+  "VTANR5L15V2741": "P",
+  "VTANR5L15V2742": "C",
+  "VTANR5L15V2743": "C",
+  "VTANR5L15V2744": "P",
+  "VTANR5L15V2745": "P",
+  "VTANR5L15V2746": "C",
+  "VTANR5L15V2747": "P",
+  "VTANR5L15V2748": "P",
+  "VTANR5L15V2749": "A",
+  "VTANR5L15V2750": "C",
+  "VTANR5L15V2751": "C",
+  "VTANR5L15V2752": "C",
+  "VTANR5L15V2753": "P",
+  "VTANR5L15V2754": "C",
+  "VTANR5L15V2755": "A",
+  "VTANR5L15V2756": "A",
+  "VTANR5L15V2757": "P",
+  "VTANR5L15V2758": "C",
+  "VTANR5L15V2759": "P",
+  "VTANR5L15V2760": "C",
+  "VTANR5L15V2761": "C",
+  "VTANR5L15V2762": "C",
+  "VTANR5L15V2814": "C",
+  "VTANR5L15V2940": "P",
+  "VTANR5L15V2941": "A",
+  "VTANR5L15V2991": "C",
+  "VTANR5L15V3059": "C",
+  "VTANR5L15V3062": "P",
+  "VTANR5L15V3063": "C",
+  "VTANR5L15V3064": "C",
+  "VTANR5L15V3065": "C",
+  "VTANR5L15V3094": "P",
+  "VTANR5L15V3095": "P",
+  "VTANR5L15V3096": "P",
+  "VTANR5L15V3097": "P",
+  "VTANR5L15V3098": "P",
+  "VTANR5L15V3099": "P",
+  "VTANR5L15V3100": "P",
+  "VTANR5L15V3101": "P",
+  "VTANR5L15V3102": "P",
+  "VTANR5L15V3103": "P",
+  "VTANR5L15V3104": "P",
+  "VTANR5L15V3105": "P",
+  "VTANR5L15V3106": "P",
+  "VTANR5L15V3107": "P",
+  "VTANR5L15V3108": "P",
+  "VTANR5L15V3111": "P",
+  "VTANR5L15V3112": "C",
+  "VTANR5L15V314": "P",
+  "VTANR5L15V3144": "C",
+  "VTANR5L15V3145": "P",
+  "VTANR5L15V3146": "P",
+  "VTANR5L15V3147": "P",
+  "VTANR5L15V3148": "C",
+  "VTANR5L15V3149": "P",
+  "VTANR5L15V3150": "C",
+  "VTANR5L15V3151": "P",
+  "VTANR5L15V3152": "P",
+  "VTANR5L15V3161": "P",
+  "VTANR5L15V3162": "P",
+  "VTANR5L15V3164": "P",
+  "VTANR5L15V3165": "P",
+  "VTANR5L15V3166": "C",
+  "VTANR5L15V3167": "C",
+  "VTANR5L15V3168": "P",
+  "VTANR5L15V3170": "C",
+  "VTANR5L15V3171": "P",
+  "VTANR5L15V3172": "C",
+  "VTANR5L15V3173": "P",
+  "VTANR5L15V3174": "P",
+  "VTANR5L15V3175": "C",
+  "VTANR5L15V3176": "P",
+  "VTANR5L15V3177": "C",
+  "VTANR5L15V3180": "C",
+  "VTANR5L15V3181": "C",
+  "VTANR5L15V3182": "C",
+  "VTANR5L15V3183": "C",
+  "VTANR5L15V3185": "C",
+  "VTANR5L15V3186": "C",
+  "VTANR5L15V3188": "C",
+  "VTANR5L15V3189": "C",
+  "VTANR5L15V3254": "P",
+  "VTANR5L15V3275": "P",
+  "VTANR5L15V3276": "P",
+  "VTANR5L15V3277": "P",
+  "VTANR5L15V3278": "C",
+  "VTANR5L15V3280": "P",
+  "VTANR5L15V3281": "P",
+  "VTANR5L15V3282": "P",
+  "VTANR5L15V3295": "C",
+  "VTANR5L15V3311": "P",
+  "VTANR5L15V3317": "P",
+  "VTANR5L15V3318": "P",
+  "VTANR5L15V3378": "C",
+  "VTANR5L15V3421": "C",
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V345": "C",
+  "VTANR5L15V351": "C",
+  "VTANR5L15V365": "A",
+  "VTANR5L15V389": "P",
+  "VTANR5L15V407": "C",
+  "VTANR5L15V419": "P",
+  "VTANR5L15V433": "A",
+  "VTANR5L15V477": "P",
+  "VTANR5L15V483": "C",
+  "VTANR5L15V50": "P",
+  "VTANR5L15V65": "P",
+  "VTANR5L15V66": "P",
+  "VTANR5L15V67": "P",
+  "VTANR5L15V729": "A",
+  "VTANR5L15V85": "P",
+  "VTANR5L15V928": "C",
+  "VTANR5L15V942": "P",
+  "VTANR5L15V974": "C"
+ },
+ "twitter": {
+  "id": "76662684",
+  "name": "reynes bernard",
+  "public_metrics": {
+   "followers_count": 9749,
+   "following_count": 1354,
+   "listed_count": 189,
+   "tweet_count": 2095
+  },
+  "username": "bernardreynes"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "bernardreynes"
+ },
+ "uid": "PA330788"
+}
