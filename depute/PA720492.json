@@ -52,143 +52,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Wattrelos / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Djamel Kerrouche"
-   },
-   {
-    "collaborateur": "M. Marc Vasseur"
-   },
-   {
-    "collaborateur": "M. Jad Zahab"
-   },
-   {
-    "collaborateur": "Mme Nawelle Lecoeur"
-   },
-   {
-    "collaborateur": "M. Stéphane Thiery"
-   }
-  ],
-  "date_naissance": "1974-02-07",
-  "emails": [
-   {
-    "email": "catherine.osson@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 97,
-  "id_an": "720492",
-  "lieu_naissance": "Croix (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Catherine Osson",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Osson",
-  "num_circo": 8,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "371",
-  "prenom": "Catherine",
-  "profession": "Directrice d'école",
-  "sexe": "F",
-  "sites_web": [
-   "http://catherineosson.fr",
-   "https://twitter.com/Ossoncatherine"
-  ],
-  "slug": "catherine-osson",
   "twitter": "Ossoncatherine",
-  "twitter_created_at": "2013-10-29T20:41:08",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Oct 29 20:41:08 +0000 2013",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la 8ème circonscription du Nord. #Roubaix #Wattrelos. Territoire de Progrès #TdP. Commission des finances. Rapport spécial : enseignement scolaire",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "catherineosson.fr",
-       "expanded_url": "http://catherineosson.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Hso1jchdJ7"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4600,
-   "follow_request_sent": false,
-   "followers_count": 3531,
-   "following": false,
-   "friends_count": 1076,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 2163509654,
-   "id_str": "2163509654",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 108,
-   "location": "",
-   "name": "Osson Catherine",
-   "notifications": false,
-   "profile_background_color": "FF6699",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2163509654/1421177794",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1335677886695694340/-GgZw3F9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335677886695694340/-GgZw3F9_normal.jpg",
-   "profile_link_color": "B40B43",
-   "profile_sidebar_border_color": "CC3366",
-   "profile_sidebar_fill_color": "E5507E",
-   "profile_text_color": "362720",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "OssonCatherine",
-   "statuses_count": 3122,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Hso1jchdJ7",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 8ème circonscription du Nord. #Roubaix #Wattrelos. Territoire de Progrès #TdP. Commission des finances. Rapport spécial : enseignement scolaire",
-  "twitter_favourites": 4600,
-  "twitter_followers": 3531,
-  "twitter_following": 1076,
-  "twitter_id": 2163509654,
-  "twitter_listed": 108,
-  "twitter_name": "Osson Catherine",
-  "twitter_protected": false,
-  "twitter_tweets": 3122,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720492",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720492",
-  "url_nosdeputes": "https://www.nosdeputes.fr/catherine-osson",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/catherine-osson/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720492"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Catherine-Osson",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720492",
@@ -1002,10 +867,10 @@
   "id": "2163509654",
   "name": "Osson Catherine",
   "public_metrics": {
-   "followers_count": 3536,
-   "following_count": 1076,
-   "listed_count": 109,
-   "tweet_count": 3122
+   "followers_count": 3550,
+   "following_count": 1079,
+   "listed_count": 108,
+   "tweet_count": 3124
   },
   "username": "OssonCatherine"
  },

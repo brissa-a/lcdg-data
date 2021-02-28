@@ -62,147 +62,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence 28 Rue Zuber 68170 Rixheim Téléphone : 06 37 42 69 81"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Mulhouse Alsace Agglomération /  / membre"
-   },
-   {
-    "mandat": "Rixheim / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Antoine Ehret"
-   },
-   {
-    "collaborateur": "Mme Mariella Ceriani"
-   },
-   {
-    "collaborateur": "Mme Christelle Engel"
-   }
-  ],
-  "date_naissance": "1976-04-28",
-  "emails": [
-   {
-    "email": "olivier.becht@assemblee-nationale.fr"
-   },
-   {
-    "email": "cab.olivierbecht@gmail.com"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 298,
-  "id_an": "642935",
-  "lieu_naissance": "Strasbourg (Bas-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Olivier Becht",
-  "nom_circo": "Haut-Rhin",
-  "nom_de_famille": "Becht",
-  "num_circo": 5,
-  "num_deptmt": "68",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "223",
-  "prenom": "Olivier",
-  "profession": "Magistrat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.olivierbecht.com",
-   "http://www.becht-groff2017.fr",
-   "https://twitter.com/becht_olivier"
-  ],
-  "slug": "olivier-becht",
   "twitter": "becht_olivier",
-  "twitter_created_at": "2018-07-18T12:27:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jul 18 12:27:30 +0000 2018",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Haut-Rhin. Président du groupe @AgirEnsemble_AN. Membre de la commission #Défense. Européen convaincu. Porte-parole @agir_officiel",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "olivierbecht.com",
-       "expanded_url": "http://www.olivierbecht.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/QtAboKvXQ4"
-      }
-     ]
-    }
-   },
-   "favourites_count": 36,
-   "follow_request_sent": false,
-   "followers_count": 1729,
-   "following": false,
-   "friends_count": 88,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 1019559283774644200,
-   "id_str": "1019559283774644224",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 45,
-   "location": "Rixheim, France",
-   "name": "Olivier Becht",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019559283774644224/1531917461",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1323616221770797056/-JEXN8Xf_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323616221770797056/-JEXN8Xf_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "becht_olivier",
-   "statuses_count": 344,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/QtAboKvXQ4",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député du Haut-Rhin. Président du groupe @AgirEnsemble_AN. Membre de la commission #Défense. Européen convaincu. Porte-parole @agir_officiel",
-  "twitter_favourites": 36,
-  "twitter_followers": 1729,
-  "twitter_following": 88,
-  "twitter_id": 1019559283774644200,
-  "twitter_listed": 45,
-  "twitter_name": "Olivier Becht",
-  "twitter_protected": false,
-  "twitter_tweets": 344,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642935",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642935",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-becht",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-becht/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642935"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Becht",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642935",
@@ -603,10 +464,10 @@
   "id": "1019559283774644224",
   "name": "Olivier Becht",
   "public_metrics": {
-   "followers_count": 1740,
+   "followers_count": 1751,
    "following_count": 88,
    "listed_count": 45,
-   "tweet_count": 345
+   "tweet_count": 346
   },
   "username": "becht_olivier"
  },

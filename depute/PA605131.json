@@ -144,130 +144,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 6 Place Martin Bret 04300 Forcalquier"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 / 21/07/2017 / nomination comme membre du gouvernement"
-   },
-   {
-    "mandat": "04/08/2020 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 17/06/2017 / nomination comme membre du gouvernement"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Boris Marchal"
-   },
-   {
-    "collaborateur": "Mme Clara Leibundguth"
-   }
-  ],
-  "date_naissance": "1966-01-03",
-  "emails": [
-   {
-    "email": "christophe.castaner@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 537,
-  "id_an": "605131",
-  "lieu_naissance": "Ollioules (Var)",
-  "mandat_debut": "2020-08-04",
-  "nb_mandats": 1,
-  "nom": "Christophe Castaner",
-  "nom_circo": "Alpes-de-Haute-Provence",
-  "nom_de_famille": "Castaner",
-  "num_circo": 2,
-  "num_deptmt": "04",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "422",
-  "prenom": "Christophe",
-  "profession": "Autre profession",
-  "sexe": "H",
-  "sites_web": [
-   "https://en-marche.fr",
-   "http://interieur.gouv.fr",
-   "http://christophe-castaner.fr",
-   "https://twitter.com/CCastaner",
-   "http://www.gouvernement.fr/le-porte-parole",
-   "http://www.facebook.com/christophe.castaner"
-  ],
-  "slug": "christophe-castaner",
   "twitter": "CCastaner",
-  "twitter_created_at": "2010-03-23T17:36:43",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Mar 23 17:36:43 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Président du groupe La République En Marche à l'Assemblée Nationale,\nDéputé des Alpes-de-Haute-Provence.",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 2532,
-   "follow_request_sent": false,
-   "followers_count": 357816,
-   "following": false,
-   "friends_count": 2604,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 125727024,
-   "id_str": "125727024",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 1493,
-   "location": "France",
-   "name": "Christophe Castaner",
-   "notifications": false,
-   "profile_background_color": "FFFFFF",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/125727024/1612620850",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1052464084480716800/Ie4AM3BK_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052464084480716800/Ie4AM3BK_normal.jpg",
-   "profile_link_color": "0C50A0",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "E32820",
-   "profile_text_color": "843AA9",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "CCastaner",
-   "statuses_count": 17249,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Président du groupe La République En Marche à l'Assemblée Nationale, Député des Alpes-de-Haute-Provence.",
-  "twitter_favourites": 2532,
-  "twitter_followers": 357816,
-  "twitter_following": 2604,
-  "twitter_id": 125727024,
-  "twitter_listed": 1493,
-  "twitter_name": "Christophe Castaner",
-  "twitter_protected": false,
-  "twitter_tweets": 17249,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605131",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605131",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christophe-castaner",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christophe-castaner/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605131"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christophe-Castaner",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605131",
@@ -614,10 +492,10 @@
   "id": "125727024",
   "name": "Christophe Castaner",
   "public_metrics": {
-   "followers_count": 357878,
-   "following_count": 2604,
-   "listed_count": 1493,
-   "tweet_count": 17249
+   "followers_count": 357997,
+   "following_count": 2603,
+   "listed_count": 1495,
+   "tweet_count": 17253
   },
   "username": "CCastaner"
  },

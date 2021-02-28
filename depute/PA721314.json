@@ -128,144 +128,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 8 Rue James Barbier 68700 Cernay Téléphone : 03 89 28 20 59"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Thann-Cernay / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Wattwiller / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Mélanie Burg"
-   },
-   {
-    "collaborateur": "M. Louis Ehrmann"
-   },
-   {
-    "collaborateur": "Mme Audrey Ta Dinh"
-   }
-  ],
-  "date_naissance": "1990-02-14",
-  "emails": [
-   {
-    "email": "raphael.schellenberger@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 72,
-  "id_an": "721314",
-  "lieu_naissance": "Mulhouse (Haut-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Raphaël Schellenberger",
-  "nom_circo": "Haut-Rhin",
-  "nom_de_famille": "Schellenberger",
-  "num_circo": 4,
-  "num_deptmt": "68",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "76",
-  "prenom": "Raphaël",
-  "profession": "Attaché Parlementaire",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/RSCactu",
-   "http://www.raphael-schellenberger.fr",
-   "https://fr-fr.facebook.com/SchellenbergerR"
-  ],
-  "slug": "raphael-schellenberger",
   "twitter": "RSCactu",
-  "twitter_created_at": "2010-02-04T09:57:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Feb 04 09:57:44 +0000 2010",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du #HautRhin | Secrétaire Général adjoint @lesRepublicains | Whip LR de la commission des Lois | Conseiller Municipal de Wattwiller #Alsace",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "raphael-schellenberger.fr",
-       "expanded_url": "http://www.raphael-schellenberger.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/7Wk93xmS66"
-      }
-     ]
-    }
-   },
-   "favourites_count": 513,
-   "follow_request_sent": false,
-   "followers_count": 2697,
-   "following": false,
-   "friends_count": 347,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 111266206,
-   "id_str": "111266206",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 104,
-   "location": "Cernay, France",
-   "name": "Raphaël Schellenberger",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/111266206/1592573833",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/961181973304758272/hIUPFoO0_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/961181973304758272/hIUPFoO0_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RSCactu",
-   "statuses_count": 2561,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/7Wk93xmS66",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du #HautRhin | Secrétaire Général adjoint @lesRepublicains | Whip LR de la commission des Lois | Conseiller Municipal de Wattwiller #Alsace",
-  "twitter_favourites": 513,
-  "twitter_followers": 2697,
-  "twitter_following": 347,
-  "twitter_id": 111266206,
-  "twitter_listed": 104,
-  "twitter_name": "Raphaël Schellenberger",
-  "twitter_protected": false,
-  "twitter_tweets": 2561,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721314",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721314",
-  "url_nosdeputes": "https://www.nosdeputes.fr/raphael-schellenberger",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/raphael-schellenberger/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721314"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Raphaël-Schellenberger",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721314",
@@ -842,10 +706,10 @@
   "id": "111266206",
   "name": "Raphaël Schellenberger",
   "public_metrics": {
-   "followers_count": 2701,
-   "following_count": 347,
+   "followers_count": 2709,
+   "following_count": 348,
    "listed_count": 103,
-   "tweet_count": 2561
+   "tweet_count": 2562
   },
   "username": "RSCactu"
  },

@@ -54,136 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Coline Rougeaux"
-   },
-   {
-    "collaborateur": "Mme Valérie Petolla"
-   },
-   {
-    "collaborateur": "M. Jean-Christophe Barré"
-   },
-   {
-    "collaborateur": "M. Juan Diaz del Cano"
-   }
-  ],
-  "date_naissance": "1980-11-04",
-  "emails": [
-   {
-    "email": "naima.moutchou@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 390,
-  "id_an": "720908",
-  "lieu_naissance": "Ermont (Val-d'Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Naïma Moutchou",
-  "nom_circo": "Val-d'Oise",
-  "nom_de_famille": "Moutchou",
-  "num_circo": 4,
-  "num_deptmt": "95",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "329",
-  "prenom": "Naïma",
-  "profession": "Avocat",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/NaimaMoutchou",
-   "https://www.facebook.com/NMoutchou"
-  ],
-  "slug": "naima-moutchou",
   "twitter": "NaimaMoutchou",
-  "twitter_created_at": "2017-05-18T14:16:14",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 18 14:16:14 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée LREM de la 4ème circonscription du @valdoise (95) - Vice-présidente de la Commission des Lois",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/NMoutchou/",
-       "expanded_url": "https://www.facebook.com/NMoutchou/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/PFX59ml6ap"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8912,
-   "follow_request_sent": false,
-   "followers_count": 12630,
-   "following": false,
-   "friends_count": 1109,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 865209415628140500,
-   "id_str": "865209415628140544",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 144,
-   "location": "Eaubonne, France",
-   "name": "Naïma Moutchou",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865209415628140544/1495816485",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/865585401007919104/bK_jueNB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/865585401007919104/bK_jueNB_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "NaimaMoutchou",
-   "statuses_count": 1774,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/PFX59ml6ap",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée LREM de la 4ème circonscription du @valdoise (95) - Vice-présidente de la Commission des Lois",
-  "twitter_favourites": 8912,
-  "twitter_followers": 12630,
-  "twitter_following": 1109,
-  "twitter_id": 865209415628140500,
-  "twitter_listed": 144,
-  "twitter_name": "Naïma Moutchou",
-  "twitter_protected": false,
-  "twitter_tweets": 1774,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720908",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720908",
-  "url_nosdeputes": "https://www.nosdeputes.fr/naima-moutchou",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/naima-moutchou/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720908"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Naïma-Moutchou",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720908",
@@ -1074,10 +946,10 @@
   "id": "865209415628140544",
   "name": "Naïma Moutchou",
   "public_metrics": {
-   "followers_count": 12640,
+   "followers_count": 12642,
    "following_count": 1109,
    "listed_count": 144,
-   "tweet_count": 1775
+   "tweet_count": 1777
   },
   "username": "NaimaMoutchou"
  },

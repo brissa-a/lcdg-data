@@ -131,136 +131,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Jean-Luc Toulza"
-   },
-   {
-    "collaborateur": "Mme Muriel Siebert"
-   },
-   {
-    "collaborateur": "Mme Clémence Taillan"
-   },
-   {
-    "collaborateur": "M. Benjamin Recher"
-   }
-  ],
-  "date_naissance": "1963-06-29",
-  "emails": [
-   {
-    "email": "nicole.trisse@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 557,
-  "id_an": "720394",
-  "lieu_naissance": "Sarreguemines (Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Nicole Trisse",
-  "nom_circo": "Moselle",
-  "nom_de_famille": "Trisse",
-  "num_circo": 5,
-  "num_deptmt": "57",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "446",
-  "prenom": "Nicole",
-  "profession": "Salariée du secteur médical",
-  "sexe": "F",
-  "sites_web": [
-   "https://www.nicoletrisse.fr",
-   "https://twitter.com/NicoleTrisse"
-  ],
-  "slug": "nicole-trisse",
   "twitter": "NicoleTrisse",
-  "twitter_created_at": "2017-07-20T07:18:23",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jul 20 07:18:23 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de Moselle - Sarreguemines & Pays de Bitche - Membre de @AN_AfSoc - Présidente de la délégation française à l'APCE @coe @EnMarchefr @PACE_News",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "nicoletrisse.fr",
-       "expanded_url": "https://www.nicoletrisse.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UYnd7DA2gU"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2362,
-   "follow_request_sent": false,
-   "followers_count": 1539,
-   "following": false,
-   "friends_count": 220,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 887934696511991800,
-   "id_str": "887934696511991808",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 67,
-   "location": "Sarreguemines, France",
-   "name": "Nicole Trisse",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/887934696511991808/1613053627",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/888042575445323777/kmzXaypT_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/888042575445323777/kmzXaypT_normal.jpg",
-   "profile_link_color": "E81C4F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "NicoleTrisse",
-   "statuses_count": 1807,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UYnd7DA2gU",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de Moselle - Sarreguemines & Pays de Bitche - Membre de @AN_AfSoc - Présidente de la délégation française à l'APCE @coe @EnMarchefr @PACE_News",
-  "twitter_favourites": 2362,
-  "twitter_followers": 1539,
-  "twitter_following": 220,
-  "twitter_id": 887934696511991800,
-  "twitter_listed": 67,
-  "twitter_name": "Nicole Trisse",
-  "twitter_protected": false,
-  "twitter_tweets": 1807,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720394",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720394",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nicole-trisse",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nicole-trisse/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720394"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nicole-Trisse",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720394",
@@ -1116,10 +988,10 @@
   "id": "887934696511991808",
   "name": "Nicole Trisse",
   "public_metrics": {
-   "followers_count": 1542,
-   "following_count": 220,
-   "listed_count": 68,
-   "tweet_count": 1809
+   "followers_count": 1557,
+   "following_count": 223,
+   "listed_count": 67,
+   "tweet_count": 1815
   },
   "username": "NicoleTrisse"
  },

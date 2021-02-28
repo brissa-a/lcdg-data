@@ -54,143 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 2 Rue du Château 69200 Venissieux Téléphone : 04 72 89 45 97"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Feyzin / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Christelle Salas"
-   },
-   {
-    "collaborateur": "M. Pierre Obrecht"
-   },
-   {
-    "collaborateur": "Mme Sondos Boujday"
-   }
-  ],
-  "date_naissance": "1954-10-12",
-  "emails": [
-   {
-    "email": "yves.blein@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 505,
-  "id_an": "608641",
-  "lieu_naissance": "Lyon (Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Yves Blein",
-  "nom_circo": "Rhône",
-  "nom_de_famille": "Blein",
-  "num_circo": 14,
-  "num_deptmt": "69",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "421",
-  "prenom": "Yves",
-  "profession": "Cadre supérieur du secteur privé",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.yvesblein.fr",
-   "https://twitter.com/yves_blein"
-  ],
-  "slug": "yves-blein",
   "twitter": "yves_blein",
-  "twitter_created_at": "2013-05-28T21:04:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 28 21:04:37 +0000 2013",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Président de  de l'UCPA et de la fédération Léo Lagrange.\nDéputé du Rhône, militant de l'#ESS.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "yvesblein.fr",
-       "expanded_url": "http://www.yvesblein.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/F6lmqYbj33"
-      }
-     ]
-    }
-   },
-   "favourites_count": 813,
-   "follow_request_sent": false,
-   "followers_count": 3952,
-   "following": false,
-   "friends_count": 3878,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 1465704961,
-   "id_str": "1465704961",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 182,
-   "location": "Vénissieux, Lyon, Paris",
-   "name": "Yves Blein",
-   "notifications": false,
-   "profile_background_color": "EDECE9",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465704961/1600670146",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/850038940908355585/Ep_ksQ5S_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/850038940908355585/Ep_ksQ5S_normal.jpg",
-   "profile_link_color": "088253",
-   "profile_sidebar_border_color": "D3D2CF",
-   "profile_sidebar_fill_color": "E3E2DE",
-   "profile_text_color": "634047",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "yves_blein",
-   "statuses_count": 3238,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/F6lmqYbj33",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Président de de l'UCPA et de la fédération Léo Lagrange. Député du Rhône, militant de l'#ESS.",
-  "twitter_favourites": 813,
-  "twitter_followers": 3952,
-  "twitter_following": 3878,
-  "twitter_id": 1465704961,
-  "twitter_listed": 182,
-  "twitter_name": "Yves Blein",
-  "twitter_protected": false,
-  "twitter_tweets": 3238,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608641",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608641",
-  "url_nosdeputes": "https://www.nosdeputes.fr/yves-blein",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/yves-blein/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608641"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Yves-Blein",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608641",
@@ -527,7 +392,7 @@
   "id": "1465704961",
   "name": "Yves Blein",
   "public_metrics": {
-   "followers_count": 3953,
+   "followers_count": 3954,
    "following_count": 3878,
    "listed_count": 182,
    "tweet_count": 3238

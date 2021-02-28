@@ -189,157 +189,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP Téléphone : 01 40 63 71 67"
-   },
-   {
-    "adresse": "Permanence parlementaire 8 Ter Avenue de Virlogeux 63200 Riom Téléphone : 04 73 63 55 61"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Ménétrol / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Martine Planteblat"
-   },
-   {
-    "collaborateur": "M. Jérôme Petit"
-   },
-   {
-    "collaborateur": "M. Louis Buyssens"
-   },
-   {
-    "collaborateur": "M. Aurélien Tarquis"
-   },
-   {
-    "collaborateur": "Mme Charlotte Watine"
-   },
-   {
-    "collaborateur": "M. Laurent Dumas"
-   }
-  ],
-  "date_naissance": "1964-10-06",
-  "emails": [
-   {
-    "email": "permanence@christinepiresbeaune.fr"
-   },
-   {
-    "email": "christine.piresbeaune@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 350,
-  "id_an": "608172",
-  "lieu_naissance": "Saint-Georges-de-Mons (Puy-de-Dôme)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Christine Pires Beaune",
-  "nom_circo": "Puy-de-Dôme",
-  "nom_de_famille": "Pires Beaune",
-  "num_circo": 2,
-  "num_deptmt": "63",
-  "parti_ratt_financier": "Parti socialiste",
-  "place_en_hemicycle": "507",
-  "prenom": "Christine",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.cpb2017.fr",
-   "https://twitter.com/cpiresbeaune",
-   "http://www.christinepiresbeaune.fr",
-   "https://fr-fr.facebook.com/CPiresBeaune2017"
-  ],
-  "slug": "christine-pires-beaune",
   "twitter": "cpiresbeaune",
-  "twitter_created_at": "2012-11-10T11:15:01",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Nov 10 11:15:01 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Auvergnate - Députée de la 2ème circonscription du Puy-de-Dôme",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "cpb2017.fr",
-       "expanded_url": "http://www.cpb2017.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/RQDexdVXou"
-      }
-     ]
-    }
-   },
-   "favourites_count": 6598,
-   "follow_request_sent": false,
-   "followers_count": 5220,
-   "following": false,
-   "friends_count": 1806,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 938843677,
-   "id_str": "938843677",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 145,
-   "location": "Riom 63200",
-   "name": "Ch. Pirès Beaune",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/938843677/1493731560",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/859398527948120064/8gzn-v5n_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/859398527948120064/8gzn-v5n_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "cpiresbeaune",
-   "statuses_count": 6273,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/RQDexdVXou",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Auvergnate - Députée de la 2ème circonscription du Puy-de-Dôme",
-  "twitter_favourites": 6598,
-  "twitter_followers": 5220,
-  "twitter_following": 1806,
-  "twitter_id": 938843677,
-  "twitter_listed": 145,
-  "twitter_name": "Ch. Pirès Beaune",
-  "twitter_protected": false,
-  "twitter_tweets": 6273,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608172",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608172",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christine-pires-beaune",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christine-pires-beaune/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608172"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christine-Pires Beaune",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608172",
@@ -1355,10 +1206,10 @@
   "id": "938843677",
   "name": "Ch. Pirès Beaune",
   "public_metrics": {
-   "followers_count": 5222,
-   "following_count": 1806,
-   "listed_count": 146,
-   "tweet_count": 6276
+   "followers_count": 5224,
+   "following_count": 1807,
+   "listed_count": 145,
+   "tweet_count": 6281
   },
   "username": "cpiresbeaune"
  },

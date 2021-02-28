@@ -79,120 +79,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Isabelle Muntzer"
-   },
-   {
-    "collaborateur": "Mme Séverine Dupagny"
-   },
-   {
-    "collaborateur": "Mme Nathalie Sokoloff"
-   }
-  ],
-  "date_naissance": "1972-05-03",
-  "emails": [
-   {
-    "email": "sereine.mauborgne@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 150,
-  "id_an": "721726",
-  "lieu_naissance": "Mans (Sarthe)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sereine Mauborgne",
-  "nom_circo": "Var",
-  "nom_de_famille": "Mauborgne",
-  "num_circo": 4,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "438",
-  "prenom": "Sereine",
-  "profession": "Infirmière libérale",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/sereineenmarche",
-   "https://fr-fr.facebook.com/SereineMauborgneREM"
-  ],
-  "slug": "sereine-mauborgne",
   "twitter": "sereineenmarche",
-  "twitter_created_at": "2017-02-03T14:47:06",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Feb 03 14:47:06 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Infirmière libérale, Députée du Var. #LaREM #EnMarche\nRapporteure pour avis sur le budget de l'@armeedeterre",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1843,
-   "follow_request_sent": false,
-   "followers_count": 5391,
-   "following": false,
-   "friends_count": 842,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 827528847797153800,
-   "id_str": "827528847797153792",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 106,
-   "location": "",
-   "name": "Sereine Mauborgne",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/827528847797153792/1498420684",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/868166206909542403/U3qrIpw7_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/868166206909542403/U3qrIpw7_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SereineEnMarche",
-   "statuses_count": 1574,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Infirmière libérale, Députée du Var. #LaREM #EnMarche Rapporteure pour avis sur le budget de l'@armeedeterre",
-  "twitter_favourites": 1843,
-  "twitter_followers": 5391,
-  "twitter_following": 842,
-  "twitter_id": 827528847797153800,
-  "twitter_listed": 106,
-  "twitter_name": "Sereine Mauborgne",
-  "twitter_protected": false,
-  "twitter_tweets": 1574,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721726",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721726",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sereine-mauborgne",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sereine-mauborgne/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721726"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sereine-Mauborgne",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721726",
@@ -1170,10 +1058,10 @@
   "id": "827528847797153792",
   "name": "Sereine Mauborgne",
   "public_metrics": {
-   "followers_count": 5396,
+   "followers_count": 5403,
    "following_count": 843,
-   "listed_count": 107,
-   "tweet_count": 1575
+   "listed_count": 106,
+   "tweet_count": 1580
   },
   "username": "SereineEnMarche"
  },

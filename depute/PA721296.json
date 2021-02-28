@@ -54,135 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Vincennes / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Florence Gall"
-   },
-   {
-    "collaborateur": "Mme Paula Doumerg"
-   }
-  ],
-  "date_naissance": "1986-02-01",
-  "emails": [
-   {
-    "email": "guillaume.gouffier-cha@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 230,
-  "id_an": "721296",
-  "lieu_naissance": "Beauvais (Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Guillaume Gouffier-Cha",
-  "nom_circo": "Val-de-Marne",
-  "nom_de_famille": "Gouffier-Cha",
-  "num_circo": 6,
-  "num_deptmt": "94",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "420",
-  "prenom": "Guillaume",
-  "profession": "Manager public",
-  "sexe": "H",
-  "sites_web": [
-   "http://guillaume.gouffier-cha.fr",
-   "https://twitter.com/g_gouffiercha",
-   "https://fr-fr.facebook.com/GouffierChaLegislatives"
-  ],
-  "slug": "guillaume-gouffier-cha",
   "twitter": "g_gouffiercha",
-  "twitter_created_at": "2011-07-20T17:32:00",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jul 20 17:32:00 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 6e circonscription du Val-de-Marne (Fontenay-sous-Bois, Saint-Mandé et Vincennes) #circo9406 #LaREM #JamaisSansElles",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "guillaume.gouffier-cha.fr",
-       "expanded_url": "https://guillaume.gouffier-cha.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/VAclXtc4T7"
-      }
-     ]
-    }
-   },
-   "favourites_count": 10829,
-   "follow_request_sent": false,
-   "followers_count": 5815,
-   "following": false,
-   "friends_count": 3223,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 339155330,
-   "id_str": "339155330",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 152,
-   "location": "Vincennes",
-   "name": "Guillaume Gouffier",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/339155330/1613059012",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1344003738512592901/U1WarpvF_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344003738512592901/U1WarpvF_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "G_GouffierCha",
-   "statuses_count": 6798,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/VAclXtc4T7",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 6e circonscription du Val-de-Marne (Fontenay-sous-Bois, Saint-Mandé et Vincennes) #circo9406 #LaREM #JamaisSansElles",
-  "twitter_favourites": 10829,
-  "twitter_followers": 5815,
-  "twitter_following": 3223,
-  "twitter_id": 339155330,
-  "twitter_listed": 152,
-  "twitter_name": "Guillaume Gouffier",
-  "twitter_protected": false,
-  "twitter_tweets": 6798,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721296",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721296",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guillaume-gouffier-cha",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guillaume-gouffier-cha/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721296"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guillaume-Gouffier-Cha",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721296",
@@ -1480,10 +1353,10 @@
   "id": "339155330",
   "name": "Guillaume Gouffier",
   "public_metrics": {
-   "followers_count": 5817,
-   "following_count": 3223,
+   "followers_count": 5824,
+   "following_count": 3225,
    "listed_count": 153,
-   "tweet_count": 6800
+   "tweet_count": 6810
   },
   "username": "G_GouffierCha"
  },

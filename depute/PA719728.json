@@ -110,121 +110,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Nicolas Elleouet"
-   },
-   {
-    "collaborateur": "Mme Astrid Morne"
-   },
-   {
-    "collaborateur": "Mme Kathleen Tattevin"
-   }
-  ],
-  "date_naissance": "1977-11-04",
-  "emails": [
-   {
-    "email": "gael.lebohec@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 357,
-  "id_an": "719728",
-  "lieu_naissance": "Saint-Brieuc (Côtes-d'Armor)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Gaël Le Bohec",
-  "nom_circo": "Ille-et-Vilaine",
-  "nom_de_famille": "Le Bohec",
-  "num_circo": 4,
-  "num_deptmt": "35",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "537",
-  "prenom": "Gaël",
-  "profession": "Entrepreneur",
-  "sexe": "H",
-  "sites_web": [
-   "http://lebohec-gael.fr",
-   "https://twitter.com/GaelLeBohec",
-   "https://fr-fr.facebook.com/LeBohecGael"
-  ],
-  "slug": "gael-le-bohec",
   "twitter": "GaelLeBohec",
-  "twitter_created_at": "2017-05-15T09:58:17",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 15 09:58:17 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député LREM (4ème circonscription d'Ille-et-Vilaine)\nCommission Affaires culturelles et Éducation (membre)\nVice-Président de la Délégation aux Droits des Femmes",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 10950,
-   "follow_request_sent": false,
-   "followers_count": 5074,
-   "following": false,
-   "friends_count": 1014,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 864057336440213500,
-   "id_str": "864057336440213504",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 115,
-   "location": "Bain-de-Bretagne, France",
-   "name": "Gael Le Bohec",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864057336440213504/1586508223",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/943879435220078594/LJ6Mnuow_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/943879435220078594/LJ6Mnuow_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "GaelLeBohec",
-   "statuses_count": 6000,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député LREM (4ème circonscription d'Ille-et-Vilaine) Commission Affaires culturelles et Éducation (membre) Vice-Président de la Délégation aux Droits des Femmes",
-  "twitter_favourites": 10950,
-  "twitter_followers": 5074,
-  "twitter_following": 1014,
-  "twitter_id": 864057336440213500,
-  "twitter_listed": 115,
-  "twitter_name": "Gael Le Bohec",
-  "twitter_protected": false,
-  "twitter_tweets": 6000,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719728",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719728",
-  "url_nosdeputes": "https://www.nosdeputes.fr/gael-le-bohec",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/gael-le-bohec/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719728"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Gaël-Le Bohec",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719728",
@@ -915,7 +802,7 @@
   "id": "864057336440213504",
   "name": "Gael Le Bohec",
   "public_metrics": {
-   "followers_count": 5078,
+   "followers_count": 5077,
    "following_count": 1014,
    "listed_count": 115,
    "tweet_count": 6007

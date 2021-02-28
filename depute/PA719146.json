@@ -245,144 +245,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 5 Avenue du Président Pierucci 20250 Corte Téléphone : 04 95 61 15 89"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Lozzi / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Nicolas Battini"
-   },
-   {
-    "collaborateur": "M. Yannick Bertolucci"
-   },
-   {
-    "collaborateur": "Mme Maria-Dumenica Cesari"
-   },
-   {
-    "collaborateur": "Mme Marie Feracci"
-   }
-  ],
-  "date_naissance": "1973-03-19",
-  "emails": [
-   {
-    "email": "jean-felix.acquaviva@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 493,
-  "id_an": "719146",
-  "lieu_naissance": "Bastia (Haute-Corse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Félix Acquaviva",
-  "nom_circo": "Haute-Corse",
-  "nom_de_famille": "Acquaviva",
-  "num_circo": 2,
-  "num_deptmt": "2B",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "205",
-  "prenom": "Jean-Félix",
-  "profession": "Cadre",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.corse.fr",
-   "https://twitter.com/JF_Acquaviva",
-   "https://fr-fr.facebook.com/jeanfelixacquaviva"
-  ],
-  "slug": "jean-felix-acquaviva",
   "twitter": "JF_Acquaviva",
-  "twitter_created_at": "2015-04-10T07:18:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Apr 10 07:18:30 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Corse (Corti-Balagna-Piaghja urientale) - Grpe Libertés et territoires -Président Comité de massif - Président Association Corse Elus de Montagne",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "corse.fr",
-       "expanded_url": "http://www.corse.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/i9EoMABdBH"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1609,
-   "follow_request_sent": false,
-   "followers_count": 8746,
-   "following": false,
-   "friends_count": 1508,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 3147407366,
-   "id_str": "3147407366",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 109,
-   "location": "Corti - Lozzi - Niolu",
-   "name": "Jean-Félix Acquaviva",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147407366/1428754222",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1177260566785777664/Mc5Ec6d-_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177260566785777664/Mc5Ec6d-_normal.jpg",
-   "profile_link_color": "ABB8C2",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "JF_Acquaviva",
-   "statuses_count": 4053,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/i9EoMABdBH",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Corse (Corti-Balagna-Piaghja urientale) - Grpe Libertés et territoires -Président Comité de massif - Président Association Corse Elus de Montagne",
-  "twitter_favourites": 1609,
-  "twitter_followers": 8746,
-  "twitter_following": 1508,
-  "twitter_id": 3147407366,
-  "twitter_listed": 109,
-  "twitter_name": "Jean-Félix Acquaviva",
-  "twitter_protected": false,
-  "twitter_tweets": 4053,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719146",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719146",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-felix-acquaviva",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-felix-acquaviva/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719146"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Félix-Acquaviva",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719146",
@@ -812,10 +676,10 @@
   "id": "3147407366",
   "name": "Jean-Félix Acquaviva",
   "public_metrics": {
-   "followers_count": 8752,
-   "following_count": 1508,
-   "listed_count": 109,
-   "tweet_count": 4056
+   "followers_count": 8756,
+   "following_count": 1506,
+   "listed_count": 108,
+   "tweet_count": 4065
   },
   "username": "JF_Acquaviva"
  },

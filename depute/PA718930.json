@@ -73,144 +73,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence 425 Allée François Aubrun 13100 Le Thonolet"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Georges Gosselin"
-   },
-   {
-    "collaborateur": "M. Valentin Mestre"
-   },
-   {
-    "collaborateur": "Mme Caroline Onnis"
-   },
-   {
-    "collaborateur": "M. Sylvain Wellhoff"
-   }
-  ],
-  "date_naissance": "1970-02-08",
-  "emails": [
-   {
-    "email": "anne-laurence.petel@en-marche.fr"
-   },
-   {
-    "email": "anne-laurence.petel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 460,
-  "id_an": "718930",
-  "lieu_naissance": "Saint Raphaël (Var)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Anne-Laurence Petel",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Petel",
-  "num_circo": 14,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "440",
-  "prenom": "Anne-Laurence",
-  "profession": "Chargée des relations extérieures - secteur télécom",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.aixaucoeur.fr",
-   "http://annelaurencepetel.fr",
-   "https://twitter.com/al_petel",
-   "https://fr-fr.facebook.com/petelannelaurence"
-  ],
-  "slug": "anne-laurence-petel",
   "twitter": "al_petel",
-  "twitter_created_at": "2013-05-09T10:36:34",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 09 10:36:34 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #LREM d'Aix-en-Pce et du Pays d'Aix Conseillère municipale et métropolitaine d’Aix-en-Provence⎪Commission des Affaires Économiques #ESS #FranceArménie",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "annelaurencepetel.fr",
-       "expanded_url": "http://annelaurencepetel.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/ASfYotPFgx"
-      }
-     ]
-    }
-   },
-   "favourites_count": 14326,
-   "follow_request_sent": false,
-   "followers_count": 7827,
-   "following": false,
-   "friends_count": 4729,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1415195768,
-   "id_str": "1415195768",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 206,
-   "location": "Aix-en-Provence, France",
-   "name": "Anne-Laurence Petel",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415195768/1612551821",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1221479655238250499/4ZNhPfeQ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221479655238250499/4ZNhPfeQ_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "al_petel",
-   "statuses_count": 9317,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/ASfYotPFgx",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #LREM d'Aix-en-Pce et du Pays d'Aix Conseillère municipale et métropolitaine d’Aix-en-Provence⎪Commission des Affaires Économiques #ESS #FranceArménie",
-  "twitter_favourites": 14326,
-  "twitter_followers": 7827,
-  "twitter_following": 4729,
-  "twitter_id": 1415195768,
-  "twitter_listed": 206,
-  "twitter_name": "Anne-Laurence Petel",
-  "twitter_protected": false,
-  "twitter_tweets": 9317,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718930",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718930",
-  "url_nosdeputes": "https://www.nosdeputes.fr/anne-laurence-petel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/anne-laurence-petel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718930"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Anne-Laurence-Petel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718930",
@@ -840,10 +704,10 @@
   "id": "1415195768",
   "name": "Anne-Laurence Petel",
   "public_metrics": {
-   "followers_count": 7833,
+   "followers_count": 7838,
    "following_count": 4732,
-   "listed_count": 205,
-   "tweet_count": 9323
+   "listed_count": 204,
+   "tweet_count": 9332
   },
   "username": "al_petel"
  },

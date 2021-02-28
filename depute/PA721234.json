@@ -58,137 +58,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Villiers-sur-Marne / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Joy Le Liboux-Gromil"
-   },
-   {
-    "collaborateur": "M. Thomas De Almeida"
-   }
-  ],
-  "date_naissance": "1971-11-15",
-  "emails": [
-   {
-    "email": "maud.petit@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 117,
-  "id_an": "721234",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Maud Petit",
-  "nom_circo": "Val-de-Marne",
-  "nom_de_famille": "Petit",
-  "num_circo": 4,
-  "num_deptmt": "94",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "262",
-  "prenom": "Maud",
-  "profession": "Employée (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.maudpetit2017.fr",
-   "https://twitter.com/MaudPetit_AN94",
-   "https://linktr.ee/MaudPetit.deputee",
-   "http://www.facebook.com/MaudPetit.AN94",
-   "https://fr-fr.facebook.com/Maud-Petit-la-République-En-Marche-186397495216968"
-  ],
-  "slug": "maud-petit",
   "twitter": "MaudPetit_AN94",
-  "twitter_created_at": "2017-05-23T06:58:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 23 06:58:15 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée du Val-de-Marne 🏛🇫🇷\nCommissaire @AN_AfCult | VP @AN_OutreMers | #DroitsEnfants #StopVEO #DroitsDesFemmes #Lyme",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "linktr.ee/MaudPetit.depu…",
-       "expanded_url": "https://linktr.ee/MaudPetit.deputee",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/j7Tb4B2uEl"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2958,
-   "follow_request_sent": false,
-   "followers_count": 3549,
-   "following": false,
-   "friends_count": 577,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 866911134837862400,
-   "id_str": "866911134837862400",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 113,
-   "location": "Val-de-Marne, Ile-de-France",
-   "name": "Maud Petit",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866911134837862400/1603995333",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1222202229526056960/C-pNJbes_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222202229526056960/C-pNJbes_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MaudPetit_AN94",
-   "statuses_count": 1695,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/j7Tb4B2uEl",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du Val-de-Marne 🏛🇫🇷 Commissaire @AN_AfCult | VP @AN_OutreMers | #DroitsEnfants #StopVEO #DroitsDesFemmes #Lyme",
-  "twitter_favourites": 2958,
-  "twitter_followers": 3549,
-  "twitter_following": 577,
-  "twitter_id": 866911134837862400,
-  "twitter_listed": 113,
-  "twitter_name": "Maud Petit",
-  "twitter_protected": false,
-  "twitter_tweets": 1695,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721234",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721234",
-  "url_nosdeputes": "https://www.nosdeputes.fr/maud-petit",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/maud-petit/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721234"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Maud-Petit",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721234",
@@ -1067,9 +938,9 @@
   "id": "866911134837862400",
   "name": "Maud Petit",
   "public_metrics": {
-   "followers_count": 3555,
+   "followers_count": 3558,
    "following_count": 577,
-   "listed_count": 113,
+   "listed_count": 112,
    "tweet_count": 1695
   },
   "username": "MaudPetit_AN94"

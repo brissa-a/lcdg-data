@@ -72,147 +72,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Toulouse Métropole /  / membre"
-   },
-   {
-    "mandat": "Flourens (Haute-Garonne) / Conseil municipal / maire"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Arsène Gornik"
-   },
-   {
-    "collaborateur": "Mme Maryll Vignal"
-   },
-   {
-    "collaborateur": "M. Julien Cros"
-   },
-   {
-    "collaborateur": "M. Brice Baessa"
-   }
-  ],
-  "date_naissance": "1963-06-10",
-  "emails": [
-   {
-    "email": "permanence@corinnevignon.fr"
-   },
-   {
-    "email": "corinne.vignon@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 258,
-  "id_an": "719512",
-  "lieu_naissance": "Agen (Lot-et-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Corinne Vignon",
-  "nom_circo": "Haute-Garonne",
-  "nom_de_famille": "Vignon",
-  "num_circo": 3,
-  "num_deptmt": "31",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "375",
-  "prenom": "Corinne",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "https://corinnevignon.fr",
-   "https://twitter.com/corinnevignon",
-   "https://fr-fr.facebook.com/CorinneVignon.REM"
-  ],
-  "slug": "corinne-vignon",
   "twitter": "corinnevignon",
-  "twitter_created_at": "2017-05-16T14:29:46",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 14:29:46 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée 3ème circonscription de Haute-Garonne #LaREM, \nCommissaire aux Affaires économiques, Rapporteure réforme des retraites, GT bien-être animal.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "corinnevignon.fr",
-       "expanded_url": "https://corinnevignon.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hxOcVm4l2y"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2623,
-   "follow_request_sent": false,
-   "followers_count": 4829,
-   "following": false,
-   "friends_count": 759,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 864488046355517400,
-   "id_str": "864488046355517440",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 121,
-   "location": "Haute-Garonne, Midi-Pyrénées",
-   "name": "Corinne Vignon",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864488046355517440/1589923140",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1108734348835110913/bLVSGDyi_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108734348835110913/bLVSGDyi_normal.jpg",
-   "profile_link_color": "01B2FB",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "corinnevignon",
-   "statuses_count": 2890,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hxOcVm4l2y",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée 3ème circonscription de Haute-Garonne #LaREM, Commissaire aux Affaires économiques, Rapporteure réforme des retraites, GT bien-être animal.",
-  "twitter_favourites": 2623,
-  "twitter_followers": 4829,
-  "twitter_following": 759,
-  "twitter_id": 864488046355517400,
-  "twitter_listed": 121,
-  "twitter_name": "Corinne Vignon",
-  "twitter_protected": false,
-  "twitter_tweets": 2890,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719512",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719512",
-  "url_nosdeputes": "https://www.nosdeputes.fr/corinne-vignon",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/corinne-vignon/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719512"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Corinne-Vignon",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719512",
@@ -1371,10 +1232,10 @@
   "id": "864488046355517440",
   "name": "Corinne Vignon",
   "public_metrics": {
-   "followers_count": 4832,
+   "followers_count": 4846,
    "following_count": 759,
-   "listed_count": 122,
-   "tweet_count": 2892
+   "listed_count": 121,
+   "tweet_count": 2894
   },
   "username": "corinnevignon"
  },

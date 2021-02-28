@@ -233,136 +233,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 11 Rue du Calvaire BP 23 50250 La Haye du Puits Téléphone : 02 33 07 95 92"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 PARIS 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "17/11/2018 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 / 21/07/2017 / nomination comme membre du gouvernement"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Normandie / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Nathalie Genet"
-   },
-   {
-    "collaborateur": "Mme Delphine Jimenez-Grenier"
-   },
-   {
-    "collaborateur": "M. Denis Bersauter"
-   }
-  ],
-  "date_naissance": "1969-10-12",
-  "emails": [
-   {
-    "email": "stephane.travert@assemblee-nationale.fr"
-   },
-   {
-    "email": "permanence.stravert@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 498,
-  "id_an": "607395",
-  "lieu_naissance": "Carentan (Manche)",
-  "mandat_debut": "2018-11-17",
-  "nb_mandats": 1,
-  "nom": "Stéphane Travert",
-  "nom_circo": "Manche",
-  "nom_de_famille": "Travert",
-  "num_circo": 3,
-  "num_deptmt": "50",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "434",
-  "prenom": "Stéphane",
-  "profession": "Cadre commercial",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/StTRAVERT",
-   "https://fr-fr.facebook.com/Stéphane-Travert-2017-256137114468103"
-  ],
-  "slug": "stephane-travert",
   "twitter": "StTRAVERT",
-  "twitter_created_at": "2011-09-30T16:23:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Sep 30 16:23:15 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de La Manche - Ancien Ministre- Président LRE « La République Ensemble » @RepEnsemble #Coutances #LaHaye #Valognes #CotentinArtDeVivre #TeamMacron",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 19451,
-   "follow_request_sent": false,
-   "followers_count": 20193,
-   "following": false,
-   "friends_count": 1778,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 382747703,
-   "id_str": "382747703",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 465,
-   "location": "France",
-   "name": "STEPHANE TRAVERT #ProtegezVous",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/382747703/1591473428",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/878622143042531329/1IF9Y_sk_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/878622143042531329/1IF9Y_sk_normal.jpg",
-   "profile_link_color": "DD2E44",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "StTRAVERT",
-   "statuses_count": 17605,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de La Manche - Ancien Ministre- Président LRE « La République Ensemble » @RepEnsemble #Coutances #LaHaye #Valognes #CotentinArtDeVivre #TeamMacron",
-  "twitter_favourites": 19451,
-  "twitter_followers": 20193,
-  "twitter_following": 1778,
-  "twitter_id": 382747703,
-  "twitter_listed": 465,
-  "twitter_name": "STEPHANE TRAVERT #ProtegezVous",
-  "twitter_protected": false,
-  "twitter_tweets": 17605,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607395",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607395",
-  "url_nosdeputes": "https://www.nosdeputes.fr/stephane-travert",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/stephane-travert/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607395"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Stéphane-Travert",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607395",
@@ -689,10 +561,10 @@
   "id": "382747703",
   "name": "STEPHANE TRAVERT #ProtegezVous",
   "public_metrics": {
-   "followers_count": 20191,
+   "followers_count": 20209,
    "following_count": 1779,
    "listed_count": 464,
-   "tweet_count": 17606
+   "tweet_count": 17617
   },
   "username": "StTRAVERT"
  },

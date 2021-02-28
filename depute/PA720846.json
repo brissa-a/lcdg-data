@@ -53,137 +53,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Lucie Kirchner"
-   },
-   {
-    "collaborateur": "M. David Gallo"
-   },
-   {
-    "collaborateur": "M. Arnaud Le Gall"
-   },
-   {
-    "collaborateur": "M. Aurélien Saintoul"
-   }
-  ],
-  "date_naissance": "1980-08-05",
-  "emails": [
-   {
-    "email": "bastien.lachaud@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 212,
-  "id_an": "720846",
-  "lieu_naissance": "Vitry sur Seine (Val-de-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bastien Lachaud",
-  "nom_circo": "Seine-Saint-Denis",
-  "nom_de_famille": "Lachaud",
-  "num_circo": 6,
-  "num_deptmt": "93",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "626",
-  "prenom": "Bastien",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "H",
-  "sites_web": [
-   "https://bastienlachaud.fr",
-   "https://twitter.com/lachaudb",
-   "https://fr-fr.facebook.com/lachaudb"
-  ],
-  "slug": "bastien-lachaud",
   "twitter": "lachaudb",
-  "twitter_created_at": "2011-02-05T20:15:03",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Feb 05 20:15:03 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député @FranceInsoumise #circo9306 - Membre de la Commission Défense et Forces armées - Président du groupe contre les discriminations et les #LGBTQIphobies",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "bastienlachaud.fr",
-       "expanded_url": "https://bastienlachaud.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/xE7Fpl50Y5"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5035,
-   "follow_request_sent": false,
-   "followers_count": 31982,
-   "following": false,
-   "friends_count": 547,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 247895631,
-   "id_str": "247895631",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 289,
-   "location": "Paris, France",
-   "name": "Bastien Lachaud",
-   "notifications": false,
-   "profile_background_color": "1A1B1F",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/247895631/1594901869",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1214558801191268358/tMWptBxV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214558801191268358/tMWptBxV_normal.jpg",
-   "profile_link_color": "2FC2EF",
-   "profile_sidebar_border_color": "181A1E",
-   "profile_sidebar_fill_color": "252429",
-   "profile_text_color": "666666",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "LachaudB",
-   "statuses_count": 10144,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/xE7Fpl50Y5",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @FranceInsoumise #circo9306 - Membre de la Commission Défense et Forces armées - Président du groupe contre les discriminations et les #LGBTQIphobies",
-  "twitter_favourites": 5035,
-  "twitter_followers": 31982,
-  "twitter_following": 547,
-  "twitter_id": 247895631,
-  "twitter_listed": 289,
-  "twitter_name": "Bastien Lachaud",
-  "twitter_protected": false,
-  "twitter_tweets": 10144,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720846",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720846",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bastien-lachaud",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bastien-lachaud/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720846"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bastien-Lachaud",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720846",
@@ -826,10 +697,10 @@
   "id": "247895631",
   "name": "Bastien Lachaud",
   "public_metrics": {
-   "followers_count": 31996,
+   "followers_count": 32034,
    "following_count": 548,
-   "listed_count": 289,
-   "tweet_count": 10150
+   "listed_count": 291,
+   "tweet_count": 10165
   },
   "username": "LachaudB"
  },

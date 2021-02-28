@@ -118,133 +118,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.75.88"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Genia Pislaru"
-   },
-   {
-    "collaborateur": "M. Julien Petrequin"
-   },
-   {
-    "collaborateur": "Mme Lindy Pollet"
-   }
-  ],
-  "date_naissance": "1978-04-15",
-  "emails": [
-   {
-    "email": "elodie.jacquier-laforge@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 205,
-  "id_an": "719874",
-  "lieu_naissance": "Grenoble (Isère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Élodie Jacquier-Laforge",
-  "nom_circo": "Isère",
-  "nom_de_famille": "Jacquier-Laforge",
-  "num_circo": 9,
-  "num_deptmt": "38",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "184",
-  "prenom": "Élodie",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/elodiejala",
-   "http://www.elodiejacquierlaforge.fr"
-  ],
-  "slug": "elodie-jacquier-laforge",
   "twitter": "elodiejala",
-  "twitter_created_at": "2010-01-22T12:10:05",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jan 22 12:10:05 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée #3809",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "elodiejacquierlaforge.fr",
-       "expanded_url": "http://www.elodiejacquierlaforge.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/qIJLu4XQ8x"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4796,
-   "follow_request_sent": false,
-   "followers_count": 2317,
-   "following": false,
-   "friends_count": 808,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 107393186,
-   "id_str": "107393186",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 77,
-   "location": "Voiron, France",
-   "name": "Elodie Jacquier-Laforge",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/107393186/1613064074",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1359915404496412676/exlNDzzl_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359915404496412676/exlNDzzl_normal.jpg",
-   "profile_link_color": "FAB81E",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "elodiejala",
-   "statuses_count": 1909,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/qIJLu4XQ8x",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #3809",
-  "twitter_favourites": 4796,
-  "twitter_followers": 2317,
-  "twitter_following": 808,
-  "twitter_id": 107393186,
-  "twitter_listed": 77,
-  "twitter_name": "Elodie Jacquier-Laforge",
-  "twitter_protected": false,
-  "twitter_tweets": 1909,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719874",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719874",
-  "url_nosdeputes": "https://www.nosdeputes.fr/elodie-jacquier-laforge",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/elodie-jacquier-laforge/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719874"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Élodie-Jacquier-Laforge",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719874",
@@ -768,10 +643,10 @@
   "id": "107393186",
   "name": "Elodie Jacquier-Laforge",
   "public_metrics": {
-   "followers_count": 2319,
-   "following_count": 807,
-   "listed_count": 78,
-   "tweet_count": 1910
+   "followers_count": 2321,
+   "following_count": 808,
+   "listed_count": 77,
+   "tweet_count": 1912
   },
   "username": "elodiejala"
  },

@@ -144,137 +144,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "7 Rue des artisans 25000 Besançon Téléphone : 0381412469"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Yaye Kaba"
-   },
-   {
-    "collaborateur": "M. Bastien Gibaut"
-   },
-   {
-    "collaborateur": "Mme Margot Brisson"
-   }
-  ],
-  "date_naissance": "1984-12-31",
-  "emails": [
-   {
-    "email": "fannette.charvier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 330,
-  "id_an": "719170",
-  "lieu_naissance": "Annecy (Haute-Savoie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Fannette Charvier",
-  "nom_circo": "Doubs",
-  "nom_de_famille": "Charvier",
-  "num_circo": 1,
-  "num_deptmt": "25",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "528",
-  "prenom": "Fannette",
-  "profession": "Employée (autres entreprises publiques)",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/F_Charvier",
-   "http://www.fannettecharvier.com",
-   "https://fr-fr.facebook.com/FannetteCharvier"
-  ],
-  "slug": "fannette-charvier",
   "twitter": "F_Charvier",
-  "twitter_created_at": "2012-10-23T01:15:08",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Oct 23 01:15:08 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée du Doubs\nCommission Culture, Education, Enseignement Sup et Sport #Jeunesse #VieAssociative #Recherche #Spatial\n#LREM #TerritoiresDeProgrès",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fannettecharvier.com",
-       "expanded_url": "http://www.fannettecharvier.com/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/mhDVLkJQSM"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5167,
-   "follow_request_sent": false,
-   "followers_count": 4519,
-   "following": false,
-   "friends_count": 1255,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 898841450,
-   "id_str": "898841450",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 107,
-   "location": "25000",
-   "name": "Fannette Charvier",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/898841450/1600171957",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1305842596158345216/SRUa9Okp_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305842596158345216/SRUa9Okp_normal.jpg",
-   "profile_link_color": "981CEB",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "F_Charvier",
-   "statuses_count": 3314,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/mhDVLkJQSM",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du Doubs Commission Culture, Education, Enseignement Sup et Sport #Jeunesse #VieAssociative #Recherche #Spatial #LREM #TerritoiresDeProgrès",
-  "twitter_favourites": 5167,
-  "twitter_followers": 4519,
-  "twitter_following": 1255,
-  "twitter_id": 898841450,
-  "twitter_listed": 107,
-  "twitter_name": "Fannette Charvier",
-  "twitter_protected": false,
-  "twitter_tweets": 3314,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719170",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719170",
-  "url_nosdeputes": "https://www.nosdeputes.fr/fannette-charvier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/fannette-charvier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719170"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fannette-Charvier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719170",
@@ -1508,9 +1379,9 @@
   "id": "898841450",
   "name": "Fannette Charvier",
   "public_metrics": {
-   "followers_count": 4527,
+   "followers_count": 4541,
    "following_count": 1255,
-   "listed_count": 108,
+   "listed_count": 107,
    "tweet_count": 3316
   },
   "username": "F_Charvier"

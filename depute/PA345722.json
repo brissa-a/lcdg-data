@@ -54,134 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Eve-Marie Ganczarczyk"
-   },
-   {
-    "collaborateur": "Mme Audrey Nieuwmunster"
-   },
-   {
-    "collaborateur": "Mme Constance Journet"
-   }
-  ],
-  "date_naissance": "1960-11-14",
-  "emails": [
-   {
-    "email": "constance.legrip@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 87,
-  "id_an": "345722",
-  "lieu_naissance": "Chatou (Yvelines)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Constance Le Grip",
-  "nom_circo": "Hauts-de-Seine",
-  "nom_de_famille": "Le Grip",
-  "num_circo": 6,
-  "num_deptmt": "92",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "102",
-  "prenom": "Constance",
-  "profession": "Permanent politique",
-  "sexe": "F",
-  "sites_web": [
-   "http://constancelegrip.fr",
-   "https://twitter.com/ConstanceLeGrip",
-   "https://fr-fr.facebook.com/Deputee.ConstanceLeGrip"
-  ],
-  "slug": "constance-le-grip",
   "twitter": "ConstanceLeGrip",
-  "twitter_created_at": "2011-07-20T08:44:10",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jul 20 08:44:10 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée des Hauts-de-Seine - VP Com Aff culturelles/Éducation - Conseillère municipale de #Neuillysurseine - membre BP @lesrepublicains - Ex députée européenne",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "constancelegrip.fr",
-       "expanded_url": "http://constancelegrip.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/40ebdZMBxj"
-      }
-     ]
-    }
-   },
-   "favourites_count": 11696,
-   "follow_request_sent": false,
-   "followers_count": 10770,
-   "following": false,
-   "friends_count": 1201,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 338910451,
-   "id_str": "338910451",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 296,
-   "location": "Neuilly - Puteaux - Courbevoie",
-   "name": "Constance Le Grip",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/338910451/1556808337",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1071085317476761600/BsRuN1NO_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071085317476761600/BsRuN1NO_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ConstanceLeGrip",
-   "statuses_count": 15191,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/40ebdZMBxj",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée des Hauts-de-Seine - VP Com Aff culturelles/Éducation - Conseillère municipale de #Neuillysurseine - membre BP @lesrepublicains - Ex députée européenne",
-  "twitter_favourites": 11696,
-  "twitter_followers": 10770,
-  "twitter_following": 1201,
-  "twitter_id": 338910451,
-  "twitter_listed": 296,
-  "twitter_name": "Constance Le Grip",
-  "twitter_protected": false,
-  "twitter_tweets": 15191,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA345722",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA345722",
-  "url_nosdeputes": "https://www.nosdeputes.fr/constance-le-grip",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/constance-le-grip/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA345722"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Constance-Le Grip",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA345722",
@@ -1103,10 +977,10 @@
   "id": "338910451",
   "name": "Constance Le Grip",
   "public_metrics": {
-   "followers_count": 10779,
+   "followers_count": 10787,
    "following_count": 1204,
-   "listed_count": 297,
-   "tweet_count": 15197
+   "listed_count": 295,
+   "tweet_count": 15208
   },
   "username": "ConstanceLeGrip"
  },

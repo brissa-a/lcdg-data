@@ -65,137 +65,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Leila Makhlouti"
-   },
-   {
-    "collaborateur": "Mme Eléonore Boucher"
-   },
-   {
-    "collaborateur": "Mme Capucine Richard"
-   },
-   {
-    "collaborateur": "Mme Noémie Rimbaut"
-   }
-  ],
-  "date_naissance": "1988-06-06",
-  "emails": [
-   {
-    "email": "jean-marc.zulesi@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 31,
-  "id_an": "718962",
-  "lieu_naissance": "Marseille (Bouches-du-Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Marc Zulesi",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Zulesi",
-  "num_circo": 8,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "305",
-  "prenom": "Jean-Marc",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jeanmarczulesi.fr",
-   "https://twitter.com/jmzulesi",
-   "https://fr-fr.facebook.com/jmzulesi"
-  ],
-  "slug": "jean-marc-zulesi",
   "twitter": "jmzulesi",
-  "twitter_created_at": "2010-03-11T19:43:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Mar 11 19:43:30 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député des Bouches-du-Rhône (8è), Référent #Mobilités @enmarchefr / Co-Président @FrenchMobility 💡 / Whip Commission du Développement Durable 🌱",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanmarczulesi.fr",
-       "expanded_url": "http://www.jeanmarczulesi.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/REQgL5P4fR"
-      }
-     ]
-    }
-   },
-   "favourites_count": 14419,
-   "follow_request_sent": false,
-   "followers_count": 7558,
-   "following": false,
-   "friends_count": 4204,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 122155194,
-   "id_str": "122155194",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 164,
-   "location": "Cornillon-Confoux",
-   "name": "Jean-Marc Zulesi",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/122155194/1530869144",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1333658687404187648/3y_9D9sf_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333658687404187648/3y_9D9sf_normal.jpg",
-   "profile_link_color": "1C77E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "jmzulesi",
-   "statuses_count": 7479,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/REQgL5P4fR",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Bouches-du-Rhône (8è), Référent #Mobilités @enmarchefr / Co-Président @FrenchMobility 💡 / Whip Commission du Développement Durable 🌱",
-  "twitter_favourites": 14419,
-  "twitter_followers": 7558,
-  "twitter_following": 4204,
-  "twitter_id": 122155194,
-  "twitter_listed": 164,
-  "twitter_name": "Jean-Marc Zulesi",
-  "twitter_protected": false,
-  "twitter_tweets": 7479,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718962",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718962",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-marc-zulesi",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-marc-zulesi/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718962"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Marc-Zulesi",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718962",
@@ -1091,10 +962,10 @@
   "id": "122155194",
   "name": "Jean-Marc Zulesi",
   "public_metrics": {
-   "followers_count": 7566,
-   "following_count": 4211,
+   "followers_count": 7573,
+   "following_count": 4212,
    "listed_count": 163,
-   "tweet_count": 7484
+   "tweet_count": 7487
   },
   "username": "jmzulesi"
  },

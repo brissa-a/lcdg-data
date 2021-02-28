@@ -83,134 +83,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Mohamed-El-Amine Boubekeur"
-   },
-   {
-    "collaborateur": "Mme Ludivine Jacquemain"
-   },
-   {
-    "collaborateur": "M. Patrick Jalladaud"
-   }
-  ],
-  "date_naissance": "1974-03-08",
-  "emails": [
-   {
-    "email": "rodrigue.kokouendo@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 49,
-  "id_an": "721644",
-  "lieu_naissance": "Bangui (Centrafrique)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Rodrigue Kokouendo",
-  "nom_circo": "Seine-et-Marne",
-  "nom_de_famille": "Kokouendo",
-  "num_circo": 7,
-  "num_deptmt": "77",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "245",
-  "prenom": "Rodrigue",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/RKokouendoJ",
-   "http://www.rodrigue-kokouendo.fr",
-   "https://fr-fr.facebook.com/RKOKOUENDO"
-  ],
-  "slug": "rodrigue-kokouendo",
   "twitter": "RKokouendoJ",
-  "twitter_created_at": "2016-07-05T19:14:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jul 05 19:14:44 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LREM Vice-Président de la Commission des Affaires étrangères - 7ème circonscription de Seine-et-Marne #circo7707-@AssembleeNat #DirectAN #DirectCirco",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "rodrigue-kokouendo.fr",
-       "expanded_url": "https://www.rodrigue-kokouendo.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/74901iNRBk"
-      }
-     ]
-    }
-   },
-   "favourites_count": 18535,
-   "follow_request_sent": false,
-   "followers_count": 5491,
-   "following": false,
-   "friends_count": 1566,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 750407584897724400,
-   "id_str": "750407584897724416",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 94,
-   "location": "Villeparisis, France",
-   "name": "Rodrigue Kokouendo",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/750407584897724416/1612553594",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/919851949150875648/E95bsXEK_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/919851949150875648/E95bsXEK_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RKokouendoJ",
-   "statuses_count": 4878,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/74901iNRBk",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LREM Vice-Président de la Commission des Affaires étrangères - 7ème circonscription de Seine-et-Marne #circo7707-@AssembleeNat #DirectAN #DirectCirco",
-  "twitter_favourites": 18535,
-  "twitter_followers": 5491,
-  "twitter_following": 1566,
-  "twitter_id": 750407584897724400,
-  "twitter_listed": 94,
-  "twitter_name": "Rodrigue Kokouendo",
-  "twitter_protected": false,
-  "twitter_tweets": 4878,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721644",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721644",
-  "url_nosdeputes": "https://www.nosdeputes.fr/rodrigue-kokouendo",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/rodrigue-kokouendo/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721644"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Rodrigue-Kokouendo",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721644",
@@ -797,9 +671,9 @@
   "name": "Rodrigue Kokouendo",
   "public_metrics": {
    "followers_count": 5493,
-   "following_count": 1567,
+   "following_count": 1568,
    "listed_count": 94,
-   "tweet_count": 4882
+   "tweet_count": 4885
   },
   "username": "RKokouendoJ"
  },

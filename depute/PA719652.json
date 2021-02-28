@@ -136,140 +136,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Comps / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Guillaume Jollet"
-   },
-   {
-    "collaborateur": "Mme Vanessa Santos"
-   },
-   {
-    "collaborateur": "M. Maxence Huguenot"
-   },
-   {
-    "collaborateur": "Mme Virginie Evrard"
-   }
-  ],
-  "date_naissance": "1968-11-04",
-  "emails": [
-   {
-    "email": "veronique.hammerer@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 221,
-  "id_an": "719652",
-  "lieu_naissance": "Dax (Landes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Véronique Hammerer",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "Hammerer",
-  "num_circo": 11,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "326",
-  "prenom": "Véronique",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "F",
-  "sites_web": [
-   "https://veroniquehammerer.com",
-   "https://twitter.com/V_Hammerer"
-  ],
-  "slug": "veronique-hammerer",
   "twitter": "V_Hammerer",
-  "twitter_created_at": "2017-05-12T21:11:18",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri May 12 21:11:18 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée @enmarchefr de la Gironde / Membre du @HCEfh / Membre de la Commission des Affaires sociales #grandageetautonomie #Mobilité #Numérique #DroitsdesFemmes",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "veroniquehammerer.com",
-       "expanded_url": "https://veroniquehammerer.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1dCSHiqirf"
-      }
-     ]
-    }
-   },
-   "favourites_count": 753,
-   "follow_request_sent": false,
-   "followers_count": 5889,
-   "following": false,
-   "friends_count": 306,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863139545528905700,
-   "id_str": "863139545528905729",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 119,
-   "location": "Pugnac, France",
-   "name": "Véronique HAMMERER",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863139545528905729/1495563808",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1087718396698021889/eNfg8xjo_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087718396698021889/eNfg8xjo_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "V_Hammerer",
-   "statuses_count": 1677,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/1dCSHiqirf",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée @enmarchefr de la Gironde / Membre du @HCEfh / Membre de la Commission des Affaires sociales #grandageetautonomie #Mobilité #Numérique #DroitsdesFemmes",
-  "twitter_favourites": 753,
-  "twitter_followers": 5889,
-  "twitter_following": 306,
-  "twitter_id": 863139545528905700,
-  "twitter_listed": 119,
-  "twitter_name": "Véronique HAMMERER",
-  "twitter_protected": false,
-  "twitter_tweets": 1677,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719652",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719652",
-  "url_nosdeputes": "https://www.nosdeputes.fr/veronique-hammerer",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/veronique-hammerer/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719652"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Véronique-Hammerer",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719652",
@@ -1243,10 +1111,10 @@
   "id": "863139545528905729",
   "name": "Véronique HAMMERER",
   "public_metrics": {
-   "followers_count": 5887,
+   "followers_count": 5902,
    "following_count": 306,
-   "listed_count": 120,
-   "tweet_count": 1678
+   "listed_count": 119,
+   "tweet_count": 1680
   },
   "username": "V_Hammerer"
  },

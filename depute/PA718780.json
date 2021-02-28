@@ -56,147 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "15 Avenue de l'Hôtel de ville 06800 Cagnes-sur-Mer Téléphone : 04 93 22 94 44"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Cagnes-sur-Mer / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Virginia Caliez-Szczebara"
-   },
-   {
-    "collaborateur": "Mme Audrey Quesada"
-   },
-   {
-    "collaborateur": "M. Corentin Fagot"
-   },
-   {
-    "collaborateur": "Mme Hermine Falicon"
-   },
-   {
-    "collaborateur": "M. Alain Lucas"
-   }
-  ],
-  "date_naissance": "1972-03-06",
-  "emails": [
-   {
-    "email": "laurence.trastour-isnart@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 304,
-  "id_an": "718780",
-  "lieu_naissance": "Cagnes-sur-Mer (Alpes-Maritimes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Laurence Trastour-Isnart",
-  "nom_circo": "Alpes-Maritimes",
-  "nom_de_famille": "Trastour-Isnart",
-  "num_circo": 6,
-  "num_deptmt": "06",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "151",
-  "prenom": "Laurence",
-  "profession": "Rédacteur territorial",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/TrastourIsnart",
-   "http://www.laurence-trastour-isnart.fr",
-   "https://fr-fr.facebook.com/trastour2017"
-  ],
-  "slug": "laurence-trastour-isnart",
   "twitter": "TrastourIsnart",
-  "twitter_created_at": "2017-05-10T13:58:14",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 10 13:58:14 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée @lesRepublicains des Alpes-Maritimes • Membre de la @AN_Defense • Élue à @VilledeCagnes",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "laurence-trastour-isnart.fr",
-       "expanded_url": "https://www.laurence-trastour-isnart.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Or16llfACs"
-      }
-     ]
-    }
-   },
-   "favourites_count": 261,
-   "follow_request_sent": false,
-   "followers_count": 1680,
-   "following": false,
-   "friends_count": 307,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 862305784188874800,
-   "id_str": "862305784188874752",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 71,
-   "location": "Cagnes-sur-Mer, France",
-   "name": "Laurence Trastour-Isnart",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862305784188874752/1600106405",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/862307446710259712/OuUF3ZgM_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/862307446710259712/OuUF3ZgM_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "TrastourIsnart",
-   "statuses_count": 576,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Or16llfACs",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée @lesRepublicains des Alpes-Maritimes • Membre de la @AN_Defense • Élue à @VilledeCagnes",
-  "twitter_favourites": 261,
-  "twitter_followers": 1680,
-  "twitter_following": 307,
-  "twitter_id": 862305784188874800,
-  "twitter_listed": 71,
-  "twitter_name": "Laurence Trastour-Isnart",
-  "twitter_protected": false,
-  "twitter_tweets": 576,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718780",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718780",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurence-trastour-isnart",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurence-trastour-isnart/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718780"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurence-Trastour-Isnart",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718780",
@@ -780,9 +641,9 @@
   "name": "Laurence Trastour-Isnart",
   "public_metrics": {
    "followers_count": 1682,
-   "following_count": 307,
-   "listed_count": 72,
-   "tweet_count": 577
+   "following_count": 308,
+   "listed_count": 71,
+   "tweet_count": 578
   },
   "username": "TrastourIsnart"
  },

@@ -189,136 +189,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Vincent Debas"
-   },
-   {
-    "collaborateur": "M. Edouard Baude"
-   },
-   {
-    "collaborateur": "Mme Caroline Catino"
-   }
-  ],
-  "date_naissance": "1978-09-27",
-  "emails": [
-   {
-    "email": "fabien.gouttefarde@assemblee-nationale.fr"
-   },
-   {
-    "email": "fabien.gouttefarde@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 288,
-  "id_an": "719330",
-  "lieu_naissance": "Versailles (Yvelines)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Fabien Gouttefarde",
-  "nom_circo": "Eure",
-  "nom_de_famille": "Gouttefarde",
-  "num_circo": 2,
-  "num_deptmt": "27",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "415",
-  "prenom": "Fabien",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/FGouttefarde",
-   "https://www.facebook.com/FGouttefarde"
-  ],
-  "slug": "fabien-gouttefarde",
   "twitter": "FGouttefarde",
-  "twitter_created_at": "2016-11-27T20:11:12",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Nov 27 20:11:12 +0000 2016",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "March'Eure • Député @LaREM_AN de la 2ème circonscription de l'Eure 🌾• Whip @AN_Defense • Président du GA France-Yemen et du groupe « Action humanitaire »🇨🇭.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/FGouttefarde/",
-       "expanded_url": "https://www.facebook.com/FGouttefarde/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/86SLqmI1vU"
-      }
-     ]
-    }
-   },
-   "favourites_count": 6951,
-   "follow_request_sent": false,
-   "followers_count": 5405,
-   "following": false,
-   "friends_count": 970,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 802968035208417300,
-   "id_str": "802968035208417280",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 105,
-   "location": "Eure, Haute-Normandie",
-   "name": "Fabien Gouttefarde",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/802968035208417280/1597661901",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1275318148326178816/lE_FgLEz_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275318148326178816/lE_FgLEz_normal.jpg",
-   "profile_link_color": "4C9DF9",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "FGouttefarde",
-   "statuses_count": 6768,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/86SLqmI1vU",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "March'Eure • Député @LaREM_AN de la 2ème circonscription de l'Eure 🌾• Whip @AN_Defense • Président du GA France-Yemen et du groupe « Action humanitaire »🇨🇭.",
-  "twitter_favourites": 6951,
-  "twitter_followers": 5405,
-  "twitter_following": 970,
-  "twitter_id": 802968035208417300,
-  "twitter_listed": 105,
-  "twitter_name": "Fabien Gouttefarde",
-  "twitter_protected": false,
-  "twitter_tweets": 6768,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719330",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719330",
-  "url_nosdeputes": "https://www.nosdeputes.fr/fabien-gouttefarde",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/fabien-gouttefarde/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719330"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabien-Gouttefarde",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719330",
@@ -962,10 +834,10 @@
   "id": "802968035208417280",
   "name": "Fabien Gouttefarde",
   "public_metrics": {
-   "followers_count": 5410,
-   "following_count": 970,
+   "followers_count": 5411,
+   "following_count": 972,
    "listed_count": 105,
-   "tweet_count": 6770
+   "tweet_count": 6775
   },
   "username": "FGouttefarde"
  },

@@ -149,144 +149,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 59 Rue de Belfort 25000 Besançon"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Besançon / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Guillaume Travaglini"
-   },
-   {
-    "collaborateur": "Mme Coraline Tiranzoni"
-   }
-  ],
-  "date_naissance": "1958-06-07",
-  "emails": [
-   {
-    "email": "eric.alauzet@assemblee-nationale.fr"
-   },
-   {
-    "email": "depute@alauzet.net"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 508,
-  "id_an": "605963",
-  "lieu_naissance": "Nancy (Meurthe-et-Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Éric Alauzet",
-  "nom_circo": "Doubs",
-  "nom_de_famille": "Alauzet",
-  "num_circo": 2,
-  "num_deptmt": "25",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "464",
-  "prenom": "Éric",
-  "profession": "Médecin",
-  "sexe": "H",
-  "sites_web": [
-   "http://alauzet.net",
-   "https://twitter.com/ericalauzet",
-   "https://fr-fr.facebook.com/ericalauzet"
-  ],
-  "slug": "eric-alauzet",
   "twitter": "ericalauzet",
-  "twitter_created_at": "2012-09-23T17:37:06",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Sep 23 17:37:06 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Médecin-acuponcteur. Député écologiste 🌎 du Doubs.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "alauzet.net",
-       "expanded_url": "http://alauzet.net",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/AS39C4MZ18"
-      }
-     ]
-    }
-   },
-   "favourites_count": 964,
-   "follow_request_sent": false,
-   "followers_count": 4820,
-   "following": false,
-   "friends_count": 1088,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 842102300,
-   "id_str": "842102300",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 0,
-   "location": "Besançon, Paris ",
-   "name": "Éric Alauzet",
-   "notifications": false,
-   "profile_background_color": "4FC742",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/842102300/1602168284",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1269999924810301445/9XHAn_dU_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999924810301445/9XHAn_dU_normal.jpg",
-   "profile_link_color": "2C9E3D",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "ericalauzet",
-   "statuses_count": 2297,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/AS39C4MZ18",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Médecin-acuponcteur. Député écologiste 🌎 du Doubs.",
-  "twitter_favourites": 964,
-  "twitter_followers": 4820,
-  "twitter_following": 1088,
-  "twitter_id": 842102300,
-  "twitter_listed": 0,
-  "twitter_name": "Éric Alauzet",
-  "twitter_protected": false,
-  "twitter_tweets": 2297,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605963",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605963",
-  "url_nosdeputes": "https://www.nosdeputes.fr/eric-alauzet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/eric-alauzet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605963"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Éric-Alauzet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605963",
@@ -1038,10 +902,10 @@
   "id": "842102300",
   "name": "Éric Alauzet",
   "public_metrics": {
-   "followers_count": 4822,
+   "followers_count": 4823,
    "following_count": 1088,
    "listed_count": 208,
-   "tweet_count": 2297
+   "tweet_count": 2298
   },
   "username": "ericalauzet"
  },

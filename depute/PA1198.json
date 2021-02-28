@@ -70,145 +70,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 17 Rue Paul Toutain 14000 Caen Téléphone : 02 31 78 15 10"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Valérie Scognamiglio"
-   },
-   {
-    "collaborateur": "Mme Emmanuelle Jardin-Payet"
-   },
-   {
-    "collaborateur": "M. Pascal Leroy"
-   }
-  ],
-  "date_naissance": "1958-06-02",
-  "emails": [
-   {
-    "email": "laurence.dumont@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 481,
-  "id_an": "1198",
-  "lieu_naissance": "Vincennes (Val-de-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Laurence Dumont",
-  "nom_circo": "Calvados",
-  "nom_de_famille": "Dumont",
-  "num_circo": 2,
-  "num_deptmt": "14",
-  "parti_ratt_financier": "Parti socialiste",
-  "place_en_hemicycle": "509",
-  "prenom": "Laurence",
-  "profession": "Chargée d'études",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.laurencedumont.fr",
-   "https://twitter.com/LDumontDeputee"
-  ],
-  "slug": "laurence-dumont",
   "twitter": "LDumontDeputee",
-  "twitter_created_at": "2017-04-10T18:31:34",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Apr 10 18:31:34 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Femme politique, députée du Calvados #circo1402",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "laurencedumont.fr",
-       "expanded_url": "http://www.laurencedumont.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/B0F3m5VTI6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 49,
-   "follow_request_sent": false,
-   "followers_count": 1791,
-   "following": false,
-   "friends_count": 585,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 851502935511101400,
-   "id_str": "851502935511101441",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 79,
-   "location": "Caen, France",
-   "name": "Laurence DUMONT",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/851502935511101441/1497371933",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1308760458820816899/0SdXf065_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308760458820816899/0SdXf065_normal.jpg",
-   "profile_link_color": "F73176",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "LDumontDeputee",
-   "statuses_count": 665,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/B0F3m5VTI6",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Femme politique, députée du Calvados #circo1402",
-  "twitter_favourites": 49,
-  "twitter_followers": 1791,
-  "twitter_following": 585,
-  "twitter_id": 851502935511101400,
-  "twitter_listed": 79,
-  "twitter_name": "Laurence DUMONT",
-  "twitter_protected": false,
-  "twitter_tweets": 665,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1198",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1198",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurence-dumont",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurence-dumont/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1198"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurence-Dumont",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1198",
@@ -630,10 +493,10 @@
   "id": "851502935511101441",
   "name": "Laurence DUMONT",
   "public_metrics": {
-   "followers_count": 1792,
+   "followers_count": 1791,
    "following_count": 585,
-   "listed_count": 80,
-   "tweet_count": 666
+   "listed_count": 79,
+   "tweet_count": 665
   },
   "username": "LDumontDeputee"
  },

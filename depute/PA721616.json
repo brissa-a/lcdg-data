@@ -55,141 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Paris 4ème Arrondissement / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Alexandre Bianco"
-   },
-   {
-    "collaborateur": "M. Alexandre Molina"
-   },
-   {
-    "collaborateur": "Mme Clara Chassaniol"
-   }
-  ],
-  "date_naissance": "1985-01-25",
-  "emails": [
-   {
-    "email": "pacome.rupin@assemblee-nationale.fr"
-   },
-   {
-    "email": "pacome.rupin@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 186,
-  "id_an": "721616",
-  "lieu_naissance": "Chambray-lès-Tours (Indre-et-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Pacôme Rupin",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Rupin",
-  "num_circo": 7,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "423",
-  "prenom": "Pacôme",
-  "profession": "Entrepreneur",
-  "sexe": "H",
-  "sites_web": [
-   "https://pacomerupin.fr",
-   "https://twitter.com/PacomeRupin",
-   "https://fr-fr.facebook.com/pacome.rupin"
-  ],
-  "slug": "pacome-rupin",
   "twitter": "PacomeRupin",
-  "twitter_created_at": "2009-09-08T15:36:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Sep 08 15:36:30 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Paris, en charge de la coordination du groupe parlementaire LREM à la Commission des Lois. Conseiller municipal de Paris Centre.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "pacomerupin.fr",
-       "expanded_url": "https://pacomerupin.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/knUrAz14ZP"
-      }
-     ]
-    }
-   },
-   "favourites_count": 636,
-   "follow_request_sent": false,
-   "followers_count": 10949,
-   "following": false,
-   "friends_count": 396,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 72581817,
-   "id_str": "72581817",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 200,
-   "location": "Paris, France",
-   "name": "Pacôme Rupin",
-   "notifications": false,
-   "profile_background_color": "B2DFDA",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/72581817/1605720569",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1308738797446758400/LZ7KV4H8_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308738797446758400/LZ7KV4H8_normal.jpg",
-   "profile_link_color": "93A644",
-   "profile_sidebar_border_color": "EEEEEE",
-   "profile_sidebar_fill_color": "FFFFFF",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "PacomeRupin",
-   "statuses_count": 2455,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/knUrAz14ZP",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Paris, en charge de la coordination du groupe parlementaire LREM à la Commission des Lois. Conseiller municipal de Paris Centre.",
-  "twitter_favourites": 636,
-  "twitter_followers": 10949,
-  "twitter_following": 396,
-  "twitter_id": 72581817,
-  "twitter_listed": 200,
-  "twitter_name": "Pacôme Rupin",
-  "twitter_protected": false,
-  "twitter_tweets": 2455,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721616",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721616",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pacome-rupin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pacome-rupin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721616"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pacôme-Rupin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721616",
@@ -1128,7 +995,7 @@
   "id": "72581817",
   "name": "Pacôme Rupin",
   "public_metrics": {
-   "followers_count": 10948,
+   "followers_count": 10956,
    "following_count": 396,
    "listed_count": 201,
    "tweet_count": 2456

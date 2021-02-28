@@ -98,123 +98,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bastia / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Ange Pastinelli"
-   },
-   {
-    "collaborateur": "M. Franck Luciani"
-   },
-   {
-    "collaborateur": "M. Andria-Ghjuliu Sargentini"
-   }
-  ],
-  "date_naissance": "1945-09-28",
-  "emails": [
-   {
-    "email": "michel.castellani@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 231,
-  "id_an": "719138",
-  "lieu_naissance": "Bastia (Haute-Corse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Michel Castellani",
-  "nom_circo": "Haute-Corse",
-  "nom_de_famille": "Castellani",
-  "num_circo": 1,
-  "num_deptmt": "2B",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "196",
-  "prenom": "Michel",
-  "profession": "Professeur des Universités",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/Castellani_"
-  ],
-  "slug": "michel-castellani",
   "twitter": "Castellani_",
-  "twitter_created_at": "2012-03-19T22:49:29",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Mar 19 22:49:29 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 1re circonscription de Haute-Corse,\nConseiller municipal de Bastia, \nProfesseur des Universités",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 400,
-   "follow_request_sent": false,
-   "followers_count": 7115,
-   "following": false,
-   "friends_count": 152,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 529798328,
-   "id_str": "529798328",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 91,
-   "location": "",
-   "name": "Michel Castellani",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/529798328/1498721453",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1910140710/miche_normal.JPG",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1910140710/miche_normal.JPG",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Castellani_",
-   "statuses_count": 1158,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 1re circonscription de Haute-Corse, Conseiller municipal de Bastia, Professeur des Universités",
-  "twitter_favourites": 400,
-  "twitter_followers": 7115,
-  "twitter_following": 152,
-  "twitter_id": 529798328,
-  "twitter_listed": 91,
-  "twitter_name": "Michel Castellani",
-  "twitter_protected": false,
-  "twitter_tweets": 1158,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719138",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719138",
-  "url_nosdeputes": "https://www.nosdeputes.fr/michel-castellani",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/michel-castellani/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719138"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Michel-Castellani",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719138",
@@ -829,10 +714,10 @@
   "id": "529798328",
   "name": "Michel Castellani",
   "public_metrics": {
-   "followers_count": 7113,
+   "followers_count": 7121,
    "following_count": 152,
    "listed_count": 91,
-   "tweet_count": 1158
+   "tweet_count": 1159
   },
   "username": "Castellani_"
  },

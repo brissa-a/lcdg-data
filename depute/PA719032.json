@@ -188,137 +188,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence du député Bertrand Bouyx 46 Rue Saint-Jean Allée de l'Orangerie 14400 Bayeux Téléphone : 0231104810"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marie Lebedio"
-   },
-   {
-    "collaborateur": "M. Cyrille Malinosky"
-   },
-   {
-    "collaborateur": "M. David Lemaresquier"
-   }
-  ],
-  "date_naissance": "1970-05-26",
-  "emails": [
-   {
-    "email": "bertrand.bouyx@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 181,
-  "id_an": "719032",
-  "lieu_naissance": "Juvisy-sur-Orge (Essonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bertrand Bouyx",
-  "nom_circo": "Calvados",
-  "nom_de_famille": "Bouyx",
-  "num_circo": 5,
-  "num_deptmt": "14",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "439",
-  "prenom": "Bertrand",
-  "profession": "Pharmacien",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.bertrandbouyx.fr",
-   "https://twitter.com/BertrandBouyx",
-   "https://www.facebook.com/bertrandbouyx"
-  ],
-  "slug": "bertrand-bouyx",
   "twitter": "BertrandBouyx",
-  "twitter_created_at": "2015-01-08T23:10:27",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jan 08 23:10:27 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du #Calvados (#circo1405)\nCommission #Culture et de #Education \nMembre du Conseil de l'#Europe 🇪🇺 et de #Francophonie\nMajorité Présidentielle",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/bertrandbouyx/",
-       "expanded_url": "https://www.facebook.com/bertrandbouyx/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/vX6OVfhSh0"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5962,
-   "follow_request_sent": false,
-   "followers_count": 3764,
-   "following": false,
-   "friends_count": 1333,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 2968734303,
-   "id_str": "2968734303",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 111,
-   "location": "Bayeux, France",
-   "name": "Bertrand Bouyx",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968734303/1551960549",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1103628121071341569/zUcHre8S_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103628121071341569/zUcHre8S_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BertrandBouyx",
-   "statuses_count": 5938,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/vX6OVfhSh0",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du #Calvados (#circo1405) Commission #Culture et de #Education Membre du Conseil de l'#Europe 🇪🇺 et de #Francophonie Majorité Présidentielle",
-  "twitter_favourites": 5962,
-  "twitter_followers": 3764,
-  "twitter_following": 1333,
-  "twitter_id": 2968734303,
-  "twitter_listed": 111,
-  "twitter_name": "Bertrand Bouyx",
-  "twitter_protected": false,
-  "twitter_tweets": 5938,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719032",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719032",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bertrand-bouyx",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bertrand-bouyx/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719032"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bertrand-Bouyx",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719032",
@@ -1333,10 +1204,10 @@
   "id": "2968734303",
   "name": "Bertrand Bouyx",
   "public_metrics": {
-   "followers_count": 3766,
+   "followers_count": 3772,
    "following_count": 1335,
    "listed_count": 111,
-   "tweet_count": 5951
+   "tweet_count": 5965
   },
   "username": "BertrandBouyx"
  },

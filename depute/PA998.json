@@ -204,159 +204,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 11 Boulevard Amyot-d'Inville 60000 Beauvais Téléphone : 03 44 45 78 48"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "02/04/1993 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "19/09/1988 / 01/04/1993 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aurélie Chantepie"
-   },
-   {
-    "collaborateur": "Mme Guylaine Capgras"
-   },
-   {
-    "collaborateur": "Mme Jacqueline Bijou"
-   },
-   {
-    "collaborateur": "M. Nicolas Compagnon"
-   },
-   {
-    "collaborateur": "Mme Maggy Legat"
-   }
-  ],
-  "date_naissance": "1951-06-01",
-  "emails": [
-   {
-    "email": "olivier.dassault@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 14,
-  "id_an": "998",
-  "lieu_naissance": "Boulogne-Billancourt (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Olivier Dassault",
-  "nom_circo": "Oise",
-  "nom_de_famille": "Dassault",
-  "num_circo": 1,
-  "num_deptmt": "60",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "100",
-  "prenom": "Olivier",
-  "profession": "Président de sociétés",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.olivierdassault.fr",
-   "https://twitter.com/ODassault",
-   "http://www.olivier-dassault.fr",
-   "https://fr-fr.facebook.com/olivier.dassault"
-  ],
-  "slug": "olivier-dassault",
   "twitter": "ODassault",
-  "twitter_created_at": "2012-09-01T13:14:02",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Sep 01 13:14:02 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 1ère circonscription de l'Oise. Membre de la commission des affaires étrangères. Président de #GEEA",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA998",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Yfu48fRjBJ"
-      }
-     ]
-    }
-   },
-   "favourites_count": 954,
-   "follow_request_sent": false,
-   "followers_count": 5638,
-   "following": false,
-   "friends_count": 914,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 796057206,
-   "id_str": "796057206",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 181,
-   "location": "Paris ",
-   "name": "Olivier Dassault",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/796057206/1536237439",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1042755225629716481/3WJLqvwz_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042755225629716481/3WJLqvwz_normal.jpg",
-   "profile_link_color": "3B94D9",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ODassault",
-   "statuses_count": 3831,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Yfu48fRjBJ",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 1ère circonscription de l'Oise. Membre de la commission des affaires étrangères. Président de #GEEA",
-  "twitter_favourites": 954,
-  "twitter_followers": 5638,
-  "twitter_following": 914,
-  "twitter_id": 796057206,
-  "twitter_listed": 181,
-  "twitter_name": "Olivier Dassault",
-  "twitter_protected": false,
-  "twitter_tweets": 3831,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA998",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA998",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-dassault",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-dassault/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA998"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Dassault",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA998",
@@ -468,7 +317,7 @@
   "id": "796057206",
   "name": "Olivier Dassault",
   "public_metrics": {
-   "followers_count": 5638,
+   "followers_count": 5633,
    "following_count": 914,
    "listed_count": 181,
    "tweet_count": 3831

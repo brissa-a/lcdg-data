@@ -138,147 +138,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "7 Rue Saint-Martin 28100 Dreux Téléphone : 02 37 82 00 00"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pays de Dreux / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Anet / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Arnaud Marignier"
-   },
-   {
-    "collaborateur": "M. Thomas Batigne"
-   },
-   {
-    "collaborateur": "M. Maxime Audap"
-   }
-  ],
-  "date_naissance": "1971-02-06",
-  "emails": [
-   {
-    "email": "olivier.marleix@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 565,
-  "id_an": "606098",
-  "lieu_naissance": "Boulogne-Billancourt (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Olivier Marleix",
-  "nom_circo": "Eure-et-Loir",
-  "nom_de_famille": "Marleix",
-  "num_circo": 2,
-  "num_deptmt": "28",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "33",
-  "prenom": "Olivier",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "https://olivier-marleix.fr",
-   "http://www.oliviermarleix.fr",
-   "https://twitter.com/oliviermarleix",
-   "http://www.facebook.com/MarleixOlivier"
-  ],
-  "slug": "olivier-marleix",
   "twitter": "oliviermarleix",
-  "twitter_created_at": "2014-01-22T17:18:21",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jan 22 17:18:21 +0000 2014",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député d'Eure-et-Loir. Vice-président des Républicains",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "olivier-marleix.fr",
-       "expanded_url": "https://olivier-marleix.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/MELoEyu1Bx"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2606,
-   "follow_request_sent": false,
-   "followers_count": 7155,
-   "following": false,
-   "friends_count": 1521,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 2305186092,
-   "id_str": "2305186092",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 146,
-   "location": "France",
-   "name": "🇫🇷 Olivier Marleix",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/426042529453060097/gvqxH7Wp_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/426042529453060097/gvqxH7Wp_normal.jpeg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "oliviermarleix",
-   "statuses_count": 4154,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/MELoEyu1Bx",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député d'Eure-et-Loir. Vice-président des Républicains",
-  "twitter_favourites": 2606,
-  "twitter_followers": 7155,
-  "twitter_following": 1521,
-  "twitter_id": 2305186092,
-  "twitter_listed": 146,
-  "twitter_name": "🇫🇷 Olivier Marleix",
-  "twitter_protected": false,
-  "twitter_tweets": 4154,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606098",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606098",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-marleix",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-marleix/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606098"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Marleix",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606098",
@@ -703,10 +564,10 @@
   "id": "2305186092",
   "name": "🇫🇷 Olivier Marleix",
   "public_metrics": {
-   "followers_count": 7157,
-   "following_count": 1520,
-   "listed_count": 145,
-   "tweet_count": 4155
+   "followers_count": 7240,
+   "following_count": 1525,
+   "listed_count": 144,
+   "tweet_count": 4161
   },
   "username": "oliviermarleix"
  },

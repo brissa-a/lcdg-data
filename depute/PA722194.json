@@ -55,130 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "17/11/2018 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Agnès Copin"
-   },
-   {
-    "collaborateur": "M. Romain Plusse"
-   }
-  ],
-  "date_naissance": "1965-10-28",
-  "emails": [
-   {
-    "email": "Florence.Provendier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 597,
-  "id_an": "722194",
-  "lieu_naissance": "Saint-Denis (Seine-Saint-Denis)",
-  "mandat_debut": "2018-11-17",
-  "nb_mandats": 1,
-  "nom": "Florence Provendier",
-  "nom_circo": "Hauts-de-Seine",
-  "nom_de_famille": "Provendier",
-  "num_circo": 10,
-  "num_deptmt": "92",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "232",
-  "prenom": "Florence",
-  "profession": "Cadre dirigeant",
-  "sexe": "F",
-  "sites_web": [
-   "http://florenceprovendier.fr",
-   "https://twitter.com/flprovendier"
-  ],
-  "slug": "florence-provendier",
   "twitter": "flprovendier",
-  "twitter_created_at": "2017-06-02T15:38:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jun 02 15:38:37 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée des Hauts-de-Seine #Circo9210 @AN_AFCult #droitsdelenfant #ODD @Agenda2030FR 🌍🌱",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "florenceprovendier.fr",
-       "expanded_url": "http://florenceprovendier.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/ML8NSwG0Su"
-      }
-     ]
-    }
-   },
-   "favourites_count": 12632,
-   "follow_request_sent": false,
-   "followers_count": 2742,
-   "following": false,
-   "friends_count": 877,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 870665966862164000,
-   "id_str": "870665966862163968",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 50,
-   "location": "",
-   "name": "Florence Provendier",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/870665966862163968/1610529848",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1325549166026760192/-kxcVjIL_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325549166026760192/-kxcVjIL_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "flprovendier",
-   "statuses_count": 2724,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/ML8NSwG0Su",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée des Hauts-de-Seine #Circo9210 @AN_AFCult #droitsdelenfant #ODD @Agenda2030FR 🌍🌱",
-  "twitter_favourites": 12632,
-  "twitter_followers": 2742,
-  "twitter_following": 877,
-  "twitter_id": 870665966862164000,
-  "twitter_listed": 50,
-  "twitter_name": "Florence Provendier",
-  "twitter_protected": false,
-  "twitter_tweets": 2724,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722194",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722194",
-  "url_nosdeputes": "https://www.nosdeputes.fr/florence-provendier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/florence-provendier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722194"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Florence-Provendier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722194",
@@ -775,10 +653,10 @@
   "id": "870665966862163968",
   "name": "Florence Provendier",
   "public_metrics": {
-   "followers_count": 2743,
-   "following_count": 878,
-   "listed_count": 51,
-   "tweet_count": 2728
+   "followers_count": 2752,
+   "following_count": 880,
+   "listed_count": 50,
+   "tweet_count": 2729
   },
   "username": "flprovendier"
  },

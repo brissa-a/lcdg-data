@@ -73,130 +73,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.69.24"
-   },
-   {
-    "adresse": "13 Avenue Burdeau 69250 Neuville-Sur-Saône Téléphone : 04.28.29.73.84 Téléphone : 04.37.40.47.80"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Saint-Germain-au-Mont-d'Or / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Olivier Perrot"
-   },
-   {
-    "collaborateur": "M. Eric Vincent"
-   },
-   {
-    "collaborateur": "Mme Kenza Itji"
-   },
-   {
-    "collaborateur": "Mme Béatrice Moderne"
-   }
-  ],
-  "date_naissance": "1981-11-03",
-  "emails": [
-   {
-    "email": "blandine.brocard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 196,
-  "id_an": "721336",
-  "lieu_naissance": "Strasbourg (Bas-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Blandine Brocard",
-  "nom_circo": "Rhône",
-  "nom_de_famille": "Brocard",
-  "num_circo": 5,
-  "num_deptmt": "69",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "176",
-  "prenom": "Blandine",
-  "profession": "Employée (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/BBrocard",
-   "http://www.blandinebrocard.com"
-  ],
-  "slug": "blandine-brocard",
   "twitter": "BBrocard",
-  "twitter_created_at": "2010-06-15T21:04:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jun 15 21:04:51 +0000 2010",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée 🇫🇷 - 5e circonscription du Rhône #Circo6905 Val-de-Saône Caluire Monts-d’Or Azergues",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 7783,
-   "follow_request_sent": false,
-   "followers_count": 4136,
-   "following": false,
-   "friends_count": 2136,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 156032740,
-   "id_str": "156032740",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 116,
-   "location": "",
-   "name": "Blandine Brocard",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/156032740/1612541865",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1350565402414362626/gLHvdm-p_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350565402414362626/gLHvdm-p_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BBrocard",
-   "statuses_count": 1447,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée 🇫🇷 - 5e circonscription du Rhône #Circo6905 Val-de-Saône Caluire Monts-d’Or Azergues",
-  "twitter_favourites": 7783,
-  "twitter_followers": 4136,
-  "twitter_following": 2136,
-  "twitter_id": 156032740,
-  "twitter_listed": 116,
-  "twitter_name": "Blandine Brocard",
-  "twitter_protected": false,
-  "twitter_tweets": 1447,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721336",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721336",
-  "url_nosdeputes": "https://www.nosdeputes.fr/blandine-brocard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/blandine-brocard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721336"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Blandine-Brocard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721336",
@@ -1001,10 +879,10 @@
   "id": "156032740",
   "name": "Blandine Brocard",
   "public_metrics": {
-   "followers_count": 4136,
-   "following_count": 2144,
-   "listed_count": 117,
-   "tweet_count": 1451
+   "followers_count": 4143,
+   "following_count": 2166,
+   "listed_count": 116,
+   "tweet_count": 1453
   },
   "username": "BBrocard"
  },

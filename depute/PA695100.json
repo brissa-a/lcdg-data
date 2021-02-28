@@ -55,139 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "10/06/2013 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Myriam Lagarde"
-   },
-   {
-    "collaborateur": "Mme Dina Cohen"
-   },
-   {
-    "collaborateur": "M. Stéphane de Miroschedji"
-   },
-   {
-    "collaborateur": "Mme Sarah Aswad"
-   }
-  ],
-  "date_naissance": "1961-04-28",
-  "emails": [
-   {
-    "email": "meyer.habib@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 46,
-  "id_an": "695100",
-  "lieu_naissance": "Paris 12 (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Meyer Habib",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "Habib",
-  "num_circo": 8,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "103",
-  "prenom": "Meyer",
-  "profession": "Ingénieur",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.meyerhabib.com",
-   "https://twitter.com/Meyer_Habib"
-  ],
-  "slug": "meyer-habib",
   "twitter": "Meyer_Habib",
-  "twitter_created_at": "2013-09-10T14:57:29",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Sep 10 14:57:29 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 8ème circonscription des Français établis hors de France \nVice-Président de la commission des Affaires étrangères",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "meyerhabib.com",
-       "expanded_url": "http://www.meyerhabib.com/",
-       "indices": [
-        0,
-        22
-       ],
-       "url": "http://t.co/tmdI0JbBop"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3097,
-   "follow_request_sent": false,
-   "followers_count": 16299,
-   "following": false,
-   "friends_count": 381,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 1851724262,
-   "id_str": "1851724262",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 204,
-   "location": "",
-   "name": "Meyer Habib",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851724262/1498728035",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/860100412816461824/z9YBG_rC_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/860100412816461824/z9YBG_rC_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Meyer_Habib",
-   "statuses_count": 1241,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "http://t.co/tmdI0JbBop",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 8ème circonscription des Français établis hors de France Vice-Président de la commission des Affaires étrangères",
-  "twitter_favourites": 3097,
-  "twitter_followers": 16299,
-  "twitter_following": 381,
-  "twitter_id": 1851724262,
-  "twitter_listed": 204,
-  "twitter_name": "Meyer Habib",
-  "twitter_protected": false,
-  "twitter_tweets": 1241,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA695100",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA695100",
-  "url_nosdeputes": "https://www.nosdeputes.fr/meyer-habib",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/meyer-habib/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA695100"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Meyer-Habib",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA695100",
@@ -442,10 +311,10 @@
   "id": "1851724262",
   "name": "Meyer Habib",
   "public_metrics": {
-   "followers_count": 16303,
+   "followers_count": 16313,
    "following_count": 381,
-   "listed_count": 204,
-   "tweet_count": 1241
+   "listed_count": 203,
+   "tweet_count": 1243
   },
   "username": "Meyer_Habib"
  },

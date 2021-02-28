@@ -76,137 +76,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Clémence Aubry"
-   },
-   {
-    "collaborateur": "Mme Natacha Poncy"
-   },
-   {
-    "collaborateur": "M. Bérenger Ambroise"
-   }
-  ],
-  "date_naissance": "1983-05-18",
-  "emails": [
-   {
-    "email": "carole.grandjean@assemblee-nationale.fr"
-   },
-   {
-    "email": "carole.grandjean@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 75,
-  "id_an": "720170",
-  "lieu_naissance": "Suresnes (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Carole Grandjean",
-  "nom_circo": "Meurthe-et-Moselle",
-  "nom_de_famille": "Grandjean",
-  "num_circo": 1,
-  "num_deptmt": "54",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "378",
-  "prenom": "Carole",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.carolegrandjean.fr",
-   "https://twitter.com/CGrandjean54",
-   "https://fr-fr.facebook.com/GrandjeanCarole"
-  ],
-  "slug": "carole-grandjean",
   "twitter": "CGrandjean54",
-  "twitter_created_at": "2017-03-23T21:31:56",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Mar 23 21:31:56 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de Meurthe et Moselle (1ère circonscription) #DirectAN #ComissionAffairesSociales #CommissionAffairesEuropeennes #EtudesInclusion",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "carolegrandjean.fr",
-       "expanded_url": "http://www.carolegrandjean.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/yDqfQq4ir3"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1113,
-   "follow_request_sent": false,
-   "followers_count": 5183,
-   "following": false,
-   "friends_count": 911,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 845025344600113200,
-   "id_str": "845025344600113152",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 115,
-   "location": "Nancy, France",
-   "name": "Carole Grandjean",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/845025344600113152/1578991204",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1346474551018811395/kIul7cKh_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346474551018811395/kIul7cKh_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "CGrandjean54",
-   "statuses_count": 1732,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/yDqfQq4ir3",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée de Meurthe et Moselle (1ère circonscription) #DirectAN #ComissionAffairesSociales #CommissionAffairesEuropeennes #EtudesInclusion",
-  "twitter_favourites": 1113,
-  "twitter_followers": 5183,
-  "twitter_following": 911,
-  "twitter_id": 845025344600113200,
-  "twitter_listed": 115,
-  "twitter_name": "Carole Grandjean",
-  "twitter_protected": false,
-  "twitter_tweets": 1732,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720170",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720170",
-  "url_nosdeputes": "https://www.nosdeputes.fr/carole-grandjean",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/carole-grandjean/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720170"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Carole-Grandjean",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720170",
@@ -961,9 +832,9 @@
   "id": "845025344600113152",
   "name": "Carole Grandjean",
   "public_metrics": {
-   "followers_count": 5183,
+   "followers_count": 5184,
    "following_count": 911,
-   "listed_count": 116,
+   "listed_count": 115,
    "tweet_count": 1733
   },
   "username": "CGrandjean54"

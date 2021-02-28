@@ -240,140 +240,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Accueil parlementaire 8 Rue Jean Jaurès 09300 Lavelanet"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Tarik Belkadi"
-   },
-   {
-    "collaborateur": "M. Simon Mauger"
-   },
-   {
-    "collaborateur": "Mme Aurélie Lecointre"
-   },
-   {
-    "collaborateur": "M. Thomas Bost"
-   }
-  ],
-  "date_naissance": "1976-06-18",
-  "emails": [
-   {
-    "email": "benedicte.taurine@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 503,
-  "id_an": "718860",
-  "lieu_naissance": "Lavelanet (Ariège)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bénédicte Taurine",
-  "nom_circo": "Ariège",
-  "nom_de_famille": "Taurine",
-  "num_circo": 1,
-  "num_deptmt": "09",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "609",
-  "prenom": "Bénédicte",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "F",
-  "sites_web": [
-   "http://benedictetaurine.fr",
-   "https://lafranceinsoumise.fr",
-   "https://twitter.com/BenedictTaurine"
-  ],
-  "slug": "benedicte-taurine",
   "twitter": "BenedictTaurine",
-  "twitter_created_at": "2017-06-01T14:19:32",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jun 01 14:19:32 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de l'Ariège au groupe @FranceInsoumise.\nCommission des affaires économiques / co-présidente du groupe pastoralisme / délégation aux droits des femmes.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "lafranceinsoumise.fr",
-       "expanded_url": "https://lafranceinsoumise.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Ys3rvu0J1p"
-      }
-     ]
-    }
-   },
-   "favourites_count": 300,
-   "follow_request_sent": false,
-   "followers_count": 8686,
-   "following": false,
-   "friends_count": 495,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 870283676898271200,
-   "id_str": "870283676898271232",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 126,
-   "location": "Ariège, Midi-Pyrénées",
-   "name": "Bénédicte Taurine",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/870283676898271232/1562677146",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/888055206344364033/GzlHNJNW_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/888055206344364033/GzlHNJNW_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BenedictTaurine",
-   "statuses_count": 952,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Ys3rvu0J1p",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée de l'Ariège au groupe @FranceInsoumise. Commission des affaires économiques / co-présidente du groupe pastoralisme / délégation aux droits des femmes.",
-  "twitter_favourites": 300,
-  "twitter_followers": 8686,
-  "twitter_following": 495,
-  "twitter_id": 870283676898271200,
-  "twitter_listed": 126,
-  "twitter_name": "Bénédicte Taurine",
-  "twitter_protected": false,
-  "twitter_tweets": 952,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718860",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718860",
-  "url_nosdeputes": "https://www.nosdeputes.fr/benedicte-taurine",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/benedicte-taurine/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718860"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bénédicte-Taurine",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718860",
@@ -989,10 +857,10 @@
   "id": "870283676898271232",
   "name": "Bénédicte Taurine",
   "public_metrics": {
-   "followers_count": 8694,
+   "followers_count": 8715,
    "following_count": 495,
-   "listed_count": 126,
-   "tweet_count": 952
+   "listed_count": 125,
+   "tweet_count": 955
   },
   "username": "BenedictTaurine"
  },

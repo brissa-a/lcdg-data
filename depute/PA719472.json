@@ -315,150 +315,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 7 Rue d'Etigny 32000 Auch"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Grand Auch Coeur de Gascogne / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Auch / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Maëva Bourcier"
-   },
-   {
-    "collaborateur": "Mme Célia Gomel"
-   },
-   {
-    "collaborateur": "Mme Agathe Bonnin"
-   },
-   {
-    "collaborateur": "M. Rémi Dera"
-   },
-   {
-    "collaborateur": "Mme Justine Waignier"
-   }
-  ],
-  "date_naissance": "1958-06-09",
-  "emails": [
-   {
-    "email": "jean-rene.cazeneuve@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 147,
-  "id_an": "719472",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-René Cazeneuve",
-  "nom_circo": "Gers",
-  "nom_de_famille": "Cazeneuve",
-  "num_circo": 1,
-  "num_deptmt": "32",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "274",
-  "prenom": "Jean-René",
-  "profession": "Ingénieur",
-  "sexe": "H",
-  "sites_web": [
-   "http://jrcazeneuve.fr",
-   "https://twitter.com/jrcazeneuve",
-   "https://fr-fr.facebook.com/jrcazeneuve"
-  ],
-  "slug": "jean-rene-cazeneuve",
   "twitter": "jrcazeneuve",
-  "twitter_created_at": "2012-03-30T16:13:40",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Mar 30 16:13:40 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député #LaREM 1ère Circo du #Gers 🦆\n🔴 Président Délégation @AN_CollTerr et commissaire @AN_Finances \n💰Membre du Comité des Finances Locales",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jrcazeneuve.fr",
-       "expanded_url": "http://jrcazeneuve.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/IiqL9FiNFa"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1536,
-   "follow_request_sent": false,
-   "followers_count": 5584,
-   "following": false,
-   "friends_count": 396,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 541023150,
-   "id_str": "541023150",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 164,
-   "location": "Auch, France",
-   "name": "Jean-René Cazeneuve",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/541023150/1589187959",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1130810194496237568/iQ8xO72z_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130810194496237568/iQ8xO72z_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "jrcazeneuve",
-   "statuses_count": 5305,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/IiqL9FiNFa",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM 1ère Circo du #Gers 🦆 🔴 Président Délégation @AN_CollTerr et commissaire @AN_Finances 💰Membre du Comité des Finances Locales",
-  "twitter_favourites": 1536,
-  "twitter_followers": 5584,
-  "twitter_following": 396,
-  "twitter_id": 541023150,
-  "twitter_listed": 164,
-  "twitter_name": "Jean-René Cazeneuve",
-  "twitter_protected": false,
-  "twitter_tweets": 5305,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719472",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719472",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-rene-cazeneuve",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-rene-cazeneuve/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719472"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-René-Cazeneuve",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719472",
@@ -1639,10 +1497,10 @@
   "id": "541023150",
   "name": "Jean-René Cazeneuve",
   "public_metrics": {
-   "followers_count": 5588,
-   "following_count": 396,
+   "followers_count": 5596,
+   "following_count": 397,
    "listed_count": 164,
-   "tweet_count": 5307
+   "tweet_count": 5312
   },
   "username": "jrcazeneuve"
  },

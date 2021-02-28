@@ -50,137 +50,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Paris 13ème Arrondissement / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Paris (Paris) / Conseil municipal / conseiller"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. François Bussery"
-   },
-   {
-    "collaborateur": "Mme Olivia Lemoine"
-   }
-  ],
-  "date_naissance": "1967-03-10",
-  "emails": [
-   {
-    "email": "buon.tan@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 248,
-  "id_an": "721690",
-  "lieu_naissance": "Phnom Penh (Cambodge)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Buon Tan",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Tan",
-  "num_circo": 9,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "465",
-  "prenom": "Buon",
-  "profession": "Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.buontan.fr",
-   "https://twitter.com/BuonTAN"
-  ],
-  "slug": "buon-tan",
   "twitter": "BuonTAN",
-  "twitter_created_at": "2014-05-15T07:50:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 15 07:50:09 +0000 2014",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du 13e ardt de Paris #circo7509 • Commission des Affaires étrangères • Psdt du groupe d'amitié France - Chine • Entrepreneur #LREM",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "buontan.fr",
-       "expanded_url": "http://www.buontan.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Bf48sQoIDu"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1147,
-   "follow_request_sent": false,
-   "followers_count": 2678,
-   "following": false,
-   "friends_count": 960,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 2495899075,
-   "id_str": "2495899075",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 106,
-   "location": "Paris (France)",
-   "name": "Buon TAN",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2495899075/1542377014",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1275430054852472838/KzK8O3Zk_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275430054852472838/KzK8O3Zk_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BuonTAN",
-   "statuses_count": 1314,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Bf48sQoIDu",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du 13e ardt de Paris #circo7509 • Commission des Affaires étrangères • Psdt du groupe d'amitié France - Chine • Entrepreneur #LREM",
-  "twitter_favourites": 1147,
-  "twitter_followers": 2678,
-  "twitter_following": 960,
-  "twitter_id": 2495899075,
-  "twitter_listed": 106,
-  "twitter_name": "Buon TAN",
-  "twitter_protected": false,
-  "twitter_tweets": 1314,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721690",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721690",
-  "url_nosdeputes": "https://www.nosdeputes.fr/buon-tan",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/buon-tan/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721690"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Buon-Tan",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721690",
@@ -550,7 +421,7 @@
    "followers_count": 2681,
    "following_count": 961,
    "listed_count": 106,
-   "tweet_count": 1316
+   "tweet_count": 1319
   },
   "username": "BuonTAN"
  },

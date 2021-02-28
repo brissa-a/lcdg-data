@@ -98,143 +98,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 75 04 Téléphone : 01 40 63 75 03"
-   },
-   {
-    "adresse": "Permanence parlementaire 4 Rue Bobby Sands 18100 Vierzon Téléphone : 02 48 53 80 88"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Gabriel Behaghel"
-   },
-   {
-    "collaborateur": "Mme Françoise Prévost"
-   },
-   {
-    "collaborateur": "Mme Marlyne Catoire"
-   },
-   {
-    "collaborateur": "M. Florent Bouchez"
-   }
-  ],
-  "date_naissance": "1957-06-06",
-  "emails": [
-   {
-    "email": "nadiaessayan.circo1802@gmail.com"
-   },
-   {
-    "email": "nadia.essayan@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 427,
-  "id_an": "719044",
-  "lieu_naissance": "Dimbokro (Côte d'Ivoire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Nadia Essayan",
-  "nom_circo": "Cher",
-  "nom_de_famille": "Essayan",
-  "num_circo": 2,
-  "num_deptmt": "18",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "174",
-  "prenom": "Nadia",
-  "profession": "Cadre associatif",
-  "sexe": "F",
-  "sites_web": [
-   "http://nadiaessayan.fr",
-   "https://twitter.com/nadiaessayan",
-   "https://fr-fr.facebook.com/nadia.essayan"
-  ],
-  "slug": "nadia-essayan",
   "twitter": "nadiaessayan",
-  "twitter_created_at": "2012-03-20T18:44:25",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Mar 20 18:44:25 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée du #Cher #Circo1802 • @GroupeModem • Commission du développement durable et de l'aménagement du territoire @AN_DevDur 🌍 • #DirectAN",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "nadiaessayan.fr",
-       "expanded_url": "http://nadiaessayan.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UAOCJ0dcz6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1711,
-   "follow_request_sent": false,
-   "followers_count": 2492,
-   "following": false,
-   "friends_count": 620,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 531618516,
-   "id_str": "531618516",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 99,
-   "location": "Vierzon, France",
-   "name": "Nadia Essayan",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/531618516/1605309307",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1327390850083647488/Lueitbn2_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327390850083647488/Lueitbn2_normal.jpg",
-   "profile_link_color": "FF691F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "NadiaEssayan",
-   "statuses_count": 2343,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UAOCJ0dcz6",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du #Cher #Circo1802 • @GroupeModem • Commission du développement durable et de l'aménagement du territoire @AN_DevDur 🌍 • #DirectAN",
-  "twitter_favourites": 1711,
-  "twitter_followers": 2492,
-  "twitter_following": 620,
-  "twitter_id": 531618516,
-  "twitter_listed": 99,
-  "twitter_name": "Nadia Essayan",
-  "twitter_protected": false,
-  "twitter_tweets": 2343,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719044",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719044",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nadia-essayan",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nadia-essayan/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719044"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nadia-Essayan",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719044",
@@ -877,10 +742,10 @@
   "id": "531618516",
   "name": "Nadia Essayan",
   "public_metrics": {
-   "followers_count": 2491,
-   "following_count": 620,
-   "listed_count": 99,
-   "tweet_count": 2346
+   "followers_count": 2498,
+   "following_count": 621,
+   "listed_count": 98,
+   "tweet_count": 2358
   },
   "username": "NadiaEssayan"
  },

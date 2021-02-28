@@ -63,150 +63,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 8 Rue Picot 83000 Toulon"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Garde / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Raphael Gomez"
-   },
-   {
-    "collaborateur": "Mme Karima Kandi"
-   },
-   {
-    "collaborateur": "M. Abel Hermel"
-   },
-   {
-    "collaborateur": "Mme Audrey Arnaudo"
-   },
-   {
-    "collaborateur": "Mme Marie Lefeuvre"
-   }
-  ],
-  "date_naissance": "1987-10-30",
-  "emails": [
-   {
-    "email": "cecile.muschotti@assemblee-nationale.fr"
-   },
-   {
-    "email": "collaborateurs@muschotti.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 392,
-  "id_an": "721656",
-  "lieu_naissance": "Toulon (Var)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Cécile Muschotti",
-  "nom_circo": "Var",
-  "nom_de_famille": "Muschotti",
-  "num_circo": 2,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "294",
-  "prenom": "Cécile",
-  "profession": "Directrice d’un centre de formation des apprentis",
-  "sexe": "F",
-  "sites_web": [
-   "http://muschotti.fr",
-   "https://twitter.com/CMUSCHOTTI",
-   "https://fr-fr.facebook.com/cmuschotti"
-  ],
-  "slug": "cecile-muschotti",
   "twitter": "CMUSCHOTTI",
-  "twitter_created_at": "2012-06-13T18:35:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jun 13 18:35:09 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #Var #LREM délégation à l'égalité homme-femme @AN_DroitsFemmes Commissaire affaires culturelles & éducation @AN_AfCult",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "muschotti.fr",
-       "expanded_url": "http://www.muschotti.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3a88knY0Ec"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2620,
-   "follow_request_sent": false,
-   "followers_count": 5626,
-   "following": false,
-   "friends_count": 3108,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 607447732,
-   "id_str": "607447732",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 117,
-   "location": "Toulon, Provence-Alpes-Côte d'",
-   "name": "Cécile MUSCHOTTI",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/607447732/1602599465",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1351616740141228032/6eOZRh7n_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351616740141228032/6eOZRh7n_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "CMUSCHOTTI",
-   "statuses_count": 1740,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/3a88knY0Ec",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #Var #LREM délégation à l'égalité homme-femme @AN_DroitsFemmes Commissaire affaires culturelles & éducation @AN_AfCult",
-  "twitter_favourites": 2620,
-  "twitter_followers": 5626,
-  "twitter_following": 3108,
-  "twitter_id": 607447732,
-  "twitter_listed": 117,
-  "twitter_name": "Cécile MUSCHOTTI",
-  "twitter_protected": false,
-  "twitter_tweets": 1740,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721656",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721656",
-  "url_nosdeputes": "https://www.nosdeputes.fr/cecile-muschotti",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/cecile-muschotti/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721656"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Cécile-Muschotti",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721656",
@@ -683,10 +541,10 @@
   "id": "607447732",
   "name": "Cécile MUSCHOTTI",
   "public_metrics": {
-   "followers_count": 5636,
-   "following_count": 3108,
-   "listed_count": 118,
-   "tweet_count": 1742
+   "followers_count": 5647,
+   "following_count": 3111,
+   "listed_count": 117,
+   "tweet_count": 1747
   },
   "username": "CMUSCHOTTI"
  },

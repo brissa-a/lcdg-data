@@ -217,123 +217,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.76.62"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Safia Alaké"
-   },
-   {
-    "collaborateur": "Mme Aurélie Loeillet"
-   },
-   {
-    "collaborateur": "Mme Jeanne Romero"
-   },
-   {
-    "collaborateur": "M. Ludwig Speter-Lejeune"
-   }
-  ],
-  "date_naissance": "1984-02-11",
-  "emails": [
-   {
-    "email": "loic.kervran@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 37,
-  "id_an": "719052",
-  "lieu_naissance": "Moulins (Allier)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Loïc Kervran",
-  "nom_circo": "Cher",
-  "nom_de_famille": "Kervran",
-  "num_circo": 3,
-  "num_deptmt": "18",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "228",
-  "prenom": "Loïc",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://loic-kervran.fr",
-   "https://twitter.com/LoicKervran18",
-   "https://fr-fr.facebook.com/facebook.com/LoicKervran18"
-  ],
-  "slug": "loic-kervran",
   "twitter": "LoicKervran18",
-  "twitter_created_at": "2016-11-27T22:09:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Nov 27 22:09:30 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Cher / French MP #CommissionDefense, Délégation Renseignement. Fonds Spéciaux. Pdt amitié France-Liban IHEDN 71e #AgirEnsemble Ancien @sciencespo #LSE",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 4299,
-   "follow_request_sent": false,
-   "followers_count": 3704,
-   "following": false,
-   "friends_count": 1175,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 802997806252388400,
-   "id_str": "802997806252388352",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 97,
-   "location": "Orcenais, France",
-   "name": "Loic Kervran",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1334998530977640449/0INqBRTk_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334998530977640449/0INqBRTk_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "LoicKervran18",
-   "statuses_count": 3798,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député du Cher / French MP #CommissionDefense, Délégation Renseignement. Fonds Spéciaux. Pdt amitié France-Liban IHEDN 71e #AgirEnsemble Ancien @sciencespo #LSE",
-  "twitter_favourites": 4299,
-  "twitter_followers": 3704,
-  "twitter_following": 1175,
-  "twitter_id": 802997806252388400,
-  "twitter_listed": 97,
-  "twitter_name": "Loic Kervran",
-  "twitter_protected": false,
-  "twitter_tweets": 3798,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719052",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719052",
-  "url_nosdeputes": "https://www.nosdeputes.fr/loic-kervran",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/loic-kervran/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719052"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Loïc-Kervran",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719052",
@@ -654,9 +539,9 @@
   "name": "Loic Kervran",
   "public_metrics": {
    "followers_count": 3703,
-   "following_count": 1175,
+   "following_count": 1176,
    "listed_count": 97,
-   "tweet_count": 3801
+   "tweet_count": 3802
   },
   "username": "LoicKervran18"
  },

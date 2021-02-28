@@ -53,134 +53,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sarah Adel"
-   },
-   {
-    "collaborateur": "M. Damien Horn"
-   },
-   {
-    "collaborateur": "Mme Karine Rivière"
-   }
-  ],
-  "date_naissance": "1985-09-19",
-  "emails": [
-   {
-    "email": "fiona.lazaar@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 176,
-  "id_an": "720916",
-  "lieu_naissance": "(Val-d'Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Fiona Lazaar",
-  "nom_circo": "Val-d'Oise",
-  "nom_de_famille": "Lazaar",
-  "num_circo": 5,
-  "num_deptmt": "95",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "243",
-  "prenom": "Fiona",
-  "profession": "Cadre d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://fionalazaar.fr",
-   "https://twitter.com/fionalazaar",
-   "https://fr-fr.facebook.com/fionalazaar"
-  ],
-  "slug": "fiona-lazaar",
   "twitter": "fionalazaar",
-  "twitter_created_at": "2017-04-23T22:14:57",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 23 22:14:57 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée du Val d'Oise. Présidente du Conseil National des politiques de lutte contre la pauvreté et l’exclusion sociale. VP Délégation Droit des Femmes AN.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fionalazaar.fr",
-       "expanded_url": "http://www.fionalazaar.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/R9U0LUUVhj"
-      }
-     ]
-    }
-   },
-   "favourites_count": 15207,
-   "follow_request_sent": false,
-   "followers_count": 14402,
-   "following": false,
-   "friends_count": 2694,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 856270190736277500,
-   "id_str": "856270190736277506",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 147,
-   "location": "Argenteuil, France",
-   "name": "Fiona Lazaar",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/856270190736277506/1609449149",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1323035570189307904/0O6YaVTu_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323035570189307904/0O6YaVTu_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "FionaLazaar",
-   "statuses_count": 5676,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/R9U0LUUVhj",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du Val d'Oise. Présidente du Conseil National des politiques de lutte contre la pauvreté et l’exclusion sociale. VP Délégation Droit des Femmes AN.",
-  "twitter_favourites": 15207,
-  "twitter_followers": 14402,
-  "twitter_following": 2694,
-  "twitter_id": 856270190736277500,
-  "twitter_listed": 147,
-  "twitter_name": "Fiona Lazaar",
-  "twitter_protected": false,
-  "twitter_tweets": 5676,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720916",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720916",
-  "url_nosdeputes": "https://www.nosdeputes.fr/fiona-lazaar",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/fiona-lazaar/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720916"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fiona-Lazaar",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720916",
@@ -944,10 +818,10 @@
   "id": "856270190736277506",
   "name": "Fiona Lazaar",
   "public_metrics": {
-   "followers_count": 14402,
-   "following_count": 2694,
-   "listed_count": 148,
-   "tweet_count": 5679
+   "followers_count": 14412,
+   "following_count": 2695,
+   "listed_count": 147,
+   "tweet_count": 5687
   },
   "username": "FionaLazaar"
  },

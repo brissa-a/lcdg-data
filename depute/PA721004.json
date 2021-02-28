@@ -99,140 +99,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Joseph Mecarsel"
-   },
-   {
-    "collaborateur": "M. Christophe Calmann-Lévy"
-   },
-   {
-    "collaborateur": "Mme Sylvie Autissier"
-   },
-   {
-    "collaborateur": "M. Roman Kwiatkowski"
-   }
-  ],
-  "date_naissance": "1978-03-20",
-  "emails": [
-   {
-    "email": "amelia.lakrafi@assemblee-nationale.fr"
-   },
-   {
-    "email": "amal-amelia.lakrafi@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 111,
-  "id_an": "721004",
-  "lieu_naissance": "Casablanca (Maroc)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Amélia Lakrafi",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "Lakrafi",
-  "num_circo": 10,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "555",
-  "prenom": "Amélia",
-  "profession": "Chef d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://amelialakrafi.fr",
-   "https://twitter.com/amelia_lkf",
-   "https://fr-fr.facebook.com/FDEcirco10"
-  ],
-  "slug": "amelia-lakrafi",
   "twitter": "amelia_lkf",
-  "twitter_created_at": "2016-12-08T14:16:58",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Dec 08 14:16:58 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #FdE #Afrique #MoyenOrient #Santé #startups #PhD #Entreprenariat #Sécurité #CyberSécurité #DiplomatieEconomique #Francophonie #APD #Éducation #Diaspora",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "amelialakrafi.fr",
-       "expanded_url": "http://www.amelialakrafi.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hFrf85Xkpf"
-      }
-     ]
-    }
-   },
-   "favourites_count": 18905,
-   "follow_request_sent": false,
-   "followers_count": 6414,
-   "following": false,
-   "friends_count": 1766,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 806865153472004100,
-   "id_str": "806865153472004097",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 127,
-   "location": "Paris",
-   "name": "Amelia Lakrafi",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/806865153472004097/1598694415",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1291088370509262853/BaxjWs72_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291088370509262853/BaxjWs72_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Amelia_LKF",
-   "statuses_count": 3892,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hFrf85Xkpf",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #FdE #Afrique #MoyenOrient #Santé #startups #PhD #Entreprenariat #Sécurité #CyberSécurité #DiplomatieEconomique #Francophonie #APD #Éducation #Diaspora",
-  "twitter_favourites": 18905,
-  "twitter_followers": 6414,
-  "twitter_following": 1766,
-  "twitter_id": 806865153472004100,
-  "twitter_listed": 127,
-  "twitter_name": "Amelia Lakrafi",
-  "twitter_protected": false,
-  "twitter_tweets": 3892,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721004",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721004",
-  "url_nosdeputes": "https://www.nosdeputes.fr/amelia-lakrafi",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/amelia-lakrafi/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721004"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Amélia-Lakrafi",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721004",
@@ -595,10 +463,10 @@
   "id": "806865153472004097",
   "name": "Amelia Lakrafi",
   "public_metrics": {
-   "followers_count": 6420,
-   "following_count": 1767,
-   "listed_count": 128,
-   "tweet_count": 3902
+   "followers_count": 6425,
+   "following_count": 1770,
+   "listed_count": 127,
+   "tweet_count": 3914
   },
   "username": "Amelia_LKF"
  },

@@ -57,144 +57,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Antoine Salles-Papou"
-   },
-   {
-    "collaborateur": "Mme Manon Dervin"
-   },
-   {
-    "collaborateur": "M. Paul Vannier"
-   }
-  ],
-  "date_naissance": "1951-08-19",
-  "emails": [
-   {
-    "email": "jean-luc.melenchon@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 62,
-  "id_an": "2150",
-  "lieu_naissance": "Tanger (Maroc)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Luc Mélenchon",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Mélenchon",
-  "num_circo": 4,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "601",
-  "prenom": "Jean-Luc",
-  "profession": "Professeur",
-  "sexe": "H",
-  "sites_web": [
-   "http://melenchon.fr",
-   "https://twitter.com/jlmelenchon",
-   "https://fr-fr.facebook.com/jlmelenchon"
-  ],
-  "slug": "jean-luc-melenchon",
   "twitter": "jlmelenchon",
-  "twitter_created_at": "2009-10-08T10:50:24",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 08 10:50:24 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 4e circo des Bouches-du-Rhône, pdt du grpe @FranceInsoumise. JLM ne tweete pas en personne. Instagram : @jlmelenchon. YT: https://t.co/UZJeDOk6az",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "youtube.com/jlmelenchon",
-       "expanded_url": "http://youtube.com/jlmelenchon",
-       "indices": [
-        135,
-        158
-       ],
-       "url": "https://t.co/UZJeDOk6az"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "melenchon.fr",
-       "expanded_url": "http://melenchon.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/uxVMGt3tCL"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2539,
-   "follow_request_sent": false,
-   "followers_count": 2249410,
-   "following": false,
-   "friends_count": 4837,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 80820758,
-   "id_str": "80820758",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 4643,
-   "location": "France",
-   "name": "Jean-Luc Mélenchon",
-   "notifications": false,
-   "profile_background_color": "EBEBEB",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/80820758/1604864180",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1325498865718603780/KNjT2X4U_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1325498865718603780/KNjT2X4U_normal.jpg",
-   "profile_link_color": "C9462C",
-   "profile_sidebar_border_color": "DFDFDF",
-   "profile_sidebar_fill_color": "F3F3F3",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JLMelenchon",
-   "statuses_count": 36171,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/uxVMGt3tCL",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 4e circo des Bouches-du-Rhône, pdt du grpe @FranceInsoumise. JLM ne tweete pas en personne. Instagram : @jlmelenchon. YT: https://t.co/UZJeDOk6az",
-  "twitter_favourites": 2539,
-  "twitter_followers": 2249410,
-  "twitter_following": 4837,
-  "twitter_id": 80820758,
-  "twitter_listed": 4643,
-  "twitter_name": "Jean-Luc Mélenchon",
-  "twitter_protected": false,
-  "twitter_tweets": 36171,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2150",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2150",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-luc-melenchon",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-luc-melenchon/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2150"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Luc-Mélenchon",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2150",
@@ -888,10 +752,10 @@
   "id": "80820758",
   "name": "Jean-Luc Mélenchon",
   "public_metrics": {
-   "followers_count": 2249852,
-   "following_count": 4837,
-   "listed_count": 4646,
-   "tweet_count": 36172
+   "followers_count": 2250968,
+   "following_count": 4836,
+   "listed_count": 4643,
+   "tweet_count": 36176
   },
   "username": "JLMelenchon"
  },

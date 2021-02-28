@@ -60,134 +60,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Bernard Fiocchi"
-   },
-   {
-    "collaborateur": "Mme Elodie Varrucciu"
-   },
-   {
-    "collaborateur": "M. Anice Mouaddel"
-   }
-  ],
-  "date_naissance": "1959-08-03",
-  "emails": [
-   {
-    "email": "mohamed.laqhila@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 36,
-  "id_an": "718978",
-  "lieu_naissance": "Oulmès (Maroc)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Mohamed Laqhila",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Laqhila",
-  "num_circo": 11,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "172",
-  "prenom": "Mohamed",
-  "profession": "Expert-Comptable-Commissaire aux Comptes",
-  "sexe": "H",
-  "sites_web": [
-   "http://laqhila11.com",
-   "https://twitter.com/laqhila",
-   "https://fr-fr.facebook.com/laqhila11"
-  ],
-  "slug": "mohamed-laqhila",
   "twitter": "laqhila",
-  "twitter_created_at": "2011-10-31T18:35:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Oct 31 18:35:11 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LaRépubliqueEnMarche #modem 11e circonscription des Bouches-du-Rhône #Circo11 #commissiondesfinances #rapporteur spécial cohésion des territoires",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "laqhila11.com",
-       "expanded_url": "http://laqhila11.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hHrg8fz13B"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4078,
-   "follow_request_sent": false,
-   "followers_count": 2996,
-   "following": false,
-   "friends_count": 2620,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 402214102,
-   "id_str": "402214102",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 0,
-   "location": "Aix-en-Provence, France",
-   "name": "Mohamed Laqhila - Député des Bouches-du-Rhône",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/402214102/1612283473",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1058411843197325313/AINc3HdM_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058411843197325313/AINc3HdM_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "laqhila",
-   "statuses_count": 4666,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hHrg8fz13B",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaRépubliqueEnMarche #modem 11e circonscription des Bouches-du-Rhône #Circo11 #commissiondesfinances #rapporteur spécial cohésion des territoires",
-  "twitter_favourites": 4078,
-  "twitter_followers": 2996,
-  "twitter_following": 2620,
-  "twitter_id": 402214102,
-  "twitter_listed": 0,
-  "twitter_name": "Mohamed Laqhila - Député des Bouches-du-Rhône",
-  "twitter_protected": false,
-  "twitter_tweets": 4666,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718978",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718978",
-  "url_nosdeputes": "https://www.nosdeputes.fr/mohamed-laqhila",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/mohamed-laqhila/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718978"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Mohamed-Laqhila",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718978",
@@ -858,10 +732,10 @@
   "id": "402214102",
   "name": "Mohamed Laqhila - Député des Bouches-du-Rhône",
   "public_metrics": {
-   "followers_count": 2996,
-   "following_count": 2621,
+   "followers_count": 3008,
+   "following_count": 2625,
    "listed_count": 116,
-   "tweet_count": 4671
+   "tweet_count": 4683
   },
   "username": "laqhila"
  },

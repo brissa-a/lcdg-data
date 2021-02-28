@@ -109,149 +109,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 4 Rue du Docteur Mehier BP 49 01152 Lagnieu Cedex Téléphone : 04 74 35 13 58"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Ain / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Edwige Lafayolle de la Bruyère"
-   },
-   {
-    "collaborateur": "Mme Sabine Vasquez"
-   },
-   {
-    "collaborateur": "Mme Aurélie Richard"
-   }
-  ],
-  "date_naissance": "1954-05-31",
-  "emails": [
-   {
-    "email": "charles.delaverpilliere@assemblee-nationale.fr"
-   },
-   {
-    "email": "charlesdelaverpilliere@orange.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 486,
-  "id_an": "1012",
-  "lieu_naissance": "Bourg-en-Bresse (Ain)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Charles de la Verpillière",
-  "nom_circo": "Ain",
-  "nom_de_famille": "la Verpillière (de)",
-  "num_circo": 2,
-  "num_deptmt": "01",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "26",
-  "prenom": "Charles",
-  "profession": "Conseiller d'État",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/delaverpilliere",
-   "http://www.charlesdelaverpilliere.com",
-   "https://fr-fr.facebook.com/charlesdelaverpilliere"
-  ],
-  "slug": "charles-de-la-verpilliere",
   "twitter": "delaverpilliere",
-  "twitter_created_at": "2010-02-17T08:49:14",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Feb 17 08:49:14 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l'Ain",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "charlesdelaverpilliere.com",
-       "expanded_url": "http://www.charlesdelaverpilliere.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sjvuJkevvR"
-      }
-     ]
-    }
-   },
-   "favourites_count": 149,
-   "follow_request_sent": false,
-   "followers_count": 4667,
-   "following": false,
-   "friends_count": 436,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 115003417,
-   "id_str": "115003417",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 154,
-   "location": "Lagnieu (Ain)",
-   "name": "delaverpilliere",
-   "notifications": false,
-   "profile_background_color": "182238",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_tile": true,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/747321890088222721/JOuZPH3a_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/747321890088222721/JOuZPH3a_normal.jpg",
-   "profile_link_color": "B2CE12",
-   "profile_sidebar_border_color": "5DA4C5",
-   "profile_sidebar_fill_color": "0081C1",
-   "profile_text_color": "E5E5E5",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "delaverpilliere",
-   "statuses_count": 1046,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/sjvuJkevvR",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Ain",
-  "twitter_favourites": 149,
-  "twitter_followers": 4667,
-  "twitter_following": 436,
-  "twitter_id": 115003417,
-  "twitter_listed": 154,
-  "twitter_name": "delaverpilliere",
-  "twitter_protected": false,
-  "twitter_tweets": 1046,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1012",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1012",
-  "url_nosdeputes": "https://www.nosdeputes.fr/charles-de-la-verpilliere",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/charles-de-la-verpilliere/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1012"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Charles-de la Verpillière",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1012",
@@ -649,9 +508,9 @@
   "id": "115003417",
   "name": "delaverpilliere",
   "public_metrics": {
-   "followers_count": 4668,
+   "followers_count": 4676,
    "following_count": 436,
-   "listed_count": 154,
+   "listed_count": 153,
    "tweet_count": 1046
   },
   "username": "delaverpilliere"

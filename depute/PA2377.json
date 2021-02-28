@@ -123,172 +123,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire, 227 Boulevard Gambetta, 69400 Villefranche-sur-Saône Téléphone : 04 74 68 07 44"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Villefranche-Beaujolais-Saône / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Villefranche-sur-Saône / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. François Pagnon"
-   },
-   {
-    "collaborateur": "Mme Roxane Beguet"
-   },
-   {
-    "collaborateur": "Mme Brigitte Trambouze"
-   },
-   {
-    "collaborateur": "M. Max Desgoutte"
-   }
-  ],
-  "date_naissance": "1957-01-24",
-  "emails": [
-   {
-    "email": "bernard.perrut@assemblee-nationale.fr"
-   },
-   {
-    "email": "bperrut@wanadoo.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 538,
-  "id_an": "2377",
-  "lieu_naissance": "Villefranche-sur-Saône (Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Bernard Perrut",
-  "nom_circo": "Rhône",
-  "nom_de_famille": "Perrut",
-  "num_circo": 9,
-  "num_deptmt": "69",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "108",
-  "prenom": "Bernard",
-  "profession": "Ancien avocat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.bperrut.fr",
-   "https://twitter.com/b_perrut",
-   "https://fr-fr.facebook.com/bernardperrut1"
-  ],
-  "slug": "bernard-perrut",
   "twitter": "b_perrut",
-  "twitter_created_at": "2012-04-18T08:22:58",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Apr 18 08:22:58 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député Rhône,VP Com aff.sociales. Maire H. Villefranche s/S. «veux servir la France et ma région avec énergie et passion» https://t.co/H5GbRDW5gQ",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "fr.facebook.com/bernardperrut1",
-       "expanded_url": "http://fr.facebook.com/bernardperrut1",
-       "indices": [
-        122,
-        145
-       ],
-       "url": "https://t.co/H5GbRDW5gQ"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "bperrut.fr",
-       "expanded_url": "http://www.bperrut.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/dEWrajL3nB"
-      }
-     ]
-    }
-   },
-   "favourites_count": 310,
-   "follow_request_sent": false,
-   "followers_count": 6584,
-   "following": false,
-   "friends_count": 3588,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 556754160,
-   "id_str": "556754160",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 190,
-   "location": "Beaujolais, Lyon, Rhône-Alpes",
-   "name": "Bernard PERRUT",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/556754160/1585777754",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/680643021025718273/MqwcWv4r_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/680643021025718273/MqwcWv4r_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "B_Perrut",
-   "statuses_count": 1857,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/dEWrajL3nB",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député Rhône,VP Com aff.sociales. Maire H. Villefranche s/S. «veux servir la France et ma région avec énergie et passion» https://t.co/H5GbRDW5gQ",
-  "twitter_favourites": 310,
-  "twitter_followers": 6584,
-  "twitter_following": 3588,
-  "twitter_id": 556754160,
-  "twitter_listed": 190,
-  "twitter_name": "Bernard PERRUT",
-  "twitter_protected": false,
-  "twitter_tweets": 1857,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2377",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2377",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bernard-perrut",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bernard-perrut/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2377"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bernard-Perrut",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2377",
@@ -691,10 +527,10 @@
   "id": "556754160",
   "name": "Bernard PERRUT",
   "public_metrics": {
-   "followers_count": 6584,
+   "followers_count": 6590,
    "following_count": 3588,
    "listed_count": 190,
-   "tweet_count": 1857
+   "tweet_count": 1859
   },
   "username": "B_Perrut"
  },

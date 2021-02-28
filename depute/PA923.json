@@ -223,145 +223,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence 15 Rue du Docteur Desprès 52100 Saint-Dizier Téléphone : 03.25.04.38.85"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "02/04/1993 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Saint-Dizier (Der et Blaise) / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Saint-Dizier / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Amel Bekhelifa"
-   },
-   {
-    "collaborateur": "M. Thierry Perardel"
-   },
-   {
-    "collaborateur": "M. Etienne Marasi"
-   }
-  ],
-  "date_naissance": "1958-05-22",
-  "emails": [
-   {
-    "email": "francois.cornut-gentille@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 112,
-  "id_an": "923",
-  "lieu_naissance": "Saint-Mandé (Val-de-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "François Cornut-Gentille",
-  "nom_circo": "Haute-Marne",
-  "nom_de_famille": "Cornut-Gentille",
-  "num_circo": 2,
-  "num_deptmt": "52",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "99",
-  "prenom": "François",
-  "profession": "Cadre d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/FCornutGentille",
-   "http://www.francois-cornut-gentille.fr"
-  ],
-  "slug": "francois-cornut-gentille",
   "twitter": "FCornutGentille",
-  "twitter_created_at": "2012-05-01T09:06:52",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 01 09:06:52 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Haute-Marne, rapporteur spécial des crédits de la défense, vice-président du comité d'évaluation et de contrôle des politiques publiques",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 94,
-   "follow_request_sent": false,
-   "followers_count": 3194,
-   "following": false,
-   "friends_count": 379,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 568029290,
-   "id_str": "568029290",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 116,
-   "location": "",
-   "name": "Fr Cornut-Gentille",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/568029290/1455290168",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/698163314501804037/1TilbY5Q_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/698163314501804037/1TilbY5Q_normal.jpg",
-   "profile_link_color": "FFCC4D",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "FCornutGentille",
-   "statuses_count": 3274,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Haute-Marne, rapporteur spécial des crédits de la défense, vice-président du comité d'évaluation et de contrôle des politiques publiques",
-  "twitter_favourites": 94,
-  "twitter_followers": 3194,
-  "twitter_following": 379,
-  "twitter_id": 568029290,
-  "twitter_listed": 116,
-  "twitter_name": "Fr Cornut-Gentille",
-  "twitter_protected": false,
-  "twitter_tweets": 3274,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA923",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA923",
-  "url_nosdeputes": "https://www.nosdeputes.fr/francois-cornut-gentille",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/francois-cornut-gentille/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA923"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/François-Cornut-Gentille",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA923",
@@ -667,10 +530,10 @@
   "id": "568029290",
   "name": "Fr Cornut-Gentille",
   "public_metrics": {
-   "followers_count": 3194,
+   "followers_count": 3193,
    "following_count": 380,
-   "listed_count": 115,
-   "tweet_count": 3275
+   "listed_count": 114,
+   "tweet_count": 3276
   },
   "username": "FCornutGentille"
  },

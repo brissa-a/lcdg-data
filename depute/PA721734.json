@@ -61,143 +61,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "375 Avenue de Lattre de Tassigny 83600 Fréjus"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Pauline Belhamani Berbar"
-   },
-   {
-    "collaborateur": "Mme Leslie Tamraz"
-   },
-   {
-    "collaborateur": "Mme Melody De Witte"
-   },
-   {
-    "collaborateur": "M. Serge Dallari"
-   },
-   {
-    "collaborateur": "Mme Katia Andreetti"
-   }
-  ],
-  "date_naissance": "1969-03-06",
-  "emails": [
-   {
-    "email": "Philippe.Michel-Kleisbauer@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 124,
-  "id_an": "721734",
-  "lieu_naissance": "Draguignan (Var)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Philippe Michel-Kleisbauer",
-  "nom_circo": "Var",
-  "nom_de_famille": "Michel-Kleisbauer",
-  "num_circo": 5,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "259",
-  "prenom": "Philippe",
-  "profession": "Conseiller juridique",
-  "sexe": "H",
-  "sites_web": [
-   "http://philippemichelkleisbauer.eu",
-   "https://twitter.com/PhilippeMichelK",
-   "https://fr-fr.facebook.com/philippemichelkleisbauer"
-  ],
-  "slug": "philippe-michel-kleisbauer",
   "twitter": "PhilippeMichelK",
-  "twitter_created_at": "2011-05-07T14:47:38",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat May 07 14:47:38 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député Démocrate du Var @MoDem Chef de la délégation française auprès de l'Assemblée parlementaire de l'OTAN.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "philippemichelkleisbauer.eu",
-       "expanded_url": "http://philippemichelkleisbauer.eu/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/W9yVkQnHul"
-      }
-     ]
-    }
-   },
-   "favourites_count": 21565,
-   "follow_request_sent": false,
-   "followers_count": 4260,
-   "following": false,
-   "friends_count": 1269,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 294655305,
-   "id_str": "294655305",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 114,
-   "location": "Assemblée Nationale",
-   "name": "Ph.Michel-Kleisbauer",
-   "notifications": false,
-   "profile_background_color": "1332AD",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/294655305/1579769392",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1293853150995243009/G1pU3WYT_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293853150995243009/G1pU3WYT_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "EFEFEF",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "PhilippeMichelK",
-   "statuses_count": 5098,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/W9yVkQnHul",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député Démocrate du Var @MoDem Chef de la délégation française auprès de l'Assemblée parlementaire de l'OTAN.",
-  "twitter_favourites": 21565,
-  "twitter_followers": 4260,
-  "twitter_following": 1269,
-  "twitter_id": 294655305,
-  "twitter_listed": 114,
-  "twitter_name": "Ph.Michel-Kleisbauer",
-  "twitter_protected": false,
-  "twitter_tweets": 5098,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721734",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721734",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-michel-kleisbauer",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-michel-kleisbauer/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721734"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Michel-Kleisbauer",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721734",
@@ -1001,10 +866,10 @@
   "id": "294655305",
   "name": "Ph.Michel-Kleisbauer",
   "public_metrics": {
-   "followers_count": 4261,
+   "followers_count": 4263,
    "following_count": 1269,
    "listed_count": 113,
-   "tweet_count": 5091
+   "tweet_count": 5092
   },
   "username": "PhilippeMichelK"
  },

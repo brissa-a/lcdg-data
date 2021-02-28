@@ -56,158 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Mairie, 20 Boulevard Sadi Carnot, 06110 Le Cannet Téléphone : 04 92 18 21 00"
-   },
-   {
-    "adresse": "Permanence de Pégomas 56 Place du Logis 06580 Pégomas Téléphone : 04 93 42 61 23"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Cannet / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Romain Aidaoui"
-   },
-   {
-    "collaborateur": "Mme Marie-Thérèse David"
-   },
-   {
-    "collaborateur": "M. Frank Mezzasoma"
-   },
-   {
-    "collaborateur": "M. David Avaliani"
-   },
-   {
-    "collaborateur": "M. Rémi Blardone"
-   }
-  ],
-  "date_naissance": "1962-10-13",
-  "emails": [
-   {
-    "email": "michele.tabarot@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 61,
-  "id_an": "267794",
-  "lieu_naissance": "Alicante (Espagne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Michèle Tabarot",
-  "nom_circo": "Alpes-Maritimes",
-  "nom_de_famille": "Tabarot",
-  "num_circo": 9,
-  "num_deptmt": "06",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "86",
-  "prenom": "Michèle",
-  "profession": "Chef d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/MTabarot",
-   "http://www.micheletabarot.fr"
-  ],
-  "slug": "michele-tabarot",
   "twitter": "MTabarot",
-  "twitter_created_at": "2012-03-04T17:09:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Mar 04 17:09:16 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député des Alpes-Maritimes #9Circo — Membre commissions des Affaires étrangères & européennes @AssembleeNat • Présidente de la Majorité municipale du Cannet",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "micheletabarot.fr",
-       "expanded_url": "http://www.micheletabarot.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/yxj9hd2TnR"
-      }
-     ]
-    }
-   },
-   "favourites_count": 59,
-   "follow_request_sent": false,
-   "followers_count": 5480,
-   "following": false,
-   "friends_count": 520,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 514546669,
-   "id_str": "514546669",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 147,
-   "location": "Alpes-Maritimes",
-   "name": "Michèle Tabarot",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/514546669/1498496588",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1354027728228524033/q8TV7Hed_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354027728228524033/q8TV7Hed_normal.jpg",
-   "profile_link_color": "0049B4",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MTabarot",
-   "statuses_count": 1595,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/yxj9hd2TnR",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Alpes-Maritimes #9Circo — Membre commissions des Affaires étrangères & européennes @AssembleeNat • Présidente de la Majorité municipale du Cannet",
-  "twitter_favourites": 59,
-  "twitter_followers": 5480,
-  "twitter_following": 520,
-  "twitter_id": 514546669,
-  "twitter_listed": 147,
-  "twitter_name": "Michèle Tabarot",
-  "twitter_protected": false,
-  "twitter_tweets": 1595,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794",
-  "url_nosdeputes": "https://www.nosdeputes.fr/michele-tabarot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/michele-tabarot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Michèle-Tabarot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267794",
@@ -328,10 +178,10 @@
   "id": "514546669",
   "name": "Michèle Tabarot",
   "public_metrics": {
-   "followers_count": 5482,
+   "followers_count": 5488,
    "following_count": 520,
-   "listed_count": 147,
-   "tweet_count": 1596
+   "listed_count": 146,
+   "tweet_count": 1597
   },
   "username": "MTabarot"
  },

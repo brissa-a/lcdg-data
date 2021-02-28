@@ -117,140 +117,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bon-Encontre / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Agen / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Dorian Terral"
-   },
-   {
-    "collaborateur": "M. Maxime Cermack"
-   },
-   {
-    "collaborateur": "Mme Claire Rives"
-   }
-  ],
-  "date_naissance": "1957-03-20",
-  "emails": [
-   {
-    "email": "michel.lauzzana@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 141,
-  "id_an": "720022",
-  "lieu_naissance": "Castelsarrasin (Tarn-et-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Michel Lauzzana",
-  "nom_circo": "Lot-et-Garonne",
-  "nom_de_famille": "Lauzzana",
-  "num_circo": 1,
-  "num_deptmt": "47",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "400",
-  "prenom": "Michel",
-  "profession": "Médecin",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.michel-lauzzana.fr",
-   "https://twitter.com/lauzzanamichel"
-  ],
-  "slug": "michel-lauzzana",
   "twitter": "lauzzanamichel",
-  "twitter_created_at": "2015-11-05T20:24:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Nov 05 20:24:30 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "🏛 Député @LaREM_AN de Lot-et-Garonne #circo4701 |💰Commission des finances |🔬Président du groupe d'études #cancer |💊 Médecin",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "michel-lauzzana.fr",
-       "expanded_url": "http://www.michel-lauzzana.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/QqIP10Yqbf"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2739,
-   "follow_request_sent": false,
-   "followers_count": 4612,
-   "following": false,
-   "friends_count": 817,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 4121844143,
-   "id_str": "4121844143",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 91,
-   "location": "Agen, France",
-   "name": "Michel Lauzzana",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4121844143/1494879852",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1212400852201283586/km0fNY6W_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212400852201283586/km0fNY6W_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "lauzzanamichel",
-   "statuses_count": 2316,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/QqIP10Yqbf",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🏛 Député @LaREM_AN de Lot-et-Garonne #circo4701 |💰Commission des finances |🔬Président du groupe d'études #cancer |💊 Médecin",
-  "twitter_favourites": 2739,
-  "twitter_followers": 4612,
-  "twitter_following": 817,
-  "twitter_id": 4121844143,
-  "twitter_listed": 91,
-  "twitter_name": "Michel Lauzzana",
-  "twitter_protected": false,
-  "twitter_tweets": 2316,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720022",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720022",
-  "url_nosdeputes": "https://www.nosdeputes.fr/michel-lauzzana",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/michel-lauzzana/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720022"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Michel-Lauzzana",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720022",
@@ -961,7 +829,7 @@
    "followers_count": 4608,
    "following_count": 817,
    "listed_count": 91,
-   "tweet_count": 2317
+   "tweet_count": 2320
   },
   "username": "lauzzanamichel"
  },

@@ -54,140 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "8 Rue Turenne 67000 Strasbourg Téléphone : 0388322987"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.93.05"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Bertrand Legros"
-   },
-   {
-    "collaborateur": "M. Célestin Berthelot"
-   },
-   {
-    "collaborateur": "Mme Chloé Bannier"
-   }
-  ],
-  "date_naissance": "1960-08-27",
-  "emails": [
-   {
-    "email": "thierry.michels@thierrymichels.fr"
-   },
-   {
-    "email": "thierry.michels@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 373,
-  "id_an": "720738",
-  "lieu_naissance": "Strasbourg (Bas-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Thierry Michels",
-  "nom_circo": "Bas-Rhin",
-  "nom_de_famille": "Michels",
-  "num_circo": 1,
-  "num_deptmt": "67",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "445",
-  "prenom": "Thierry",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.thierrymichels.fr",
-   "https://twitter.com/ThierryMichels",
-   "https://fr-fr.facebook.com/ThierryMichels67"
-  ],
-  "slug": "thierry-michels",
   "twitter": "ThierryMichels",
-  "twitter_created_at": "2014-11-03T18:32:03",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Nov 03 18:32:03 +0000 2014",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LaREM de la 1ère circonscription du Bas-Rhin.   Commissions #AffEurAn et #AffSocAn. #circo6701 @enmarchefr",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "thierrymichels.fr",
-       "expanded_url": "http://www.thierrymichels.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sYACQXH38G"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1664,
-   "follow_request_sent": false,
-   "followers_count": 6408,
-   "following": false,
-   "friends_count": 843,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2859306226,
-   "id_str": "2859306226",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 120,
-   "location": "Strasbourg, France",
-   "name": "Thierry Michels",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2859306226/1499102234",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/878160711305887744/cJazLPs7_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/878160711305887744/cJazLPs7_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ThierryMichels",
-   "statuses_count": 3599,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/sYACQXH38G",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM de la 1ère circonscription du Bas-Rhin. Commissions #AffEurAn et #AffSocAn. #circo6701 @enmarchefr",
-  "twitter_favourites": 1664,
-  "twitter_followers": 6408,
-  "twitter_following": 843,
-  "twitter_id": 2859306226,
-  "twitter_listed": 120,
-  "twitter_name": "Thierry Michels",
-  "twitter_protected": false,
-  "twitter_tweets": 3599,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720738",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720738",
-  "url_nosdeputes": "https://www.nosdeputes.fr/thierry-michels",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/thierry-michels/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720738"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Thierry-Michels",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720738",
@@ -1236,10 +1104,10 @@
   "id": "2859306226",
   "name": "Thierry Michels",
   "public_metrics": {
-   "followers_count": 6409,
+   "followers_count": 6417,
    "following_count": 843,
    "listed_count": 120,
-   "tweet_count": 3603
+   "tweet_count": 3608
   },
   "username": "ThierryMichels"
  },

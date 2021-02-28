@@ -131,150 +131,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.53.51"
-   },
-   {
-    "adresse": "1 Bis Boulevard Leclerc 35300 Fougères Téléphone : 02 99 17 11 71"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Ille-et-Vilaine / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Adeline Biard"
-   },
-   {
-    "collaborateur": "Mme Florence Dubois"
-   },
-   {
-    "collaborateur": "M. Christophe Deroyer"
-   }
-  ],
-  "date_naissance": "1966-09-13",
-  "emails": [
-   {
-    "email": "thierry.benoit@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@thierry-benoit.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 173,
-  "id_an": "332228",
-  "lieu_naissance": "Fougères (Ille-et-Vilaine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Thierry Benoit",
-  "nom_circo": "Ille-et-Vilaine",
-  "nom_de_famille": "Benoit",
-  "num_circo": 6,
-  "num_deptmt": "35",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "114",
-  "prenom": "Thierry",
-  "profession": "Représentant de commerce",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.thierry-benoit.fr",
-   "https://twitter.com/ThierryBenoit35",
-   "https://fr-fr.facebook.com/Thierry.Benoit.148"
-  ],
-  "slug": "thierry-benoit",
   "twitter": "ThierryBenoit35",
-  "twitter_created_at": "2013-07-19T08:52:06",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jul 19 08:52:06 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député (UDI) de la 6ème circonscription d'Ille-et-Vilaine, Conseiller départemental #AssembleeNationale #Bretagne #PaysDeFougères",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "thierry-benoit.fr",
-       "expanded_url": "http://www.thierry-benoit.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/u0WrbHiuMC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3627,
-   "follow_request_sent": false,
-   "followers_count": 3383,
-   "following": false,
-   "friends_count": 1110,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1605436740,
-   "id_str": "1605436740",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 175,
-   "location": "Fougères, Bretagne",
-   "name": "Thierry BENOIT",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605436740/1602771603",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1271017399924514816/rErQEP6N_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271017399924514816/rErQEP6N_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ThierryBenoit35",
-   "statuses_count": 3554,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/u0WrbHiuMC",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député (UDI) de la 6ème circonscription d'Ille-et-Vilaine, Conseiller départemental #AssembleeNationale #Bretagne #PaysDeFougères",
-  "twitter_favourites": 3627,
-  "twitter_followers": 3383,
-  "twitter_following": 1110,
-  "twitter_id": 1605436740,
-  "twitter_listed": 175,
-  "twitter_name": "Thierry BENOIT",
-  "twitter_protected": false,
-  "twitter_tweets": 3554,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332228",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332228",
-  "url_nosdeputes": "https://www.nosdeputes.fr/thierry-benoit",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/thierry-benoit/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332228"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Thierry-Benoit",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332228",
@@ -1333,9 +1191,9 @@
   "name": "Thierry BENOIT",
   "public_metrics": {
    "followers_count": 3384,
-   "following_count": 1110,
+   "following_count": 1111,
    "listed_count": 175,
-   "tweet_count": 3554
+   "tweet_count": 3555
   },
   "username": "ThierryBenoit35"
  },

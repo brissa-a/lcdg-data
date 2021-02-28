@@ -241,158 +241,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence 11 Rue Carnot 08200 Sedan Téléphone : 03 24 27 13 37"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "12/12/1995 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Grand Est / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anne Premat-Dumay"
-   },
-   {
-    "collaborateur": "Mme Christine Richet"
-   },
-   {
-    "collaborateur": "Mme Monique Dujeancourt"
-   },
-   {
-    "collaborateur": "Mme Sandy Petit"
-   }
-  ],
-  "date_naissance": "1965-10-22",
-  "emails": [
-   {
-    "email": "jean-luc.warsmann@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 497,
-  "id_an": "2952",
-  "lieu_naissance": "Villers-Semeuse (Ardennes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Luc Warsmann",
-  "nom_circo": "Ardennes",
-  "nom_de_famille": "Warsmann",
-  "num_circo": 3,
-  "num_deptmt": "08",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "106",
-  "prenom": "Jean-Luc",
-  "profession": "Sans profession",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jlwarsmann.com",
-   "https://twitter.com/warsmann"
-  ],
-  "slug": "jean-luc-warsmann",
   "twitter": "warsmann",
-  "twitter_created_at": "2009-12-02T20:27:33",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Dec 02 20:27:33 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député des Ardennes à votre service",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2952",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/B7zxxwCXzK"
-      }
-     ]
-    }
-   },
-   "favourites_count": 241,
-   "follow_request_sent": false,
-   "followers_count": 3257,
-   "following": false,
-   "friends_count": 211,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 94168587,
-   "id_str": "94168587",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 193,
-   "location": "",
-   "name": "Jean-Luc Warsmann",
-   "notifications": false,
-   "profile_background_color": "022330",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/94168587/1613383127",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1361250983184072709/CEa8oz7__normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361250983184072709/CEa8oz7__normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "A8C7F7",
-   "profile_sidebar_fill_color": "0A3F54",
-   "profile_text_color": "6F9100",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "warsmann",
-   "statuses_count": 571,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/B7zxxwCXzK",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Ardennes à votre service",
-  "twitter_favourites": 241,
-  "twitter_followers": 3257,
-  "twitter_following": 211,
-  "twitter_id": 94168587,
-  "twitter_listed": 193,
-  "twitter_name": "Jean-Luc Warsmann",
-  "twitter_protected": false,
-  "twitter_tweets": 571,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2952",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2952",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-luc-warsmann",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-luc-warsmann/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2952"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Luc-Warsmann",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2952",
@@ -531,10 +381,10 @@
   "id": "94168587",
   "name": "Jean-Luc Warsmann",
   "public_metrics": {
-   "followers_count": 3260,
-   "following_count": 211,
+   "followers_count": 3261,
+   "following_count": 214,
    "listed_count": 193,
-   "tweet_count": 572
+   "tweet_count": 575
   },
   "username": "warsmann"
  },

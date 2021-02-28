@@ -189,143 +189,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "7 Rue de l'Eglise 34230 Adissan"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Hérault Méditerranée / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Adissan / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Mathilde Tastavy"
-   },
-   {
-    "collaborateur": "Mme Camille Viala"
-   },
-   {
-    "collaborateur": "Mme Karine Lesage"
-   }
-  ],
-  "date_naissance": "1968-02-12",
-  "emails": [
-   {
-    "email": "philippe.huppe@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 225,
-  "id_an": "719700",
-  "lieu_naissance": "Mazamet (Tarn)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Philippe Huppé",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Huppé",
-  "num_circo": 5,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "155",
-  "prenom": "Philippe",
-  "profession": "Homme de lettres et artiste",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.philippehuppe.fr",
-   "https://twitter.com/PhilippeHuppe"
-  ],
-  "slug": "philippe-huppe",
   "twitter": "PhilippeHuppe",
-  "twitter_created_at": "2015-01-15T16:05:53",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jan 15 16:05:53 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 5e circonscription de l'Hérault - Auteur d'un rapport sur les métiers d'art et du patrimoine vivant 🗝️- Co-Président de l'@elusduvin🍷",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "philippehuppe.fr",
-       "expanded_url": "https://www.philippehuppe.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/nr4BIOos1J"
-      }
-     ]
-    }
-   },
-   "favourites_count": 18233,
-   "follow_request_sent": false,
-   "followers_count": 4383,
-   "following": false,
-   "friends_count": 1182,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2979937161,
-   "id_str": "2979937161",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 120,
-   "location": "Adissan, Languedoc-Roussillon",
-   "name": "Philippe HUPPE ✒️",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2979937161/1601586282",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1184166545687285762/6ZbONkvn_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184166545687285762/6ZbONkvn_normal.jpg",
-   "profile_link_color": "3B94D9",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "PhilippeHuppe",
-   "statuses_count": 3451,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/nr4BIOos1J",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 5e circonscription de l'Hérault - Auteur d'un rapport sur les métiers d'art et du patrimoine vivant 🗝️- Co-Président de l'@elusduvin🍷",
-  "twitter_favourites": 18233,
-  "twitter_followers": 4383,
-  "twitter_following": 1182,
-  "twitter_id": 2979937161,
-  "twitter_listed": 120,
-  "twitter_name": "Philippe HUPPE ✒️",
-  "twitter_protected": false,
-  "twitter_tweets": 3451,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719700",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719700",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-huppe",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-huppe/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719700"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Huppé",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719700",
@@ -770,9 +635,9 @@
   "id": "2979937161",
   "name": "Philippe HUPPE ✒️",
   "public_metrics": {
-   "followers_count": 4382,
+   "followers_count": 4386,
    "following_count": 1182,
-   "listed_count": 121,
+   "listed_count": 120,
    "tweet_count": 3451
   },
   "username": "PhilippeHuppe"

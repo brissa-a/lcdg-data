@@ -65,141 +65,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "99 Place Jean Jaurès 62110 Hénin-Beaumont"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Hauts-de-France / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Renaud Labaye"
-   },
-   {
-    "collaborateur": "Mme Caroline Parmentier"
-   },
-   {
-    "collaborateur": "M. Christopher Szczurek"
-   }
-  ],
-  "date_naissance": "1968-08-05",
-  "emails": [
-   {
-    "email": "marine.lepen@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 253,
-  "id_an": "720614",
-  "lieu_naissance": "Neuilly-sur-Seine (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marine Le Pen",
-  "nom_circo": "Pas-de-Calais",
-  "nom_de_famille": "Le Pen",
-  "num_circo": 11,
-  "num_deptmt": "62",
-  "parti_ratt_financier": "Rassemblement national",
-  "place_en_hemicycle": "60",
-  "prenom": "Marine",
-  "profession": "Avocate",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/MLP_officiel",
-   "https://www.rassemblementnational.fr",
-   "https://fr-fr.facebook.com/MarineLePen"
-  ],
-  "slug": "marine-le-pen",
   "twitter": "MLP_officiel",
-  "twitter_created_at": "2010-11-20T12:23:03",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Nov 20 12:23:03 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Présidente du @RNational_off | Député",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "rassemblementnational.fr",
-       "expanded_url": "https://www.rassemblementnational.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/NeRmPQK8NY"
-      }
-     ]
-    }
-   },
-   "favourites_count": 886,
-   "follow_request_sent": false,
-   "followers_count": 2571671,
-   "following": false,
-   "friends_count": 3305,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 217749896,
-   "id_str": "217749896",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 4981,
-   "location": "France",
-   "name": "Marine Le Pen",
-   "notifications": false,
-   "profile_background_color": "FFFFFF",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/217749896/1568734789",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1328327446433820672/38h_Mh5b_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328327446433820672/38h_Mh5b_normal.jpg",
-   "profile_link_color": "0E1C46",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "A8C7F7",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MLP_officiel",
-   "statuses_count": 21768,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/NeRmPQK8NY",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Présidente du @RNational_off | Député",
-  "twitter_favourites": 886,
-  "twitter_followers": 2571671,
-  "twitter_following": 3305,
-  "twitter_id": 217749896,
-  "twitter_listed": 4981,
-  "twitter_name": "Marine Le Pen",
-  "twitter_protected": false,
-  "twitter_tweets": 21768,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720614",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720614",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marine-le-pen",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marine-le-pen/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720614"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marine-Le Pen",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720614",
@@ -511,10 +378,10 @@
   "id": "217749896",
   "name": "Marine Le Pen",
   "public_metrics": {
-   "followers_count": 2572014,
-   "following_count": 3305,
-   "listed_count": 4979,
-   "tweet_count": 21771
+   "followers_count": 2572905,
+   "following_count": 3302,
+   "listed_count": 4981,
+   "tweet_count": 21777
   },
   "username": "MLP_officiel"
  },

@@ -57,177 +57,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 36 Rue Gabriel Péri 91300 Massy"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "01/05/2019 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Laurence Marty"
-   },
-   {
-    "collaborateur": "M. Cédric Chambard"
-   },
-   {
-    "collaborateur": "M. Antoine Rozec"
-   }
-  ],
-  "date_naissance": "1975-10-11",
-  "emails": [
-   {
-    "email": "Stephanie.Atger@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 604,
-  "id_an": "721674",
-  "lieu_naissance": "Sarcelles (Val-d'Oise)",
-  "mandat_debut": "2019-05-01",
-  "nb_mandats": 1,
-  "nom": "Stéphanie Atger",
-  "nom_circo": "Essonne",
-  "nom_de_famille": "Atger",
-  "num_circo": 6,
-  "num_deptmt": "91",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "478",
-  "prenom": "Stéphanie",
-  "profession": "Ecrivain public",
-  "sexe": "F",
-  "sites_web": [
-   "https://www.stephanieatger.fr",
-   "https://twitter.com/StephanieAtger",
-   "https://fr-fr.facebook.com/stephanie.atger"
-  ],
-  "slug": "stephanie-atger",
   "twitter": "StephanieAtger",
-  "twitter_created_at": "2019-04-14T11:24:01",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 14 11:24:01 +0000 2019",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🏛 🇫🇷 Députée @LaREM_AN de la 6ème circonscription de l'Essonne • @AN_Afsoc • Whip @LaREM_AN à @AN_OutreMers • Ecrivain public 📝",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "stephanieatger.fr",
-       "expanded_url": "https://www.stephanieatger.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/bQetR0ldwv"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3244,
-   "follow_request_sent": false,
-   "followers_count": 1718,
-   "following": false,
-   "friends_count": 1477,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1117388032775209000,
-   "id_str": "1117388032775208960",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 36,
-   "location": "Chilly-Mazarin, France",
-   "name": "Stéphanie Atger",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117388032775208960/1556726096",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1124329721259491329/G52KA3UL_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124329721259491329/G52KA3UL_normal.png",
-   "profile_link_color": "91D2FA",
-   "profile_location": null,
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "StephanieAtger",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Feb 23 21:05:38 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "twitter.com/i/web/status/1…",
-       "expanded_url": "https://twitter.com/i/web/status/1364320535451172864",
-       "indices": [
-        117,
-        140
-       ],
-       "url": "https://t.co/PVw3CP08NQ"
-      }
-     ],
-     "user_mentions": []
-    },
-    "favorite_count": 1,
-    "favorited": false,
-    "geo": null,
-    "id": 1364320535451172900,
-    "id_str": "1364320535451172864",
-    "in_reply_to_screen_name": "StephanieAtger",
-    "in_reply_to_status_id": 1364320533077241900,
-    "in_reply_to_status_id_str": "1364320533077241859",
-    "in_reply_to_user_id": 1117388032775209000,
-    "in_reply_to_user_id_str": "1117388032775208960",
-    "is_quote_status": false,
-    "lang": "fr",
-    "place": null,
-    "retweet_count": 0,
-    "retweeted": false,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "text": "Je condamne fermement ce climat de violence qui touche notre département depuis 2 jours et présente mes sincères co… https://t.co/PVw3CP08NQ",
-    "truncated": true
-   },
-   "statuses_count": 1619,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/bQetR0ldwv",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🏛 🇫🇷 Députée @LaREM_AN de la 6ème circonscription de l'Essonne • @AN_Afsoc • Whip @LaREM_AN à @AN_OutreMers • Ecrivain public 📝",
-  "twitter_favourites": 3244,
-  "twitter_followers": 1718,
-  "twitter_following": 1477,
-  "twitter_id": 1117388032775209000,
-  "twitter_listed": 36,
-  "twitter_name": "Stéphanie Atger",
-  "twitter_protected": false,
-  "twitter_tweets": 1619,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721674",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721674",
-  "url_nosdeputes": "https://www.nosdeputes.fr/stephanie-atger",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/stephanie-atger/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721674"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Stéphanie-Atger",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721674",
@@ -747,10 +578,10 @@
   "id": "1117388032775208960",
   "name": "Stéphanie Atger",
   "public_metrics": {
-   "followers_count": 1721,
-   "following_count": 1478,
-   "listed_count": 37,
-   "tweet_count": 1629
+   "followers_count": 1727,
+   "following_count": 1479,
+   "listed_count": 36,
+   "tweet_count": 1636
   },
   "username": "StephanieAtger"
  },

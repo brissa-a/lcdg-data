@@ -267,156 +267,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence, 2 Rue Saint-Grat, 64400 Oloron-Sainte-Marie Téléphone : 05 59 39 67 83"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Lourdios-Ichère / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Catherine Marques"
-   },
-   {
-    "collaborateur": "Mme Lysiane Palacin"
-   },
-   {
-    "collaborateur": "Mme Malgorzata Mathis Mazurczak"
-   },
-   {
-    "collaborateur": "M. Jacques Desmaisons"
-   },
-   {
-    "collaborateur": "M. Barthelemy Aguerre"
-   }
-  ],
-  "date_naissance": "1955-05-03",
-  "emails": [
-   {
-    "email": "jean.lassalle@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 149,
-  "id_an": "1838",
-  "lieu_naissance": "Lourdios-Ichère (Pyrénées-Atlantiques)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean Lassalle",
-  "nom_circo": "Pyrénées-Atlantiques",
-  "nom_de_famille": "Lassalle",
-  "num_circo": 4,
-  "num_deptmt": "64",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "220",
-  "prenom": "Jean",
-  "profession": "Technicien agricole",
-  "sexe": "H",
-  "sites_web": [
-   "https://resistons-france.fr",
-   "https://twitter.com/jeanlassalle",
-   "https://www.instagram.com/jeanlassalleoff"
-  ],
-  "slug": "jean-lassalle",
   "twitter": "jeanlassalle",
-  "twitter_created_at": "2010-01-07T16:24:46",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jan 07 16:24:46 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 4ème circonscription des Pyrénées-Atlantiques. Président de l'APMM, du CNRH, de la Marche citoyenne et de Résistons !",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "resistons-france.fr",
-       "expanded_url": "https://resistons-france.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3vqpDiryjI"
-      }
-     ]
-    }
-   },
-   "favourites_count": 791,
-   "follow_request_sent": false,
-   "followers_count": 56625,
-   "following": false,
-   "friends_count": 424,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 102722347,
-   "id_str": "102722347",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 561,
-   "location": "Lourdios-Ichère",
-   "name": "Jean Lassalle",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/102722347/1503573411",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/868057012613128192/taT_x7GV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/868057012613128192/taT_x7GV_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "jeanlassalle",
-   "statuses_count": 4714,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/3vqpDiryjI",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 4ème circonscription des Pyrénées-Atlantiques. Président de l'APMM, du CNRH, de la Marche citoyenne et de Résistons !",
-  "twitter_favourites": 791,
-  "twitter_followers": 56625,
-  "twitter_following": 424,
-  "twitter_id": 102722347,
-  "twitter_listed": 561,
-  "twitter_name": "Jean Lassalle",
-  "twitter_protected": false,
-  "twitter_tweets": 4714,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1838",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1838",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-lassalle",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-lassalle/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1838"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Lassalle",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1838",
@@ -737,10 +589,10 @@
   "id": "102722347",
   "name": "Jean Lassalle",
   "public_metrics": {
-   "followers_count": 56632,
+   "followers_count": 56646,
    "following_count": 424,
-   "listed_count": 561,
-   "tweet_count": 4716
+   "listed_count": 563,
+   "tweet_count": 4718
   },
   "username": "jeanlassalle"
  },

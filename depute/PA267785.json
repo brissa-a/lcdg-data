@@ -143,152 +143,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "3 Impasse Maison Fort 89000 Auxerre Téléphone : 03 86 48 37 88"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Auxerre / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Fabienne Vittot"
-   },
-   {
-    "collaborateur": "M. Karl-Hadrien Astié"
-   },
-   {
-    "collaborateur": "Mme Elise Martin"
-   },
-   {
-    "collaborateur": "M. Régis Bouchez"
-   },
-   {
-    "collaborateur": "M. Olivier Vinatier"
-   }
-  ],
-  "date_naissance": "1977-01-24",
-  "emails": [
-   {
-    "email": "guillaume.larrive@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 363,
-  "id_an": "267785",
-  "lieu_naissance": "Mulhouse (Haut-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Guillaume Larrivé",
-  "nom_circo": "Yonne",
-  "nom_de_famille": "Larrivé",
-  "num_circo": 1,
-  "num_deptmt": "89",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "83",
-  "prenom": "Guillaume",
-  "profession": "Maître des requêtes au Conseil d'État-Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.larrive.fr",
-   "http://www.larrive.com",
-   "https://larrive.fr/idees",
-   "https://twitter.com/GLarrive",
-   "https://fr-fr.facebook.com/guillaumelarrive"
-  ],
-  "slug": "guillaume-larrive",
   "twitter": "GLarrive",
-  "twitter_created_at": "2010-08-12T18:59:35",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Aug 12 18:59:35 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Citoyen engagé pour @_LaFranceDemain • Hier au Conseil d’Etat, à Beauvau & l’Elysée, avocat • Aujourd’hui député @LRYonne à l'Assemblée nationale",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "larrive.fr",
-       "expanded_url": "http://www.larrive.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Azkm6U7xa7"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4258,
-   "follow_request_sent": false,
-   "followers_count": 34313,
-   "following": false,
-   "friends_count": 2123,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 177662118,
-   "id_str": "177662118",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 380,
-   "location": "Yonne, Puisaye, Auxerre",
-   "name": "🇫🇷 Guillaume Larrivé",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/177662118/1603050689",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1315402080077647873/k_C6ixsK_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315402080077647873/k_C6ixsK_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "GLarrive",
-   "statuses_count": 8126,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Azkm6U7xa7",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Citoyen engagé pour @_LaFranceDemain • Hier au Conseil d’Etat, à Beauvau & l’Elysée, avocat • Aujourd’hui député @LRYonne à l'Assemblée nationale",
-  "twitter_favourites": 4258,
-  "twitter_followers": 34313,
-  "twitter_following": 2123,
-  "twitter_id": 177662118,
-  "twitter_listed": 380,
-  "twitter_name": "🇫🇷 Guillaume Larrivé",
-  "twitter_protected": false,
-  "twitter_tweets": 8126,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267785",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267785",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guillaume-larrive",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guillaume-larrive/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267785"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guillaume-Larrivé",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267785",
@@ -737,10 +593,10 @@
   "id": "177662118",
   "name": "🇫🇷 Guillaume Larrivé",
   "public_metrics": {
-   "followers_count": 34319,
-   "following_count": 2123,
+   "followers_count": 34327,
+   "following_count": 2122,
    "listed_count": 379,
-   "tweet_count": 8127
+   "tweet_count": 8132
   },
   "username": "GLarrive"
  },

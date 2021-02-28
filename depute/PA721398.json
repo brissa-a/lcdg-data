@@ -126,150 +126,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 725 Boulevard Robert Barrier 73100 Aix-les-Bains"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marine Gotteland"
-   },
-   {
-    "collaborateur": "M. Sébastien Pignier-Tracol"
-   },
-   {
-    "collaborateur": "Mme Marielle Bergeron"
-   },
-   {
-    "collaborateur": "M. David Petit"
-   }
-  ],
-  "date_naissance": "1993-01-06",
-  "emails": [
-   {
-    "email": "typhanie.degois@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 556,
-  "id_an": "721398",
-  "lieu_naissance": "Fourmies (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Typhanie Degois",
-  "nom_circo": "Savoie",
-  "nom_de_famille": "Degois",
-  "num_circo": 1,
-  "num_deptmt": "73",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "350",
-  "prenom": "Typhanie",
-  "profession": "Juriste",
-  "sexe": "F",
-  "sites_web": [
-   "http://typhaniedegois.fr",
-   "https://twitter.com/Typhanie_Degois",
-   "https://fr-fr.facebook.com/Typhanie.Degois"
-  ],
-  "slug": "typhanie-degois",
   "twitter": "Typhanie_Degois",
-  "twitter_created_at": "2017-05-23T11:24:22",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 23 11:24:22 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de #Savoie 🇫🇷 | Co-présidente du groupe d'études start-up, pme et eti à l'@AssembleeNat | Restez informé ➡️ https://t.co/t8RyOwvfC5",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "typhaniedegois.fr/rester-informe",
-       "expanded_url": "http://typhaniedegois.fr/rester-informe",
-       "indices": [
-        116,
-        139
-       ],
-       "url": "https://t.co/t8RyOwvfC5"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "typhaniedegois.fr",
-       "expanded_url": "http://typhaniedegois.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/H6XerpYd0J"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1333,
-   "follow_request_sent": false,
-   "followers_count": 2761,
-   "following": false,
-   "friends_count": 1026,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 866978105189171200,
-   "id_str": "866978105189171201",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 109,
-   "location": "Savoie, Rhône-Alpes",
-   "name": "Typhanie Degois",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866978105189171201/1498247496",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/893528232657661953/cjfJowCu_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/893528232657661953/cjfJowCu_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "Typhanie_Degois",
-   "statuses_count": 618,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/H6XerpYd0J",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de #Savoie 🇫🇷 | Co-présidente du groupe d'études start-up, pme et eti à l'@AssembleeNat | Restez informé ➡️ https://t.co/t8RyOwvfC5",
-  "twitter_favourites": 1333,
-  "twitter_followers": 2761,
-  "twitter_following": 1026,
-  "twitter_id": 866978105189171200,
-  "twitter_listed": 109,
-  "twitter_name": "Typhanie Degois",
-  "twitter_protected": false,
-  "twitter_tweets": 618,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721398",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721398",
-  "url_nosdeputes": "https://www.nosdeputes.fr/typhanie-degois",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/typhanie-degois/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721398"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Typhanie-Degois",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721398",
@@ -705,9 +563,9 @@
   "id": "866978105189171201",
   "name": "Typhanie Degois",
   "public_metrics": {
-   "followers_count": 2763,
-   "following_count": 1028,
-   "listed_count": 110,
+   "followers_count": 2767,
+   "following_count": 1029,
+   "listed_count": 109,
    "tweet_count": 619
   },
   "username": "Typhanie_Degois"

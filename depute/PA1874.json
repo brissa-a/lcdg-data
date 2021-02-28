@@ -133,156 +133,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 6 Avenue des Combattants 22600 Loudéac Téléphone : 02 96 66 42 63"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "02/04/1993 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bretagne / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Béatrice Boulanger"
-   },
-   {
-    "collaborateur": "M. Stéphane De Sallier Dupin"
-   },
-   {
-    "collaborateur": "M. Nicolas Le Caroff"
-   },
-   {
-    "collaborateur": "M. Fabrice Layer"
-   }
-  ],
-  "date_naissance": "1956-11-28",
-  "emails": [
-   {
-    "email": "marc.lefur@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 252,
-  "id_an": "1874",
-  "lieu_naissance": "Dakar (Sénégal)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marc Le Fur",
-  "nom_circo": "Côtes-d'Armor",
-  "nom_de_famille": "Le Fur",
-  "num_circo": 3,
-  "num_deptmt": "22",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "96",
-  "prenom": "Marc",
-  "profession": "Sous-préfet",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.marclefur.bzh",
-   "https://twitter.com/marclefur",
-   "https://fr-fr.facebook.com/marclefur2017"
-  ],
-  "slug": "marc-le-fur",
   "twitter": "marclefur",
-  "twitter_created_at": "2010-02-01T16:33:26",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Feb 01 16:33:26 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Marc LE FUR est Député des Côtes d'Armor et Vice-Président de l'Assemblée nationale. Il est Conseiller régional de Bretagne et président de Groupe",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "marclefur.bzh",
-       "expanded_url": "http://www.marclefur.bzh",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/eF9EtONNQO"
-      }
-     ]
-    }
-   },
-   "favourites_count": 749,
-   "follow_request_sent": false,
-   "followers_count": 13692,
-   "following": false,
-   "friends_count": 1628,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 110459051,
-   "id_str": "110459051",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 349,
-   "location": "Loudéac",
-   "name": "Marc Le Fur",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/110459051/1494505815",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/564077277898473473/Q1nDfZku_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/564077277898473473/Q1nDfZku_normal.jpeg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "marclefur",
-   "statuses_count": 3602,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/eF9EtONNQO",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Marc LE FUR est Député des Côtes d'Armor et Vice-Président de l'Assemblée nationale. Il est Conseiller régional de Bretagne et président de Groupe",
-  "twitter_favourites": 749,
-  "twitter_followers": 13692,
-  "twitter_following": 1628,
-  "twitter_id": 110459051,
-  "twitter_listed": 349,
-  "twitter_name": "Marc Le Fur",
-  "twitter_protected": false,
-  "twitter_tweets": 3602,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1874",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1874",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marc-le-fur",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marc-le-fur/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1874"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marc-Le Fur",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1874",
@@ -1334,10 +1186,10 @@
   "id": "110459051",
   "name": "Marc Le Fur",
   "public_metrics": {
-   "followers_count": 13694,
-   "following_count": 1629,
+   "followers_count": 13702,
+   "following_count": 1631,
    "listed_count": 349,
-   "tweet_count": 3603
+   "tweet_count": 3605
   },
   "username": "marclefur"
  },

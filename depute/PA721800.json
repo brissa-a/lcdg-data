@@ -113,147 +113,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 5 Avenue du Maréchal Juin 83300 Draguignan"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Flayosc / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Dracénoise / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sandrine Ranção"
-   },
-   {
-    "collaborateur": "M. Olivier Makabrou"
-   },
-   {
-    "collaborateur": "M. Gilles Escarras"
-   },
-   {
-    "collaborateur": "Mme Agathe Simion"
-   }
-  ],
-  "date_naissance": "1984-09-12",
-  "emails": [
-   {
-    "email": "fabien.matras@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 73,
-  "id_an": "721800",
-  "lieu_naissance": "Grenoble (Isère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Fabien Matras",
-  "nom_circo": "Var",
-  "nom_de_famille": "Matras",
-  "num_circo": 8,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "386",
-  "prenom": "Fabien",
-  "profession": "Enseignant vacataire Faculté",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/famatras",
-   "http://www.fabien-matras2017.com",
-   "https://m.facebook.com/matras.fabien"
-  ],
-  "slug": "fabien-matras",
   "twitter": "famatras",
-  "twitter_created_at": "2017-05-18T15:55:07",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 18 15:55:07 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 8ème circonscription du Var @famatras #circo8308 #assembleenationale #LREM #commissiondeslois #CNSIS Co-Président groupe d’études Sapeurs-pompiers",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "m.facebook.com/matras.fabien",
-       "expanded_url": "https://m.facebook.com/matras.fabien",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/oLKxXektIz"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3197,
-   "follow_request_sent": false,
-   "followers_count": 3057,
-   "following": false,
-   "friends_count": 1330,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 865234300190564400,
-   "id_str": "865234300190564352",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 80,
-   "location": "Flayosc, France",
-   "name": "MATRAS Fabien 🇫🇷",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865234300190564352/1562855567",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1149325665105317889/N5_UYnzk_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149325665105317889/N5_UYnzk_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "famatras",
-   "statuses_count": 1816,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/oLKxXektIz",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la 8ème circonscription du Var @famatras #circo8308 #assembleenationale #LREM #commissiondeslois #CNSIS Co-Président groupe d’études Sapeurs-pompiers",
-  "twitter_favourites": 3197,
-  "twitter_followers": 3057,
-  "twitter_following": 1330,
-  "twitter_id": 865234300190564400,
-  "twitter_listed": 80,
-  "twitter_name": "MATRAS Fabien 🇫🇷",
-  "twitter_protected": false,
-  "twitter_tweets": 1816,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721800",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721800",
-  "url_nosdeputes": "https://www.nosdeputes.fr/fabien-matras",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/fabien-matras/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721800"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabien-Matras",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721800",
@@ -535,10 +396,10 @@
   "id": "865234300190564352",
   "name": "MATRAS Fabien 🇫🇷",
   "public_metrics": {
-   "followers_count": 3054,
-   "following_count": 1330,
+   "followers_count": 3059,
+   "following_count": 1329,
    "listed_count": 80,
-   "tweet_count": 1819
+   "tweet_count": 1820
   },
   "username": "famatras"
  },

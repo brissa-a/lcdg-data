@@ -73,140 +73,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 10 Bis Rue Joseph Le Brix 56890 Saint-Avé Téléphone : 02 97 61 52 02"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Céline Cléro"
-   },
-   {
-    "collaborateur": "Mme Raphaële Ardilouze"
-   },
-   {
-    "collaborateur": "Mme Emilie Coué"
-   }
-  ],
-  "date_naissance": "1951-04-17",
-  "emails": [
-   {
-    "email": "herve.pellois@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 393,
-  "id_an": "607595",
-  "lieu_naissance": "La Chapelle Blanche (Côtes-d'Armor)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Hervé Pellois",
-  "nom_circo": "Morbihan",
-  "nom_de_famille": "Pellois",
-  "num_circo": 1,
-  "num_deptmt": "56",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "376",
-  "prenom": "Hervé",
-  "profession": "Cadre supérieur du secteur privé",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.hervepellois.fr",
-   "http://www.hervepellois2017.fr",
-   "https://twitter.com/HervePellois"
-  ],
-  "slug": "herve-pellois",
   "twitter": "HervePellois",
-  "twitter_created_at": "2012-11-02T11:52:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Nov 02 11:52:15 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "#Député du #Morbihan #CommissionDesFinances #LaRépubliqueEnMarche #Circo5601",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "hervepellois.fr",
-       "expanded_url": "http://www.hervepellois.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/MiuGDAA2w8"
-      }
-     ]
-    }
-   },
-   "favourites_count": 244,
-   "follow_request_sent": false,
-   "followers_count": 2976,
-   "following": false,
-   "friends_count": 863,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 920876347,
-   "id_str": "920876347",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 155,
-   "location": "#56",
-   "name": "Hervé Pellois",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/920876347/1498661578",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/880076269932748801/HNZBE1SI_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/880076269932748801/HNZBE1SI_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "HervePellois",
-   "statuses_count": 2102,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/MiuGDAA2w8",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "#Député du #Morbihan #CommissionDesFinances #LaRépubliqueEnMarche #Circo5601",
-  "twitter_favourites": 244,
-  "twitter_followers": 2976,
-  "twitter_following": 863,
-  "twitter_id": 920876347,
-  "twitter_listed": 155,
-  "twitter_name": "Hervé Pellois",
-  "twitter_protected": false,
-  "twitter_tweets": 2102,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607595",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607595",
-  "url_nosdeputes": "https://www.nosdeputes.fr/herve-pellois",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/herve-pellois/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607595"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Hervé-Pellois",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607595",
@@ -732,10 +600,10 @@
   "id": "920876347",
   "name": "Hervé Pellois",
   "public_metrics": {
-   "followers_count": 2976,
+   "followers_count": 2978,
    "following_count": 863,
    "listed_count": 155,
-   "tweet_count": 2103
+   "tweet_count": 2104
   },
   "username": "HervePellois"
  },

@@ -61,130 +61,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 15 Rue Azéma 34070 Montpellier Téléphone : 04 67 71 92 23"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Montpellier / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Montpellier Méditerranée Métropole /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Patrick Flores"
-   },
-   {
-    "collaborateur": "M. Thomas Cuvelier"
-   },
-   {
-    "collaborateur": "M. Hugo De Cozar"
-   }
-  ],
-  "date_naissance": "1967-08-22",
-  "emails": [
-   {
-    "email": "patricia.miralles@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 269,
-  "id_an": "719668",
-  "lieu_naissance": "Montpellier (Hérault)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Patricia Mirallès",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Mirallès",
-  "num_circo": 1,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "340",
-  "prenom": "Patricia",
-  "profession": "Fonctionnaire de catégorie C",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/MIRALLESMP",
-   "https://fr-fr.facebook.com/patricia.miralles34000"
-  ],
-  "slug": "patricia-miralles",
   "twitter": "MIRALLESMP",
-  "twitter_created_at": "2013-12-05T09:02:26",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Dec 05 09:02:26 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de l’Hérault • Vice-présidente Commission Défense nationale & Forces armées • Conseillère municipale #Montpellier #JamaisSansElles @TerresDeProgres #TdP",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 13994,
-   "follow_request_sent": false,
-   "followers_count": 5477,
-   "following": false,
-   "friends_count": 1278,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2208536261,
-   "id_str": "2208536261",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 320,
-   "location": "France",
-   "name": "Patricia MIRALLÈS",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2208536261/1593423261",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1324294263555973120/iGt6DLRL_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324294263555973120/iGt6DLRL_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "MIRALLESMP",
-   "statuses_count": 24265,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de l’Hérault • Vice-présidente Commission Défense nationale & Forces armées • Conseillère municipale #Montpellier #JamaisSansElles @TerresDeProgres #TdP",
-  "twitter_favourites": 13994,
-  "twitter_followers": 5477,
-  "twitter_following": 1278,
-  "twitter_id": 2208536261,
-  "twitter_listed": 320,
-  "twitter_name": "Patricia MIRALLÈS",
-  "twitter_protected": false,
-  "twitter_tweets": 24265,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719668",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719668",
-  "url_nosdeputes": "https://www.nosdeputes.fr/patricia-miralles",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/patricia-miralles/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719668"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Patricia-Mirallès",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719668",
@@ -814,10 +692,10 @@
   "id": "2208536261",
   "name": "Patricia MIRALLÈS",
   "public_metrics": {
-   "followers_count": 5480,
-   "following_count": 1278,
-   "listed_count": 321,
-   "tweet_count": 24266
+   "followers_count": 5498,
+   "following_count": 1282,
+   "listed_count": 320,
+   "tweet_count": 24279
   },
   "username": "MIRALLESMP"
  },

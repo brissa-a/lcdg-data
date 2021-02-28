@@ -54,130 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "10/05/2014 / 17/06/2017 / reprise de l'exercice du mandat d'un ancien membre du gouvernement"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Paris 13ème Arrondissement / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Paris (Paris) /  / conseillère"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Anthony Ong"
-   },
-   {
-    "collaborateur": "M. Théo Tedeschi"
-   }
-  ],
-  "date_naissance": "1961-08-10",
-  "emails": [
-   {
-    "email": "anne-christine.lang@paris.fr"
-   },
-   {
-    "email": "anne-christine.lang@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 12,
-  "id_an": "643205",
-  "lieu_naissance": "Mont-de-Marsan (Landes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Anne-Christine Lang",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Lang",
-  "num_circo": 10,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "282",
-  "prenom": "Anne-Christine",
-  "profession": "Cadre territorial",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.annechristinelang.fr",
-   "https://fr-fr.facebook.com/ACLang13",
-   "https://twitter.com/AChristine_Lang"
-  ],
-  "slug": "anne-christine-lang",
   "twitter": "AChristine_Lang",
-  "twitter_created_at": "2012-11-28T21:40:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Nov 28 21:40:37 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de Paris #circo7510 #Paris13 #Paris14 #LREM Politics, what else?",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 13923,
-   "follow_request_sent": false,
-   "followers_count": 8207,
-   "following": false,
-   "friends_count": 1070,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 977015028,
-   "id_str": "977015028",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 176,
-   "location": "",
-   "name": "Anne-Christine Lang",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1182537151428415488/IHBJbwFk_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182537151428415488/IHBJbwFk_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AChristine_Lang",
-   "statuses_count": 9658,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de Paris #circo7510 #Paris13 #Paris14 #LREM Politics, what else?",
-  "twitter_favourites": 13923,
-  "twitter_followers": 8207,
-  "twitter_following": 1070,
-  "twitter_id": 977015028,
-  "twitter_listed": 176,
-  "twitter_name": "Anne-Christine Lang",
-  "twitter_protected": false,
-  "twitter_tweets": 9658,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643205",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643205",
-  "url_nosdeputes": "https://www.nosdeputes.fr/anne-christine-lang",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/anne-christine-lang/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643205"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Anne-Christine-Lang",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643205",
@@ -741,10 +619,10 @@
   "id": "977015028",
   "name": "Anne-Christine Lang",
   "public_metrics": {
-   "followers_count": 8209,
-   "following_count": 1071,
+   "followers_count": 8256,
+   "following_count": 1072,
    "listed_count": 176,
-   "tweet_count": 9666
+   "tweet_count": 9690
   },
   "username": "AChristine_Lang"
  },

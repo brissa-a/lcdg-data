@@ -100,139 +100,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Stéphane Courtois"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Reverchon"
-   },
-   {
-    "collaborateur": "Mme Bénédicte Maerten"
-   },
-   {
-    "collaborateur": "M. Vincent Berthiot"
-   },
-   {
-    "collaborateur": "M. Adrien Coron"
-   }
-  ],
-  "date_naissance": "1963-04-20",
-  "emails": [
-   {
-    "email": "anne.genetet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 472,
-  "id_an": "721024",
-  "lieu_naissance": "Neuilly sur seine (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Anne Genetet",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "Genetet",
-  "num_circo": 11,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "351",
-  "prenom": "Anne",
-  "profession": "Médecin",
-  "sexe": "F",
-  "sites_web": [
-   "http://annegenetet.fr",
-   "https://twitter.com/AGenetet"
-  ],
-  "slug": "anne-genetet",
   "twitter": "AGenetet",
-  "twitter_created_at": "2012-05-03T17:14:00",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 03 17:14:00 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "🏛 Députée #LaREM des 🇫🇷 d'Asie-Océanie-Europe orientale \n🗣 Porte parole @AN_AfEtr \n🌐 Présidente GA 🇫🇷🇮🇷 \nL'émotion nous alerte, La raison nous conduit",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "annegenetet.fr",
-       "expanded_url": "http://annegenetet.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/9j2RBTtdnG"
-      }
-     ]
-    }
-   },
-   "favourites_count": 9835,
-   "follow_request_sent": false,
-   "followers_count": 8257,
-   "following": false,
-   "friends_count": 1475,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 570133214,
-   "id_str": "570133214",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 147,
-   "location": "Paris, France",
-   "name": "Anne GENETET",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/570133214/1576685457",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1315675974781018113/J0MK2rhT_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315675974781018113/J0MK2rhT_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AGenetet",
-   "statuses_count": 10130,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/9j2RBTtdnG",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🏛 Députée #LaREM des 🇫🇷 d'Asie-Océanie-Europe orientale 🗣 Porte parole @AN_AfEtr 🌐 Présidente GA 🇫🇷🇮🇷 L'émotion nous alerte, La raison nous conduit",
-  "twitter_favourites": 9835,
-  "twitter_followers": 8257,
-  "twitter_following": 1475,
-  "twitter_id": 570133214,
-  "twitter_listed": 147,
-  "twitter_name": "Anne GENETET",
-  "twitter_protected": false,
-  "twitter_tweets": 10130,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721024",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721024",
-  "url_nosdeputes": "https://www.nosdeputes.fr/anne-genetet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/anne-genetet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721024"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Anne-Genetet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721024",
@@ -1105,10 +974,10 @@
   "id": "570133214",
   "name": "Anne GENETET",
   "public_metrics": {
-   "followers_count": 8263,
+   "followers_count": 8264,
    "following_count": 1476,
    "listed_count": 148,
-   "tweet_count": 10130
+   "tweet_count": 10138
   },
   "username": "AGenetet"
  },

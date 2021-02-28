@@ -297,159 +297,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 12 Rue Jean Errard 55000 Bar-le-Duc Téléphone : 03 29 70 69 76"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bar-le-Duc / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Meuse Grand Sud / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Atissar Hibour"
-   },
-   {
-    "collaborateur": "Mme Agathe Colin"
-   },
-   {
-    "collaborateur": "Mme Audrey Jacamant"
-   },
-   {
-    "collaborateur": "M. Guillaume Fillon"
-   },
-   {
-    "collaborateur": "Mme Alice Bénard"
-   }
-  ],
-  "date_naissance": "1958-06-05",
-  "emails": [
-   {
-    "email": "bertrand.pancher@assemblee-nationale.fr"
-   },
-   {
-    "email": "bpancher.depute@orange.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 34,
-  "id_an": "333421",
-  "lieu_naissance": "Saint-Mihiel (Meuse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Bertrand Pancher",
-  "nom_circo": "Meuse",
-  "nom_de_famille": "Pancher",
-  "num_circo": 1,
-  "num_deptmt": "55",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "203",
-  "prenom": "Bertrand",
-  "profession": "Directeur du développement",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.bertrandpancher.fr",
-   "https://twitter.com/BertrandPancher",
-   "https://fr-fr.facebook.com/bertrand.pancher"
-  ],
-  "slug": "bertrand-pancher",
   "twitter": "BertrandPancher",
-  "twitter_created_at": "2011-12-14T15:29:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Dec 14 15:29:44 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la Meuse @MvtRadical ~ Co-président @GroupeLibTerrAN à @AssembleeNat ~ Spé. #DeveloppementDurable & #Transport ~ Président @deciderensemble",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "bertrandpancher.fr",
-       "expanded_url": "http://www.bertrandpancher.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/XucTT76egZ"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1859,
-   "follow_request_sent": false,
-   "followers_count": 7636,
-   "following": false,
-   "friends_count": 2655,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 436780101,
-   "id_str": "436780101",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 247,
-   "location": "Bar-le-Duc, France",
-   "name": "Bertrand Pancher",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/436780101/1595343724",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1285585823749025793/lFKVJTvC_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285585823749025793/lFKVJTvC_normal.jpg",
-   "profile_link_color": "645C72",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "BertrandPancher",
-   "statuses_count": 7873,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/XucTT76egZ",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Meuse @MvtRadical ~ Co-président @GroupeLibTerrAN à @AssembleeNat ~ Spé. #DeveloppementDurable & #Transport ~ Président @deciderensemble",
-  "twitter_favourites": 1859,
-  "twitter_followers": 7636,
-  "twitter_following": 2655,
-  "twitter_id": 436780101,
-  "twitter_listed": 247,
-  "twitter_name": "Bertrand Pancher",
-  "twitter_protected": false,
-  "twitter_tweets": 7873,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333421",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333421",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bertrand-pancher",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bertrand-pancher/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333421"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bertrand-Pancher",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333421",
@@ -798,9 +647,9 @@
   "id": "436780101",
   "name": "Bertrand Pancher",
   "public_metrics": {
-   "followers_count": 7634,
+   "followers_count": 7638,
    "following_count": 2655,
-   "listed_count": 248,
+   "listed_count": 247,
    "tweet_count": 7873
   },
   "username": "BertrandPancher"

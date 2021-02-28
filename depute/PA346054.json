@@ -242,147 +242,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence 2 Rue de la rose des vents 80130 Friville-Escarbotin Téléphone : 03 22 30 15 35"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Mers-les-Bains / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Vincent Rousselin"
-   },
-   {
-    "collaborateur": "M. Tanguy Vuillefroy de Silly"
-   },
-   {
-    "collaborateur": "Mme Agnès Facquet"
-   },
-   {
-    "collaborateur": "M. Thierry Balesdent"
-   },
-   {
-    "collaborateur": "M. Paul Brounais"
-   }
-  ],
-  "date_naissance": "1968-06-02",
-  "emails": [
-   {
-    "email": "emmanuel.maquet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 324,
-  "id_an": "346054",
-  "lieu_naissance": "Dieppe (Seine-Maritime)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Emmanuel Maquet",
-  "nom_circo": "Somme",
-  "nom_de_famille": "Maquet",
-  "num_circo": 3,
-  "num_deptmt": "80",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "49",
-  "prenom": "Emmanuel",
-  "profession": "Agent général d'assurances",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.emmanuelmaquet.fr",
-   "http://www.emmanuel-maquet.fr",
-   "https://twitter.com/emmanuel_maquet"
-  ],
-  "slug": "emmanuel-maquet",
   "twitter": "emmanuel_maquet",
-  "twitter_created_at": "2016-11-27T12:17:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Nov 27 12:17:11 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député @lesRepublicains de la 3ème circonscription de la Somme / Conseiller municipal de @Merslesbains / Secrétaire départemental des @Republicains80",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "emmanuel-maquet.fr",
-       "expanded_url": "http://www.emmanuel-maquet.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1oQ5ETaiPo"
-      }
-     ]
-    }
-   },
-   "favourites_count": 47,
-   "follow_request_sent": false,
-   "followers_count": 1859,
-   "following": false,
-   "friends_count": 247,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 802848743045402600,
-   "id_str": "802848743045402624",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 64,
-   "location": "Mers-les-Bains, France",
-   "name": "Emmanuel Maquet",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/802848743045402624/1608742109",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1341787771632046087/UV8a3i3h_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341787771632046087/UV8a3i3h_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "emmanuel_maquet",
-   "statuses_count": 218,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/1oQ5ETaiPo",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @lesRepublicains de la 3ème circonscription de la Somme / Conseiller municipal de @Merslesbains / Secrétaire départemental des @Republicains80",
-  "twitter_favourites": 47,
-  "twitter_followers": 1859,
-  "twitter_following": 247,
-  "twitter_id": 802848743045402600,
-  "twitter_listed": 64,
-  "twitter_name": "Emmanuel Maquet",
-  "twitter_protected": false,
-  "twitter_tweets": 218,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA346054",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA346054",
-  "url_nosdeputes": "https://www.nosdeputes.fr/emmanuel-maquet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/emmanuel-maquet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA346054"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Emmanuel-Maquet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA346054",
@@ -766,10 +627,10 @@
   "id": "802848743045402624",
   "name": "Emmanuel Maquet",
   "public_metrics": {
-   "followers_count": 1862,
-   "following_count": 247,
+   "followers_count": 1869,
+   "following_count": 249,
    "listed_count": 64,
-   "tweet_count": 218
+   "tweet_count": 219
   },
   "username": "emmanuel_maquet"
  },

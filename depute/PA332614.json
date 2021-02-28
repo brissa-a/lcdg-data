@@ -59,153 +59,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "11 Rue de la Résistance 42000 Saint-Etienne Téléphone : 04 77 30 53 60"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Loire / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Pierrick Courbon"
-   },
-   {
-    "collaborateur": "M. Julien Joassard"
-   },
-   {
-    "collaborateur": "Mme Morgane Linares"
-   },
-   {
-    "collaborateur": "Mme Blandine Mounier"
-   },
-   {
-    "collaborateur": "Mme Isabelle Dumestre"
-   }
-  ],
-  "date_naissance": "1972-02-05",
-  "emails": [
-   {
-    "email": "regis.juanico@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 95,
-  "id_an": "332614",
-  "lieu_naissance": "Saint-Rémy (Saône-et-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Régis Juanico",
-  "nom_circo": "Loire",
-  "nom_de_famille": "Juanico",
-  "num_circo": 1,
-  "num_deptmt": "42",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "508",
-  "prenom": "Régis",
-  "profession": "Fonctionnaire territorial",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.juanico.fr",
-   "https://twitter.com/juanico",
-   "https://fr-fr.facebook.com/regis.juanico"
-  ],
-  "slug": "regis-juanico",
   "twitter": "juanico",
-  "twitter_created_at": "2010-12-25T19:09:56",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Dec 25 19:09:56 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député @GenerationsMvt de la Loire #Circo4201 - Co-Pt groupe de travail #Paris2024 #AN - À lire : «Engagements : plaidoyer pour le beau mandat de Député» (2018)",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "juanico.fr",
-       "expanded_url": "http://www.juanico.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/C02CNGV1v0"
-      }
-     ]
-    }
-   },
-   "favourites_count": 10847,
-   "follow_request_sent": false,
-   "followers_count": 15676,
-   "following": false,
-   "friends_count": 3779,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 230495042,
-   "id_str": "230495042",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 370,
-   "location": "Saint-Etienne",
-   "name": "Régis JUANICO",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/230495042/1608963773",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1286971701679591425/G85gbd5h_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286971701679591425/G85gbd5h_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Juanico",
-   "statuses_count": 13038,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/C02CNGV1v0",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @GenerationsMvt de la Loire #Circo4201 - Co-Pt groupe de travail #Paris2024 #AN - À lire : «Engagements : plaidoyer pour le beau mandat de Député» (2018)",
-  "twitter_favourites": 10847,
-  "twitter_followers": 15676,
-  "twitter_following": 3779,
-  "twitter_id": 230495042,
-  "twitter_listed": 370,
-  "twitter_name": "Régis JUANICO",
-  "twitter_protected": false,
-  "twitter_tweets": 13038,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332614",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332614",
-  "url_nosdeputes": "https://www.nosdeputes.fr/regis-juanico",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/regis-juanico/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332614"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Régis-Juanico",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA332614",
@@ -887,10 +742,10 @@
   "id": "230495042",
   "name": "Régis JUANICO",
   "public_metrics": {
-   "followers_count": 15680,
-   "following_count": 3780,
+   "followers_count": 15684,
+   "following_count": 3786,
    "listed_count": 371,
-   "tweet_count": 13037
+   "tweet_count": 13045
   },
   "username": "Juanico"
  },

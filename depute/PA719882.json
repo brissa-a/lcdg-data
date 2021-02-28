@@ -101,144 +101,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Auvergne-Rhône-Alpes / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aline Verger"
-   },
-   {
-    "collaborateur": "Mme Maïmouna Ndong-Etroit"
-   },
-   {
-    "collaborateur": "Mme Elise Frajerman"
-   },
-   {
-    "collaborateur": "Mme Sonia-Sarah Bakrim"
-   }
-  ],
-  "date_naissance": "1982-09-30",
-  "emails": [
-   {
-    "email": "mmeyniermillefert@gmail.com"
-   },
-   {
-    "email": "marjolaine.meynier-millefert@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 353,
-  "id_an": "719882",
-  "lieu_naissance": "Échirolles (Isère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marjolaine Meynier-Millefert",
-  "nom_circo": "Isère",
-  "nom_de_famille": "Meynier-Millefert",
-  "num_circo": 10,
-  "num_deptmt": "38",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "279",
-  "prenom": "Marjolaine",
-  "profession": "Consultante",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/M_MeynierM",
-   "http://www.marjolainemeyniermillefert.fr",
-   "https://fr-fr.facebook.com/MarjolaineMeynierMillefert"
-  ],
-  "slug": "marjolaine-meynier-millefert",
   "twitter": "M_MeynierM",
-  "twitter_created_at": "2017-05-18T09:16:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 18 09:16:15 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la dixième circonscription de l'Isère [#circo3810], Présidente du groupe @LREM_AURA et co-animatrice du #PREB",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "marjolainemeyniermillefert.fr",
-       "expanded_url": "https://www.marjolainemeyniermillefert.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1gsUKkv5XM"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2856,
-   "follow_request_sent": false,
-   "followers_count": 4388,
-   "following": false,
-   "friends_count": 1108,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 865133923361312800,
-   "id_str": "865133923361312768",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 113,
-   "location": "Isère, Rhône-Alpes",
-   "name": "Marjolaine Meynier",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865133923361312768/1549723513",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1095761681458835456/Fx446_lV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095761681458835456/Fx446_lV_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "M_MeynierM",
-   "statuses_count": 2438,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/1gsUKkv5XM",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la dixième circonscription de l'Isère [#circo3810], Présidente du groupe @LREM_AURA et co-animatrice du #PREB",
-  "twitter_favourites": 2856,
-  "twitter_followers": 4388,
-  "twitter_following": 1108,
-  "twitter_id": 865133923361312800,
-  "twitter_listed": 113,
-  "twitter_name": "Marjolaine Meynier",
-  "twitter_protected": false,
-  "twitter_tweets": 2438,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719882",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719882",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marjolaine-meynier-millefert",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marjolaine-meynier-millefert/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719882"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marjolaine-Meynier-Millefert",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719882",
@@ -742,8 +606,8 @@
   "public_metrics": {
    "followers_count": 4388,
    "following_count": 1108,
-   "listed_count": 114,
-   "tweet_count": 2442
+   "listed_count": 113,
+   "tweet_count": 2446
   },
   "username": "M_MeynierM"
  },

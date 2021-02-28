@@ -71,139 +71,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.63.40"
-   },
-   {
-    "adresse": "Cabinet parlementaire 12 Rue Léon Blum 76120 Le Grand-Quevilly Téléphone : 02.32.11.41.77"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Charles MORGAT"
-   },
-   {
-    "collaborateur": "Mme Lucette Fréry"
-   },
-   {
-    "collaborateur": "M. Guillaume Force"
-   },
-   {
-    "collaborateur": "Mme Joëlle Hist"
-   }
-  ],
-  "date_naissance": "1980-03-14",
-  "emails": [
-   {
-    "email": "sira.sylla@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 91,
-  "id_an": "722118",
-  "lieu_naissance": "Rouen (Seine-Maritime)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sira Sylla",
-  "nom_circo": "Seine-Maritime",
-  "nom_de_famille": "Sylla",
-  "num_circo": 4,
-  "num_deptmt": "76",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "291",
-  "prenom": "Sira",
-  "profession": "Avocate",
-  "sexe": "F",
-  "sites_web": [
-   "https://www.sira-sylla.fr",
-   "https://twitter.com/sirasylla76"
-  ],
-  "slug": "sira-sylla",
   "twitter": "sirasylla76",
-  "twitter_created_at": "2017-05-16T17:24:21",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 17:24:21 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de Seine-Maritime. Com des Aff Étrangères 🌏• Resp #Afrique @enmarchefr•Co-rapporteure mission d’info diplo cult& #Francophonie #Rwanda #Sénégal #QPV",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "sira-sylla.fr",
-       "expanded_url": "https://www.sira-sylla.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/l756vum2xY"
-      }
-     ]
-    }
-   },
-   "favourites_count": 9041,
-   "follow_request_sent": false,
-   "followers_count": 9971,
-   "following": false,
-   "friends_count": 944,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 864531980033110000,
-   "id_str": "864531980033110018",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 114,
-   "location": "Le Grand-Quevilly, France",
-   "name": "Sira SYLLA",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864531980033110018/1603916858",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1281881665732837376/pRemks_j_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281881665732837376/pRemks_j_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "sirasylla76",
-   "statuses_count": 4444,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/l756vum2xY",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de Seine-Maritime. Com des Aff Étrangères 🌏• Resp #Afrique @enmarchefr•Co-rapporteure mission d’info diplo cult& #Francophonie #Rwanda #Sénégal #QPV",
-  "twitter_favourites": 9041,
-  "twitter_followers": 9971,
-  "twitter_following": 944,
-  "twitter_id": 864531980033110000,
-  "twitter_listed": 114,
-  "twitter_name": "Sira SYLLA",
-  "twitter_protected": false,
-  "twitter_tweets": 4444,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722118",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722118",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sira-sylla",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sira-sylla/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722118"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sira-Sylla",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722118",
@@ -536,10 +405,10 @@
   "id": "864531980033110018",
   "name": "Sira SYLLA",
   "public_metrics": {
-   "followers_count": 9971,
-   "following_count": 945,
-   "listed_count": 115,
-   "tweet_count": 4447
+   "followers_count": 9977,
+   "following_count": 946,
+   "listed_count": 114,
+   "tweet_count": 4450
   },
   "username": "sirasylla76"
  },

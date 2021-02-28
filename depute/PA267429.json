@@ -124,159 +124,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence, 1 Rue Courbon-Brioude, 42700 Firminy Téléphone : 04 77 92 09 15 Télécopie : 04 77 74 84 51"
-   },
-   {
-    "adresse": "3 Avenue Grégoire Chapoton, 42170 Saint Just Saint Rambert Téléphone : 04 77 51 78 74"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Auvergne-Rhône-Alpes / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marie Milan"
-   },
-   {
-    "collaborateur": "Mme Claire Yannacopoulos"
-   },
-   {
-    "collaborateur": "Mme Patricia Zappia"
-   },
-   {
-    "collaborateur": "Mme Sylvie Bonnet"
-   }
-  ],
-  "date_naissance": "1955-07-09",
-  "emails": [
-   {
-    "email": "depute@dinocinieri.fr"
-   },
-   {
-    "email": "dino.cinieri@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 450,
-  "id_an": "267429",
-  "lieu_naissance": "Firminy (Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Dino Cinieri",
-  "nom_circo": "Loire",
-  "nom_de_famille": "Cinieri",
-  "num_circo": 4,
-  "num_deptmt": "42",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "64",
-  "prenom": "Dino",
-  "profession": "Consultant sécurité",
-  "sexe": "H",
-  "sites_web": [
-   "https://www.dinocinieri.com",
-   "https://twitter.com/DinoCinieri",
-   "https://fr-fr.facebook.com/dino.cinieri"
-  ],
-  "slug": "dino-cinieri",
   "twitter": "DinoCinieri",
-  "twitter_created_at": "2017-02-09T13:40:00",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Feb 09 13:40:00 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la Loire (Membre de la commission @AN_AfEco) || Conseiller régional de la Région @auvergnerhalpes || Direction nationale au parti @lesRepublicains",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "dinocinieri.com",
-       "expanded_url": "https://www.dinocinieri.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UBmd1Z5PH5"
-      }
-     ]
-    }
-   },
-   "favourites_count": 18659,
-   "follow_request_sent": false,
-   "followers_count": 4113,
-   "following": false,
-   "friends_count": 2061,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 829686286097211400,
-   "id_str": "829686286097211392",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 97,
-   "location": "France",
-   "name": "Dino Cinieri",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/829686286097211392/1603981735",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1088029476225716224/FDg9EPQi_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088029476225716224/FDg9EPQi_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DinoCinieri",
-   "statuses_count": 7043,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UBmd1Z5PH5",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Loire (Membre de la commission @AN_AfEco) || Conseiller régional de la Région @auvergnerhalpes || Direction nationale au parti @lesRepublicains",
-  "twitter_favourites": 18659,
-  "twitter_followers": 4113,
-  "twitter_following": 2061,
-  "twitter_id": 829686286097211400,
-  "twitter_listed": 97,
-  "twitter_name": "Dino Cinieri",
-  "twitter_protected": false,
-  "twitter_tweets": 7043,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267429",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267429",
-  "url_nosdeputes": "https://www.nosdeputes.fr/dino-cinieri",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/dino-cinieri/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267429"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Dino-Cinieri",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267429",
@@ -807,10 +656,10 @@
   "id": "829686286097211392",
   "name": "Dino Cinieri",
   "public_metrics": {
-   "followers_count": 4114,
+   "followers_count": 4113,
    "following_count": 2061,
    "listed_count": 97,
-   "tweet_count": 7067
+   "tweet_count": 7073
   },
   "username": "DinoCinieri"
  },

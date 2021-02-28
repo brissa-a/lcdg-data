@@ -72,140 +72,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.67.89"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Mantes-la-Jolie / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Grand Paris Seine et Oise / Communauté urbaine / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Karine Dorival"
-   },
-   {
-    "collaborateur": "Mme Laurence Telliez"
-   },
-   {
-    "collaborateur": "M. Arnaud Gabardos"
-   }
-  ],
-  "date_naissance": "1960-01-06",
-  "emails": [
-   {
-    "email": "michel.vialay@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 542,
-  "id_an": "721968",
-  "lieu_naissance": "Paris 20ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Michel Vialay",
-  "nom_circo": "Yvelines",
-  "nom_de_famille": "Vialay",
-  "num_circo": 8,
-  "num_deptmt": "78",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "148",
-  "prenom": "Michel",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://michelvialay.fr",
-   "https://twitter.com/MichelVialay"
-  ],
-  "slug": "michel-vialay",
   "twitter": "MichelVialay",
-  "twitter_created_at": "2013-06-04T13:31:53",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jun 04 13:31:53 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député des Yvelines",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "michelvialay.fr",
-       "expanded_url": "http://www.michelvialay.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/xXR2OEQ7xD"
-      }
-     ]
-    }
-   },
-   "favourites_count": 169,
-   "follow_request_sent": false,
-   "followers_count": 1669,
-   "following": false,
-   "friends_count": 226,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1482313339,
-   "id_str": "1482313339",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 0,
-   "location": "Mantes la Jolie",
-   "name": "Michel Vialay",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482313339/1504551876",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/922337918521434112/L_cuhtTT_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/922337918521434112/L_cuhtTT_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "MichelVialay",
-   "statuses_count": 278,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/xXR2OEQ7xD",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Yvelines",
-  "twitter_favourites": 169,
-  "twitter_followers": 1669,
-  "twitter_following": 226,
-  "twitter_id": 1482313339,
-  "twitter_listed": 0,
-  "twitter_name": "Michel Vialay",
-  "twitter_protected": false,
-  "twitter_tweets": 278,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721968",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721968",
-  "url_nosdeputes": "https://www.nosdeputes.fr/michel-vialay",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/michel-vialay/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721968"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Michel-Vialay",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721968",
@@ -476,7 +344,7 @@
   "id": "1482313339",
   "name": "Michel Vialay",
   "public_metrics": {
-   "followers_count": 1670,
+   "followers_count": 1674,
    "following_count": 226,
    "listed_count": 74,
    "tweet_count": 278

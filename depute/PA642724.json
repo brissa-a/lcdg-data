@@ -104,152 +104,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "49 Rue de Belfort 25400 Audincourt Téléphone : 0381307905"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "22/07/2012 / 02/05/2014 / reprise de l'exercice du mandat d'un ancien membre du gouvernement"
-   },
-   {
-    "mandat": "09/02/2015 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Doubs / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Emmanuelle Cuccureddu"
-   },
-   {
-    "collaborateur": "Mme Manon Pinot"
-   },
-   {
-    "collaborateur": "Mme Jacqueline Contin"
-   },
-   {
-    "collaborateur": "Mme Catherine Mercier"
-   }
-  ],
-  "date_naissance": "1960-08-30",
-  "emails": [
-   {
-    "email": "barbier.frederic25@gmail.com"
-   },
-   {
-    "email": "frederic.barbier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 358,
-  "id_an": "642724",
-  "lieu_naissance": "Audincourt (Doubs)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Frédéric Barbier",
-  "nom_circo": "Doubs",
-  "nom_de_famille": "Barbier",
-  "num_circo": 4,
-  "num_deptmt": "25",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "230",
-  "prenom": "Frédéric",
-  "profession": "Cadre en entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.fredericbarbier.fr",
-   "https://twitter.com/Fred_Barbier"
-  ],
-  "slug": "frederic-barbier",
   "twitter": "Fred_Barbier",
-  "twitter_created_at": "2011-11-20T13:15:24",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Nov 20 13:15:24 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 4ème circonscription du Doubs / Conseiller général du canton de Valentigney - Pont de Roide (25)",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fredericbarbier.fr",
-       "expanded_url": "http://www.fredericbarbier.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/xylHidTnIp"
-      }
-     ]
-    }
-   },
-   "favourites_count": 387,
-   "follow_request_sent": false,
-   "followers_count": 3000,
-   "following": false,
-   "friends_count": 1112,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 417049363,
-   "id_str": "417049363",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 159,
-   "location": "Audincourt ",
-   "name": "Frédéric Barbier",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/417049363/1490880601",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/876547904994988033/_qLvaEp0_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/876547904994988033/_qLvaEp0_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Fred_Barbier",
-   "statuses_count": 1910,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/xylHidTnIp",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 4ème circonscription du Doubs / Conseiller général du canton de Valentigney - Pont de Roide (25)",
-  "twitter_favourites": 387,
-  "twitter_followers": 3000,
-  "twitter_following": 1112,
-  "twitter_id": 417049363,
-  "twitter_listed": 159,
-  "twitter_name": "Frédéric Barbier",
-  "twitter_protected": false,
-  "twitter_tweets": 1910,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642724",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642724",
-  "url_nosdeputes": "https://www.nosdeputes.fr/frederic-barbier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/frederic-barbier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642724"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Frédéric-Barbier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642724",
@@ -570,8 +426,8 @@
   "name": "Frédéric Barbier",
   "public_metrics": {
    "followers_count": 2999,
-   "following_count": 1112,
-   "listed_count": 159,
+   "following_count": 1113,
+   "listed_count": 158,
    "tweet_count": 1911
   },
   "username": "Fred_Barbier"

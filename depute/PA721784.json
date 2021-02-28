@@ -82,137 +82,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. François Volpi"
-   },
-   {
-    "collaborateur": "Mme Julie Schettino"
-   },
-   {
-    "collaborateur": "M. Alexis Her"
-   }
-  ],
-  "date_naissance": "1969-07-16",
-  "emails": [
-   {
-    "email": "valerie.gomez-bassac@en-marche.fr"
-   },
-   {
-    "email": "valerie.gomez-bassac@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 54,
-  "id_an": "721784",
-  "lieu_naissance": "Valenciennes (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Valérie Gomez-Bassac",
-  "nom_circo": "Var",
-  "nom_de_famille": "Gomez-Bassac",
-  "num_circo": 6,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "320",
-  "prenom": "Valérie",
-  "profession": "Maître de conférences",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/VGB83",
-   "http://www.valerie.gomez-bassac.fr",
-   "https://fr-fr.facebook.com/Gomez.Bassac.Valerie"
-  ],
-  "slug": "valerie-gomez-bassac",
   "twitter": "VGB83",
-  "twitter_created_at": "2017-07-20T13:50:45",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jul 20 13:50:45 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée 🇫🇷 et Porte-parole @LaREM_AN - 6è circonscription du Var | #Europe #Monde #Education #Recherche",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "valerie.gomez-bassac.fr",
-       "expanded_url": "http://www.valerie.gomez-bassac.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hBDzjPiQws"
-      }
-     ]
-    }
-   },
-   "favourites_count": 6492,
-   "follow_request_sent": false,
-   "followers_count": 3851,
-   "following": false,
-   "friends_count": 2101,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 888033440393822200,
-   "id_str": "888033440393822208",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 95,
-   "location": "Var",
-   "name": "Valérie Gomez-Bassac",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/888033440393822208/1613148781",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1306592310482800640/V-Gy8Da8_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306592310482800640/V-Gy8Da8_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "VGB83",
-   "statuses_count": 3783,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hBDzjPiQws",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée 🇫🇷 et Porte-parole @LaREM_AN - 6è circonscription du Var | #Europe #Monde #Education #Recherche",
-  "twitter_favourites": 6492,
-  "twitter_followers": 3851,
-  "twitter_following": 2101,
-  "twitter_id": 888033440393822200,
-  "twitter_listed": 95,
-  "twitter_name": "Valérie Gomez-Bassac",
-  "twitter_protected": false,
-  "twitter_tweets": 3783,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721784",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721784",
-  "url_nosdeputes": "https://www.nosdeputes.fr/valerie-gomez-bassac",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/valerie-gomez-bassac/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721784"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Valérie-Gomez-Bassac",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721784",
@@ -803,10 +674,10 @@
   "id": "888033440393822208",
   "name": "Valérie Gomez-Bassac",
   "public_metrics": {
-   "followers_count": 3850,
+   "followers_count": 3860,
    "following_count": 2101,
-   "listed_count": 96,
-   "tweet_count": 3784
+   "listed_count": 95,
+   "tweet_count": 3786
   },
   "username": "VGB83"
  },

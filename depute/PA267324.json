@@ -321,152 +321,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 116 Rue Charles Garnier 88800 Vittel Téléphone : 03 29 05 83 84"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Vittel (Vosges) / Conseil municipal / maire"
-   },
-   {
-    "mandat": "Vittel Contrexéville Terre d’Eau / Communauté de communes / président"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Alexandre Chopinez"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Bocquet-Deramaix"
-   },
-   {
-    "collaborateur": "Mme Évelyne Pathouot"
-   }
-  ],
-  "date_naissance": "1963-07-13",
-  "emails": [
-   {
-    "email": "jean-jacques.gaultier@assemblee-nationale.fr"
-   },
-   {
-    "email": "jjgaultier88@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 120,
-  "id_an": "267324",
-  "lieu_naissance": "Épinal (Vosges)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-Jacques Gaultier",
-  "nom_circo": "Vosges",
-  "nom_de_famille": "Gaultier",
-  "num_circo": 4,
-  "num_deptmt": "88",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "126",
-  "prenom": "Jean-Jacques",
-  "profession": "Médecin biologiste",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/JJ_Gaultier",
-   "https://www.facebook.com/Jean-Jacques-Gaultier-1088303261286818"
-  ],
-  "slug": "jean-jacques-gaultier",
   "twitter": "JJ_Gaultier",
-  "twitter_created_at": "2016-10-04T08:06:14",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Oct 04 08:06:14 +0000 2016",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député des Vosges #LR 4ème circonscription des Vosges.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/Jean-Jacques-G…",
-       "expanded_url": "https://www.facebook.com/Jean-Jacques-Gaultier-1088303261286818/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/fLWQr2FPid"
-      }
-     ]
-    }
-   },
-   "favourites_count": 132,
-   "follow_request_sent": false,
-   "followers_count": 1492,
-   "following": false,
-   "friends_count": 178,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 783216646299193300,
-   "id_str": "783216646299193344",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 67,
-   "location": "Vittel, France",
-   "name": "JJ Gaultier",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/783216646299193344/1558943604",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1130740260005138432/vWAK5zGC_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130740260005138432/vWAK5zGC_normal.png",
-   "profile_link_color": "1B94E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "JJ_Gaultier",
-   "statuses_count": 388,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/fLWQr2FPid",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Vosges #LR 4ème circonscription des Vosges.",
-  "twitter_favourites": 132,
-  "twitter_followers": 1492,
-  "twitter_following": 178,
-  "twitter_id": 783216646299193300,
-  "twitter_listed": 67,
-  "twitter_name": "JJ Gaultier",
-  "twitter_protected": false,
-  "twitter_tweets": 388,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267324",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267324",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-jacques-gaultier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-jacques-gaultier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267324"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Jacques-Gaultier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267324",
@@ -754,7 +610,7 @@
   "id": "783216646299193344",
   "name": "JJ Gaultier",
   "public_metrics": {
-   "followers_count": 1492,
+   "followers_count": 1494,
    "following_count": 178,
    "listed_count": 67,
    "tweet_count": 388

@@ -175,130 +175,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "14 Rue Maréchal Leclerc BP 50021 71201 Le Creusot Téléphone : 03 85 79 13 30"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Autun / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Grand Autunois Morvan / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Catherine Pannetier"
-   },
-   {
-    "collaborateur": "Mme Sylvia Sontrop-Collenot"
-   },
-   {
-    "collaborateur": "Mme Annelaure Augustin"
-   }
-  ],
-  "date_naissance": "1966-03-27",
-  "emails": [
-   {
-    "email": "remy.rebeyrotte@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 573,
-  "id_an": "722398",
-  "lieu_naissance": "Autun (Saône-et-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Rémy Rebeyrotte",
-  "nom_circo": "Saône-et-Loire",
-  "nom_de_famille": "Rebeyrotte",
-  "num_circo": 3,
-  "num_deptmt": "71",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "332",
-  "prenom": "Rémy",
-  "profession": "Professeur d'économie",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.remyrebeyrotte.fr",
-   "https://twitter.com/RRebeyrotte"
-  ],
-  "slug": "remy-rebeyrotte",
   "twitter": "RRebeyrotte",
-  "twitter_created_at": "2013-04-17T11:55:55",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Apr 17 11:55:55 +0000 2013",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 3e circo de Saône-et-Loire • Membre de la commission des Lois • Secrétaire de l’Assemblée nationale • Conseiller Municipal et Communautaire d'Autun",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 94,
-   "follow_request_sent": false,
-   "followers_count": 1640,
-   "following": false,
-   "friends_count": 601,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1359255073,
-   "id_str": "1359255073",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 108,
-   "location": "",
-   "name": "Rémy Rebeyrotte",
-   "notifications": false,
-   "profile_background_color": "EBEBEB",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359255073/1579602952",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1219565959863787521/z_zk8WVL_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219565959863787521/z_zk8WVL_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "F3F3F3",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RRebeyrotte",
-   "statuses_count": 258,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la 3e circo de Saône-et-Loire • Membre de la commission des Lois • Secrétaire de l’Assemblée nationale • Conseiller Municipal et Communautaire d'Autun",
-  "twitter_favourites": 94,
-  "twitter_followers": 1640,
-  "twitter_following": 601,
-  "twitter_id": 1359255073,
-  "twitter_listed": 108,
-  "twitter_name": "Rémy Rebeyrotte",
-  "twitter_protected": false,
-  "twitter_tweets": 258,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722398",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722398",
-  "url_nosdeputes": "https://www.nosdeputes.fr/remy-rebeyrotte",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/remy-rebeyrotte/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722398"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Rémy-Rebeyrotte",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722398",
@@ -1401,7 +1279,7 @@
   "id": "1359255073",
   "name": "Rémy Rebeyrotte",
   "public_metrics": {
-   "followers_count": 1640,
+   "followers_count": 1641,
    "following_count": 601,
    "listed_count": 108,
    "tweet_count": 258

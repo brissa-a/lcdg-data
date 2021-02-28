@@ -55,132 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "La Rocade des Citées unies Bourg 97115 Sainte-Rose Téléphone : 05 90 88 20 20"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Deshaies / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Fred Sapotille"
-   },
-   {
-    "collaborateur": "M. Danick Lator"
-   },
-   {
-    "collaborateur": "Mme Yaëlle Pagesy"
-   },
-   {
-    "collaborateur": "Mme Laurence de Saint Sernin"
-   },
-   {
-    "collaborateur": "M. Fritz Baptistin"
-   }
-  ],
-  "date_naissance": "1956-02-24",
-  "emails": [
-   {
-    "email": "max.mathiasin@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 455,
-  "id_an": "720976",
-  "lieu_naissance": "Deshaies (Guadeloupe)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Max Mathiasin",
-  "nom_circo": "Guadeloupe",
-  "nom_de_famille": "Mathiasin",
-  "num_circo": 3,
-  "num_deptmt": "971",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "197",
-  "prenom": "Max",
-  "profession": "Fonction publique territoriale",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/MaxMathiasin"
-  ],
-  "slug": "max-mathiasin",
   "twitter": "MaxMathiasin",
-  "twitter_created_at": "2012-05-17T17:41:08",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 17 17:41:08 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la Guadeloupe/ 3 ème Circonscription/ Membre de la commission des affaires économiques\n@AssembleeNat",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1,
-   "follow_request_sent": false,
-   "followers_count": 1238,
-   "following": false,
-   "friends_count": 13,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 582980672,
-   "id_str": "582980672",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 67,
-   "location": "",
-   "name": "Mathiasin",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/582980672/1559665421",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1135949749461368832/iX33_4ZE_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135949749461368832/iX33_4ZE_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "MaxMathiasin",
-   "statuses_count": 2038,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la Guadeloupe/ 3 ème Circonscription/ Membre de la commission des affaires économiques @AssembleeNat",
-  "twitter_favourites": 1,
-  "twitter_followers": 1238,
-  "twitter_following": 13,
-  "twitter_id": 582980672,
-  "twitter_listed": 67,
-  "twitter_name": "Mathiasin",
-  "twitter_protected": false,
-  "twitter_tweets": 2038,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720976",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720976",
-  "url_nosdeputes": "https://www.nosdeputes.fr/max-mathiasin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/max-mathiasin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720976"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Max-Mathiasin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720976",
@@ -426,9 +302,9 @@
   "id": "582980672",
   "name": "Mathiasin",
   "public_metrics": {
-   "followers_count": 1239,
+   "followers_count": 1244,
    "following_count": 13,
-   "listed_count": 66,
+   "listed_count": 0,
    "tweet_count": 2038
   },
   "username": "MaxMathiasin"

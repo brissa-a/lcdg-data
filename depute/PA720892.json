@@ -55,137 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Lorraine Champagne de Labriolle"
-   },
-   {
-    "collaborateur": "M. Helmi M'Rabet"
-   },
-   {
-    "collaborateur": "Mme Lynda-May Azibi"
-   },
-   {
-    "collaborateur": "Mme Rim Yehya"
-   }
-  ],
-  "date_naissance": "1989-01-15",
-  "emails": [
-   {
-    "email": "mathilde.panot@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 348,
-  "id_an": "720892",
-  "lieu_naissance": "Tours (Indre-et-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Mathilde Panot",
-  "nom_circo": "Val-de-Marne",
-  "nom_de_famille": "Panot",
-  "num_circo": 10,
-  "num_deptmt": "94",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "604",
-  "prenom": "Mathilde",
-  "profession": "Coordinatrice de projets associatifs",
-  "sexe": "F",
-  "sites_web": [
-   "https://lafranceinsoumise.fr",
-   "https://twitter.com/mathildepanot",
-   "https://fr-fr.facebook.com/MathildePanotFI"
-  ],
-  "slug": "mathilde-panot",
   "twitter": "mathildepanot",
-  "twitter_created_at": "2014-03-03T10:09:27",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Mar 03 10:09:27 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée du 94 • Ivry-sur-Seine • Vitry-sur-Seine • Kremlin-Bicêtre • Gentilly • Vice-présidente du groupe @FiAssemblee à l’Assemblée nationale.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "lafranceinsoumise.fr",
-       "expanded_url": "https://lafranceinsoumise.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Ys3rvu0J1p"
-      }
-     ]
-    }
-   },
-   "favourites_count": 9772,
-   "follow_request_sent": false,
-   "followers_count": 47537,
-   "following": false,
-   "friends_count": 1322,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2370188558,
-   "id_str": "2370188558",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 284,
-   "location": "Ivry-sur-Seine, France",
-   "name": "Mathilde Panot",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2370188558/1604924873",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1297978097577472005/BTqDSTcL_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297978097577472005/BTqDSTcL_normal.jpg",
-   "profile_link_color": "E23D22",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MathildePanot",
-   "statuses_count": 11114,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Ys3rvu0J1p",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du 94 • Ivry-sur-Seine • Vitry-sur-Seine • Kremlin-Bicêtre • Gentilly • Vice-présidente du groupe @FiAssemblee à l’Assemblée nationale.",
-  "twitter_favourites": 9772,
-  "twitter_followers": 47537,
-  "twitter_following": 1322,
-  "twitter_id": 2370188558,
-  "twitter_listed": 284,
-  "twitter_name": "Mathilde Panot",
-  "twitter_protected": false,
-  "twitter_tweets": 11114,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720892",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720892",
-  "url_nosdeputes": "https://www.nosdeputes.fr/mathilde-panot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/mathilde-panot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720892"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Mathilde-Panot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720892",
@@ -1058,10 +929,10 @@
   "id": "2370188558",
   "name": "Mathilde Panot",
   "public_metrics": {
-   "followers_count": 47560,
-   "following_count": 1323,
-   "listed_count": 284,
-   "tweet_count": 11116
+   "followers_count": 47666,
+   "following_count": 1326,
+   "listed_count": 286,
+   "tweet_count": 11121
   },
   "username": "MathildePanot"
  },

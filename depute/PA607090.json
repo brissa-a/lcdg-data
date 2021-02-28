@@ -229,153 +229,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 12 Avenue Clément Charbonnier 43000 Le-Puy-en-Velay"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Lavoûte-Chilhac / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Auvergne-Rhône-Alpes / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anaïs Roussange-Chaillou"
-   },
-   {
-    "collaborateur": "Mme Pauline Courtois"
-   },
-   {
-    "collaborateur": "Mme Céline Ravel"
-   },
-   {
-    "collaborateur": "M. Omar Ben Abderahmen"
-   },
-   {
-    "collaborateur": "Mme Marine Michalik"
-   }
-  ],
-  "date_naissance": "1969-10-22",
-  "emails": [
-   {
-    "email": "jean-pierre.vigier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 202,
-  "id_an": "607090",
-  "lieu_naissance": "Brioude (Haute-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-Pierre Vigier",
-  "nom_circo": "Haute-Loire",
-  "nom_de_famille": "Vigier",
-  "num_circo": 2,
-  "num_deptmt": "43",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "54",
-  "prenom": "Jean-Pierre",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jpvigier.fr",
-   "http://facebook.com/VigierJP",
-   "https://twitter.com/j_pVigier"
-  ],
-  "slug": "jean-pierre-vigier",
   "twitter": "j_pVigier",
-  "twitter_created_at": "2015-10-15T20:40:33",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 15 20:40:33 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de Haute-Loire. Conseiller régional Auvergne-Rhône-Alpes. Membre du Bureau Politique LR. Ruralité/Agriculture/Aménagement du Territoire !",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/VigierJP",
-       "expanded_url": "http://facebook.com/VigierJP",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/AFZyyMYIP4"
-      }
-     ]
-    }
-   },
-   "favourites_count": 21,
-   "follow_request_sent": false,
-   "followers_count": 1879,
-   "following": false,
-   "friends_count": 1079,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 3906442118,
-   "id_str": "3906442118",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 82,
-   "location": "Haute-Loire, Auvergne",
-   "name": "Jean-Pierre Vigier",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3906442118/1521052042",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1115610769033449472/0l002EoF_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115610769033449472/0l002EoF_normal.png",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "J_PVigier",
-   "statuses_count": 215,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/AFZyyMYIP4",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de Haute-Loire. Conseiller régional Auvergne-Rhône-Alpes. Membre du Bureau Politique LR. Ruralité/Agriculture/Aménagement du Territoire !",
-  "twitter_favourites": 21,
-  "twitter_followers": 1879,
-  "twitter_following": 1079,
-  "twitter_id": 3906442118,
-  "twitter_listed": 82,
-  "twitter_name": "Jean-Pierre Vigier",
-  "twitter_protected": false,
-  "twitter_tweets": 215,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607090",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607090",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-pierre-vigier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-pierre-vigier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607090"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Pierre-Vigier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607090",
@@ -723,7 +578,7 @@
   "id": "3906442118",
   "name": "Jean-Pierre Vigier",
   "public_metrics": {
-   "followers_count": 1882,
+   "followers_count": 1885,
    "following_count": 1079,
    "listed_count": 82,
    "tweet_count": 215

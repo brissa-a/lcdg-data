@@ -52,144 +52,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.74.23"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "23/04/2018 /  / "
-   },
-   {
-    "mandat": "21/06/2017 / 02/02/2018 / annulation de l'élection sur décision du conseil constitutionnel"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Virginie Viau"
-   },
-   {
-    "collaborateur": "Mme Bérénice Mottelay"
-   },
-   {
-    "collaborateur": "Mme Jeanne Lagabrielle"
-   },
-   {
-    "collaborateur": "Mme Mathilde Archambault"
-   },
-   {
-    "collaborateur": "M. Yann Saillard"
-   }
-  ],
-  "date_naissance": "1971-08-10",
-  "emails": [
-   {
-    "email": "samantha.cazebonne@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 233,
-  "id_an": "721166",
-  "lieu_naissance": "La Rochelle (Charente-Maritime)",
-  "mandat_debut": "2018-04-23",
-  "nb_mandats": 1,
-  "nom": "Samantha Cazebonne",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "Cazebonne",
-  "num_circo": 5,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "399",
-  "prenom": "Samantha",
-  "profession": "Profession rattachée à l'enseignement",
-  "sexe": "F",
-  "sites_web": [
-   "http://samantha-cazebonne.com",
-   "https://twitter.com/scazebonne",
-   "http://www.samanthacazebonne.com",
-   "http://samanthacazebonne.en-marche.fr"
-  ],
-  "slug": "samantha-cazebonne",
   "twitter": "scazebonne",
-  "twitter_created_at": "2010-11-12T09:40:07",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Nov 12 09:40:07 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée 5e circo FDE 🇪🇸🇵🇹🇦🇩🇲🇨🇫🇷 en mission sur la protection des espèces en danger, trafic international d’animaux, biodiversité 🦏🦒🐾☘️🌳",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "samantha-cazebonne.com",
-       "expanded_url": "https://www.samantha-cazebonne.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/00kJIVxGQu"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4110,
-   "follow_request_sent": false,
-   "followers_count": 10503,
-   "following": false,
-   "friends_count": 2979,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 214823261,
-   "id_str": "214823261",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 126,
-   "location": "Palma de Majorque, Espagne",
-   "name": "Samantha Cazebonne",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/214823261/1602927882",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1136327379633053696/m0bgn252_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136327379633053696/m0bgn252_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "scazebonne",
-   "statuses_count": 2437,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/00kJIVxGQu",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée 5e circo FDE 🇪🇸🇵🇹🇦🇩🇲🇨🇫🇷 en mission sur la protection des espèces en danger, trafic international d’animaux, biodiversité 🦏🦒🐾☘️🌳",
-  "twitter_favourites": 4110,
-  "twitter_followers": 10503,
-  "twitter_following": 2979,
-  "twitter_id": 214823261,
-  "twitter_listed": 126,
-  "twitter_name": "Samantha Cazebonne",
-  "twitter_protected": false,
-  "twitter_tweets": 2437,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721166",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721166",
-  "url_nosdeputes": "https://www.nosdeputes.fr/samantha-cazebonne",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/samantha-cazebonne/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721166"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Samantha-Cazebonne",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721166",
@@ -540,10 +404,10 @@
   "id": "214823261",
   "name": "Samantha Cazebonne",
   "public_metrics": {
-   "followers_count": 10508,
-   "following_count": 2979,
-   "listed_count": 129,
-   "tweet_count": 2438
+   "followers_count": 10500,
+   "following_count": 2978,
+   "listed_count": 128,
+   "tweet_count": 2441
   },
   "username": "scazebonne"
  },

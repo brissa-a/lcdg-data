@@ -53,134 +53,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.51.76"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Eric Fallourd"
-   },
-   {
-    "collaborateur": "Mme Laure Bourdon"
-   },
-   {
-    "collaborateur": "M. Abel Hermel"
-   }
-  ],
-  "date_naissance": "1978-02-11",
-  "emails": [
-   {
-    "email": "hugues.renson@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 370,
-  "id_an": "721824",
-  "lieu_naissance": "Paris 15 (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Hugues Renson",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Renson",
-  "num_circo": 13,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "416",
-  "prenom": "Hugues",
-  "profession": "Cadre supérieur (entreprises publiques)",
-  "sexe": "H",
-  "sites_web": [
-   "http://huguesrenson.fr",
-   "https://twitter.com/huguesrenson",
-   "https://fr-fr.facebook.com/HuguesRensonDepute"
-  ],
-  "slug": "hugues-renson",
   "twitter": "huguesrenson",
-  "twitter_created_at": "2012-07-19T19:13:38",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jul 19 19:13:38 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Vice-Président de l'Assemblée Nationale - Député #LREM - 13eme circonscription de Paris #circo7513 #Paris15 - Commission des affaires étrangères - Chiraquien",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "huguesrenson.fr",
-       "expanded_url": "http://huguesrenson.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/JF2Chjpp1x"
-      }
-     ]
-    }
-   },
-   "favourites_count": 16689,
-   "follow_request_sent": false,
-   "followers_count": 20092,
-   "following": false,
-   "friends_count": 1925,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 705617755,
-   "id_str": "705617755",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 246,
-   "location": "Paris",
-   "name": "Hugues Renson",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/705617755/1563263421",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1141039491630735360/S4-mN4WD_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141039491630735360/S4-mN4WD_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "huguesrenson",
-   "statuses_count": 4545,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/JF2Chjpp1x",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Vice-Président de l'Assemblée Nationale - Député #LREM - 13eme circonscription de Paris #circo7513 #Paris15 - Commission des affaires étrangères - Chiraquien",
-  "twitter_favourites": 16689,
-  "twitter_followers": 20092,
-  "twitter_following": 1925,
-  "twitter_id": 705617755,
-  "twitter_listed": 246,
-  "twitter_name": "Hugues Renson",
-  "twitter_protected": false,
-  "twitter_tweets": 4545,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721824",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721824",
-  "url_nosdeputes": "https://www.nosdeputes.fr/hugues-renson",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/hugues-renson/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721824"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Hugues-Renson",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721824",
@@ -1027,10 +901,10 @@
   "id": "705617755",
   "name": "Hugues Renson",
   "public_metrics": {
-   "followers_count": 20108,
+   "followers_count": 20137,
    "following_count": 1925,
    "listed_count": 247,
-   "tweet_count": 4544
+   "tweet_count": 4545
   },
   "username": "huguesrenson"
  },

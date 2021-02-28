@@ -61,152 +61,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "44 Avenue Jean Jaurès 13700 Marignane"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pays-d'Aix-en-Provence / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Sausset-les-Pins / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Maxime Torrente"
-   },
-   {
-    "collaborateur": "M. Nicolas Caen-Duplissy"
-   },
-   {
-    "collaborateur": "Mme Sihem Ciravolo"
-   },
-   {
-    "collaborateur": "M. Lionel Modrzyk"
-   }
-  ],
-  "date_naissance": "1965-07-21",
-  "emails": [
-   {
-    "email": "eric.diard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 362,
-  "id_an": "267440",
-  "lieu_naissance": "Marseille (Bouches-du-Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Éric Diard",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Diard",
-  "num_circo": 12,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "15",
-  "prenom": "Éric",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/DiardEric",
-   "https://fr-fr.facebook.com/eric.diard.3"
-  ],
-  "slug": "eric-diard",
   "twitter": "DiardEric",
-  "twitter_created_at": "2011-02-15T10:40:13",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Feb 15 10:40:13 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Avocat, Député des Bouches-du-Rhône @AssembleeNat - @AN_ComLois 🇫🇷🏛rapporteur mission d’information les services publics face à la radicalisation",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267440",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/F6YEYc0yY6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1191,
-   "follow_request_sent": false,
-   "followers_count": 3698,
-   "following": false,
-   "friends_count": 571,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 252514946,
-   "id_str": "252514946",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 95,
-   "location": "Sausset-les-Pins, France",
-   "name": "Eric Diard",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/252514946/1598524227",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1162386749403860992/jXLH9fcX_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162386749403860992/jXLH9fcX_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DiardEric",
-   "statuses_count": 2467,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/F6YEYc0yY6",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Avocat, Député des Bouches-du-Rhône @AssembleeNat - @AN_ComLois 🇫🇷🏛rapporteur mission d’information les services publics face à la radicalisation",
-  "twitter_favourites": 1191,
-  "twitter_followers": 3698,
-  "twitter_following": 571,
-  "twitter_id": 252514946,
-  "twitter_listed": 95,
-  "twitter_name": "Eric Diard",
-  "twitter_protected": false,
-  "twitter_tweets": 2467,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267440",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267440",
-  "url_nosdeputes": "https://www.nosdeputes.fr/eric-diard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/eric-diard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267440"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Éric-Diard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267440",
@@ -684,7 +540,7 @@
    "followers_count": 3698,
    "following_count": 571,
    "listed_count": 94,
-   "tweet_count": 2475
+   "tweet_count": 2481
   },
   "username": "DiardEric"
  },

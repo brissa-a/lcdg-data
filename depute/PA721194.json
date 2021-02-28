@@ -55,142 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Ile-de-France / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aline Durand"
-   },
-   {
-    "collaborateur": "Mme Anne-Céline Guihéneuf"
-   },
-   {
-    "collaborateur": "M. Etienne Lesoeur"
-   }
-  ],
-  "date_naissance": "1963-05-18",
-  "emails": [
-   {
-    "email": "frederique.dumas@assemblee-nationale.fr"
-   },
-   {
-    "email": "frederique.dumas@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 459,
-  "id_an": "721194",
-  "lieu_naissance": "Paris 20ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Frédérique Dumas",
-  "nom_circo": "Hauts-de-Seine",
-  "nom_de_famille": "Dumas",
-  "num_circo": 13,
-  "num_deptmt": "92",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "214",
-  "prenom": "Frédérique",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.frederiquedumas.fr",
-   "http://www.frederiquedumas2017.fr",
-   "https://twitter.com/dumasfrederique",
-   "https://fr-fr.facebook.com/FrederiqueDumasLREM"
-  ],
-  "slug": "frederique-dumas",
   "twitter": "dumasfrederique",
-  "twitter_created_at": "2015-09-25T16:19:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Sep 25 16:19:37 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la 13ème circonscription du 92 #Libertés&Territoires. Commission Affaires étrangères et Affaires Européennes. Membre d’IPAC #Hydrogène #Afrique",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "frederiquedumas.fr",
-       "expanded_url": "http://www.frederiquedumas.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/a92ueOafyl"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5603,
-   "follow_request_sent": false,
-   "followers_count": 9333,
-   "following": false,
-   "friends_count": 2477,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 3772780954,
-   "id_str": "3772780954",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 151,
-   "location": "@VilleAntony",
-   "name": "Frédérique Dumas",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3772780954/1510162678",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/868897473594621952/uWUMTnol_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/868897473594621952/uWUMTnol_normal.jpg",
-   "profile_link_color": "3B94D9",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "DumasFrederique",
-   "statuses_count": 6062,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/a92ueOafyl",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 13ème circonscription du 92 #Libertés&Territoires. Commission Affaires étrangères et Affaires Européennes. Membre d’IPAC #Hydrogène #Afrique",
-  "twitter_favourites": 5603,
-  "twitter_followers": 9333,
-  "twitter_following": 2477,
-  "twitter_id": 3772780954,
-  "twitter_listed": 151,
-  "twitter_name": "Frédérique Dumas",
-  "twitter_protected": false,
-  "twitter_tweets": 6062,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721194",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721194",
-  "url_nosdeputes": "https://www.nosdeputes.fr/frederique-dumas",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/frederique-dumas/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721194"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Frédérique-Dumas",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721194",
@@ -880,10 +746,10 @@
   "id": "3772780954",
   "name": "Frédérique Dumas",
   "public_metrics": {
-   "followers_count": 9339,
-   "following_count": 2477,
-   "listed_count": 151,
-   "tweet_count": 6062
+   "followers_count": 9361,
+   "following_count": 2495,
+   "listed_count": 150,
+   "tweet_count": 6072
   },
   "username": "DumasFrederique"
  },

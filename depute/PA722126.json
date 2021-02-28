@@ -111,137 +111,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Audrey Voisin"
-   },
-   {
-    "collaborateur": "Mme Manon Esther Hervieu"
-   },
-   {
-    "collaborateur": "M. Pierre Fougereau"
-   },
-   {
-    "collaborateur": "Mme Sophie Trilles"
-   }
-  ],
-  "date_naissance": "1986-03-30",
-  "emails": [
-   {
-    "email": "guillaume.chiche@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 318,
-  "id_an": "722126",
-  "lieu_naissance": "Niort (Deux-Sèvres)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Guillaume Chiche",
-  "nom_circo": "Deux-Sèvres",
-  "nom_de_famille": "Chiche",
-  "num_circo": 1,
-  "num_deptmt": "79",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "634",
-  "prenom": "Guillaume",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://guillaumechiche.fr",
-   "https://twitter.com/GuillaumeChiche",
-   "https://fr-fr.facebook.com/guillaume.chiche"
-  ],
-  "slug": "guillaume-chiche",
   "twitter": "GuillaumeChiche",
-  "twitter_created_at": "2017-05-15T21:17:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 15 21:17:37 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député des Deux-Sèvres | Membre de la @AN_AfSoc et de la @AN_DroitsFemmes à l'@AssembleeNat | Membre du bureau et Porte-parole du parti @NDemocrates_ ✊",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "guillaumechiche.fr",
-       "expanded_url": "http://guillaumechiche.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/nBJGeitSAB"
-      }
-     ]
-    }
-   },
-   "favourites_count": 10978,
-   "follow_request_sent": false,
-   "followers_count": 9459,
-   "following": false,
-   "friends_count": 2664,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 864228297613480000,
-   "id_str": "864228297613479938",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 152,
-   "location": "Deux-Sèvres, Poitou-Charentes",
-   "name": "Guillaume Chiche",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864228297613479938/1608172562",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1177647034968498176/gX8QQpcl_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177647034968498176/gX8QQpcl_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "GuillaumeChiche",
-   "statuses_count": 6584,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/nBJGeitSAB",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Deux-Sèvres | Membre de la @AN_AfSoc et de la @AN_DroitsFemmes à l'@AssembleeNat | Membre du bureau et Porte-parole du parti @NDemocrates_ ✊",
-  "twitter_favourites": 10978,
-  "twitter_followers": 9459,
-  "twitter_following": 2664,
-  "twitter_id": 864228297613480000,
-  "twitter_listed": 152,
-  "twitter_name": "Guillaume Chiche",
-  "twitter_protected": false,
-  "twitter_tweets": 6584,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722126",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722126",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guillaume-chiche",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guillaume-chiche/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722126"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guillaume-Chiche",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722126",
@@ -708,10 +579,10 @@
   "id": "864228297613479938",
   "name": "Guillaume Chiche",
   "public_metrics": {
-   "followers_count": 9463,
-   "following_count": 2666,
+   "followers_count": 9490,
+   "following_count": 2670,
    "listed_count": 152,
-   "tweet_count": 6585
+   "tweet_count": 6598
   },
   "username": "GuillaumeChiche"
  },

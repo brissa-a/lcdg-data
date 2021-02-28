@@ -60,136 +60,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Antonio Rodriguez"
-   },
-   {
-    "collaborateur": "M. Hervé Magon de la Giclais"
-   },
-   {
-    "collaborateur": "Mme Mathilde Guinet"
-   },
-   {
-    "collaborateur": "M. Florian Leclercq"
-   }
-  ],
-  "date_naissance": "1957-12-12",
-  "emails": [
-   {
-    "email": "pierre.cabare@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 289,
-  "id_an": "719496",
-  "lieu_naissance": "Toulouse (Haute-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Pierre Cabaré",
-  "nom_circo": "Haute-Garonne",
-  "nom_de_famille": "Cabaré",
-  "num_circo": 1,
-  "num_deptmt": "31",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "549",
-  "prenom": "Pierre",
-  "profession": "Artisan",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.pierrecabare.com",
-   "https://twitter.com/DeputeCabareP"
-  ],
-  "slug": "pierre-cabare",
   "twitter": "DeputeCabareP",
-  "twitter_created_at": "2017-07-12T08:20:49",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jul 12 08:20:49 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député LaREM 1ère circonscription de Haute Garonne / Membre Commission Affaires étrangères /Prés GA Kasakstan /membre DDF/ Co-prés. GE aéronautique et spatial",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "pierrecabare.com",
-       "expanded_url": "http://www.pierrecabare.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/TrJhNsTFFk"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3015,
-   "follow_request_sent": false,
-   "followers_count": 3275,
-   "following": false,
-   "friends_count": 3636,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 885051305835802600,
-   "id_str": "885051305835802625",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 80,
-   "location": "",
-   "name": "Pierre Cabaré",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/885051305835802625/1582971617",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1232989558133940225/i4kq9ttH_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232989558133940225/i4kq9ttH_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DeputeCabareP",
-   "statuses_count": 2707,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/TrJhNsTFFk",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député LaREM 1ère circonscription de Haute Garonne / Membre Commission Affaires étrangères /Prés GA Kasakstan /membre DDF/ Co-prés. GE aéronautique et spatial",
-  "twitter_favourites": 3015,
-  "twitter_followers": 3275,
-  "twitter_following": 3636,
-  "twitter_id": 885051305835802600,
-  "twitter_listed": 80,
-  "twitter_name": "Pierre Cabaré",
-  "twitter_protected": false,
-  "twitter_tweets": 2707,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719496",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719496",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pierre-cabare",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pierre-cabare/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719496"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pierre-Cabaré",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719496",
@@ -897,7 +769,7 @@
    "followers_count": 3275,
    "following_count": 3635,
    "listed_count": 80,
-   "tweet_count": 2708
+   "tweet_count": 2714
   },
   "username": "DeputeCabareP"
  },

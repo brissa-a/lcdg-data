@@ -108,134 +108,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 101 Rue de l'Université 75007 Paris Téléphone : 01 40 63 71 48"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "30/06/2014 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Quentin Dellong"
-   },
-   {
-    "collaborateur": "Mme Poehei Morgant"
-   },
-   {
-    "collaborateur": "Mme France Durocher"
-   },
-   {
-    "collaborateur": "Mme Tiavaru George"
-   },
-   {
-    "collaborateur": "Mme Philippine Dunan"
-   }
-  ],
-  "date_naissance": "1975-05-10",
-  "emails": [
-   {
-    "email": "maina.sage@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 299,
-  "id_an": "702052",
-  "lieu_naissance": "Papeete (Polynésie Française)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Maina Sage",
-  "nom_circo": "Polynésie Française",
-  "nom_de_famille": "Sage",
-  "num_circo": 1,
-  "num_deptmt": "987",
-  "parti_ratt_financier": "Tapura Huiraatira",
-  "place_en_hemicycle": "141",
-  "prenom": "Maina",
-  "profession": "Consultant en communication",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.msage-an.fr",
-   "http://www.mainasage.fr",
-   "https://twitter.com/MainaSage",
-   "https://fr-fr.facebook.com/MainaSageDeputee"
-  ],
-  "slug": "maina-sage",
   "twitter": "MainaSage",
-  "twitter_created_at": "2014-10-30T15:35:35",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 30 15:35:35 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🏛 Députée de la #Polynésie française | Commission du Dvpt Durable, Amgt, Transport, Énergie | Deleg @AN_OutreMers",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 3617,
-   "follow_request_sent": false,
-   "followers_count": 2163,
-   "following": false,
-   "friends_count": 1219,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2851523481,
-   "id_str": "2851523481",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 154,
-   "location": "Paris",
-   "name": "Maina Sage",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2851523481/1605257133",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1327344941446656006/ED6z95p__normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327344941446656006/ED6z95p__normal.jpg",
-   "profile_link_color": "ABB8C2",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MainaSage",
-   "statuses_count": 5332,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🏛 Députée de la #Polynésie française | Commission du Dvpt Durable, Amgt, Transport, Énergie | Deleg @AN_OutreMers",
-  "twitter_favourites": 3617,
-  "twitter_followers": 2163,
-  "twitter_following": 1219,
-  "twitter_id": 2851523481,
-  "twitter_listed": 154,
-  "twitter_name": "Maina Sage",
-  "twitter_protected": false,
-  "twitter_tweets": 5332,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA702052",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA702052",
-  "url_nosdeputes": "https://www.nosdeputes.fr/maina-sage",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/maina-sage/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA702052"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Maina-Sage",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA702052",
@@ -692,10 +566,10 @@
   "id": "2851523481",
   "name": "Maina Sage",
   "public_metrics": {
-   "followers_count": 2163,
-   "following_count": 1220,
-   "listed_count": 155,
-   "tweet_count": 5334
+   "followers_count": 2168,
+   "following_count": 1222,
+   "listed_count": 154,
+   "tweet_count": 5337
   },
   "username": "MainaSage"
  },

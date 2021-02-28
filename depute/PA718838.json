@@ -201,146 +201,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire BP 50013 07201 Aubenas Cedex Téléphone : 04 75 39 73 07"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Maryline Tindille"
-   },
-   {
-    "collaborateur": "M. Corentin Marron"
-   },
-   {
-    "collaborateur": "Mme Agata Wozniak"
-   },
-   {
-    "collaborateur": "M. Tristan Facchin"
-   },
-   {
-    "collaborateur": "Mme Brigitte Bauland"
-   },
-   {
-    "collaborateur": "M. Fabrice Layer"
-   }
-  ],
-  "date_naissance": "1968-04-02",
-  "emails": [
-   {
-    "email": "fabrice.brun@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 512,
-  "id_an": "718838",
-  "lieu_naissance": "Avignon (Vaucluse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Fabrice Brun",
-  "nom_circo": "Ardèche",
-  "nom_de_famille": "Brun",
-  "num_circo": 3,
-  "num_deptmt": "07",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "137",
-  "prenom": "Fabrice",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://fabricebrun.fr",
-   "https://twitter.com/FabriceBrun",
-   "https://fr-fr.facebook.com/FabriceBrunArdeche"
-  ],
-  "slug": "fabrice-brun",
   "twitter": "FabriceBrun",
-  "twitter_created_at": "2015-01-26T10:39:02",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Jan 26 10:39:02 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l’Ardèche - Commission des Finances",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fabricebrun.fr",
-       "expanded_url": "https://fabricebrun.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/oOZPtpGnon"
-      }
-     ]
-    }
-   },
-   "favourites_count": 691,
-   "follow_request_sent": false,
-   "followers_count": 2102,
-   "following": false,
-   "friends_count": 302,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 2999458558,
-   "id_str": "2999458558",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 82,
-   "location": "Aubenas, France",
-   "name": "Fabrice Brun",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2999458558/1498728411",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1230488065053003778/uqnHZamY_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230488065053003778/uqnHZamY_normal.jpg",
-   "profile_link_color": "183152",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "FabriceBrun",
-   "statuses_count": 1708,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/oOZPtpGnon",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l’Ardèche - Commission des Finances",
-  "twitter_favourites": 691,
-  "twitter_followers": 2102,
-  "twitter_following": 302,
-  "twitter_id": 2999458558,
-  "twitter_listed": 82,
-  "twitter_name": "Fabrice Brun",
-  "twitter_protected": false,
-  "twitter_tweets": 1708,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718838",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718838",
-  "url_nosdeputes": "https://www.nosdeputes.fr/fabrice-brun",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/fabrice-brun/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718838"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabrice-Brun",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718838",
@@ -878,10 +740,10 @@
   "id": "2999458558",
   "name": "Fabrice Brun",
   "public_metrics": {
-   "followers_count": 2104,
+   "followers_count": 2105,
    "following_count": 302,
    "listed_count": 82,
-   "tweet_count": 1709
+   "tweet_count": 1710
   },
   "username": "FabriceBrun"
  },

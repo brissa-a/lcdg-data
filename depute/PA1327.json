@@ -212,161 +212,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "4 Place de l'Hôtel de Ville 36400 La Châtre Téléphone : 02 54 48 02 47"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 30/04/2004 / nomination comme membre du gouvernement"
-   },
-   {
-    "mandat": "02/04/1993 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Centre-Val de Loire / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Mahaut de Casaban"
-   },
-   {
-    "collaborateur": "Mme Juliette Lafont"
-   },
-   {
-    "collaborateur": "M. Alexandre Leonardi"
-   },
-   {
-    "collaborateur": "M. Hubert Chabenat"
-   },
-   {
-    "collaborateur": "Mme Alix Fruchon"
-   },
-   {
-    "collaborateur": "Mme Bénédicte Dénaud"
-   }
-  ],
-  "date_naissance": "1961-02-17",
-  "emails": [
-   {
-    "email": "nicolas.forissier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 129,
-  "id_an": "1327",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Nicolas Forissier",
-  "nom_circo": "Indre",
-  "nom_de_famille": "Forissier",
-  "num_circo": 2,
-  "num_deptmt": "36",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "92",
-  "prenom": "Nicolas",
-  "profession": "Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/N_Forissier",
-   "https://www.facebook.com/nicolas.forissier"
-  ],
-  "slug": "nicolas-forissier",
   "twitter": "N_Forissier",
-  "twitter_created_at": "2015-10-01T10:28:32",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 01 10:28:32 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de l'Indre - Ancien ministre - Conseiller Régional",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/nicolas.foriss…",
-       "expanded_url": "https://www.facebook.com/nicolas.forissier",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/DjCyd1pTUf"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1595,
-   "follow_request_sent": false,
-   "followers_count": 2648,
-   "following": false,
-   "friends_count": 1431,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 3832713568,
-   "id_str": "3832713568",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 106,
-   "location": "La Châtre",
-   "name": "Nicolas Forissier",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3832713568/1519225646",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1060549030932082689/lAfPqQ71_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060549030932082689/lAfPqQ71_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "N_Forissier",
-   "statuses_count": 1242,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/DjCyd1pTUf",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Indre - Ancien ministre - Conseiller Régional",
-  "twitter_favourites": 1595,
-  "twitter_followers": 2648,
-  "twitter_following": 1431,
-  "twitter_id": 3832713568,
-  "twitter_listed": 106,
-  "twitter_name": "Nicolas Forissier",
-  "twitter_protected": false,
-  "twitter_tweets": 1242,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1327",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1327",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nicolas-forissier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nicolas-forissier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1327"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nicolas-Forissier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1327",
@@ -722,8 +569,8 @@
   "id": "3832713568",
   "name": "Nicolas Forissier",
   "public_metrics": {
-   "followers_count": 2650,
-   "following_count": 1431,
+   "followers_count": 2655,
+   "following_count": 1432,
    "listed_count": 106,
    "tweet_count": 1242
   },

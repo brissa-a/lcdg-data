@@ -98,124 +98,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.64.42"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sophie Barbier"
-   },
-   {
-    "collaborateur": "M. Simon Bischoff"
-   },
-   {
-    "collaborateur": "Mme Clémence Lisambert"
-   }
-  ],
-  "date_naissance": "1972-11-20",
-  "emails": [
-   {
-    "email": "sophie.beaudouin-hubiere@assemblee-nationale.fr"
-   },
-   {
-    "email": "sophie.beaudouin-hubiere@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 482,
-  "id_an": "722170",
-  "lieu_naissance": "Toulouse (Haute-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sophie Beaudouin-Hubiere",
-  "nom_circo": "Haute-Vienne",
-  "nom_de_famille": "Beaudouin-Hubiere",
-  "num_circo": 1,
-  "num_deptmt": "87",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "567",
-  "prenom": "Sophie",
-  "profession": null,
-  "sexe": "F",
-  "sites_web": [
-   "http://sophiebeaudouin.fr",
-   "https://twitter.com/BeaudouinSo",
-   "https://fr-fr.facebook.com/SophieBeaudouinHubiere"
-  ],
-  "slug": "sophie-beaudouin-hubiere",
   "twitter": "BeaudouinSo",
-  "twitter_created_at": "2017-02-15T16:59:01",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Feb 15 16:59:01 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la Haute-Vienne - Circo8701 ▫️ VP @LaRem_AN Communication Interne & Institutionnelle ;\n\nContrôle & Evaluation, #Simplification",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 2040,
-   "follow_request_sent": false,
-   "followers_count": 4702,
-   "following": false,
-   "friends_count": 602,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 831910700574457900,
-   "id_str": "831910700574457856",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 102,
-   "location": "Limoges, France",
-   "name": "Sophie Beaudouin-H.",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/831910700574457856/1542210420",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1062725079254089728/4iKN1pzL_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062725079254089728/4iKN1pzL_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "BeaudouinSo",
-   "statuses_count": 2078,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la Haute-Vienne - Circo8701 ▫️ VP @LaRem_AN Communication Interne & Institutionnelle ; Contrôle & Evaluation, #Simplification",
-  "twitter_favourites": 2040,
-  "twitter_followers": 4702,
-  "twitter_following": 602,
-  "twitter_id": 831910700574457900,
-  "twitter_listed": 102,
-  "twitter_name": "Sophie Beaudouin-H.",
-  "twitter_protected": false,
-  "twitter_tweets": 2078,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722170",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722170",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sophie-beaudouin-hubiere",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sophie-beaudouin-hubiere/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722170"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sophie-Beaudouin-Hubiere",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722170",
@@ -1419,10 +1303,10 @@
   "id": "831910700574457856",
   "name": "Sophie Beaudouin-H.",
   "public_metrics": {
-   "followers_count": 4706,
-   "following_count": 602,
-   "listed_count": 103,
-   "tweet_count": 2080
+   "followers_count": 4714,
+   "following_count": 603,
+   "listed_count": 102,
+   "tweet_count": 2085
   },
   "username": "BeaudouinSo"
  },

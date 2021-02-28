@@ -64,144 +64,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Casier de la Poste, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Rahaty Binti Tadjidini"
-   },
-   {
-    "collaborateur": "M. Xavier Jaglin"
-   },
-   {
-    "collaborateur": "Mme Samaouia Moussa Kassoumba"
-   },
-   {
-    "collaborateur": "Mme Roukia Moussa"
-   }
-  ],
-  "date_naissance": "1959-03-23",
-  "emails": [
-   {
-    "email": "mansour@mkamardine.fr"
-   },
-   {
-    "email": "mansour.kamardine@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 466,
-  "id_an": "267901",
-  "lieu_naissance": "Sada (Mayotte)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Mansour Kamardine",
-  "nom_circo": "Mayotte",
-  "nom_de_famille": "Kamardine",
-  "num_circo": 2,
-  "num_deptmt": "976",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "98",
-  "prenom": "Mansour",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.republicains.fr",
-   "https://twitter.com/Kamardine_M",
-   "http://www.mansour-kamardine.net",
-   "https://fr-fr.facebook.com/MansourKamardine2017"
-  ],
-  "slug": "mansour-kamardine",
   "twitter": "Kamardine_M",
-  "twitter_created_at": "2018-04-18T17:20:46",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Apr 18 17:20:46 +0000 2018",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Compte officiel du député @lesrepublicains de la 2ème circo Mayotte - Avocat - Membre de la commission des lois - Président du groupe d'amitiés France Comores",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "republicains.fr",
-       "expanded_url": "http://www.republicains.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/mdu7YQLPd6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 777,
-   "follow_request_sent": false,
-   "followers_count": 1507,
-   "following": false,
-   "friends_count": 211,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 986655792089661400,
-   "id_str": "986655792089661440",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 41,
-   "location": "France",
-   "name": "Mansour KAMARDINE - Officiel",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/986655792089661440/1524137865",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/986660490880397325/6DjSvGkV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/986660490880397325/6DjSvGkV_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Kamardine_M",
-   "statuses_count": 719,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/mdu7YQLPd6",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Compte officiel du député @lesrepublicains de la 2ème circo Mayotte - Avocat - Membre de la commission des lois - Président du groupe d'amitiés France Comores",
-  "twitter_favourites": 777,
-  "twitter_followers": 1507,
-  "twitter_following": 211,
-  "twitter_id": 986655792089661400,
-  "twitter_listed": 41,
-  "twitter_name": "Mansour KAMARDINE - Officiel",
-  "twitter_protected": false,
-  "twitter_tweets": 719,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267901",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267901",
-  "url_nosdeputes": "https://www.nosdeputes.fr/mansour-kamardine",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/mansour-kamardine/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267901"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Mansour-Kamardine",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267901",
@@ -471,10 +335,10 @@
   "id": "986655792089661440",
   "name": "Mansour KAMARDINE - Officiel",
   "public_metrics": {
-   "followers_count": 1508,
-   "following_count": 211,
+   "followers_count": 1512,
+   "following_count": 212,
    "listed_count": 41,
-   "tweet_count": 719
+   "tweet_count": 720
   },
   "username": "Kamardine_M"
  },

@@ -62,137 +62,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 63 02"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Rune-Laure Dupont d'Apremont"
-   },
-   {
-    "collaborateur": "M. Abdelghaffar Arrab"
-   },
-   {
-    "collaborateur": "M. Pierre-Alexandre Houver"
-   },
-   {
-    "collaborateur": "Mme Aurélie Taquillain"
-   }
-  ],
-  "date_naissance": "1979-04-05",
-  "emails": [
-   {
-    "email": "florian.bachelier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 121,
-  "id_an": "719770",
-  "lieu_naissance": "Thionville (Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Florian Bachelier",
-  "nom_circo": "Ille-et-Vilaine",
-  "nom_de_famille": "Bachelier",
-  "num_circo": 8,
-  "num_deptmt": "35",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "419",
-  "prenom": "Florian",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.florianbachelier.fr",
-   "https://twitter.com/F_BACHELIER",
-   "https://fr-fr.facebook.com/florianbachelierLREM"
-  ],
-  "slug": "florian-bachelier",
   "twitter": "F_BACHELIER",
-  "twitter_created_at": "2012-04-01T19:04:40",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 01 19:04:40 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député d'Ille-et-Vilaine #LaREM | Premier Questeur de l'Assemblée nationale | Commission Défense nationale",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "florianbachelier.fr",
-       "expanded_url": "https://www.florianbachelier.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/vhLVQZ26RR"
-      }
-     ]
-    }
-   },
-   "favourites_count": 14855,
-   "follow_request_sent": false,
-   "followers_count": 11601,
-   "following": false,
-   "friends_count": 3219,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 542779549,
-   "id_str": "542779549",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 199,
-   "location": "Rennes, France",
-   "name": "Florian Bachelier",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/542779549/1610968408",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1351128554994589698/gOksfg25_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351128554994589698/gOksfg25_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "F_BACHELIER",
-   "statuses_count": 5113,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/vhLVQZ26RR",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député d'Ille-et-Vilaine #LaREM | Premier Questeur de l'Assemblée nationale | Commission Défense nationale",
-  "twitter_favourites": 14855,
-  "twitter_followers": 11601,
-  "twitter_following": 3219,
-  "twitter_id": 542779549,
-  "twitter_listed": 199,
-  "twitter_name": "Florian Bachelier",
-  "twitter_protected": false,
-  "twitter_tweets": 5113,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719770",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719770",
-  "url_nosdeputes": "https://www.nosdeputes.fr/florian-bachelier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/florian-bachelier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719770"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Florian-Bachelier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719770",
@@ -619,10 +490,10 @@
   "id": "542779549",
   "name": "Florian Bachelier",
   "public_metrics": {
-   "followers_count": 11601,
+   "followers_count": 11597,
    "following_count": 3219,
-   "listed_count": 199,
-   "tweet_count": 5113
+   "listed_count": 200,
+   "tweet_count": 5114
   },
   "username": "F_BACHELIER"
  },

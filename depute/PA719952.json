@@ -54,140 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permamence parlementaire 12 Place de l'Hôtel de Ville 42000 Saint-Etienne Télécopie : 04 77 80 95 09 Téléphone : 04 77 42 80 15"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Alla Cecoltan"
-   },
-   {
-    "collaborateur": "Mme Agnès Tixier"
-   },
-   {
-    "collaborateur": "Mme Nina Fabrizi-Racine"
-   },
-   {
-    "collaborateur": "Mme Audrey Lyonnet"
-   }
-  ],
-  "date_naissance": "1967-07-28",
-  "emails": [
-   {
-    "email": "jean-michel.mis@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 514,
-  "id_an": "719952",
-  "lieu_naissance": "Saint-Étienne (Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Michel Mis",
-  "nom_circo": "Loire",
-  "nom_de_famille": "Mis",
-  "num_circo": 2,
-  "num_deptmt": "42",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "430",
-  "prenom": "Jean-Michel",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jeanmichelmis.fr",
-   "https://twitter.com/JeanMichelMIS",
-   "https://fr-fr.facebook.com/jeanmichel.mis"
-  ],
-  "slug": "jean-michel-mis",
   "twitter": "JeanMichelMIS",
-  "twitter_created_at": "2009-06-19T09:57:17",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jun 19 09:57:17 +0000 2009",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #Loire #LaREM_AN #TdP #ComLois Membre @CNNum @CSNUMPOST- VP groupes d’Etudes :#Cybersecurité #SantéNumérique - Auditeur #Cybersécurité @IHEDN @INHESJ",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanmichelmis.fr",
-       "expanded_url": "http://www.jeanmichelmis.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/lpTSPd8Vmt"
-      }
-     ]
-    }
-   },
-   "favourites_count": 23190,
-   "follow_request_sent": false,
-   "followers_count": 5960,
-   "following": false,
-   "friends_count": 2054,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 48664671,
-   "id_str": "48664671",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 176,
-   "location": "Saint-Etienne, France",
-   "name": "Jean-Michel MIS 🇫🇷",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/48664671/1591631887",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1322083875456196608/TQKIGwHv_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322083875456196608/TQKIGwHv_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JeanMichelMIS",
-   "statuses_count": 10671,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/lpTSPd8Vmt",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #Loire #LaREM_AN #TdP #ComLois Membre @CNNum @CSNUMPOST- VP groupes d’Etudes :#Cybersecurité #SantéNumérique - Auditeur #Cybersécurité @IHEDN @INHESJ",
-  "twitter_favourites": 23190,
-  "twitter_followers": 5960,
-  "twitter_following": 2054,
-  "twitter_id": 48664671,
-  "twitter_listed": 176,
-  "twitter_name": "Jean-Michel MIS 🇫🇷",
-  "twitter_protected": false,
-  "twitter_tweets": 10671,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719952",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719952",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-michel-mis",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-michel-mis/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719952"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Michel-Mis",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719952",
@@ -1048,10 +916,10 @@
   "id": "48664671",
   "name": "Jean-Michel MIS 🇫🇷",
   "public_metrics": {
-   "followers_count": 5966,
-   "following_count": 2057,
+   "followers_count": 5990,
+   "following_count": 2059,
    "listed_count": 176,
-   "tweet_count": 10686
+   "tweet_count": 10708
   },
   "username": "JeanMichelMIS"
  },

@@ -77,147 +77,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "4 Rue Jean Jaurès 59860 Bruay-sur-l'Escaut"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Saint-Amand-les-Eaux / Conseil municipal / membre"
-   },
-   {
-    "mandat": "La Porte du Hainaut / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Jean-Jacques Boujot"
-   },
-   {
-    "collaborateur": "M. David Chenel"
-   },
-   {
-    "collaborateur": "M. Laurent Watiez"
-   }
-  ],
-  "date_naissance": "1969-04-16",
-  "emails": [
-   {
-    "email": "contact@rousselfabien.com"
-   },
-   {
-    "email": "fabien.roussel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "GDR",
-  "id": 342,
-  "id_an": "720692",
-  "lieu_naissance": "Béthune (Pas-de-Calais)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Fabien Roussel",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Roussel",
-  "num_circo": 20,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Parti communiste français",
-  "place_en_hemicycle": "590",
-  "prenom": "Fabien",
-  "profession": "Attaché parlementaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://rousselfabien.com",
-   "https://twitter.com/Fabien_Rssl",
-   "https://fr-fr.facebook.com/Roussel2015"
-  ],
-  "slug": "fabien-roussel",
   "twitter": "Fabien_Rssl",
-  "twitter_created_at": "2013-04-03T12:12:25",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Apr 03 12:12:25 +0000 2013",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Secrétaire national du @PCF. Député de la 20ème circonscription du Nord. Élu à la culture de la ville de Saint Amand les Eaux.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "rousselfabien.com",
-       "expanded_url": "http://www.rousselfabien.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/TTJv2ulcvn"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1439,
-   "follow_request_sent": false,
-   "followers_count": 20143,
-   "following": false,
-   "friends_count": 349,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1324449588,
-   "id_str": "1324449588",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 212,
-   "location": "",
-   "name": "Fabien Roussel",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324449588/1602775381",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1316760978177118210/J4pidVIB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316760978177118210/J4pidVIB_normal.jpg",
-   "profile_link_color": "DD2E44",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "Fabien_Rssl",
-   "statuses_count": 4411,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/TTJv2ulcvn",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Secrétaire national du @PCF. Député de la 20ème circonscription du Nord. Élu à la culture de la ville de Saint Amand les Eaux.",
-  "twitter_favourites": 1439,
-  "twitter_followers": 20143,
-  "twitter_following": 349,
-  "twitter_id": 1324449588,
-  "twitter_listed": 212,
-  "twitter_name": "Fabien Roussel",
-  "twitter_protected": false,
-  "twitter_tweets": 4411,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692",
-  "url_nosdeputes": "https://www.nosdeputes.fr/fabien-roussel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/fabien-roussel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabien-Roussel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692",
@@ -752,10 +613,10 @@
   "id": "1324449588",
   "name": "Fabien Roussel",
   "public_metrics": {
-   "followers_count": 20146,
+   "followers_count": 20173,
    "following_count": 349,
    "listed_count": 210,
-   "tweet_count": 4411
+   "tweet_count": 4417
   },
   "username": "Fabien_Rssl"
  },

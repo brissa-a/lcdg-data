@@ -115,137 +115,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "9 Rue Graffan 66300 Thuir Téléphone : 04 68 28 76 38"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Laurence Muguet"
-   },
-   {
-    "collaborateur": "Mme Sarah Pilloy"
-   },
-   {
-    "collaborateur": "Mme Magali Nolibois"
-   }
-  ],
-  "date_naissance": "1976-12-28",
-  "emails": [
-   {
-    "email": "sebastien.cazenove@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 188,
-  "id_an": "720814",
-  "lieu_naissance": "Perpignan (Pyrénées-Orientales)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sébastien Cazenove",
-  "nom_circo": "Pyrénées-Orientales",
-  "nom_de_famille": "Cazenove",
-  "num_circo": 4,
-  "num_deptmt": "66",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "543",
-  "prenom": "Sébastien",
-  "profession": "Fonctionnaire territorial",
-  "sexe": "H",
-  "sites_web": [
-   "http://sebastien-cazenove.org",
-   "https://twitter.com/SCazenove",
-   "https://fr-fr.facebook.com/sebastienCazenove2017"
-  ],
-  "slug": "sebastien-cazenove",
   "twitter": "SCazenove",
-  "twitter_created_at": "2011-12-08T12:41:24",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Dec 08 12:41:24 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député 🇫🇷 Président du groupe d’étude urbanisme de l’AN 🏗🏠 4ème parlementaire originaire de Thuir depuis 1789. Graffan, Noguères, Gregory.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "sebastien-cazenove.org",
-       "expanded_url": "http://www.sebastien-cazenove.org",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/mFWuI1DYCR"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3278,
-   "follow_request_sent": false,
-   "followers_count": 3650,
-   "following": false,
-   "friends_count": 643,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 431569315,
-   "id_str": "431569315",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "",
-   "name": "Sébastien Cazenove",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/431569315/1541720306",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1204425932448182272/r0VseLgY_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204425932448182272/r0VseLgY_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SCazenove",
-   "statuses_count": 1683,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/mFWuI1DYCR",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député 🇫🇷 Président du groupe d’étude urbanisme de l’AN 🏗🏠 4ème parlementaire originaire de Thuir depuis 1789. Graffan, Noguères, Gregory.",
-  "twitter_favourites": 3278,
-  "twitter_followers": 3650,
-  "twitter_following": 643,
-  "twitter_id": 431569315,
-  "twitter_listed": 100,
-  "twitter_name": "Sébastien Cazenove",
-  "twitter_protected": false,
-  "twitter_tweets": 1683,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720814",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720814",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sebastien-cazenove",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sebastien-cazenove/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720814"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sébastien-Cazenove",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720814",
@@ -648,10 +519,10 @@
   "id": "431569315",
   "name": "Sébastien Cazenove",
   "public_metrics": {
-   "followers_count": 3649,
-   "following_count": 643,
+   "followers_count": 3651,
+   "following_count": 642,
    "listed_count": 100,
-   "tweet_count": 1683
+   "tweet_count": 1684
   },
   "username": "SCazenove"
  },

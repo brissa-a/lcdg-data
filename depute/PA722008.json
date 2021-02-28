@@ -99,137 +99,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Adresse postale BP 80427 85504 Les Herbiers Cedex Téléphone : 06 47 84 79 11"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Elie Vinet"
-   },
-   {
-    "collaborateur": "Mme Hélène Courades"
-   },
-   {
-    "collaborateur": "Mme Astrid Engelsen"
-   }
-  ],
-  "date_naissance": "1957-09-06",
-  "emails": [
-   {
-    "email": "martine.leguille-balloy@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 83,
-  "id_an": "722008",
-  "lieu_naissance": "La Guerche (Cher)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Martine Leguille-Balloy",
-  "nom_circo": "Vendée",
-  "nom_de_famille": "Leguille-Balloy",
-  "num_circo": 4,
-  "num_deptmt": "85",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "360",
-  "prenom": "Martine",
-  "profession": "Avocat",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/LeguilleBalloy",
-   "http://www.martineleguilleballoy.fr",
-   "https://fr-fr.facebook.com/LeguilleBalloy"
-  ],
-  "slug": "martine-leguille-balloy",
   "twitter": "LeguilleBalloy",
-  "twitter_created_at": "2017-05-16T07:45:41",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 07:45:41 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée LaRem de #Vendée, 4ème circonscription. \n#agriculture #cheval #ruralité #europe",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "martineleguilleballoy.fr",
-       "expanded_url": "http://www.martineleguilleballoy.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/QaluFH3AuI"
-      }
-     ]
-    }
-   },
-   "favourites_count": 604,
-   "follow_request_sent": false,
-   "followers_count": 2523,
-   "following": false,
-   "friends_count": 1062,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864386355622817800,
-   "id_str": "864386355622817792",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 70,
-   "location": "Les Herbiers, France",
-   "name": "Martine Leguille-Balloy",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864386355622817792/1603954993",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1349476683284418576/q8SF2Wv7_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349476683284418576/q8SF2Wv7_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "LeguilleBalloy",
-   "statuses_count": 986,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/QaluFH3AuI",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée LaRem de #Vendée, 4ème circonscription. #agriculture #cheval #ruralité #europe",
-  "twitter_favourites": 604,
-  "twitter_followers": 2523,
-  "twitter_following": 1062,
-  "twitter_id": 864386355622817800,
-  "twitter_listed": 70,
-  "twitter_name": "Martine Leguille-Balloy",
-  "twitter_protected": false,
-  "twitter_tweets": 986,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722008",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722008",
-  "url_nosdeputes": "https://www.nosdeputes.fr/martine-leguille-balloy",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/martine-leguille-balloy/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722008"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Martine-Leguille-Balloy",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722008",
@@ -833,9 +704,9 @@
   "id": "864386355622817792",
   "name": "Martine Leguille-Balloy",
   "public_metrics": {
-   "followers_count": 2524,
+   "followers_count": 2525,
    "following_count": 1063,
-   "listed_count": 71,
+   "listed_count": 70,
    "tweet_count": 986
   },
   "username": "LeguilleBalloy"

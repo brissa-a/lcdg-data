@@ -112,142 +112,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "4 Rue Georges Clemenceau 90000 Belfort Téléphone : 03 84 22 19 07"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "05/02/2018 /  / "
-   },
-   {
-    "mandat": "21/06/2017 / 08/12/2017 / annulation de l'élection sur décision du conseil constitutionnel"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Belfort / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Grand Belfort /  / vice-président"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Colette Vaud"
-   },
-   {
-    "collaborateur": "M. Nikola Jelicic"
-   },
-   {
-    "collaborateur": "M. Romain Di Vora"
-   },
-   {
-    "collaborateur": "Mme Delphine Mentré"
-   },
-   {
-    "collaborateur": "Mme Aurélie Rousseau"
-   }
-  ],
-  "date_naissance": "1988-05-05",
-  "emails": [
-   {
-    "email": "ian.boucard@assemblee-nationale.fr"
-   },
-   {
-    "email": "ian.boucard@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 109,
-  "id_an": "721816",
-  "lieu_naissance": "Belfort (Territoire de Belfort)",
-  "mandat_debut": "2018-02-05",
-  "nb_mandats": 2,
-  "nom": "Ian Boucard",
-  "nom_circo": "Territoire de Belfort",
-  "nom_de_famille": "Boucard",
-  "num_circo": 1,
-  "num_deptmt": "90",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "39",
-  "prenom": "Ian",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/IanBoucard",
-   "https://fr-fr.facebook.com/IBoucard90"
-  ],
-  "slug": "ian-boucard",
   "twitter": "IanBoucard",
-  "twitter_created_at": "2012-02-08T20:32:59",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Feb 08 20:32:59 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Territoire de Belfort / Conseiller municipal de Belfort / @lesRepublicains",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1933,
-   "follow_request_sent": false,
-   "followers_count": 4125,
-   "following": false,
-   "friends_count": 802,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 486927132,
-   "id_str": "486927132",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 104,
-   "location": "Belfort",
-   "name": "Ian Boucard",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/486927132/1513193281",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1121928389458264065/zRmYDPPs_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121928389458264065/zRmYDPPs_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "IanBoucard",
-   "statuses_count": 1916,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Territoire de Belfort / Conseiller municipal de Belfort / @lesRepublicains",
-  "twitter_favourites": 1933,
-  "twitter_followers": 4125,
-  "twitter_following": 802,
-  "twitter_id": 486927132,
-  "twitter_listed": 104,
-  "twitter_name": "Ian Boucard",
-  "twitter_protected": false,
-  "twitter_tweets": 1916,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721816",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721816",
-  "url_nosdeputes": "https://www.nosdeputes.fr/ian-boucard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/ian-boucard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721816"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Ian-Boucard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721816",
@@ -800,10 +666,10 @@
   "id": "486927132",
   "name": "Ian Boucard",
   "public_metrics": {
-   "followers_count": 4128,
-   "following_count": 803,
+   "followers_count": 4136,
+   "following_count": 804,
    "listed_count": 103,
-   "tweet_count": 1916
+   "tweet_count": 1918
   },
   "username": "IanBoucard"
  },

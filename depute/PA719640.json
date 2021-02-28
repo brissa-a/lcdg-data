@@ -136,129 +136,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bazadais / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Bazas / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Thibault Girou"
-   },
-   {
-    "collaborateur": "Mme Cécile Reix"
-   },
-   {
-    "collaborateur": "M. Samuel Engler"
-   },
-   {
-    "collaborateur": "M. François Dogon"
-   }
-  ],
-  "date_naissance": "1959-09-13",
-  "emails": [
-   {
-    "email": "sophie.mette@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 531,
-  "id_an": "719640",
-  "lieu_naissance": "Montauban (Tarn-et-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Sophie Mette",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "Mette",
-  "num_circo": 9,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "173",
-  "prenom": "Sophie",
-  "profession": null,
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/SophieMette1"
-  ],
-  "slug": "sophie-mette",
   "twitter": "SophieMette1",
-  "twitter_created_at": "2015-11-28T17:02:40",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Nov 28 17:02:40 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la neuvième circonscription de la Gironde",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 3480,
-   "follow_request_sent": false,
-   "followers_count": 1194,
-   "following": false,
-   "friends_count": 437,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 4309055487,
-   "id_str": "4309055487",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 95,
-   "location": "Bazas",
-   "name": "Mette Sophie",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4309055487/1602753294",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1220369620449796099/a5-MqBYW_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220369620449796099/a5-MqBYW_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SophieMette1",
-   "statuses_count": 4711,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée de la neuvième circonscription de la Gironde",
-  "twitter_favourites": 3480,
-  "twitter_followers": 1194,
-  "twitter_following": 437,
-  "twitter_id": 4309055487,
-  "twitter_listed": 95,
-  "twitter_name": "Mette Sophie",
-  "twitter_protected": false,
-  "twitter_tweets": 4711,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719640",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719640",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sophie-mette",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sophie-mette/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719640"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sophie-Mette",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719640",
@@ -1203,10 +1082,10 @@
   "id": "4309055487",
   "name": "Mette Sophie",
   "public_metrics": {
-   "followers_count": 1194,
+   "followers_count": 1195,
    "following_count": 438,
-   "listed_count": 95,
-   "tweet_count": 4711
+   "listed_count": 94,
+   "tweet_count": 4710
   },
   "username": "SophieMette1"
  },

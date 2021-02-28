@@ -119,130 +119,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Grenoble-Alpes Métropole / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Saint-Égrève / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Margaux Retif"
-   },
-   {
-    "collaborateur": "M. Rémi Pagny"
-   },
-   {
-    "collaborateur": "M. Olivier Klasser"
-   }
-  ],
-  "date_naissance": "1958-04-08",
-  "emails": [
-   {
-    "email": "catherine.kamowski@assemblee-nationale.fr"
-   },
-   {
-    "email": "circo3805@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 245,
-  "id_an": "719994",
-  "lieu_naissance": "Valenciennes (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Catherine Kamowski",
-  "nom_circo": "Isère",
-  "nom_de_famille": "Kamowski",
-  "num_circo": 5,
-  "num_deptmt": "38",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "335",
-  "prenom": "Catherine",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "F",
-  "sites_web": [
-   "http://catherinekamowski.fr",
-   "https://twitter.com/CKamowski3805"
-  ],
-  "slug": "catherine-kamowski",
   "twitter": "CKamowski3805",
-  "twitter_created_at": "2017-06-16T20:04:59",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jun 16 20:04:59 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Catherine Kamowski, députée de la 5ème circonscription de l'Isère, LREM.\nMaire de St Egrève de 2002 à 2017 et enseignante d'anglais.",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1321,
-   "follow_request_sent": false,
-   "followers_count": 1244,
-   "following": false,
-   "friends_count": 249,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 875806431731228700,
-   "id_str": "875806431731228676",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 68,
-   "location": "Paris, France",
-   "name": "Catherine Kamowski",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/875806431731228676/1589220204",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/964925983727013888/b4qmPbKc_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/964925983727013888/b4qmPbKc_normal.jpg",
-   "profile_link_color": "981CEB",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "CKamowski3805",
-   "statuses_count": 2830,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Catherine Kamowski, députée de la 5ème circonscription de l'Isère, LREM. Maire de St Egrève de 2002 à 2017 et enseignante d'anglais.",
-  "twitter_favourites": 1321,
-  "twitter_followers": 1244,
-  "twitter_following": 249,
-  "twitter_id": 875806431731228700,
-  "twitter_listed": 68,
-  "twitter_name": "Catherine Kamowski",
-  "twitter_protected": false,
-  "twitter_tweets": 2830,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719994",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719994",
-  "url_nosdeputes": "https://www.nosdeputes.fr/catherine-kamowski",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/catherine-kamowski/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719994"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Catherine-Kamowski",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719994",
@@ -1233,7 +1111,7 @@
   "public_metrics": {
    "followers_count": 1244,
    "following_count": 249,
-   "listed_count": 69,
+   "listed_count": 68,
    "tweet_count": 2830
   },
   "username": "CKamowski3805"

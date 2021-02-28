@@ -55,123 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.69.84"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Emmanuelle Lafargue"
-   },
-   {
-    "collaborateur": "Mme Kenette Bourienne"
-   },
-   {
-    "collaborateur": "M. Kevin Pellé"
-   }
-  ],
-  "date_naissance": "1986-07-24",
-  "emails": [
-   {
-    "email": "permanence@berangere-couillard.fr"
-   },
-   {
-    "email": "berangere.couillard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 391,
-  "id_an": "719624",
-  "lieu_naissance": "Rennes (Ille-et-Vilaine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bérangère Couillard",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "Couillard",
-  "num_circo": 7,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "322",
-  "prenom": "Bérangère",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/BCouillard33",
-   "https://fr-fr.facebook.com/BerangereCouillard33"
-  ],
-  "slug": "berangere-couillard",
   "twitter": "BCouillard33",
-  "twitter_created_at": "2017-05-14T19:12:18",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun May 14 19:12:18 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de Gironde 7ème / Porte-parole @LaREM_AN / Développement Durable & Aménagement du Territoire 🌱/ Délégation aux Droits des Femmes et Égalité 👩👨",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 6920,
-   "follow_request_sent": false,
-   "followers_count": 9414,
-   "following": false,
-   "friends_count": 1955,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863834372125970400,
-   "id_str": "863834372125970432",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 133,
-   "location": "Pessac, France",
-   "name": "Bérangère Couillard",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863834372125970432/1539009158",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1329812790933118976/CoYREUbS_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329812790933118976/CoYREUbS_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BCouillard33",
-   "statuses_count": 2596,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de Gironde 7ème / Porte-parole @LaREM_AN / Développement Durable & Aménagement du Territoire 🌱/ Délégation aux Droits des Femmes et Égalité 👩👨",
-  "twitter_favourites": 6920,
-  "twitter_followers": 9414,
-  "twitter_following": 1955,
-  "twitter_id": 863834372125970400,
-  "twitter_listed": 133,
-  "twitter_name": "Bérangère Couillard",
-  "twitter_protected": false,
-  "twitter_tweets": 2596,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719624",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719624",
-  "url_nosdeputes": "https://www.nosdeputes.fr/berangere-couillard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/berangere-couillard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719624"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bérangère-Couillard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719624",
@@ -727,10 +612,10 @@
   "id": "863834372125970432",
   "name": "Bérangère Couillard",
   "public_metrics": {
-   "followers_count": 9416,
-   "following_count": 1956,
-   "listed_count": 133,
-   "tweet_count": 2596
+   "followers_count": 9440,
+   "following_count": 1958,
+   "listed_count": 132,
+   "tweet_count": 2603
   },
   "username": "BCouillard33"
  },

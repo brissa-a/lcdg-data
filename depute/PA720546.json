@@ -75,129 +75,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Lewarde / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Fatima Belaïdi"
-   },
-   {
-    "collaborateur": "M. Rémy Fleury"
-   },
-   {
-    "collaborateur": "Mme Laura Czapara"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Messineo"
-   },
-   {
-    "collaborateur": "M. Benjamin Vandekerckhove"
-   }
-  ],
-  "date_naissance": "1952-03-07",
-  "emails": [
-   {
-    "email": "alain.bruneel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "GDR",
-  "id": 407,
-  "id_an": "720546",
-  "lieu_naissance": "Tourcoing (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Alain Bruneel",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Bruneel",
-  "num_circo": 16,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Parti communiste français",
-  "place_en_hemicycle": "585",
-  "prenom": "Alain",
-  "profession": "Retraité salarié privé",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/Alain_Bruneel"
-  ],
-  "slug": "alain-bruneel",
   "twitter": "Alain_Bruneel",
-  "twitter_created_at": "2017-01-30T11:15:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Jan 30 11:15:37 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député communiste du Nord - La santé n’est pas une marchandise !",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 399,
-   "follow_request_sent": false,
-   "followers_count": 2972,
-   "following": false,
-   "friends_count": 198,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 826026073540481000,
-   "id_str": "826026073540481024",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 86,
-   "location": "Lewarde, France",
-   "name": "Alain Bruneel",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/826026073540481024/1547628573",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1085459232923807744/sIJQl_Qg_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085459232923807744/sIJQl_Qg_normal.jpg",
-   "profile_link_color": "E81C4F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "Alain_Bruneel",
-   "statuses_count": 1337,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député communiste du Nord - La santé n’est pas une marchandise !",
-  "twitter_favourites": 399,
-  "twitter_followers": 2972,
-  "twitter_following": 198,
-  "twitter_id": 826026073540481000,
-  "twitter_listed": 86,
-  "twitter_name": "Alain Bruneel",
-  "twitter_protected": false,
-  "twitter_tweets": 1337,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720546",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720546",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alain-bruneel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alain-bruneel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720546"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alain-Bruneel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720546",
@@ -933,7 +812,7 @@
   "id": "826026073540481024",
   "name": "Alain Bruneel",
   "public_metrics": {
-   "followers_count": 2971,
+   "followers_count": 2978,
    "following_count": 200,
    "listed_count": 84,
    "tweet_count": 1339

@@ -58,133 +58,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.69.81"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Manuela Saccomano"
-   },
-   {
-    "collaborateur": "Mme Sandrine Burtschell"
-   },
-   {
-    "collaborateur": "M. Valentin Blanc"
-   }
-  ],
-  "date_naissance": "1961-02-18",
-  "emails": [
-   {
-    "email": "natalia.pouzyreff@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 453,
-  "id_an": "721916",
-  "lieu_naissance": "Limoges (Haute-Vienne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Natalia Pouzyreff",
-  "nom_circo": "Yvelines",
-  "nom_de_famille": "Pouzyreff",
-  "num_circo": 6,
-  "num_deptmt": "78",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "388",
-  "prenom": "Natalia",
-  "profession": "Ingénieure",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.nataliapouzyreff.fr",
-   "https://twitter.com/npouzyreff78"
-  ],
-  "slug": "natalia-pouzyreff",
   "twitter": "npouzyreff78",
-  "twitter_created_at": "2017-05-15T13:52:03",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 15 13:52:03 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée des Yvelines #circo7806 LREM | Membre @AN_Defense | Membre HCTISN #NucléaireCivil | Assemblée parlementaire franco-allemande #EuropedelaDéfense",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "nataliapouzyreff.fr",
-       "expanded_url": "http://www.nataliapouzyreff.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/nLZBb9gqwC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 16684,
-   "follow_request_sent": false,
-   "followers_count": 7509,
-   "following": false,
-   "friends_count": 1780,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864116167841116200,
-   "id_str": "864116167841116160",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 118,
-   "location": "Saint-Germain-en-Laye",
-   "name": "Natalia Pouzyreff",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864116167841116160/1612792634",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/991307582823436290/e29Ihiwk_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/991307582823436290/e29Ihiwk_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "npouzyreff78",
-   "statuses_count": 7032,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/nLZBb9gqwC",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée des Yvelines #circo7806 LREM | Membre @AN_Defense | Membre HCTISN #NucléaireCivil | Assemblée parlementaire franco-allemande #EuropedelaDéfense",
-  "twitter_favourites": 16684,
-  "twitter_followers": 7509,
-  "twitter_following": 1780,
-  "twitter_id": 864116167841116200,
-  "twitter_listed": 118,
-  "twitter_name": "Natalia Pouzyreff",
-  "twitter_protected": false,
-  "twitter_tweets": 7032,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721916",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721916",
-  "url_nosdeputes": "https://www.nosdeputes.fr/natalia-pouzyreff",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/natalia-pouzyreff/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721916"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Natalia-Pouzyreff",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721916",
@@ -1204,10 +1079,10 @@
   "id": "864116167841116160",
   "name": "Natalia Pouzyreff",
   "public_metrics": {
-   "followers_count": 7513,
-   "following_count": 1780,
-   "listed_count": 119,
-   "tweet_count": 7036
+   "followers_count": 7517,
+   "following_count": 1781,
+   "listed_count": 118,
+   "tweet_count": 7040
   },
   "username": "npouzyreff78"
  },

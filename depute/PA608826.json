@@ -104,147 +104,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "7 Place de la Libération BP 59 74100 Annemasse Téléphone : 04 50 80 35 02"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Haute-Savoie / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Lauriane Merotto"
-   },
-   {
-    "collaborateur": "Mme Célia Niessen"
-   },
-   {
-    "collaborateur": "Mme Louisa Roussel"
-   }
-  ],
-  "date_naissance": "1979-08-16",
-  "emails": [
-   {
-    "email": "depute@virginiedubymuller.fr"
-   },
-   {
-    "email": "virginie.duby-muller@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 291,
-  "id_an": "608826",
-  "lieu_naissance": "Bonneville (Haute-Savoie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Virginie Duby-Muller",
-  "nom_circo": "Haute-Savoie",
-  "nom_de_famille": "Duby-Muller",
-  "num_circo": 4,
-  "num_deptmt": "74",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "95",
-  "prenom": "Virginie",
-  "profession": "Cadre du secteur privé",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/DubyMuller",
-   "http://www.virginiedubymuller.fr",
-   "https://fr-fr.facebook.com/vir.muller"
-  ],
-  "slug": "virginie-duby-muller",
   "twitter": "DubyMuller",
-  "twitter_created_at": "2012-03-20T17:25:40",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Mar 20 17:25:40 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député 🇫🇷/ Conseiller départemental du @Dep_74 /Vice-Président @LesRepublicains",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "virginiedubymuller.fr",
-       "expanded_url": "http://www.virginiedubymuller.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/66FHnJEtxw"
-      }
-     ]
-    }
-   },
-   "favourites_count": 7937,
-   "follow_request_sent": false,
-   "followers_count": 17478,
-   "following": false,
-   "friends_count": 5391,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 531550143,
-   "id_str": "531550143",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 337,
-   "location": "Haute-Savoie",
-   "name": "Virginie Duby-Muller",
-   "notifications": false,
-   "profile_background_color": "DBDBDB",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/531550143/1389908442",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/3694970332/6f7b99e17b2f968a2f934fa22cc89510_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3694970332/6f7b99e17b2f968a2f934fa22cc89510_normal.jpeg",
-   "profile_link_color": "0078A3",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "DubyMuller",
-   "statuses_count": 9330,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/66FHnJEtxw",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député 🇫🇷/ Conseiller départemental du @Dep_74 /Vice-Président @LesRepublicains",
-  "twitter_favourites": 7937,
-  "twitter_followers": 17478,
-  "twitter_following": 5391,
-  "twitter_id": 531550143,
-  "twitter_listed": 337,
-  "twitter_name": "Virginie Duby-Muller",
-  "twitter_protected": false,
-  "twitter_tweets": 9330,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608826",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608826",
-  "url_nosdeputes": "https://www.nosdeputes.fr/virginie-duby-muller",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/virginie-duby-muller/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608826"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Virginie-Duby-Muller",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608826",
@@ -565,10 +426,10 @@
   "id": "531550143",
   "name": "Virginie Duby-Muller",
   "public_metrics": {
-   "followers_count": 17483,
-   "following_count": 5390,
-   "listed_count": 337,
-   "tweet_count": 9331
+   "followers_count": 17496,
+   "following_count": 5392,
+   "listed_count": 336,
+   "tweet_count": 9336
   },
   "username": "DubyMuller"
  },

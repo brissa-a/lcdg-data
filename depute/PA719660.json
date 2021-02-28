@@ -207,131 +207,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "04/08/2020 /  / "
-   },
-   {
-    "mandat": "21/06/2017 / 16/11/2018 / nomination comme membre du gouvernement"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Sadirac / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Romain Bayle"
-   },
-   {
-    "collaborateur": "M. Zineddine Abderrehim"
-   },
-   {
-    "collaborateur": "Mme Valérie Kieffer"
-   },
-   {
-    "collaborateur": "M. Antoine Revers"
-   }
-  ],
-  "date_naissance": "1976-03-26",
-  "emails": [
-   {
-    "email": "christelle.dubos@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 543,
-  "id_an": "719660",
-  "lieu_naissance": "Coteau (Loire)",
-  "mandat_debut": "2020-08-04",
-  "nb_mandats": 1,
-  "nom": "Christelle Dubos",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "Dubos",
-  "num_circo": 12,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "334",
-  "prenom": "Christelle",
-  "profession": "Directrice d'un service emploi et solidarités",
-  "sexe": "F",
-  "sites_web": [
-   "http://christelledubos.fr",
-   "https://twitter.com/duboschristelle",
-   "https://fr-fr.facebook.com/duboschristelle"
-  ],
-  "slug": "christelle-dubos",
   "twitter": "duboschristelle",
-  "twitter_created_at": "2017-03-29T06:48:53",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Mar 29 06:48:53 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #Gironde 🍷 \nAncienne Secrétaire d'État auprès du ministre des Solidarités et de la Santé, @AssembleeNat @AN_AfEco🇲🇫",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 4155,
-   "follow_request_sent": false,
-   "followers_count": 21980,
-   "following": false,
-   "friends_count": 880,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 846977443571388400,
-   "id_str": "846977443571388420",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 243,
-   "location": "Sadirac, France",
-   "name": "Christelle Dubos",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/846977443571388420/1612564623",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1353449399335182336/s77weELp_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353449399335182336/s77weELp_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "duboschristelle",
-   "statuses_count": 2624,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #Gironde 🍷 Ancienne Secrétaire d'État auprès du ministre des Solidarités et de la Santé, @AssembleeNat @AN_AfEco🇲🇫",
-  "twitter_favourites": 4155,
-  "twitter_followers": 21980,
-  "twitter_following": 880,
-  "twitter_id": 846977443571388400,
-  "twitter_listed": 243,
-  "twitter_name": "Christelle Dubos",
-  "twitter_protected": false,
-  "twitter_tweets": 2624,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719660",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719660",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christelle-dubos",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christelle-dubos/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719660"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christelle-Dubos",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719660",
@@ -1071,7 +948,7 @@
   "id": "846977443571388420",
   "name": "Christelle Dubos",
   "public_metrics": {
-   "followers_count": 21992,
+   "followers_count": 22018,
    "following_count": 880,
    "listed_count": 244,
    "tweet_count": 2624

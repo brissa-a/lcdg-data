@@ -83,156 +83,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "234 Rue du Général de Gaulle, BP 10099 59635 Wattignies Cedex Téléphone : 03 20 60 26 26"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Hauts-de-France / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Bastien Dauphin"
-   },
-   {
-    "collaborateur": "M. Clément Delplanque"
-   },
-   {
-    "collaborateur": "Mme Véronique Van Tichelen-Lestoquoi"
-   },
-   {
-    "collaborateur": "Mme Emeline Clair"
-   },
-   {
-    "collaborateur": "Mme Brigitte Ferrat"
-   }
-  ],
-  "date_naissance": "1969-10-25",
-  "emails": [
-   {
-    "email": "sebastien.huyghe@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 526,
-  "id_an": "267200",
-  "lieu_naissance": "Béthune (Pas-de-Calais)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sébastien Huyghe",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Huyghe",
-  "num_circo": 5,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "43",
-  "prenom": "Sébastien",
-  "profession": "Notaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.sebastienhuyghe.com",
-   "https://twitter.com/SebastienHuyghe",
-   "https://fr-fr.facebook.com/shuyghe.depute"
-  ],
-  "slug": "sebastien-huyghe",
   "twitter": "SebastienHuyghe",
-  "twitter_created_at": "2009-10-27T10:26:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Oct 27 10:26:30 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du Nord - Conseiller Régional des Hauts-de-France - Président de la Fédération du Nord des Républicains",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "sebastienhuyghe.com",
-       "expanded_url": "http://www.sebastienhuyghe.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hhOKduECS1"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3925,
-   "follow_request_sent": false,
-   "followers_count": 21580,
-   "following": false,
-   "friends_count": 2034,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 85541760,
-   "id_str": "85541760",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 391,
-   "location": "Hauts-de-France, Wattignies",
-   "name": "Sébastien Huyghe ‏ن",
-   "notifications": false,
-   "profile_background_color": "709397",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/85541760/1513273540",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/987020020671709184/yIIIPzeI_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/987020020671709184/yIIIPzeI_normal.jpg",
-   "profile_link_color": "FF3300",
-   "profile_sidebar_border_color": "86A4A6",
-   "profile_sidebar_fill_color": "A0C5C7",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SebastienHuyghe",
-   "statuses_count": 16314,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hhOKduECS1",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Nord - Conseiller Régional des Hauts-de-France - Président de la Fédération du Nord des Républicains",
-  "twitter_favourites": 3925,
-  "twitter_followers": 21580,
-  "twitter_following": 2034,
-  "twitter_id": 85541760,
-  "twitter_listed": 391,
-  "twitter_name": "Sébastien Huyghe ‏ن",
-  "twitter_protected": false,
-  "twitter_tweets": 16314,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267200",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267200",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sebastien-huyghe",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sebastien-huyghe/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267200"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sébastien-Huyghe",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267200",
@@ -628,10 +480,10 @@
   "id": "85541760",
   "name": "Sébastien Huyghe ‏ن",
   "public_metrics": {
-   "followers_count": 21581,
-   "following_count": 2034,
+   "followers_count": 21586,
+   "following_count": 2033,
    "listed_count": 389,
-   "tweet_count": 16314
+   "tweet_count": 16316
   },
   "username": "SebastienHuyghe"
  },

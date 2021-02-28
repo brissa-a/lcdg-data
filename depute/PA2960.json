@@ -131,164 +131,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire, 12 Rue de Villevert 2ème étage 60300 Senlis Téléphone : 03 44 55 13 13"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "19/09/2005 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 30/04/2004 / nomination comme membre du gouvernement"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "14/12/2010 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 19/07/2007 / nomination comme membre du gouvernement"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Chantilly / Conseil municipal / membre"
-   },
-   {
-    "mandat": "L'Aire Cantilienne (CCAC) / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aurélie Herz"
-   },
-   {
-    "collaborateur": "M. Ludovic Balzeau"
-   },
-   {
-    "collaborateur": "Mme Chloé Longuet"
-   },
-   {
-    "collaborateur": "Mme Manoëlle Martin"
-   }
-  ],
-  "date_naissance": "1956-01-29",
-  "emails": [
-   {
-    "email": "eric.woerth@assemblee-nationale.fr"
-   },
-   {
-    "email": "eric.woerth@orange.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 192,
-  "id_an": "2960",
-  "lieu_naissance": "Creil (Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Éric Woerth",
-  "nom_circo": "Oise",
-  "nom_de_famille": "Woerth",
-  "num_circo": 4,
-  "num_deptmt": "60",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "89",
-  "prenom": "Éric",
-  "profession": "Associé dans un cabinet d'audit international",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/ericwoerth",
-   "https://fr-fr.facebook.com/ewoerth"
-  ],
-  "slug": "eric-woerth",
   "twitter": "ericwoerth",
-  "twitter_created_at": "2011-10-13T15:07:35",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 13 15:07:35 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Ancien ministre - Député de l'Oise - Président de la commission des Finances",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "assemblee-nationale.fr/14/tribun/fich…",
-       "expanded_url": "http://www.assemblee-nationale.fr/14/tribun/fiches_id/2960.asp",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/fLJqqq6Tal"
-      }
-     ]
-    }
-   },
-   "favourites_count": 614,
-   "follow_request_sent": false,
-   "followers_count": 60889,
-   "following": false,
-   "friends_count": 445,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 390156878,
-   "id_str": "390156878",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 650,
-   "location": "Chantilly, Oise (60)",
-   "name": "Eric Woerth",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/390156878/1506340814",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/912285437061943296/BlOIsfxU_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/912285437061943296/BlOIsfxU_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ericwoerth",
-   "statuses_count": 6165,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/fLJqqq6Tal",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Ancien ministre - Député de l'Oise - Président de la commission des Finances",
-  "twitter_favourites": 614,
-  "twitter_followers": 60889,
-  "twitter_following": 445,
-  "twitter_id": 390156878,
-  "twitter_listed": 650,
-  "twitter_name": "Eric Woerth",
-  "twitter_protected": false,
-  "twitter_tweets": 6165,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2960",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2960",
-  "url_nosdeputes": "https://www.nosdeputes.fr/eric-woerth",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/eric-woerth/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2960"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Éric-Woerth",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2960",
@@ -948,9 +792,9 @@
   "id": "390156878",
   "name": "Eric Woerth",
   "public_metrics": {
-   "followers_count": 60892,
+   "followers_count": 60904,
    "following_count": 445,
-   "listed_count": 650,
+   "listed_count": 649,
    "tweet_count": 6166
   },
   "username": "ericwoerth"

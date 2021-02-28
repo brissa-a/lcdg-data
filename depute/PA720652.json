@@ -345,133 +345,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 34 Route Nationale 62121 Ervillers Téléphone : 03 91 19 80 23"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pas-de-Calais / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Carine Kumps"
-   },
-   {
-    "collaborateur": "M. Jérôme Hébert"
-   },
-   {
-    "collaborateur": "M. Jean-Marie Dupuis"
-   },
-   {
-    "collaborateur": "Mme Bélinda Contart"
-   }
-  ],
-  "date_naissance": "1957-04-03",
-  "emails": [
-   {
-    "email": "bruno.duverge@assemblee-nationale.fr"
-   },
-   {
-    "email": "permanence@brunoduverge.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 24,
-  "id_an": "720652",
-  "lieu_naissance": "Cambrai (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bruno Duvergé",
-  "nom_circo": "Pas-de-Calais",
-  "nom_de_famille": "Duvergé",
-  "num_circo": 1,
-  "num_deptmt": "62",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "171",
-  "prenom": "Bruno",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/BrunoDuverge",
-   "https://fr-fr.facebook.com/people/Bruno-Duvergé/100008520227262"
-  ],
-  "slug": "bruno-duverge",
   "twitter": "BrunoDuverge",
-  "twitter_created_at": "2014-12-08T00:01:52",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Dec 08 00:01:52 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 1ère Circonscription du Pas de Calais",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 0,
-   "follow_request_sent": false,
-   "followers_count": 677,
-   "following": false,
-   "friends_count": 1,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 2910111251,
-   "id_str": "2910111251",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 76,
-   "location": "Ervillers",
-   "name": "Bruno Duvergé",
-   "notifications": false,
-   "profile_background_color": "FAFAFA",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2910111251/1518455404",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/963090747493961729/G0M29eQR_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/963090747493961729/G0M29eQR_normal.jpg",
-   "profile_link_color": "3F8AFA",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "BrunoDuverge",
-   "statuses_count": 0,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la 1ère Circonscription du Pas de Calais",
-  "twitter_favourites": 0,
-  "twitter_followers": 677,
-  "twitter_following": 1,
-  "twitter_id": 2910111251,
-  "twitter_listed": 76,
-  "twitter_name": "Bruno Duvergé",
-  "twitter_protected": false,
-  "twitter_tweets": 0,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720652",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720652",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bruno-duverge",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bruno-duverge/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720652"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bruno-Duvergé",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720652",
@@ -1078,7 +953,7 @@
   "id": "2910111251",
   "name": "Bruno Duvergé",
   "public_metrics": {
-   "followers_count": 677,
+   "followers_count": 678,
    "following_count": 1,
    "listed_count": 74,
    "tweet_count": 0

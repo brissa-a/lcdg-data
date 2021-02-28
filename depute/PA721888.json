@@ -53,140 +53,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Nour El Hadri"
-   },
-   {
-    "collaborateur": "M. Oualid Arar"
-   },
-   {
-    "collaborateur": "Mme Chloé Gérard"
-   },
-   {
-    "collaborateur": "M. Stéphane Sandeyron"
-   },
-   {
-    "collaborateur": "M. Bruno Lacôte"
-   }
-  ],
-  "date_naissance": "1983-04-06",
-  "emails": [
-   {
-    "email": "pierre-alain.raphan@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 9,
-  "id_an": "721888",
-  "lieu_naissance": "Choisy-le-Roi (Val-de-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Pierre-Alain Raphan",
-  "nom_circo": "Essonne",
-  "nom_de_famille": "Raphan",
-  "num_circo": 10,
-  "num_deptmt": "91",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "269",
-  "prenom": "Pierre-Alain",
-  "profession": "Directeur d'un cabinet de conseil",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.9110.fr",
-   "http://www.raphan2017.fr",
-   "https://twitter.com/p_a_raphan"
-  ],
-  "slug": "pierre-alain-raphan",
   "twitter": "p_a_raphan",
-  "twitter_created_at": "2017-05-17T21:28:56",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 17 21:28:56 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 10e circonscription de l'Essonne Secrétaire de la Commission des Affaires culturelles et de l'Education à l'Assemblée nationale",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "9110.fr",
-       "expanded_url": "http://www.9110.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/k1CQrPp8pM"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5410,
-   "follow_request_sent": false,
-   "followers_count": 5560,
-   "following": false,
-   "friends_count": 2428,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864955921025433600,
-   "id_str": "864955921025433600",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 111,
-   "location": "Essonne, Ile-de-France",
-   "name": "Pierre-Alain RAPHAN",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864955921025433600/1603997809",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1205595779429257218/oaVxSbda_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205595779429257218/oaVxSbda_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "p_a_raphan",
-   "statuses_count": 2079,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/k1CQrPp8pM",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 10e circonscription de l'Essonne Secrétaire de la Commission des Affaires culturelles et de l'Education à l'Assemblée nationale",
-  "twitter_favourites": 5410,
-  "twitter_followers": 5560,
-  "twitter_following": 2428,
-  "twitter_id": 864955921025433600,
-  "twitter_listed": 111,
-  "twitter_name": "Pierre-Alain RAPHAN",
-  "twitter_protected": false,
-  "twitter_tweets": 2079,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721888",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721888",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pierre-alain-raphan",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pierre-alain-raphan/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721888"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pierre-Alain-Raphan",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721888",
@@ -958,10 +826,10 @@
   "id": "864955921025433600",
   "name": "Pierre-Alain RAPHAN",
   "public_metrics": {
-   "followers_count": 5565,
-   "following_count": 2428,
+   "followers_count": 5571,
+   "following_count": 2426,
    "listed_count": 111,
-   "tweet_count": 2084
+   "tweet_count": 2090
   },
   "username": "p_a_raphan"
  },

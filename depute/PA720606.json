@@ -84,128 +84,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 314 Rue Henri Cadot 62700 Bruay-la-Buissière Téléphone : 03 21 52 84 82"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Hauts-de-France / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Pierre Deniau"
-   },
-   {
-    "collaborateur": "M. Bruno Renaux"
-   },
-   {
-    "collaborateur": "M. Jimmy Vallé"
-   }
-  ],
-  "date_naissance": "1993-11-18",
-  "emails": [
-   {
-    "email": "ludovic.pajot@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 227,
-  "id_an": "720606",
-  "lieu_naissance": "Beuvry (Pas-de-Calais)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Ludovic Pajot",
-  "nom_circo": "Pas-de-Calais",
-  "nom_de_famille": "Pajot",
-  "num_circo": 10,
-  "num_deptmt": "62",
-  "parti_ratt_financier": "Rassemblement national",
-  "place_en_hemicycle": "56",
-  "prenom": "Ludovic",
-  "profession": null,
-  "sexe": "H",
-  "sites_web": [
-   "http://ludovicpajot.fr",
-   "https://twitter.com/ludovicpajot",
-   "https://fr-fr.facebook.com/Ludovic-PAJOT-418363448234329"
-  ],
-  "slug": "ludovic-pajot",
   "twitter": "ludovicpajot",
-  "twitter_created_at": "2012-02-18T21:59:12",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Feb 18 21:59:12 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🇨🇵 Maire de Bruay-La-Buissière |\nDéputé @RNational_off du Pas-de-Calais",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 2851,
-   "follow_request_sent": false,
-   "followers_count": 9629,
-   "following": false,
-   "friends_count": 536,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 496370501,
-   "id_str": "496370501",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 105,
-   "location": "Bruay-la-Buissière, France",
-   "name": "Ludovic PAJOT",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/496370501/1606088241",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1296941264106139648/sW2TqRU9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296941264106139648/sW2TqRU9_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ludovicpajot",
-   "statuses_count": 4329,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🇨🇵 Maire de Bruay-La-Buissière | Député @RNational_off du Pas-de-Calais",
-  "twitter_favourites": 2851,
-  "twitter_followers": 9629,
-  "twitter_following": 536,
-  "twitter_id": 496370501,
-  "twitter_listed": 105,
-  "twitter_name": "Ludovic PAJOT",
-  "twitter_protected": false,
-  "twitter_tweets": 4329,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720606",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720606",
-  "url_nosdeputes": "https://www.nosdeputes.fr/ludovic-pajot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/ludovic-pajot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720606"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Ludovic-Pajot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720606",
@@ -747,10 +627,10 @@
   "id": "496370501",
   "name": "Ludovic PAJOT",
   "public_metrics": {
-   "followers_count": 9634,
-   "following_count": 536,
+   "followers_count": 9649,
+   "following_count": 537,
    "listed_count": 104,
-   "tweet_count": 4329
+   "tweet_count": 4333
   },
   "username": "ludovicpajot"
  },

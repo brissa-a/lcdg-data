@@ -54,165 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "03/08/2020 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. David Girard"
-   },
-   {
-    "collaborateur": "Mme Annie Giobbio"
-   },
-   {
-    "collaborateur": "Mme Mélissa Fradier"
-   },
-   {
-    "collaborateur": "M. Gauthier Willem"
-   }
-  ],
-  "date_naissance": "1948-03-07",
-  "emails": [
-   {
-    "email": "eaudibert.secretariat@gmail.com"
-   },
-   {
-    "email": "edith.audibert@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 628,
-  "id_an": "721666",
-  "lieu_naissance": "Hyères (Var)",
-  "mandat_debut": "2020-08-03",
-  "nb_mandats": 1,
-  "nom": "Edith Audibert",
-  "nom_circo": "Var",
-  "nom_de_famille": "Audibert",
-  "num_circo": 3,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "152",
-  "prenom": "Edith",
-  "profession": "Retraitée",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/AudibertEdith"
-  ],
-  "slug": "edith-audibert",
   "twitter": "AudibertEdith",
-  "twitter_created_at": "2020-08-05T16:50:39",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Aug 05 16:50:39 +0000 2020",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée du Var - 3ème circonscription @lesRepublicains @Republicains_an",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 68,
-   "follow_request_sent": false,
-   "followers_count": 175,
-   "following": false,
-   "friends_count": 174,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1291053895297446000,
-   "id_str": "1291053895297445890",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 10,
-   "location": "",
-   "name": "Edith Audibert",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291053895297445890/1596647271",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1291054336647352321/drxkMaQ2_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291054336647352321/drxkMaQ2_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_location": null,
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AudibertEdith",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Feb 23 19:37:29 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "twitter.com/i/web/status/1…",
-       "expanded_url": "https://twitter.com/i/web/status/1364298351706050562",
-       "indices": [
-        117,
-        140
-       ],
-       "url": "https://t.co/BNeXBUD89O"
-      }
-     ],
-     "user_mentions": []
-    },
-    "favorite_count": 2,
-    "favorited": false,
-    "geo": null,
-    "id": 1364298351706050600,
-    "id_str": "1364298351706050562",
-    "in_reply_to_screen_name": "AudibertEdith",
-    "in_reply_to_status_id": 1364298256117858300,
-    "in_reply_to_status_id_str": "1364298256117858305",
-    "in_reply_to_user_id": 1291053895297446000,
-    "in_reply_to_user_id_str": "1291053895297445890",
-    "is_quote_status": false,
-    "lang": "fr",
-    "place": null,
-    "retweet_count": 0,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "🇫🇷Alors que la crise sanitaire actuelle démontre l'intérêt à produire en France, le problème aujourd'hui est que no… https://t.co/BNeXBUD89O",
-    "truncated": true
-   },
-   "statuses_count": 113,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée du Var - 3ème circonscription @lesRepublicains @Republicains_an",
-  "twitter_favourites": 68,
-  "twitter_followers": 175,
-  "twitter_following": 174,
-  "twitter_id": 1291053895297446000,
-  "twitter_listed": 10,
-  "twitter_name": "Edith Audibert",
-  "twitter_protected": false,
-  "twitter_tweets": 113,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721666",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721666",
-  "url_nosdeputes": "https://www.nosdeputes.fr/edith-audibert",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/edith-audibert/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721666"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Edith-Audibert",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721666",
@@ -263,9 +106,9 @@
   "id": "1291053895297445890",
   "name": "Edith Audibert",
   "public_metrics": {
-   "followers_count": 178,
+   "followers_count": 181,
    "following_count": 174,
-   "listed_count": 12,
+   "listed_count": 10,
    "tweet_count": 114
   },
   "username": "AudibertEdith"

@@ -56,134 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Khadija Chatouani"
-   },
-   {
-    "collaborateur": "M. Pierre Delavaquerie"
-   },
-   {
-    "collaborateur": "M. Mehmet Ceylan"
-   }
-  ],
-  "date_naissance": "1967-04-16",
-  "emails": [
-   {
-    "email": "frederic.descrozaille@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 558,
-  "id_an": "720862",
-  "lieu_naissance": "Neuilly-sur-Seine (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Frédéric Descrozaille",
-  "nom_circo": "Val-de-Marne",
-  "nom_de_famille": "Descrozaille",
-  "num_circo": 1,
-  "num_deptmt": "94",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "467",
-  "prenom": "Frédéric",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://descrozaille.fr",
-   "https://twitter.com/fdescrozaille",
-   "https://fr-fr.facebook.com/fdescrozaille9401"
-  ],
-  "slug": "frederic-descrozaille",
   "twitter": "fdescrozaille",
-  "twitter_created_at": "2017-05-18T07:57:59",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 18 07:57:59 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LaREM du Val-de-Marne \nCommission des affaires économiques\nVice-président de la mission d’information sur la concrétisation des lois",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "descrozaille.fr",
-       "expanded_url": "http://www.descrozaille.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/QyWW2JjYEq"
-      }
-     ]
-    }
-   },
-   "favourites_count": 232,
-   "follow_request_sent": false,
-   "followers_count": 3914,
-   "following": false,
-   "friends_count": 1237,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 865114227580784600,
-   "id_str": "865114227580784640",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 94,
-   "location": "Val-de-Marne, Ile-de-France",
-   "name": "Frédéric Descrozaille",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865114227580784640/1542880629",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1185663928447180800/FevJTgob_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185663928447180800/FevJTgob_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "fdescrozaille",
-   "statuses_count": 1189,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/QyWW2JjYEq",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM du Val-de-Marne Commission des affaires économiques Vice-président de la mission d’information sur la concrétisation des lois",
-  "twitter_favourites": 232,
-  "twitter_followers": 3914,
-  "twitter_following": 1237,
-  "twitter_id": 865114227580784600,
-  "twitter_listed": 94,
-  "twitter_name": "Frédéric Descrozaille",
-  "twitter_protected": false,
-  "twitter_tweets": 1189,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720862",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720862",
-  "url_nosdeputes": "https://www.nosdeputes.fr/frederic-descrozaille",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/frederic-descrozaille/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720862"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Frédéric-Descrozaille",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720862",
@@ -783,10 +657,10 @@
   "id": "865114227580784640",
   "name": "Frédéric Descrozaille",
   "public_metrics": {
-   "followers_count": 3914,
+   "followers_count": 3916,
    "following_count": 1237,
    "listed_count": 95,
-   "tweet_count": 1189
+   "tweet_count": 1191
   },
   "username": "fdescrozaille"
  },

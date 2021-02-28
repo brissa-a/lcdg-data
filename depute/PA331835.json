@@ -90,132 +90,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 22 Boulevard Vincent Auriol 31170 Tournefeuille Télécopie : 05 61 44 63 82"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.73.81"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marie Vanderchmitt"
-   },
-   {
-    "collaborateur": "Mme Catherine Van de Keere"
-   },
-   {
-    "collaborateur": "Mme Mathilde Tolsan"
-   }
-  ],
-  "date_naissance": "1945-03-08",
-  "emails": [
-   {
-    "email": "monique.iborra@orange.fr"
-   },
-   {
-    "email": "monique.iborra@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 421,
-  "id_an": "331835",
-  "lieu_naissance": "Maison Carrée (Algérie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Monique Iborra",
-  "nom_circo": "Haute-Garonne",
-  "nom_de_famille": "Iborra",
-  "num_circo": 6,
-  "num_deptmt": "31",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "280",
-  "prenom": "Monique",
-  "profession": "Retraitée de la Fonction publique",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/MoniqueIborra",
-   "https://fr-fr.facebook.com/monique.iborra"
-  ],
-  "slug": "monique-iborra",
   "twitter": "MoniqueIborra",
-  "twitter_created_at": "2011-09-13T08:05:13",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Sep 13 08:05:13 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "#LaRépubliqueEnMarche avec @emmanuelmacron ! Députée 🇫🇷 #circo3106 #HauteGaronne #AfSocAn @AssembleeNat membre HCFEA #GrandAge #emploi #Santé #retraites",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 4243,
-   "follow_request_sent": false,
-   "followers_count": 6629,
-   "following": false,
-   "friends_count": 1398,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 372703035,
-   "id_str": "372703035",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 266,
-   "location": "",
-   "name": "Monique Iborra",
-   "notifications": false,
-   "profile_background_color": "E41871",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/372703035/1498035821",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1343090912281448448/uvBV9HQS_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343090912281448448/uvBV9HQS_normal.jpg",
-   "profile_link_color": "FF0000",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "FFF7CC",
-   "profile_text_color": "0C3E53",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "MoniqueIborra",
-   "statuses_count": 9407,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "#LaRépubliqueEnMarche avec @emmanuelmacron ! Députée 🇫🇷 #circo3106 #HauteGaronne #AfSocAn @AssembleeNat membre HCFEA #GrandAge #emploi #Santé #retraites",
-  "twitter_favourites": 4243,
-  "twitter_followers": 6629,
-  "twitter_following": 1398,
-  "twitter_id": 372703035,
-  "twitter_listed": 266,
-  "twitter_name": "Monique Iborra",
-  "twitter_protected": false,
-  "twitter_tweets": 9407,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331835",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331835",
-  "url_nosdeputes": "https://www.nosdeputes.fr/monique-iborra",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/monique-iborra/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331835"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Monique-Iborra",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331835",
@@ -699,8 +575,8 @@
   "public_metrics": {
    "followers_count": 6630,
    "following_count": 1398,
-   "listed_count": 267,
-   "tweet_count": 9409
+   "listed_count": 266,
+   "tweet_count": 9413
   },
   "username": "MoniqueIborra"
  },

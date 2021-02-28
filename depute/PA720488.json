@@ -59,154 +59,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire Résidence Flandres Entrée 19 59170 Croix"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "23/06/2020 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Hauts-de-France / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Juliette Lorthoy"
-   },
-   {
-    "collaborateur": "Mme Romanie Tiberghien"
-   },
-   {
-    "collaborateur": "Mme Kelly Verkindere"
-   }
-  ],
-  "date_naissance": "1963-01-11",
-  "emails": [
-   {
-    "email": "valerie.six@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@valerie-six.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 618,
-  "id_an": "720488",
-  "lieu_naissance": "Séclin (Nord)",
-  "mandat_debut": "2020-06-23",
-  "nb_mandats": 1,
-  "nom": "Valérie Six",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Six",
-  "num_circo": 7,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "113",
-  "prenom": "Valérie",
-  "profession": "Pharmacienne",
-  "sexe": "F",
-  "sites_web": [
-   "http://valerie-six.fr",
-   "https://twitter.com/six_valerie",
-   "https://fr-fr.facebook.com/ValerieSixAN"
-  ],
-  "slug": "valerie-six",
   "twitter": "six_valerie",
-  "twitter_created_at": "2017-08-29T10:00:25",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Aug 29 10:00:25 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la 7e circonscription du Nord #UDI - Membre @AN_AfSoc - Conseillère Régionale Hauts de France #HDF #Autravail\nhttps://t.co/64kYEmFe2Q",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "facebook.com/ValerieSixAN",
-       "expanded_url": "https://www.facebook.com/ValerieSixAN",
-       "indices": [
-        121,
-        144
-       ],
-       "url": "https://t.co/64kYEmFe2Q"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "valerie-six.fr",
-       "expanded_url": "http://valerie-six.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/KF3HsypIIG"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1419,
-   "follow_request_sent": false,
-   "followers_count": 737,
-   "following": false,
-   "friends_count": 624,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 902470987765211100,
-   "id_str": "902470987765211137",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 20,
-   "location": "",
-   "name": "Valérie Six",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/902470987765211137/1592864429",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1275191953106317315/YI3rJEPF_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275191953106317315/YI3rJEPF_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "six_valerie",
-   "statuses_count": 822,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/KF3HsypIIG",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée de la 7e circonscription du Nord #UDI - Membre @AN_AfSoc - Conseillère Régionale Hauts de France #HDF #Autravail https://t.co/64kYEmFe2Q",
-  "twitter_favourites": 1419,
-  "twitter_followers": 737,
-  "twitter_following": 624,
-  "twitter_id": 902470987765211100,
-  "twitter_listed": 20,
-  "twitter_name": "Valérie Six",
-  "twitter_protected": false,
-  "twitter_tweets": 822,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488",
-  "url_nosdeputes": "https://www.nosdeputes.fr/valerie-six",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/valerie-six/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Valérie-Six",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720488",
@@ -365,10 +219,10 @@
   "id": "902470987765211137",
   "name": "Valérie Six",
   "public_metrics": {
-   "followers_count": 740,
-   "following_count": 626,
-   "listed_count": 21,
-   "tweet_count": 824
+   "followers_count": 748,
+   "following_count": 638,
+   "listed_count": 20,
+   "tweet_count": 825
   },
   "username": "six_valerie"
  },

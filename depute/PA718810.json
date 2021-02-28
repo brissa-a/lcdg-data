@@ -346,130 +346,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.73.15"
-   },
-   {
-    "adresse": "Permanence parlementaire 90 Rue Saint-Martin 11300 Limoux Téléphone : 04.68.31.29.01"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pieusse / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Inès-Marine Larose"
-   },
-   {
-    "collaborateur": "Mme Emilie Vieuille"
-   },
-   {
-    "collaborateur": "M. Isarn Crebassa"
-   },
-   {
-    "collaborateur": "Mme Elisabeth Riom"
-   }
-  ],
-  "date_naissance": "1962-03-01",
-  "emails": [
-   {
-    "email": "mireille.robert@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 433,
-  "id_an": "718810",
-  "lieu_naissance": "Orthez (Pyrénées-Atlantiques)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Mireille Robert",
-  "nom_circo": "Aude",
-  "nom_de_famille": "Robert",
-  "num_circo": 3,
-  "num_deptmt": "11",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "533",
-  "prenom": "Mireille",
-  "profession": "Enseignante 1er degré-directrice d'école",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/MRobert_11",
-   "https://fr-fr.facebook.com/MireilleRobertEnMarche"
-  ],
-  "slug": "mireille-robert",
   "twitter": "MRobert_11",
-  "twitter_created_at": "2017-04-30T19:47:43",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 30 19:47:43 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Élue députée #LaREM en juin 2017 pour porter à l'Assemblée nationale la parole de la 3e circonscription de l'Aude",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 6092,
-   "follow_request_sent": false,
-   "followers_count": 6802,
-   "following": false,
-   "friends_count": 893,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 858769856463859700,
-   "id_str": "858769856463859712",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 116,
-   "location": "Pieusse, France",
-   "name": "Mireille Robert",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/858769856463859712/1558084879",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1129316051089526784/qJJbmU1b_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129316051089526784/qJJbmU1b_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MRobert_11",
-   "statuses_count": 3396,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Élue députée #LaREM en juin 2017 pour porter à l'Assemblée nationale la parole de la 3e circonscription de l'Aude",
-  "twitter_favourites": 6092,
-  "twitter_followers": 6802,
-  "twitter_following": 893,
-  "twitter_id": 858769856463859700,
-  "twitter_listed": 116,
-  "twitter_name": "Mireille Robert",
-  "twitter_protected": false,
-  "twitter_tweets": 3396,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718810",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718810",
-  "url_nosdeputes": "https://www.nosdeputes.fr/mireille-robert",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/mireille-robert/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718810"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Mireille-Robert",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718810",
@@ -1523,10 +1401,10 @@
   "id": "858769856463859712",
   "name": "Mireille Robert",
   "public_metrics": {
-   "followers_count": 6800,
+   "followers_count": 6809,
    "following_count": 893,
-   "listed_count": 117,
-   "tweet_count": 3396
+   "listed_count": 116,
+   "tweet_count": 3398
   },
   "username": "MRobert_11"
  },

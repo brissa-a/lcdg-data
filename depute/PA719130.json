@@ -66,127 +66,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "13 Rue de la République 13200 Arles"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Adrien Porquet"
-   },
-   {
-    "collaborateur": "Mme Marion Biscione"
-   },
-   {
-    "collaborateur": "M. Adrien Vincentelli"
-   },
-   {
-    "collaborateur": "M. Grégory Penias"
-   }
-  ],
-  "date_naissance": "1955-04-16",
-  "emails": [
-   {
-    "email": "monica.michel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 478,
-  "id_an": "719130",
-  "lieu_naissance": "Victoria (Seychelles)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Monica Michel",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Michel",
-  "num_circo": 16,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "244",
-  "prenom": "Monica",
-  "profession": "Directrice commerciale",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.monica-michel.fr",
-   "https://twitter.com/MonicaMichel_Of",
-   "https://fr-fr.facebook.com/MonicaMichelEM"
-  ],
-  "slug": "monica-michel",
   "twitter": "MonicaMichel_Of",
-  "twitter_created_at": "2017-05-13T08:58:47",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat May 13 08:58:47 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de La République En Marche de La 16ème circonscription des Bouches du Rhône. 🇫🇷🇪🇺",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 492,
-   "follow_request_sent": false,
-   "followers_count": 3018,
-   "following": false,
-   "friends_count": 322,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863317587865866200,
-   "id_str": "863317587865866241",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 88,
-   "location": "Arles, France",
-   "name": "Monica Michel",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863317587865866241/1494666957",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1336038983541854209/PbCKwIcs_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336038983541854209/PbCKwIcs_normal.jpg",
-   "profile_link_color": "FAB81E",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MonicaMichel_Of",
-   "statuses_count": 3102,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de La République En Marche de La 16ème circonscription des Bouches du Rhône. 🇫🇷🇪🇺",
-  "twitter_favourites": 492,
-  "twitter_followers": 3018,
-  "twitter_following": 322,
-  "twitter_id": 863317587865866200,
-  "twitter_listed": 88,
-  "twitter_name": "Monica Michel",
-  "twitter_protected": false,
-  "twitter_tweets": 3102,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719130",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719130",
-  "url_nosdeputes": "https://www.nosdeputes.fr/monica-michel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/monica-michel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719130"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Monica-Michel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719130",
@@ -971,10 +852,10 @@
   "id": "863317587865866241",
   "name": "Monica Michel",
   "public_metrics": {
-   "followers_count": 3018,
-   "following_count": 322,
-   "listed_count": 88,
-   "tweet_count": 3102
+   "followers_count": 3024,
+   "following_count": 324,
+   "listed_count": 87,
+   "tweet_count": 3133
   },
   "username": "MonicaMichel_Of"
  },

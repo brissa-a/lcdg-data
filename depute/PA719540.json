@@ -111,147 +111,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Résidence Belles Rives 8 Rue de l'Abbé Breuil Appartement 18 - Bâtiment A 31600 Muret Téléphone : 05 34 51 67 70"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Toulouse Métropole /  / membre"
-   },
-   {
-    "mandat": "Toulouse / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anne-Laure Labouesse"
-   },
-   {
-    "collaborateur": "M. Gaëtan Metzger"
-   },
-   {
-    "collaborateur": "Mme Karine Brun"
-   }
-  ],
-  "date_naissance": "1954-12-17",
-  "emails": [
-   {
-    "email": "contact@etp31.fr"
-   },
-   {
-    "email": "elisabeth.toutut-picard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 484,
-  "id_an": "719540",
-  "lieu_naissance": "Blida (Algérie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Élisabeth Toutut-Picard",
-  "nom_circo": "Haute-Garonne",
-  "nom_de_famille": "Toutut-Picard",
-  "num_circo": 7,
-  "num_deptmt": "31",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "331",
-  "prenom": "Élisabeth",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/etoututpicard",
-   "http://www.elisabeth-toutut-picard.fr",
-   "https://fr-fr.facebook.com/Toutut-Picard"
-  ],
-  "slug": "elisabeth-toutut-picard",
   "twitter": "etoututpicard",
-  "twitter_created_at": "2017-01-30T10:39:42",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Jan 30 10:39:42 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Elisabeth Toutut Picard, Députée de la 7ème circ. de Haute-Garonne   Ex- Dir. d'hôpitaux et Dev. Durable du CHU de Toulouse. #circo3107",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "elisabeth-toutut-picard.fr",
-       "expanded_url": "http://www.elisabeth-toutut-picard.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/ATvEgLOMyx"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1599,
-   "follow_request_sent": false,
-   "followers_count": 2978,
-   "following": false,
-   "friends_count": 412,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 826017036451061800,
-   "id_str": "826017036451061761",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 113,
-   "location": "Rieux-Volvestre, France",
-   "name": "E. Toutut-Picard",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/826017036451061761/1563374028",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1151489405435154432/5DImW7QL_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151489405435154432/5DImW7QL_normal.png",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "etoututpicard",
-   "statuses_count": 3121,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/ATvEgLOMyx",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Elisabeth Toutut Picard, Députée de la 7ème circ. de Haute-Garonne Ex- Dir. d'hôpitaux et Dev. Durable du CHU de Toulouse. #circo3107",
-  "twitter_favourites": 1599,
-  "twitter_followers": 2978,
-  "twitter_following": 412,
-  "twitter_id": 826017036451061800,
-  "twitter_listed": 113,
-  "twitter_name": "E. Toutut-Picard",
-  "twitter_protected": false,
-  "twitter_tweets": 3121,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719540",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719540",
-  "url_nosdeputes": "https://www.nosdeputes.fr/elisabeth-toutut-picard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/elisabeth-toutut-picard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719540"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Élisabeth-Toutut-Picard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719540",
@@ -914,10 +775,10 @@
   "id": "826017036451061761",
   "name": "E. Toutut-Picard",
   "public_metrics": {
-   "followers_count": 2984,
+   "followers_count": 2994,
    "following_count": 412,
-   "listed_count": 114,
-   "tweet_count": 3130
+   "listed_count": 113,
+   "tweet_count": 3145
   },
   "username": "etoututpicard"
  },

@@ -57,142 +57,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "127 Boulevard Clemenceau 59700 Marcq-en-Barœul Téléphone : 06 82 31 91 85"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Laïla Majd"
-   },
-   {
-    "collaborateur": "Mme Cécile Gabrel"
-   },
-   {
-    "collaborateur": "M. Philippe Reich"
-   },
-   {
-    "collaborateur": "M. Louis Delemer"
-   },
-   {
-    "collaborateur": "M. Alexandre Saada"
-   }
-  ],
-  "date_naissance": "1976-06-23",
-  "emails": [
-   {
-    "email": "valerie.petit@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 164,
-  "id_an": "720500",
-  "lieu_naissance": "Meaux (Seine-et-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Valérie Petit",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Petit",
-  "num_circo": 9,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "224",
-  "prenom": "Valérie",
-  "profession": "Enseignant chercheur",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/ValeriePetit_AN",
-   "https://instagram.com/valerie_petit_deputee"
-  ],
-  "slug": "valerie-petit",
   "twitter": "ValeriePetit_AN",
-  "twitter_created_at": "2017-04-02T07:54:06",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 02 07:54:06 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🎈🌳🇫🇷Députée du Nord, porte-parole @agirensemble_an, Com. DevDurable, libérale, ecolo, républicaine #RevenuUniversel #Biodiversite #Droits #libertes #RSE",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "instagram.com/valerie_petit_…",
-       "expanded_url": "https://instagram.com/valerie_petit_deputee",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/6TPTuuPdtU"
-      }
-     ]
-    }
-   },
-   "favourites_count": 22179,
-   "follow_request_sent": false,
-   "followers_count": 7117,
-   "following": false,
-   "friends_count": 1808,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 848443405676032000,
-   "id_str": "848443405676032000",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 131,
-   "location": "Lille, France",
-   "name": "Valérie Petit",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/848443405676032000/1614094418",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1350889599116185602/Y_-dqDg3_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350889599116185602/Y_-dqDg3_normal.jpg",
-   "profile_link_color": "FF691F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "ValeriePetit_AN",
-   "statuses_count": 8690,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/6TPTuuPdtU",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "🎈🌳🇫🇷Députée du Nord, porte-parole @agirensemble_an, Com. DevDurable, libérale, ecolo, républicaine #RevenuUniversel #Biodiversite #Droits #libertes #RSE",
-  "twitter_favourites": 22179,
-  "twitter_followers": 7117,
-  "twitter_following": 1808,
-  "twitter_id": 848443405676032000,
-  "twitter_listed": 131,
-  "twitter_name": "Valérie Petit",
-  "twitter_protected": false,
-  "twitter_tweets": 8690,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720500",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720500",
-  "url_nosdeputes": "https://www.nosdeputes.fr/valerie-petit",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/valerie-petit/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720500"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Valérie-Petit",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720500",
@@ -678,10 +544,10 @@
   "id": "848443405676032000",
   "name": "Valérie Petit",
   "public_metrics": {
-   "followers_count": 7196,
-   "following_count": 1813,
+   "followers_count": 7232,
+   "following_count": 1825,
    "listed_count": 131,
-   "tweet_count": 8716
+   "tweet_count": 8770
   },
   "username": "ValeriePetit_AN"
  },

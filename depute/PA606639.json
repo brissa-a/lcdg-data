@@ -65,143 +65,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP Téléphone : 01.40.63.76.58"
-   },
-   {
-    "adresse": "Permanence parlementaire 129 Rue Andy Warhol Résidence des Arts 34000 Montpellier"
-   },
-   {
-    "adresse": "Mairie 1 Place Georges Frèches 34265 Montpellier cedex 2"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Montpellier / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Fadila Ichou"
-   }
-  ],
-  "date_naissance": "1958-01-22",
-  "emails": [
-   {
-    "email": "vignalpatrick@gmail.com"
-   },
-   {
-    "email": "patrick.vignal@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 293,
-  "id_an": "606639",
-  "lieu_naissance": "Montpellier (Hérault)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Patrick Vignal",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Vignal",
-  "num_circo": 9,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "389",
-  "prenom": "Patrick",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.patrickvignal.fr",
-   "https://twitter.com/PatrickVignal"
-  ],
-  "slug": "patrick-vignal",
   "twitter": "PatrickVignal",
-  "twitter_created_at": "2012-11-30T11:03:32",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Nov 30 11:03:32 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de 9ème circonscription de l'Hérault #Circo3409 - \nmembre de la Commission des Affaires culturelles et de l'Éducation",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "patrickvignal.fr",
-       "expanded_url": "http://www.patrickvignal.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/RDvDNuy7v9"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4175,
-   "follow_request_sent": false,
-   "followers_count": 8262,
-   "following": false,
-   "friends_count": 4556,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 980242016,
-   "id_str": "980242016",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 221,
-   "location": "Montpellier / Paris",
-   "name": "Patrick Vignal",
-   "notifications": false,
-   "profile_background_color": "131516",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/980242016/1507733320",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/878338691734700032/-i0AWskA_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/878338691734700032/-i0AWskA_normal.jpg",
-   "profile_link_color": "C81522",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "EFEFEF",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "PatrickVignal",
-   "statuses_count": 14101,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/RDvDNuy7v9",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de 9ème circonscription de l'Hérault #Circo3409 - membre de la Commission des Affaires culturelles et de l'Éducation",
-  "twitter_favourites": 4175,
-  "twitter_followers": 8262,
-  "twitter_following": 4556,
-  "twitter_id": 980242016,
-  "twitter_listed": 221,
-  "twitter_name": "Patrick Vignal",
-  "twitter_protected": false,
-  "twitter_tweets": 14101,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606639",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606639",
-  "url_nosdeputes": "https://www.nosdeputes.fr/patrick-vignal",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/patrick-vignal/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606639"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Patrick-Vignal",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA606639",
@@ -420,10 +285,10 @@
   "id": "980242016",
   "name": "Patrick Vignal",
   "public_metrics": {
-   "followers_count": 8261,
-   "following_count": 4557,
+   "followers_count": 8264,
+   "following_count": 4558,
    "listed_count": 221,
-   "tweet_count": 14103
+   "tweet_count": 14117
   },
   "username": "PatrickVignal"
  },

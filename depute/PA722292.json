@@ -57,150 +57,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 8 Rue François Vernay 69005 Lyon Téléphone : 04.72.00.52.03"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.67.63"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Métropole de Lyon (Lyon) / Conseil municipal / conseiller"
-   },
-   {
-    "mandat": "Lyon / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Lyon 5ème Arrondissement / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Thomas Montmessin"
-   },
-   {
-    "collaborateur": "Mme Sandra Mondon"
-   },
-   {
-    "collaborateur": "Mme Eléonore Branchy-Carrière"
-   }
-  ],
-  "date_naissance": "1971-01-11",
-  "emails": [
-   {
-    "email": "thomas.rudigoz@assemblee-nationale.fr"
-   },
-   {
-    "email": "trudigoz2017@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 319,
-  "id_an": "722292",
-  "lieu_naissance": "Lyon (Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 3,
-  "nom": "Thomas Rudigoz",
-  "nom_circo": "Rhône",
-  "nom_de_famille": "Rudigoz",
-  "num_circo": 1,
-  "num_deptmt": "69",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "546",
-  "prenom": "Thomas",
-  "profession": null,
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/trudigoz",
-   "https://m.facebook.com/Trudigoz",
-   "https://fr-fr.facebook.com/thomas.rudigoz"
-  ],
-  "slug": "thomas-rudigoz",
   "twitter": "trudigoz",
-  "twitter_created_at": "2011-08-02T18:09:21",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Aug 02 18:09:21 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 1ère circo de Lyon - Commission des Lois - Conseiller métropolitain membre du groupe @progressistesGL",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "m.facebook.com/Trudigoz",
-       "expanded_url": "https://m.facebook.com/Trudigoz",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hol2KUms0X"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3600,
-   "follow_request_sent": false,
-   "followers_count": 4235,
-   "following": false,
-   "friends_count": 1203,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 347374931,
-   "id_str": "347374931",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 128,
-   "location": "Lyon 5e",
-   "name": "Thomas Rudigoz",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/347374931/1524836240",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/869180733885120513/FC1rGaWU_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/869180733885120513/FC1rGaWU_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "trudigoz",
-   "statuses_count": 2151,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hol2KUms0X",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 1ère circo de Lyon - Commission des Lois - Conseiller métropolitain membre du groupe @progressistesGL",
-  "twitter_favourites": 3600,
-  "twitter_followers": 4235,
-  "twitter_following": 1203,
-  "twitter_id": 347374931,
-  "twitter_listed": 128,
-  "twitter_name": "Thomas Rudigoz",
-  "twitter_protected": false,
-  "twitter_tweets": 2151,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722292",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722292",
-  "url_nosdeputes": "https://www.nosdeputes.fr/thomas-rudigoz",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/thomas-rudigoz/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722292"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Thomas-Rudigoz",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722292",
@@ -894,10 +752,10 @@
   "id": "347374931",
   "name": "Thomas Rudigoz",
   "public_metrics": {
-   "followers_count": 4240,
+   "followers_count": 4252,
    "following_count": 1204,
    "listed_count": 128,
-   "tweet_count": 2155
+   "tweet_count": 2160
   },
   "username": "trudigoz"
  },

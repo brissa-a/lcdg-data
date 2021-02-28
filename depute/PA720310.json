@@ -79,147 +79,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Petite-Rosselle / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sophia Braun"
-   },
-   {
-    "collaborateur": "M. Thomas Patti"
-   },
-   {
-    "collaborateur": "Mme Martine Kirchhoff"
-   },
-   {
-    "collaborateur": "M. Gilles Boccheciampe"
-   },
-   {
-    "collaborateur": "M. Anthony Thiel"
-   }
-  ],
-  "date_naissance": "1975-08-12",
-  "emails": [
-   {
-    "email": "christophe.arend@assemblee-nationale.fr"
-   },
-   {
-    "email": "c.arend5706@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 220,
-  "id_an": "720310",
-  "lieu_naissance": "Forbach (Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Christophe Arend",
-  "nom_circo": "Moselle",
-  "nom_de_famille": "Arend",
-  "num_circo": 6,
-  "num_deptmt": "57",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "514",
-  "prenom": "Christophe",
-  "profession": "Dentiste",
-  "sexe": "H",
-  "sites_web": [
-   "http://christophe-arend.fr",
-   "https://twitter.com/christophearend",
-   "https://legislatives.en-marche.fr/candidat/moselle-6eme-circonscription"
-  ],
-  "slug": "christophe-arend",
   "twitter": "christophearend",
-  "twitter_created_at": "2012-04-15T11:01:03",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 15 11:01:03 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Moselle #Forbach @AN_DevDur Pdt groupe amitié🇫🇷🇩🇪#GAFA et bureau Ass. 🇫🇷🇩🇪 #APFA ComCoopTransfront #CCT Forum d’avenir🇫🇷🇩🇪#FAFA @LREM @TdP",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "christophe-arend.fr",
-       "expanded_url": "http://christophe-arend.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gLli0EcTPd"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8273,
-   "follow_request_sent": false,
-   "followers_count": 4409,
-   "following": false,
-   "friends_count": 1437,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 554262922,
-   "id_str": "554262922",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 110,
-   "location": "Petite-Rosselle, France",
-   "name": "Christophe Arend",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/554262922/1526809497",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/998137637314576384/BgGqZHDu_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/998137637314576384/BgGqZHDu_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "christophearend",
-   "statuses_count": 5657,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/gLli0EcTPd",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Moselle #Forbach @AN_DevDur Pdt groupe amitié🇫🇷🇩🇪#GAFA et bureau Ass. 🇫🇷🇩🇪 #APFA ComCoopTransfront #CCT Forum d’avenir🇫🇷🇩🇪#FAFA @LREM @TdP",
-  "twitter_favourites": 8273,
-  "twitter_followers": 4409,
-  "twitter_following": 1437,
-  "twitter_id": 554262922,
-  "twitter_listed": 110,
-  "twitter_name": "Christophe Arend",
-  "twitter_protected": false,
-  "twitter_tweets": 5657,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720310",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720310",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christophe-arend",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christophe-arend/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720310"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christophe-Arend",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720310",
@@ -572,10 +433,10 @@
   "id": "554262922",
   "name": "Christophe Arend",
   "public_metrics": {
-   "followers_count": 4419,
-   "following_count": 1440,
-   "listed_count": 110,
-   "tweet_count": 5663
+   "followers_count": 4440,
+   "following_count": 1443,
+   "listed_count": 111,
+   "tweet_count": 5672
   },
   "username": "christophearend"
  },

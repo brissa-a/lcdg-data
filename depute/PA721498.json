@@ -54,141 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 39 Rue des Épinettes 75017 Paris"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.94.05"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Amaury Hoymans"
-   },
-   {
-    "collaborateur": "Mme Manon Martinez"
-   },
-   {
-    "collaborateur": "Mme Aline Leveque"
-   }
-  ],
-  "date_naissance": "1982-05-14",
-  "emails": [
-   {
-    "email": "stanislas.guerini@assemblee-nationale.fr"
-   },
-   {
-    "email": "stanislas.guerini@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 143,
-  "id_an": "721498",
-  "lieu_naissance": "Paris 15ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Stanislas Guerini",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Guerini",
-  "num_circo": 3,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "293",
-  "prenom": "Stanislas",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.stanislasguerini.fr",
-   "https://twitter.com/StanGuerini",
-   "https://fr-fr.facebook.com/StanGuerini",
-   "https://www.instagram.com/stanislasguerini"
-  ],
-  "slug": "stanislas-guerini",
   "twitter": "StanGuerini",
-  "twitter_created_at": "2013-09-27T16:12:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Sep 27 16:12:15 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Délégué général @enmarchefr.\nDéputé de Paris.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "instagram.com/stanislasgueri…",
-       "expanded_url": "https://www.instagram.com/stanislasguerini/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/6iGaoU2Nd7"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8889,
-   "follow_request_sent": false,
-   "followers_count": 54600,
-   "following": false,
-   "friends_count": 1271,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1911591212,
-   "id_str": "1911591212",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 352,
-   "location": "Paris, France",
-   "name": "Stanislas Guerini",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911591212/1612556368",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1271392694674370563/AlMlNzb4_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271392694674370563/AlMlNzb4_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "StanGuerini",
-   "statuses_count": 4819,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/6iGaoU2Nd7",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Délégué général @enmarchefr. Député de Paris.",
-  "twitter_favourites": 8889,
-  "twitter_followers": 54600,
-  "twitter_following": 1271,
-  "twitter_id": 1911591212,
-  "twitter_listed": 352,
-  "twitter_name": "Stanislas Guerini",
-  "twitter_protected": false,
-  "twitter_tweets": 4819,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721498",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721498",
-  "url_nosdeputes": "https://www.nosdeputes.fr/stanislas-guerini",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/stanislas-guerini/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721498"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Stanislas-Guerini",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721498",
@@ -811,10 +678,10 @@
   "id": "1911591212",
   "name": "Stanislas Guerini",
   "public_metrics": {
-   "followers_count": 54626,
+   "followers_count": 54684,
    "following_count": 1271,
-   "listed_count": 353,
-   "tweet_count": 4821
+   "listed_count": 354,
+   "tweet_count": 4822
   },
   "username": "StanGuerini"
  },

@@ -300,140 +300,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 2 Avenue du Maréchal Joffre 55100 Verdun"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Pierre-Emmanuel Focks"
-   },
-   {
-    "collaborateur": "M. Moïse Medallel"
-   },
-   {
-    "collaborateur": "Mme Roxane Jacqueray"
-   },
-   {
-    "collaborateur": "Mme Nina Plantin"
-   }
-  ],
-  "date_naissance": "1971-10-14",
-  "emails": [
-   {
-    "email": "emilie.cariou@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 567,
-  "id_an": "720298",
-  "lieu_naissance": "VERDUN (Meuse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Émilie Cariou",
-  "nom_circo": "Meuse",
-  "nom_de_famille": "Cariou",
-  "num_circo": 2,
-  "num_deptmt": "55",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "637",
-  "prenom": "Émilie",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "F",
-  "sites_web": [
-   "http://emiliecariou.fr",
-   "https://twitter.com/EmilieCariou",
-   "https://fr-fr.facebook.com/EmilieCariou2017"
-  ],
-  "slug": "emilie-cariou",
   "twitter": "EmilieCariou",
-  "twitter_created_at": "2012-09-09T19:23:07",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Sep 09 19:23:07 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Co-Présidente des Nouveaux Démocrates  - Députée de la 2ème circonscription de la Meuse Membre de la Commission des finances. @NDemocrates_",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "emiliecariou.fr",
-       "expanded_url": "http://emiliecariou.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/GQYS2W6FCg"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4252,
-   "follow_request_sent": false,
-   "followers_count": 6723,
-   "following": false,
-   "friends_count": 937,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 813728148,
-   "id_str": "813728148",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 129,
-   "location": "Verdun, France",
-   "name": "Émilie Cariou",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/813728148/1608138780",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/910772756886802433/mC1boNFE_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/910772756886802433/mC1boNFE_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "EmilieCariou",
-   "statuses_count": 3144,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/GQYS2W6FCg",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Co-Présidente des Nouveaux Démocrates - Députée de la 2ème circonscription de la Meuse Membre de la Commission des finances. @NDemocrates_",
-  "twitter_favourites": 4252,
-  "twitter_followers": 6723,
-  "twitter_following": 937,
-  "twitter_id": 813728148,
-  "twitter_listed": 129,
-  "twitter_name": "Émilie Cariou",
-  "twitter_protected": false,
-  "twitter_tweets": 3144,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720298",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720298",
-  "url_nosdeputes": "https://www.nosdeputes.fr/emilie-cariou",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/emilie-cariou/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720298"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Émilie-Cariou",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720298",
@@ -1304,10 +1172,10 @@
   "id": "813728148",
   "name": "Émilie Cariou",
   "public_metrics": {
-   "followers_count": 6732,
-   "following_count": 936,
-   "listed_count": 129,
-   "tweet_count": 3149
+   "followers_count": 6796,
+   "following_count": 934,
+   "listed_count": 128,
+   "tweet_count": 3161
   },
   "username": "EmilieCariou"
  },

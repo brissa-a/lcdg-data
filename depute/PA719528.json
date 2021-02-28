@@ -95,155 +95,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 2 Bis Rue des Marronniers 31140 Fonbeauzard"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Nicolas Le Cheviller"
-   },
-   {
-    "collaborateur": "M. Jérémy Haddad"
-   },
-   {
-    "collaborateur": "M. Patrick Barrau"
-   },
-   {
-    "collaborateur": "M. Yoann Peres"
-   },
-   {
-    "collaborateur": "Mme Elise Guy-Moyat"
-   }
-  ],
-  "date_naissance": "1965-10-14",
-  "emails": [
-   {
-    "email": "jean-francois.portarrieu@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@portarrieu.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 160,
-  "id_an": "719528",
-  "lieu_naissance": "Toulouse (Haute-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-François Portarrieu",
-  "nom_circo": "Haute-Garonne",
-  "nom_de_famille": "Portarrieu",
-  "num_circo": 5,
-  "num_deptmt": "31",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "616",
-  "prenom": "Jean-François",
-  "profession": "Journaliste",
-  "sexe": "H",
-  "sites_web": [
-   "http://portarrieu.fr",
-   "https://twitter.com/jfportarrieu"
-  ],
-  "slug": "jean-francois-portarrieu",
   "twitter": "jfportarrieu",
-  "twitter_created_at": "2012-08-22T16:14:03",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Aug 22 16:14:03 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du #Nordtoulousain #circo3105 @AssembleeNat 🇫🇷 Président de la commission Prospective de @TlseMetropole 🏉 Président du https://t.co/GLDVwzJ9hk",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "xvparlementaire.fr",
-       "expanded_url": "http://xvparlementaire.fr",
-       "indices": [
-        126,
-        149
-       ],
-       "url": "https://t.co/GLDVwzJ9hk"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "portarrieu.fr",
-       "expanded_url": "http://www.portarrieu.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/OBzZ7tNyCk"
-      }
-     ]
-    }
-   },
-   "favourites_count": 764,
-   "follow_request_sent": false,
-   "followers_count": 2628,
-   "following": false,
-   "friends_count": 804,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 773993798,
-   "id_str": "773993798",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 96,
-   "location": "Toulouse, France",
-   "name": "Jean-François Portarrieu",
-   "notifications": false,
-   "profile_background_color": "0099B9",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/773993798/1601382938",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1313127203413123075/JYx_Bhr4_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313127203413123075/JYx_Bhr4_normal.jpg",
-   "profile_link_color": "0099B9",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "jfportarrieu",
-   "statuses_count": 787,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/OBzZ7tNyCk",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du #Nordtoulousain #circo3105 @AssembleeNat 🇫🇷 Président de la commission Prospective de @TlseMetropole 🏉 Président du https://t.co/GLDVwzJ9hk",
-  "twitter_favourites": 764,
-  "twitter_followers": 2628,
-  "twitter_following": 804,
-  "twitter_id": 773993798,
-  "twitter_listed": 96,
-  "twitter_name": "Jean-François Portarrieu",
-  "twitter_protected": false,
-  "twitter_tweets": 787,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719528",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719528",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-francois-portarrieu",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-francois-portarrieu/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719528"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-François-Portarrieu",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719528",
@@ -677,7 +530,7 @@
   "id": "773993798",
   "name": "Jean-François Portarrieu",
   "public_metrics": {
-   "followers_count": 2632,
+   "followers_count": 2639,
    "following_count": 804,
    "listed_count": 96,
    "tweet_count": 787

@@ -55,138 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pyrénées-Orientales / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Jean-Bernard Gaillot"
-   },
-   {
-    "collaborateur": "M. Laurent Rosello"
-   },
-   {
-    "collaborateur": "Mme Isabelle De Noell-Marchesan"
-   }
-  ],
-  "date_naissance": "1974-06-21",
-  "emails": [
-   {
-    "email": "romain.grau@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 208,
-  "id_an": "720790",
-  "lieu_naissance": "Perpignan (Pyrénées-Orientales)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Romain Grau",
-  "nom_circo": "Pyrénées-Orientales",
-  "nom_de_famille": "Grau",
-  "num_circo": 1,
-  "num_deptmt": "66",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "531",
-  "prenom": "Romain",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.romain-grau.com",
-   "http://www.romaingrau2020.com",
-   "https://twitter.com/RomainGrau"
-  ],
-  "slug": "romain-grau",
   "twitter": "RomainGrau",
-  "twitter_created_at": "2012-10-05T14:09:58",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Oct 05 14:09:58 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député des Pyrénées-Orientales #6601 - #LaREM | @AssembleeNat Membre @AN_Finances | conseiller départemental du canton de Perpignan Sud",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "romain-grau.com",
-       "expanded_url": "https://www.romain-grau.com/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/JHd9qcYuAg"
-      }
-     ]
-    }
-   },
-   "favourites_count": 7589,
-   "follow_request_sent": false,
-   "followers_count": 8081,
-   "following": false,
-   "friends_count": 8244,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863116339,
-   "id_str": "863116339",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 149,
-   "location": "Perpignan",
-   "name": "Romain Grau",
-   "notifications": false,
-   "profile_background_color": "1880C8",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863116339/1589140082",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1355583115419398149/pvSkGxKx_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355583115419398149/pvSkGxKx_normal.jpg",
-   "profile_link_color": "096280",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RomainGrau",
-   "statuses_count": 4982,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/JHd9qcYuAg",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Pyrénées-Orientales #6601 - #LaREM | @AssembleeNat Membre @AN_Finances | conseiller départemental du canton de Perpignan Sud",
-  "twitter_favourites": 7589,
-  "twitter_followers": 8081,
-  "twitter_following": 8244,
-  "twitter_id": 863116339,
-  "twitter_listed": 149,
-  "twitter_name": "Romain Grau",
-  "twitter_protected": false,
-  "twitter_tweets": 4982,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720790",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720790",
-  "url_nosdeputes": "https://www.nosdeputes.fr/romain-grau",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/romain-grau/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720790"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Romain-Grau",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720790",
@@ -479,10 +349,10 @@
   "id": "863116339",
   "name": "Romain Grau",
   "public_metrics": {
-   "followers_count": 8085,
-   "following_count": 8243,
+   "followers_count": 8087,
+   "following_count": 8239,
    "listed_count": 149,
-   "tweet_count": 4988
+   "tweet_count": 4998
   },
   "username": "RomainGrau"
  },

@@ -136,141 +136,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence 2 Rue de l'Étape 51100 Reims Téléphone : 03 26 36 74 50"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Romain Chantemargue"
-   },
-   {
-    "collaborateur": "M. Peter Lenfant"
-   },
-   {
-    "collaborateur": "M. Cheick Keita"
-   },
-   {
-    "collaborateur": "M. Youri Philip"
-   }
-  ],
-  "date_naissance": "1987-05-15",
-  "emails": [
-   {
-    "email": "aina.kuric@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 333,
-  "id_an": "720214",
-  "lieu_naissance": "Creil (Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Aina Kuric",
-  "nom_circo": "Marne",
-  "nom_de_famille": "Kuric",
-  "num_circo": 2,
-  "num_deptmt": "51",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "236",
-  "prenom": "Aina",
-  "profession": "Chef d'entreprise dans l'œnologie",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.ainakuric.fr",
-   "https://twitter.com/ainakuric",
-   "http://http://www.ainakuric.fr",
-   "https://fr-fr.facebook.com/ainakuric51"
-  ],
-  "slug": "aina-kuric",
   "twitter": "ainakuric",
-  "twitter_created_at": "2015-10-29T20:48:22",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 29 20:48:22 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la Marne 🇫🇷🇪🇺 | Membre de la commission des affaires étrangères | 🔴⚪ #Reims #Champagne | #ODD #Agenda2030 | @agirensemble_an",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "ainakuric.fr",
-       "expanded_url": "http://www.ainakuric.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/tAUuiryVll"
-      }
-     ]
-    }
-   },
-   "favourites_count": 6197,
-   "follow_request_sent": false,
-   "followers_count": 4038,
-   "following": false,
-   "friends_count": 884,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 4070381506,
-   "id_str": "4070381506",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 103,
-   "location": "Reims, France",
-   "name": "Aina Kuric",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4070381506/1613065359",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1263768409147428864/KTXB4vXg_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263768409147428864/KTXB4vXg_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ainakuric",
-   "statuses_count": 2234,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/tAUuiryVll",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la Marne 🇫🇷🇪🇺 | Membre de la commission des affaires étrangères | 🔴⚪ #Reims #Champagne | #ODD #Agenda2030 | @agirensemble_an",
-  "twitter_favourites": 6197,
-  "twitter_followers": 4038,
-  "twitter_following": 884,
-  "twitter_id": 4070381506,
-  "twitter_listed": 103,
-  "twitter_name": "Aina Kuric",
-  "twitter_protected": false,
-  "twitter_tweets": 2234,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720214",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720214",
-  "url_nosdeputes": "https://www.nosdeputes.fr/aina-kuric",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/aina-kuric/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720214"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Aina-Kuric",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720214",
@@ -1093,10 +960,10 @@
   "id": "4070381506",
   "name": "Aina Kuric",
   "public_metrics": {
-   "followers_count": 4040,
-   "following_count": 884,
-   "listed_count": 104,
-   "tweet_count": 2237
+   "followers_count": 4042,
+   "following_count": 883,
+   "listed_count": 103,
+   "tweet_count": 2240
   },
   "username": "ainakuric"
  },

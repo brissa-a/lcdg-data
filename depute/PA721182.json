@@ -67,139 +67,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.75.31"
-   },
-   {
-    "adresse": "Varsovie/Konstancin Téléphone : 0048 604 460 931 Téléphone : 0048 607 781 129"
-   },
-   {
-    "adresse": "Allemagne et Autriche Téléphone : +49 (0)175 66 48 589"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Yoann Theriaud"
-   },
-   {
-    "collaborateur": "M. Tancrède Adnot"
-   },
-   {
-    "collaborateur": "Mme Claire Staudenmayer"
-   }
-  ],
-  "date_naissance": "1961-02-10",
-  "emails": [
-   {
-    "email": "frederic.petit@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 213,
-  "id_an": "721182",
-  "lieu_naissance": "Marseille (Bouches-du-Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Frédéric Petit",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "Petit",
-  "num_circo": 7,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "260",
-  "prenom": "Frédéric",
-  "profession": "Ingénieur",
-  "sexe": "H",
-  "sites_web": [
-   "http://frederic-petit.eu",
-   "https://twitter.com/fpetitAN"
-  ],
-  "slug": "frederic-petit",
   "twitter": "fpetitAN",
-  "twitter_created_at": "2017-05-11T07:48:35",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 11 07:48:35 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député @MoDem des Français établis en Allemagne, Europe centrale et Balkans | Franco🇫🇷🤝🇩🇪Allemand |Transition écologique ♻️🇪🇺| L’œil sur le Bélarus⚪️🔴⚪️",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "frederic-petit.eu",
-       "expanded_url": "http://frederic-petit.eu",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/RxPp9j91eF"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3078,
-   "follow_request_sent": false,
-   "followers_count": 5040,
-   "following": false,
-   "friends_count": 2166,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 862575147085164500,
-   "id_str": "862575147085164544",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 106,
-   "location": "🏛CommissionAffairesEtrangères",
-   "name": "Frédéric Petit - Cœur de l'Europe",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862575147085164544/1605196957",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1305532943704743938/QVZ8W6at_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305532943704743938/QVZ8W6at_normal.jpg",
-   "profile_link_color": "FF691F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "fpetitAN",
-   "statuses_count": 4564,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/RxPp9j91eF",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @MoDem des Français établis en Allemagne, Europe centrale et Balkans | Franco🇫🇷🤝🇩🇪Allemand |Transition écologique ♻️🇪🇺| L’œil sur le Bélarus⚪️🔴⚪️",
-  "twitter_favourites": 3078,
-  "twitter_followers": 5040,
-  "twitter_following": 2166,
-  "twitter_id": 862575147085164500,
-  "twitter_listed": 106,
-  "twitter_name": "Frédéric Petit - Cœur de l'Europe",
-  "twitter_protected": false,
-  "twitter_tweets": 4564,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721182",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721182",
-  "url_nosdeputes": "https://www.nosdeputes.fr/frederic-petit",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/frederic-petit/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721182"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Frédéric-Petit",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721182",
@@ -1012,10 +881,10 @@
   "id": "862575147085164544",
   "name": "Frédéric Petit - Cœur de l'Europe",
   "public_metrics": {
-   "followers_count": 5045,
-   "following_count": 2166,
-   "listed_count": 105,
-   "tweet_count": 4578
+   "followers_count": 5124,
+   "following_count": 2175,
+   "listed_count": 107,
+   "tweet_count": 4614
   },
   "username": "fpetitAN"
  },

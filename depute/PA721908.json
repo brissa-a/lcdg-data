@@ -56,141 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.65.81"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Valérie Singer"
-   },
-   {
-    "collaborateur": "Mme Mathilde Durieu du Pradel"
-   },
-   {
-    "collaborateur": "M. Tanguy Buche"
-   },
-   {
-    "collaborateur": "M. Marc Lerouge"
-   },
-   {
-    "collaborateur": "M. Romain Pinchon"
-   }
-  ],
-  "date_naissance": "1970-12-07",
-  "emails": [
-   {
-    "email": "yael.braun-pivet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 296,
-  "id_an": "721908",
-  "lieu_naissance": "Nancy (Meurthe-et-Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Yaël Braun-Pivet",
-  "nom_circo": "Yvelines",
-  "nom_de_famille": "Braun-Pivet",
-  "num_circo": 5,
-  "num_deptmt": "78",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "481",
-  "prenom": "Yaël",
-  "profession": "Avocate",
-  "sexe": "F",
-  "sites_web": [
-   "https://yaelbraunpivet.fr",
-   "https://twitter.com/YaelBRAUNPIVET",
-   "http://instagram.com/yael.braunpivet",
-   "https://fr-fr.facebook.com/yaelBraunPivet"
-  ],
-  "slug": "yael-braun-pivet",
   "twitter": "YaelBRAUNPIVET",
-  "twitter_created_at": "2011-10-12T19:29:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Oct 12 19:29:44 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Présidente de la Commission des Lois de l'Assemblée Nationale -  Députée des Yvelines @AN_ComLois @LaREM_AN #DirectAN #circo7805",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "instagram.com/yael.braunpive…",
-       "expanded_url": "http://instagram.com/yael.braunpivet/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/LyGvNePQbu"
-      }
-     ]
-    }
-   },
-   "favourites_count": 12010,
-   "follow_request_sent": false,
-   "followers_count": 24496,
-   "following": false,
-   "friends_count": 1222,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 389644606,
-   "id_str": "389644606",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 247,
-   "location": "Yvelines, Ile-de-France",
-   "name": "Yaël BRAUN-PIVET",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/389644606/1611240919",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1301815706057613314/mR6yD724_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301815706057613314/mR6yD724_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "YaelBRAUNPIVET",
-   "statuses_count": 4048,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/LyGvNePQbu",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Présidente de la Commission des Lois de l'Assemblée Nationale - Députée des Yvelines @AN_ComLois @LaREM_AN #DirectAN #circo7805",
-  "twitter_favourites": 12010,
-  "twitter_followers": 24496,
-  "twitter_following": 1222,
-  "twitter_id": 389644606,
-  "twitter_listed": 247,
-  "twitter_name": "Yaël BRAUN-PIVET",
-  "twitter_protected": false,
-  "twitter_tweets": 4048,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721908",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721908",
-  "url_nosdeputes": "https://www.nosdeputes.fr/yael-braun-pivet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/yael-braun-pivet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721908"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Yaël-Braun-Pivet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721908",
@@ -955,10 +822,10 @@
   "id": "389644606",
   "name": "Yaël BRAUN-PIVET",
   "public_metrics": {
-   "followers_count": 24529,
-   "following_count": 1224,
-   "listed_count": 248,
-   "tweet_count": 4050
+   "followers_count": 24580,
+   "following_count": 1227,
+   "listed_count": 249,
+   "tweet_count": 4057
   },
   "username": "YaelBRAUNPIVET"
  },

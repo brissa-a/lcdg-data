@@ -57,123 +57,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 12 Place d'Espagne 63000 Clermont-Ferrand Téléphone : 04 73 16 62 40"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Joismy Barroso Mukombo"
-   },
-   {
-    "collaborateur": "M. Sylvain Gony"
-   },
-   {
-    "collaborateur": "Mme Céline Molinier"
-   }
-  ],
-  "date_naissance": "1968-01-21",
-  "emails": [
-   {
-    "email": "valerie.thomas@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 545,
-  "id_an": "720830",
-  "lieu_naissance": "Desertines (Allier)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Valérie Thomas",
-  "nom_circo": "Puy-de-Dôme",
-  "nom_de_famille": "Thomas",
-  "num_circo": 1,
-  "num_deptmt": "63",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "534",
-  "prenom": "Valérie",
-  "profession": "Autre profession libérale",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/Vthomas_63",
-   "https://valeriethomassite.wordpress.com"
-  ],
-  "slug": "valerie-thomas",
   "twitter": "Vthomas_63",
-  "twitter_created_at": "2017-05-16T20:05:47",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 20:05:47 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la première circonscription du Puy-de-Dôme.\nCommission des Affaires étrangères.",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 6107,
-   "follow_request_sent": false,
-   "followers_count": 2222,
-   "following": false,
-   "friends_count": 816,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 864572608674754600,
-   "id_str": "864572608674754565",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 86,
-   "location": "Clermont-Ferrand, France",
-   "name": "Valérie THOMAS",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864572608674754565/1495714073",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/865565348682227720/x9zQt9N-_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/865565348682227720/x9zQt9N-_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Vthomas_63",
-   "statuses_count": 1456,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la première circonscription du Puy-de-Dôme. Commission des Affaires étrangères.",
-  "twitter_favourites": 6107,
-  "twitter_followers": 2222,
-  "twitter_following": 816,
-  "twitter_id": 864572608674754600,
-  "twitter_listed": 86,
-  "twitter_name": "Valérie THOMAS",
-  "twitter_protected": false,
-  "twitter_tweets": 1456,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720830",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720830",
-  "url_nosdeputes": "https://www.nosdeputes.fr/valerie-thomas",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/valerie-thomas/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720830"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Valérie-Thomas",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720830",
@@ -1260,10 +1145,10 @@
   "id": "864572608674754565",
   "name": "Valérie THOMAS",
   "public_metrics": {
-   "followers_count": 2223,
-   "following_count": 816,
-   "listed_count": 87,
-   "tweet_count": 1456
+   "followers_count": 2229,
+   "following_count": 817,
+   "listed_count": 86,
+   "tweet_count": 1461
   },
   "username": "Vthomas_63"
  },

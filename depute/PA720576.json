@@ -95,144 +95,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 75 Rue des Maryrs de la Résistance Résidence Les Conti 60110 Meru Téléphone : 03 44 12 53 01"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.76.60"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pays de Thelle Ruraloise / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Chambly / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Cédric Pruvost"
-   },
-   {
-    "collaborateur": "M. Christian Bertelle"
-   },
-   {
-    "collaborateur": "M. Jérôme Furet"
-   }
-  ],
-  "date_naissance": "1959-12-03",
-  "emails": [
-   {
-    "email": "pascal.bois@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 452,
-  "id_an": "720576",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Pascal Bois",
-  "nom_circo": "Oise",
-  "nom_de_famille": "Bois",
-  "num_circo": 3,
-  "num_deptmt": "60",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "414",
-  "prenom": "Pascal",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://pascalbois.fr",
-   "https://twitter.com/PascalBoisLaREM",
-   "https://fr-fr.facebook.com/pascal.bois"
-  ],
-  "slug": "pascal-bois",
   "twitter": "PascalBoisLaREM",
-  "twitter_created_at": "2017-02-24T15:30:18",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Feb 24 15:30:18 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l’#Oise @LaRem_AN #circo6003 | Commission #AfCultAN #audiovisuel #ina #RadioFrance #culture |Pdt GA France/Rép. Dominicaine 🇫🇷🇩🇴",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "pascalbois.fr",
-       "expanded_url": "https://www.pascalbois.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/VCCm5UijRG"
-      }
-     ]
-    }
-   },
-   "favourites_count": 15637,
-   "follow_request_sent": false,
-   "followers_count": 4183,
-   "following": false,
-   "friends_count": 1316,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 835149861267849200,
-   "id_str": "835149861267849217",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 101,
-   "location": "Chambly, France",
-   "name": "Pascal BOIS",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/835149861267849217/1611935673",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1300331016872177664/Ku08pnjr_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300331016872177664/Ku08pnjr_normal.jpg",
-   "profile_link_color": "12A2FF",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "PascalBoisLaREM",
-   "statuses_count": 1883,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/VCCm5UijRG",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de l’#Oise @LaRem_AN #circo6003 | Commission #AfCultAN #audiovisuel #ina #RadioFrance #culture |Pdt GA France/Rép. Dominicaine 🇫🇷🇩🇴",
-  "twitter_favourites": 15637,
-  "twitter_followers": 4183,
-  "twitter_following": 1316,
-  "twitter_id": 835149861267849200,
-  "twitter_listed": 101,
-  "twitter_name": "Pascal BOIS",
-  "twitter_protected": false,
-  "twitter_tweets": 1883,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720576",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720576",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pascal-bois",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pascal-bois/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720576"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pascal-Bois",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720576",
@@ -879,7 +743,7 @@
   "id": "835149861267849217",
   "name": "Pascal BOIS",
   "public_metrics": {
-   "followers_count": 4185,
+   "followers_count": 4191,
    "following_count": 1316,
    "listed_count": 101,
    "tweet_count": 1883

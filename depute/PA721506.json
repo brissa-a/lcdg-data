@@ -55,141 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.67.87"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Paris (Paris) / Conseil municipal / conseillère"
-   },
-   {
-    "mandat": "Paris 17ème Arrondissement / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aurélie Belot"
-   },
-   {
-    "collaborateur": "M. Paul Brounais"
-   },
-   {
-    "collaborateur": "M. Paul Schmidtke"
-   }
-  ],
-  "date_naissance": "1959-04-12",
-  "emails": [
-   {
-    "email": "brigitte.kuster@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 139,
-  "id_an": "721506",
-  "lieu_naissance": "Saint-Cloud (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Brigitte Kuster",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Kuster",
-  "num_circo": 4,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "138",
-  "prenom": "Brigitte",
-  "profession": null,
-  "sexe": "F",
-  "sites_web": [
-   "http://brigittekuster.fr",
-   "https://twitter.com/Brigitte_Kuster",
-   "https://fr-fr.facebook.com/brigitte.kuster.9"
-  ],
-  "slug": "brigitte-kuster",
   "twitter": "Brigitte_Kuster",
-  "twitter_created_at": "2009-07-24T14:51:23",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jul 24 14:51:23 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🔸Députée de Paris. #Ternes #Monceau #Dauphine #Chaillot 🔸Ancien maire du 17 ème. 🔸Conseillère de Paris.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "brigittekuster.fr",
-       "expanded_url": "http://brigittekuster.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/YwaRiKIha1"
-      }
-     ]
-    }
-   },
-   "favourites_count": 15364,
-   "follow_request_sent": false,
-   "followers_count": 13764,
-   "following": false,
-   "friends_count": 1631,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 59800834,
-   "id_str": "59800834",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 346,
-   "location": "Paris",
-   "name": "Brigitte KUSTER",
-   "notifications": false,
-   "profile_background_color": "9AE4E8",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/59800834/1557495102",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/845208186722402306/eXlj0XGd_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/845208186722402306/eXlj0XGd_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "00A1D2",
-   "profile_sidebar_fill_color": "FF3262",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "brigitte_kuster",
-   "statuses_count": 22484,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/YwaRiKIha1",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🔸Députée de Paris. #Ternes #Monceau #Dauphine #Chaillot 🔸Ancien maire du 17 ème. 🔸Conseillère de Paris.",
-  "twitter_favourites": 15364,
-  "twitter_followers": 13764,
-  "twitter_following": 1631,
-  "twitter_id": 59800834,
-  "twitter_listed": 346,
-  "twitter_name": "Brigitte KUSTER",
-  "twitter_protected": false,
-  "twitter_tweets": 22484,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721506",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721506",
-  "url_nosdeputes": "https://www.nosdeputes.fr/brigitte-kuster",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/brigitte-kuster/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721506"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Brigitte-Kuster",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721506",
@@ -1359,10 +1226,10 @@
   "id": "59800834",
   "name": "Brigitte KUSTER",
   "public_metrics": {
-   "followers_count": 13763,
-   "following_count": 1634,
-   "listed_count": 346,
-   "tweet_count": 22488
+   "followers_count": 13772,
+   "following_count": 1637,
+   "listed_count": 345,
+   "tweet_count": 22500
   },
   "username": "brigitte_kuster"
  },

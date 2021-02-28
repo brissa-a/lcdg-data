@@ -51,133 +51,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.66.80"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Maxime Lelièvre"
-   },
-   {
-    "collaborateur": "M. Robin Fréret"
-   },
-   {
-    "collaborateur": "Mme Pegah Malek-Ahmadi"
-   }
-  ],
-  "date_naissance": "1986-11-02",
-  "emails": [
-   {
-    "email": "pieyre-alexandre.anglade@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 441,
-  "id_an": "721158",
-  "lieu_naissance": "Paris 16 (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Pieyre-Alexandre Anglade",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "Anglade",
-  "num_circo": 4,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "425",
-  "prenom": "Pieyre-Alexandre",
-  "profession": "Agent contractuel au Parlement européen",
-  "sexe": "H",
-  "sites_web": [
-   "https://panglade.eu",
-   "https://twitter.com/PA_Anglade"
-  ],
-  "slug": "pieyre-alexandre-anglade",
   "twitter": "PA_Anglade",
-  "twitter_created_at": "2013-03-10T03:31:35",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Mar 10 03:31:35 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député à l'Assemblée nationale, Porte-parole du groupe @LaREM_AN, membre du Bureau exécutif d’@enmarchefr responsable des Affaires européennes #Europe🇫🇷🇪🇺",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "panglade.eu",
-       "expanded_url": "https://panglade.eu/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/L6wFJ4Blnj"
-      }
-     ]
-    }
-   },
-   "favourites_count": 10021,
-   "follow_request_sent": false,
-   "followers_count": 12330,
-   "following": false,
-   "friends_count": 3286,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1255991936,
-   "id_str": "1255991936",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 187,
-   "location": "",
-   "name": "Pieyre-Alexandre Anglade",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255991936/1521747042",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1311398894211825665/85gnoi_q_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311398894211825665/85gnoi_q_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "PA_Anglade",
-   "statuses_count": 3705,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/L6wFJ4Blnj",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député à l'Assemblée nationale, Porte-parole du groupe @LaREM_AN, membre du Bureau exécutif d’@enmarchefr responsable des Affaires européennes #Europe🇫🇷🇪🇺",
-  "twitter_favourites": 10021,
-  "twitter_followers": 12330,
-  "twitter_following": 3286,
-  "twitter_id": 1255991936,
-  "twitter_listed": 187,
-  "twitter_name": "Pieyre-Alexandre Anglade",
-  "twitter_protected": false,
-  "twitter_tweets": 3705,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721158",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721158",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pieyre-alexandre-anglade",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pieyre-alexandre-anglade/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721158"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pieyre-Alexandre-Anglade",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721158",
@@ -883,10 +758,10 @@
   "id": "1255991936",
   "name": "Pieyre-Alexandre Anglade",
   "public_metrics": {
-   "followers_count": 12335,
-   "following_count": 3286,
-   "listed_count": 188,
-   "tweet_count": 3706
+   "followers_count": 12388,
+   "following_count": 3284,
+   "listed_count": 187,
+   "tweet_count": 3715
   },
   "username": "PA_Anglade"
  },

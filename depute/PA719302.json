@@ -91,137 +91,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 8 Place du Théâtre Bâtiment A - 3ème étage 26200 Montélimar Téléphone : 04 75 46 56 22"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Alexandre Moulin"
-   },
-   {
-    "collaborateur": "Mme Estelle Henriel"
-   },
-   {
-    "collaborateur": "M. Florent Campos"
-   }
-  ],
-  "date_naissance": "1985-10-12",
-  "emails": [
-   {
-    "email": "alice.thourot@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 540,
-  "id_an": "719302",
-  "lieu_naissance": "Bar-le-Duc (Meuse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Alice Thourot",
-  "nom_circo": "Drôme",
-  "nom_de_famille": "Thourot",
-  "num_circo": 2,
-  "num_deptmt": "26",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "452",
-  "prenom": "Alice",
-  "profession": "Avocat",
-  "sexe": "F",
-  "sites_web": [
-   "http://alicethourot.fr",
-   "https://twitter.com/AliceThourot",
-   "https://fr-fr.facebook.com/AThourot"
-  ],
-  "slug": "alice-thourot",
   "twitter": "AliceThourot",
-  "twitter_created_at": "2017-05-21T07:51:26",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun May 21 07:51:26 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la 2ème circonscription de la Drôme - #LaREM - Membre de la Commission des Lois.\n@LaREM_AN",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "alicethourot.fr",
-       "expanded_url": "http://alicethourot.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/oWGBy4jxIJ"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1143,
-   "follow_request_sent": false,
-   "followers_count": 5669,
-   "following": false,
-   "friends_count": 730,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 866199742073712600,
-   "id_str": "866199742073712640",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 119,
-   "location": "Montélimar, France",
-   "name": "Alice Thourot",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866199742073712640/1603922618",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1354078169742110724/EM8jTF2r_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354078169742110724/EM8jTF2r_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AliceThourot",
-   "statuses_count": 888,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/oWGBy4jxIJ",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 2ème circonscription de la Drôme - #LaREM - Membre de la Commission des Lois. @LaREM_AN",
-  "twitter_favourites": 1143,
-  "twitter_followers": 5669,
-  "twitter_following": 730,
-  "twitter_id": 866199742073712600,
-  "twitter_listed": 119,
-  "twitter_name": "Alice Thourot",
-  "twitter_protected": false,
-  "twitter_tweets": 888,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719302",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719302",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alice-thourot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alice-thourot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719302"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alice-Thourot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719302",
@@ -677,8 +548,8 @@
   "public_metrics": {
    "followers_count": 5671,
    "following_count": 730,
-   "listed_count": 120,
-   "tweet_count": 889
+   "listed_count": 119,
+   "tweet_count": 890
   },
   "username": "AliceThourot"
  },

@@ -339,146 +339,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 10 Rue Saint-Blaise 65200 Bagnères-de-Bigorre Téléphone : 05 62 42 86 45"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "La Haute-Bigorre / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Bagnères-de-Bigorre / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Fantine Garnier-Collot"
-   },
-   {
-    "collaborateur": "M. Damien Gardey"
-   },
-   {
-    "collaborateur": "M. François Roux"
-   },
-   {
-    "collaborateur": "Mme Jacinthe Dhelft"
-   }
-  ],
-  "date_naissance": "1964-08-05",
-  "emails": [
-   {
-    "email": "jean-bernard.sempastous@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 206,
-  "id_an": "720780",
-  "lieu_naissance": "Bagnères-de-Bigorre (Hautes-Pyrénées)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-Bernard Sempastous",
-  "nom_circo": "Hautes-Pyrénées",
-  "nom_de_famille": "Sempastous",
-  "num_circo": 1,
-  "num_deptmt": "65",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "313",
-  "prenom": "Jean-Bernard",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/Sempastoushp",
-   "http://www.jeanbernardsempastous.fr"
-  ],
-  "slug": "jean-bernard-sempastous",
   "twitter": "Sempastoushp",
-  "twitter_created_at": "2017-05-18T20:37:47",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 18 20:37:47 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député des Hautes-Pyrénées #LaREM Commission des Affaires économiques • Montagne • Agriculture • Foncier agricole • Tourisme • Industrie",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanbernardsempastous.fr",
-       "expanded_url": "http://www.jeanbernardsempastous.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/AkDuVxvXnY"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3185,
-   "follow_request_sent": false,
-   "followers_count": 1859,
-   "following": false,
-   "friends_count": 903,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 865305435707985900,
-   "id_str": "865305435707985921",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 79,
-   "location": "Hautes-Pyrénées, Occitanie",
-   "name": "JB Sempastous",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865305435707985921/1604497941",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1055061740667445248/1JgICj7B_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055061740667445248/1JgICj7B_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Sempastoushp",
-   "statuses_count": 1266,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/AkDuVxvXnY",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Hautes-Pyrénées #LaREM Commission des Affaires économiques • Montagne • Agriculture • Foncier agricole • Tourisme • Industrie",
-  "twitter_favourites": 3185,
-  "twitter_followers": 1859,
-  "twitter_following": 903,
-  "twitter_id": 865305435707985900,
-  "twitter_listed": 79,
-  "twitter_name": "JB Sempastous",
-  "twitter_protected": false,
-  "twitter_tweets": 1266,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720780",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720780",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-bernard-sempastous",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-bernard-sempastous/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720780"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Bernard-Sempastous",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720780",
@@ -1297,10 +1159,10 @@
   "id": "865305435707985921",
   "name": "JB Sempastous",
   "public_metrics": {
-   "followers_count": 1861,
-   "following_count": 903,
+   "followers_count": 1860,
+   "following_count": 904,
    "listed_count": 79,
-   "tweet_count": 1270
+   "tweet_count": 1276
   },
   "username": "Sempastoushp"
  },

@@ -101,133 +101,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.74.09"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aude Goarnisson"
-   },
-   {
-    "collaborateur": "Mme Anne-Solène Quiec"
-   },
-   {
-    "collaborateur": "Mme Eva Morel"
-   }
-  ],
-  "date_naissance": "1991-03-18",
-  "emails": [
-   {
-    "email": "sandrine.lefeur@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 82,
-  "id_an": "719412",
-  "lieu_naissance": "Saint Brieuc (Côtes-d'Armor)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sandrine Le Feur",
-  "nom_circo": "Finistère",
-  "nom_de_famille": "Le Feur",
-  "num_circo": 4,
-  "num_deptmt": "29",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "286",
-  "prenom": "Sandrine",
-  "profession": "Agriculteur-propriétaire exploitant",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.sandrine-lefeur.fr",
-   "https://twitter.com/SandrineLeFeur"
-  ],
-  "slug": "sandrine-le-feur",
   "twitter": "SandrineLeFeur",
-  "twitter_created_at": "2017-05-12T11:54:21",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri May 12 11:54:21 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée du #Finistère 4ème circonscription \nMembre de la @AN_DevDur\nResponsable #LaRem de la loi #EGAlim 🐖🌱\n#souverainetéalimentaire #alimentationdurable",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "sandrine-lefeur.fr",
-       "expanded_url": "http://www.sandrine-lefeur.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/uwiKowTHwL"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2337,
-   "follow_request_sent": false,
-   "followers_count": 6982,
-   "following": false,
-   "friends_count": 442,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 862999383499042800,
-   "id_str": "862999383499042816",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 135,
-   "location": "Morlaix, France",
-   "name": "Sandrine Le Feur",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862999383499042816/1554287511",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1149357404167032833/kiRrh8Xs_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149357404167032833/kiRrh8Xs_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SandrineLeFeur",
-   "statuses_count": 2100,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/uwiKowTHwL",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du #Finistère 4ème circonscription Membre de la @AN_DevDur Responsable #LaRem de la loi #EGAlim 🐖🌱 #souverainetéalimentaire #alimentationdurable",
-  "twitter_favourites": 2337,
-  "twitter_followers": 6982,
-  "twitter_following": 442,
-  "twitter_id": 862999383499042800,
-  "twitter_listed": 135,
-  "twitter_name": "Sandrine Le Feur",
-  "twitter_protected": false,
-  "twitter_tweets": 2100,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719412",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719412",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sandrine-le-feur",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sandrine-le-feur/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719412"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sandrine-Le Feur",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719412",
@@ -778,9 +653,9 @@
   "id": "862999383499042816",
   "name": "Sandrine Le Feur",
   "public_metrics": {
-   "followers_count": 6993,
+   "followers_count": 6998,
    "following_count": 442,
-   "listed_count": 136,
+   "listed_count": 135,
    "tweet_count": 2102
   },
   "username": "SandrineLeFeur"

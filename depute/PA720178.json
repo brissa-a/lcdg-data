@@ -60,144 +60,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 84 Avenue de Boufflers 54000 Nancy Téléphone : 03 83 54 03 50"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.06.05"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Métropole du Grand Nancy /  / membre"
-   },
-   {
-    "mandat": "Laxou / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Nathalie Greffin"
-   },
-   {
-    "collaborateur": "Mme Nathalie Parent-Heckler"
-   },
-   {
-    "collaborateur": "Mme Marie Lannes"
-   }
-  ],
-  "date_naissance": "1970-05-31",
-  "emails": [
-   {
-    "email": "laurent.garcia@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 411,
-  "id_an": "720178",
-  "lieu_naissance": "Paris (16e) (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Laurent Garcia",
-  "nom_circo": "Meurthe-et-Moselle",
-  "nom_de_famille": "Garcia",
-  "num_circo": 2,
-  "num_deptmt": "54",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "188",
-  "prenom": "Laurent",
-  "profession": "Ingénieur",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.laurentgarcia.fr",
-   "https://twitter.com/GarciaLaxou",
-   "https://fr-fr.facebook.com/Laurent-Garcia-député-de-Meurthe-et-Moselle-1159962430725786"
-  ],
-  "slug": "laurent-garcia",
   "twitter": "GarciaLaxou",
-  "twitter_created_at": "2016-10-13T14:32:02",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 13 14:32:02 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Président du CA de l’ENSEM, Député de Meurthe-et-Moselle, porte-parole Groupe MoDem et Apparentés, Maire de #Laxou, conseiller métropolitain #GrandNancy #FBPE",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "laurentgarcia.fr",
-       "expanded_url": "http://www.laurentgarcia.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/LZGVMsYDxC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 795,
-   "follow_request_sent": false,
-   "followers_count": 2072,
-   "following": false,
-   "friends_count": 362,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 786575225316110300,
-   "id_str": "786575225316110336",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 91,
-   "location": "Laxou, 54520",
-   "name": "Laurent GARCIA",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/786575225316110336/1505134693",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/904234924932296704/wpHVJ9GD_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/904234924932296704/wpHVJ9GD_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "GarciaLaxou",
-   "statuses_count": 2304,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/LZGVMsYDxC",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Président du CA de l’ENSEM, Député de Meurthe-et-Moselle, porte-parole Groupe MoDem et Apparentés, Maire de #Laxou, conseiller métropolitain #GrandNancy #FBPE",
-  "twitter_favourites": 795,
-  "twitter_followers": 2072,
-  "twitter_following": 362,
-  "twitter_id": 786575225316110300,
-  "twitter_listed": 91,
-  "twitter_name": "Laurent GARCIA",
-  "twitter_protected": false,
-  "twitter_tweets": 2304,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720178",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720178",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurent-garcia",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurent-garcia/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720178"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurent-Garcia",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720178",
@@ -519,10 +383,10 @@
   "id": "786575225316110336",
   "name": "Laurent GARCIA",
   "public_metrics": {
-   "followers_count": 2072,
+   "followers_count": 2073,
    "following_count": 362,
-   "listed_count": 89,
-   "tweet_count": 2305
+   "listed_count": 90,
+   "tweet_count": 2306
   },
   "username": "GarciaLaxou"
  },

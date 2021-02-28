@@ -63,124 +63,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Anisse Ben Younès"
-   },
-   {
-    "collaborateur": "Mme Mathilde Tanguy"
-   },
-   {
-    "collaborateur": "M. Dylan Piras"
-   }
-  ],
-  "date_naissance": "1983-04-25",
-  "emails": [
-   {
-    "email": "contact@mjidelguerrab.fr"
-   },
-   {
-    "email": "mjid.elguerrab@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 346,
-  "id_an": "720996",
-  "lieu_naissance": "Aurillac (Cantal)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "M'jid El Guerrab",
-  "nom_circo": "Français établis hors de France",
-  "nom_de_famille": "El Guerrab",
-  "num_circo": 9,
-  "num_deptmt": "999",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "237",
-  "prenom": "M'jid",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://mjidelguerrab.fr",
-   "https://twitter.com/mjidelguerrab",
-   "https://fr-fr.facebook.com/mjidelguerrab"
-  ],
-  "slug": "m-jid-el-guerrab",
   "twitter": "mjidelguerrab",
-  "twitter_created_at": "2019-06-04T20:21:34",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jun 04 20:21:34 +0000 2019",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député, né à Aurillac (Cantal), grandi au Pays Vert, Auvergnat pure souche « quand y’en a un ça va ! » #République #France #Maghreb #Afrique",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 3102,
-   "follow_request_sent": false,
-   "followers_count": 2707,
-   "following": false,
-   "friends_count": 527,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1136005090530209800,
-   "id_str": "1136005090530209793",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 30,
-   "location": "",
-   "name": "M'jid El GUERRAB",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136005090530209793/1582696683",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1232545475464695808/6k7AdzjS_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232545475464695808/6k7AdzjS_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "mjidelguerrab",
-   "statuses_count": 2640,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député, né à Aurillac (Cantal), grandi au Pays Vert, Auvergnat pure souche « quand y’en a un ça va ! » #République #France #Maghreb #Afrique",
-  "twitter_favourites": 3102,
-  "twitter_followers": 2707,
-  "twitter_following": 527,
-  "twitter_id": 1136005090530209800,
-  "twitter_listed": 30,
-  "twitter_name": "M'jid El GUERRAB",
-  "twitter_protected": false,
-  "twitter_tweets": 2640,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720996",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720996",
-  "url_nosdeputes": "https://www.nosdeputes.fr/m-jid-el-guerrab",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/m-jid-el-guerrab/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720996"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/M'jid-El Guerrab",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720996",
@@ -712,10 +596,10 @@
   "id": "1136005090530209793",
   "name": "M'jid El GUERRAB",
   "public_metrics": {
-   "followers_count": 2717,
-   "following_count": 531,
-   "listed_count": 29,
-   "tweet_count": 2646
+   "followers_count": 2723,
+   "following_count": 533,
+   "listed_count": 28,
+   "tweet_count": 2670
   },
   "username": "mjidelguerrab"
  },

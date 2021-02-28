@@ -102,143 +102,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 1 Place de l'Hôtel de Ville 77100 Meaux Téléphone : 09 63 59 10 56"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Meaux / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Pays de Meaux / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aurore Zeghouani"
-   },
-   {
-    "collaborateur": "Mme Perrine Dupuis"
-   },
-   {
-    "collaborateur": "M. Nicolas Cuadrado"
-   }
-  ],
-  "date_naissance": "1960-01-25",
-  "emails": [
-   {
-    "email": "jean-francois.parigi@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 384,
-  "id_an": "721636",
-  "lieu_naissance": "Châtenay-Malabry (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-François Parigi",
-  "nom_circo": "Seine-et-Marne",
-  "nom_de_famille": "Parigi",
-  "num_circo": 6,
-  "num_deptmt": "77",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "32",
-  "prenom": "Jean-François",
-  "profession": "Autre profession",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/Jf_Parigi",
-   "https://www.facebook.com/jfparigi"
-  ],
-  "slug": "jean-francois-parigi",
   "twitter": "Jf_Parigi",
-  "twitter_created_at": "2018-02-14T12:58:53",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Feb 14 12:58:53 +0000 2018",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député @LesRepublicains de Seine-de-Marne membre de la Commission de la défense et des forces armées - Conseiller municipal de la @Villedemeaux.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/jfparigi/",
-       "expanded_url": "https://www.facebook.com/jfparigi/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/OzXSXeXKr9"
-      }
-     ]
-    }
-   },
-   "favourites_count": 213,
-   "follow_request_sent": false,
-   "followers_count": 1081,
-   "following": false,
-   "friends_count": 133,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 963759448794771500,
-   "id_str": "963759448794771456",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 33,
-   "location": "Meaux, France",
-   "name": "Jean-François PARIGI",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/963759448794771456/1571313768",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/963762002517807110/CjLN9zyv_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/963762002517807110/CjLN9zyv_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Jf_Parigi",
-   "statuses_count": 310,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/OzXSXeXKr9",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député @LesRepublicains de Seine-de-Marne membre de la Commission de la défense et des forces armées - Conseiller municipal de la @Villedemeaux.",
-  "twitter_favourites": 213,
-  "twitter_followers": 1081,
-  "twitter_following": 133,
-  "twitter_id": 963759448794771500,
-  "twitter_listed": 33,
-  "twitter_name": "Jean-François PARIGI",
-  "twitter_protected": false,
-  "twitter_tweets": 310,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721636",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721636",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-francois-parigi",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-francois-parigi/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721636"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-François-Parigi",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721636",
@@ -471,8 +336,8 @@
   "id": "963759448794771456",
   "name": "Jean-François PARIGI",
   "public_metrics": {
-   "followers_count": 1083,
-   "following_count": 133,
+   "followers_count": 1090,
+   "following_count": 134,
    "listed_count": 33,
    "tweet_count": 311
   },

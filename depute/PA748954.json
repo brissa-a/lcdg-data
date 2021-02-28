@@ -134,126 +134,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 11 Place de l'Hôtel de Ville 95300 Pontoise"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "05/02/2018 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pontoise (Val-d'Oise) / Conseil municipal / adjoint au maire"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Caroline Bettinger-Aucagos"
-   },
-   {
-    "collaborateur": "M. Thierry Pilath"
-   },
-   {
-    "collaborateur": "M. Guy-Noël Orthion"
-   }
-  ],
-  "date_naissance": "1975-07-22",
-  "emails": [
-   {
-    "email": "antoine.savignat@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 588,
-  "id_an": "748954",
-  "lieu_naissance": "Cormeilles-en-Parisis (Val-d'Oise)",
-  "mandat_debut": "2018-02-05",
-  "nb_mandats": 1,
-  "nom": "Antoine Savignat",
-  "nom_circo": "Val-d'Oise",
-  "nom_de_famille": "Savignat",
-  "num_circo": 1,
-  "num_deptmt": "95",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "70",
-  "prenom": "Antoine",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/antoine7595"
-  ],
-  "slug": "antoine-savignat",
   "twitter": "antoine7595",
-  "twitter_created_at": "2012-08-03T12:48:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Aug 03 12:48:51 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député LR de la Première Circonscription du Val d'Oise #9501 -",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 222,
-   "follow_request_sent": false,
-   "followers_count": 1850,
-   "following": false,
-   "friends_count": 708,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 734819214,
-   "id_str": "734819214",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 44,
-   "location": "Pontoise, France",
-   "name": "Antoine Savignat",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/734819214/1517898635",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/961247438282674176/t7sbEIW6_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/961247438282674176/t7sbEIW6_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "antoine7595",
-   "statuses_count": 1093,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député LR de la Première Circonscription du Val d'Oise #9501 -",
-  "twitter_favourites": 222,
-  "twitter_followers": 1850,
-  "twitter_following": 708,
-  "twitter_id": 734819214,
-  "twitter_listed": 44,
-  "twitter_name": "Antoine Savignat",
-  "twitter_protected": false,
-  "twitter_tweets": 1093,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA748954",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA748954",
-  "url_nosdeputes": "https://www.nosdeputes.fr/antoine-savignat",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/antoine-savignat/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA748954"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Antoine-Savignat",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA748954",
@@ -711,7 +593,7 @@
   "id": "734819214",
   "name": "Antoine Savignat",
   "public_metrics": {
-   "followers_count": 1855,
+   "followers_count": 1856,
    "following_count": 708,
    "listed_count": 44,
    "tweet_count": 1093

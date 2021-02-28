@@ -61,127 +61,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "12 Rue Charles de Gaulle 91400 Orsay Téléphone : 09 65 19 70 19"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Zineb Ghafoor"
-   },
-   {
-    "collaborateur": "M. Samuel Langlade"
-   },
-   {
-    "collaborateur": "M. David Saussol"
-   },
-   {
-    "collaborateur": "Mme Anne-Lise Meurier"
-   }
-  ],
-  "date_naissance": "1973-10-05",
-  "emails": [
-   {
-    "email": "cedric.villani@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 535,
-  "id_an": "722260",
-  "lieu_naissance": "Brive (Corrèze)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Cédric Villani",
-  "nom_circo": "Essonne",
-  "nom_de_famille": "Villani",
-  "num_circo": 5,
-  "num_deptmt": "91",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "650",
-  "prenom": "Cédric",
-  "profession": "Professeur de faculté",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.cedricvillani.paris",
-   "https://twitter.com/VillaniCedric",
-   "https://fr-fr.facebook.com/CedricVillaniOfficiel"
-  ],
-  "slug": "cedric-villani",
   "twitter": "VillaniCedric",
-  "twitter_created_at": "2017-05-09T13:56:08",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 09 13:56:08 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🇫🇷 Député de l'Essonne • Président @AN_OPECST • Conseiller de Paris 14e  \n🎲 Mathématicien • Médaille Fields 2010 \n📩 cedric.villani@assemblee-nationale.fr",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1175,
-   "follow_request_sent": false,
-   "followers_count": 97279,
-   "following": false,
-   "friends_count": 660,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 861942866989469700,
-   "id_str": "861942866989469697",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 688,
-   "location": "Paris, France",
-   "name": "Cédric Villani",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/861942866989469697/1603282763",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1278436664281628674/yy9HNnr9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278436664281628674/yy9HNnr9_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "VillaniCedric",
-   "statuses_count": 3238,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🇫🇷 Député de l'Essonne • Président @AN_OPECST • Conseiller de Paris 14e 🎲 Mathématicien • Médaille Fields 2010 📩 cedric.villani@assemblee-nationale.fr",
-  "twitter_favourites": 1175,
-  "twitter_followers": 97279,
-  "twitter_following": 660,
-  "twitter_id": 861942866989469700,
-  "twitter_listed": 688,
-  "twitter_name": "Cédric Villani",
-  "twitter_protected": false,
-  "twitter_tweets": 3238,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722260",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722260",
-  "url_nosdeputes": "https://www.nosdeputes.fr/cedric-villani",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/cedric-villani/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722260"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Cédric-Villani",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722260",
@@ -582,10 +463,10 @@
   "id": "861942866989469697",
   "name": "Cédric Villani",
   "public_metrics": {
-   "followers_count": 97264,
+   "followers_count": 97306,
    "following_count": 661,
-   "listed_count": 689,
-   "tweet_count": 3242
+   "listed_count": 690,
+   "tweet_count": 3249
   },
   "username": "VillaniCedric"
  },

@@ -52,136 +52,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Mathilde Foulon"
-   },
-   {
-    "collaborateur": "Mme Aminata Sissoko"
-   },
-   {
-    "collaborateur": "M. Nouredine Azzouk"
-   },
-   {
-    "collaborateur": "Mme Khady Thiam"
-   }
-  ],
-  "date_naissance": "1976-03-14",
-  "emails": [
-   {
-    "email": "patrice.anato@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 382,
-  "id_an": "721278",
-  "lieu_naissance": "Lomé (Togo)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Patrice Anato",
-  "nom_circo": "Seine-Saint-Denis",
-  "nom_de_famille": "Anato",
-  "num_circo": 3,
-  "num_deptmt": "93",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "352",
-  "prenom": "Patrice",
-  "profession": "Consultant",
-  "sexe": "H",
-  "sites_web": [
-   "http://patriceanato.fr",
-   "https://twitter.com/patrice_anato"
-  ],
-  "slug": "patrice-anato",
   "twitter": "patrice_anato",
-  "twitter_created_at": "2015-09-27T09:27:26",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Sep 27 09:27:26 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député @LaREM_AN – @AllianceC de Seine-Saint-Denis | @AN_AfEur et @AN_AfEco | Pdt du grp d'amitié France-Nigéria | Co-Pdt Diplomatie éco. Afrique | Francophonie",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "patriceanato.fr",
-       "expanded_url": "http://www.patriceanato.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/BmcWj0YJEL"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3398,
-   "follow_request_sent": false,
-   "followers_count": 6124,
-   "following": false,
-   "friends_count": 1781,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 3791340735,
-   "id_str": "3791340735",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 116,
-   "location": "Noisy-le-Grand, France",
-   "name": "Patrice Anato",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3791340735/1580895744",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1224991643448893441/uyv9z968_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224991643448893441/uyv9z968_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Patrice_Anato",
-   "statuses_count": 1439,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/BmcWj0YJEL",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @LaREM_AN – @AllianceC de Seine-Saint-Denis | @AN_AfEur et @AN_AfEco | Pdt du grp d'amitié France-Nigéria | Co-Pdt Diplomatie éco. Afrique | Francophonie",
-  "twitter_favourites": 3398,
-  "twitter_followers": 6124,
-  "twitter_following": 1781,
-  "twitter_id": 3791340735,
-  "twitter_listed": 116,
-  "twitter_name": "Patrice Anato",
-  "twitter_protected": false,
-  "twitter_tweets": 1439,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721278",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721278",
-  "url_nosdeputes": "https://www.nosdeputes.fr/patrice-anato",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/patrice-anato/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721278"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Patrice-Anato",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721278",
@@ -769,10 +641,10 @@
   "id": "3791340735",
   "name": "Patrice Anato",
   "public_metrics": {
-   "followers_count": 6127,
-   "following_count": 1781,
+   "followers_count": 6149,
+   "following_count": 1784,
    "listed_count": 116,
-   "tweet_count": 1440
+   "tweet_count": 1438
   },
   "username": "Patrice_Anato"
  },

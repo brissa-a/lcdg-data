@@ -309,153 +309,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "51 Avenue Gambetta 23000 Guéret"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Vincent Turpinat"
-   },
-   {
-    "collaborateur": "Mme Karine Grand"
-   },
-   {
-    "collaborateur": "Mme Olivia Dunbar"
-   },
-   {
-    "collaborateur": "Mme Léa Privel"
-   },
-   {
-    "collaborateur": "Mme Rachel Thannberger"
-   }
-  ],
-  "date_naissance": "1977-02-14",
-  "emails": [
-   {
-    "email": "jean-baptiste.moreau@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 400,
-  "id_an": "719242",
-  "lieu_naissance": "Guéret (Creuse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Baptiste Moreau",
-  "nom_circo": "Creuse",
-  "nom_de_famille": "Moreau",
-  "num_circo": 1,
-  "num_deptmt": "23",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "337",
-  "prenom": "Jean-Baptiste",
-  "profession": "Agriculteur-propriétaire exploitant",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/moreaujb23",
-   "http://www.jeanbaptiste-moreau.fr",
-   "https://fr-fr.facebook.com/jeanbaptistemoreaudepute"
-  ],
-  "slug": "jean-baptiste-moreau",
   "twitter": "moreaujb23",
-  "twitter_created_at": "2012-06-22T16:50:23",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jun 22 16:50:23 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "👨‍🌾🏛️Député paysan de la Creuse #LREM📣Porte-parole @EnMarchefr https://t.co/u5OaPKjJVn",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "instagram.com/moreaujb/",
-       "expanded_url": "https://www.instagram.com/moreaujb/",
-       "indices": [
-        63,
-        86
-       ],
-       "url": "https://t.co/u5OaPKjJVn"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanbaptiste-moreau.fr",
-       "expanded_url": "http://www.jeanbaptiste-moreau.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/AYOpsKpTzc"
-      }
-     ]
-    }
-   },
-   "favourites_count": 9265,
-   "follow_request_sent": false,
-   "followers_count": 18827,
-   "following": false,
-   "friends_count": 1735,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 615337066,
-   "id_str": "615337066",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 190,
-   "location": "Ceyroux",
-   "name": "Jean Baptiste Moreau",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/615337066/1605264943",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1332702658805772288/XzmHNMiV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332702658805772288/XzmHNMiV_normal.jpg",
-   "profile_link_color": "7FDBB6",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "moreaujb23",
-   "statuses_count": 10159,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/AYOpsKpTzc",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "👨‍🌾🏛️Député paysan de la Creuse #LREM📣Porte-parole @EnMarchefr https://t.co/u5OaPKjJVn",
-  "twitter_favourites": 9265,
-  "twitter_followers": 18827,
-  "twitter_following": 1735,
-  "twitter_id": 615337066,
-  "twitter_listed": 190,
-  "twitter_name": "Jean Baptiste Moreau",
-  "twitter_protected": false,
-  "twitter_tweets": 10159,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719242",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719242",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-baptiste-moreau",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-baptiste-moreau/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719242"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Baptiste-Moreau",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719242",
@@ -1190,10 +1045,10 @@
   "id": "615337066",
   "name": "Jean Baptiste Moreau",
   "public_metrics": {
-   "followers_count": 18854,
-   "following_count": 1736,
-   "listed_count": 191,
-   "tweet_count": 10188
+   "followers_count": 18914,
+   "following_count": 1739,
+   "listed_count": 193,
+   "tweet_count": 10257
   },
   "username": "moreaujb23"
  },

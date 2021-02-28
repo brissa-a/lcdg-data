@@ -52,159 +52,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Hôtel de Ville, Place de la Libération, 94170 Le Perreux-sur-Marne Téléphone : 01 48 71 53 53"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "02/05/1993 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Métropole du Grand Paris /  / membre"
-   },
-   {
-    "mandat": "Perreux-sur-Marne / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Antoine Bohan"
-   },
-   {
-    "collaborateur": "Mme Catherine Allard"
-   },
-   {
-    "collaborateur": "M. Bruno Coudin"
-   }
-  ],
-  "date_naissance": "1948-08-29",
-  "emails": [
-   {
-    "email": "gilles.carrez@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 430,
-  "id_an": "746",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Gilles Carrez",
-  "nom_circo": "Val-de-Marne",
-  "nom_de_famille": "Carrez",
-  "num_circo": 5,
-  "num_deptmt": "94",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "93",
-  "prenom": "Gilles",
-  "profession": "Fonctionnaire de l'État retraité",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.gillescarrez.fr",
-   "http://www.gillescarrez2017.fr",
-   "https://twitter.com/GillesCarrez"
-  ],
-  "slug": "gilles-carrez",
   "twitter": "GillesCarrez",
-  "twitter_created_at": "2012-03-03T15:46:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Mar 03 15:46:09 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du Val de Marne (Bry, Champigny, Le Perreux, Nogent)",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "gillescarrez2017.fr",
-       "expanded_url": "http://www.gillescarrez2017.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/vN0ZDsxRVI"
-      }
-     ]
-    }
-   },
-   "favourites_count": 15,
-   "follow_request_sent": false,
-   "followers_count": 6411,
-   "following": false,
-   "friends_count": 236,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 513300752,
-   "id_str": "513300752",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 217,
-   "location": "Le Perreux-sur-Marne",
-   "name": "Gilles Carrez",
-   "notifications": false,
-   "profile_background_color": "015485",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/513300752/1500455018",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/865992342561488896/xnimMnVw_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/865992342561488896/xnimMnVw_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "GillesCarrez",
-   "statuses_count": 756,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/vN0ZDsxRVI",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Val de Marne (Bry, Champigny, Le Perreux, Nogent)",
-  "twitter_favourites": 15,
-  "twitter_followers": 6411,
-  "twitter_following": 236,
-  "twitter_id": 513300752,
-  "twitter_listed": 217,
-  "twitter_name": "Gilles Carrez",
-  "twitter_protected": false,
-  "twitter_tweets": 756,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA746",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA746",
-  "url_nosdeputes": "https://www.nosdeputes.fr/gilles-carrez",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/gilles-carrez/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA746"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Gilles-Carrez",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA746",
@@ -447,9 +296,9 @@
   "id": "513300752",
   "name": "Gilles Carrez",
   "public_metrics": {
-   "followers_count": 6411,
+   "followers_count": 6414,
    "following_count": 236,
-   "listed_count": 217,
+   "listed_count": 216,
    "tweet_count": 756
   },
   "username": "GillesCarrez"

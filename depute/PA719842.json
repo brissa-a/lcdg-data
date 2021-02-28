@@ -60,120 +60,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Catherine Mezzano"
-   },
-   {
-    "collaborateur": "M. Pierre-Yves Ollivier"
-   },
-   {
-    "collaborateur": "Mme Sarah Adel"
-   }
-  ],
-  "date_naissance": "1969-03-29",
-  "emails": [
-   {
-    "email": "mustapha.laabid@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 272,
-  "id_an": "719842",
-  "lieu_naissance": "Rennes (Ille-et-Vilaine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Mustapha Laabid",
-  "nom_circo": "Ille-et-Vilaine",
-  "nom_de_famille": "Laabid",
-  "num_circo": 1,
-  "num_deptmt": "35",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "557",
-  "prenom": "Mustapha",
-  "profession": "Directeur de fondation",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/mustapha_laabid",
-   "https://en-marche.fr/comites/f34d2568-08ff-5d83-8601-ccccc2b292b9/rennes-sud"
-  ],
-  "slug": "mustapha-laabid",
   "twitter": "mustapha_laabid",
-  "twitter_created_at": "2012-05-16T08:35:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 16 08:35:51 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député d'Ille-et-Vilaine @AssembleeNat, Commissaire aux Affaires étrangères @an_afetr et président du Groupe d'amitié France-Maroc.",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 6472,
-   "follow_request_sent": false,
-   "followers_count": 4160,
-   "following": false,
-   "friends_count": 473,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 581648342,
-   "id_str": "581648342",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 118,
-   "location": "Rennes - Paris",
-   "name": "Mustapha Laabid 🇫🇷",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/581648342/1508954867",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/927644383587000320/CBPgtKdY_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/927644383587000320/CBPgtKdY_normal.jpg",
-   "profile_link_color": "7FDBB6",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "mustapha_laabid",
-   "statuses_count": 2241,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député d'Ille-et-Vilaine @AssembleeNat, Commissaire aux Affaires étrangères @an_afetr et président du Groupe d'amitié France-Maroc.",
-  "twitter_favourites": 6472,
-  "twitter_followers": 4160,
-  "twitter_following": 473,
-  "twitter_id": 581648342,
-  "twitter_listed": 118,
-  "twitter_name": "Mustapha Laabid 🇫🇷",
-  "twitter_protected": false,
-  "twitter_tweets": 2241,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719842",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719842",
-  "url_nosdeputes": "https://www.nosdeputes.fr/mustapha-laabid",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/mustapha-laabid/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719842"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Mustapha-Laabid",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719842",
@@ -690,10 +578,10 @@
   "id": "581648342",
   "name": "Mustapha Laabid 🇫🇷",
   "public_metrics": {
-   "followers_count": 4158,
-   "following_count": 477,
+   "followers_count": 4157,
+   "following_count": 481,
    "listed_count": 117,
-   "tweet_count": 2246
+   "tweet_count": 2250
   },
   "username": "mustapha_laabid"
  },

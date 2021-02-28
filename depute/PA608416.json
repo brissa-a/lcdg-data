@@ -203,149 +203,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "14 Rue de Phalsbourg 67260 Sarre-Union Téléphone : 03 88 00 60 08"
-   },
-   {
-    "adresse": "9 Rue de la Gare 67700 Saverne Téléphone : 03 88 91 25 88"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Catherine Rieffel"
-   },
-   {
-    "collaborateur": "Mme Nathalie Lozito"
-   },
-   {
-    "collaborateur": "Mme Sylvie Gruner"
-   },
-   {
-    "collaborateur": "Mme Françoise Le Chenadec"
-   }
-  ],
-  "date_naissance": "1964-07-02",
-  "emails": [
-   {
-    "email": "patrick.hetzel@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@patrick-hetzel.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 570,
-  "id_an": "608416",
-  "lieu_naissance": "Phalsbourg (Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Patrick Hetzel",
-  "nom_circo": "Bas-Rhin",
-  "nom_de_famille": "Hetzel",
-  "num_circo": 7,
-  "num_deptmt": "67",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "80",
-  "prenom": "Patrick",
-  "profession": "Professeur des Universités",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.patrick-hetzel.fr",
-   "https://twitter.com/patrickhetzel",
-   "https://fr-fr.facebook.com/Patrick-Hetzel"
-  ],
-  "slug": "patrick-hetzel",
   "twitter": "patrickhetzel",
-  "twitter_created_at": "2016-01-07T09:45:04",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jan 07 09:45:04 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 7ème circonscription du Bas-Rhin",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "patrick-hetzel.fr",
-       "expanded_url": "http://www.patrick-hetzel.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/u3vPb27NyX"
-      }
-     ]
-    }
-   },
-   "favourites_count": 12096,
-   "follow_request_sent": false,
-   "followers_count": 5260,
-   "following": false,
-   "friends_count": 1616,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 4733398756,
-   "id_str": "4733398756",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 151,
-   "location": "Bas-Rhin, Alsace",
-   "name": "Patrick Hetzel",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4733398756/1452210729",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/685036326517927936/0LPkN6KR_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/685036326517927936/0LPkN6KR_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "patrickhetzel",
-   "statuses_count": 6538,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/u3vPb27NyX",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 7ème circonscription du Bas-Rhin",
-  "twitter_favourites": 12096,
-  "twitter_followers": 5260,
-  "twitter_following": 1616,
-  "twitter_id": 4733398756,
-  "twitter_listed": 151,
-  "twitter_name": "Patrick Hetzel",
-  "twitter_protected": false,
-  "twitter_tweets": 6538,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608416",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608416",
-  "url_nosdeputes": "https://www.nosdeputes.fr/patrick-hetzel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/patrick-hetzel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608416"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Patrick-Hetzel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608416",
@@ -993,7 +852,7 @@
   "id": "4733398756",
   "name": "Patrick Hetzel",
   "public_metrics": {
-   "followers_count": 5264,
+   "followers_count": 5268,
    "following_count": 1616,
    "listed_count": 151,
    "tweet_count": 6538

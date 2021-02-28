@@ -212,152 +212,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "9 Rue du Docteur Rouyer 61300 L'Aigle Téléphone : 02 33 34 79 41"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Aigle / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Pays de l'Aigle / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Edward Vandevyvere"
-   },
-   {
-    "collaborateur": "Mme Annie Cote"
-   },
-   {
-    "collaborateur": "Mme Amandine Ferrand"
-   },
-   {
-    "collaborateur": "Mme Louise Darbon"
-   }
-  ],
-  "date_naissance": "1961-03-20",
-  "emails": [
-   {
-    "email": "velouwagie@gmail.com"
-   },
-   {
-    "email": "veronique.louwagie@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 454,
-  "id_an": "608016",
-  "lieu_naissance": "Buis sur Damville (Eure)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Véronique Louwagie",
-  "nom_circo": "Orne",
-  "nom_de_famille": "Louwagie",
-  "num_circo": 2,
-  "num_deptmt": "61",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "97",
-  "prenom": "Véronique",
-  "profession": "Expert-comptable",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.veroniquelouwagie.fr",
-   "https://twitter.com/VeroLouwagie"
-  ],
-  "slug": "veronique-louwagie",
   "twitter": "VeroLouwagie",
-  "twitter_created_at": "2012-07-29T20:20:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Jul 29 20:20:16 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 2ème circonscription de l'Orne",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "veroniquelouwagie.fr",
-       "expanded_url": "http://www.veroniquelouwagie.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/v7CH8RZ8WC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1063,
-   "follow_request_sent": false,
-   "followers_count": 3940,
-   "following": false,
-   "friends_count": 998,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 724577257,
-   "id_str": "724577257",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 172,
-   "location": "L'Aigle",
-   "name": "Véronique Louwagie",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/724577257/1498488654",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/697065154933100544/-dclME9e_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/697065154933100544/-dclME9e_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "VeroLouwagie",
-   "statuses_count": 3363,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/v7CH8RZ8WC",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 2ème circonscription de l'Orne",
-  "twitter_favourites": 1063,
-  "twitter_followers": 3940,
-  "twitter_following": 998,
-  "twitter_id": 724577257,
-  "twitter_listed": 172,
-  "twitter_name": "Véronique Louwagie",
-  "twitter_protected": false,
-  "twitter_tweets": 3363,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608016",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608016",
-  "url_nosdeputes": "https://www.nosdeputes.fr/veronique-louwagie",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/veronique-louwagie/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608016"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Véronique-Louwagie",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA608016",
@@ -1290,7 +1146,7 @@
   "public_metrics": {
    "followers_count": 3942,
    "following_count": 998,
-   "listed_count": 172,
+   "listed_count": 171,
    "tweet_count": 3363
   },
   "username": "VeroLouwagie"

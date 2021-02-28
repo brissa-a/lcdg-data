@@ -54,140 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Robin Gastaldi"
-   },
-   {
-    "collaborateur": "M. Abel Hermel"
-   },
-   {
-    "collaborateur": "Mme Marina Benigni"
-   },
-   {
-    "collaborateur": "Mme Bochra Ben Achour"
-   }
-  ],
-  "date_naissance": "1984-05-18",
-  "emails": [
-   {
-    "email": "laurianne.rossi@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@lauriannerossi.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 194,
-  "id_an": "721600",
-  "lieu_naissance": "Toulon (Var)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Laurianne Rossi",
-  "nom_circo": "Hauts-de-Seine",
-  "nom_de_famille": "Rossi",
-  "num_circo": 11,
-  "num_deptmt": "92",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "441",
-  "prenom": "Laurianne",
-  "profession": "Cadre (entreprises publiques)",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.lauriannerossi.fr",
-   "https://twitter.com/lauriannerossi",
-   "https://fr-fr.facebook.com/LaurianneRossiDeputee"
-  ],
-  "slug": "laurianne-rossi",
   "twitter": "lauriannerossi",
-  "twitter_created_at": "2012-05-02T20:16:01",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 02 20:16:01 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🇫🇷 Questeure de l’Assemblée • Députée #HautsdeSeine #Bagneux #Malakoff #Montrouge • Commission @AN_DevDur • VP @ObservatoireEP • @enmarchefr @Terresdeprogres",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "lauriannerossi.fr",
-       "expanded_url": "http://www.lauriannerossi.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/koDbnuRCmu"
-      }
-     ]
-    }
-   },
-   "favourites_count": 23425,
-   "follow_request_sent": false,
-   "followers_count": 19229,
-   "following": false,
-   "friends_count": 5240,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 569390345,
-   "id_str": "569390345",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 222,
-   "location": "Hauts-de-Seine, Ile-de-France",
-   "name": "Laurianne Rossi",
-   "notifications": false,
-   "profile_background_color": "709397",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/569390345/1610061598",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1338608425639489536/u_alEJZY_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338608425639489536/u_alEJZY_normal.jpg",
-   "profile_link_color": "80406A",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "A0C5C7",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "lauriannerossi",
-   "statuses_count": 8546,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/koDbnuRCmu",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🇫🇷 Questeure de l’Assemblée • Députée #HautsdeSeine #Bagneux #Malakoff #Montrouge • Commission @AN_DevDur • VP @ObservatoireEP • @enmarchefr @Terresdeprogres",
-  "twitter_favourites": 23425,
-  "twitter_followers": 19229,
-  "twitter_following": 5240,
-  "twitter_id": 569390345,
-  "twitter_listed": 222,
-  "twitter_name": "Laurianne Rossi",
-  "twitter_protected": false,
-  "twitter_tweets": 8546,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721600",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721600",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurianne-rossi",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurianne-rossi/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721600"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurianne-Rossi",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721600",
@@ -974,10 +842,10 @@
   "id": "569390345",
   "name": "Laurianne Rossi",
   "public_metrics": {
-   "followers_count": 19246,
-   "following_count": 5243,
+   "followers_count": 19288,
+   "following_count": 5259,
    "listed_count": 223,
-   "tweet_count": 8553
+   "tweet_count": 8566
   },
   "username": "lauriannerossi"
  },

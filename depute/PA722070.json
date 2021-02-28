@@ -142,124 +142,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.04.12"
-   },
-   {
-    "adresse": "Permanence parlementaire 15 Rue des Drapiers BP 50043 85201 Fontenay-le-Comte Cedex Téléphone : 02 51 87 27 94"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Saint-Pierre-le-Vieux / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Béatrice Moinard"
-   },
-   {
-    "collaborateur": "Mme Anne-Sophie Bellamy-Biard"
-   }
-  ],
-  "date_naissance": "1991-11-26",
-  "emails": [
-   {
-    "email": "pierre.henriet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 473,
-  "id_an": "722070",
-  "lieu_naissance": "Fontenay-le-Comte (Vendée)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Pierre Henriet",
-  "nom_circo": "Vendée",
-  "nom_de_famille": "Henriet",
-  "num_circo": 5,
-  "num_deptmt": "85",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "466",
-  "prenom": "Pierre",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/HenrietPierre",
-   "https://fr-fr.facebook.com/pierre.henriet"
-  ],
-  "slug": "pierre-henriet",
   "twitter": "HenrietPierre",
-  "twitter_created_at": "2016-06-03T13:29:39",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jun 03 13:29:39 +0000 2016",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la Vendée - Sans la liberté de blâmer, il n'est point d'éloge flatteur.",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 933,
-   "follow_request_sent": false,
-   "followers_count": 3463,
-   "following": false,
-   "friends_count": 839,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 738724327059656700,
-   "id_str": "738724327059656705",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "Fontenay-le-Comte, France",
-   "name": "Pierre Henriet",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/738724327059656705/1510855560",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/884699589978333184/9Sjc2pZj_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/884699589978333184/9Sjc2pZj_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "HenrietPierre",
-   "statuses_count": 345,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Vendée - Sans la liberté de blâmer, il n'est point d'éloge flatteur.",
-  "twitter_favourites": 933,
-  "twitter_followers": 3463,
-  "twitter_following": 839,
-  "twitter_id": 738724327059656700,
-  "twitter_listed": 100,
-  "twitter_name": "Pierre Henriet",
-  "twitter_protected": false,
-  "twitter_tweets": 345,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722070",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722070",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pierre-henriet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pierre-henriet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722070"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pierre-Henriet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722070",
@@ -856,10 +740,10 @@
   "id": "738724327059656705",
   "name": "Pierre Henriet",
   "public_metrics": {
-   "followers_count": 3465,
-   "following_count": 839,
+   "followers_count": 3469,
+   "following_count": 840,
    "listed_count": 100,
-   "tweet_count": 345
+   "tweet_count": 346
   },
   "username": "HenrietPierre"
  },

@@ -130,144 +130,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 33 Bis Cours Bugeaud 87000 Limoges"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Stéphane Dupic"
-   },
-   {
-    "collaborateur": "M. Mickaël Bouet"
-   },
-   {
-    "collaborateur": "M. Pierre-François Allart"
-   },
-   {
-    "collaborateur": "M. Lélio Duprat"
-   }
-  ],
-  "date_naissance": "1987-11-20",
-  "emails": [
-   {
-    "email": "marie-ange.magne@assemblee-nationale.fr"
-   },
-   {
-    "email": "marie-ange.magne@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 219,
-  "id_an": "722244",
-  "lieu_naissance": "Limoges (Haute-Vienne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marie-Ange Magne",
-  "nom_circo": "Haute-Vienne",
-  "nom_de_famille": "Magne",
-  "num_circo": 3,
-  "num_deptmt": "87",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "327",
-  "prenom": "Marie-Ange",
-  "profession": "Contractuelle de la fonction publique territoriale",
-  "sexe": "F",
-  "sites_web": [
-   "https://www.marieangemagne.fr",
-   "http://www.marie-ange-en-marche.fr",
-   "https://twitter.com/MarieAngeMagne",
-   "https://fr-fr.facebook.com/marieangemagne"
-  ],
-  "slug": "marie-ange-magne",
   "twitter": "MarieAngeMagne",
-  "twitter_created_at": "2017-05-11T19:26:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 11 19:26:30 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée #LREM #circo8703 ● #RN147 ● Commission #Finances à l'@Assembleenat ● Rapporteure spéciale #Médias #livre #IndustriesCulturelles ● #AudiovisuelPublic",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "marieangemagne.fr",
-       "expanded_url": "https://www.marieangemagne.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/LVrMkfYe3s"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1704,
-   "follow_request_sent": false,
-   "followers_count": 3649,
-   "following": false,
-   "friends_count": 617,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 862750783804190700,
-   "id_str": "862750783804190721",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 108,
-   "location": "Limoges, France",
-   "name": "Marie-Ange Magne",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862750783804190721/1501075230",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1048610648953958400/Nw1gnxxm_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048610648953958400/Nw1gnxxm_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MarieAngeMagne",
-   "statuses_count": 866,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/LVrMkfYe3s",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #LREM #circo8703 ● #RN147 ● Commission #Finances à l'@Assembleenat ● Rapporteure spéciale #Médias #livre #IndustriesCulturelles ● #AudiovisuelPublic",
-  "twitter_favourites": 1704,
-  "twitter_followers": 3649,
-  "twitter_following": 617,
-  "twitter_id": 862750783804190700,
-  "twitter_listed": 108,
-  "twitter_name": "Marie-Ange Magne",
-  "twitter_protected": false,
-  "twitter_tweets": 866,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722244",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722244",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marie-ange-magne",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marie-ange-magne/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722244"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marie-Ange-Magne",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722244",
@@ -833,10 +697,10 @@
   "id": "862750783804190721",
   "name": "Marie-Ange Magne",
   "public_metrics": {
-   "followers_count": 3653,
-   "following_count": 618,
-   "listed_count": 109,
-   "tweet_count": 867
+   "followers_count": 3660,
+   "following_count": 619,
+   "listed_count": 108,
+   "tweet_count": 870
   },
   "username": "MarieAngeMagne"
  },

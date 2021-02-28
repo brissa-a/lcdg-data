@@ -158,137 +158,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "119 Rue de Malpalu 72000 Le Mans"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Sarthe / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Vincent Gomas"
-   },
-   {
-    "collaborateur": "M. Julien Bourg"
-   }
-  ],
-  "date_naissance": "1966-03-15",
-  "emails": [
-   {
-    "email": "jean-carles.grelier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 146,
-  "id_an": "267318",
-  "lieu_naissance": "Mans (Sarthe)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Carles Grelier",
-  "nom_circo": "Sarthe",
-  "nom_de_famille": "Grelier",
-  "num_circo": 5,
-  "num_deptmt": "72",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "71",
-  "prenom": "Jean-Carles",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/JCGrelier",
-   "https://www.facebook.com/jeancarles.grelier"
-  ],
-  "slug": "jean-carles-grelier",
   "twitter": "JCGrelier",
-  "twitter_created_at": "2017-09-07T08:44:57",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Sep 07 08:44:57 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député LR et Conseiller Départemental de la #Sarthe | porte-parole #Santé | Référent Comité national d'Ethique | Membre du HCAAM |@AssembleeNat",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/jeancarles.gre…",
-       "expanded_url": "https://www.facebook.com/jeancarles.grelier",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/ksLhVc06jw"
-      }
-     ]
-    }
-   },
-   "favourites_count": 224,
-   "follow_request_sent": false,
-   "followers_count": 1260,
-   "following": false,
-   "friends_count": 392,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 905713485329391600,
-   "id_str": "905713485329391616",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 40,
-   "location": "France",
-   "name": "Jean-Carles Grelier",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/905713485329391616/1548165354",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/905718177648271360/z780NBzR_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/905718177648271360/z780NBzR_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "JCGrelier",
-   "statuses_count": 292,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/ksLhVc06jw",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député LR et Conseiller Départemental de la #Sarthe | porte-parole #Santé | Référent Comité national d'Ethique | Membre du HCAAM |@AssembleeNat",
-  "twitter_favourites": 224,
-  "twitter_followers": 1260,
-  "twitter_following": 392,
-  "twitter_id": 905713485329391600,
-  "twitter_listed": 40,
-  "twitter_name": "Jean-Carles Grelier",
-  "twitter_protected": false,
-  "twitter_tweets": 292,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267318",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267318",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-carles-grelier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-carles-grelier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267318"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Carles-Grelier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267318",
@@ -639,9 +510,9 @@
   "id": "905713485329391616",
   "name": "Jean-Carles Grelier",
   "public_metrics": {
-   "followers_count": 1260,
+   "followers_count": 1261,
    "following_count": 392,
-   "listed_count": 40,
+   "listed_count": 42,
    "tweet_count": 292
   },
   "username": "JCGrelier"

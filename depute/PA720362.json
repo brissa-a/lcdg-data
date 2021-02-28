@@ -78,151 +78,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "8 Place Saint Martin 57000 METZ"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Metz / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Metz Métropole (CA2M) / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Arnaud Beaumont"
-   },
-   {
-    "collaborateur": "M. Emmanuel Bertin"
-   },
-   {
-    "collaborateur": "Mme Anabel Mayer"
-   },
-   {
-    "collaborateur": "M. Jean-Rémy Dushimiyimana"
-   }
-  ],
-  "date_naissance": "1969-07-09",
-  "emails": [
-   {
-    "email": "belkhir.belhaddad@assemblee-nationale.fr"
-   },
-   {
-    "email": "belkhir.belhaddad@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 151,
-  "id_an": "720362",
-  "lieu_naissance": "Timgad (Algérie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Belkhir Belhaddad",
-  "nom_circo": "Moselle",
-  "nom_de_famille": "Belhaddad",
-  "num_circo": 1,
-  "num_deptmt": "57",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "574",
-  "prenom": "Belkhir",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.belkhirbelhaddad.fr",
-   "https://twitter.com/b_belhaddad",
-   "https://www.facebook.com/belhaddad2017",
-   "https://www.facebook.com/belhaddadbelkhir"
-  ],
-  "slug": "belkhir-belhaddad",
   "twitter": "b_belhaddad",
-  "twitter_created_at": "2017-05-20T06:04:38",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat May 20 06:04:38 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 1ère circonscription de la #Moselle - #Metz 1 🇫🇷 🇪🇺 #circo5701 #LaRépubliqueEnMarche#TdP",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "belkhirbelhaddad.fr",
-       "expanded_url": "http://www.belkhirbelhaddad.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/8Rw34wZXQL"
-      }
-     ]
-    }
-   },
-   "favourites_count": 688,
-   "follow_request_sent": false,
-   "followers_count": 3396,
-   "following": false,
-   "friends_count": 1636,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 865810478315995100,
-   "id_str": "865810478315995136",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 105,
-   "location": "Metz, France",
-   "name": "Belkhir Belhaddad",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865810478315995136/1608723628",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1197187754431590402/ge8X9u94_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197187754431590402/ge8X9u94_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "b_belhaddad",
-   "statuses_count": 927,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/8Rw34wZXQL",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 1ère circonscription de la #Moselle - #Metz 1 🇫🇷 🇪🇺 #circo5701 #LaRépubliqueEnMarche#TdP",
-  "twitter_favourites": 688,
-  "twitter_followers": 3396,
-  "twitter_following": 1636,
-  "twitter_id": 865810478315995100,
-  "twitter_listed": 105,
-  "twitter_name": "Belkhir Belhaddad",
-  "twitter_protected": false,
-  "twitter_tweets": 927,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720362",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720362",
-  "url_nosdeputes": "https://www.nosdeputes.fr/belkhir-belhaddad",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/belkhir-belhaddad/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720362"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Belkhir-Belhaddad",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720362",
@@ -989,7 +846,7 @@
   "id": "865810478315995136",
   "name": "Belkhir Belhaddad",
   "public_metrics": {
-   "followers_count": 3398,
+   "followers_count": 3403,
    "following_count": 1636,
    "listed_count": 104,
    "tweet_count": 927

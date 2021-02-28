@@ -129,155 +129,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "11 Rue la Préfecture 88000 Epinal Téléphone : 03 29 29 29 60"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Épinal / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Épinal / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Camille Robert"
-   },
-   {
-    "collaborateur": "Mme Kathleen Thomas"
-   },
-   {
-    "collaborateur": "Mme Juliette Devedeux"
-   },
-   {
-    "collaborateur": "Mme Thérèse Hurter"
-   },
-   {
-    "collaborateur": "M. Aurélien Bétis"
-   },
-   {
-    "collaborateur": "M. Daniel Valentin"
-   }
-  ],
-  "date_naissance": "1969-10-14",
-  "emails": [
-   {
-    "email": "stephane.viry@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@stephaneviry.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 551,
-  "id_an": "721474",
-  "lieu_naissance": "Épinal (Vosges)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Stéphane Viry",
-  "nom_circo": "Vosges",
-  "nom_de_famille": "Viry",
-  "num_circo": 1,
-  "num_deptmt": "88",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "23",
-  "prenom": "Stéphane",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.stephaneviry.fr",
-   "https://twitter.com/ViryStephane"
-  ],
-  "slug": "stephane-viry",
   "twitter": "ViryStephane",
-  "twitter_created_at": "2016-01-24T16:49:19",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Jan 24 16:49:19 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député des Vosges 1ère circonscription -",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "stephaneviry.fr",
-       "expanded_url": "http://www.stephaneviry.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/ek8YE1YCKD"
-      }
-     ]
-    }
-   },
-   "favourites_count": 56,
-   "follow_request_sent": false,
-   "followers_count": 2269,
-   "following": false,
-   "friends_count": 427,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 4842549479,
-   "id_str": "4842549479",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 83,
-   "location": "Epinal, France",
-   "name": "Stéphane VIRY",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4842549479/1498312311",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/838890187912523776/wsmGwAqS_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/838890187912523776/wsmGwAqS_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ViryStephane",
-   "statuses_count": 824,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/ek8YE1YCKD",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Vosges 1ère circonscription -",
-  "twitter_favourites": 56,
-  "twitter_followers": 2269,
-  "twitter_following": 427,
-  "twitter_id": 4842549479,
-  "twitter_listed": 83,
-  "twitter_name": "Stéphane VIRY",
-  "twitter_protected": false,
-  "twitter_tweets": 824,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721474",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721474",
-  "url_nosdeputes": "https://www.nosdeputes.fr/stephane-viry",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/stephane-viry/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721474"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Stéphane-Viry",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721474",
@@ -938,7 +791,7 @@
   "id": "4842549479",
   "name": "Stéphane VIRY",
   "public_metrics": {
-   "followers_count": 2272,
+   "followers_count": 2273,
    "following_count": 427,
    "listed_count": 83,
    "tweet_count": 824

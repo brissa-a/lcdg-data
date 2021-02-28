@@ -168,150 +168,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence Parlementaire Rue de la Citadelle 47300 Pujols Téléphone : 0553721917"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Beauville / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Portes d'Aquitaine en Pays de Serres / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Stéphane Mazeaufroid-Boulestin"
-   },
-   {
-    "collaborateur": "Mme Salwa Lakrafi"
-   },
-   {
-    "collaborateur": "Mme Monira Taleb"
-   },
-   {
-    "collaborateur": "Mme Laurence Marquis"
-   },
-   {
-    "collaborateur": "Mme Farah Hamidani"
-   }
-  ],
-  "date_naissance": "1966-08-05",
-  "emails": [
-   {
-    "email": "olivier.damaisin@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 169,
-  "id_an": "720268",
-  "lieu_naissance": "Romans-sur-Isère (Drôme)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Olivier Damaisin",
-  "nom_circo": "Lot-et-Garonne",
-  "nom_de_famille": "Damaisin",
-  "num_circo": 3,
-  "num_deptmt": "47",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "523",
-  "prenom": "Olivier",
-  "profession": "Représentant de commerce",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.olivier-damaisin.fr",
-   "https://twitter.com/olivierdam1",
-   "https://fr-fr.facebook.com/olivier.damaisin"
-  ],
-  "slug": "olivier-damaisin",
   "twitter": "olivierdam1",
-  "twitter_created_at": "2016-10-22T11:35:28",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Oct 22 11:35:28 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "🏛 Député de Lot-et-Garonne, Membre de la commission @an_finances, Rapporteur Spécial Pensions/Retraites",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "olivier-damaisin.fr",
-       "expanded_url": "http://www.olivier-damaisin.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/0HGD6ghWoO"
-      }
-     ]
-    }
-   },
-   "favourites_count": 7842,
-   "follow_request_sent": false,
-   "followers_count": 5857,
-   "following": false,
-   "friends_count": 2123,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 789792281540890600,
-   "id_str": "789792281540890625",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 98,
-   "location": "Engayrac, France",
-   "name": "Olivier Damaisin",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/789792281540890625/1612628592",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1358088863302967300/nabWbys3_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358088863302967300/nabWbys3_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "olivierdam1",
-   "statuses_count": 3737,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/0HGD6ghWoO",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🏛 Député de Lot-et-Garonne, Membre de la commission @an_finances, Rapporteur Spécial Pensions/Retraites",
-  "twitter_favourites": 7842,
-  "twitter_followers": 5857,
-  "twitter_following": 2123,
-  "twitter_id": 789792281540890600,
-  "twitter_listed": 98,
-  "twitter_name": "Olivier Damaisin",
-  "twitter_protected": false,
-  "twitter_tweets": 3737,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720268",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720268",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-damaisin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-damaisin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720268"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Damaisin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720268",
@@ -1322,10 +1180,10 @@
   "id": "789792281540890625",
   "name": "Olivier Damaisin",
   "public_metrics": {
-   "followers_count": 5855,
-   "following_count": 2124,
-   "listed_count": 99,
-   "tweet_count": 3737
+   "followers_count": 5852,
+   "following_count": 2126,
+   "listed_count": 98,
+   "tweet_count": 3742
   },
   "username": "olivierdam1"
  },

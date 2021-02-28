@@ -82,143 +82,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "18 Place Saint Pierre 42400 Saint-Chamond"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Chrystèle Aguilar"
-   },
-   {
-    "collaborateur": "M. Romain Dewaele"
-   },
-   {
-    "collaborateur": "M. Dorian Lechelle"
-   },
-   {
-    "collaborateur": "Mme Bohdana Fedun"
-   }
-  ],
-  "date_naissance": "1984-09-02",
-  "emails": [
-   {
-    "email": "perm.parlementairevfm@gmail.com"
-   },
-   {
-    "email": "valeria.faure-muntian@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 439,
-  "id_an": "719960",
-  "lieu_naissance": "Kilia (Ukraine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Valéria Faure-Muntian",
-  "nom_circo": "Loire",
-  "nom_de_famille": "Faure-Muntian",
-  "num_circo": 3,
-  "num_deptmt": "42",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "552",
-  "prenom": "Valéria",
-  "profession": "Agent d'assurances",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.valeriafauremuntian.com",
-   "https://twitter.com/V_Faure_Muntian",
-   "https://fr-fr.facebook.com/Valeriafauremuntian"
-  ],
-  "slug": "valeria-faure-muntian",
   "twitter": "V_Faure_Muntian",
-  "twitter_created_at": "2017-05-13T13:42:53",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat May 13 13:42:53 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la Loire| Commission des #Finances| Présidente gpe d'amitié France-#Ukraine| Groupe d’études #Assurances| Membre #OPECST #Blockchain #IA #Cyber",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "valeriafauremuntian.com",
-       "expanded_url": "https://www.valeriafauremuntian.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Z6xevvwfR6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1335,
-   "follow_request_sent": false,
-   "followers_count": 3539,
-   "following": false,
-   "friends_count": 1455,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863389083099426800,
-   "id_str": "863389083099426816",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 98,
-   "location": "Saint-Chamond, France",
-   "name": "Valéria Faure-Muntian",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863389083099426816/1567765217",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1141694623783555073/GptXqWFV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141694623783555073/GptXqWFV_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "V_Faure_Muntian",
-   "statuses_count": 1743,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Z6xevvwfR6",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la Loire| Commission des #Finances| Présidente gpe d'amitié France-#Ukraine| Groupe d’études #Assurances| Membre #OPECST #Blockchain #IA #Cyber",
-  "twitter_favourites": 1335,
-  "twitter_followers": 3539,
-  "twitter_following": 1455,
-  "twitter_id": 863389083099426800,
-  "twitter_listed": 98,
-  "twitter_name": "Valéria Faure-Muntian",
-  "twitter_protected": false,
-  "twitter_tweets": 1743,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719960",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719960",
-  "url_nosdeputes": "https://www.nosdeputes.fr/valeria-faure-muntian",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/valeria-faure-muntian/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719960"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Valéria-Faure-Muntian",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719960",
@@ -952,8 +817,8 @@
   "public_metrics": {
    "followers_count": 3541,
    "following_count": 1455,
-   "listed_count": 99,
-   "tweet_count": 1748
+   "listed_count": 98,
+   "tweet_count": 1749
   },
   "username": "V_Faure_Muntian"
  },

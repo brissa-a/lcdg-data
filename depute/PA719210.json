@@ -71,127 +71,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.92.09 Téléphone : 02.96.33.57.36"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Saint-Brieuc / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Saint-Brieuc Armor Agglomération /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Arlette Danet"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Laboup-Charlet"
-   },
-   {
-    "collaborateur": "M. Jean-Marc Toqué"
-   }
-  ],
-  "date_naissance": "1953-11-25",
-  "emails": [
-   {
-    "email": "bruno.joncour@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 509,
-  "id_an": "719210",
-  "lieu_naissance": "Bizerte (Tunisie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Bruno Joncour",
-  "nom_circo": "Côtes-d'Armor",
-  "nom_de_famille": "Joncour",
-  "num_circo": 1,
-  "num_deptmt": "22",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "179",
-  "prenom": "Bruno",
-  "profession": "Secrétaire administratif des affaires sanitaires et sociales",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/BJoncour",
-   "https://fr-fr.facebook.com/bruno.joncour"
-  ],
-  "slug": "bruno-joncour",
   "twitter": "BJoncour",
-  "twitter_created_at": "2014-02-17T11:44:22",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Feb 17 11:44:22 +0000 2014",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député des #CotesDArmor | Président du groupe d’amitié France - Palestine | Ancien Maire de @VilledeStBrieuc | Ancien Président de @StBrieucAgglo |",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 383,
-   "follow_request_sent": false,
-   "followers_count": 2076,
-   "following": false,
-   "friends_count": 363,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 2348352426,
-   "id_str": "2348352426",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 128,
-   "location": "Saint-Brieuc",
-   "name": "Bruno Joncour",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2348352426/1506694521",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/867166833463447552/khpd1tQA_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/867166833463447552/khpd1tQA_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BJoncour",
-   "statuses_count": 937,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des #CotesDArmor | Président du groupe d’amitié France - Palestine | Ancien Maire de @VilledeStBrieuc | Ancien Président de @StBrieucAgglo |",
-  "twitter_favourites": 383,
-  "twitter_followers": 2076,
-  "twitter_following": 363,
-  "twitter_id": 2348352426,
-  "twitter_listed": 128,
-  "twitter_name": "Bruno Joncour",
-  "twitter_protected": false,
-  "twitter_tweets": 937,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719210",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719210",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bruno-joncour",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bruno-joncour/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719210"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bruno-Joncour",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719210",
@@ -470,10 +351,10 @@
   "id": "2348352426",
   "name": "Bruno Joncour",
   "public_metrics": {
-   "followers_count": 2076,
+   "followers_count": 2082,
    "following_count": 363,
    "listed_count": 127,
-   "tweet_count": 937
+   "tweet_count": 939
   },
   "username": "BJoncour"
  },

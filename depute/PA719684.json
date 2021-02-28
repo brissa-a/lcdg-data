@@ -83,136 +83,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "14 Avenue Jean Jaurès 34170 Castelnau-le-Lez"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Guillaume Theret"
-   },
-   {
-    "collaborateur": "Mme Louise Olnois"
-   }
-  ],
-  "date_naissance": "1983-03-04",
-  "emails": [
-   {
-    "email": "coralie.dubost@assemblee-nationale.fr"
-   },
-   {
-    "email": "coralie.dubost@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 102,
-  "id_an": "719684",
-  "lieu_naissance": "Montpellier (Hérault)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Coralie Dubost",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Dubost",
-  "num_circo": 3,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "347",
-  "prenom": "Coralie",
-  "profession": "Conseiller juridique",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.coraliedubost.fr",
-   "https://twitter.com/CoDubost"
-  ],
-  "slug": "coralie-dubost",
   "twitter": "CoDubost",
-  "twitter_created_at": "2016-06-03T09:42:00",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jun 03 09:42:00 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #circo3403 Présidente-déléguée @LaREM_AN▪️@AN_ComLois @AN_AfEur 🇪🇺▪️#Bioéthique #PMApourToutes 👩🏻🏳️‍🌈 #PACTE ♻️ #RSE #JamaisSansElles #UE",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "coraliedubost.fr",
-       "expanded_url": "http://www.coraliedubost.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/DXbzXkZul7"
-      }
-     ]
-    }
-   },
-   "favourites_count": 51832,
-   "follow_request_sent": false,
-   "followers_count": 17318,
-   "following": false,
-   "friends_count": 3292,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 738667035371135000,
-   "id_str": "738667035371134976",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 214,
-   "location": "Montpellier, France",
-   "name": "Coralie Dubost",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/738667035371134976/1542643493",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1313084496972050435/4BuIaSy5_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313084496972050435/4BuIaSy5_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "CoDubost",
-   "statuses_count": 15091,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/DXbzXkZul7",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #circo3403 Présidente-déléguée @LaREM_AN▪️@AN_ComLois @AN_AfEur 🇪🇺▪️#Bioéthique #PMApourToutes 👩🏻🏳️‍🌈 #PACTE ♻️ #RSE #JamaisSansElles #UE",
-  "twitter_favourites": 51832,
-  "twitter_followers": 17318,
-  "twitter_following": 3292,
-  "twitter_id": 738667035371135000,
-  "twitter_listed": 214,
-  "twitter_name": "Coralie Dubost",
-  "twitter_protected": false,
-  "twitter_tweets": 15091,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719684",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719684",
-  "url_nosdeputes": "https://www.nosdeputes.fr/coralie-dubost",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/coralie-dubost/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719684"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Coralie-Dubost",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719684",
@@ -796,10 +668,10 @@
   "id": "738667035371134976",
   "name": "Coralie Dubost",
   "public_metrics": {
-   "followers_count": 17322,
+   "followers_count": 17334,
    "following_count": 3293,
-   "listed_count": 216,
-   "tweet_count": 15091
+   "listed_count": 215,
+   "tweet_count": 15101
   },
   "username": "CoDubost"
  },

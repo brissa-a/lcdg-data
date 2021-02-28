@@ -66,133 +66,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "12/03/2018 /  / "
-   },
-   {
-    "mandat": "21/06/2017 / 08/12/2017 / annulation de l'élection sur décision du conseil constitutionnel"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Assemblée de Guyane /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Taïna Contout"
-   },
-   {
-    "collaborateur": "Mme Lovely Bergena"
-   },
-   {
-    "collaborateur": "Mme Lorine Bozin"
-   },
-   {
-    "collaborateur": "M. Déric Adam"
-   },
-   {
-    "collaborateur": "M. Romaric Baya"
-   }
-  ],
-  "date_naissance": "1992-02-19",
-  "emails": [
-   {
-    "email": "lenaick.adam@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 152,
-  "id_an": "721036",
-  "lieu_naissance": "Saint Laurent du Maroni (Guyane)",
-  "mandat_debut": "2018-03-12",
-  "nb_mandats": 1,
-  "nom": "Lénaïck Adam",
-  "nom_circo": "Guyane",
-  "nom_de_famille": "Adam",
-  "num_circo": 2,
-  "num_deptmt": "973",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "357",
-  "prenom": "Lénaïck",
-  "profession": "Cadre supérieur (entreprises privée)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/LenaickADAM",
-   "https://fr-fr.facebook.com/lenaick.adam"
-  ],
-  "slug": "lenaick-adam",
   "twitter": "LenaickADAM",
-  "twitter_created_at": "2011-11-15T14:08:14",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Nov 15 14:08:14 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député @enmarchefr de #Guyane (2ème circonscription) - @LaRem_AN -@AN_AfEtr",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 203,
-   "follow_request_sent": false,
-   "followers_count": 2582,
-   "following": false,
-   "friends_count": 646,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 413114866,
-   "id_str": "413114866",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 96,
-   "location": "Saint-Laurent du Maroni",
-   "name": "Lénaïck ADAM",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/413114866/1483347294",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1281306319270658054/OXo1WWGZ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281306319270658054/OXo1WWGZ_normal.jpg",
-   "profile_link_color": "4A913C",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "LenaickADAM",
-   "statuses_count": 250,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @enmarchefr de #Guyane (2ème circonscription) - @LaRem_AN -@AN_AfEtr",
-  "twitter_favourites": 203,
-  "twitter_followers": 2582,
-  "twitter_following": 646,
-  "twitter_id": 413114866,
-  "twitter_listed": 96,
-  "twitter_name": "Lénaïck ADAM",
-  "twitter_protected": false,
-  "twitter_tweets": 250,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721036",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721036",
-  "url_nosdeputes": "https://www.nosdeputes.fr/lenaick-adam",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/lenaick-adam/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721036"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Lénaïck-Adam",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721036",
@@ -468,7 +343,7 @@
   "id": "413114866",
   "name": "Lénaïck ADAM",
   "public_metrics": {
-   "followers_count": 2585,
+   "followers_count": 2595,
    "following_count": 646,
    "listed_count": 96,
    "tweet_count": 250

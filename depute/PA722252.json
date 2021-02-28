@@ -78,128 +78,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 134 Rue François Mitterrand 91160 Longjumeau Téléphone : 01 69 81 70 35"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.57.61"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marion Djaou"
-   },
-   {
-    "collaborateur": "Mme Dominique Darbouret"
-   },
-   {
-    "collaborateur": "Mme Christelle Pouliquen"
-   },
-   {
-    "collaborateur": "Mme Ingrid Lanoë"
-   },
-   {
-    "collaborateur": "Mme Anne Martiréné"
-   }
-  ],
-  "date_naissance": "1977-01-18",
-  "emails": [
-   {
-    "email": "marie-pierre.rixain@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 86,
-  "id_an": "722252",
-  "lieu_naissance": "Saint-Cyr-l'Ecole (Yvelines)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marie-Pierre Rixain",
-  "nom_circo": "Essonne",
-  "nom_de_famille": "Rixain",
-  "num_circo": 4,
-  "num_deptmt": "91",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "475",
-  "prenom": "Marie-Pierre",
-  "profession": "Consultante en communication",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/RixainMP"
-  ],
-  "slug": "marie-pierre-rixain",
   "twitter": "RixainMP",
-  "twitter_created_at": "2017-05-15T23:03:17",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 15 23:03:17 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #LREM de l’Essonne | 🚺🚹 Présidente de @AN_DroitsFemmes | 🩺 Commissaire @AN_AfSoc | 🇲🇹 Présidente du groupe d'amitié France-Malte",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 15824,
-   "follow_request_sent": false,
-   "followers_count": 10272,
-   "following": false,
-   "friends_count": 1698,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864254888599068700,
-   "id_str": "864254888599068673",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 128,
-   "location": "Essonne, Ile-de-France",
-   "name": "Marie-Pierre Rixain",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864254888599068673/1573432316",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/934417410878296064/LWx3CaCZ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/934417410878296064/LWx3CaCZ_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RixainMP",
-   "statuses_count": 5125,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #LREM de l’Essonne | 🚺🚹 Présidente de @AN_DroitsFemmes | 🩺 Commissaire @AN_AfSoc | 🇲🇹 Présidente du groupe d'amitié France-Malte",
-  "twitter_favourites": 15824,
-  "twitter_followers": 10272,
-  "twitter_following": 1698,
-  "twitter_id": 864254888599068700,
-  "twitter_listed": 128,
-  "twitter_name": "Marie-Pierre Rixain",
-  "twitter_protected": false,
-  "twitter_tweets": 5125,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722252",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722252",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marie-pierre-rixain",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marie-pierre-rixain/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722252"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marie-Pierre-Rixain",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722252",
@@ -795,10 +675,10 @@
   "id": "864254888599068673",
   "name": "Marie-Pierre Rixain",
   "public_metrics": {
-   "followers_count": 10273,
+   "followers_count": 10277,
    "following_count": 1698,
-   "listed_count": 128,
-   "tweet_count": 5129
+   "listed_count": 127,
+   "tweet_count": 5133
   },
   "username": "RixainMP"
  },

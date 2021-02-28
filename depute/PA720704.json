@@ -144,140 +144,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.67.57"
-   },
-   {
-    "adresse": "Permanence parlementaire 32 Rue Amadéo 63000 Clermont-Ferrand Téléphone : 04.73.36.84.27"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Auvergne-Rhône-Alpes / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Frédéric Bonnet"
-   },
-   {
-    "collaborateur": "M. Romain Sennepin"
-   },
-   {
-    "collaborateur": "M. Gilles Lacan"
-   }
-  ],
-  "date_naissance": "1955-02-05",
-  "emails": [
-   {
-    "email": "laurence.vichnievsky@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 13,
-  "id_an": "720704",
-  "lieu_naissance": "Boulogne-Billancourt (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Laurence Vichnievsky",
-  "nom_circo": "Puy-de-Dôme",
-  "nom_de_famille": "Vichnievsky",
-  "num_circo": 3,
-  "num_deptmt": "63",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "261",
-  "prenom": "Laurence",
-  "profession": "Magistrat",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/Lvichnievsky",
-   "https://fr-fr.facebook.com/laurencevichnievsky"
-  ],
-  "slug": "laurence-vichnievsky",
   "twitter": "Lvichnievsky",
-  "twitter_created_at": "2009-10-26T13:00:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Oct 26 13:00:16 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée du Puy-de-Dôme, VP de la commission des lois - ancienne juge d'instruction au pôle financier de Paris",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720704",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/OTkmOJa1Np"
-      }
-     ]
-    }
-   },
-   "favourites_count": 451,
-   "follow_request_sent": false,
-   "followers_count": 3924,
-   "following": false,
-   "friends_count": 484,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 85308962,
-   "id_str": "85308962",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 154,
-   "location": "France",
-   "name": "Laurence Vichnievsky",
-   "notifications": false,
-   "profile_background_color": "265230",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/85308962/1498740889",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/882217257442709506/doc6tDUd_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/882217257442709506/doc6tDUd_normal.jpg",
-   "profile_link_color": "FA743E",
-   "profile_sidebar_border_color": "27452C",
-   "profile_sidebar_fill_color": "375280",
-   "profile_text_color": "302B2B",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "LVichnievsky",
-   "statuses_count": 1436,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/OTkmOJa1Np",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée du Puy-de-Dôme, VP de la commission des lois - ancienne juge d'instruction au pôle financier de Paris",
-  "twitter_favourites": 451,
-  "twitter_followers": 3924,
-  "twitter_following": 484,
-  "twitter_id": 85308962,
-  "twitter_listed": 154,
-  "twitter_name": "Laurence Vichnievsky",
-  "twitter_protected": false,
-  "twitter_tweets": 1436,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720704",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720704",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurence-vichnievsky",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurence-vichnievsky/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720704"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurence-Vichnievsky",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720704",
@@ -682,9 +550,9 @@
   "id": "85308962",
   "name": "Laurence Vichnievsky",
   "public_metrics": {
-   "followers_count": 3926,
+   "followers_count": 3923,
    "following_count": 484,
-   "listed_count": 154,
+   "listed_count": 153,
    "tweet_count": 1436
   },
   "username": "LVichnievsky"

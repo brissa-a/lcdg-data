@@ -82,140 +82,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Avrillé / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Gilles Guillamot"
-   },
-   {
-    "collaborateur": "Mme Anaïs Fournier"
-   },
-   {
-    "collaborateur": "Mme Alice Oger"
-   },
-   {
-    "collaborateur": "M. Kôichi Courant"
-   }
-  ],
-  "date_naissance": "1967-03-25",
-  "emails": [
-   {
-    "email": "philippe.bolo@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 361,
-  "id_an": "720162",
-  "lieu_naissance": "Limoges (Haute-Vienne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Philippe Bolo",
-  "nom_circo": "Maine-et-Loire",
-  "nom_de_famille": "Bolo",
-  "num_circo": 7,
-  "num_deptmt": "49",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "253",
-  "prenom": "Philippe",
-  "profession": "Ingénieur",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/phbolo",
-   "http://www.philippe-bolo.fr"
-  ],
-  "slug": "philippe-bolo",
   "twitter": "phbolo",
-  "twitter_created_at": "2013-10-28T22:25:35",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Oct 28 22:25:35 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député 4️⃣9️⃣ Angers-Segré | @DeputesDem | @AN_AfEco | @AN_OPECST | vice-pdt 🇫🇷🇯🇵 | réserve citoyenne @ecolegenie49 | conseiller municipal @avrille49",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "philippe-bolo.fr",
-       "expanded_url": "http://www.philippe-bolo.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/z5ZGzsf7bp"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3333,
-   "follow_request_sent": false,
-   "followers_count": 3459,
-   "following": false,
-   "friends_count": 1285,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 2157820581,
-   "id_str": "2157820581",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 190,
-   "location": "Avrillé, Angers, Segré, Paris",
-   "name": "Philippe Bolo",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2157820581/1550909818",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1046519713331859456/VPhfCCpt_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046519713331859456/VPhfCCpt_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "phbolo",
-   "statuses_count": 8881,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/z5ZGzsf7bp",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député 4️⃣9️⃣ Angers-Segré | @DeputesDem | @AN_AfEco | @AN_OPECST | vice-pdt 🇫🇷🇯🇵 | réserve citoyenne @ecolegenie49 | conseiller municipal @avrille49",
-  "twitter_favourites": 3333,
-  "twitter_followers": 3459,
-  "twitter_following": 1285,
-  "twitter_id": 2157820581,
-  "twitter_listed": 190,
-  "twitter_name": "Philippe Bolo",
-  "twitter_protected": false,
-  "twitter_tweets": 8881,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720162",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720162",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-bolo",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-bolo/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720162"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Bolo",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720162",
@@ -807,10 +675,10 @@
   "id": "2157820581",
   "name": "Philippe Bolo",
   "public_metrics": {
-   "followers_count": 3459,
-   "following_count": 1285,
+   "followers_count": 3460,
+   "following_count": 1287,
    "listed_count": 189,
-   "tweet_count": 8884
+   "tweet_count": 8889
   },
   "username": "phbolo"
  },

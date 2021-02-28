@@ -149,149 +149,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "4 Place du 9 juin, 53100 Mayenne Téléphone : 02 43 30 29 60"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.75.44"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pays de la Loire / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Nathalie Vigneron"
-   },
-   {
-    "collaborateur": "Mme Emmanuelle Boutang"
-   }
-  ],
-  "date_naissance": "1958-08-12",
-  "emails": [
-   {
-    "email": "yannick.favennec@assemblee-nationale.fr"
-   },
-   {
-    "email": "favennec.yannick@wanadoo.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 256,
-  "id_an": "267042",
-  "lieu_naissance": "Chaudron-en-Mauges (Maine-et-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Yannick Favennec-Bécot",
-  "nom_circo": "Mayenne",
-  "nom_de_famille": "Favennec-Bécot",
-  "num_circo": 3,
-  "num_deptmt": "53",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "187",
-  "prenom": "Yannick",
-  "profession": "Directeur de cabinet",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/yfavennec",
-   "http://www.favennecactualite.com"
-  ],
-  "slug": "yannick-favennec-becot",
   "twitter": "yfavennec",
-  "twitter_created_at": "2008-10-08T13:39:28",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Oct 08 13:39:28 +0000 2008",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député UDI de la Mayenne. Secrétaire de l’Assemblée nationale. Membre de la Commission de la Défense. Conseiller régional des Pays-de-la-Loire.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "favennecactualite.com",
-       "expanded_url": "http://www.favennecactualite.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/TcM0Sc6LKE"
-      }
-     ]
-    }
-   },
-   "favourites_count": 429,
-   "follow_request_sent": false,
-   "followers_count": 8842,
-   "following": false,
-   "friends_count": 1258,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 16648630,
-   "id_str": "16648630",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 462,
-   "location": "Mayenne France",
-   "name": "Yannick FAVENNEC",
-   "notifications": false,
-   "profile_background_color": "9AC4E6",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/16648630/1606990578",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/882151492312080384/icCr_3OE_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/882151492312080384/icCr_3OE_normal.jpg",
-   "profile_link_color": "AA00B3",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "95E8EC",
-   "profile_text_color": "3C3940",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "yfavennec",
-   "statuses_count": 8265,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/TcM0Sc6LKE",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député UDI de la Mayenne. Secrétaire de l’Assemblée nationale. Membre de la Commission de la Défense. Conseiller régional des Pays-de-la-Loire.",
-  "twitter_favourites": 429,
-  "twitter_followers": 8842,
-  "twitter_following": 1258,
-  "twitter_id": 16648630,
-  "twitter_listed": 462,
-  "twitter_name": "Yannick FAVENNEC",
-  "twitter_protected": false,
-  "twitter_tweets": 8265,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267042",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267042",
-  "url_nosdeputes": "https://www.nosdeputes.fr/yannick-favennec-becot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/yannick-favennec-becot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267042"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Yannick-Favennec-Bécot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267042",
@@ -745,8 +604,8 @@
   "public_metrics": {
    "followers_count": 8841,
    "following_count": 1258,
-   "listed_count": 463,
-   "tweet_count": 8265
+   "listed_count": 464,
+   "tweet_count": 8267
   },
   "username": "yfavennec"
  },

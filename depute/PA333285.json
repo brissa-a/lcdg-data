@@ -109,163 +109,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 22 Rue Souchu-Servinière, 53000 Laval Téléphone : 02 43 01 03 05"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 21/07/2012 / nomination comme membre du gouvernement"
-   },
-   {
-    "mandat": "03/05/2014 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Mayenne / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Pascale Cupif"
-   },
-   {
-    "collaborateur": "Mme Rachel Mehaignerie"
-   },
-   {
-    "collaborateur": "M. Augustin Moreau"
-   }
-  ],
-  "date_naissance": "1966-05-29",
-  "emails": [
-   {
-    "email": "permanence@garot.fr"
-   },
-   {
-    "email": "guillaume.garot@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 321,
-  "id_an": "333285",
-  "lieu_naissance": "Laval (Mayenne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Guillaume Garot",
-  "nom_circo": "Mayenne",
-  "nom_de_famille": "Garot",
-  "num_circo": 1,
-  "num_deptmt": "53",
-  "parti_ratt_financier": "Parti socialiste",
-  "place_en_hemicycle": "500",
-  "prenom": "Guillaume",
-  "profession": "Cadre administratif",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.guillaume-garot.fr",
-   "https://twitter.com/guillaumegarot",
-   "https://fr-fr.facebook.com/guillaumegarot.fr"
-  ],
-  "slug": "guillaume-garot",
   "twitter": "guillaumegarot",
-  "twitter_created_at": "2011-09-15T16:44:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Sep 15 16:44:16 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député PS de la Mayenne. Ancien ministre. Tête de liste #Regionales2021 en #PaysDeLaLoire https://t.co/FcseI0NNGd",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "facebook.com/guillaumegarot…",
-       "expanded_url": "http://www.facebook.com/guillaumegarot.fr",
-       "indices": [
-        90,
-        113
-       ],
-       "url": "https://t.co/FcseI0NNGd"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "guillaume-garot.fr",
-       "expanded_url": "http://www.guillaume-garot.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/6h6UNKzD98"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5798,
-   "follow_request_sent": false,
-   "followers_count": 20334,
-   "following": false,
-   "friends_count": 3084,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 374055885,
-   "id_str": "374055885",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 423,
-   "location": "Laval, la Mayenne",
-   "name": "Guillaume GAROT",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/374055885/1557592775",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/865152883645308932/W2u78uZY_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/865152883645308932/W2u78uZY_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "guillaumegarot",
-   "statuses_count": 6920,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/6h6UNKzD98",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député PS de la Mayenne. Ancien ministre. Tête de liste #Regionales2021 en #PaysDeLaLoire https://t.co/FcseI0NNGd",
-  "twitter_favourites": 5798,
-  "twitter_followers": 20334,
-  "twitter_following": 3084,
-  "twitter_id": 374055885,
-  "twitter_listed": 423,
-  "twitter_name": "Guillaume GAROT",
-  "twitter_protected": false,
-  "twitter_tweets": 6920,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333285",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333285",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guillaume-garot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guillaume-garot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333285"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guillaume-Garot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333285",
@@ -775,10 +620,10 @@
   "id": "374055885",
   "name": "Guillaume GAROT",
   "public_metrics": {
-   "followers_count": 20339,
-   "following_count": 3086,
+   "followers_count": 20367,
+   "following_count": 3092,
    "listed_count": 424,
-   "tweet_count": 6923
+   "tweet_count": 6938
   },
   "username": "guillaumegarot"
  },

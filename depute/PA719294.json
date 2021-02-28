@@ -67,137 +67,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Christel Gaudibert"
-   },
-   {
-    "collaborateur": "Mme Daët Marion"
-   },
-   {
-    "collaborateur": "M. Anthony Gaudin"
-   },
-   {
-    "collaborateur": "M. Yanis Stienlet"
-   }
-  ],
-  "date_naissance": "1963-10-14",
-  "emails": [
-   {
-    "email": "mireille.clapot@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 571,
-  "id_an": "719294",
-  "lieu_naissance": "Belley (Ain)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Mireille Clapot",
-  "nom_circo": "Drôme",
-  "nom_de_famille": "Clapot",
-  "num_circo": 1,
-  "num_deptmt": "26",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "358",
-  "prenom": "Mireille",
-  "profession": "Cadre supérieur (entreprises publiques)",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.mireilleclapot.fr",
-   "https://twitter.com/clapotmireille",
-   "https://fr-fr.facebook.com/CLAPOTMireille"
-  ],
-  "slug": "mireille-clapot",
   "twitter": "clapotmireille",
-  "twitter_created_at": "2012-01-22T13:30:45",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Jan 22 13:30:45 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la Drôme\n#LaRepubliqueEnMarche #Circo2601\nMembre de la Commission des Affaires Etrangères\nPrésidente de la @CSNUMPOST",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "mireilleclapot.fr",
-       "expanded_url": "http://www.mireilleclapot.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/ly1L6OtYXf"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3882,
-   "follow_request_sent": false,
-   "followers_count": 7592,
-   "following": false,
-   "friends_count": 2325,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 471076259,
-   "id_str": "471076259",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 124,
-   "location": "Drôme, Rhône-Alpes",
-   "name": "Mireille Clapot",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/471076259/1541770450",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/880157907232444416/KAH-cWn__normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/880157907232444416/KAH-cWn__normal.jpg",
-   "profile_link_color": "12A2FF",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "CLAPOTMireille",
-   "statuses_count": 3073,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/ly1L6OtYXf",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la Drôme #LaRepubliqueEnMarche #Circo2601 Membre de la Commission des Affaires Etrangères Présidente de la @CSNUMPOST",
-  "twitter_favourites": 3882,
-  "twitter_followers": 7592,
-  "twitter_following": 2325,
-  "twitter_id": 471076259,
-  "twitter_listed": 124,
-  "twitter_name": "Mireille Clapot",
-  "twitter_protected": false,
-  "twitter_tweets": 3073,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719294",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719294",
-  "url_nosdeputes": "https://www.nosdeputes.fr/mireille-clapot",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/mireille-clapot/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719294"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Mireille-Clapot",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719294",
@@ -1199,10 +1070,10 @@
   "id": "471076259",
   "name": "Mireille Clapot",
   "public_metrics": {
-   "followers_count": 7589,
-   "following_count": 2324,
-   "listed_count": 125,
-   "tweet_count": 3074
+   "followers_count": 7596,
+   "following_count": 2326,
+   "listed_count": 124,
+   "tweet_count": 3081
   },
   "username": "CLAPOTMireille"
  },

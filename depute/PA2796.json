@@ -51,157 +51,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Mairie 9ème et 10ème arrondissements 150 Boulevard Paul Claudel 13009 Marseille"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.91.09"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "02/04/1993 / 21/04/1997 / fin de législature"
-   },
-   {
-    "mandat": "13/06/1988 / 26/11/1988 / annulation de l'élection sur décision du conseil constitutionnel"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pays-d'Aix-en-Provence / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Marseille / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Marseille Provence Métropole / Communauté urbaine / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Albane Duteurtre"
-   },
-   {
-    "collaborateur": "M. Lionel Royer-Perreaut"
-   },
-   {
-    "collaborateur": "M. Albert Tranchand"
-   },
-   {
-    "collaborateur": "M. Stéphane Lachaud"
-   }
-  ],
-  "date_naissance": "1945-04-04",
-  "emails": [
-   {
-    "email": "guy.teissier@assemblee-nationale.fr"
-   },
-   {
-    "email": "gteissier@mairie-marseille.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 156,
-  "id_an": "2796",
-  "lieu_naissance": "Marseille (Bouches-du-Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 3,
-  "nom": "Guy Teissier",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Teissier",
-  "num_circo": 6,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "84",
-  "prenom": "Guy",
-  "profession": "Retraité",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.guyteissier.com",
-   "https://twitter.com/guyteissier"
-  ],
-  "slug": "guy-teissier",
   "twitter": "guyteissier",
-  "twitter_created_at": "2012-05-04T10:09:42",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri May 04 10:09:42 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député LR des Bouches-du-Rhône/Conseiller métropolitain/Maire honoraire des 9&10èmes arrondissements de Marseille/Président du Cercle d'amitié France-#Artsakh",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 563,
-   "follow_request_sent": false,
-   "followers_count": 9290,
-   "following": false,
-   "friends_count": 377,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 570703871,
-   "id_str": "570703871",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 228,
-   "location": "Marseille",
-   "name": "Guy Teissier",
-   "notifications": false,
-   "profile_background_color": "022330",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/570703871/1602856610",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1174277157629124613/2c8tFUFQ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174277157629124613/2c8tFUFQ_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "C0DFEC",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "guyteissier",
-   "statuses_count": 2475,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député LR des Bouches-du-Rhône/Conseiller métropolitain/Maire honoraire des 9&10èmes arrondissements de Marseille/Président du Cercle d'amitié France-#Artsakh",
-  "twitter_favourites": 563,
-  "twitter_followers": 9290,
-  "twitter_following": 377,
-  "twitter_id": 570703871,
-  "twitter_listed": 228,
-  "twitter_name": "Guy Teissier",
-  "twitter_protected": false,
-  "twitter_tweets": 2475,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guy-teissier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guy-teissier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guy-Teissier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2796",
@@ -362,9 +213,9 @@
   "id": "570703871",
   "name": "Guy Teissier",
   "public_metrics": {
-   "followers_count": 9289,
+   "followers_count": 9294,
    "following_count": 377,
-   "listed_count": 227,
+   "listed_count": 226,
    "tweet_count": 2475
   },
   "username": "guyteissier"

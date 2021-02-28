@@ -55,181 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 15 Quai des Deux Emmanuel 06300 Nice Téléphone : 04 92 14 59 00"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Alpes-Maritimes / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Camille Stoclin-Mille"
-   },
-   {
-    "collaborateur": "Mme Cécile Farrugia"
-   },
-   {
-    "collaborateur": "Mme Carine Ros"
-   },
-   {
-    "collaborateur": "M. Loïc Grenard"
-   },
-   {
-    "collaborateur": "M. Antoine Petit de Chemellier"
-   },
-   {
-    "collaborateur": "M. Frédéric Langenfeld"
-   },
-   {
-    "collaborateur": "M. Frédéric Viot"
-   },
-   {
-    "collaborateur": "M. Théo Mariani"
-   }
-  ],
-  "date_naissance": "1965-09-28",
-  "emails": [
-   {
-    "email": "eric.ciotti@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 101,
-  "id_an": "330240",
-  "lieu_naissance": "Nice (Alpes-Maritimes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Éric Ciotti",
-  "nom_circo": "Alpes-Maritimes",
-  "nom_de_famille": "Ciotti",
-  "num_circo": 1,
-  "num_deptmt": "06",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "91",
-  "prenom": "Éric",
-  "profession": "Autre profession",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.eric-ciotti.com",
-   "https://twitter.com/ECiotti",
-   "https://fr-fr.facebook.com/ECIOTTI"
-  ],
-  "slug": "eric-ciotti",
   "twitter": "ECiotti",
-  "twitter_created_at": "2009-11-06T07:01:41",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Nov 06 07:01:41 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député, Conseiller Départemental des @AlpesMaritimes, Président de la CNI @lesRepublicains\n\nhttps://t.co/V4JTUiu4TC\nhttps://t.co/sArujDrn68",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "facebook.com/ECIOTTI",
-       "expanded_url": "https://www.facebook.com/ECIOTTI",
-       "indices": [
-        92,
-        115
-       ],
-       "url": "https://t.co/V4JTUiu4TC"
-      },
-      {
-       "display_url": "t.me/ericciotti",
-       "expanded_url": "https://t.me/ericciotti",
-       "indices": [
-        116,
-        139
-       ],
-       "url": "https://t.co/sArujDrn68"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "eric-ciotti.com",
-       "expanded_url": "http://www.eric-ciotti.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hxpok27ezV"
-      }
-     ]
-    }
-   },
-   "favourites_count": 408,
-   "follow_request_sent": false,
-   "followers_count": 172591,
-   "following": false,
-   "friends_count": 2089,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 87886754,
-   "id_str": "87886754",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 1060,
-   "location": "Nice",
-   "name": "Eric Ciotti",
-   "notifications": false,
-   "profile_background_color": "25396A",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/87886754/1601826018",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1277635022174945280/5gbmIHnM_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277635022174945280/5gbmIHnM_normal.jpg",
-   "profile_link_color": "8A9BCC",
-   "profile_sidebar_border_color": "8A9BCC",
-   "profile_sidebar_fill_color": "F5F5F5",
-   "profile_text_color": "000059",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ECiotti",
-   "statuses_count": 26005,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hxpok27ezV",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député, Conseiller Départemental des @AlpesMaritimes, Président de la CNI @lesRepublicains https://t.co/V4JTUiu4TC https://t.co/sArujDrn68",
-  "twitter_favourites": 408,
-  "twitter_followers": 172591,
-  "twitter_following": 2089,
-  "twitter_id": 87886754,
-  "twitter_listed": 1060,
-  "twitter_name": "Eric Ciotti",
-  "twitter_protected": false,
-  "twitter_tweets": 26005,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330240",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330240",
-  "url_nosdeputes": "https://www.nosdeputes.fr/eric-ciotti",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/eric-ciotti/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330240"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Éric-Ciotti",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330240",
@@ -714,10 +541,10 @@
   "id": "87886754",
   "name": "Eric Ciotti",
   "public_metrics": {
-   "followers_count": 172615,
-   "following_count": 2089,
-   "listed_count": 1060,
-   "tweet_count": 26007
+   "followers_count": 172693,
+   "following_count": 2088,
+   "listed_count": 1057,
+   "tweet_count": 26013
   },
   "username": "ECiotti"
  },

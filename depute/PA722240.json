@@ -130,171 +130,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 1 Place de la République 87800 Nexon Téléphone : 05.55.70.68.92"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "04/10/2019 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Victor Guilbert"
-   },
-   {
-    "collaborateur": "Mme Lucy Jalouneix"
-   },
-   {
-    "collaborateur": "M. Azedine Ghobrini"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Boisserie"
-   },
-   {
-    "collaborateur": "M. Yanis Sicre"
-   }
-  ],
-  "date_naissance": "1974-08-26",
-  "emails": [
-   {
-    "email": "Pierre.Venteau@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 607,
-  "id_an": "722240",
-  "lieu_naissance": "Saint-Yrieix-la-Perche (Haute-Vienne)",
-  "mandat_debut": "2019-10-04",
-  "nb_mandats": 1,
-  "nom": "Pierre Venteau",
-  "nom_circo": "Haute-Vienne",
-  "nom_de_famille": "Venteau",
-  "num_circo": 2,
-  "num_deptmt": "87",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "397",
-  "prenom": "Pierre",
-  "profession": "Cadre d'organisation professionnelle agricole",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/PierreVenteau"
-  ],
-  "slug": "pierre-venteau",
   "twitter": "PierreVenteau",
-  "twitter_created_at": "2019-09-05T12:14:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Sep 05 12:14:09 +0000 2019",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "🇫🇷 Député de la deuxième circonscription de Haute-Vienne | Deputat de la seconda circonscripcion de la Nauta-Viena | Membre @AN_Defense",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 634,
-   "follow_request_sent": false,
-   "followers_count": 667,
-   "following": false,
-   "friends_count": 192,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1169584397517017000,
-   "id_str": "1169584397517017089",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 21,
-   "location": "Haute-Vienne, Limousin",
-   "name": "Pierre Venteau",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169584397517017089/1608034762",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1227272134680023040/lX1JLzdc_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227272134680023040/lX1JLzdc_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_location": null,
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "PierreVenteau",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Feb 23 18:43:20 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "twitter.com/i/web/status/1…",
-       "expanded_url": "https://twitter.com/i/web/status/1364284724781461504",
-       "indices": [
-        117,
-        140
-       ],
-       "url": "https://t.co/JjhBSZ99n6"
-      }
-     ],
-     "user_mentions": []
-    },
-    "favorite_count": 9,
-    "favorited": false,
-    "geo": null,
-    "id": 1364284724781461500,
-    "id_str": "1364284724781461504",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
-    "lang": "fr",
-    "place": null,
-    "possibly_sensitive": false,
-    "quoted_status_id": 1364141979848867800,
-    "quoted_status_id_str": "1364141979848867842",
-    "retweet_count": 1,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "text": "Faire l'amalgame entre l'industrie internationale de la viande et l'élevage à l'herbe de nos territoires est étonna… https://t.co/JjhBSZ99n6",
-    "truncated": true
-   },
-   "statuses_count": 754,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🇫🇷 Député de la deuxième circonscription de Haute-Vienne | Deputat de la seconda circonscripcion de la Nauta-Viena | Membre @AN_Defense",
-  "twitter_favourites": 634,
-  "twitter_followers": 667,
-  "twitter_following": 192,
-  "twitter_id": 1169584397517017000,
-  "twitter_listed": 21,
-  "twitter_name": "Pierre Venteau",
-  "twitter_protected": false,
-  "twitter_tweets": 754,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722240",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722240",
-  "url_nosdeputes": "https://www.nosdeputes.fr/pierre-venteau",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/pierre-venteau/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722240"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Pierre-Venteau",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722240",
@@ -544,10 +381,10 @@
   "id": "1169584397517017089",
   "name": "Pierre Venteau",
   "public_metrics": {
-   "followers_count": 672,
+   "followers_count": 677,
    "following_count": 192,
    "listed_count": 21,
-   "tweet_count": 756
+   "tweet_count": 761
   },
   "username": "PierreVenteau"
  },

@@ -91,126 +91,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 162 Bis Avenue de Colmar 68100 Mulhouse Téléphone : 09 61 65 59 51"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Isabelle Laferrerie"
-   },
-   {
-    "collaborateur": "Mme Marieke Liebaert"
-   },
-   {
-    "collaborateur": "Mme Barbara Bourges"
-   },
-   {
-    "collaborateur": "M. Paul Donn"
-   }
-  ],
-  "date_naissance": "1959-04-07",
-  "emails": [
-   {
-    "email": "bruno.fuchs@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 528,
-  "id_an": "722284",
-  "lieu_naissance": "Colmar (Haut-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bruno Fuchs",
-  "nom_circo": "Haut-Rhin",
-  "nom_de_famille": "Fuchs",
-  "num_circo": 6,
-  "num_deptmt": "68",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "181",
-  "prenom": "Bruno",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/bruno_fuchs",
-   "https://fr-fr.facebook.com/BrunoFuchsHautRhin2017"
-  ],
-  "slug": "bruno-fuchs",
   "twitter": "bruno_fuchs",
-  "twitter_created_at": "2010-02-19T17:17:49",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Feb 19 17:17:49 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 6e circonscription du Haut-Rhin. VP de l'Assemblée parlementaire de la francophonie. Ex-entrepreneur, ex-journaliste de TV.",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 3434,
-   "follow_request_sent": false,
-   "followers_count": 5868,
-   "following": false,
-   "friends_count": 1019,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 115715214,
-   "id_str": "115715214",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 176,
-   "location": "",
-   "name": "Bruno Fuchs",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/115715214/1502559919",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1337856787136049154/2xjsBOYg_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337856787136049154/2xjsBOYg_normal.jpg",
-   "profile_link_color": "FF691F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "bruno_fuchs",
-   "statuses_count": 4462,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 6e circonscription du Haut-Rhin. VP de l'Assemblée parlementaire de la francophonie. Ex-entrepreneur, ex-journaliste de TV.",
-  "twitter_favourites": 3434,
-  "twitter_followers": 5868,
-  "twitter_following": 1019,
-  "twitter_id": 115715214,
-  "twitter_listed": 176,
-  "twitter_name": "Bruno Fuchs",
-  "twitter_protected": false,
-  "twitter_tweets": 4462,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722284",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722284",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bruno-fuchs",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bruno-fuchs/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722284"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bruno-Fuchs",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722284",
@@ -871,10 +753,10 @@
   "id": "115715214",
   "name": "Bruno Fuchs",
   "public_metrics": {
-   "followers_count": 5869,
-   "following_count": 1019,
+   "followers_count": 5867,
+   "following_count": 1020,
    "listed_count": 175,
-   "tweet_count": 4467
+   "tweet_count": 4470
   },
   "username": "bruno_fuchs"
  },

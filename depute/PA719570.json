@@ -56,137 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 13 Quai de la Monnaie 33800 Bordeaux Téléphone : 05 57 80 60 41"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Alexandra Dutreil"
-   },
-   {
-    "collaborateur": "Mme Anaïs Vaquieri"
-   },
-   {
-    "collaborateur": "Mme Marion Legrand"
-   }
-  ],
-  "date_naissance": "1978-09-19",
-  "emails": [
-   {
-    "email": "catherine.fabre@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 365,
-  "id_an": "719570",
-  "lieu_naissance": "Toulouse (Haute-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Catherine Fabre",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "Fabre",
-  "num_circo": 2,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "406",
-  "prenom": "Catherine",
-  "profession": "Maître de conférences des Universités",
-  "sexe": "F",
-  "sites_web": [
-   "http://catherinefabre.fr",
-   "https://twitter.com/cfabreAN",
-   "https://fr-fr.facebook.com/CFABRE2017"
-  ],
-  "slug": "catherine-fabre",
   "twitter": "cfabreAN",
-  "twitter_created_at": "2010-03-08T13:02:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Mar 08 13:02:11 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée @LaREM_AN 2e circo de #Gironde • #Bordeaux\n• Respo. de texte #SanteAuTravail & #Retraite pr #LREM\n• Rapporteure loi #FormPro #Apprentissage\n• @AN_AfSoc",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "catherinefabre.fr",
-       "expanded_url": "http://catherinefabre.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/kUM9pO5dQY"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4514,
-   "follow_request_sent": false,
-   "followers_count": 8780,
-   "following": false,
-   "friends_count": 1257,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 121106417,
-   "id_str": "121106417",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 151,
-   "location": "Bordeaux, France",
-   "name": "Catherine Fabre",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/121106417/1527590141",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1001395922893508608/l_1ZWTc2_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001395922893508608/l_1ZWTc2_normal.jpg",
-   "profile_link_color": "2CADB9",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "cfabreAN",
-   "statuses_count": 3772,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/kUM9pO5dQY",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée @LaREM_AN 2e circo de #Gironde • #Bordeaux • Respo. de texte #SanteAuTravail & #Retraite pr #LREM • Rapporteure loi #FormPro #Apprentissage • @AN_AfSoc",
-  "twitter_favourites": 4514,
-  "twitter_followers": 8780,
-  "twitter_following": 1257,
-  "twitter_id": 121106417,
-  "twitter_listed": 151,
-  "twitter_name": "Catherine Fabre",
-  "twitter_protected": false,
-  "twitter_tweets": 3772,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719570",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719570",
-  "url_nosdeputes": "https://www.nosdeputes.fr/catherine-fabre",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/catherine-fabre/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719570"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Catherine-Fabre",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719570",
@@ -1078,10 +949,10 @@
   "id": "121106417",
   "name": "Catherine Fabre",
   "public_metrics": {
-   "followers_count": 8781,
-   "following_count": 1257,
+   "followers_count": 8787,
+   "following_count": 1259,
    "listed_count": 152,
-   "tweet_count": 3773
+   "tweet_count": 3767
   },
   "username": "cfabreAN"
  },

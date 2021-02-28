@@ -269,180 +269,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 86 Rue Nationale 10200 Bar-sur-Aube Téléphone : 03 25 27 03 25"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Nicolas Bideaux"
-   },
-   {
-    "collaborateur": "M. Nicolas Barnier"
-   },
-   {
-    "collaborateur": "Mme Alexandra Bélateche"
-   },
-   {
-    "collaborateur": "Mme Delphine Bonn"
-   }
-  ],
-  "date_naissance": "1982-07-07",
-  "emails": [
-   {
-    "email": "gregory.besson-moreau@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 99,
-  "id_an": "718876",
-  "lieu_naissance": "Brou-sur-Chantereine (Seine-et-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Grégory Besson-Moreau",
-  "nom_circo": "Aube",
-  "nom_de_famille": "Besson-Moreau",
-  "num_circo": 1,
-  "num_deptmt": "10",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "482",
-  "prenom": "Grégory",
-  "profession": "Président de société",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/GBessonMoreau",
-   "https://www.facebook.com/GBessonMoreau"
-  ],
-  "slug": "gregory-besson-moreau",
   "twitter": "GBessonMoreau",
-  "twitter_created_at": "2017-05-13T17:04:08",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat May 13 17:04:08 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de l'Aube-Rapporteur de la commission d'enquête Lactalis-Rapporteur de la commission d’enquête sur la grande distribution. Vive l’Aube!",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/GBessonMoreau/",
-       "expanded_url": "https://www.facebook.com/GBessonMoreau/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/OGsY2qR0z3"
-      }
-     ]
-    }
-   },
-   "favourites_count": 25415,
-   "follow_request_sent": false,
-   "followers_count": 4562,
-   "following": false,
-   "friends_count": 2790,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863439731979427800,
-   "id_str": "863439731979427843",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 0,
-   "location": "Aube, Champagne-Ardenne",
-   "name": "Gregory Besson Moreau",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863439731979427843/1553720375",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1022036085776556032/6KnrGby1_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022036085776556032/6KnrGby1_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_location": null,
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "GBessonMoreau",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Feb 23 14:54:43 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "lest-eclair.fr/id235470/artic…",
-       "expanded_url": "https://www.lest-eclair.fr/id235470/article/2021-02-23/deces-de-jean-francois-leroux-toutes-les-reactions-en-direct",
-       "indices": [
-        69,
-        92
-       ],
-       "url": "https://t.co/Ae0OvPPoJX"
-      }
-     ],
-     "user_mentions": []
-    },
-    "favorite_count": 1,
-    "favorited": false,
-    "geo": null,
-    "id": 1364227194239602700,
-    "id_str": "1364227194239602688",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "fr",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 1,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "Décès de Jean-François Leroux: les réactions de ceux qui l’ont connu https://t.co/Ae0OvPPoJX",
-    "truncated": false
-   },
-   "statuses_count": 2183,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/OGsY2qR0z3",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Aube-Rapporteur de la commission d'enquête Lactalis-Rapporteur de la commission d’enquête sur la grande distribution. Vive l’Aube!",
-  "twitter_favourites": 25415,
-  "twitter_followers": 4562,
-  "twitter_following": 2790,
-  "twitter_id": 863439731979427800,
-  "twitter_listed": 0,
-  "twitter_name": "Gregory Besson Moreau",
-  "twitter_protected": false,
-  "twitter_tweets": 2183,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718876",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718876",
-  "url_nosdeputes": "https://www.nosdeputes.fr/gregory-besson-moreau",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/gregory-besson-moreau/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718876"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Grégory-Besson-Moreau",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718876",
@@ -861,10 +689,10 @@
   "id": "863439731979427843",
   "name": "Gregory Besson Moreau",
   "public_metrics": {
-   "followers_count": 4565,
+   "followers_count": 4568,
    "following_count": 2790,
    "listed_count": 99,
-   "tweet_count": 2183
+   "tweet_count": 2185
   },
   "username": "GBessonMoreau"
  },

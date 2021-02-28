@@ -71,137 +71,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.31.19"
-   },
-   {
-    "adresse": "Permanence parlementaire 12 Place Clovis 45750 Saint-Pryvé-Saint-Mesmin"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Gabrielle Perret"
-   },
-   {
-    "collaborateur": "Mme Maïté Sève"
-   },
-   {
-    "collaborateur": "M. Stéphan Fautrat"
-   }
-  ],
-  "date_naissance": "1973-08-06",
-  "emails": [
-   {
-    "email": "stephanie.rist@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 368,
-  "id_an": "720066",
-  "lieu_naissance": "Athis-Mons (Essonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Stéphanie Rist",
-  "nom_circo": "Loiret",
-  "nom_de_famille": "Rist",
-  "num_circo": 1,
-  "num_deptmt": "45",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "607",
-  "prenom": "Stéphanie",
-  "profession": "Médecin",
-  "sexe": "F",
-  "sites_web": [
-   "http://stephanierist.fr",
-   "https://twitter.com/stephanie_rist",
-   "https://fr-fr.facebook.com/StephanieRistEnMarche"
-  ],
-  "slug": "stephanie-rist",
   "twitter": "stephanie_rist",
-  "twitter_created_at": "2016-12-11T10:55:56",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Dec 11 10:55:56 +0000 2016",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée @LaREM_AN de la 1ère circonscription du #Loiret • Membre de @AN_AfSoc • Co-rapporteure du projet de loi #MaSanté2022 • Médecin rhumatologue",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "stephanierist.fr",
-       "expanded_url": "http://stephanierist.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/VL2ersM6bc"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3894,
-   "follow_request_sent": false,
-   "followers_count": 6239,
-   "following": false,
-   "friends_count": 2185,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 807901725113851900,
-   "id_str": "807901725113851904",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 111,
-   "location": "Loiret, France",
-   "name": "Stéphanie Rist",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/807901725113851904/1499964292",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/885539850128154624/dY7D_bZE_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/885539850128154624/dY7D_bZE_normal.jpg",
-   "profile_link_color": "02006A",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "stephanie_rist",
-   "statuses_count": 2363,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/VL2ersM6bc",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée @LaREM_AN de la 1ère circonscription du #Loiret • Membre de @AN_AfSoc • Co-rapporteure du projet de loi #MaSanté2022 • Médecin rhumatologue",
-  "twitter_favourites": 3894,
-  "twitter_followers": 6239,
-  "twitter_following": 2185,
-  "twitter_id": 807901725113851900,
-  "twitter_listed": 111,
-  "twitter_name": "Stéphanie Rist",
-  "twitter_protected": false,
-  "twitter_tweets": 2363,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066",
-  "url_nosdeputes": "https://www.nosdeputes.fr/stephanie-rist",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/stephanie-rist/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Stéphanie-Rist",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066",
@@ -982,10 +853,10 @@
   "id": "807901725113851904",
   "name": "Stéphanie Rist",
   "public_metrics": {
-   "followers_count": 6243,
+   "followers_count": 6248,
    "following_count": 2186,
-   "listed_count": 112,
-   "tweet_count": 2364
+   "listed_count": 111,
+   "tweet_count": 2368
   },
   "username": "stephanie_rist"
  },

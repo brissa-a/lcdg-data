@@ -238,139 +238,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "17 Rue Carnot 54300 Lunéville Téléphone : 03 83 73 79 58"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Meurthe-et-Moselle / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marie-Laure De Thore"
-   },
-   {
-    "collaborateur": "M. Geoffrey Meresse-Volleaux"
-   },
-   {
-    "collaborateur": "Mme Isabelle André"
-   }
-  ],
-  "date_naissance": "1984-10-27",
-  "emails": [
-   {
-    "email": "thibault.bazin@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 58,
-  "id_an": "642847",
-  "lieu_naissance": "Nancy (Meurthe-et-Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Thibault Bazin",
-  "nom_circo": "Meurthe-et-Moselle",
-  "nom_de_famille": "Bazin",
-  "num_circo": 4,
-  "num_deptmt": "54",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "12",
-  "prenom": "Thibault",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.thibaultbazin.fr",
-   "https://twitter.com/thibault_bazin"
-  ],
-  "slug": "thibault-bazin",
   "twitter": "thibault_bazin",
-  "twitter_created_at": "2013-10-19T06:20:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Oct 19 06:20:37 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Marié, quatre enfants. Député (LR) depuis 2017. Conseiller départemental (54) depuis 2015.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "thibaultbazin.fr",
-       "expanded_url": "http://www.thibaultbazin.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UYGT6yDVIT"
-      }
-     ]
-    }
-   },
-   "favourites_count": 18295,
-   "follow_request_sent": false,
-   "followers_count": 3991,
-   "following": false,
-   "friends_count": 996,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 1970541246,
-   "id_str": "1970541246",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 95,
-   "location": "",
-   "name": "Thibault BAZIN",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1165870648012488704/vMjuIMmu_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165870648012488704/vMjuIMmu_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "thibault_bazin",
-   "statuses_count": 3798,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UYGT6yDVIT",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Marié, quatre enfants. Député (LR) depuis 2017. Conseiller départemental (54) depuis 2015.",
-  "twitter_favourites": 18295,
-  "twitter_followers": 3991,
-  "twitter_following": 996,
-  "twitter_id": 1970541246,
-  "twitter_listed": 95,
-  "twitter_name": "Thibault BAZIN",
-  "twitter_protected": false,
-  "twitter_tweets": 3798,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642847",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642847",
-  "url_nosdeputes": "https://www.nosdeputes.fr/thibault-bazin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/thibault-bazin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642847"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Thibault-Bazin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642847",
@@ -1682,7 +1551,7 @@
   "id": "1970541246",
   "name": "Thibault BAZIN",
   "public_metrics": {
-   "followers_count": 3990,
+   "followers_count": 3996,
    "following_count": 997,
    "listed_count": 95,
    "tweet_count": 3798

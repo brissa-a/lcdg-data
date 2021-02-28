@@ -251,150 +251,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "191 Boulevard Pierre Brossolette 02000 Laon"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Pays de Laon / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Laon / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Yaëlle Reynaud"
-   },
-   {
-    "collaborateur": "Mme Séverine Deleplace"
-   },
-   {
-    "collaborateur": "M. Chérif Lahouali"
-   },
-   {
-    "collaborateur": "Mme Michèle Mary"
-   },
-   {
-    "collaborateur": "M. Vincent Paquet"
-   }
-  ],
-  "date_naissance": "1962-08-03",
-  "emails": [
-   {
-    "email": "aude.bono-vandorme@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 177,
-  "id_an": "718756",
-  "lieu_naissance": "Soissons (Aisne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Aude Bono-Vandorme",
-  "nom_circo": "Aisne",
-  "nom_de_famille": "Bono-Vandorme",
-  "num_circo": 1,
-  "num_deptmt": "02",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "287",
-  "prenom": "Aude",
-  "profession": "Profession rattachée à l'enseignement",
-  "sexe": "F",
-  "sites_web": [
-   "http://aude-bono-vandorme.fr",
-   "https://twitter.com/AudeBono",
-   "https://fr-fr.facebook.com/ABonoVandorme"
-  ],
-  "slug": "aude-bono-vandorme",
   "twitter": "AudeBono",
-  "twitter_created_at": "2016-02-22T10:29:34",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Feb 22 10:29:34 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de l'Aisne #LREM 🇪🇺🇫🇷 |",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "aude-bono-vandorme.fr",
-       "expanded_url": "http://aude-bono-vandorme.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/m6uLQMxnyS"
-      }
-     ]
-    }
-   },
-   "favourites_count": 160,
-   "follow_request_sent": false,
-   "followers_count": 1768,
-   "following": false,
-   "friends_count": 230,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 701715448015024100,
-   "id_str": "701715448015024129",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "Laon - Aisne - France",
-   "name": "Aude Bono-Vandorme",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/701715448015024129/1592399863",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1273243425282969608/-oAH6fag_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273243425282969608/-oAH6fag_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AudeBono",
-   "statuses_count": 262,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/m6uLQMxnyS",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de l'Aisne #LREM 🇪🇺🇫🇷 |",
-  "twitter_favourites": 160,
-  "twitter_followers": 1768,
-  "twitter_following": 230,
-  "twitter_id": 701715448015024100,
-  "twitter_listed": 100,
-  "twitter_name": "Aude Bono-Vandorme",
-  "twitter_protected": false,
-  "twitter_tweets": 262,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718756",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718756",
-  "url_nosdeputes": "https://www.nosdeputes.fr/aude-bono-vandorme",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/aude-bono-vandorme/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718756"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Aude-Bono-Vandorme",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718756",
@@ -1164,10 +1022,10 @@
   "id": "701715448015024129",
   "name": "Aude Bono-Vandorme",
   "public_metrics": {
-   "followers_count": 1772,
+   "followers_count": 1779,
    "following_count": 230,
-   "listed_count": 101,
-   "tweet_count": 262
+   "listed_count": 100,
+   "tweet_count": 263
   },
   "username": "AudeBono"
  },

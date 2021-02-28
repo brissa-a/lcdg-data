@@ -156,159 +156,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 6 Rue des Rouloirs BP 51014 45305 Pithiviers Cedex Téléphone : 02 38 30 53 67"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris O7 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "04/11/2009 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Loiret / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Inès Bouillon-Chahbi"
-   },
-   {
-    "collaborateur": "Mme Marie-Françoise Fautrat"
-   },
-   {
-    "collaborateur": "M. Rémi Silly"
-   },
-   {
-    "collaborateur": "M. Hervé Bonnin"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Prieur"
-   },
-   {
-    "collaborateur": "M. Roger Pécout"
-   }
-  ],
-  "date_naissance": "1957-12-17",
-  "emails": [
-   {
-    "email": "mduboisdepute45@orange.fr"
-   },
-   {
-    "email": "marianne.dubois@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 60,
-  "id_an": "342935",
-  "lieu_naissance": "Corbeil-Essonnes (Essonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marianne Dubois",
-  "nom_circo": "Loiret",
-  "nom_de_famille": "Dubois",
-  "num_circo": 5,
-  "num_deptmt": "45",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "20",
-  "prenom": "Marianne",
-  "profession": null,
-  "sexe": "F",
-  "sites_web": [
-   "http://www.marianne-dubois.fr",
-   "https://twitter.com/DuboisMarianne",
-   "https://fr-fr.facebook.com/DuboisMarianne"
-  ],
-  "slug": "marianne-dubois",
   "twitter": "DuboisMarianne",
-  "twitter_created_at": "2012-01-09T08:33:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Jan 09 08:33:15 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Loiret — Secrétaire de la Commission @AN_Defense — Conseillère départementale — Membre de l’Assemblée parlementaire @NATO",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "marianne-dubois.fr",
-       "expanded_url": "http://www.marianne-dubois.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/xV5QUUdFMx"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1765,
-   "follow_request_sent": false,
-   "followers_count": 8425,
-   "following": false,
-   "friends_count": 4273,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 459093089,
-   "id_str": "459093089",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 182,
-   "location": "Beauce, Gâtinais, Orléanais ",
-   "name": "Marianne Dubois",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/459093089/1564857121",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1261227238948843527/Rqo32jal_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261227238948843527/Rqo32jal_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "duboismarianne",
-   "statuses_count": 3550,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/xV5QUUdFMx",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Loiret — Secrétaire de la Commission @AN_Defense — Conseillère départementale — Membre de l’Assemblée parlementaire @NATO",
-  "twitter_favourites": 1765,
-  "twitter_followers": 8425,
-  "twitter_following": 4273,
-  "twitter_id": 459093089,
-  "twitter_listed": 182,
-  "twitter_name": "Marianne Dubois",
-  "twitter_protected": false,
-  "twitter_tweets": 3550,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342935",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342935",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marianne-dubois",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marianne-dubois/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342935"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marianne-Dubois",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342935",
@@ -600,10 +449,10 @@
   "id": "459093089",
   "name": "Marianne Dubois",
   "public_metrics": {
-   "followers_count": 8425,
+   "followers_count": 8430,
    "following_count": 4272,
-   "listed_count": 183,
-   "tweet_count": 3552
+   "listed_count": 182,
+   "tweet_count": 3555
   },
   "username": "duboismarianne"
  },

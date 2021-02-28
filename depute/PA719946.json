@@ -127,145 +127,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 20 Place de la Paix 41200 Romorantin-Lanthenay"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Centre-Val de Loire / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anne-Sophie Rétoré"
-   },
-   {
-    "collaborateur": "M. Grégoire Daubigny"
-   },
-   {
-    "collaborateur": "Mme Fleur Velasco-Franchet"
-   },
-   {
-    "collaborateur": "Mme Laëtitia Guérault"
-   }
-  ],
-  "date_naissance": "1976-08-27",
-  "emails": [
-   {
-    "email": "guillaume.peltier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 396,
-  "id_an": "719946",
-  "lieu_naissance": "Paris 14 (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Guillaume Peltier",
-  "nom_circo": "Loir-et-Cher",
-  "nom_de_famille": "Peltier",
-  "num_circo": 2,
-  "num_deptmt": "41",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "139",
-  "prenom": "Guillaume",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/G_Peltier",
-   "http://www.guillaumepeltier.fr",
-   "http://www.guillaumepeltier.com",
-   "https://fr-fr.facebook.com/GuillaumePeltier.fr"
-  ],
-  "slug": "guillaume-peltier",
   "twitter": "G_Peltier",
-  "twitter_created_at": "2011-01-18T16:24:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jan 18 16:24:16 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Loir-et-Cher & Vice-président délégué @lesRepublicains | Conseiller régional & chef de l'opposition en Centre-Val de Loire",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "guillaumepeltier.com",
-       "expanded_url": "http://www.guillaumepeltier.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/JHGKLkbd3P"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1048,
-   "follow_request_sent": false,
-   "followers_count": 43980,
-   "following": false,
-   "friends_count": 2073,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 239867102,
-   "id_str": "239867102",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 585,
-   "location": "Loir-et-Cher, Centre",
-   "name": "Guillaume Peltier",
-   "notifications": false,
-   "profile_background_color": "185B87",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/239867102/1589626906",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1262746359486013441/w9TALnrn_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262746359486013441/w9TALnrn_normal.jpg",
-   "profile_link_color": "185B87",
-   "profile_sidebar_border_color": "A8C7F7",
-   "profile_sidebar_fill_color": "C0DFEC",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "G_Peltier",
-   "statuses_count": 8122,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/JHGKLkbd3P",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Loir-et-Cher & Vice-président délégué @lesRepublicains | Conseiller régional & chef de l'opposition en Centre-Val de Loire",
-  "twitter_favourites": 1048,
-  "twitter_followers": 43980,
-  "twitter_following": 2073,
-  "twitter_id": 239867102,
-  "twitter_listed": 585,
-  "twitter_name": "Guillaume Peltier",
-  "twitter_protected": false,
-  "twitter_tweets": 8122,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719946",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719946",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guillaume-peltier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guillaume-peltier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719946"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guillaume-Peltier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719946",
@@ -446,7 +309,7 @@
   "id": "239867102",
   "name": "Guillaume Peltier",
   "public_metrics": {
-   "followers_count": 43986,
+   "followers_count": 43998,
    "following_count": 2073,
    "listed_count": 584,
    "tweet_count": 8122

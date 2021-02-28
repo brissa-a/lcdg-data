@@ -56,134 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Coline Hrabina"
-   },
-   {
-    "collaborateur": "Mme Anne-Claire Marty"
-   }
-  ],
-  "date_naissance": "1983-12-18",
-  "emails": [
-   {
-    "email": "emilie.guerel@assemblee-nationale.fr"
-   },
-   {
-    "email": "emilie.guerel@en-marche.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 403,
-  "id_an": "721792",
-  "lieu_naissance": "Carpentras (Vaucluse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Émilie Guerel",
-  "nom_circo": "Var",
-  "nom_de_famille": "Guerel",
-  "num_circo": 7,
-  "num_deptmt": "83",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "479",
-  "prenom": "Émilie",
-  "profession": "Professeur du secondaire et techn.",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/eguerelLREM",
-   "http://www.emilieguerel2017.com",
-   "https://fr-fr.facebook.com/EmilieGuerel8307"
-  ],
-  "slug": "emilie-guerel",
   "twitter": "eguerelLREM",
-  "twitter_created_at": "2016-10-26T12:15:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Oct 26 12:15:16 +0000 2016",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée LREM du Var #7èmecirco \nRapporteure de la mission d'information sur le SNU\nMembre de la Commission des Lois",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "emilieguerel2017.com",
-       "expanded_url": "http://www.emilieguerel2017.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/jVpi3RBwiv"
-      }
-     ]
-    }
-   },
-   "favourites_count": 12562,
-   "follow_request_sent": false,
-   "followers_count": 5849,
-   "following": false,
-   "friends_count": 1726,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 791251850628591600,
-   "id_str": "791251850628591620",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 115,
-   "location": "Sanary-sur-Mer, France",
-   "name": "Emilie Guerel",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/791251850628591620/1548330544",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/871302045394980864/GHYxrjHZ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/871302045394980864/GHYxrjHZ_normal.jpg",
-   "profile_link_color": "E81C4F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "eguerelLREM",
-   "statuses_count": 2058,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/jVpi3RBwiv",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée LREM du Var #7èmecirco Rapporteure de la mission d'information sur le SNU Membre de la Commission des Lois",
-  "twitter_favourites": 12562,
-  "twitter_followers": 5849,
-  "twitter_following": 1726,
-  "twitter_id": 791251850628591600,
-  "twitter_listed": 115,
-  "twitter_name": "Emilie Guerel",
-  "twitter_protected": false,
-  "twitter_tweets": 2058,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721792",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721792",
-  "url_nosdeputes": "https://www.nosdeputes.fr/emilie-guerel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/emilie-guerel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721792"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Émilie-Guerel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721792",
@@ -778,9 +652,9 @@
   "id": "791251850628591620",
   "name": "Emilie Guerel",
   "public_metrics": {
-   "followers_count": 5855,
+   "followers_count": 5859,
    "following_count": 1726,
-   "listed_count": 116,
+   "listed_count": 115,
    "tweet_count": 2058
   },
   "username": "eguerelLREM"

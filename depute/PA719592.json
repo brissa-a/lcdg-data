@@ -107,143 +107,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "1 A Rue de la Lande 33290 Ludon-Médoc"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 17-19 Avenue de Bordeaux Drayton Square 33340 Lesparre-Médoc"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Médoc Estuaire / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Ludon-Médoc / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Laëtitia Redonet"
-   },
-   {
-    "collaborateur": "Mme Magali Colemyn"
-   }
-  ],
-  "date_naissance": "1983-05-27",
-  "emails": [
-   {
-    "email": "benoit.simian@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 343,
-  "id_an": "719592",
-  "lieu_naissance": "Bordeaux (Gironde)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Benoit Simian",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "Simian",
-  "num_circo": 5,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "219",
-  "prenom": "Benoit",
-  "profession": "Responsable formation - Cadre en ressources humaines",
-  "sexe": "H",
-  "sites_web": [
-   "http://benoitsimian.fr",
-   "https://twitter.com/BenoitSimian"
-  ],
-  "slug": "benoit-simian",
   "twitter": "BenoitSimian",
-  "twitter_created_at": "2012-06-17T06:30:50",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Jun 17 06:30:50 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député Girondin | Mission Hydrogène | VP Îles d’Oceanie | membre @Adour_Garonne | Ancien Maire Ludon-Médoc | @GroupeLibTerrAN @MvtRadical",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "benoitsimian.fr",
-       "expanded_url": "http://benoitsimian.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/MTETUKpfZz"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8397,
-   "follow_request_sent": false,
-   "followers_count": 6567,
-   "following": false,
-   "friends_count": 2939,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 610649874,
-   "id_str": "610649874",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 121,
-   "location": "Gironde, Aquitaine",
-   "name": "Benoit Simian",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/610649874/1610872441",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1337456033871097860/_jf2nhKq_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337456033871097860/_jf2nhKq_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BenoitSimian",
-   "statuses_count": 2964,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/MTETUKpfZz",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député Girondin | Mission Hydrogène | VP Îles d’Oceanie | membre @Adour_Garonne | Ancien Maire Ludon-Médoc | @GroupeLibTerrAN @MvtRadical",
-  "twitter_favourites": 8397,
-  "twitter_followers": 6567,
-  "twitter_following": 2939,
-  "twitter_id": 610649874,
-  "twitter_listed": 121,
-  "twitter_name": "Benoit Simian",
-  "twitter_protected": false,
-  "twitter_tweets": 2964,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719592",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719592",
-  "url_nosdeputes": "https://www.nosdeputes.fr/benoit-simian",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/benoit-simian/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719592"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Benoit-Simian",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719592",
@@ -570,10 +435,10 @@
   "id": "610649874",
   "name": "Benoit Simian",
   "public_metrics": {
-   "followers_count": 6567,
-   "following_count": 2941,
+   "followers_count": 6566,
+   "following_count": 2943,
    "listed_count": 121,
-   "tweet_count": 2964
+   "tweet_count": 2967
   },
   "username": "BenoitSimian"
  },

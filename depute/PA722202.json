@@ -208,133 +208,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Dieppe / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Dieppe Maritime / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Valentin Rieu"
-   },
-   {
-    "collaborateur": "Mme Julie Dupuis"
-   },
-   {
-    "collaborateur": "Mme Sarah Khedimallah"
-   },
-   {
-    "collaborateur": "M. Damien Becquart"
-   },
-   {
-    "collaborateur": "Mme Fatima Belaïdi"
-   }
-  ],
-  "date_naissance": "1971-12-20",
-  "emails": [
-   {
-    "email": "sebastien.jumel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "GDR",
-  "id": 96,
-  "id_an": "722202",
-  "lieu_naissance": "Saint-Adresse (Seine-Maritime)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Sébastien Jumel",
-  "nom_circo": "Seine-Maritime",
-  "nom_de_famille": "Jumel",
-  "num_circo": 6,
-  "num_deptmt": "76",
-  "parti_ratt_financier": "Parti communiste français",
-  "place_en_hemicycle": "583",
-  "prenom": "Sébastien",
-  "profession": "Permanent politique",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/sebastienjumel",
-   "https://fr-fr.facebook.com/sebastien.jumel.9"
-  ],
-  "slug": "sebastien-jumel",
   "twitter": "sebastienjumel",
-  "twitter_created_at": "2012-01-11T11:04:59",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jan 11 11:04:59 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 6e circonscription de Seine-Maritime",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1971,
-   "follow_request_sent": false,
-   "followers_count": 13561,
-   "following": false,
-   "friends_count": 4224,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 461022437,
-   "id_str": "461022437",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 149,
-   "location": "Dieppe",
-   "name": "Sébastien Jumel",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/461022437/1606918223",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1334181864609894400/bUDV2-M5_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334181864609894400/bUDV2-M5_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "sebastienjumel",
-   "statuses_count": 5135,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 6e circonscription de Seine-Maritime",
-  "twitter_favourites": 1971,
-  "twitter_followers": 13561,
-  "twitter_following": 4224,
-  "twitter_id": 461022437,
-  "twitter_listed": 149,
-  "twitter_name": "Sébastien Jumel",
-  "twitter_protected": false,
-  "twitter_tweets": 5135,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722202",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722202",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sebastien-jumel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sebastien-jumel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722202"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sébastien-Jumel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722202",
@@ -1149,10 +1024,10 @@
   "id": "461022437",
   "name": "Sébastien Jumel",
   "public_metrics": {
-   "followers_count": 13559,
-   "following_count": 4223,
+   "followers_count": 13566,
+   "following_count": 4222,
    "listed_count": 147,
-   "tweet_count": 5137
+   "tweet_count": 5141
   },
   "username": "sebastienjumel"
  },

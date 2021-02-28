@@ -60,159 +60,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "4 Rue Chaulan, 13400 Aubagne Téléphone : 04 42 82 20 10"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "29/03/1999 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Provence-Alpes-Côte d'Azur / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Stéphanie Mayadoux"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Montredon"
-   },
-   {
-    "collaborateur": "Mme Judith Dossemont"
-   },
-   {
-    "collaborateur": "M. Jean-Laurent Méfret"
-   }
-  ],
-  "date_naissance": "1953-10-16",
-  "emails": [
-   {
-    "email": "contact@bernarddeflesselles.com"
-   },
-   {
-    "email": "bernard.deflesselles@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 134,
-  "id_an": "1029",
-  "lieu_naissance": "Paris 6ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bernard Deflesselles",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Deflesselles",
-  "num_circo": 9,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "88",
-  "prenom": "Bernard",
-  "profession": "Ingénieur",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/BDeflesselles",
-   "http://www.bernarddeflesselles.com",
-   "https://fr-fr.facebook.com/bernarddeflesselles"
-  ],
-  "slug": "bernard-deflesselles",
   "twitter": "BDeflesselles",
-  "twitter_created_at": "2016-01-19T15:22:48",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jan 19 15:22:48 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 9e circo des BdR - Vice-Président de la commission @AN_AfEur de l’@assembleenat • Conseiller métropolitain • Conseiller municipal de #La_Ciotat",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "bernarddeflesselles.com",
-       "expanded_url": "http://www.bernarddeflesselles.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/foXvrO7wFw"
-      }
-     ]
-    }
-   },
-   "favourites_count": 130,
-   "follow_request_sent": false,
-   "followers_count": 1695,
-   "following": false,
-   "friends_count": 168,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 4826853935,
-   "id_str": "4826853935",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "Bouches-du-Rhône",
-   "name": "Bernard Deflesselles",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4826853935/1475500505",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/916210041576968192/fdHQJ1ud_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/916210041576968192/fdHQJ1ud_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BDeflesselles",
-   "statuses_count": 668,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/foXvrO7wFw",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 9e circo des BdR - Vice-Président de la commission @AN_AfEur de l’@assembleenat • Conseiller métropolitain • Conseiller municipal de #La_Ciotat",
-  "twitter_favourites": 130,
-  "twitter_followers": 1695,
-  "twitter_following": 168,
-  "twitter_id": 4826853935,
-  "twitter_listed": 100,
-  "twitter_name": "Bernard Deflesselles",
-  "twitter_protected": false,
-  "twitter_tweets": 668,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bernard-deflesselles",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bernard-deflesselles/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bernard-Deflesselles",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1029",
@@ -366,7 +215,7 @@
   "id": "4826853935",
   "name": "Bernard Deflesselles",
   "public_metrics": {
-   "followers_count": 1696,
+   "followers_count": 1695,
    "following_count": 168,
    "listed_count": 98,
    "tweet_count": 669

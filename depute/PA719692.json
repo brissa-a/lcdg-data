@@ -151,143 +151,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 8 Parc d'activité de Camalcé 34150 Gignac"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Edith Schmitt"
-   },
-   {
-    "collaborateur": "Mme Türkan Ilhan"
-   },
-   {
-    "collaborateur": "Mme Ségolène Loriato"
-   },
-   {
-    "collaborateur": "Mme Caroline Quiène"
-   }
-  ],
-  "date_naissance": "1956-08-13",
-  "emails": [
-   {
-    "email": "jean-francois.eliaou@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@jeanfrancoiseliaou.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 449,
-  "id_an": "719692",
-  "lieu_naissance": "Nice (Alpes-Maritimes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-François Eliaou",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Eliaou",
-  "num_circo": 4,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "551",
-  "prenom": "Jean-François",
-  "profession": "Médecin",
-  "sexe": "H",
-  "sites_web": [
-   "http://jeanfrancoiseliaou.fr",
-   "https://twitter.com/JFEliaou",
-   "https://fr-fr.facebook.com/JFEliaou"
-  ],
-  "slug": "jean-francois-eliaou",
   "twitter": "JFEliaou",
-  "twitter_created_at": "2012-08-12T14:44:20",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Aug 12 14:44:20 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "• Député de l'Hérault @LaREM_AN | • Secrétaire @AN_ComLois | • Rapporteur #Bioéthique | • Rapporteur sur la stratégie vaccinale contre la #Covid19",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanfrancoiseliaou.fr",
-       "expanded_url": "http://jeanfrancoiseliaou.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/lAwqFPbql3"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3400,
-   "follow_request_sent": false,
-   "followers_count": 4277,
-   "following": false,
-   "friends_count": 839,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 753225726,
-   "id_str": "753225726",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 123,
-   "location": "Hérault, Languedoc-Roussillon",
-   "name": "Jean-François Eliaou",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/753225726/1612792375",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1243225975728615430/juIwxEye_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243225975728615430/juIwxEye_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JFEliaou",
-   "statuses_count": 2487,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/lAwqFPbql3",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "• Député de l'Hérault @LaREM_AN | • Secrétaire @AN_ComLois | • Rapporteur #Bioéthique | • Rapporteur sur la stratégie vaccinale contre la #Covid19",
-  "twitter_favourites": 3400,
-  "twitter_followers": 4277,
-  "twitter_following": 839,
-  "twitter_id": 753225726,
-  "twitter_listed": 123,
-  "twitter_name": "Jean-François Eliaou",
-  "twitter_protected": false,
-  "twitter_tweets": 2487,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719692",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719692",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-francois-eliaou",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-francois-eliaou/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719692"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-François-Eliaou",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719692",
@@ -886,7 +751,7 @@
   "id": "753225726",
   "name": "Jean-François Eliaou",
   "public_metrics": {
-   "followers_count": 4278,
+   "followers_count": 4282,
    "following_count": 839,
    "listed_count": 123,
    "tweet_count": 2487

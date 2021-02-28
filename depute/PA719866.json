@@ -86,134 +86,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Wladimir Gauthier"
-   },
-   {
-    "collaborateur": "M. David Manto"
-   },
-   {
-    "collaborateur": "Mme Blandine Cucherat"
-   }
-  ],
-  "date_naissance": "1976-09-07",
-  "emails": [
-   {
-    "email": "caroline.abadie@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 43,
-  "id_an": "719866",
-  "lieu_naissance": "Saint-Martin-d'Hères (Isère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Caroline Abadie",
-  "nom_circo": "Isère",
-  "nom_de_famille": "Abadie",
-  "num_circo": 8,
-  "num_deptmt": "38",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "346",
-  "prenom": "Caroline",
-  "profession": "Industriel-Chef entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.abadiecaroline.fr",
-   "https://twitter.com/AbadieCaroline",
-   "https://fr-fr.facebook.com/caroline.abadie.16"
-  ],
-  "slug": "caroline-abadie",
   "twitter": "AbadieCaroline",
-  "twitter_created_at": "2012-02-28T10:05:23",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Feb 28 10:05:23 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de l'Isère et coprd Groupe d’étude #Prisons à l’Assemblée nationale. Déléguée à la garantie des libertés et sécurité #larem #vienne",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "abadiecaroline.fr",
-       "expanded_url": "http://www.abadiecaroline.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgBrsTpwUV"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1186,
-   "follow_request_sent": false,
-   "followers_count": 5645,
-   "following": false,
-   "friends_count": 2304,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 507168683,
-   "id_str": "507168683",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 123,
-   "location": "Vienne, France",
-   "name": "Abadie Caroline",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/507168683/1512052264",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1179462390615871488/rjMcOE4f_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179462390615871488/rjMcOE4f_normal.jpg",
-   "profile_link_color": "981CEB",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "AbadieCaroline",
-   "statuses_count": 1705,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/sgBrsTpwUV",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de l'Isère et coprd Groupe d’étude #Prisons à l’Assemblée nationale. Déléguée à la garantie des libertés et sécurité #larem #vienne",
-  "twitter_favourites": 1186,
-  "twitter_followers": 5645,
-  "twitter_following": 2304,
-  "twitter_id": 507168683,
-  "twitter_listed": 123,
-  "twitter_name": "Abadie Caroline",
-  "twitter_protected": false,
-  "twitter_tweets": 1705,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719866",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719866",
-  "url_nosdeputes": "https://www.nosdeputes.fr/caroline-abadie",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/caroline-abadie/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719866"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Caroline-Abadie",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719866",
@@ -1229,10 +1103,10 @@
   "id": "507168683",
   "name": "Abadie Caroline",
   "public_metrics": {
-   "followers_count": 5653,
+   "followers_count": 5670,
    "following_count": 2304,
    "listed_count": 124,
-   "tweet_count": 1705
+   "tweet_count": 1714
   },
   "username": "AbadieCaroline"
  },

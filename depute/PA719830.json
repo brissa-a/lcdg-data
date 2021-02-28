@@ -69,137 +69,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Olivier Boudet"
-   },
-   {
-    "collaborateur": "M. Romain Lesenne"
-   },
-   {
-    "collaborateur": "M. Gilles Hervio"
-   },
-   {
-    "collaborateur": "M. Hédi Zeraï"
-   }
-  ],
-  "date_naissance": "1972-07-22",
-  "emails": [
-   {
-    "email": "nicolas.demoulin@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 386,
-  "id_an": "719830",
-  "lieu_naissance": "Bordeaux (Gironde)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Nicolas Démoulin",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Démoulin",
-  "num_circo": 8,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "487",
-  "prenom": "Nicolas",
-  "profession": "Gérant d'une agence de communication",
-  "sexe": "H",
-  "sites_web": [
-   "http://nicolasdemoulin.fr",
-   "https://twitter.com/demoulinem",
-   "https://fr-fr.facebook.com/NicolasDemoulinRepubliqueEnMarche"
-  ],
-  "slug": "nicolas-demoulin",
   "twitter": "demoulinem",
-  "twitter_created_at": "2012-12-03T20:32:32",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Dec 03 20:32:32 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l'Hérault 🏛• @LaREM_AN 👥 • Président GA France-Mali 🇲🇱 • Co-président du GE sans-abri 🏘 #ComÉco 📑 #Circo3408 🗺",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "nicolasdemoulin.fr",
-       "expanded_url": "https://nicolasdemoulin.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/rvJkH2kaWq"
-      }
-     ]
-    }
-   },
-   "favourites_count": 29021,
-   "follow_request_sent": false,
-   "followers_count": 6934,
-   "following": false,
-   "friends_count": 1258,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 987366042,
-   "id_str": "987366042",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 123,
-   "location": "",
-   "name": "Nicolas Démoulin",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/987366042/1545245298",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1359055265866342401/FNi38Jzd_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359055265866342401/FNi38Jzd_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "DemoulinEM",
-   "statuses_count": 3048,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/rvJkH2kaWq",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Hérault 🏛• @LaREM_AN 👥 • Président GA France-Mali 🇲🇱 • Co-président du GE sans-abri 🏘 #ComÉco 📑 #Circo3408 🗺",
-  "twitter_favourites": 29021,
-  "twitter_followers": 6934,
-  "twitter_following": 1258,
-  "twitter_id": 987366042,
-  "twitter_listed": 123,
-  "twitter_name": "Nicolas Démoulin",
-  "twitter_protected": false,
-  "twitter_tweets": 3048,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719830",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719830",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nicolas-demoulin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nicolas-demoulin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719830"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nicolas-Démoulin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719830",
@@ -1383,10 +1254,10 @@
   "id": "987366042",
   "name": "Nicolas Démoulin",
   "public_metrics": {
-   "followers_count": 6935,
+   "followers_count": 6942,
    "following_count": 1258,
    "listed_count": 123,
-   "tweet_count": 3048
+   "tweet_count": 3049
   },
   "username": "DemoulinEM"
  },

@@ -121,141 +121,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Auvergne-Rhône-Alpes / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Stéphane de Miroschedji"
-   },
-   {
-    "collaborateur": "Mme Mallaury Clement"
-   },
-   {
-    "collaborateur": "M. Adrien Debard"
-   },
-   {
-    "collaborateur": "Mme Sophie Péra"
-   }
-  ],
-  "date_naissance": "1981-10-17",
-  "emails": [
-   {
-    "email": "olga.givernet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 506,
-  "id_an": "718674",
-  "lieu_naissance": "Saint-Germain-en-Laye (Yvelines)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Olga Givernet",
-  "nom_circo": "Ain",
-  "nom_de_famille": "Givernet",
-  "num_circo": 3,
-  "num_deptmt": "01",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "572",
-  "prenom": "Olga",
-  "profession": "Ingénieure aéronautique",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.olga-givernet.fr",
-   "https://twitter.com/OlgaGivernet",
-   "https://fr-fr.facebook.com/Page-politique-dOlga-Givernet-1118292008192135"
-  ],
-  "slug": "olga-givernet",
   "twitter": "OlgaGivernet",
-  "twitter_created_at": "2015-10-27T20:34:25",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Oct 27 20:34:25 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de l'Ain circo 3 #laRepubliqueEnMarche Genevois 🇫🇷 Bugey Sud Conseillère régionale Auvergne-Rhône-Alpes Groupe LREM",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "olga-givernet.fr",
-       "expanded_url": "http://www.olga-givernet.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/l86MIrptTx"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3500,
-   "follow_request_sent": false,
-   "followers_count": 5431,
-   "following": false,
-   "friends_count": 2775,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 4055897896,
-   "id_str": "4055897896",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 135,
-   "location": "",
-   "name": "Olga Givernet",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4055897896/1610377414",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1215270757267316736/A_Q4aY7j_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215270757267316736/A_Q4aY7j_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "OlgaGivernet",
-   "statuses_count": 3177,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/l86MIrptTx",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de l'Ain circo 3 #laRepubliqueEnMarche Genevois 🇫🇷 Bugey Sud Conseillère régionale Auvergne-Rhône-Alpes Groupe LREM",
-  "twitter_favourites": 3500,
-  "twitter_followers": 5431,
-  "twitter_following": 2775,
-  "twitter_id": 4055897896,
-  "twitter_listed": 135,
-  "twitter_name": "Olga Givernet",
-  "twitter_protected": false,
-  "twitter_tweets": 3177,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718674",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718674",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olga-givernet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olga-givernet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718674"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olga-Givernet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718674",
@@ -788,10 +655,10 @@
   "id": "4055897896",
   "name": "Olga Givernet",
   "public_metrics": {
-   "followers_count": 5427,
-   "following_count": 2775,
-   "listed_count": 136,
-   "tweet_count": 3180
+   "followers_count": 5426,
+   "following_count": 2774,
+   "listed_count": 135,
+   "tweet_count": 3183
   },
   "username": "OlgaGivernet"
  },

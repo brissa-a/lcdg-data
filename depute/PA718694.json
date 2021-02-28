@@ -150,143 +150,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "6 Rue du Général Leclerc 02300 Chauny"
-   },
-   {
-    "adresse": "10 Rue Saint-Christophe 02200 Soissons"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Cuffies / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marie-Odile Auribault"
-   },
-   {
-    "collaborateur": "M. Karim Chafi"
-   },
-   {
-    "collaborateur": "Mme Françoise Mazéas-Joly"
-   }
-  ],
-  "date_naissance": "1961-05-24",
-  "emails": [
-   {
-    "email": "marc.delatte@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 167,
-  "id_an": "718694",
-  "lieu_naissance": "Soissons (Aisne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Marc Delatte",
-  "nom_circo": "Aisne",
-  "nom_de_famille": "Delatte",
-  "num_circo": 4,
-  "num_deptmt": "02",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "565",
-  "prenom": "Marc",
-  "profession": "Médecin",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/MarcDelatte",
-   "https://fr-fr.facebook.com/marc.delatte.aisne"
-  ],
-  "slug": "marc-delatte",
   "twitter": "MarcDelatte",
-  "twitter_created_at": "2017-05-30T14:27:46",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 30 14:27:46 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député #LaREM de la #circo0204 de l'#Aisne. Membre de la commission des Affaires sociales membre du comité consultatif national d'éthique",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/marc.delatte.a…",
-       "expanded_url": "https://www.facebook.com/marc.delatte.aisne/?ref=aymt_homepage_panel",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/DlTygEBoIO"
-      }
-     ]
-    }
-   },
-   "favourites_count": 874,
-   "follow_request_sent": false,
-   "followers_count": 2869,
-   "following": false,
-   "friends_count": 2370,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 869560974323396600,
-   "id_str": "869560974323396608",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 115,
-   "location": "Cuffies, France",
-   "name": "Marc Delatte",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/869560974323396608/1497962470",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/893206701314199552/ddfGz--l_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/893206701314199552/ddfGz--l_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MarcDelatte",
-   "statuses_count": 2668,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/DlTygEBoIO",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM de la #circo0204 de l'#Aisne. Membre de la commission des Affaires sociales membre du comité consultatif national d'éthique",
-  "twitter_favourites": 874,
-  "twitter_followers": 2869,
-  "twitter_following": 2370,
-  "twitter_id": 869560974323396600,
-  "twitter_listed": 115,
-  "twitter_name": "Marc Delatte",
-  "twitter_protected": false,
-  "twitter_tweets": 2668,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718694",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718694",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marc-delatte",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marc-delatte/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718694"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marc-Delatte",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718694",
@@ -1343,10 +1208,10 @@
   "id": "869560974323396608",
   "name": "Marc Delatte",
   "public_metrics": {
-   "followers_count": 2868,
+   "followers_count": 2876,
    "following_count": 2369,
    "listed_count": 115,
-   "tweet_count": 2668
+   "tweet_count": 2670
   },
   "username": "MarcDelatte"
  },

@@ -131,132 +131,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 07.69.94.98.90"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Maubeuge / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Maubeuge - Val de Sambre / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Dey Muteba"
-   },
-   {
-    "collaborateur": "M. Rui Antunes"
-   },
-   {
-    "collaborateur": "M. David Bouchard"
-   },
-   {
-    "collaborateur": "Mme Joëlle Tornotti-Bouttefeux"
-   }
-  ],
-  "date_naissance": "1964-07-15",
-  "emails": [
-   {
-    "email": "Christophe@dipompeo.org"
-   },
-   {
-    "email": "christophe.dipompeo@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 566,
-  "id_an": "720438",
-  "lieu_naissance": "Hautmont (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Christophe Di Pompeo",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Di Pompeo",
-  "num_circo": 3,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "553",
-  "prenom": "Christophe",
-  "profession": "Professeur de faculté",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/DipompeoChrist"
-  ],
-  "slug": "christophe-di-pompeo",
   "twitter": "DipompeoChrist",
-  "twitter_created_at": "2017-04-16T17:12:40",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 16 17:12:40 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Nord, membre de la commission des Aff. Étrangères et President du Groupe d’Amitié France Italie @AssembleeNat, Économiste et Mathématicien",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 2168,
-   "follow_request_sent": false,
-   "followers_count": 3477,
-   "following": false,
-   "friends_count": 541,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 853657404252311600,
-   "id_str": "853657404252311552",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 104,
-   "location": "Maubeuge, Lille, Paris, France",
-   "name": "Christophe Di Pompeo",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/853657404252311552/1498375055",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1040226378644418562/YrBaB1CO_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040226378644418562/YrBaB1CO_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DipompeoChrist",
-   "statuses_count": 1019,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Nord, membre de la commission des Aff. Étrangères et President du Groupe d’Amitié France Italie @AssembleeNat, Économiste et Mathématicien",
-  "twitter_favourites": 2168,
-  "twitter_followers": 3477,
-  "twitter_following": 541,
-  "twitter_id": 853657404252311600,
-  "twitter_listed": 104,
-  "twitter_name": "Christophe Di Pompeo",
-  "twitter_protected": false,
-  "twitter_tweets": 1019,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720438",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720438",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christophe-di-pompeo",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christophe-di-pompeo/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720438"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christophe-Di Pompeo",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720438",
@@ -519,8 +395,8 @@
   "id": "853657404252311552",
   "name": "Christophe Di Pompeo",
   "public_metrics": {
-   "followers_count": 3480,
-   "following_count": 541,
+   "followers_count": 3490,
+   "following_count": 540,
    "listed_count": 103,
    "tweet_count": 1021
   },

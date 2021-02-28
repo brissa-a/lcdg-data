@@ -111,144 +111,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 74 63"
-   },
-   {
-    "adresse": "Permanence parlementaire 12 Place des Arts 74200 Thonon-les-Bains Téléphone : 06 78 70 61 01 Téléphone : 04 50 16 78 28"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Thonon-les-Bains / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Thonon Agglomération /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Kheidi Bentamra"
-   },
-   {
-    "collaborateur": "M. Matthieu Ménard-Durand"
-   },
-   {
-    "collaborateur": "Mme Aurore Ivic"
-   }
-  ],
-  "date_naissance": "1974-11-20",
-  "emails": [
-   {
-    "email": "marion.lenne@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 90,
-  "id_an": "721450",
-  "lieu_naissance": "Gardanne (Bouches-du-Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Marion Lenne",
-  "nom_circo": "Haute-Savoie",
-  "nom_de_famille": "Lenne",
-  "num_circo": 5,
-  "num_deptmt": "74",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "314",
-  "prenom": "Marion",
-  "profession": "Cheffe de projet",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.marionlenne.fr",
-   "https://twitter.com/marion_lenne",
-   "https://fr-fr.facebook.com/Marion.Lenne.Deputee"
-  ],
-  "slug": "marion-lenne",
   "twitter": "marion_lenne",
-  "twitter_created_at": "2017-05-21T22:00:47",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun May 21 22:00:47 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #LaREM de Haute-Savoie. #circo7405. Secrétaire de la Commission des Affaires Étrangères. Présidente du groupe d’amitié France-Suisse",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "marionlenne.fr",
-       "expanded_url": "http://www.marionlenne.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/6B4OBh7plI"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1032,
-   "follow_request_sent": false,
-   "followers_count": 3359,
-   "following": false,
-   "friends_count": 1715,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 866413487723040800,
-   "id_str": "866413487723040771",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 85,
-   "location": "Thonon-les-Bains, France",
-   "name": "Marion LENNE Députée",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866413487723040771/1609522938",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1341669533438922753/LjZU-xdc_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341669533438922753/LjZU-xdc_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "marion_lenne",
-   "statuses_count": 2031,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/6B4OBh7plI",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #LaREM de Haute-Savoie. #circo7405. Secrétaire de la Commission des Affaires Étrangères. Présidente du groupe d’amitié France-Suisse",
-  "twitter_favourites": 1032,
-  "twitter_followers": 3359,
-  "twitter_following": 1715,
-  "twitter_id": 866413487723040800,
-  "twitter_listed": 85,
-  "twitter_name": "Marion LENNE Députée",
-  "twitter_protected": false,
-  "twitter_tweets": 2031,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721450",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721450",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marion-lenne",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marion-lenne/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721450"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marion-Lenne",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721450",
@@ -1615,10 +1479,10 @@
   "id": "866413487723040771",
   "name": "Marion LENNE Députée",
   "public_metrics": {
-   "followers_count": 3359,
+   "followers_count": 3366,
    "following_count": 1715,
-   "listed_count": 86,
-   "tweet_count": 2032
+   "listed_count": 85,
+   "tweet_count": 2037
   },
   "username": "marion_lenne"
  },

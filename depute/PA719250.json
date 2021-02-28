@@ -99,140 +99,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 6 Rue du 4 septembre 24000 Périgueux Téléphone : 05 53 07 26 38"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sabrina Matoug"
-   },
-   {
-    "collaborateur": "Mme Nelly Fray"
-   },
-   {
-    "collaborateur": "M. Anthony Loubignac"
-   },
-   {
-    "collaborateur": "M. Boris Mazeau"
-   }
-  ],
-  "date_naissance": "1972-05-18",
-  "emails": [
-   {
-    "email": "philippe.chassaing@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 236,
-  "id_an": "719250",
-  "lieu_naissance": "Albi (Tarn)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Philippe Chassaing",
-  "nom_circo": "Dordogne",
-  "nom_de_famille": "Chassaing",
-  "num_circo": 1,
-  "num_deptmt": "24",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "405",
-  "prenom": "Philippe",
-  "profession": "Professeur du secondaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.philippechassaing.fr",
-   "https://twitter.com/ChassaingPh",
-   "https://fr-fr.facebook.com/PhChassaing.Depute24"
-  ],
-  "slug": "philippe-chassaing",
   "twitter": "ChassaingPh",
-  "twitter_created_at": "2017-09-24T15:42:42",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Sep 24 15:42:42 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de #Dordogne #Circo2401 | Membre de la #CommissionDesFinances | #Périgueux | #LREM @enmarchefr",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "philippechassaing.fr",
-       "expanded_url": "http://www.philippechassaing.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gLWYcLvEtB"
-      }
-     ]
-    }
-   },
-   "favourites_count": 279,
-   "follow_request_sent": false,
-   "followers_count": 1103,
-   "following": false,
-   "friends_count": 288,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 911979209714802700,
-   "id_str": "911979209714802688",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 46,
-   "location": "Périgueux, France",
-   "name": "Philippe Chassaing",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/911979209714802688/1512661201",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1151132577287114753/HAmfsdP-_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151132577287114753/HAmfsdP-_normal.png",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ChassaingPh",
-   "statuses_count": 380,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/gLWYcLvEtB",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de #Dordogne #Circo2401 | Membre de la #CommissionDesFinances | #Périgueux | #LREM @enmarchefr",
-  "twitter_favourites": 279,
-  "twitter_followers": 1103,
-  "twitter_following": 288,
-  "twitter_id": 911979209714802700,
-  "twitter_listed": 46,
-  "twitter_name": "Philippe Chassaing",
-  "twitter_protected": false,
-  "twitter_tweets": 380,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719250",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719250",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-chassaing",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-chassaing/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719250"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Chassaing",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719250",
@@ -701,10 +569,10 @@
   "id": "911979209714802688",
   "name": "Philippe Chassaing",
   "public_metrics": {
-   "followers_count": 1105,
-   "following_count": 288,
+   "followers_count": 1109,
+   "following_count": 290,
    "listed_count": 46,
-   "tweet_count": 380
+   "tweet_count": 385
   },
   "username": "ChassaingPh"
  },

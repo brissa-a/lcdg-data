@@ -95,133 +95,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.03.10"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Quentin Sgard"
-   },
-   {
-    "collaborateur": "M. Philippe Wolff"
-   },
-   {
-    "collaborateur": "Mme Morgane Noeppel"
-   }
-  ],
-  "date_naissance": "1964-03-27",
-  "emails": [
-   {
-    "email": "martine.wonner@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 26,
-  "id_an": "722268",
-  "lieu_naissance": "Hayange (Moselle)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Martine Wonner",
-  "nom_circo": "Bas-Rhin",
-  "nom_de_famille": "Wonner",
-  "num_circo": 4,
-  "num_deptmt": "67",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "211",
-  "prenom": "Martine",
-  "profession": "Directrice médicale et directrice de développement en entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "https://www.martinewonner.fr",
-   "https://twitter.com/MartineWonner"
-  ],
-  "slug": "martine-wonner",
   "twitter": "MartineWonner",
-  "twitter_created_at": "2017-06-01T09:51:37",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Jun 01 09:51:37 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée @GroupeLibTerrAN #Alsace Médecin psychiatre, Assemblée Parlementaire @COE, Assemblée parlementaire franco-allemande",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "martinewonner.fr",
-       "expanded_url": "https://www.martinewonner.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/fBE0faQ7Qs"
-      }
-     ]
-    }
-   },
-   "favourites_count": 7447,
-   "follow_request_sent": false,
-   "followers_count": 43131,
-   "following": false,
-   "friends_count": 931,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 870216254300270600,
-   "id_str": "870216254300270593",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 288,
-   "location": "Bas-Rhin, Alsace",
-   "name": "Martine WONNER",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/870216254300270593/1613666095",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1362026936650858498/6aSylbCB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362026936650858498/6aSylbCB_normal.jpg",
-   "profile_link_color": "FAB81E",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MartineWonner",
-   "statuses_count": 2284,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/fBE0faQ7Qs",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée @GroupeLibTerrAN #Alsace Médecin psychiatre, Assemblée Parlementaire @COE, Assemblée parlementaire franco-allemande",
-  "twitter_favourites": 7447,
-  "twitter_followers": 43131,
-  "twitter_following": 931,
-  "twitter_id": 870216254300270600,
-  "twitter_listed": 288,
-  "twitter_name": "Martine WONNER",
-  "twitter_protected": false,
-  "twitter_tweets": 2284,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722268",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722268",
-  "url_nosdeputes": "https://www.nosdeputes.fr/martine-wonner",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/martine-wonner/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722268"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Martine-Wonner",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722268",
@@ -1172,10 +1047,10 @@
   "id": "870216254300270593",
   "name": "Martine WONNER",
   "public_metrics": {
-   "followers_count": 43278,
-   "following_count": 924,
-   "listed_count": 290,
-   "tweet_count": 2286
+   "followers_count": 43554,
+   "following_count": 925,
+   "listed_count": 291,
+   "tweet_count": 2294
   },
   "username": "MartineWonner"
  },

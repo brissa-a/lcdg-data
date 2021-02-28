@@ -58,140 +58,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "12 Impasse 1ère Delbos 33300 Bordeaux Téléphone : 0556484410"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 95 20"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Thibault Gavalda"
-   },
-   {
-    "collaborateur": "Mme Isabelle Samaille-Dubar"
-   },
-   {
-    "collaborateur": "Mme Marie Perret"
-   }
-  ],
-  "date_naissance": "1963-02-27",
-  "emails": [
-   {
-    "email": "dominique.david@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@dominiquedavid.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 494,
-  "id_an": "719710",
-  "lieu_naissance": "Montpellier (Hérault)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Dominique David",
-  "nom_circo": "Gironde",
-  "nom_de_famille": "David",
-  "num_circo": 1,
-  "num_deptmt": "33",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "345",
-  "prenom": "Dominique",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "http://dominiquedavid.fr",
-   "https://twitter.com/DominiqueDavid_",
-   "https://fr-fr.facebook.com/DDavid2017"
-  ],
-  "slug": "dominique-david",
   "twitter": "DominiqueDavid_",
-  "twitter_created_at": "2017-05-15T17:09:33",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 15 17:09:33 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #LaREM de la Gironde | Rapporteure du Budget #Culture @AN_Finances |Je veux être utile à vivre et à rêver",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "dominiquedavid.fr",
-       "expanded_url": "http://dominiquedavid.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/11OC2bw5PC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 6310,
-   "follow_request_sent": false,
-   "followers_count": 7247,
-   "following": false,
-   "friends_count": 1491,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864165870213500900,
-   "id_str": "864165870213500928",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 138,
-   "location": "Bordeaux",
-   "name": "Dominique DAVID",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864165870213500928/1604660325",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1208116154134343688/Alj_nZa9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208116154134343688/Alj_nZa9_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DominiqueDavid_",
-   "statuses_count": 2297,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/11OC2bw5PC",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée #LaREM de la Gironde | Rapporteure du Budget #Culture @AN_Finances |Je veux être utile à vivre et à rêver",
-  "twitter_favourites": 6310,
-  "twitter_followers": 7247,
-  "twitter_following": 1491,
-  "twitter_id": 864165870213500900,
-  "twitter_listed": 138,
-  "twitter_name": "Dominique DAVID",
-  "twitter_protected": false,
-  "twitter_tweets": 2297,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719710",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719710",
-  "url_nosdeputes": "https://www.nosdeputes.fr/dominique-david",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/dominique-david/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719710"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Dominique-David",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719710",
@@ -942,10 +810,10 @@
   "id": "864165870213500928",
   "name": "Dominique DAVID",
   "public_metrics": {
-   "followers_count": 7245,
+   "followers_count": 7253,
    "following_count": 1491,
-   "listed_count": 139,
-   "tweet_count": 2297
+   "listed_count": 138,
+   "tweet_count": 2298
   },
   "username": "DominiqueDavid_"
  },

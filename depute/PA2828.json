@@ -160,152 +160,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 6 Rue Pierre Cingal 14370 Moult Téléphone : 02 31 50 65 25"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Moult / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Alexis Le Coutour"
-   },
-   {
-    "collaborateur": "Mme Joëlle Pichon"
-   },
-   {
-    "collaborateur": "Mme Julie Bayle"
-   },
-   {
-    "collaborateur": "M. Serge Couasnon"
-   }
-  ],
-  "date_naissance": "1947-12-25",
-  "emails": [
-   {
-    "email": "ag@alaintourret.org"
-   },
-   {
-    "email": "alain.tourret@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 28,
-  "id_an": "2828",
-  "lieu_naissance": "Boppard (Allemagne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Alain Tourret",
-  "nom_circo": "Calvados",
-  "nom_de_famille": "Tourret",
-  "num_circo": 6,
-  "num_deptmt": "14",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "212",
-  "prenom": "Alain",
-  "profession": "Avocat",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.alaintourret.fr",
-   "https://twitter.com/AlainTourret"
-  ],
-  "slug": "alain-tourret",
   "twitter": "AlainTourret",
-  "twitter_created_at": "2012-03-28T11:43:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Mar 28 11:43:16 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député-Maire de Moult, soutien d'Emmanuel Macron\n Les tweets signés AT sont d'Alain Tourret, les autres de ses collaborateurs",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2828",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/A8nrNoMXYN"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1,
-   "follow_request_sent": false,
-   "followers_count": 3453,
-   "following": false,
-   "friends_count": 116,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 538968658,
-   "id_str": "538968658",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 188,
-   "location": "Moult, Calvados",
-   "name": "Alain Tourret",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/538968658/1382598077",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000640326281/07bffb646a67f7c160034bab2d8af31a_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000640326281/07bffb646a67f7c160034bab2d8af31a_normal.jpeg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AlainTourret",
-   "statuses_count": 312,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/A8nrNoMXYN",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député-Maire de Moult, soutien d'Emmanuel Macron Les tweets signés AT sont d'Alain Tourret, les autres de ses collaborateurs",
-  "twitter_favourites": 1,
-  "twitter_followers": 3453,
-  "twitter_following": 116,
-  "twitter_id": 538968658,
-  "twitter_listed": 188,
-  "twitter_name": "Alain Tourret",
-  "twitter_protected": false,
-  "twitter_tweets": 312,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2828",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2828",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alain-tourret",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alain-tourret/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2828"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alain-Tourret",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2828",
@@ -606,7 +462,7 @@
   "id": "538968658",
   "name": "Alain Tourret",
   "public_metrics": {
-   "followers_count": 3451,
+   "followers_count": 3450,
    "following_count": 116,
    "listed_count": 188,
    "tweet_count": 312

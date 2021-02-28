@@ -89,135 +89,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Loire-Atlantique / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Emmanuel Grelier"
-   },
-   {
-    "collaborateur": "Mme Anne Thibierge"
-   }
-  ],
-  "date_naissance": "1954-06-12",
-  "emails": [
-   {
-    "email": "yannick.haury@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 356,
-  "id_an": "720054",
-  "lieu_naissance": "Nantes (Loire-Atlantique)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Yannick Haury",
-  "nom_circo": "Loire-Atlantique",
-  "nom_de_famille": "Haury",
-  "num_circo": 9,
-  "num_deptmt": "44",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "566",
-  "prenom": "Yannick",
-  "profession": "Pharmacien",
-  "sexe": "H",
-  "sites_web": [
-   "http://yannick-haury.fr",
-   "https://twitter.com/YHaury44",
-   "https://fr-fr.facebook.com/yannickhaury2017"
-  ],
-  "slug": "yannick-haury",
   "twitter": "YHaury44",
-  "twitter_created_at": "2017-05-30T12:57:12",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 30 12:57:12 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Loire-Atlantique (9ème)  Circonscription du Pays du Retz  Commission du Développement durable et de l'Aménagement du territoire #LaRem #circo4409",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "yannick-haury.fr",
-       "expanded_url": "http://www.yannick-haury.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/faFRswQqD6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 408,
-   "follow_request_sent": false,
-   "followers_count": 3033,
-   "following": false,
-   "friends_count": 809,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 869538181158498300,
-   "id_str": "869538181158498308",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 93,
-   "location": "Saint-Brevin-les-Pins, France",
-   "name": "Yannick Haury",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/869538181158498308/1506499142",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/911214646081806343/wGUoGgjH_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/911214646081806343/wGUoGgjH_normal.jpg",
-   "profile_link_color": "91D2FA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "YHaury44",
-   "statuses_count": 1360,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/faFRswQqD6",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Loire-Atlantique (9ème) Circonscription du Pays du Retz Commission du Développement durable et de l'Aménagement du territoire #LaRem #circo4409",
-  "twitter_favourites": 408,
-  "twitter_followers": 3033,
-  "twitter_following": 809,
-  "twitter_id": 869538181158498300,
-  "twitter_listed": 93,
-  "twitter_name": "Yannick Haury",
-  "twitter_protected": false,
-  "twitter_tweets": 1360,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720054",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720054",
-  "url_nosdeputes": "https://www.nosdeputes.fr/yannick-haury",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/yannick-haury/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720054"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Yannick-Haury",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720054",
@@ -685,10 +558,10 @@
   "id": "869538181158498308",
   "name": "Yannick Haury",
   "public_metrics": {
-   "followers_count": 3033,
-   "following_count": 810,
+   "followers_count": 3035,
+   "following_count": 811,
    "listed_count": 93,
-   "tweet_count": 1361
+   "tweet_count": 1365
   },
   "username": "YHaury44"
  },

@@ -71,140 +71,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 12 Ter Rue Villeneuve 17000 La Rochelle Téléphone : 05 46 07 34 00"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Sebastien Arzalier"
-   },
-   {
-    "collaborateur": "Mme Stéphanie Costa"
-   },
-   {
-    "collaborateur": "M. Frédéric Milhiet"
-   }
-  ],
-  "date_naissance": "1972-03-27",
-  "emails": [
-   {
-    "email": "olivier.falorni@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 477,
-  "id_an": "605694",
-  "lieu_naissance": "Rochefort-sur-Mer (Charente-Maritime)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Olivier Falorni",
-  "nom_circo": "Charente-Maritime",
-  "nom_de_famille": "Falorni",
-  "num_circo": 1,
-  "num_deptmt": "17",
-  "parti_ratt_financier": "Parti radical de gauche",
-  "place_en_hemicycle": "207",
-  "prenom": "Olivier",
-  "profession": "Professeur du secondaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.olivierfalorni.com",
-   "https://twitter.com/OlivierFalorni",
-   "https://fr-fr.facebook.com/olivierfalorni"
-  ],
-  "slug": "olivier-falorni",
   "twitter": "OlivierFalorni",
-  "twitter_created_at": "2012-03-25T17:23:40",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Mar 25 17:23:40 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de La Rochelle-Ré",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "olivierfalorni.com",
-       "expanded_url": "http://www.olivierfalorni.com",
-       "indices": [
-        0,
-        22
-       ],
-       "url": "http://t.co/V42xiox9HF"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1898,
-   "follow_request_sent": false,
-   "followers_count": 5835,
-   "following": false,
-   "friends_count": 856,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 536485159,
-   "id_str": "536485159",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 209,
-   "location": "La Rochelle",
-   "name": "Olivier Falorni",
-   "notifications": false,
-   "profile_background_color": "9AE4E8",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/536485159/1425038046",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1955375391/OF_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1955375391/OF_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "BDDCAD",
-   "profile_sidebar_fill_color": "DDFFCC",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "OlivierFalorni",
-   "statuses_count": 669,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "http://t.co/V42xiox9HF",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de La Rochelle-Ré",
-  "twitter_favourites": 1898,
-  "twitter_followers": 5835,
-  "twitter_following": 856,
-  "twitter_id": 536485159,
-  "twitter_listed": 209,
-  "twitter_name": "Olivier Falorni",
-  "twitter_protected": false,
-  "twitter_tweets": 669,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605694",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605694",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-falorni",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-falorni/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605694"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Falorni",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605694",
@@ -414,9 +282,9 @@
   "id": "536485159",
   "name": "Olivier Falorni",
   "public_metrics": {
-   "followers_count": 5855,
-   "following_count": 856,
-   "listed_count": 210,
+   "followers_count": 5865,
+   "following_count": 860,
+   "listed_count": 209,
    "tweet_count": 671
   },
   "username": "OlivierFalorni"

@@ -158,136 +158,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Fabien Allait"
-   },
-   {
-    "collaborateur": "M. Antoine Parrot"
-   },
-   {
-    "collaborateur": "Mme Sandrine Hirschler"
-   },
-   {
-    "collaborateur": "M. Patrick Dorville"
-   }
-  ],
-  "date_naissance": "1977-01-28",
-  "emails": [
-   {
-    "email": "caroline.fiat@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 166,
-  "id_an": "720286",
-  "lieu_naissance": "VERDUN (Meuse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Caroline Fiat",
-  "nom_circo": "Meurthe-et-Moselle",
-  "nom_de_famille": "Fiat",
-  "num_circo": 6,
-  "num_deptmt": "54",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "602",
-  "prenom": "Caroline",
-  "profession": "Salariée du secteur médical",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/CarolineFiat54",
-   "https://fr-fr.facebook.com/kro.epousefiat"
-  ],
-  "slug": "caroline-fiat",
   "twitter": "CarolineFiat54",
-  "twitter_created_at": "2017-02-16T15:12:01",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Feb 16 15:12:01 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée La France Insoumise pour la 6ème circonscription de Meurthe-et-Moselle #FranceInsoumise #GRS @Gauche_RS",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/kro.epousefiat…",
-       "expanded_url": "https://www.facebook.com/kro.epousefiat?fref=ts",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/RQ33dPEtMp"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1043,
-   "follow_request_sent": false,
-   "followers_count": 29221,
-   "following": false,
-   "friends_count": 399,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 832246158391144400,
-   "id_str": "832246158391144448",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 229,
-   "location": "France",
-   "name": "Caroline FIAT",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/832246158391144448/1499240945",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/890159474564005888/FwDCOZpf_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/890159474564005888/FwDCOZpf_normal.jpg",
-   "profile_link_color": "FF691F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "CarolineFiat54",
-   "statuses_count": 4379,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/RQ33dPEtMp",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée La France Insoumise pour la 6ème circonscription de Meurthe-et-Moselle #FranceInsoumise #GRS @Gauche_RS",
-  "twitter_favourites": 1043,
-  "twitter_followers": 29221,
-  "twitter_following": 399,
-  "twitter_id": 832246158391144400,
-  "twitter_listed": 229,
-  "twitter_name": "Caroline FIAT",
-  "twitter_protected": false,
-  "twitter_tweets": 4379,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720286",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720286",
-  "url_nosdeputes": "https://www.nosdeputes.fr/caroline-fiat",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/caroline-fiat/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720286"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Caroline-Fiat",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720286",
@@ -1492,10 +1364,10 @@
   "id": "832246158391144448",
   "name": "Caroline FIAT",
   "public_metrics": {
-   "followers_count": 29238,
+   "followers_count": 29267,
    "following_count": 399,
-   "listed_count": 229,
-   "tweet_count": 4381
+   "listed_count": 228,
+   "tweet_count": 4388
   },
   "username": "CarolineFiat54"
  },

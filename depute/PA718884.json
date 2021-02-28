@@ -195,143 +195,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Troyes / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Troyes Champagne Métropole /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anne Leboulanger"
-   },
-   {
-    "collaborateur": "M. Stéphane Grillat"
-   },
-   {
-    "collaborateur": "Mme Jacqueline Bijou"
-   },
-   {
-    "collaborateur": "M. Richard Kiss"
-   }
-  ],
-  "date_naissance": "1969-10-31",
-  "emails": [
-   {
-    "email": "valerie.bazin-malgras@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 218,
-  "id_an": "718884",
-  "lieu_naissance": "Romilly-sur-Seine (Aube)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Valérie Bazin-Malgras",
-  "nom_circo": "Aube",
-  "nom_de_famille": "Bazin-Malgras",
-  "num_circo": 2,
-  "num_deptmt": "10",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "119",
-  "prenom": "Valérie",
-  "profession": "Commerçante",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/vbazinmalgras",
-   "https://www.facebook.com/VBazinMalgras"
-  ],
-  "slug": "valerie-bazin-malgras",
   "twitter": "vbazinmalgras",
-  "twitter_created_at": "2017-05-15T22:36:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 15 22:36:44 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de l'Aube | Vice Présidente LR | Secrétaire Departementale LR10 | Conseillère municipale @villedeTROYES | Conseillère communautaire #TCM",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718884",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/36FBBOWimp"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3966,
-   "follow_request_sent": false,
-   "followers_count": 2479,
-   "following": false,
-   "friends_count": 739,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864248206514946000,
-   "id_str": "864248206514946048",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 68,
-   "location": "Aube, Champagne-Ardenne",
-   "name": "Valérie Bazin-Malgras",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864248206514946048/1524786654",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/960961862555897856/aD3IV6tS_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/960961862555897856/aD3IV6tS_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "VBazinMalgras",
-   "statuses_count": 1183,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/36FBBOWimp",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée de l'Aube | Vice Présidente LR | Secrétaire Departementale LR10 | Conseillère municipale @villedeTROYES | Conseillère communautaire #TCM",
-  "twitter_favourites": 3966,
-  "twitter_followers": 2479,
-  "twitter_following": 739,
-  "twitter_id": 864248206514946000,
-  "twitter_listed": 68,
-  "twitter_name": "Valérie Bazin-Malgras",
-  "twitter_protected": false,
-  "twitter_tweets": 1183,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718884",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718884",
-  "url_nosdeputes": "https://www.nosdeputes.fr/valerie-bazin-malgras",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/valerie-bazin-malgras/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718884"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Valérie-Bazin-Malgras",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718884",
@@ -840,10 +705,10 @@
   "id": "864248206514946048",
   "name": "Valérie Bazin-Malgras",
   "public_metrics": {
-   "followers_count": 2493,
+   "followers_count": 2501,
    "following_count": 739,
-   "listed_count": 68,
-   "tweet_count": 1183
+   "listed_count": 67,
+   "tweet_count": 1184
   },
   "username": "VBazinMalgras"
  },

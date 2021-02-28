@@ -54,146 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "9310 Avenue Leconte de Lisle 97490 Saint-Denis Téléphone : 02.62.58.54.68"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 68 78"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Réunion / Conseil régional / vice-présidente"
-   },
-   {
-    "mandat": "Réunion / Conseil départemental / vice-présidente"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Brice Baillard"
-   },
-   {
-    "collaborateur": "M. Gérard Cazanove"
-   },
-   {
-    "collaborateur": "Mme Aliette Soupaya Valliama"
-   },
-   {
-    "collaborateur": "M. Luçay Sautron"
-   }
-  ],
-  "date_naissance": "1961-05-17",
-  "emails": [
-   {
-    "email": "nadia.ramassamy@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 366,
-  "id_an": "721070",
-  "lieu_naissance": "Sainte-Clotilde (Réunion)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Nadia Ramassamy",
-  "nom_circo": "Réunion",
-  "nom_de_famille": "Ramassamy",
-  "num_circo": 6,
-  "num_deptmt": "974",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "44",
-  "prenom": "Nadia",
-  "profession": "Médecin",
-  "sexe": "F",
-  "sites_web": [
-   "http://nadiaramassamy.fr",
-   "https://twitter.com/NadiaRamassamy"
-  ],
-  "slug": "nadia-ramassamy",
   "twitter": "NadiaRamassamy",
-  "twitter_created_at": "2017-12-04T11:24:33",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Dec 04 11:24:33 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de #LaRéunion. Commission des Affaires sociales. Médecin généraliste.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/q8G4WFxvyX"
-      }
-     ]
-    }
-   },
-   "favourites_count": 606,
-   "follow_request_sent": false,
-   "followers_count": 1051,
-   "following": false,
-   "friends_count": 677,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 937643785240096800,
-   "id_str": "937643785240096768",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 43,
-   "location": "La Réunion",
-   "name": "Nadia Ramassamy",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/937643785240096768/1536074656",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1044922003684241409/JGu3utWo_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044922003684241409/JGu3utWo_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "NadiaRamassamy",
-   "statuses_count": 1106,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/q8G4WFxvyX",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de #LaRéunion. Commission des Affaires sociales. Médecin généraliste.",
-  "twitter_favourites": 606,
-  "twitter_followers": 1051,
-  "twitter_following": 677,
-  "twitter_id": 937643785240096800,
-  "twitter_listed": 43,
-  "twitter_name": "Nadia Ramassamy",
-  "twitter_protected": false,
-  "twitter_tweets": 1106,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nadia-ramassamy",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nadia-ramassamy/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nadia-Ramassamy",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721070",
@@ -338,9 +200,9 @@
   "id": "937643785240096768",
   "name": "Nadia Ramassamy",
   "public_metrics": {
-   "followers_count": 1051,
+   "followers_count": 1052,
    "following_count": 677,
-   "listed_count": 44,
+   "listed_count": 43,
    "tweet_count": 1107
   },
   "username": "NadiaRamassamy"

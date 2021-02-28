@@ -55,137 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Elsa Pariente"
-   },
-   {
-    "collaborateur": "Mme Fanny Diadema"
-   },
-   {
-    "collaborateur": "M. Nicolas Caure le Graet"
-   }
-  ],
-  "date_naissance": "1976-11-22",
-  "emails": [
-   {
-    "email": "cathy.racon-bouzon@assemblee-nationale.fr"
-   },
-   {
-    "email": "cathy@racon-bouzon.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 451,
-  "id_an": "718944",
-  "lieu_naissance": "Domont (Val-d'Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Cathy Racon-Bouzon",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Racon-Bouzon",
-  "num_circo": 5,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "336",
-  "prenom": "Cathy",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "http://racon-bouzon.fr",
-   "https://twitter.com/RaconCathy",
-   "https://fr-fr.facebook.com/REM13circo5"
-  ],
-  "slug": "cathy-racon-bouzon",
   "twitter": "RaconCathy",
-  "twitter_created_at": "2017-05-11T17:33:16",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 11 17:33:16 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée #LaRem de Marseille #circo1305 // Vice-présidente @AN_AfCult // Rapporteure PPL Portable // Vice-présidente groupe d’amitié France-US",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "racon-bouzon.fr",
-       "expanded_url": "http://www.racon-bouzon.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/SzhWJUcfJZ"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3806,
-   "follow_request_sent": false,
-   "followers_count": 5752,
-   "following": false,
-   "friends_count": 967,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 862722286444564500,
-   "id_str": "862722286444564482",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 137,
-   "location": "Marseille, France",
-   "name": "Cathy RACON BOUZON",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862722286444564482/1603010292",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1331985393764491264/BzNCcODc_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331985393764491264/BzNCcODc_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RaconCathy",
-   "statuses_count": 3053,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/SzhWJUcfJZ",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #LaRem de Marseille #circo1305 // Vice-présidente @AN_AfCult // Rapporteure PPL Portable // Vice-présidente groupe d’amitié France-US",
-  "twitter_favourites": 3806,
-  "twitter_followers": 5752,
-  "twitter_following": 967,
-  "twitter_id": 862722286444564500,
-  "twitter_listed": 137,
-  "twitter_name": "Cathy RACON BOUZON",
-  "twitter_protected": false,
-  "twitter_tweets": 3053,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718944",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718944",
-  "url_nosdeputes": "https://www.nosdeputes.fr/cathy-racon-bouzon",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/cathy-racon-bouzon/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718944"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Cathy-Racon-Bouzon",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718944",
@@ -726,10 +597,10 @@
   "id": "862722286444564482",
   "name": "Cathy RACON BOUZON",
   "public_metrics": {
-   "followers_count": 5753,
+   "followers_count": 5759,
    "following_count": 967,
-   "listed_count": 137,
-   "tweet_count": 3058
+   "listed_count": 136,
+   "tweet_count": 3060
   },
   "username": "RaconCathy"
  },

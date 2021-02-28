@@ -285,149 +285,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "BP 50010 76450 Cany-Barville Téléphone : 07 85 97 62 19"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 3 Rue du Shamrock Zone d'activité du District 76450 Sasseville"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Philippe Cavé"
-   },
-   {
-    "collaborateur": "Mme Ève Moreels"
-   },
-   {
-    "collaborateur": "Mme Aurélie Bennetot"
-   },
-   {
-    "collaborateur": "M. Aurélien Bénard"
-   },
-   {
-    "collaborateur": "Mme Laure Bertin"
-   },
-   {
-    "collaborateur": "M. Thibault Montaron"
-   }
-  ],
-  "date_naissance": "1976-12-26",
-  "emails": [
-   {
-    "email": "xavier.batut@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 496,
-  "id_an": "721522",
-  "lieu_naissance": "Créteil (Val-de-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Xavier Batut",
-  "nom_circo": "Seine-Maritime",
-  "nom_de_famille": "Batut",
-  "num_circo": 10,
-  "num_deptmt": "76",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "625",
-  "prenom": "Xavier",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://xavierbatut.fr",
-   "https://twitter.com/XavierBatut",
-   "https://fr-fr.facebook.com/xavier.batut10"
-  ],
-  "slug": "xavier-batut",
   "twitter": "XavierBatut",
-  "twitter_created_at": "2017-05-11T19:40:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 11 19:40:11 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Seine-Maritime | Membre de la commission de la Défense nationale et des Forces armées | Président du groupe d'amitié France-Slovaquie #circo7610",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "xavierbatut.fr",
-       "expanded_url": "http://xavierbatut.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/0axorOLTLa"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2004,
-   "follow_request_sent": false,
-   "followers_count": 6123,
-   "following": false,
-   "friends_count": 1842,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 862754226589577200,
-   "id_str": "862754226589577216",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 107,
-   "location": "Seine-Maritime",
-   "name": "Xavier Batut",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862754226589577216/1527888315",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1002662175985602560/4fytxCEg_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002662175985602560/4fytxCEg_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "XavierBatut",
-   "statuses_count": 1939,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/0axorOLTLa",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Seine-Maritime | Membre de la commission de la Défense nationale et des Forces armées | Président du groupe d'amitié France-Slovaquie #circo7610",
-  "twitter_favourites": 2004,
-  "twitter_followers": 6123,
-  "twitter_following": 1842,
-  "twitter_id": 862754226589577200,
-  "twitter_listed": 107,
-  "twitter_name": "Xavier Batut",
-  "twitter_protected": false,
-  "twitter_tweets": 1939,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721522",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721522",
-  "url_nosdeputes": "https://www.nosdeputes.fr/xavier-batut",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/xavier-batut/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721522"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Xavier-Batut",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721522",
@@ -927,10 +786,10 @@
   "id": "862754226589577216",
   "name": "Xavier Batut",
   "public_metrics": {
-   "followers_count": 6125,
-   "following_count": 1842,
+   "followers_count": 6128,
+   "following_count": 1844,
    "listed_count": 107,
-   "tweet_count": 1941
+   "tweet_count": 1943
   },
   "username": "XavierBatut"
  },

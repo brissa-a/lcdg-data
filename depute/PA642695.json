@@ -119,155 +119,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "32 Place du Marchallac'h 22300 Lannion Téléphone : 02 96 37 03 23"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "06/05/2017 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Paimpol / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Julien Rousseau"
-   },
-   {
-    "collaborateur": "M. Maxime Donadille"
-   },
-   {
-    "collaborateur": "Mme Odile Clavier"
-   }
-  ],
-  "date_naissance": "1966-10-20",
-  "emails": [
-   {
-    "email": "eric.bothorel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 274,
-  "id_an": "642695",
-  "lieu_naissance": "Paimpol (Côtes-d'Armor)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Éric Bothorel",
-  "nom_circo": "Côtes-d'Armor",
-  "nom_de_famille": "Bothorel",
-  "num_circo": 5,
-  "num_deptmt": "22",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "554",
-  "prenom": "Éric",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "http://ericbothorel.fr",
-   "http://ericbothorel.bzh",
-   "https://twitter.com/ebothorel",
-   "https://fr-fr.facebook.com/Eric-Bothorel-Député-circo2205"
-  ],
-  "slug": "eric-bothorel",
   "twitter": "ebothorel",
-  "twitter_created_at": "2010-07-02T17:51:06",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jul 02 17:51:06 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député #LaREM ex parlementaire en mission https://t.co/U9L9O6XUt8\nCirco Trégor, Goëlo, un concentré de Bretagne",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "mission-open-data.fr",
-       "expanded_url": "http://mission-open-data.fr",
-       "indices": [
-        42,
-        65
-       ],
-       "url": "https://t.co/U9L9O6XUt8"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "ericbothorel.bzh",
-       "expanded_url": "http://ericbothorel.bzh",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/lPZYH4I622"
-      }
-     ]
-    }
-   },
-   "favourites_count": 22178,
-   "follow_request_sent": false,
-   "followers_count": 10490,
-   "following": false,
-   "friends_count": 2814,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 162094209,
-   "id_str": "162094209",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 754,
-   "location": "Bretagne, France",
-   "name": "eric bothorel ⌨️",
-   "notifications": false,
-   "profile_background_color": "709397",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/162094209/1609249138",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1132567094938210304/qRsCHtAW_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132567094938210304/qRsCHtAW_normal.jpg",
-   "profile_link_color": "265B8C",
-   "profile_sidebar_border_color": "86A4A6",
-   "profile_sidebar_fill_color": "A0C5C7",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ebothorel",
-   "statuses_count": 31223,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/lPZYH4I622",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM ex parlementaire en mission https://t.co/U9L9O6XUt8 Circo Trégor, Goëlo, un concentré de Bretagne",
-  "twitter_favourites": 22178,
-  "twitter_followers": 10490,
-  "twitter_following": 2814,
-  "twitter_id": 162094209,
-  "twitter_listed": 754,
-  "twitter_name": "eric bothorel ⌨️",
-  "twitter_protected": false,
-  "twitter_tweets": 31223,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642695",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642695",
-  "url_nosdeputes": "https://www.nosdeputes.fr/eric-bothorel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/eric-bothorel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642695"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Éric-Bothorel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642695",
@@ -1236,10 +1089,10 @@
   "id": "162094209",
   "name": "eric bothorel ⌨️",
   "public_metrics": {
-   "followers_count": 10495,
-   "following_count": 2814,
+   "followers_count": 10516,
+   "following_count": 2817,
    "listed_count": 754,
-   "tweet_count": 31247
+   "tweet_count": 31275
   },
   "username": "ebothorel"
  },

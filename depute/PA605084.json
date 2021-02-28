@@ -274,152 +274,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 37 Rue des Blanchards 02400 Brasles Téléphone : 03 23 69 00 75"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Château-Thierry / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Château-Thierry / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Benjamin Boutin"
-   },
-   {
-    "collaborateur": "Mme Jeanne Doyez-Roussel"
-   },
-   {
-    "collaborateur": "M. Bertrand Varin"
-   },
-   {
-    "collaborateur": "Mme Krystel Doosterlinck"
-   }
-  ],
-  "date_naissance": "1948-04-10",
-  "emails": [
-   {
-    "email": "jacques.krabal@ville-chateau-thierry.fr"
-   },
-   {
-    "email": "jacques.krabal@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 294,
-  "id_an": "605084",
-  "lieu_naissance": "Epieds (Aisne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jacques Krabal",
-  "nom_circo": "Aisne",
-  "nom_de_famille": "Krabal",
-  "num_circo": 5,
-  "num_deptmt": "02",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "542",
-  "prenom": "Jacques",
-  "profession": "Retraité de l'enseignement",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/JKrabal",
-   "http://www.jacqueskrabal.com"
-  ],
-  "slug": "jacques-krabal",
   "twitter": "JKrabal",
-  "twitter_created_at": "2013-10-08T13:15:04",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Oct 08 13:15:04 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de l'Aisne, membre de la commission développement durable et aménagement du territoire, Secrétaire général de l’APF - LaREM",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jacqueskrabal.com",
-       "expanded_url": "http://www.jacqueskrabal.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/D6BzYGn07F"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1719,
-   "follow_request_sent": false,
-   "followers_count": 3834,
-   "following": false,
-   "friends_count": 1122,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1946847096,
-   "id_str": "1946847096",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 172,
-   "location": "Château-Thierry #circo0205",
-   "name": "Jacques Krabal",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946847096/1499097298",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/560032687973744640/PILO1tAB_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/560032687973744640/PILO1tAB_normal.jpeg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JKrabal",
-   "statuses_count": 8575,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/D6BzYGn07F",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Aisne, membre de la commission développement durable et aménagement du territoire, Secrétaire général de l’APF - LaREM",
-  "twitter_favourites": 1719,
-  "twitter_followers": 3834,
-  "twitter_following": 1122,
-  "twitter_id": 1946847096,
-  "twitter_listed": 172,
-  "twitter_name": "Jacques Krabal",
-  "twitter_protected": false,
-  "twitter_tweets": 8575,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605084",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605084",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jacques-krabal",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jacques-krabal/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605084"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jacques-Krabal",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605084",
@@ -659,10 +515,10 @@
   "id": "1946847096",
   "name": "Jacques Krabal",
   "public_metrics": {
-   "followers_count": 3834,
+   "followers_count": 3838,
    "following_count": 1122,
    "listed_count": 172,
-   "tweet_count": 8575
+   "tweet_count": 8581
   },
   "username": "JKrabal"
  },

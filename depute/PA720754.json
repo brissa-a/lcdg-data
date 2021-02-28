@@ -59,144 +59,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Pascal Laubscher"
-   },
-   {
-    "collaborateur": "M. Anthony Caïato"
-   },
-   {
-    "collaborateur": "Mme Adeline Casal"
-   },
-   {
-    "collaborateur": "M. Pierre Sellin"
-   },
-   {
-    "collaborateur": "Mme Bénédicte Weyl"
-   },
-   {
-    "collaborateur": "Mme Agnès Caradot"
-   }
-  ],
-  "date_naissance": "1978-06-18",
-  "emails": [
-   {
-    "email": "bruno.studer@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 487,
-  "id_an": "720754",
-  "lieu_naissance": "Colmar (Haut-Rhin)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bruno Studer",
-  "nom_circo": "Bas-Rhin",
-  "nom_de_famille": "Studer",
-  "num_circo": 3,
-  "num_deptmt": "67",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "427",
-  "prenom": "Bruno",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.studer2017.fr",
-   "http://www.brunostuder.fr",
-   "https://twitter.com/brunostuder67",
-   "https://fr-fr.facebook.com/BrunoStuder67"
-  ],
-  "slug": "bruno-studer",
   "twitter": "brunostuder67",
-  "twitter_created_at": "2017-05-10T06:19:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 10 06:19:44 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LaREM #circo6703 -Président #AfCultAN - Commission @AN_AfCult de l'@Assembleenat",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "brunostuder.fr",
-       "expanded_url": "http://www.brunostuder.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/9svUn5DWDe"
-      }
-     ]
-    }
-   },
-   "favourites_count": 12887,
-   "follow_request_sent": false,
-   "followers_count": 7818,
-   "following": false,
-   "friends_count": 1260,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 862190399938539500,
-   "id_str": "862190399938539520",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 156,
-   "location": "Strasbourg, France",
-   "name": "Bruno Studer",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862190399938539520/1605177442",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1005395512273592320/u_dsiTOA_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005395512273592320/u_dsiTOA_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BrunoStuder67",
-   "statuses_count": 7782,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/9svUn5DWDe",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM #circo6703 -Président #AfCultAN - Commission @AN_AfCult de l'@Assembleenat",
-  "twitter_favourites": 12887,
-  "twitter_followers": 7818,
-  "twitter_following": 1260,
-  "twitter_id": 862190399938539500,
-  "twitter_listed": 156,
-  "twitter_name": "Bruno Studer",
-  "twitter_protected": false,
-  "twitter_tweets": 7782,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720754",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720754",
-  "url_nosdeputes": "https://www.nosdeputes.fr/bruno-studer",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/bruno-studer/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720754"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bruno-Studer",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720754",
@@ -913,10 +777,10 @@
   "id": "862190399938539520",
   "name": "Bruno Studer",
   "public_metrics": {
-   "followers_count": 7821,
+   "followers_count": 7828,
    "following_count": 1261,
    "listed_count": 157,
-   "tweet_count": 7782
+   "tweet_count": 7783
   },
   "username": "BrunoStuder67"
  },

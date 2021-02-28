@@ -192,123 +192,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 1A Rue Saint Macoult 17100 Saintes Téléphone : 09 61 67 03 76"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 73 36"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Alexandre Renoux"
-   },
-   {
-    "collaborateur": "M. Sébastien Moulinat"
-   },
-   {
-    "collaborateur": "M. Alexandre Paquier"
-   }
-  ],
-  "date_naissance": "1964-03-05",
-  "emails": [
-   {
-    "email": "jean-philippe.ardouin@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 564,
-  "id_an": "719100",
-  "lieu_naissance": "Saintes (Charente-Maritime)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Philippe Ardouin",
-  "nom_circo": "Charente-Maritime",
-  "nom_de_famille": "Ardouin",
-  "num_circo": 3,
-  "num_deptmt": "17",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "526",
-  "prenom": "Jean-Philippe",
-  "profession": "Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/jean_ardouin",
-   "https://fr-fr.facebook.com/jpardouin"
-  ],
-  "slug": "jean-philippe-ardouin",
   "twitter": "jean_ardouin",
-  "twitter_created_at": "2018-05-07T11:39:54",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 07 11:39:54 +0000 2018",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "député LREM de la #CharenteMaritime 1703 (#Saintes-#StJeanY), commissaire de La Défense nationale, chef d’entreprise secteur vins et spiritueux",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1737,
-   "follow_request_sent": false,
-   "followers_count": 921,
-   "following": false,
-   "friends_count": 563,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 993455378020098000,
-   "id_str": "993455378020098049",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 42,
-   "location": "Saintes, France",
-   "name": "Jean-Philippe Ardouin",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/993455378020098049/1525693571",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/993456474876792832/s81ZVm2h_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/993456474876792832/s81ZVm2h_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "jean_ardouin",
-   "statuses_count": 1803,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "député LREM de la #CharenteMaritime 1703 (#Saintes-#StJeanY), commissaire de La Défense nationale, chef d’entreprise secteur vins et spiritueux",
-  "twitter_favourites": 1737,
-  "twitter_followers": 921,
-  "twitter_following": 563,
-  "twitter_id": 993455378020098000,
-  "twitter_listed": 42,
-  "twitter_name": "Jean-Philippe Ardouin",
-  "twitter_protected": false,
-  "twitter_tweets": 1803,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719100",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719100",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-philippe-ardouin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-philippe-ardouin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719100"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Philippe-Ardouin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719100",
@@ -786,10 +671,10 @@
   "id": "993455378020098049",
   "name": "Jean-Philippe Ardouin",
   "public_metrics": {
-   "followers_count": 921,
+   "followers_count": 923,
    "following_count": 563,
    "listed_count": 42,
-   "tweet_count": 1803
+   "tweet_count": 1805
   },
   "username": "jean_ardouin"
  },

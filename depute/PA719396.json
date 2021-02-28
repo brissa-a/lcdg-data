@@ -55,137 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "28 Boulevard Gambetta 29200 Brest"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Isabelle Le Berre"
-   },
-   {
-    "collaborateur": "Mme Alexandra Guilloré"
-   },
-   {
-    "collaborateur": "M. Pierre Tissier"
-   }
-  ],
-  "date_naissance": "1984-01-24",
-  "emails": [
-   {
-    "email": "jean-charles.larsonneur@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 322,
-  "id_an": "719396",
-  "lieu_naissance": "Brest (Finistère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Charles Larsonneur",
-  "nom_circo": "Finistère",
-  "nom_de_famille": "Larsonneur",
-  "num_circo": 2,
-  "num_deptmt": "29",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "146",
-  "prenom": "Jean-Charles",
-  "profession": "Diplomate",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/JCLarsonneur",
-   "http://www.jeancharleslarsonneur.fr",
-   "https://fr-fr.facebook.com/jeancharleslarsonneur"
-  ],
-  "slug": "jean-charles-larsonneur",
   "twitter": "JCLarsonneur",
-  "twitter_created_at": "2017-05-16T19:18:21",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 19:18:21 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du Finistère, 2ème circonscription. #Brest #LaREM @agirensemble_an ...",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeancharleslarsonneur.fr",
-       "expanded_url": "http://www.jeancharleslarsonneur.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/eIQb1pqpcm"
-      }
-     ]
-    }
-   },
-   "favourites_count": 7647,
-   "follow_request_sent": false,
-   "followers_count": 4809,
-   "following": false,
-   "friends_count": 1937,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 864560669814816800,
-   "id_str": "864560669814816771",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 112,
-   "location": "Brest, France",
-   "name": "Jean-Charles Larsonneur",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864560669814816771/1516042041",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1055098219259146240/p20TQv5T_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055098219259146240/p20TQv5T_normal.jpg",
-   "profile_link_color": "19CF86",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "JCLarsonneur",
-   "statuses_count": 4787,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/eIQb1pqpcm",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Finistère, 2ème circonscription. #Brest #LaREM @agirensemble_an ...",
-  "twitter_favourites": 7647,
-  "twitter_followers": 4809,
-  "twitter_following": 1937,
-  "twitter_id": 864560669814816800,
-  "twitter_listed": 112,
-  "twitter_name": "Jean-Charles Larsonneur",
-  "twitter_protected": false,
-  "twitter_tweets": 4787,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719396",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719396",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-charles-larsonneur",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-charles-larsonneur/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719396"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Charles-Larsonneur",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719396",
@@ -451,10 +322,10 @@
   "id": "864560669814816771",
   "name": "Jean-Charles Larsonneur",
   "public_metrics": {
-   "followers_count": 4810,
-   "following_count": 1941,
+   "followers_count": 4813,
+   "following_count": 1942,
    "listed_count": 112,
-   "tweet_count": 4788
+   "tweet_count": 4798
   },
   "username": "JCLarsonneur"
  },

@@ -79,141 +79,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Villedaigne / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Grand Narbonne / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anne Boyer"
-   },
-   {
-    "collaborateur": "M. Romain Prax"
-   },
-   {
-    "collaborateur": "Mme Tatiana Vivier-Paulange"
-   }
-  ],
-  "date_naissance": "1971-06-05",
-  "emails": [
-   {
-    "email": "alain.perea@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 153,
-  "id_an": "718802",
-  "lieu_naissance": "Béziers (Hérault)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Alain Perea",
-  "nom_circo": "Aude",
-  "nom_de_famille": "Perea",
-  "num_circo": 2,
-  "num_deptmt": "11",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "429",
-  "prenom": "Alain",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.alainperea.fr",
-   "https://twitter.com/pereaalain",
-   "https://fr-fr.facebook.com/pereaalain"
-  ],
-  "slug": "alain-perea",
   "twitter": "pereaalain",
-  "twitter_created_at": "2015-04-01T12:45:27",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Apr 01 12:45:27 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🏛 Député de l'Aude | Membre de la Commission @AN_DevDur | Vice-président de l’Assemblée parlementaire de la Méditerranée | Co-président du groupe Chasse",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "alainperea.fr",
-       "expanded_url": "http://www.alainperea.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/B6TW0SJO4E"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2564,
-   "follow_request_sent": false,
-   "followers_count": 4935,
-   "following": false,
-   "friends_count": 829,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 3124227529,
-   "id_str": "3124227529",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 121,
-   "location": "Villedaigne, France",
-   "name": "Alain Perea",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3124227529/1603920862",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1321565992670121984/1UyFwclX_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321565992670121984/1UyFwclX_normal.jpg",
-   "profile_link_color": "19CF86",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "PereaAlain",
-   "statuses_count": 1876,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/B6TW0SJO4E",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🏛 Député de l'Aude | Membre de la Commission @AN_DevDur | Vice-président de l’Assemblée parlementaire de la Méditerranée | Co-président du groupe Chasse",
-  "twitter_favourites": 2564,
-  "twitter_followers": 4935,
-  "twitter_following": 829,
-  "twitter_id": 3124227529,
-  "twitter_listed": 121,
-  "twitter_name": "Alain Perea",
-  "twitter_protected": false,
-  "twitter_tweets": 1876,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718802",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718802",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alain-perea",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alain-perea/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718802"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alain-Perea",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718802",
@@ -843,10 +710,10 @@
   "id": "3124227529",
   "name": "Alain Perea",
   "public_metrics": {
-   "followers_count": 4937,
+   "followers_count": 4943,
    "following_count": 829,
    "listed_count": 121,
-   "tweet_count": 1880
+   "tweet_count": 1881
   },
   "username": "PereaAlain"
  },

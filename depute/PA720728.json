@@ -141,181 +141,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "43 Rue Henri Faisans 64000 Pau"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Ger / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Julie Malozon"
-   },
-   {
-    "collaborateur": "Mme Violaine Cabidoche"
-   }
-  ],
-  "date_naissance": "1954-03-21",
-  "emails": [
-   {
-    "email": "jean-paul.mattei@assemblee-nationale.fr"
-   },
-   {
-    "email": "matteijeanpaul@icloud.com"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 113,
-  "id_an": "720728",
-  "lieu_naissance": "SAARBURG (ALLEMAGNE)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Paul Mattei",
-  "nom_circo": "Pyrénées-Atlantiques",
-  "nom_de_famille": "Mattei",
-  "num_circo": 2,
-  "num_deptmt": "64",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "255",
-  "prenom": "Jean-Paul",
-  "profession": "Notaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://jp-mattei.fr",
-   "https://twitter.com/jp_mattei",
-   "https://fr-fr.facebook.com/mattei64"
-  ],
-  "slug": "jean-paul-mattei",
   "twitter": "jp_mattei",
-  "twitter_created_at": "2018-04-16T08:48:07",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Apr 16 08:48:07 +0000 2018",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 2ème circonscription des Pyrénées-Atlantiques | Membre de @AN_Finances | Président du Conseil de l'Immobilier de l'Etat",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "www2.assemblee-nationale.fr/deputes/fiche/…",
-       "expanded_url": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720728",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/JOFMmZNHq6"
-      }
-     ]
-    }
-   },
-   "favourites_count": 399,
-   "follow_request_sent": false,
-   "followers_count": 1107,
-   "following": false,
-   "friends_count": 521,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 985802003149402100,
-   "id_str": "985802003149402113",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 47,
-   "location": "Pau, France",
-   "name": "Jean-Paul Mattéi",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/985802003149402113/1524044661",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1151493141134024704/i121g-o9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151493141134024704/i121g-o9_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_location": null,
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "jp_mattei",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Feb 23 16:29:55 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "twitter.com/i/web/status/1…",
-       "expanded_url": "https://twitter.com/i/web/status/1364251148903931904",
-       "indices": [
-        116,
-        139
-       ],
-       "url": "https://t.co/ZuhS9fHDXg"
-      }
-     ],
-     "user_mentions": []
-    },
-    "favorite_count": 3,
-    "favorited": false,
-    "geo": null,
-    "id": 1364251148903932000,
-    "id_str": "1364251148903931904",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "fr",
-    "place": null,
-    "retweet_count": 1,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "Triste nouvelle que le départ de Jean GRENET, une personnalité politique majeure de notre Département. Il était un… https://t.co/ZuhS9fHDXg",
-    "truncated": true
-   },
-   "statuses_count": 508,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/JOFMmZNHq6",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la 2ème circonscription des Pyrénées-Atlantiques | Membre de @AN_Finances | Président du Conseil de l'Immobilier de l'Etat",
-  "twitter_favourites": 399,
-  "twitter_followers": 1107,
-  "twitter_following": 521,
-  "twitter_id": 985802003149402100,
-  "twitter_listed": 47,
-  "twitter_name": "Jean-Paul Mattéi",
-  "twitter_protected": false,
-  "twitter_tweets": 508,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720728",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720728",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-paul-mattei",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-paul-mattei/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720728"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Paul-Mattei",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720728",
@@ -1260,10 +1087,10 @@
   "id": "985802003149402113",
   "name": "Jean-Paul Mattéi",
   "public_metrics": {
-   "followers_count": 1105,
-   "following_count": 521,
-   "listed_count": 47,
-   "tweet_count": 508
+   "followers_count": 1114,
+   "following_count": 524,
+   "listed_count": 49,
+   "tweet_count": 510
   },
   "username": "jp_mattei"
  },

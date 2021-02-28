@@ -53,155 +53,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Mairie, 60 Rue Charles de Gaulle, 91330 Yerres Téléphone : 01 69 49 29 30"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "01/06/1997 / 18/06/2002 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Val-d'Yerres - Val de Seine / Communauté d'agglomération / membre"
-   },
-   {
-    "mandat": "Yerres / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Franck Beeldens"
-   },
-   {
-    "collaborateur": "Mme Catherine Pasco"
-   }
-  ],
-  "date_naissance": "1961-03-07",
-  "emails": [
-   {
-    "email": "nicolas.dupont-aignan@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 377,
-  "id_an": "1206",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Nicolas Dupont-Aignan",
-  "nom_circo": "Essonne",
-  "nom_de_famille": "Dupont-Aignan",
-  "num_circo": 8,
-  "num_deptmt": "91",
-  "parti_ratt_financier": "Debout la France",
-  "place_en_hemicycle": "240",
-  "prenom": "Nicolas",
-  "profession": "Administrateur civil",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.nda2015.fr",
-   "http://www.nda-2017.fr",
-   "http://www.debout-la-france.fr",
-   "https://twitter.com/dupontaignan",
-   "http://www.nicolasdupontaignan.fr"
-  ],
-  "slug": "nicolas-dupont-aignan",
   "twitter": "dupontaignan",
-  "twitter_created_at": "2009-05-06T12:51:28",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 06 12:51:28 +0000 2009",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de l'Essonne et Président de Debout la France @DLF_Officiel 🇫🇷 #LeBonSens #2022NDA",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "debout-la-france.fr",
-       "expanded_url": "http://www.debout-la-france.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/CTOUTzUBT2"
-      }
-     ]
-    }
-   },
-   "favourites_count": 490,
-   "follow_request_sent": false,
-   "followers_count": 243535,
-   "following": false,
-   "friends_count": 1404,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 38170599,
-   "id_str": "38170599",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 1696,
-   "location": "Yerres",
-   "name": "N. Dupont-Aignan",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/38170599/1614092067",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/672054572601483265/xRGGJGn1_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/672054572601483265/xRGGJGn1_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "dupontaignan",
-   "statuses_count": 20069,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/CTOUTzUBT2",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Essonne et Président de Debout la France @DLF_Officiel 🇫🇷 #LeBonSens #2022NDA",
-  "twitter_favourites": 490,
-  "twitter_followers": 243535,
-  "twitter_following": 1404,
-  "twitter_id": 38170599,
-  "twitter_listed": 1696,
-  "twitter_name": "N. Dupont-Aignan",
-  "twitter_protected": false,
-  "twitter_tweets": 20069,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1206",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1206",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nicolas-dupont-aignan",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nicolas-dupont-aignan/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1206"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nicolas-Dupont-Aignan",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1206",
@@ -424,10 +277,10 @@
   "id": "38170599",
   "name": "N. Dupont-Aignan",
   "public_metrics": {
-   "followers_count": 243620,
-   "following_count": 1404,
-   "listed_count": 1697,
-   "tweet_count": 20081
+   "followers_count": 243905,
+   "following_count": 1403,
+   "listed_count": 1696,
+   "tweet_count": 20114
   },
   "username": "dupontaignan"
  },

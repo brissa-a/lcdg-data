@@ -132,128 +132,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.71.31"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Tours / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Tours Métropole Val de Loire /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Romain Deguffroy"
-   },
-   {
-    "collaborateur": "M. Nicolas Thelliez"
-   }
-  ],
-  "date_naissance": "1963-08-19",
-  "emails": [
-   {
-    "email": "sophie.auconie@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@sophieauconie.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 406,
-  "id_an": "719806",
-  "lieu_naissance": "Dugny (Seine-Saint-Denis)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Sophie Auconie",
-  "nom_circo": "Indre-et-Loire",
-  "nom_de_famille": "Auconie",
-  "num_circo": 3,
-  "num_deptmt": "37",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "124",
-  "prenom": "Sophie",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.sophieauconie.fr",
-   "https://twitter.com/sophie_auconie",
-   "https://fr-fr.facebook.com/sophieauconie"
-  ],
-  "slug": "sophie-auconie",
   "twitter": "sophie_auconie",
-  "twitter_created_at": "2010-09-06T12:45:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Sep 06 12:45:09 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la 3ème circonscription d'Indre-et-Loire - Secrétaire @AssembleeNat - Porte-Parole @UDI_off Présidente @UDI_37 - CoVPrésidente @DeputesUdi_ind",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 10721,
-   "follow_request_sent": false,
-   "followers_count": 10945,
-   "following": false,
-   "friends_count": 7286,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 187508945,
-   "id_str": "187508945",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 368,
-   "location": "Saint-Avertin, France",
-   "name": "Sophie Auconie",
-   "notifications": false,
-   "profile_background_color": "F7FBFC",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/187508945/1508347329",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1344913220344098816/kiDKlBGy_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344913220344098816/kiDKlBGy_normal.jpg",
-   "profile_link_color": "47065C",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DAECF4",
-   "profile_text_color": "663B12",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Sophie_Auconie",
-   "statuses_count": 17847,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 3ème circonscription d'Indre-et-Loire - Secrétaire @AssembleeNat - Porte-Parole @UDI_off Présidente @UDI_37 - CoVPrésidente @DeputesUdi_ind",
-  "twitter_favourites": 10721,
-  "twitter_followers": 10945,
-  "twitter_following": 7286,
-  "twitter_id": 187508945,
-  "twitter_listed": 368,
-  "twitter_name": "Sophie Auconie",
-  "twitter_protected": false,
-  "twitter_tweets": 17847,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719806",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719806",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sophie-auconie",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sophie-auconie/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719806"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sophie-Auconie",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719806",
@@ -1014,10 +894,10 @@
   "id": "187508945",
   "name": "Sophie Auconie",
   "public_metrics": {
-   "followers_count": 10944,
+   "followers_count": 10941,
    "following_count": 7285,
-   "listed_count": 369,
-   "tweet_count": 17850
+   "listed_count": 368,
+   "tweet_count": 17853
   },
   "username": "Sophie_Auconie"
  },

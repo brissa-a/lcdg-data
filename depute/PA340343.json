@@ -153,134 +153,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Ardèche / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Lucas Margerie"
-   },
-   {
-    "collaborateur": "Mme Pascale Allègre-Engels"
-   },
-   {
-    "collaborateur": "Mme Floriane Peverelli"
-   },
-   {
-    "collaborateur": "Mme Laure Botella"
-   },
-   {
-    "collaborateur": "Mme Souhila Boudali-Khedim"
-   }
-  ],
-  "date_naissance": "1970-11-06",
-  "emails": [
-   {
-    "email": "herve.saulignac2017@gmail.com"
-   },
-   {
-    "email": "herve.saulignac@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 128,
-  "id_an": "340343",
-  "lieu_naissance": "Privas (Ardèche)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Hervé Saulignac",
-  "nom_circo": "Ardèche",
-  "nom_de_famille": "Saulignac",
-  "num_circo": 1,
-  "num_deptmt": "07",
-  "parti_ratt_financier": "Parti socialiste",
-  "place_en_hemicycle": "576",
-  "prenom": "Hervé",
-  "profession": "Cadre (entreprises publiques)",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.hervesaulignac.fr",
-   "https://twitter.com/hsaulignac",
-   "https://fr-fr.facebook.com/herve.saulignac"
-  ],
-  "slug": "herve-saulignac",
   "twitter": "hsaulignac",
-  "twitter_created_at": "2009-10-18T19:18:59",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Oct 18 19:18:59 +0000 2009",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de l'Ardèche - Conseiller Départemental et ancien Président du Conseil General - Membre de la Commission des Lois - #DirectAN",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 556,
-   "follow_request_sent": false,
-   "followers_count": 4929,
-   "following": false,
-   "friends_count": 899,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 83424512,
-   "id_str": "83424512",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 134,
-   "location": "Privas (07)",
-   "name": "Herve Saulignac",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/83424512/1495799303",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/871487835832016896/r5FCnoVZ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/871487835832016896/r5FCnoVZ_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "hsaulignac",
-   "statuses_count": 1396,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Ardèche - Conseiller Départemental et ancien Président du Conseil General - Membre de la Commission des Lois - #DirectAN",
-  "twitter_favourites": 556,
-  "twitter_followers": 4929,
-  "twitter_following": 899,
-  "twitter_id": 83424512,
-  "twitter_listed": 134,
-  "twitter_name": "Herve Saulignac",
-  "twitter_protected": false,
-  "twitter_tweets": 1396,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340343",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340343",
-  "url_nosdeputes": "https://www.nosdeputes.fr/herve-saulignac",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/herve-saulignac/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340343"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Hervé-Saulignac",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340343",
@@ -914,10 +788,10 @@
   "id": "83424512",
   "name": "Herve Saulignac",
   "public_metrics": {
-   "followers_count": 4929,
+   "followers_count": 4930,
    "following_count": 899,
    "listed_count": 134,
-   "tweet_count": 1396
+   "tweet_count": 1397
   },
   "username": "hsaulignac"
  },

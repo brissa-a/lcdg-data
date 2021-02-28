@@ -64,150 +64,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.76.77"
-   },
-   {
-    "adresse": "Sur rendez-vous Téléphone : 0770217376"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Jordan Esnault"
-   },
-   {
-    "collaborateur": "Mme Sandra Stoklosa"
-   },
-   {
-    "collaborateur": "Mme Marie Faverjon"
-   },
-   {
-    "collaborateur": "Mme Anita Royer"
-   }
-  ],
-  "date_naissance": "1980-06-03",
-  "emails": [
-   {
-    "email": "audrey.dufeuschubert@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 63,
-  "id_an": "720046",
-  "lieu_naissance": "Saint-Nazaire (Loire-Atlantique)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Audrey Dufeu",
-  "nom_circo": "Loire-Atlantique",
-  "nom_de_famille": "Dufeu",
-  "num_circo": 8,
-  "num_deptmt": "44",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "522",
-  "prenom": "Audrey",
-  "profession": "Directrice établissement de santé",
-  "sexe": "F",
-  "sites_web": [
-   "http://audreydufeuschubert.fr",
-   "https://twitter.com/audreydufeu",
-   "https://fr-fr.facebook.com/audreydufeuschubert"
-  ],
-  "slug": "audrey-dufeu",
   "twitter": "audreydufeu",
-  "twitter_created_at": "2011-11-17T11:56:42",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Nov 17 11:56:42 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée à l'Assemblée Nationale pour la #circo4408 de la Loire-Atlantique | #LREM #affairessociales | Questionnaire Beauvau en circo : https://t.co/L2d3ydpIGE",
-   "entities": {
-    "description": {
-     "urls": [
-      {
-       "display_url": "cutt.ly/vk55l1d",
-       "expanded_url": "https://cutt.ly/vk55l1d",
-       "indices": [
-        135,
-        158
-       ],
-       "url": "https://t.co/L2d3ydpIGE"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "audreydufeuschubert.fr",
-       "expanded_url": "http://audreydufeuschubert.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/MaqOz7SfgW"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2670,
-   "follow_request_sent": false,
-   "followers_count": 3895,
-   "following": false,
-   "friends_count": 864,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 414717475,
-   "id_str": "414717475",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "Saint-Nazaire, France",
-   "name": "Audrey Dufeu",
-   "notifications": false,
-   "profile_background_color": "BADFCD",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/414717475/1613991148",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1308084378325708810/p66LK8nu_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308084378325708810/p66LK8nu_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "FFF7CC",
-   "profile_text_color": "0C3E53",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "audreydufeu",
-   "statuses_count": 2176,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/MaqOz7SfgW",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée à l'Assemblée Nationale pour la #circo4408 de la Loire-Atlantique | #LREM #affairessociales | Questionnaire Beauvau en circo : https://t.co/L2d3ydpIGE",
-  "twitter_favourites": 2670,
-  "twitter_followers": 3895,
-  "twitter_following": 864,
-  "twitter_id": 414717475,
-  "twitter_listed": 100,
-  "twitter_name": "Audrey Dufeu",
-  "twitter_protected": false,
-  "twitter_tweets": 2176,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720046",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720046",
-  "url_nosdeputes": "https://www.nosdeputes.fr/audrey-dufeu",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/audrey-dufeu/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720046"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Audrey-Dufeu",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720046",
@@ -868,10 +726,10 @@
   "id": "414717475",
   "name": "Audrey Dufeu",
   "public_metrics": {
-   "followers_count": 3897,
+   "followers_count": 3896,
    "following_count": 864,
-   "listed_count": 101,
-   "tweet_count": 2179
+   "listed_count": 100,
+   "tweet_count": 2176
   },
   "username": "audreydufeu"
  },

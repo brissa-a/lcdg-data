@@ -183,141 +183,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Castelnau-sur-Gupie / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sarah El Kaid"
-   },
-   {
-    "collaborateur": "Mme Paola Emerit"
-   },
-   {
-    "collaborateur": "Mme Oumaïma Bahhate"
-   }
-  ],
-  "date_naissance": "1979-05-17",
-  "emails": [
-   {
-    "email": "a.freschi@outlook.fr"
-   },
-   {
-    "email": "alexandre.freschi@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 389,
-  "id_an": "720030",
-  "lieu_naissance": "Marmande (Lot-et-Garonne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Alexandre Freschi",
-  "nom_circo": "Lot-et-Garonne",
-  "nom_de_famille": "Freschi",
-  "num_circo": 2,
-  "num_deptmt": "47",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "474",
-  "prenom": "Alexandre",
-  "profession": "Dirigeant de société",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/AVFreschi",
-   "http://www.alexandre-freschi.fr",
-   "https://fr-fr.facebook.com/Alexandre.V.Freschi"
-  ],
-  "slug": "alexandre-freschi",
   "twitter": "AVFreschi",
-  "twitter_created_at": "2014-06-15T08:11:27",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Jun 15 08:11:27 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🇫🇷 Député de Lot-et-Garonne 🇫🇷 \n#TerritoiresdeProgres I @TerresDeProgres\n#LaREM",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "alexandre-freschi.fr",
-       "expanded_url": "http://www.alexandre-freschi.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/KBVEW1ZkVB"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8170,
-   "follow_request_sent": false,
-   "followers_count": 5138,
-   "following": false,
-   "friends_count": 880,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 2568594594,
-   "id_str": "2568594594",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 106,
-   "location": "Marmande",
-   "name": "Alexandre Freschi",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2568594594/1578501173",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1214945163279290369/QZ08lpqr_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214945163279290369/QZ08lpqr_normal.jpg",
-   "profile_link_color": "888899",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "AVFreschi",
-   "statuses_count": 2639,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/KBVEW1ZkVB",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🇫🇷 Député de Lot-et-Garonne 🇫🇷 #TerritoiresdeProgres I @TerresDeProgres #LaREM",
-  "twitter_favourites": 8170,
-  "twitter_followers": 5138,
-  "twitter_following": 880,
-  "twitter_id": 2568594594,
-  "twitter_listed": 106,
-  "twitter_name": "Alexandre Freschi",
-  "twitter_protected": false,
-  "twitter_tweets": 2639,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720030",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720030",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alexandre-freschi",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alexandre-freschi/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720030"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alexandre-Freschi",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720030",
@@ -898,10 +765,10 @@
   "id": "2568594594",
   "name": "Alexandre Freschi",
   "public_metrics": {
-   "followers_count": 5140,
-   "following_count": 885,
+   "followers_count": 5144,
+   "following_count": 884,
    "listed_count": 105,
-   "tweet_count": 2643
+   "tweet_count": 2649
   },
   "username": "AVFreschi"
  },

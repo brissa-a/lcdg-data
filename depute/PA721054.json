@@ -55,147 +55,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 66 Rue Victor Le Vigoureux 97410 Saint-Pierre"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Villes solidaires / Ccommunauté intercommunale / membre"
-   },
-   {
-    "mandat": "Saint-Pierre (974) / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Willy Araboux"
-   },
-   {
-    "collaborateur": "M. Ludovic Malet"
-   },
-   {
-    "collaborateur": "M. Gilles Waro"
-   },
-   {
-    "collaborateur": "M. Pierre-Henri Fourgous"
-   }
-  ],
-  "date_naissance": "1964-10-15",
-  "emails": [
-   {
-    "email": "david.lorion@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 204,
-  "id_an": "721054",
-  "lieu_naissance": "Saint-Pierre (Réunion)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "David Lorion",
-  "nom_circo": "Réunion",
-  "nom_de_famille": "Lorion",
-  "num_circo": 4,
-  "num_deptmt": "974",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "110",
-  "prenom": "David",
-  "profession": "Maître de conférences à l'Université",
-  "sexe": "H",
-  "sites_web": [
-   "http://davidlorion.fr",
-   "https://twitter.com/david_lorion",
-   "https://www.facebook.com/davidlorionofficiel"
-  ],
-  "slug": "david-lorion",
   "twitter": "david_lorion",
-  "twitter_created_at": "2015-10-29T19:55:08",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Oct 29 19:55:08 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de La Réunion. Docteur agrégé de géographie. Membre de la Commission du Développement durable. Co-Président du Groupe d'études sur l'Economie maritime.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/davidlorionoff…",
-       "expanded_url": "https://www.facebook.com/davidlorionofficiel/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/SCH6NwwiOm"
-      }
-     ]
-    }
-   },
-   "favourites_count": 480,
-   "follow_request_sent": false,
-   "followers_count": 1801,
-   "following": false,
-   "friends_count": 466,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 4069983213,
-   "id_str": "4069983213",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 79,
-   "location": "Saint-Pierre, La Réunion",
-   "name": "David Lorion",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4069983213/1580301423",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1222498885819674626/ArjKeoRi_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222498885819674626/ArjKeoRi_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "David_Lorion",
-   "statuses_count": 1890,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/SCH6NwwiOm",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de La Réunion. Docteur agrégé de géographie. Membre de la Commission du Développement durable. Co-Président du Groupe d'études sur l'Economie maritime.",
-  "twitter_favourites": 480,
-  "twitter_followers": 1801,
-  "twitter_following": 466,
-  "twitter_id": 4069983213,
-  "twitter_listed": 79,
-  "twitter_name": "David Lorion",
-  "twitter_protected": false,
-  "twitter_tweets": 1890,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721054",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721054",
-  "url_nosdeputes": "https://www.nosdeputes.fr/david-lorion",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/david-lorion/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721054"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/David-Lorion",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721054",
@@ -488,10 +349,10 @@
   "id": "4069983213",
   "name": "David Lorion",
   "public_metrics": {
-   "followers_count": 1802,
+   "followers_count": 1806,
    "following_count": 466,
    "listed_count": 79,
-   "tweet_count": 1890
+   "tweet_count": 1891
   },
   "username": "David_Lorion"
  },

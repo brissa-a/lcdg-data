@@ -92,147 +92,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Saint-Symphorien-sur-Coise / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Monts du Lyonnais / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Vincent Quintana"
-   },
-   {
-    "collaborateur": "Mme Sylvie Thouvenin"
-   },
-   {
-    "collaborateur": "M. Mathieu Girandola"
-   },
-   {
-    "collaborateur": "M. Matthieu Deglas"
-   },
-   {
-    "collaborateur": "Mme Fabienne Tirtiaux"
-   }
-  ],
-  "date_naissance": "1981-05-21",
-  "emails": [
-   {
-    "email": "thomas.gassilloud@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 214,
-  "id_an": "722358",
-  "lieu_naissance": "Saint-Symphorien-sur-Coise (Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Thomas Gassilloud",
-  "nom_circo": "Rhône",
-  "nom_de_famille": "Gassilloud",
-  "num_circo": 10,
-  "num_deptmt": "69",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "145",
-  "prenom": "Thomas",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.gassilloud.fr",
-   "https://twitter.com/tgassilloud",
-   "https://fr-fr.facebook.com/ThomasGassilloud"
-  ],
-  "slug": "thomas-gassilloud",
   "twitter": "tgassilloud",
-  "twitter_created_at": "2010-10-24T18:54:42",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Oct 24 18:54:42 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Papa x3. Chef d'entreprise. Député du #Rhône.\n26e promo @ecoledeguerre. 72e session @IHEDN.   \n#Défense #numérique #Territoires",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "gassilloud.fr",
-       "expanded_url": "http://www.gassilloud.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/yclaQXyOjC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4420,
-   "follow_request_sent": false,
-   "followers_count": 3865,
-   "following": false,
-   "friends_count": 1493,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 207187853,
-   "id_str": "207187853",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 185,
-   "location": "Monts du Lyonnais",
-   "name": "Thomas Gassilloud",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/207187853/1582048360",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/863762719304024068/9F5DUSYv_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/863762719304024068/9F5DUSYv_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "tgassilloud",
-   "statuses_count": 16238,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/yclaQXyOjC",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Papa x3. Chef d'entreprise. Député du #Rhône. 26e promo @ecoledeguerre. 72e session @IHEDN. #Défense #numérique #Territoires",
-  "twitter_favourites": 4420,
-  "twitter_followers": 3865,
-  "twitter_following": 1493,
-  "twitter_id": 207187853,
-  "twitter_listed": 185,
-  "twitter_name": "Thomas Gassilloud",
-  "twitter_protected": false,
-  "twitter_tweets": 16238,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722358",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722358",
-  "url_nosdeputes": "https://www.nosdeputes.fr/thomas-gassilloud",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/thomas-gassilloud/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722358"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Thomas-Gassilloud",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722358",
@@ -560,10 +421,10 @@
   "id": "207187853",
   "name": "Thomas Gassilloud",
   "public_metrics": {
-   "followers_count": 3865,
+   "followers_count": 3876,
    "following_count": 1493,
    "listed_count": 185,
-   "tweet_count": 16242
+   "tweet_count": 16248
   },
   "username": "tgassilloud"
  },

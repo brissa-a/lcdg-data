@@ -191,141 +191,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permamence parlementaire 40 Avenue des Cévennes 30260 Quissac Téléphone : 04 66 73 15 15"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Gard / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Laëtitia Ferrero"
-   },
-   {
-    "collaborateur": "M. Guillaume Ramon"
-   },
-   {
-    "collaborateur": "Mme Guenaelle Thiery"
-   }
-  ],
-  "date_naissance": "1967-02-28",
-  "emails": [
-   {
-    "email": "olivier.gaillard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 228,
-  "id_an": "719480",
-  "lieu_naissance": "Nîmes (Gard)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Olivier Gaillard",
-  "nom_circo": "Gard",
-  "nom_de_famille": "Gaillard",
-  "num_circo": 5,
-  "num_deptmt": "30",
-  "parti_ratt_financier": "Non déclaré(s)",
-  "place_en_hemicycle": "242",
-  "prenom": "Olivier",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.oliviergaillard.fr",
-   "https://twitter.com/OliveGaillard30",
-   "https://fr-fr.facebook.com/profile.php?id=100010310914944"
-  ],
-  "slug": "olivier-gaillard",
   "twitter": "OliveGaillard30",
-  "twitter_created_at": "2017-05-17T12:25:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 17 12:25:51 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 5ème circonscription du Gard",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "oliviergaillard.fr",
-       "expanded_url": "http://www.oliviergaillard.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/FDXNl0hSmP"
-      }
-     ]
-    }
-   },
-   "favourites_count": 177,
-   "follow_request_sent": false,
-   "followers_count": 4287,
-   "following": false,
-   "friends_count": 204,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 864819251496046600,
-   "id_str": "864819251496046592",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 104,
-   "location": "Sauve, France",
-   "name": "Olivier Gaillard",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864819251496046592/1498055617",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1185188766153150465/moNK4a6l_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185188766153150465/moNK4a6l_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "OliveGaillard30",
-   "statuses_count": 892,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/FDXNl0hSmP",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la 5ème circonscription du Gard",
-  "twitter_favourites": 177,
-  "twitter_followers": 4287,
-  "twitter_following": 204,
-  "twitter_id": 864819251496046600,
-  "twitter_listed": 104,
-  "twitter_name": "Olivier Gaillard",
-  "twitter_protected": false,
-  "twitter_tweets": 892,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719480",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719480",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-gaillard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-gaillard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719480"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Gaillard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719480",
@@ -569,7 +436,7 @@
   "id": "864819251496046592",
   "name": "Olivier Gaillard",
   "public_metrics": {
-   "followers_count": 4291,
+   "followers_count": 4300,
    "following_count": 204,
    "listed_count": 104,
    "tweet_count": 892

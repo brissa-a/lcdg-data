@@ -70,125 +70,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 20 Bis Place du Maréchal Leclerc 59000 Lille"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "18/01/2020 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Habibath Adjaho"
-   },
-   {
-    "collaborateur": "Mme Audrey Hentges"
-   },
-   {
-    "collaborateur": "M. Michel Vanwarreghem"
-   },
-   {
-    "collaborateur": "M. Éric Van Roy"
-   }
-  ],
-  "date_naissance": "1970-04-10",
-  "emails": [
-   {
-    "email": "florence.morlighem@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 610,
-  "id_an": "720516",
-  "lieu_naissance": "Roubaix (Nord)",
-  "mandat_debut": "2020-01-18",
-  "nb_mandats": 1,
-  "nom": "Florence Morlighem",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Morlighem",
-  "num_circo": 11,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "570",
-  "prenom": "Florence",
-  "profession": "Syndic de copropriété",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/FMorlighem"
-  ],
-  "slug": "florence-morlighem",
   "twitter": "FMorlighem",
-  "twitter_created_at": "2017-05-08T10:11:52",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 08 10:11:52 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée du Nord 5911 apparentée @Larem_AN Membre de la commission @AN_Defense                     #Lille sud-ouest #Lomme #Armentières",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 24502,
-   "follow_request_sent": false,
-   "followers_count": 1771,
-   "following": false,
-   "friends_count": 1583,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 861524040837734400,
-   "id_str": "861524040837734400",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 22,
-   "location": "Lille, France",
-   "name": "Florence Morlighem",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/861524040837734400/1612555802",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1239655079365541891/cMwte0LB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239655079365541891/cMwte0LB_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "FMorlighem",
-   "statuses_count": 4144,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée du Nord 5911 apparentée @Larem_AN Membre de la commission @AN_Defense #Lille sud-ouest #Lomme #Armentières",
-  "twitter_favourites": 24502,
-  "twitter_followers": 1771,
-  "twitter_following": 1583,
-  "twitter_id": 861524040837734400,
-  "twitter_listed": 22,
-  "twitter_name": "Florence Morlighem",
-  "twitter_protected": false,
-  "twitter_tweets": 4144,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720516",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720516",
-  "url_nosdeputes": "https://www.nosdeputes.fr/florence-morlighem",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/florence-morlighem/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720516"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Florence-Morlighem",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720516",
@@ -603,10 +486,10 @@
   "id": "861524040837734400",
   "name": "Florence Morlighem",
   "public_metrics": {
-   "followers_count": 1770,
-   "following_count": 1583,
-   "listed_count": 23,
-   "tweet_count": 4149
+   "followers_count": 1774,
+   "following_count": 1588,
+   "listed_count": 22,
+   "tweet_count": 4155
   },
   "username": "FMorlighem"
  },

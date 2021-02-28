@@ -66,176 +66,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.01.59"
-   },
-   {
-    "adresse": "Permanence parlementaire 18 Rue d'Estienne d'Orves 34500 Béziers Téléphone : 04 67 76 93 11"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Grégoire Annet"
-   },
-   {
-    "collaborateur": "Mme Séverine Nicolas"
-   },
-   {
-    "collaborateur": "Mme Philippine Rambaud"
-   }
-  ],
-  "date_naissance": "1968-08-15",
-  "emails": [
-   {
-    "email": "emmanuelle.menard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 88,
-  "id_an": "719608",
-  "lieu_naissance": "Lille (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Emmanuelle Ménard",
-  "nom_circo": "Hérault",
-  "nom_de_famille": "Ménard",
-  "num_circo": 6,
-  "num_deptmt": "34",
-  "parti_ratt_financier": "Rassemblement national",
-  "place_en_hemicycle": "68",
-  "prenom": "Emmanuelle",
-  "profession": "Journaliste et autre média",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.menard34.fr",
-   "https://twitter.com/emenard34"
-  ],
-  "slug": "emmanuelle-menard",
   "twitter": "emenard34",
-  "twitter_created_at": "2017-07-07T09:09:02",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jul 07 09:09:02 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l'Hérault",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 2,
-   "follow_request_sent": false,
-   "followers_count": 8522,
-   "following": false,
-   "friends_count": 30,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 883251500138598400,
-   "id_str": "883251500138598400",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 62,
-   "location": "Béziers, France",
-   "name": "Emmanuelle Ménard",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/883253321280217088/TFftvR69_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/883253321280217088/TFftvR69_normal.jpg",
-   "profile_link_color": "F58EA8",
-   "profile_location": null,
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "emenard34",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Feb 23 19:48:33 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "twitter.com/i/web/status/1…",
-       "expanded_url": "https://twitter.com/i/web/status/1364301138921676811",
-       "indices": [
-        116,
-        139
-       ],
-       "url": "https://t.co/u4LlNBg8E3"
-      }
-     ],
-     "user_mentions": [
-      {
-       "id": 526194545,
-       "id_str": "526194545",
-       "indices": [
-        34,
-        48
-       ],
-       "name": "Béziers Angels",
-       "screen_name": "BeziersAngels"
-      }
-     ]
-    },
-    "favorite_count": 14,
-    "favorited": false,
-    "geo": null,
-    "id": 1364301138921676800,
-    "id_str": "1364301138921676811",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": true,
-    "lang": "fr",
-    "place": null,
-    "possibly_sensitive": false,
-    "quoted_status_id": 1364295010909323300,
-    "quoted_status_id_str": "1364295010909323268",
-    "retweet_count": 4,
-    "retweeted": false,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "text": "Encore un très grand match de nos @BeziersAngels !\nLa finale de la coupe d'Europe est toute proche... Quel bonheur… https://t.co/u4LlNBg8E3",
-    "truncated": true
-   },
-   "statuses_count": 589,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de l'Hérault",
-  "twitter_favourites": 2,
-  "twitter_followers": 8522,
-  "twitter_following": 30,
-  "twitter_id": 883251500138598400,
-  "twitter_listed": 62,
-  "twitter_name": "Emmanuelle Ménard",
-  "twitter_protected": false,
-  "twitter_tweets": 589,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719608",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719608",
-  "url_nosdeputes": "https://www.nosdeputes.fr/emmanuelle-menard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/emmanuelle-menard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719608"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Emmanuelle-Ménard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719608",
@@ -2521,10 +2353,10 @@
   "id": "883251500138598400",
   "name": "Emmanuelle Ménard",
   "public_metrics": {
-   "followers_count": 8522,
+   "followers_count": 8519,
    "following_count": 30,
-   "listed_count": 62,
-   "tweet_count": 590
+   "listed_count": 61,
+   "tweet_count": 593
   },
   "username": "emenard34"
  },

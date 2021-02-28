@@ -56,144 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.48.02"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Clichy-sous-Bois / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Prisca Thévenot"
-   },
-   {
-    "collaborateur": "M. Jérôme Meunier"
-   },
-   {
-    "collaborateur": "Mme Aminata Coulibaly"
-   },
-   {
-    "collaborateur": "Mme Manel Rmidi"
-   },
-   {
-    "collaborateur": "Mme Mariam Cissé"
-   }
-  ],
-  "date_naissance": "1968-05-10",
-  "emails": [
-   {
-    "email": "stephane.teste@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 191,
-  "id_an": "720854",
-  "lieu_naissance": "Aulnay-sous-Bois (Seine-Saint-Denis)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Stéphane Testé",
-  "nom_circo": "Seine-Saint-Denis",
-  "nom_de_famille": "Testé",
-  "num_circo": 12,
-  "num_deptmt": "93",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "380",
-  "prenom": "Stéphane",
-  "profession": "Enseignant du 1er dégré-Directeur d'école",
-  "sexe": "H",
-  "sites_web": [
-   "http://stephaneteste.fr",
-   "https://twitter.com/stephane_teste",
-   "https://fr-fr.facebook.com/LREMStephaneTeste"
-  ],
-  "slug": "stephane-teste",
   "twitter": "stephane_teste",
-  "twitter_created_at": "2018-09-05T09:44:31",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Sep 05 09:44:31 +0000 2018",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LREM 12e circo de #Seinesaintdenis | Vice Président Commission des affaires culturelles et de l’éducation | Président du groupe d'amitié France-Turquie",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "stephaneteste.fr",
-       "expanded_url": "http://stephaneteste.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hVwKL2QRAY"
-      }
-     ]
-    }
-   },
-   "favourites_count": 6193,
-   "follow_request_sent": false,
-   "followers_count": 1809,
-   "following": false,
-   "friends_count": 1154,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1037275272364650500,
-   "id_str": "1037275272364650496",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 43,
-   "location": "Seine-Saint-Denis, Ile-de-France",
-   "name": "Stéphane Testé",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037275272364650496/1612590612",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1037276376431292416/kWkF7d7j_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037276376431292416/kWkF7d7j_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "stephane_teste",
-   "statuses_count": 1543,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hVwKL2QRAY",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député #LREM 12e circo de #Seinesaintdenis | Vice Président Commission des affaires culturelles et de l’éducation | Président du groupe d'amitié France-Turquie",
-  "twitter_favourites": 6193,
-  "twitter_followers": 1809,
-  "twitter_following": 1154,
-  "twitter_id": 1037275272364650500,
-  "twitter_listed": 43,
-  "twitter_name": "Stéphane Testé",
-  "twitter_protected": false,
-  "twitter_tweets": 1543,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720854",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720854",
-  "url_nosdeputes": "https://www.nosdeputes.fr/stephane-teste",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/stephane-teste/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720854"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Stéphane-Testé",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720854",
@@ -1114,10 +978,10 @@
   "id": "1037275272364650496",
   "name": "Stéphane Testé",
   "public_metrics": {
-   "followers_count": 1806,
+   "followers_count": 1810,
    "following_count": 1153,
    "listed_count": 43,
-   "tweet_count": 1543
+   "tweet_count": 1545
   },
   "username": "stephane_teste"
  },

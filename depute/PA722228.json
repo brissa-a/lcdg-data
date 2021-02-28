@@ -282,137 +282,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence 1 Rue du général Leclerc 80250 Jumel Téléphone : 03 22 48 54 17"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Faloise / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Val de Noye / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Françoise Offret"
-   },
-   {
-    "collaborateur": "M. Nicolas Blin"
-   },
-   {
-    "collaborateur": "Mme Catherine Lebegue"
-   },
-   {
-    "collaborateur": "M. Amar Rezki"
-   }
-  ],
-  "date_naissance": "1954-12-04",
-  "emails": [
-   {
-    "email": "permanence@jcleclabart.fr"
-   },
-   {
-    "email": "jean-claude.leclabart@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 432,
-  "id_an": "722228",
-  "lieu_naissance": "Lawarde-Mauger-l'Hortoy (Somme)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-Claude Leclabart",
-  "nom_circo": "Somme",
-  "nom_de_famille": "Leclabart",
-  "num_circo": 4,
-  "num_deptmt": "80",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "532",
-  "prenom": "Jean-Claude",
-  "profession": "Retraité agricole",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jcleclabart.fr",
-   "https://twitter.com/JLeclabart",
-   "https://fr-fr.facebook.com/jeanclaudeleclabart2017"
-  ],
-  "slug": "jean-claude-leclabart",
   "twitter": "JLeclabart",
-  "twitter_created_at": "2017-05-16T09:22:28",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 09:22:28 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la Somme (4) • Commission @AN_DevDur • Membre @AN_CollTerr #agriculture #ruralité #territoires",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 3041,
-   "follow_request_sent": false,
-   "followers_count": 5466,
-   "following": false,
-   "friends_count": 840,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 864410712487206900,
-   "id_str": "864410712487206916",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 103,
-   "location": "Jumel, France",
-   "name": "Jean-Claude Leclabart",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864410712487206916/1569966312",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1179150286084030464/L_sCWOQ9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179150286084030464/L_sCWOQ9_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "JLeclabart",
-   "statuses_count": 3261,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Somme (4) • Commission @AN_DevDur • Membre @AN_CollTerr #agriculture #ruralité #territoires",
-  "twitter_favourites": 3041,
-  "twitter_followers": 5466,
-  "twitter_following": 840,
-  "twitter_id": 864410712487206900,
-  "twitter_listed": 103,
-  "twitter_name": "Jean-Claude Leclabart",
-  "twitter_protected": false,
-  "twitter_tweets": 3261,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722228",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722228",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-claude-leclabart",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-claude-leclabart/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722228"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Claude-Leclabart",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722228",
@@ -1513,10 +1384,10 @@
   "id": "864410712487206916",
   "name": "Jean-Claude Leclabart",
   "public_metrics": {
-   "followers_count": 5469,
+   "followers_count": 5484,
    "following_count": 840,
    "listed_count": 104,
-   "tweet_count": 3263
+   "tweet_count": 3262
   },
   "username": "JLeclabart"
  },

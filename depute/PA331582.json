@@ -176,155 +176,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 33 Rue Gambetta 28200 Châteaudun Téléphone : 02 37 45 28 24"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Grand Chateaudun / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Cloyes-les-Trois-Rivières / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Christiane Bonsergent"
-   },
-   {
-    "collaborateur": "Mme Maryse David"
-   },
-   {
-    "collaborateur": "Mme Mélanie Lefebvre"
-   },
-   {
-    "collaborateur": "M. Serge Cornette"
-   },
-   {
-    "collaborateur": "M. Clément Haquet"
-   }
-  ],
-  "date_naissance": "1958-02-03",
-  "emails": [
-   {
-    "email": "philippe.vigier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 116,
-  "id_an": "331582",
-  "lieu_naissance": "Valence (Drôme)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Philippe Vigier",
-  "nom_circo": "Eure-et-Loir",
-  "nom_de_famille": "Vigier",
-  "num_circo": 4,
-  "num_deptmt": "28",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "186",
-  "prenom": "Philippe",
-  "profession": "Biologiste A.I.H.P.",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.philippevigier.com",
-   "https://twitter.com/VigierPhilippe"
-  ],
-  "slug": "philippe-vigier",
   "twitter": "VigierPhilippe",
-  "twitter_created_at": "2011-08-31T15:12:23",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Aug 31 15:12:23 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "📚Député de la 4ème circonscription d'Eure-&-Loir 📍Elu municipal Commune de Cloyes-les-Trois-Rivières 🔗Groupe de l'Union des Centres 🔬Biologiste",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "philippevigier.com",
-       "expanded_url": "http://www.philippevigier.com/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/URDdsjZ8wS"
-      }
-     ]
-    }
-   },
-   "favourites_count": 803,
-   "follow_request_sent": false,
-   "followers_count": 11877,
-   "following": false,
-   "friends_count": 4412,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 365505352,
-   "id_str": "365505352",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 303,
-   "location": "",
-   "name": "Philippe Vigier",
-   "notifications": false,
-   "profile_background_color": "9AE4E8",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/365505352/1434105031",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/767970242559676420/i2ehjF-b_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/767970242559676420/i2ehjF-b_normal.jpg",
-   "profile_link_color": "3B94D9",
-   "profile_sidebar_border_color": "BDDCAD",
-   "profile_sidebar_fill_color": "DDFFCC",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "VigierPhilippe",
-   "statuses_count": 5897,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/URDdsjZ8wS",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "📚Député de la 4ème circonscription d'Eure-&-Loir 📍Elu municipal Commune de Cloyes-les-Trois-Rivières 🔗Groupe de l'Union des Centres 🔬Biologiste",
-  "twitter_favourites": 803,
-  "twitter_followers": 11877,
-  "twitter_following": 4412,
-  "twitter_id": 365505352,
-  "twitter_listed": 303,
-  "twitter_name": "Philippe Vigier",
-  "twitter_protected": false,
-  "twitter_tweets": 5897,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331582",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331582",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-vigier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-vigier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331582"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Vigier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA331582",
@@ -1072,10 +925,10 @@
   "id": "365505352",
   "name": "Philippe Vigier",
   "public_metrics": {
-   "followers_count": 11878,
-   "following_count": 4412,
+   "followers_count": 11883,
+   "following_count": 4413,
    "listed_count": 303,
-   "tweet_count": 5898
+   "tweet_count": 5901
   },
   "username": "VigierPhilippe"
  },

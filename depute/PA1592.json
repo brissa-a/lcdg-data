@@ -224,159 +224,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 17 Place Henri Dunant 64150 Mourenx Téléphone : 05 59 40 88 65"
-   },
-   {
-    "adresse": "9 Rue des Jacobins 64300 Orthez Téléphone : 05 59 40 88 65"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Sarpourenx / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Lindsey Deary"
-   },
-   {
-    "collaborateur": "Mme Amandine Painset"
-   },
-   {
-    "collaborateur": "M. David Duizidou"
-   },
-   {
-    "collaborateur": "Mme Sixtine Aumont"
-   }
-  ],
-  "date_naissance": "1961-03-16",
-  "emails": [
-   {
-    "email": "david.habib@assemblee-nationale.fr"
-   },
-   {
-    "email": "dhabib.jurancon@orange.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 264,
-  "id_an": "1592",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "David Habib",
-  "nom_circo": "Pyrénées-Atlantiques",
-  "nom_de_famille": "Habib",
-  "num_circo": 3,
-  "num_deptmt": "64",
-  "parti_ratt_financier": "Parti socialiste",
-  "place_en_hemicycle": "506",
-  "prenom": "David",
-  "profession": "Cadre",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.david-habib.fr",
-   "https://twitter.com/DavidDhabib",
-   "https://fr-fr.facebook.com/DavidHabib64"
-  ],
-  "slug": "david-habib",
   "twitter": "DavidDhabib",
-  "twitter_created_at": "2016-01-05T11:07:14",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jan 05 11:07:14 +0000 2016",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député PS des Pyrénées-Atlantiques | Vice-président de l'Assemblée nationale | Secrétaire national du PS en charge de la Sécurité",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "david-habib.fr",
-       "expanded_url": "http://www.david-habib.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/21BFGXfc9M"
-      }
-     ]
-    }
-   },
-   "favourites_count": 770,
-   "follow_request_sent": false,
-   "followers_count": 2858,
-   "following": false,
-   "friends_count": 3399,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 4714098677,
-   "id_str": "4714098677",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 91,
-   "location": "Pyrénées-Atlantiques, France",
-   "name": "David Habib",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4714098677/1613151212",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/882236427404288001/TR4LhC9T_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/882236427404288001/TR4LhC9T_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DavidDhabib",
-   "statuses_count": 1046,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/21BFGXfc9M",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député PS des Pyrénées-Atlantiques | Vice-président de l'Assemblée nationale | Secrétaire national du PS en charge de la Sécurité",
-  "twitter_favourites": 770,
-  "twitter_followers": 2858,
-  "twitter_following": 3399,
-  "twitter_id": 4714098677,
-  "twitter_listed": 91,
-  "twitter_name": "David Habib",
-  "twitter_protected": false,
-  "twitter_tweets": 1046,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1592",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1592",
-  "url_nosdeputes": "https://www.nosdeputes.fr/david-habib",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/david-habib/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1592"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/David-Habib",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1592",
@@ -1046,9 +895,9 @@
   "id": "4714098677",
   "name": "David Habib",
   "public_metrics": {
-   "followers_count": 2859,
-   "following_count": 3401,
-   "listed_count": 91,
+   "followers_count": 2868,
+   "following_count": 3410,
+   "listed_count": 92,
    "tweet_count": 1046
   },
   "username": "DavidDhabib"

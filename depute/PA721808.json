@@ -168,130 +168,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 18 Rue du Général de Gaulle 89100 Sens Téléphone : 0386645728"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Yonne / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Steve Campagne"
-   },
-   {
-    "collaborateur": "Mme Océane Bonnichon"
-   },
-   {
-    "collaborateur": "Mme Aurore Atchia"
-   },
-   {
-    "collaborateur": "M. Léo Barruol"
-   }
-  ],
-  "date_naissance": "1967-08-31",
-  "emails": [
-   {
-    "email": "michele.crouzet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 115,
-  "id_an": "721808",
-  "lieu_naissance": "Lormes (Nièvre)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Michèle Crouzet",
-  "nom_circo": "Yonne",
-  "nom_de_famille": "Crouzet",
-  "num_circo": 3,
-  "num_deptmt": "89",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "200",
-  "prenom": "Michèle",
-  "profession": "Co-gérante d'entreprise en disponibilité",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/michelecrouzet",
-   "https://fr-fr.facebook.com/Crouzet2017"
-  ],
-  "slug": "michele-crouzet",
   "twitter": "michelecrouzet",
-  "twitter_created_at": "2017-05-22T20:48:42",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 22 20:48:42 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la 3ème circonscription de l'Yonne à l'@AssembleeNat •  Membre de @AN_AfEco • Conseillère départementale @Departement89 • #Présidente 🇫🇷 - 🇻🇪",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 718,
-   "follow_request_sent": false,
-   "followers_count": 3839,
-   "following": false,
-   "friends_count": 934,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 866757734875750400,
-   "id_str": "866757734875750400",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 101,
-   "location": "Yonne, Bourgogne",
-   "name": "Michèle Crouzet",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866757734875750400/1505316970",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/907991954067259398/Ye6qLplw_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/907991954067259398/Ye6qLplw_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "MicheleCrouzet",
-   "statuses_count": 741,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 3ème circonscription de l'Yonne à l'@AssembleeNat • Membre de @AN_AfEco • Conseillère départementale @Departement89 • #Présidente 🇫🇷 - 🇻🇪",
-  "twitter_favourites": 718,
-  "twitter_followers": 3839,
-  "twitter_following": 934,
-  "twitter_id": 866757734875750400,
-  "twitter_listed": 101,
-  "twitter_name": "Michèle Crouzet",
-  "twitter_protected": false,
-  "twitter_tweets": 741,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721808",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721808",
-  "url_nosdeputes": "https://www.nosdeputes.fr/michele-crouzet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/michele-crouzet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721808"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Michèle-Crouzet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721808",
@@ -992,9 +870,9 @@
   "id": "866757734875750400",
   "name": "Michèle Crouzet",
   "public_metrics": {
-   "followers_count": 3840,
+   "followers_count": 3843,
    "following_count": 934,
-   "listed_count": 101,
+   "listed_count": 100,
    "tweet_count": 741
   },
   "username": "MicheleCrouzet"

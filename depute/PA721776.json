@@ -54,138 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Versailles / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aude Porchet"
-   },
-   {
-    "collaborateur": "M. Antoine Beis"
-   },
-   {
-    "collaborateur": "Mme Valentine Brodu"
-   }
-  ],
-  "date_naissance": "1970-08-20",
-  "emails": [
-   {
-    "email": "didier.baichere@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 488,
-  "id_an": "721776",
-  "lieu_naissance": "Limoux (Aude)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Didier Baichère",
-  "nom_circo": "Yvelines",
-  "nom_de_famille": "Baichère",
-  "num_circo": 1,
-  "num_deptmt": "78",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "321",
-  "prenom": "Didier",
-  "profession": "Directeur des Ressources Humaines",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.didierbaichere.fr",
-   "https://twitter.com/dbaichere",
-   "https://fr-fr.facebook.com/dbaichere78"
-  ],
-  "slug": "didier-baichere",
   "twitter": "dbaichere",
-  "twitter_created_at": "2009-02-28T13:42:12",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Feb 28 13:42:12 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "🇫🇷 Député des Yvelines #laRépubliqueEnMarche #emploi #éducation #inclusionÉconomique #reconnaissanceFaciale #numérique #écologie #circo7801 #LaREM 🇪🇺",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "didierbaichere.fr",
-       "expanded_url": "https://www.didierbaichere.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/hr8BtFvYG7"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2432,
-   "follow_request_sent": false,
-   "followers_count": 9541,
-   "following": false,
-   "friends_count": 4980,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 22255651,
-   "id_str": "22255651",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 567,
-   "location": "Versailles, France",
-   "name": "Didier BAICHERE",
-   "notifications": false,
-   "profile_background_color": "084766",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/22255651/1469537931",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1334229291438125063/E7Eca2cc_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334229291438125063/E7Eca2cc_normal.jpg",
-   "profile_link_color": "3F3070",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "12291F",
-   "profile_text_color": "547B61",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "dbaichere",
-   "statuses_count": 23652,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/hr8BtFvYG7",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "🇫🇷 Député des Yvelines #laRépubliqueEnMarche #emploi #éducation #inclusionÉconomique #reconnaissanceFaciale #numérique #écologie #circo7801 #LaREM 🇪🇺",
-  "twitter_favourites": 2432,
-  "twitter_followers": 9541,
-  "twitter_following": 4980,
-  "twitter_id": 22255651,
-  "twitter_listed": 567,
-  "twitter_name": "Didier BAICHERE",
-  "twitter_protected": false,
-  "twitter_tweets": 23652,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721776",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721776",
-  "url_nosdeputes": "https://www.nosdeputes.fr/didier-baichere",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/didier-baichere/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721776"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Didier-Baichère",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721776",
@@ -716,10 +586,10 @@
   "id": "22255651",
   "name": "Didier BAICHERE",
   "public_metrics": {
-   "followers_count": 9546,
-   "following_count": 4980,
+   "followers_count": 9544,
+   "following_count": 4981,
    "listed_count": 567,
-   "tweet_count": 23659
+   "tweet_count": 23679
   },
   "username": "dbaichere"
  },

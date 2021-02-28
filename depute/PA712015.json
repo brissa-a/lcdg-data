@@ -148,155 +148,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 19 Rue du Gouvernement 02100 Saint-Quentin"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/03/2016 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Val de l'Oise / Communauté de communes / membre"
-   },
-   {
-    "mandat": "Itancourt / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Constance Foiret"
-   },
-   {
-    "collaborateur": "M. Charles-Edouard Roehrich"
-   },
-   {
-    "collaborateur": "M. Adrien Damien"
-   },
-   {
-    "collaborateur": "Mme Christelle Gomes"
-   },
-   {
-    "collaborateur": "M. Kévin Coquelet"
-   }
-  ],
-  "date_naissance": "1985-05-21",
-  "emails": [
-   {
-    "email": "julien.dive@assemblee-nationale.fr"
-   },
-   {
-    "email": "julien.dive-permanence@orange.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 125,
-  "id_an": "712015",
-  "lieu_naissance": "Saint-Quentin (Aisne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Julien Dive",
-  "nom_circo": "Aisne",
-  "nom_de_famille": "Dive",
-  "num_circo": 2,
-  "num_deptmt": "02",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "53",
-  "prenom": "Julien",
-  "profession": "Chef de projet dans l'industrie",
-  "sexe": "H",
-  "sites_web": [
-   "http://julien-dive.tv",
-   "https://twitter.com/juliendive"
-  ],
-  "slug": "julien-dive",
   "twitter": "juliendive",
-  "twitter_created_at": "2010-01-19T23:23:01",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jan 19 23:23:01 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l'#Aisne, Vice-président @AN_afeco @AssembleeNat | élu municipal & ex-Maire d'#Itancourt | SecGenAdj @lesRepublicains | VP Écureuils d’Itancourt ⚽️🐿",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "julien-dive.tv",
-       "expanded_url": "http://julien-dive.tv",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/w4Ls8Hfhnk"
-      }
-     ]
-    }
-   },
-   "favourites_count": 13799,
-   "follow_request_sent": false,
-   "followers_count": 6817,
-   "following": false,
-   "friends_count": 1225,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 106557131,
-   "id_str": "106557131",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 177,
-   "location": "Itancourt, StQuentin, Picardie",
-   "name": "Julien DIVE",
-   "notifications": false,
-   "profile_background_color": "352726",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/106557131/1514915103",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1228097396086841345/9Aqqw-rF_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228097396086841345/9Aqqw-rF_normal.jpg",
-   "profile_link_color": "D02B55",
-   "profile_sidebar_border_color": "829D5E",
-   "profile_sidebar_fill_color": "99CC33",
-   "profile_text_color": "3E4415",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JulienDive",
-   "statuses_count": 11976,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/w4Ls8Hfhnk",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'#Aisne, Vice-président @AN_afeco @AssembleeNat | élu municipal & ex-Maire d'#Itancourt | SecGenAdj @lesRepublicains | VP Écureuils d’Itancourt ⚽️🐿",
-  "twitter_favourites": 13799,
-  "twitter_followers": 6817,
-  "twitter_following": 1225,
-  "twitter_id": 106557131,
-  "twitter_listed": 177,
-  "twitter_name": "Julien DIVE",
-  "twitter_protected": false,
-  "twitter_tweets": 11976,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA712015",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA712015",
-  "url_nosdeputes": "https://www.nosdeputes.fr/julien-dive",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/julien-dive/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA712015"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Julien-Dive",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA712015",
@@ -827,10 +680,10 @@
   "id": "106557131",
   "name": "Julien DIVE",
   "public_metrics": {
-   "followers_count": 6829,
-   "following_count": 1225,
+   "followers_count": 6833,
+   "following_count": 1226,
    "listed_count": 176,
-   "tweet_count": 11980
+   "tweet_count": 11985
   },
   "username": "JulienDive"
  },

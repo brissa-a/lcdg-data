@@ -205,149 +205,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 12 Avenue du Commandant Bernier 79500 Melle Téléphone : 05 49 29 18 19"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 21/07/2012 / nomination comme membre du gouvernement"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2007 / 16/06/2012 / nomination comme membre du gouvernement"
-   },
-   {
-    "mandat": "03/08/2013 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marylène Simonnet"
-   },
-   {
-    "collaborateur": "M. Etienne Juin"
-   },
-   {
-    "collaborateur": "Mme Nina Géron"
-   },
-   {
-    "collaborateur": "M. Mathieu Havsali"
-   }
-  ],
-  "date_naissance": "1973-03-23",
-  "emails": [
-   {
-    "email": "delphine.batho@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "NI",
-  "id": 500,
-  "id_an": "335999",
-  "lieu_naissance": "Paris 12ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Delphine Batho",
-  "nom_circo": "Deux-Sèvres",
-  "nom_de_famille": "Batho",
-  "num_circo": 2,
-  "num_deptmt": "79",
-  "parti_ratt_financier": "Europe Écologie Les Verts",
-  "place_en_hemicycle": "636",
-  "prenom": "Delphine",
-  "profession": "Cadre territorial",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.generationecologie.fr",
-   "https://twitter.com/delphinebatho",
-   "https://fr-fr.facebook.com/DelphineBatho"
-  ],
-  "slug": "delphine-batho",
   "twitter": "delphinebatho",
-  "twitter_created_at": "2011-03-10T09:08:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Mar 10 09:08:11 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée des Deux-Sèvres, Présidente de Génération Écologie, Ex-Ministre de l'Ecologie, du Développement durable et de l'Energie. #UrgenceEcologie @UEcologie",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "generationecologie.fr",
-       "expanded_url": "http://www.generationecologie.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/o2H5Zbumxc"
-      }
-     ]
-    }
-   },
-   "favourites_count": 9600,
-   "follow_request_sent": false,
-   "followers_count": 69996,
-   "following": false,
-   "friends_count": 3396,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 263572557,
-   "id_str": "263572557",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 1243,
-   "location": "",
-   "name": "Delphine Batho",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/263572557/1452963769",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/864186483502194688/zWm5Js6W_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/864186483502194688/zWm5Js6W_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "delphinebatho",
-   "statuses_count": 8669,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/o2H5Zbumxc",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée des Deux-Sèvres, Présidente de Génération Écologie, Ex-Ministre de l'Ecologie, du Développement durable et de l'Energie. #UrgenceEcologie @UEcologie",
-  "twitter_favourites": 9600,
-  "twitter_followers": 69996,
-  "twitter_following": 3396,
-  "twitter_id": 263572557,
-  "twitter_listed": 1243,
-  "twitter_name": "Delphine Batho",
-  "twitter_protected": false,
-  "twitter_tweets": 8669,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA335999",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA335999",
-  "url_nosdeputes": "https://www.nosdeputes.fr/delphine-batho",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/delphine-batho/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA335999"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Delphine-Batho",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA335999",
@@ -681,10 +540,10 @@
   "id": "263572557",
   "name": "Delphine Batho",
   "public_metrics": {
-   "followers_count": 70006,
-   "following_count": 3396,
-   "listed_count": 1244,
-   "tweet_count": 8671
+   "followers_count": 70029,
+   "following_count": 3397,
+   "listed_count": 1243,
+   "tweet_count": 8674
   },
   "username": "delphinebatho"
  },

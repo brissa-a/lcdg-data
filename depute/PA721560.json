@@ -54,121 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "28/04/2019 /  / "
-   },
-   {
-    "mandat": "21/06/2017 / 21/07/2017 / nomination comme membre du gouvernement"
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Charlotte Servais"
-   },
-   {
-    "collaborateur": "M. Richard Huang"
-   }
-  ],
-  "date_naissance": "1977-12-29",
-  "emails": [
-   {
-    "email": "benjamin.griveaux@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 530,
-  "id_an": "721560",
-  "lieu_naissance": "Saint-Rémy (Saône-et-Loire)",
-  "mandat_debut": "2019-04-28",
-  "nb_mandats": 1,
-  "nom": "Benjamin Griveaux",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Griveaux",
-  "num_circo": 5,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "461",
-  "prenom": "Benjamin",
-  "profession": "Directeur communication et affaires publiques",
-  "sexe": "H",
-  "sites_web": [
-   "https://ensemble.paris",
-   "https://twitter.com/BGriveaux",
-   "https://fr-fr.facebook.com/BGriveaux"
-  ],
-  "slug": "benjamin-griveaux",
   "twitter": "BGriveaux",
-  "twitter_created_at": "2011-06-15T08:13:24",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Jun 15 08:13:24 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Paris📢 Compte géré par mon équipe",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 5182,
-   "follow_request_sent": false,
-   "followers_count": 252295,
-   "following": false,
-   "friends_count": 3396,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 317655205,
-   "id_str": "317655205",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 841,
-   "location": "Paris, France",
-   "name": "Benjamin Griveaux",
-   "notifications": false,
-   "profile_background_color": "033345",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/317655205/1562833071",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1149231160544890880/aTCKpu36_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149231160544890880/aTCKpu36_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "A8C7F7",
-   "profile_sidebar_fill_color": "C0DFEC",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "BGriveaux",
-   "statuses_count": 4784,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Paris📢 Compte géré par mon équipe",
-  "twitter_favourites": 5182,
-  "twitter_followers": 252295,
-  "twitter_following": 3396,
-  "twitter_id": 317655205,
-  "twitter_listed": 841,
-  "twitter_name": "Benjamin Griveaux",
-  "twitter_protected": false,
-  "twitter_tweets": 4784,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721560",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721560",
-  "url_nosdeputes": "https://www.nosdeputes.fr/benjamin-griveaux",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/benjamin-griveaux/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721560"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Benjamin-Griveaux",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721560",
@@ -501,10 +388,10 @@
   "id": "317655205",
   "name": "Benjamin Griveaux",
   "public_metrics": {
-   "followers_count": 252290,
-   "following_count": 3398,
-   "listed_count": 841,
-   "tweet_count": 4784
+   "followers_count": 252295,
+   "following_count": 3404,
+   "listed_count": 843,
+   "tweet_count": 4786
   },
   "username": "BGriveaux"
  },

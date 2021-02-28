@@ -177,145 +177,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 52 Boulevard Ledru-Rollin 03000 Moulins Téléphone : 04 70 20 24 21"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Allier / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Maxime Delohen"
-   },
-   {
-    "collaborateur": "Mme Alexia Mambié"
-   },
-   {
-    "collaborateur": "M. Jean-Marc Dumont"
-   },
-   {
-    "collaborateur": "Mme Agnès Cluzy"
-   }
-  ],
-  "date_naissance": "1958-03-28",
-  "emails": [
-   {
-    "email": "jean-paul.dufregne@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "GDR",
-  "id": 523,
-  "id_an": "718720",
-  "lieu_naissance": "Saint-Menoux (Allier)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Paul Dufrègne",
-  "nom_circo": "Allier",
-  "nom_de_famille": "Dufrègne",
-  "num_circo": 1,
-  "num_deptmt": "03",
-  "parti_ratt_financier": "Parti communiste français",
-  "place_en_hemicycle": "591",
-  "prenom": "Jean-Paul",
-  "profession": "Conseiller d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.dufregne2017.fr",
-   "http://www.jeanpauldufregne.fr",
-   "https://twitter.com/JP_Dufregne",
-   "https://fr-fr.facebook.com/Dufregne2017"
-  ],
-  "slug": "jean-paul-dufregne",
   "twitter": "JP_Dufregne",
-  "twitter_created_at": "2014-06-02T12:52:15",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Jun 02 12:52:15 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l'Allier, Conseiller départemental. Pdt du Conseil général de l'Allier (2008-2015). Porteur de la démarche Nouvelles Ruralités",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "dufregne2017.fr",
-       "expanded_url": "http://www.dufregne2017.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/5Lm9kM0qIj"
-      }
-     ]
-    }
-   },
-   "favourites_count": 258,
-   "follow_request_sent": false,
-   "followers_count": 2035,
-   "following": false,
-   "friends_count": 450,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 2541430148,
-   "id_str": "2541430148",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 85,
-   "location": "Saint-Menoux, Allier, Auvergne",
-   "name": "Jean-Paul Dufrègne",
-   "notifications": false,
-   "profile_background_color": "1A1B1F",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2541430148/1496154195",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/494880339328647168/n_q-vGbO_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/494880339328647168/n_q-vGbO_normal.png",
-   "profile_link_color": "2C85C9",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "252429",
-   "profile_text_color": "666666",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JP_Dufregne",
-   "statuses_count": 1032,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/5Lm9kM0qIj",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Allier, Conseiller départemental. Pdt du Conseil général de l'Allier (2008-2015). Porteur de la démarche Nouvelles Ruralités",
-  "twitter_favourites": 258,
-  "twitter_followers": 2035,
-  "twitter_following": 450,
-  "twitter_id": 2541430148,
-  "twitter_listed": 85,
-  "twitter_name": "Jean-Paul Dufrègne",
-  "twitter_protected": false,
-  "twitter_tweets": 1032,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718720",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718720",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-paul-dufregne",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-paul-dufregne/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718720"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Paul-Dufrègne",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718720",
@@ -1323,7 +1186,7 @@
   "id": "2541430148",
   "name": "Jean-Paul Dufrègne",
   "public_metrics": {
-   "followers_count": 2034,
+   "followers_count": 2038,
    "following_count": 450,
    "listed_count": 84,
    "tweet_count": 1033

@@ -63,137 +63,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 7 Bis Rue du Maréchal Gallieni 76000 Le Havre"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Seine-Maritime / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Christelle Msica Guerout"
-   },
-   {
-    "collaborateur": "Mme Clémence Fort"
-   }
-  ],
-  "date_naissance": "1968-11-20",
-  "emails": [
-   {
-    "email": "agnes.firminlebodo@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 277,
-  "id_an": "267780",
-  "lieu_naissance": "Havre (Seine-Maritime)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Agnès Firmin Le Bodo",
-  "nom_circo": "Seine-Maritime",
-  "nom_de_famille": "Firmin Le Bodo",
-  "num_circo": 7,
-  "num_deptmt": "76",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "158",
-  "prenom": "Agnès",
-  "profession": "Pharmacien",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.agnesfirminlebodo.fr",
-   "https://twitter.com/agnesfirmin"
-  ],
-  "slug": "agnes-firmin-le-bodo",
   "twitter": "agnesfirmin",
-  "twitter_created_at": "2013-10-21T17:51:29",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Oct 21 17:51:29 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de Seine-Maritime | Conseiller municipal du Havre, conseiller communautaire Le Havre  Seine métropole  | #LesConstructifs @Agir_officiel porte-parole",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "agnesfirminlebodo.fr",
-       "expanded_url": "http://www.agnesfirminlebodo.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/OWomELYPA3"
-      }
-     ]
-    }
-   },
-   "favourites_count": 11095,
-   "follow_request_sent": false,
-   "followers_count": 8667,
-   "following": false,
-   "friends_count": 3488,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1979469114,
-   "id_str": "1979469114",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 126,
-   "location": "Le Havre, France",
-   "name": "Agnes Firmin Le Bodo",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979469114/1611220504",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1358886557734891520/YKugWrKB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358886557734891520/YKugWrKB_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "agnesfirmin",
-   "statuses_count": 9210,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/OWomELYPA3",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Seine-Maritime | Conseiller municipal du Havre, conseiller communautaire Le Havre Seine métropole | #LesConstructifs @Agir_officiel porte-parole",
-  "twitter_favourites": 11095,
-  "twitter_followers": 8667,
-  "twitter_following": 3488,
-  "twitter_id": 1979469114,
-  "twitter_listed": 126,
-  "twitter_name": "Agnes Firmin Le Bodo",
-  "twitter_protected": false,
-  "twitter_tweets": 9210,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267780",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267780",
-  "url_nosdeputes": "https://www.nosdeputes.fr/agnes-firmin-le-bodo",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/agnes-firmin-le-bodo/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267780"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Agnès-Firmin Le Bodo",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267780",
@@ -1105,10 +976,10 @@
   "id": "1979469114",
   "name": "Agnes Firmin Le Bodo",
   "public_metrics": {
-   "followers_count": 8674,
+   "followers_count": 8685,
    "following_count": 3488,
-   "listed_count": 127,
-   "tweet_count": 9217
+   "listed_count": 126,
+   "tweet_count": 9236
   },
   "username": "agnesfirmin"
  },

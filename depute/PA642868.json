@@ -111,144 +111,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "11 Place du marché aux fruits 59630 Bourbourg Téléphone : 09 62 64 50 59"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 06 59"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Nord / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anne Debril"
-   },
-   {
-    "collaborateur": "M. Sébastien Beaucamp"
-   },
-   {
-    "collaborateur": "Mme Chloé Boyaval"
-   },
-   {
-    "collaborateur": "M. Benoît Everaere"
-   }
-  ],
-  "date_naissance": "1971-02-10",
-  "emails": [
-   {
-    "email": "paul.christophe@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "AE",
-  "id": 380,
-  "id_an": "642868",
-  "lieu_naissance": "Sables d'Olonne (Vendée)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Paul Christophe",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Christophe",
-  "num_circo": 14,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "143",
-  "prenom": "Paul",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "http://paulchristophe.fr",
-   "https://twitter.com/christophe_p",
-   "https://fr-fr.facebook.com/Paul-Christophe-Député-du-Nord-1387587231318843"
-  ],
-  "slug": "paul-christophe",
   "twitter": "christophe_p",
-  "twitter_created_at": "2012-06-23T22:23:46",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Jun 23 22:23:46 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 14ème circonscription du Nord #DirectAN #circo5914 🇫🇷🇪🇺| Membre de la Commission des Affaires sociales | Conseiller départemental @departement59",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "paulchristophe.fr",
-       "expanded_url": "https://paulchristophe.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/wPa0QYSIqp"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2964,
-   "follow_request_sent": false,
-   "followers_count": 3412,
-   "following": false,
-   "friends_count": 1145,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 616609800,
-   "id_str": "616609800",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 86,
-   "location": "Zuydcoote",
-   "name": "Paul CHRISTOPHE",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/616609800/1460897538",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1144162395809558528/Rau4eane_normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144162395809558528/Rau4eane_normal.png",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "christophe_p",
-   "statuses_count": 1445,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/wPa0QYSIqp",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 14ème circonscription du Nord #DirectAN #circo5914 🇫🇷🇪🇺| Membre de la Commission des Affaires sociales | Conseiller départemental @departement59",
-  "twitter_favourites": 2964,
-  "twitter_followers": 3412,
-  "twitter_following": 1145,
-  "twitter_id": 616609800,
-  "twitter_listed": 86,
-  "twitter_name": "Paul CHRISTOPHE",
-  "twitter_protected": false,
-  "twitter_tweets": 1445,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642868",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642868",
-  "url_nosdeputes": "https://www.nosdeputes.fr/paul-christophe",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/paul-christophe/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642868"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Paul-Christophe",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642868",
@@ -1241,10 +1105,10 @@
   "id": "616609800",
   "name": "Paul CHRISTOPHE",
   "public_metrics": {
-   "followers_count": 3419,
+   "followers_count": 3422,
    "following_count": 1145,
    "listed_count": 85,
-   "tweet_count": 1449
+   "tweet_count": 1450
   },
   "username": "christophe_p"
  },

@@ -83,125 +83,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "BP 50364 85303 CHALLANS CEDEX 3"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.92.11"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Catherine Alix"
-   },
-   {
-    "collaborateur": "Mme Armel Le Ruyet"
-   },
-   {
-    "collaborateur": "Mme Saphia Féron"
-   }
-  ],
-  "date_naissance": "1975-04-21",
-  "emails": [
-   {
-    "email": "philippelatombe.enmarche85@gmail.com"
-   },
-   {
-    "email": "philippe.latombe@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 56,
-  "id_an": "721984",
-  "lieu_naissance": "Paris 14 (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Philippe Latombe",
-  "nom_circo": "Vendée",
-  "nom_de_famille": "Latombe",
-  "num_circo": 1,
-  "num_deptmt": "85",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "199",
-  "prenom": "Philippe",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/platombe"
-  ],
-  "slug": "philippe-latombe",
   "twitter": "platombe",
-  "twitter_created_at": "2012-04-22T13:34:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun Apr 22 13:34:51 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de La 1ère circonscription de Vendée - Membre de la @ComLois @MoDem #LaREM",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 2666,
-   "follow_request_sent": false,
-   "followers_count": 3108,
-   "following": false,
-   "friends_count": 1850,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 560299831,
-   "id_str": "560299831",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 90,
-   "location": "Vendée, Pays de la Loire",
-   "name": "Philippe Latombe",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/560299831/1501850960",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1109468460822814720/0TOQYuNJ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109468460822814720/0TOQYuNJ_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "platombe",
-   "statuses_count": 2419,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de La 1ère circonscription de Vendée - Membre de la @ComLois @MoDem #LaREM",
-  "twitter_favourites": 2666,
-  "twitter_followers": 3108,
-  "twitter_following": 1850,
-  "twitter_id": 560299831,
-  "twitter_listed": 90,
-  "twitter_name": "Philippe Latombe",
-  "twitter_protected": false,
-  "twitter_tweets": 2419,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721984",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721984",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-latombe",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-latombe/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721984"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Latombe",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721984",
@@ -648,10 +531,10 @@
   "id": "560299831",
   "name": "Philippe Latombe",
   "public_metrics": {
-   "followers_count": 3111,
-   "following_count": 1851,
-   "listed_count": 89,
-   "tweet_count": 2424
+   "followers_count": 3125,
+   "following_count": 1859,
+   "listed_count": 90,
+   "tweet_count": 2430
   },
   "username": "platombe"
  },

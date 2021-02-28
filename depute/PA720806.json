@@ -156,137 +156,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 2 Rue de l’Ange 66000 Perpignan"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Aurore Bouniol de Gineste"
-   },
-   {
-    "collaborateur": "Mme Charlotte Lextrat"
-   },
-   {
-    "collaborateur": "Mme Camille Aspar"
-   }
-  ],
-  "date_naissance": "1965-09-25",
-  "emails": [
-   {
-    "email": "laurence.gayte@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 199,
-  "id_an": "720806",
-  "lieu_naissance": "Paris 13ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Laurence Gayte",
-  "nom_circo": "Pyrénées-Orientales",
-  "nom_de_famille": "Gayte",
-  "num_circo": 3,
-  "num_deptmt": "66",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "530",
-  "prenom": "Laurence",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.laurencegayte.fr",
-   "https://twitter.com/laurencegayte",
-   "https://fr-fr.facebook.com/GayteLaurence"
-  ],
-  "slug": "laurence-gayte",
   "twitter": "laurencegayte",
-  "twitter_created_at": "2017-09-01T15:09:39",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Sep 01 15:09:39 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée des #PyrénéesOrientales #LaREM @LaREM_AN \n🔺Membre Commission des Affaires Economiques\n🔺Membre Délégation Droits des femmes @AN_DroitsFemmes",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "laurencegayte.fr",
-       "expanded_url": "http://www.laurencegayte.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/k75Zhzr7Sl"
-      }
-     ]
-    }
-   },
-   "favourites_count": 963,
-   "follow_request_sent": false,
-   "followers_count": 1415,
-   "following": false,
-   "friends_count": 678,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 903635970955890700,
-   "id_str": "903635970955890688",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 61,
-   "location": "Perpignan, France",
-   "name": "Laurence GAYTE",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/903635970955890688/1572424462",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/907591444050976770/5obxU2uP_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/907591444050976770/5obxU2uP_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "LaurenceGayte",
-   "statuses_count": 1639,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/k75Zhzr7Sl",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée des #PyrénéesOrientales #LaREM @LaREM_AN 🔺Membre Commission des Affaires Economiques 🔺Membre Délégation Droits des femmes @AN_DroitsFemmes",
-  "twitter_favourites": 963,
-  "twitter_followers": 1415,
-  "twitter_following": 678,
-  "twitter_id": 903635970955890700,
-  "twitter_listed": 61,
-  "twitter_name": "Laurence GAYTE",
-  "twitter_protected": false,
-  "twitter_tweets": 1639,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720806",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720806",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurence-gayte",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurence-gayte/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720806"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurence-Gayte",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720806",
@@ -1078,10 +949,10 @@
   "id": "903635970955890688",
   "name": "Laurence GAYTE",
   "public_metrics": {
-   "followers_count": 1415,
+   "followers_count": 1416,
    "following_count": 678,
-   "listed_count": 62,
-   "tweet_count": 1644
+   "listed_count": 61,
+   "tweet_count": 1647
   },
   "username": "LaurenceGayte"
  },

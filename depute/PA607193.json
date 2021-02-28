@@ -81,153 +81,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Chapelle-Heulin / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Carine Dronet"
-   },
-   {
-    "collaborateur": "M. Jean Bosco Nicolle"
-   },
-   {
-    "collaborateur": "Mme Karine Le Gal"
-   },
-   {
-    "collaborateur": "M. Jean Roman"
-   },
-   {
-    "collaborateur": "Mme Laura Gai"
-   }
-  ],
-  "date_naissance": "1971-07-22",
-  "emails": [
-   {
-    "email": "permanence@sophie-errante.fr"
-   },
-   {
-    "email": "sophie.errante@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 548,
-  "id_an": "607193",
-  "lieu_naissance": "Nantes (Loire-Atlantique)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sophie Errante",
-  "nom_circo": "Loire-Atlantique",
-  "nom_de_famille": "Errante",
-  "num_circo": 10,
-  "num_deptmt": "44",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "361",
-  "prenom": "Sophie",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://sophie-errante.fr",
-   "http://www.sophieerrante.fr",
-   "https://twitter.com/SophieErrante",
-   "https://www.sophie-errante2017.fr",
-   "https://errantesophie.wordpress.com",
-   "http://www.facebook.com/SophieErrante"
-  ],
-  "slug": "sophie-errante",
   "twitter": "SophieErrante",
-  "twitter_created_at": "2012-04-09T15:37:55",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Apr 09 15:37:55 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de Loire-Atlantique #LaREM #VignobleNantes, Commission des #Finances, Présidente de la Commission de surveillance @CaissedesDepots",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "errantesophie.wordpress.com",
-       "expanded_url": "https://errantesophie.wordpress.com/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/X7sZwD3gKG"
-      }
-     ]
-    }
-   },
-   "favourites_count": 617,
-   "follow_request_sent": false,
-   "followers_count": 6017,
-   "following": false,
-   "friends_count": 1368,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 549319211,
-   "id_str": "549319211",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 233,
-   "location": "Nantes, France",
-   "name": "Sophie Errante",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/549319211/1588693301",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1172053207285153792/EiKVD3fM_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172053207285153792/EiKVD3fM_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SophieErrante",
-   "statuses_count": 1129,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/X7sZwD3gKG",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de Loire-Atlantique #LaREM #VignobleNantes, Commission des #Finances, Présidente de la Commission de surveillance @CaissedesDepots",
-  "twitter_favourites": 617,
-  "twitter_followers": 6017,
-  "twitter_following": 1368,
-  "twitter_id": 549319211,
-  "twitter_listed": 233,
-  "twitter_name": "Sophie Errante",
-  "twitter_protected": false,
-  "twitter_tweets": 1129,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607193",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607193",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sophie-errante",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sophie-errante/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607193"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sophie-Errante",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607193",
@@ -697,9 +552,9 @@
   "id": "549319211",
   "name": "Sophie Errante",
   "public_metrics": {
-   "followers_count": 6018,
-   "following_count": 1369,
-   "listed_count": 233,
+   "followers_count": 6025,
+   "following_count": 1371,
+   "listed_count": 232,
    "tweet_count": 1129
   },
   "username": "SophieErrante"

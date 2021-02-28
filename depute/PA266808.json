@@ -113,139 +113,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "5 Place Ferdinand Million 73200 Albertville Téléphone : 04 79 32 03 68"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "19/07/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Savoie / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Sandrine Poignet"
-   },
-   {
-    "collaborateur": "Mme Cécile Petralia"
-   },
-   {
-    "collaborateur": "M. Fabrice Salito"
-   },
-   {
-    "collaborateur": "Mme Léna Pirard"
-   },
-   {
-    "collaborateur": "Mme Hortense Reynaud"
-   }
-  ],
-  "date_naissance": "1970-02-01",
-  "emails": [
-   {
-    "email": "vincent-rolland@wanadoo.fr"
-   },
-   {
-    "email": "vincent.rolland@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 409,
-  "id_an": "266808",
-  "lieu_naissance": "Moutiers (Savoie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Vincent Rolland",
-  "nom_circo": "Savoie",
-  "nom_de_famille": "Rolland",
-  "num_circo": 2,
-  "num_deptmt": "73",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "128",
-  "prenom": "Vincent",
-  "profession": "Collaborateur parlementaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://vincentrolland.fr",
-   "https://twitter.com/VRolland73"
-  ],
-  "slug": "vincent-rolland",
   "twitter": "VRolland73",
-  "twitter_created_at": "2017-03-22T09:10:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Mar 22 09:10:51 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la Savoie, Co-président de Savoie Mont Blanc tourisme",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 26,
-   "follow_request_sent": false,
-   "followers_count": 1235,
-   "following": false,
-   "friends_count": 112,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 844476456164114400,
-   "id_str": "844476456164114432",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 65,
-   "location": "France",
-   "name": "Vincent Rolland",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/844476456164114432/1490175609",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/844483633717108737/-QUsRbm7_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/844483633717108737/-QUsRbm7_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "VRolland73",
-   "statuses_count": 161,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Savoie, Co-président de Savoie Mont Blanc tourisme",
-  "twitter_favourites": 26,
-  "twitter_followers": 1235,
-  "twitter_following": 112,
-  "twitter_id": 844476456164114400,
-  "twitter_listed": 65,
-  "twitter_name": "Vincent Rolland",
-  "twitter_protected": false,
-  "twitter_tweets": 161,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA266808",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA266808",
-  "url_nosdeputes": "https://www.nosdeputes.fr/vincent-rolland",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/vincent-rolland/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA266808"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Vincent-Rolland",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA266808",
@@ -658,7 +527,7 @@
   "id": "844476456164114432",
   "name": "Vincent Rolland",
   "public_metrics": {
-   "followers_count": 1237,
+   "followers_count": 1239,
    "following_count": 112,
    "listed_count": 65,
    "tweet_count": 161

@@ -58,144 +58,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Pierre-Laurent Renard"
-   },
-   {
-    "collaborateur": "M. Alexis Chabot"
-   },
-   {
-    "collaborateur": "Mme Caroline Puisségur-Ripet"
-   },
-   {
-    "collaborateur": "Mme Julie Phan-Pérain"
-   },
-   {
-    "collaborateur": "M. Luc Derai"
-   },
-   {
-    "collaborateur": "Elise MELLINGER"
-   }
-  ],
-  "date_naissance": "1972-10-10",
-  "emails": [
-   {
-    "email": "cedric.roussel@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 1,
-  "id_an": "718902",
-  "lieu_naissance": "Brest (Finistère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Cédric Roussel",
-  "nom_circo": "Alpes-Maritimes",
-  "nom_de_famille": "Roussel",
-  "num_circo": 3,
-  "num_deptmt": "06",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "309",
-  "prenom": "Cédric",
-  "profession": "Conseiller en gestion de patrimoine indépendant",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.cedricroussel.fr",
-   "http://cedricroussel.en-marche.fr",
-   "https://twitter.com/CedricRoussel06",
-   "https://fr-fr.facebook.com/CRoussel06"
-  ],
-  "slug": "cedric-roussel",
   "twitter": "CedricRoussel06",
-  "twitter_created_at": "2017-05-19T13:25:13",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri May 19 13:25:13 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député #LaREM de Nice | Président du Groupe d'études « Économie du Sport » #EcoSportAN | Secrétaire de la Commission des #AfCultAN | Ailier du XV Parlementaire",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "cedricroussel.fr",
-       "expanded_url": "https://www.cedricroussel.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/Twv0vXV7NU"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2314,
-   "follow_request_sent": false,
-   "followers_count": 4977,
-   "following": false,
-   "friends_count": 903,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 865558964976603100,
-   "id_str": "865558964976603139",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 121,
-   "location": "Alpes-Maritimes",
-   "name": "Cédric ROUSSEL",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865558964976603139/1610116218",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1045428756851159043/m3_XBzlo_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045428756851159043/m3_XBzlo_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "CedricRoussel06",
-   "statuses_count": 3033,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/Twv0vXV7NU",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député #LaREM de Nice | Président du Groupe d'études « Économie du Sport » #EcoSportAN | Secrétaire de la Commission des #AfCultAN | Ailier du XV Parlementaire",
-  "twitter_favourites": 2314,
-  "twitter_followers": 4977,
-  "twitter_following": 903,
-  "twitter_id": 865558964976603100,
-  "twitter_listed": 121,
-  "twitter_name": "Cédric ROUSSEL",
-  "twitter_protected": false,
-  "twitter_tweets": 3033,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718902",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718902",
-  "url_nosdeputes": "https://www.nosdeputes.fr/cedric-roussel",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/cedric-roussel/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718902"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Cédric-Roussel",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718902",
@@ -970,10 +834,10 @@
   "id": "865558964976603139",
   "name": "Cédric ROUSSEL",
   "public_metrics": {
-   "followers_count": 4980,
+   "followers_count": 4983,
    "following_count": 903,
    "listed_count": 122,
-   "tweet_count": 3033
+   "tweet_count": 3041
   },
   "username": "CedricRoussel06"
  },

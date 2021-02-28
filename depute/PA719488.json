@@ -73,136 +73,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Barbara De Vos"
-   },
-   {
-    "collaborateur": "Mme Emmanuelle Crambert"
-   },
-   {
-    "collaborateur": "M. Bruno Laville"
-   }
-  ],
-  "date_naissance": "1960-04-11",
-  "emails": [
-   {
-    "email": "philippe.berta@assemblee-nationale.fr"
-   },
-   {
-    "email": "philippeberta30@gmail.com"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 268,
-  "id_an": "719488",
-  "lieu_naissance": "Besançon (Doubs)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Philippe Berta",
-  "nom_circo": "Gard",
-  "nom_de_famille": "Berta",
-  "num_circo": 6,
-  "num_deptmt": "30",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "164",
-  "prenom": "Philippe",
-  "profession": "Professeur de faculté",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/PBertaGard",
-   "https://www.facebook.com/PBertaGard"
-  ],
-  "slug": "philippe-berta",
   "twitter": "PBertaGard",
-  "twitter_created_at": "2017-05-13T10:02:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat May 13 10:02:09 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député @GroupeMoDem / 6ème circo. du #Gard / Commission des Affaires Culturelles et de l'Éducation / Président du groupe d'études Maladies rares / Généticien",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/PBertaGard",
-       "expanded_url": "https://www.facebook.com/PBertaGard",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/750jO5HOyy"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2660,
-   "follow_request_sent": false,
-   "followers_count": 5379,
-   "following": false,
-   "friends_count": 1520,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 863333535066837000,
-   "id_str": "863333535066836993",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 123,
-   "location": "Nîmes, France",
-   "name": "Philippe Berta",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863333535066836993/1506435520",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/865136307273580548/OsLofSv9_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/865136307273580548/OsLofSv9_normal.jpg",
-   "profile_link_color": "114AFA",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "PBertaGard",
-   "statuses_count": 3356,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/750jO5HOyy",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député @GroupeMoDem / 6ème circo. du #Gard / Commission des Affaires Culturelles et de l'Éducation / Président du groupe d'études Maladies rares / Généticien",
-  "twitter_favourites": 2660,
-  "twitter_followers": 5379,
-  "twitter_following": 1520,
-  "twitter_id": 863333535066837000,
-  "twitter_listed": 123,
-  "twitter_name": "Philippe Berta",
-  "twitter_protected": false,
-  "twitter_tweets": 3356,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719488",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719488",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-berta",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-berta/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719488"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Berta",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719488",
@@ -724,10 +596,10 @@
   "id": "863333535066836993",
   "name": "Philippe Berta",
   "public_metrics": {
-   "followers_count": 5381,
+   "followers_count": 5385,
    "following_count": 1520,
    "listed_count": 122,
-   "tweet_count": 3356
+   "tweet_count": 3360
   },
   "username": "PBertaGard"
  },

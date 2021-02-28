@@ -108,146 +108,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 175 Bis Boulevard Charles de Gaulle 37540 Saint-Cyr-sur-Loire"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Philippe Peruchon"
-   },
-   {
-    "collaborateur": "Mme Pauline Ferraz"
-   },
-   {
-    "collaborateur": "M. Vincent Schneider"
-   },
-   {
-    "collaborateur": "M. Pierre Monziès"
-   },
-   {
-    "collaborateur": "Mme Karine Peruchon"
-   },
-   {
-    "collaborateur": "Mme Maya Nicolas Manceau"
-   }
-  ],
-  "date_naissance": "1959-05-18",
-  "emails": [
-   {
-    "email": "sabine.thillaye@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 302,
-  "id_an": "719822",
-  "lieu_naissance": "Remscheid (Allemagne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sabine Thillaye",
-  "nom_circo": "Indre-et-Loire",
-  "nom_de_famille": "Thillaye",
-  "num_circo": 5,
-  "num_deptmt": "37",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "166",
-  "prenom": "Sabine",
-  "profession": "Chef d'entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "http://sabinethillaye.fr",
-   "https://twitter.com/SabineThillaye",
-   "https://fr-fr.facebook.com/SabineThillaye"
-  ],
-  "slug": "sabine-thillaye",
   "twitter": "SabineThillaye",
-  "twitter_created_at": "2014-04-08T13:34:50",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Apr 08 13:34:50 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de la 5e circonscription d'Indre-et-Loire\nPrésidente de la commission des Affaires européennes @AN_AfEur",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "sabinethillaye.fr",
-       "expanded_url": "http://www.sabinethillaye.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/MQNP9laVTl"
-      }
-     ]
-    }
-   },
-   "favourites_count": 9387,
-   "follow_request_sent": false,
-   "followers_count": 5881,
-   "following": false,
-   "friends_count": 1449,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 2433624242,
-   "id_str": "2433624242",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 139,
-   "location": "Saint-Cyr-sur-Loire",
-   "name": "Sabine Thillaye",
-   "notifications": false,
-   "profile_background_color": "352726",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2433624242/1589029196",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1259105818894635008/bVLMNxN3_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259105818894635008/bVLMNxN3_normal.jpg",
-   "profile_link_color": "D02B55",
-   "profile_sidebar_border_color": "829D5E",
-   "profile_sidebar_fill_color": "99CC33",
-   "profile_text_color": "3E4415",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SabineThillaye",
-   "statuses_count": 4716,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/MQNP9laVTl",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 5e circonscription d'Indre-et-Loire Présidente de la commission des Affaires européennes @AN_AfEur",
-  "twitter_favourites": 9387,
-  "twitter_followers": 5881,
-  "twitter_following": 1449,
-  "twitter_id": 2433624242,
-  "twitter_listed": 139,
-  "twitter_name": "Sabine Thillaye",
-  "twitter_protected": false,
-  "twitter_tweets": 4716,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719822",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719822",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sabine-thillaye",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sabine-thillaye/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719822"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sabine-Thillaye",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719822",
@@ -634,10 +496,10 @@
   "id": "2433624242",
   "name": "Sabine Thillaye",
   "public_metrics": {
-   "followers_count": 5879,
-   "following_count": 1449,
-   "listed_count": 138,
-   "tweet_count": 4716
+   "followers_count": 5878,
+   "following_count": 1448,
+   "listed_count": 137,
+   "tweet_count": 4718
   },
   "username": "SabineThillaye"
  },

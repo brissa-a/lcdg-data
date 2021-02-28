@@ -135,153 +135,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "27 Rue du Docteur Hudellet 01000 Bourg-en-Bresse Téléphone : 04 74 45 02 11"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Auvergne-Rhône-Alpes / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Hélène Marechal"
-   },
-   {
-    "collaborateur": "Mme Nathalie Brochand"
-   },
-   {
-    "collaborateur": "Mme Françoise Le Chenadec"
-   },
-   {
-    "collaborateur": "M. Jean-Luc Orset"
-   }
-  ],
-  "date_naissance": "1962-11-25",
-  "emails": [
-   {
-    "email": "xavier.breton@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@xavierbreton.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 42,
-  "id_an": "330008",
-  "lieu_naissance": "Darney (Vosges)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Xavier Breton",
-  "nom_circo": "Ain",
-  "nom_de_famille": "Breton",
-  "num_circo": 1,
-  "num_deptmt": "01",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "41",
-  "prenom": "Xavier",
-  "profession": "Cadre territorial",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.xavierbreton.fr",
-   "https://twitter.com/bretonxavier",
-   "https://fr-fr.facebook.com/xavierbreton01"
-  ],
-  "slug": "xavier-breton",
   "twitter": "bretonxavier",
-  "twitter_created_at": "2010-02-03T08:18:45",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Feb 03 08:18:45 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de l'Ain, Conseiller régional. #BourgenBresse #Ain #AuvergneRhoneAlpes",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "xavierbreton.fr",
-       "expanded_url": "http://www.xavierbreton.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/p04dKMfULS"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5652,
-   "follow_request_sent": false,
-   "followers_count": 9043,
-   "following": false,
-   "friends_count": 1292,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 110940366,
-   "id_str": "110940366",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 269,
-   "location": "Bourg-en-Bresse",
-   "name": "Xavier BRETON",
-   "notifications": false,
-   "profile_background_color": "DFD9E0",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/110940366/1512553350",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/938343125227057152/8g0SF8Dp_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/938343125227057152/8g0SF8Dp_normal.jpg",
-   "profile_link_color": "3B94D9",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "C26270",
-   "profile_text_color": "C6A299",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "bretonxavier",
-   "statuses_count": 4739,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/p04dKMfULS",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de l'Ain, Conseiller régional. #BourgenBresse #Ain #AuvergneRhoneAlpes",
-  "twitter_favourites": 5652,
-  "twitter_followers": 9043,
-  "twitter_following": 1292,
-  "twitter_id": 110940366,
-  "twitter_listed": 269,
-  "twitter_name": "Xavier BRETON",
-  "twitter_protected": false,
-  "twitter_tweets": 4739,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330008",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330008",
-  "url_nosdeputes": "https://www.nosdeputes.fr/xavier-breton",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/xavier-breton/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330008"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Xavier-Breton",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA330008",
@@ -783,10 +638,10 @@
   "id": "110940366",
   "name": "Xavier BRETON",
   "public_metrics": {
-   "followers_count": 9044,
-   "following_count": 1297,
+   "followers_count": 9058,
+   "following_count": 1298,
    "listed_count": 269,
-   "tweet_count": 4739
+   "tweet_count": 4740
   },
   "username": "bretonxavier"
  },

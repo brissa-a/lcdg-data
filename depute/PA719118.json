@@ -130,129 +130,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Pierre Juston"
-   },
-   {
-    "collaborateur": "Mme Inès Ghemid"
-   },
-   {
-    "collaborateur": "M. Alexis Chabot"
-   },
-   {
-    "collaborateur": "M. Stéphane Verdier"
-   },
-   {
-    "collaborateur": "M. Michaël Mesic"
-   },
-   {
-    "collaborateur": "M. Charles Crespel"
-   }
-  ],
-  "date_naissance": "1972-11-19",
-  "emails": [
-   {
-    "email": "francois.cormier-bouligeon@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 261,
-  "id_an": "719118",
-  "lieu_naissance": "Bourges (Cher)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "François Cormier-Bouligeon",
-  "nom_circo": "Cher",
-  "nom_de_famille": "Cormier-Bouligeon",
-  "num_circo": 1,
-  "num_deptmt": "18",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "300",
-  "prenom": "François",
-  "profession": "Conseiller ministériel",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/FCBDeputeduCher",
-   "https://fr-fr.facebook.com/francoiscormierbouligeon2017"
-  ],
-  "slug": "francois-cormier-bouligeon",
   "twitter": "FCBDeputeduCher",
-  "twitter_created_at": "2009-05-24T18:28:38",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sun May 24 18:28:38 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du Cher | Majorité présidentielle | Républicain de progrès | Président du Groupe #Sport @AssembleeNat | Pilier du @xvparlementaire | Juriste",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 12257,
-   "follow_request_sent": false,
-   "followers_count": 5159,
-   "following": false,
-   "friends_count": 3032,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 42256235,
-   "id_str": "42256235",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 105,
-   "location": "Bourges, France",
-   "name": "François Cormier-Bouligeon",
-   "notifications": false,
-   "profile_background_color": "BADFCD",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/42256235/1588917095",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1333900586161491969/7rp2R9mq_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333900586161491969/7rp2R9mq_normal.jpg",
-   "profile_link_color": "19CF86",
-   "profile_sidebar_border_color": "F2E195",
-   "profile_sidebar_fill_color": "FFF7CC",
-   "profile_text_color": "0C3E53",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "FCBDeputeduCher",
-   "statuses_count": 7297,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Cher | Majorité présidentielle | Républicain de progrès | Président du Groupe #Sport @AssembleeNat | Pilier du @xvparlementaire | Juriste",
-  "twitter_favourites": 12257,
-  "twitter_followers": 5159,
-  "twitter_following": 3032,
-  "twitter_id": 42256235,
-  "twitter_listed": 105,
-  "twitter_name": "François Cormier-Bouligeon",
-  "twitter_protected": false,
-  "twitter_tweets": 7297,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719118",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719118",
-  "url_nosdeputes": "https://www.nosdeputes.fr/francois-cormier-bouligeon",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/francois-cormier-bouligeon/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719118"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/François-Cormier-Bouligeon",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719118",
@@ -728,10 +607,10 @@
   "id": "42256235",
   "name": "François Cormier-Bouligeon",
   "public_metrics": {
-   "followers_count": 5167,
-   "following_count": 3032,
+   "followers_count": 5165,
+   "following_count": 3033,
    "listed_count": 105,
-   "tweet_count": 7304
+   "tweet_count": 7331
   },
   "username": "FCBDeputeduCher"
  },

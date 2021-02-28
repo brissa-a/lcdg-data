@@ -82,156 +82,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 211 Avenue de la Californie 06200 Nice"
-   },
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "30/05/2016 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Nice / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Métropole Nice Côte d'Azur /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Christine Rebeuh"
-   },
-   {
-    "collaborateur": "M. David Nouy"
-   },
-   {
-    "collaborateur": "Mme Ambre Saclier"
-   },
-   {
-    "collaborateur": "Mme Léa Santacroce"
-   },
-   {
-    "collaborateur": "Mme Marion Lafuente"
-   }
-  ],
-  "date_naissance": "1986-08-11",
-  "emails": [
-   {
-    "email": "contact@marinebrenier.fr"
-   },
-   {
-    "email": "marine.brenier@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 408,
-  "id_an": "713448",
-  "lieu_naissance": "Nice (Alpes-Maritimes)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Marine Brenier",
-  "nom_circo": "Alpes-Maritimes",
-  "nom_de_famille": "Brenier",
-  "num_circo": 5,
-  "num_deptmt": "06",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "150",
-  "prenom": "Marine",
-  "profession": "Juriste",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.marinebrenier.fr",
-   "https://twitter.com/marinebrenier",
-   "https://fr-fr.facebook.com/marine.brenier"
-  ],
-  "slug": "marine-brenier",
   "twitter": "marinebrenier",
-  "twitter_created_at": "2009-12-11T11:52:43",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Dec 11 11:52:43 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée des Alpes-Maritimes 🇫🇷 • Conseillère municipale @VilledeNice • @lesrepublicains #EcologieRéaliste 🌿",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "marinebrenier.fr",
-       "expanded_url": "https://www.marinebrenier.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/jV4vo6kCMJ"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5255,
-   "follow_request_sent": false,
-   "followers_count": 11972,
-   "following": false,
-   "friends_count": 3441,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 96111834,
-   "id_str": "96111834",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 212,
-   "location": "211 av. de la Californie, Nice",
-   "name": "Marine Brenier",
-   "notifications": false,
-   "profile_background_color": "FFFFFF",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/96111834/1604077772",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1355861143424823298/m1ckYf2T_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355861143424823298/m1ckYf2T_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "marinebrenier",
-   "statuses_count": 17955,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/jV4vo6kCMJ",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée des Alpes-Maritimes 🇫🇷 • Conseillère municipale @VilledeNice • @lesrepublicains #EcologieRéaliste 🌿",
-  "twitter_favourites": 5255,
-  "twitter_followers": 11972,
-  "twitter_following": 3441,
-  "twitter_id": 96111834,
-  "twitter_listed": 212,
-  "twitter_name": "Marine Brenier",
-  "twitter_protected": false,
-  "twitter_tweets": 17955,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA713448",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA713448",
-  "url_nosdeputes": "https://www.nosdeputes.fr/marine-brenier",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/marine-brenier/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA713448"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Marine-Brenier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA713448",
@@ -513,10 +365,10 @@
   "id": "96111834",
   "name": "Marine Brenier",
   "public_metrics": {
-   "followers_count": 11973,
-   "following_count": 3441,
-   "listed_count": 213,
-   "tweet_count": 17957
+   "followers_count": 11983,
+   "following_count": 3443,
+   "listed_count": 212,
+   "tweet_count": 17963
   },
   "username": "marinebrenier"
  },

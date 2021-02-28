@@ -108,140 +108,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence 55 Rue aux Arènes 57000 Metz"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Metz / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Jérémy Sebbane"
-   },
-   {
-    "collaborateur": "M. Alban Ah-Yu"
-   },
-   {
-    "collaborateur": "Mme Emilie Crenner"
-   }
-  ],
-  "date_naissance": "1957-09-18",
-  "emails": [
-   {
-    "email": "richard.lioger@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 502,
-  "id_an": "720378",
-  "lieu_naissance": "Paris 10 (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Richard Lioger",
-  "nom_circo": "Moselle",
-  "nom_de_famille": "Lioger",
-  "num_circo": 3,
-  "num_deptmt": "57",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "325",
-  "prenom": "Richard",
-  "profession": "Professeur des Universités",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.richardlioger.fr",
-   "https://twitter.com/RichardLioger"
-  ],
-  "slug": "richard-lioger",
   "twitter": "RichardLioger",
-  "twitter_created_at": "2011-12-28T11:48:13",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Dec 28 11:48:13 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 3e circonscription de La Moselle #Metz03 #LREM #ComEco\nRapporteur de la #LoiELAN",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "richardlioger.fr",
-       "expanded_url": "http://www.richardlioger.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/u0go7dvk5F"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3077,
-   "follow_request_sent": false,
-   "followers_count": 3253,
-   "following": false,
-   "friends_count": 1535,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 448808766,
-   "id_str": "448808766",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 123,
-   "location": "Metz",
-   "name": "Richard Lioger",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/448808766/1501149685",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/890098053817958401/BNgDu-F8_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/890098053817958401/BNgDu-F8_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "RichardLioger",
-   "statuses_count": 2411,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/u0go7dvk5F",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la 3e circonscription de La Moselle #Metz03 #LREM #ComEco Rapporteur de la #LoiELAN",
-  "twitter_favourites": 3077,
-  "twitter_followers": 3253,
-  "twitter_following": 1535,
-  "twitter_id": 448808766,
-  "twitter_listed": 123,
-  "twitter_name": "Richard Lioger",
-  "twitter_protected": false,
-  "twitter_tweets": 2411,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720378",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720378",
-  "url_nosdeputes": "https://www.nosdeputes.fr/richard-lioger",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/richard-lioger/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720378"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Richard-Lioger",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720378",
@@ -1049,10 +917,10 @@
   "id": "448808766",
   "name": "Richard Lioger",
   "public_metrics": {
-   "followers_count": 3256,
-   "following_count": 1535,
+   "followers_count": 3259,
+   "following_count": 1536,
    "listed_count": 123,
-   "tweet_count": 2413
+   "tweet_count": 2414
   },
   "username": "RichardLioger"
  },

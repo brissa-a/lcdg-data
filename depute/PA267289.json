@@ -117,148 +117,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 23 Place de la République, 45200 Montargis Téléphone : 02 38 85 17 59"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 / 18/12/2017 / annulation de l'élection sur décision du conseil constitutionnel"
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "26/03/2018 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Montargis (Loiret) / Conseil municipal / maire"
-   },
-   {
-    "mandat": "Loing / Agglomération Montargoise et Rives / président"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Bertrand Marcincal"
-   },
-   {
-    "collaborateur": "Mme Claire Giroir"
-   },
-   {
-    "collaborateur": "Mme Danièle Brisset"
-   }
-  ],
-  "date_naissance": "1942-04-01",
-  "emails": [
-   {
-    "email": "doorjp2@wanadoo.fr"
-   },
-   {
-    "email": "jean-pierre.door@assemblee-nationale.fr"
-   },
-   {
-    "email": "doorjp@wanadoo.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 172,
-  "id_an": "267289",
-  "lieu_naissance": "Sully-sur-Loire (Loiret)",
-  "mandat_debut": "2018-03-26",
-  "nb_mandats": 2,
-  "nom": "Jean-Pierre Door",
-  "nom_circo": "Loiret",
-  "nom_de_famille": "Door",
-  "num_circo": 4,
-  "num_deptmt": "45",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "81",
-  "prenom": "Jean-Pierre",
-  "profession": "Cardiologue",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/doorjean",
-   "http://jeanpierredoor.over-blog.com"
-  ],
-  "slug": "jean-pierre-door",
   "twitter": "doorjean",
-  "twitter_created_at": "2012-02-14T22:47:34",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Feb 14 22:47:34 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Loiret - Vice-président de la commission des Affaires sociales - Cardiologue - Père de 5 enfants et 6 fois Grand-père",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 195,
-   "follow_request_sent": false,
-   "followers_count": 6311,
-   "following": false,
-   "friends_count": 174,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 492616495,
-   "id_str": "492616495",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 183,
-   "location": "Montargis",
-   "name": "Jean-Pierre Door",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/492616495/1553243771",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1357657563203063810/1cNUMEy__normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357657563203063810/1cNUMEy__normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "doorjean",
-   "statuses_count": 1761,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Loiret - Vice-président de la commission des Affaires sociales - Cardiologue - Père de 5 enfants et 6 fois Grand-père",
-  "twitter_favourites": 195,
-  "twitter_followers": 6311,
-  "twitter_following": 174,
-  "twitter_id": 492616495,
-  "twitter_listed": 183,
-  "twitter_name": "Jean-Pierre Door",
-  "twitter_protected": false,
-  "twitter_tweets": 1761,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267289",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267289",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-pierre-door",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-pierre-door/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267289"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Pierre-Door",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267289",
@@ -711,10 +571,10 @@
   "id": "492616495",
   "name": "Jean-Pierre Door",
   "public_metrics": {
-   "followers_count": 6310,
+   "followers_count": 6314,
    "following_count": 174,
    "listed_count": 183,
-   "tweet_count": 1761
+   "tweet_count": 1762
   },
   "username": "doorjean"
  },

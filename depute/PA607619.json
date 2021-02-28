@@ -140,144 +140,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 26 Place de la Mairie 56800 Ploërmel Téléphone : 02 97 70 61 72"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bretagne / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Maëva Dano"
-   },
-   {
-    "collaborateur": "M. Christophe Nayl"
-   },
-   {
-    "collaborateur": "M. Victor Gallou"
-   }
-  ],
-  "date_naissance": "1962-05-21",
-  "emails": [
-   {
-    "email": "paul.molac@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 29,
-  "id_an": "607619",
-  "lieu_naissance": "Ploërmel (Morbihan)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Paul Molac",
-  "nom_circo": "Morbihan",
-  "nom_de_famille": "Molac",
-  "num_circo": 4,
-  "num_deptmt": "56",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "215",
-  "prenom": "Paul",
-  "profession": "Professeur du secondaire",
-  "sexe": "H",
-  "sites_web": [
-   "http://paulmolac.bzh",
-   "https://twitter.com/paul_molac",
-   "https://fr-fr.facebook.com/paulmolac"
-  ],
-  "slug": "paul-molac",
   "twitter": "paul_molac",
-  "twitter_created_at": "2011-12-30T21:52:53",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Dec 30 21:52:53 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 4è circonscription du Morbihan/Kannad Bro Ploermael.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "paulmolac.bzh",
-       "expanded_url": "http://paulmolac.bzh",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/MDQrTRqXyg"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2617,
-   "follow_request_sent": false,
-   "followers_count": 6546,
-   "following": false,
-   "friends_count": 471,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 450968514,
-   "id_str": "450968514",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 241,
-   "location": "",
-   "name": "Paul Molac",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/450968514/1497877730",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/799642746407550977/8jUf8IEs_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/799642746407550977/8jUf8IEs_normal.jpg",
-   "profile_link_color": "DD5F27",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "Paul_Molac",
-   "statuses_count": 6380,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/MDQrTRqXyg",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 4è circonscription du Morbihan/Kannad Bro Ploermael.",
-  "twitter_favourites": 2617,
-  "twitter_followers": 6546,
-  "twitter_following": 471,
-  "twitter_id": 450968514,
-  "twitter_listed": 241,
-  "twitter_name": "Paul Molac",
-  "twitter_protected": false,
-  "twitter_tweets": 6380,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607619",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607619",
-  "url_nosdeputes": "https://www.nosdeputes.fr/paul-molac",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/paul-molac/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607619"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Paul-Molac",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607619",
@@ -959,10 +823,10 @@
   "id": "450968514",
   "name": "Paul Molac",
   "public_metrics": {
-   "followers_count": 6545,
+   "followers_count": 6551,
    "following_count": 471,
    "listed_count": 241,
-   "tweet_count": 6380
+   "tweet_count": 6391
   },
   "username": "Paul_Molac"
  },

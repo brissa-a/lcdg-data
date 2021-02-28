@@ -73,140 +73,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 89 Marcel Perrin 95540 Mery-sur-Oise Téléphone : 01 34 67 74 58"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Isabelle Mercier"
-   },
-   {
-    "collaborateur": "Mme Lou Le Nabasque"
-   },
-   {
-    "collaborateur": "Mme Sylvaine Prache"
-   },
-   {
-    "collaborateur": "Mme Claudie Violette"
-   }
-  ],
-  "date_naissance": "1967-06-20",
-  "emails": [
-   {
-    "email": "guillaume.vuilletet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 7,
-  "id_an": "721262",
-  "lieu_naissance": "Beauvais (Oise)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Guillaume Vuilletet",
-  "nom_circo": "Val-d'Oise",
-  "nom_de_famille": "Vuilletet",
-  "num_circo": 2,
-  "num_deptmt": "95",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "373",
-  "prenom": "Guillaume",
-  "profession": "Cadre supérieur (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/g_vuilletet",
-   "https://www.facebook.com/vuilletet",
-   "https://fr-fr.facebook.com/guillaume.vuilletet"
-  ],
-  "slug": "guillaume-vuilletet",
   "twitter": "g_vuilletet",
-  "twitter_created_at": "2009-09-12T12:31:54",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Sep 12 12:31:54 +0000 2009",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Vice-président du Groupe @LaRem_AN • Commission des Lois • Député Val d'Oise",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/vuilletet/",
-       "expanded_url": "https://www.facebook.com/vuilletet/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/EyThhg1TTn"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1648,
-   "follow_request_sent": false,
-   "followers_count": 3318,
-   "following": false,
-   "friends_count": 842,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 73632751,
-   "id_str": "73632751",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 119,
-   "location": "Méry (95), Ile-de-France",
-   "name": "Guillaume Vuilletet",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/73632751/1570790158",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1173998130926428162/-OzV_q2c_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173998130926428162/-OzV_q2c_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "g_vuilletet",
-   "statuses_count": 2638,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/EyThhg1TTn",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Vice-président du Groupe @LaRem_AN • Commission des Lois • Député Val d'Oise",
-  "twitter_favourites": 1648,
-  "twitter_followers": 3318,
-  "twitter_following": 842,
-  "twitter_id": 73632751,
-  "twitter_listed": 119,
-  "twitter_name": "Guillaume Vuilletet",
-  "twitter_protected": false,
-  "twitter_tweets": 2638,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721262",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721262",
-  "url_nosdeputes": "https://www.nosdeputes.fr/guillaume-vuilletet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/guillaume-vuilletet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721262"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Guillaume-Vuilletet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721262",
@@ -1170,7 +1038,7 @@
   "id": "73632751",
   "name": "Guillaume Vuilletet",
   "public_metrics": {
-   "followers_count": 3317,
+   "followers_count": 3324,
    "following_count": 842,
    "listed_count": 119,
    "tweet_count": 2641

@@ -58,159 +58,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Eko Zabym derrière boulangerie Rue Abare Providence 97139 Les Abymes Téléphone : 05 90 97 15 08"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Guadeloupe / Conseil régional / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Tony Suédois"
-   },
-   {
-    "collaborateur": "Mme Oxann Sahai"
-   },
-   {
-    "collaborateur": "M. Pierre Soulez"
-   },
-   {
-    "collaborateur": "M. Raphaël Lapin"
-   },
-   {
-    "collaborateur": "Mme Georgia Saint-Jean"
-   },
-   {
-    "collaborateur": "M. Patrice Resdedant"
-   },
-   {
-    "collaborateur": "Mme Keiza Grand-Bonheur"
-   },
-   {
-    "collaborateur": "Mme Sandrine Serva"
-   }
-  ],
-  "date_naissance": "1974-06-21",
-  "emails": [
-   {
-    "email": "olivier.serva@assemblee-nationale.fr"
-   },
-   {
-    "email": "o.serva@ose.gp"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 107,
-  "id_an": "720960",
-  "lieu_naissance": "Pointe-à-Pitre (Guadeloupe)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Olivier Serva",
-  "nom_circo": "Guadeloupe",
-  "nom_de_famille": "Serva",
-  "num_circo": 1,
-  "num_deptmt": "971",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "311",
-  "prenom": "Olivier",
-  "profession": "Expert comptable",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.olivierserva.fr",
-   "https://twitter.com/olivier_serva",
-   "https://fr-fr.facebook.com/Olivier-SERVA-407236749324296"
-  ],
-  "slug": "olivier-serva",
   "twitter": "olivier_serva",
-  "twitter_created_at": "2014-12-31T13:14:23",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Dec 31 13:14:23 +0000 2014",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la Guadeloupe / Pdt de la délégation aux outremer à @AssembleeNat / Pdt EKO ZABYM / Conseiller municipal et communautaire de la ville des Abymes.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "olivierserva.fr",
-       "expanded_url": "http://www.olivierserva.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gg6lqQmyPe"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2670,
-   "follow_request_sent": false,
-   "followers_count": 3074,
-   "following": false,
-   "friends_count": 721,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2953113070,
-   "id_str": "2953113070",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 119,
-   "location": "Abymes",
-   "name": "Olivier SERVA",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953113070/1584725897",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1333772499008544769/ipLG_PPO_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333772499008544769/ipLG_PPO_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "olivier_serva",
-   "statuses_count": 3290,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/gg6lqQmyPe",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Guadeloupe / Pdt de la délégation aux outremer à @AssembleeNat / Pdt EKO ZABYM / Conseiller municipal et communautaire de la ville des Abymes.",
-  "twitter_favourites": 2670,
-  "twitter_followers": 3074,
-  "twitter_following": 721,
-  "twitter_id": 2953113070,
-  "twitter_listed": 119,
-  "twitter_name": "Olivier SERVA",
-  "twitter_protected": false,
-  "twitter_tweets": 3290,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720960",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720960",
-  "url_nosdeputes": "https://www.nosdeputes.fr/olivier-serva",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/olivier-serva/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720960"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Olivier-Serva",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720960",
@@ -472,10 +321,10 @@
   "id": "2953113070",
   "name": "Olivier SERVA",
   "public_metrics": {
-   "followers_count": 3076,
-   "following_count": 721,
-   "listed_count": 119,
-   "tweet_count": 3290
+   "followers_count": 3089,
+   "following_count": 720,
+   "listed_count": 120,
+   "tweet_count": 3291
   },
   "username": "olivier_serva"
  },

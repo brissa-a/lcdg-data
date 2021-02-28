@@ -174,143 +174,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Mairie de Tinchebray 5 Boulevard du Midi 61800 Tinchebray Bocage Téléphone : 02.33.37.29.77"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Orne / Conseil départemental / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marie-Claire Auvray"
-   },
-   {
-    "collaborateur": "Mme Catherine Turmeau"
-   },
-   {
-    "collaborateur": "Mme Mélina Jouffre"
-   },
-   {
-    "collaborateur": "M. Maxime Guilmin"
-   }
-  ],
-  "date_naissance": "1972-08-25",
-  "emails": [
-   {
-    "email": "jerome.nury@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LR",
-  "id": 446,
-  "id_an": "720644",
-  "lieu_naissance": "Valence (Drôme)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jérôme Nury",
-  "nom_circo": "Orne",
-  "nom_de_famille": "Nury",
-  "num_circo": 3,
-  "num_deptmt": "61",
-  "parti_ratt_financier": "Les Républicains",
-  "place_en_hemicycle": "30",
-  "prenom": "Jérôme",
-  "profession": "Cadre de la fonction publique",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jeromenury.fr",
-   "https://twitter.com/jeromenury"
-  ],
-  "slug": "jerome-nury",
   "twitter": "jeromenury",
-  "twitter_created_at": "2009-06-16T13:44:04",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Jun 16 13:44:04 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de L'Orne. Président de la Commission des affaires économiques, numériques et agricoles du Conseil départemental",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeromenury.fr",
-       "expanded_url": "http://www.jeromenury.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/5wSo16MYiC"
-      }
-     ]
-    }
-   },
-   "favourites_count": 444,
-   "follow_request_sent": false,
-   "followers_count": 1734,
-   "following": false,
-   "friends_count": 461,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 47626354,
-   "id_str": "47626354",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "FRANCE",
-   "name": "Jérôme NURY",
-   "notifications": false,
-   "profile_background_color": "352726",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/47626354/1591825178",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1062444398410153984/fBGPAlSo_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062444398410153984/fBGPAlSo_normal.jpg",
-   "profile_link_color": "D02B55",
-   "profile_sidebar_border_color": "829D5E",
-   "profile_sidebar_fill_color": "99CC33",
-   "profile_text_color": "3E4415",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "jeromenury",
-   "statuses_count": 1238,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/5wSo16MYiC",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de L'Orne. Président de la Commission des affaires économiques, numériques et agricoles du Conseil départemental",
-  "twitter_favourites": 444,
-  "twitter_followers": 1734,
-  "twitter_following": 461,
-  "twitter_id": 47626354,
-  "twitter_listed": 100,
-  "twitter_name": "Jérôme NURY",
-  "twitter_protected": false,
-  "twitter_tweets": 1238,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720644",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720644",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jerome-nury",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jerome-nury/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720644"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jérôme-Nury",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720644",
@@ -720,7 +585,7 @@
   "id": "47626354",
   "name": "Jérôme NURY",
   "public_metrics": {
-   "followers_count": 1735,
+   "followers_count": 1737,
    "following_count": 462,
    "listed_count": 100,
    "tweet_count": 1238

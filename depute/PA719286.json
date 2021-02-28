@@ -130,144 +130,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Assemblée de Corse /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Nicolas Bernardi"
-   },
-   {
-    "collaborateur": "M. Jean-Toussaint Mattei"
-   },
-   {
-    "collaborateur": "M. Lisandru Renucci"
-   },
-   {
-    "collaborateur": "M. Guillaume Luciani"
-   },
-   {
-    "collaborateur": "M. Petru-Antone Vesperini"
-   }
-  ],
-  "date_naissance": "1967-08-17",
-  "emails": [
-   {
-    "email": "paul-andre.colombani@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 339,
-  "id_an": "719286",
-  "lieu_naissance": "Bastia (Haute-Corse)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Paul-André Colombani",
-  "nom_circo": "Corse-du-Sud",
-  "nom_de_famille": "Colombani",
-  "num_circo": 2,
-  "num_deptmt": "2A",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "217",
-  "prenom": "Paul-André",
-  "profession": "Médecin",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/pacolombani",
-   "https://www.wmaker.net/pacolombani",
-   "https://www.paulandrecolombani.corsica"
-  ],
-  "slug": "paul-andre-colombani",
   "twitter": "pacolombani",
-  "twitter_created_at": "2015-10-30T08:47:52",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Oct 30 08:47:52 +0000 2015",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Médecin généraliste - Député Pè a Corsica de la 2de circonscription de Corse du Sud - Président de l’Observatoire Régional de la Santé de Corse.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "paulandrecolombani.corsica",
-       "expanded_url": "https://www.paulandrecolombani.corsica",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3lZo5KXntl"
-      }
-     ]
-    }
-   },
-   "favourites_count": 159,
-   "follow_request_sent": false,
-   "followers_count": 4209,
-   "following": false,
-   "friends_count": 438,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 4073986679,
-   "id_str": "4073986679",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 71,
-   "location": "Porto-Vecchio, France",
-   "name": "Paul-André Colombani",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4073986679/1495701565",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/867661373945372672/rYGzmECz_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/867661373945372672/rYGzmECz_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "pacolombani",
-   "statuses_count": 841,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/3lZo5KXntl",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Médecin généraliste - Député Pè a Corsica de la 2de circonscription de Corse du Sud - Président de l’Observatoire Régional de la Santé de Corse.",
-  "twitter_favourites": 159,
-  "twitter_followers": 4209,
-  "twitter_following": 438,
-  "twitter_id": 4073986679,
-  "twitter_listed": 71,
-  "twitter_name": "Paul-André Colombani",
-  "twitter_protected": false,
-  "twitter_tweets": 841,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719286",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719286",
-  "url_nosdeputes": "https://www.nosdeputes.fr/paul-andre-colombani",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/paul-andre-colombani/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719286"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Paul-André-Colombani",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719286",
@@ -602,10 +466,10 @@
   "id": "4073986679",
   "name": "Paul-André Colombani",
   "public_metrics": {
-   "followers_count": 4211,
+   "followers_count": 4215,
    "following_count": 438,
    "listed_count": 71,
-   "tweet_count": 841
+   "tweet_count": 842
   },
   "username": "pacolombani"
  },

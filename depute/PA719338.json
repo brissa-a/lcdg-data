@@ -90,137 +90,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence permanence 54 Quai de Léon 29800 Landerneau Téléphone : 02 29 63 92 41"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Armelle Coffin"
-   },
-   {
-    "collaborateur": "Mme Caroline Forest"
-   },
-   {
-    "collaborateur": "M. Gautier Vernerey"
-   }
-  ],
-  "date_naissance": "1960-04-06",
-  "emails": [
-   {
-    "email": "graziella.melchior@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 131,
-  "id_an": "719338",
-  "lieu_naissance": "Brest (Finistère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Graziella Melchior",
-  "nom_circo": "Finistère",
-  "nom_de_famille": "Melchior",
-  "num_circo": 5,
-  "num_deptmt": "29",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "231",
-  "prenom": "Graziella",
-  "profession": "Professeure agrégée du supérieur",
-  "sexe": "F",
-  "sites_web": [
-   "http://graziellamelchior.fr",
-   "https://twitter.com/GrazieMelchior",
-   "https://fr-fr.facebook.com/GraziellaMelchior"
-  ],
-  "slug": "graziella-melchior",
   "twitter": "GrazieMelchior",
-  "twitter_created_at": "2017-05-18T11:08:47",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu May 18 11:08:47 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée #LaREM de la 5e circo du #Finistère ; Secrétaire de la #AfEcoAN et Rapporteure du PJL #AntiGaspi #EconomieCirculaire",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "graziellamelchior.fr",
-       "expanded_url": "http://graziellamelchior.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1MmEwKBXQG"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2146,
-   "follow_request_sent": false,
-   "followers_count": 4403,
-   "following": false,
-   "friends_count": 1545,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 865162242861535200,
-   "id_str": "865162242861535232",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 110,
-   "location": "Lesneven, France",
-   "name": "Graziella Melchior",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/865162242861535232/1506277664",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/884144289797861376/KvU-Edk8_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/884144289797861376/KvU-Edk8_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "GrazieMelchior",
-   "statuses_count": 2147,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/1MmEwKBXQG",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée #LaREM de la 5e circo du #Finistère ; Secrétaire de la #AfEcoAN et Rapporteure du PJL #AntiGaspi #EconomieCirculaire",
-  "twitter_favourites": 2146,
-  "twitter_followers": 4403,
-  "twitter_following": 1545,
-  "twitter_id": 865162242861535200,
-  "twitter_listed": 110,
-  "twitter_name": "Graziella Melchior",
-  "twitter_protected": false,
-  "twitter_tweets": 2147,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719338",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719338",
-  "url_nosdeputes": "https://www.nosdeputes.fr/graziella-melchior",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/graziella-melchior/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719338"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Graziella-Melchior",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719338",
@@ -1437,10 +1308,10 @@
   "id": "865162242861535232",
   "name": "Graziella Melchior",
   "public_metrics": {
-   "followers_count": 4407,
-   "following_count": 1545,
-   "listed_count": 111,
-   "tweet_count": 2148
+   "followers_count": 4412,
+   "following_count": 1546,
+   "listed_count": 110,
+   "tweet_count": 2151
   },
   "username": "GrazieMelchior"
  },

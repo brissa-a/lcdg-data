@@ -62,140 +62,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Lise Cassagne"
-   },
-   {
-    "collaborateur": "M. Simon Roussel"
-   },
-   {
-    "collaborateur": "Mme Clémentine Paluszezak"
-   },
-   {
-    "collaborateur": "M. Antoine Béchet"
-   }
-  ],
-  "date_naissance": "1989-09-25",
-  "emails": [
-   {
-    "email": "ugo.bernalicis@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@ugobernalicis.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 260,
-  "id_an": "720430",
-  "lieu_naissance": "Arras (Pas-de-Calais)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Ugo Bernalicis",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Bernalicis",
-  "num_circo": 2,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "629",
-  "prenom": "Ugo",
-  "profession": "Fonctionnaire de catégorie A",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.ugobernalicis.fr",
-   "https://twitter.com/ugobernalicis",
-   "https://fr-fr.facebook.com/ugobernalicis"
-  ],
-  "slug": "ugo-bernalicis",
   "twitter": "ugobernalicis",
-  "twitter_created_at": "2010-06-05T20:20:54",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Sat Jun 05 20:20:54 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député Français du Nord #5902 @AssembleeNat\nMembre de la @Franceinsoumise et du @LePG\nRévolutionnaire et écosocialiste #6eRepublique #Justice #Sécurité",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "ugobernalicis.fr",
-       "expanded_url": "http://www.ugobernalicis.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/i34zQLxo8m"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8257,
-   "follow_request_sent": false,
-   "followers_count": 21163,
-   "following": false,
-   "friends_count": 1282,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 152382594,
-   "id_str": "152382594",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 274,
-   "location": "Lille - 59",
-   "name": "Ugo Bernalicis φ",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/152382594/1604864523",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1310977131401408512/iGqFch1M_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310977131401408512/iGqFch1M_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "Ugobernalicis",
-   "statuses_count": 13969,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/i34zQLxo8m",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député Français du Nord #5902 @AssembleeNat Membre de la @Franceinsoumise et du @LePG Révolutionnaire et écosocialiste #6eRepublique #Justice #Sécurité",
-  "twitter_favourites": 8257,
-  "twitter_followers": 21163,
-  "twitter_following": 1282,
-  "twitter_id": 152382594,
-  "twitter_listed": 274,
-  "twitter_name": "Ugo Bernalicis φ",
-  "twitter_protected": false,
-  "twitter_tweets": 13969,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720430",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720430",
-  "url_nosdeputes": "https://www.nosdeputes.fr/ugo-bernalicis",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/ugo-bernalicis/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720430"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Ugo-Bernalicis",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720430",
@@ -915,10 +783,10 @@
   "id": "152382594",
   "name": "Ugo Bernalicis φ",
   "public_metrics": {
-   "followers_count": 21207,
+   "followers_count": 21279,
    "following_count": 1282,
-   "listed_count": 272,
-   "tweet_count": 13979
+   "listed_count": 273,
+   "tweet_count": 13995
   },
   "username": "Ugobernalicis"
  },

@@ -282,143 +282,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Résidence les Fincelles 5 Rue Georges Colomb Appartement 2 70200 Lure"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Baudoncourt / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Naël Madi"
-   },
-   {
-    "collaborateur": "Mme Virginie Bernard-Zender"
-   },
-   {
-    "collaborateur": "M. Jean-Christophe Balduini"
-   },
-   {
-    "collaborateur": "Mme Dominique Rossé"
-   }
-  ],
-  "date_naissance": "1969-03-22",
-  "emails": [
-   {
-    "email": "christophe.lejeune@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 127,
-  "id_an": "722320",
-  "lieu_naissance": "Luxeuil-les-Bains (Haute-Saône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Christophe Lejeune",
-  "nom_circo": "Haute-Saône",
-  "nom_de_famille": "Lejeune",
-  "num_circo": 2,
-  "num_deptmt": "70",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "569",
-  "prenom": "Christophe",
-  "profession": "Courtier en assurances",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/lejeune_ch",
-   "http://www.christophe-lejeune-depute.fr"
-  ],
-  "slug": "christophe-lejeune",
   "twitter": "lejeune_ch",
-  "twitter_created_at": "2017-08-31T14:59:48",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Aug 31 14:59:48 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député #LaREM de la #HauteSaône 🇫🇷\nCommission de la #Défense - Conseiller municipal Baudoncourt \n#Agri #Santé #Industrie #Lyme #Sécurité #FrancheComté #IHEDN",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "christophe-lejeune-depute.fr",
-       "expanded_url": "https://www.christophe-lejeune-depute.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/wulmMqEtqh"
-      }
-     ]
-    }
-   },
-   "favourites_count": 1876,
-   "follow_request_sent": false,
-   "followers_count": 2073,
-   "following": false,
-   "friends_count": 2185,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 903271106303455200,
-   "id_str": "903271106303455234",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 61,
-   "location": "Lure, Haute-Saône",
-   "name": "Christophe Lejeune",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/903271106303455234/1604073073",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/903272106556878848/NCYW-jk1_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/903272106556878848/NCYW-jk1_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "lejeune_ch",
-   "statuses_count": 1754,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/wulmMqEtqh",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député #LaREM de la #HauteSaône 🇫🇷 Commission de la #Défense - Conseiller municipal Baudoncourt #Agri #Santé #Industrie #Lyme #Sécurité #FrancheComté #IHEDN",
-  "twitter_favourites": 1876,
-  "twitter_followers": 2073,
-  "twitter_following": 2185,
-  "twitter_id": 903271106303455200,
-  "twitter_listed": 61,
-  "twitter_name": "Christophe Lejeune",
-  "twitter_protected": false,
-  "twitter_tweets": 1754,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722320",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722320",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christophe-lejeune",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christophe-lejeune/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722320"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christophe-Lejeune",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722320",
@@ -841,10 +706,10 @@
   "id": "903271106303455234",
   "name": "Christophe Lejeune",
   "public_metrics": {
-   "followers_count": 2075,
-   "following_count": 2185,
+   "followers_count": 2077,
+   "following_count": 2187,
    "listed_count": 61,
-   "tweet_count": 1755
+   "tweet_count": 1756
   },
   "username": "lejeune_ch"
  },

@@ -179,122 +179,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01 40 63 02 54"
-   },
-   {
-    "adresse": "Permanence parlementaire 6 Rue du Professeur Langevin 51200 Epernay Téléphone : 03 26 54 17 32"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Etienne Bertin"
-   },
-   {
-    "collaborateur": "M. Stéphane Joly"
-   },
-   {
-    "collaborateur": "Mme Eugénie Goulet"
-   }
-  ],
-  "date_naissance": "1962-02-12",
-  "emails": [
-   {
-    "email": "eric.girardin@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 249,
-  "id_an": "720222",
-  "lieu_naissance": "Sézanne (Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Éric Girardin",
-  "nom_circo": "Marne",
-  "nom_de_famille": "Girardin",
-  "num_circo": 3,
-  "num_deptmt": "51",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "463",
-  "prenom": "Éric",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/GirardinEric"
-  ],
-  "slug": "eric-girardin",
   "twitter": "GirardinEric",
-  "twitter_created_at": "2013-05-21T15:37:02",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 21 15:37:02 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 3ème Circonscription de la Marne.\nMembre de #LaRépubliqueEnMarche",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 728,
-   "follow_request_sent": false,
-   "followers_count": 3558,
-   "following": false,
-   "friends_count": 574,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 1446653228,
-   "id_str": "1446653228",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 87,
-   "location": "Villers-Allerand, France",
-   "name": "GIRARDIN Eric",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446653228/1531548025",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/878699183473139712/Lm6_vxrI_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/878699183473139712/Lm6_vxrI_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "GirardinEric",
-   "statuses_count": 2640,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 3ème Circonscription de la Marne. Membre de #LaRépubliqueEnMarche",
-  "twitter_favourites": 728,
-  "twitter_followers": 3558,
-  "twitter_following": 574,
-  "twitter_id": 1446653228,
-  "twitter_listed": 87,
-  "twitter_name": "GIRARDIN Eric",
-  "twitter_protected": false,
-  "twitter_tweets": 2640,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720222",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720222",
-  "url_nosdeputes": "https://www.nosdeputes.fr/eric-girardin",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/eric-girardin/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720222"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Éric-Girardin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720222",
@@ -1511,9 +1397,9 @@
   "name": "GIRARDIN Eric",
   "public_metrics": {
    "followers_count": 3559,
-   "following_count": 574,
+   "following_count": 573,
    "listed_count": 87,
-   "tweet_count": 2642
+   "tweet_count": 2644
   },
   "username": "GirardinEric"
  },

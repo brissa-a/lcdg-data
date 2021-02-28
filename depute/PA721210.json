@@ -53,135 +53,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Thomas Mettey"
-   },
-   {
-    "collaborateur": "Mme Delphine Vannier"
-   },
-   {
-    "collaborateur": "M. Sylvain Noël"
-   }
-  ],
-  "date_naissance": "1968-08-17",
-  "emails": [
-   {
-    "email": "alexis.corbiere@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 397,
-  "id_an": "721210",
-  "lieu_naissance": "Béziers (Hérault)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Alexis Corbière",
-  "nom_circo": "Seine-Saint-Denis",
-  "nom_de_famille": "Corbière",
-  "num_circo": 7,
-  "num_deptmt": "93",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "603",
-  "prenom": "Alexis",
-  "profession": "Professeur de lycée professionnel",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.alexis-corbiere.fi",
-   "http://www.alexis-corbiere.com",
-   "https://twitter.com/alexiscorbiere",
-   "https://fr-fr.facebook.com/Alexiscorbiere"
-  ],
-  "slug": "alexis-corbiere",
   "twitter": "alexiscorbiere",
-  "twitter_created_at": "2011-03-14T21:37:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Mar 14 21:37:11 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la Seine-Saint-Denis - Montreuil et Bagnolet. Porte-parole de @jlmelenchon, Président du Groupe d'amitié France-Chili à l'Assemblée Nationale",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "alexis-corbiere.fi",
-       "expanded_url": "http://www.alexis-corbiere.fi",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/w7d5eXhN0K"
-      }
-     ]
-    }
-   },
-   "favourites_count": 872,
-   "follow_request_sent": false,
-   "followers_count": 102085,
-   "following": false,
-   "friends_count": 2065,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 266215308,
-   "id_str": "266215308",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 788,
-   "location": "Paris, France",
-   "name": "Alexis Corbière",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": true,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/266215308/1604161296",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/910250980683534336/fsxx0iTi_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/910250980683534336/fsxx0iTi_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "alexiscorbiere",
-   "statuses_count": 25173,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/w7d5eXhN0K",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la Seine-Saint-Denis - Montreuil et Bagnolet. Porte-parole de @jlmelenchon, Président du Groupe d'amitié France-Chili à l'Assemblée Nationale",
-  "twitter_favourites": 872,
-  "twitter_followers": 102085,
-  "twitter_following": 2065,
-  "twitter_id": 266215308,
-  "twitter_listed": 788,
-  "twitter_name": "Alexis Corbière",
-  "twitter_protected": false,
-  "twitter_tweets": 25173,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721210",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721210",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alexis-corbiere",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alexis-corbiere/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721210"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alexis-Corbière",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721210",
@@ -948,10 +821,10 @@
   "id": "266215308",
   "name": "Alexis Corbière",
   "public_metrics": {
-   "followers_count": 102136,
-   "following_count": 2066,
+   "followers_count": 102284,
+   "following_count": 2067,
    "listed_count": 789,
-   "tweet_count": 25177
+   "tweet_count": 25183
   },
   "username": "alexiscorbiere"
  },

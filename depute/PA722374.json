@@ -59,138 +59,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Sainte-Foy-lès-Lyon / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Carine Frappa"
-   },
-   {
-    "collaborateur": "Mme Myriam Tendil"
-   },
-   {
-    "collaborateur": "Mme Jacqueline Lebrun"
-   }
-  ],
-  "date_naissance": "1958-04-30",
-  "emails": [
-   {
-    "email": "cyrille.isaac-sibille@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 6,
-  "id_an": "722374",
-  "lieu_naissance": "Lyon 6 (Rhône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Cyrille Isaac-Sibille",
-  "nom_circo": "Rhône",
-  "nom_de_famille": "Isaac-Sibille",
-  "num_circo": 12,
-  "num_deptmt": "69",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "183",
-  "prenom": "Cyrille",
-  "profession": "Médecin",
-  "sexe": "H",
-  "sites_web": [
-   "http://cyrille.isaac-sibille.fr",
-   "https://twitter.com/Cisaacsibille",
-   "https://www.instagram.com/CIsaacSibille"
-  ],
-  "slug": "cyrille-isaac-sibille",
   "twitter": "Cisaacsibille",
-  "twitter_created_at": "2014-01-06T15:33:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Jan 06 15:33:09 +0000 2014",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 12e circo' du Rhône |  Secrétaire de la commission des Affaires sociales | Majorité Présidentielle-République en Marche/ @modem | 🇫🇷🇪🇺",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "instagram.com/CIsaacSibille/",
-       "expanded_url": "https://www.instagram.com/CIsaacSibille/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/l8U01hUey2"
-      }
-     ]
-    }
-   },
-   "favourites_count": 8930,
-   "follow_request_sent": false,
-   "followers_count": 2235,
-   "following": false,
-   "friends_count": 1176,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 2279236686,
-   "id_str": "2279236686",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 98,
-   "location": "Paris / Rhône",
-   "name": "Cyrille IsaacSibille",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2279236686/1550154721",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1060898058345558016/TAgQp3_C_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060898058345558016/TAgQp3_C_normal.jpg",
-   "profile_link_color": "E81C4F",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "CIsaacSibille",
-   "statuses_count": 5427,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/l8U01hUey2",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 12e circo' du Rhône | Secrétaire de la commission des Affaires sociales | Majorité Présidentielle-République en Marche/ @modem | 🇫🇷🇪🇺",
-  "twitter_favourites": 8930,
-  "twitter_followers": 2235,
-  "twitter_following": 1176,
-  "twitter_id": 2279236686,
-  "twitter_listed": 98,
-  "twitter_name": "Cyrille IsaacSibille",
-  "twitter_protected": false,
-  "twitter_tweets": 5427,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722374",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722374",
-  "url_nosdeputes": "https://www.nosdeputes.fr/cyrille-isaac-sibille",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/cyrille-isaac-sibille/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722374"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Cyrille-Isaac-Sibille",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722374",
@@ -745,10 +615,10 @@
   "id": "2279236686",
   "name": "Cyrille IsaacSibille",
   "public_metrics": {
-   "followers_count": 2235,
+   "followers_count": 2237,
    "following_count": 1176,
    "listed_count": 97,
-   "tweet_count": 5428
+   "tweet_count": 5436
   },
   "username": "CIsaacSibille"
  },

@@ -128,134 +128,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Andy Douet"
-   },
-   {
-    "collaborateur": "M. Jamel Cheniour"
-   },
-   {
-    "collaborateur": "Mme Estelle Bennouara"
-   }
-  ],
-  "date_naissance": "1964-06-19",
-  "emails": [
-   {
-    "email": "jean-marie.fievet@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 554,
-  "id_an": "722134",
-  "lieu_naissance": "Bressuire (Deux-Sèvres)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Marie Fiévet",
-  "nom_circo": "Deux-Sèvres",
-  "nom_de_famille": "Fiévet",
-  "num_circo": 3,
-  "num_deptmt": "79",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "560",
-  "prenom": "Jean-Marie",
-  "profession": "Fonctionnaire de catégorie B",
-  "sexe": "H",
-  "sites_web": [
-   "https://jean-marie-fievet.fr",
-   "https://twitter.com/JeanMarieFIEVET",
-   "https://www.facebook.com/FIEVETJeanMarie"
-  ],
-  "slug": "jean-marie-fievet",
   "twitter": "JeanMarieFIEVET",
-  "twitter_created_at": "2017-05-16T08:28:52",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 16 08:28:52 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député des Deux-Sèvres. Secrétaire de la commission de la défense nationale et des forces armées à l'#AN. Auditeur IHEDN, 56e AED",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jean-marie-fievet.fr",
-       "expanded_url": "https://jean-marie-fievet.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/VxTgbVjXzh"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2088,
-   "follow_request_sent": false,
-   "followers_count": 3212,
-   "following": false,
-   "friends_count": 1712,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864397221533552600,
-   "id_str": "864397221533552642",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 93,
-   "location": "Deux-Sèvres, Poitou-Charentes",
-   "name": "Jean-Marie Fiévet",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864397221533552642/1558945697",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/912351978545647616/cRV5urBw_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/912351978545647616/cRV5urBw_normal.jpg",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "JeanMarieFIEVET",
-   "statuses_count": 1613,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/VxTgbVjXzh",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député des Deux-Sèvres. Secrétaire de la commission de la défense nationale et des forces armées à l'#AN. Auditeur IHEDN, 56e AED",
-  "twitter_favourites": 2088,
-  "twitter_followers": 3212,
-  "twitter_following": 1712,
-  "twitter_id": 864397221533552600,
-  "twitter_listed": 93,
-  "twitter_name": "Jean-Marie Fiévet",
-  "twitter_protected": false,
-  "twitter_tweets": 1613,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722134",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722134",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-marie-fievet",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-marie-fievet/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722134"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Marie-Fiévet",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722134",
@@ -1011,10 +885,10 @@
   "id": "864397221533552642",
   "name": "Jean-Marie Fiévet",
   "public_metrics": {
-   "followers_count": 3212,
-   "following_count": 1714,
+   "followers_count": 3214,
+   "following_count": 1719,
    "listed_count": 93,
-   "tweet_count": 1620
+   "tweet_count": 1624
   },
   "username": "JeanMarieFIEVET"
  },

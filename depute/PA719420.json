@@ -216,130 +216,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "4 Rue de la sous-préfecture 25200 Montbéliard Téléphone : 09.62.51.34.76"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Grand-Charmont / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Pays-de-Montbéliard / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Hind Tennia"
-   },
-   {
-    "collaborateur": "Mme Catherine Conat"
-   },
-   {
-    "collaborateur": "M. Maxime Cucherousset"
-   }
-  ],
-  "date_naissance": "1957-09-23",
-  "emails": [
-   {
-    "email": "denis.sommer@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 251,
-  "id_an": "719420",
-  "lieu_naissance": "Lure (Haute-Saône)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Denis Sommer",
-  "nom_circo": "Doubs",
-  "nom_de_famille": "Sommer",
-  "num_circo": 3,
-  "num_deptmt": "25",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "623",
-  "prenom": "Denis",
-  "profession": "Professeur du secondaire et technique",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.denis-sommer.net",
-   "https://twitter.com/DenisSommer"
-  ],
-  "slug": "denis-sommer",
   "twitter": "DenisSommer",
-  "twitter_created_at": "2009-08-20T15:02:09",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Aug 20 15:02:09 +0000 2009",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député du Doubs @AssembleeNat | Commission @AN_AfEco #PACTE #Industrie #Économie",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 1148,
-   "follow_request_sent": false,
-   "followers_count": 1639,
-   "following": false,
-   "friends_count": 473,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 67336250,
-   "id_str": "67336250",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 108,
-   "location": "",
-   "name": "Denis Sommer",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/67336250/1606058109",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1349721270334722048/JGp4x9FX_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349721270334722048/JGp4x9FX_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "DenisSommer",
-   "statuses_count": 571,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député du Doubs @AssembleeNat | Commission @AN_AfEco #PACTE #Industrie #Économie",
-  "twitter_favourites": 1148,
-  "twitter_followers": 1639,
-  "twitter_following": 473,
-  "twitter_id": 67336250,
-  "twitter_listed": 108,
-  "twitter_name": "Denis Sommer",
-  "twitter_protected": false,
-  "twitter_tweets": 571,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719420",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719420",
-  "url_nosdeputes": "https://www.nosdeputes.fr/denis-sommer",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/denis-sommer/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719420"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Denis-Sommer",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719420",
@@ -821,7 +699,7 @@
   "id": "67336250",
   "name": "Denis Sommer",
   "public_metrics": {
-   "followers_count": 1639,
+   "followers_count": 1640,
    "following_count": 473,
    "listed_count": 108,
    "tweet_count": 571

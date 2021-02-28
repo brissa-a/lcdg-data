@@ -105,175 +105,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Dacruz Baloa"
-   },
-   {
-    "collaborateur": "M. Aurélien Royal"
-   },
-   {
-    "collaborateur": "Mme Marine Brian"
-   }
-  ],
-  "date_naissance": "1977-02-16",
-  "emails": [
-   {
-    "email": "jennifer.detemmerman@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LT",
-  "id": 395,
-  "id_an": "720538",
-  "lieu_naissance": "Valenciennes (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jennifer De Temmerman",
-  "nom_circo": "Nord",
-  "nom_de_famille": "Temmerman (De)",
-  "num_circo": 15,
-  "num_deptmt": "59",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "210",
-  "prenom": "Jennifer",
-  "profession": "Profession rattachée à l'enseignement",
-  "sexe": "F",
-  "sites_web": [
-   "http://jennifer-detemmerman.fr",
-   "https://twitter.com/Jdetemmerman",
-   "https://fr-fr.facebook.com/JenniferDeTemmermanXVNord"
-  ],
-  "slug": "jennifer-de-temmerman",
   "twitter": "Jdetemmerman",
-  "twitter_created_at": "2017-05-22T10:38:44",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon May 22 10:38:44 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la 15° circonscription du Nord - LT @AssembleeNat @AN_Finances  @PACE_News Présidente @GEODD4 #ODD #SDGs #Agenda2030 \n\nPresse : 06.07.61.90.47",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jennifer-detemmerman.fr",
-       "expanded_url": "http://jennifer-detemmerman.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/suAaGzhgqj"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4951,
-   "follow_request_sent": false,
-   "followers_count": 2603,
-   "following": false,
-   "friends_count": 1360,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 866604231847018500,
-   "id_str": "866604231847018496",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 67,
-   "location": "Flandre",
-   "name": "Jennifer De Temmerman 🌍🕊🐝",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866604231847018496/1610985516",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1362094299056394246/VU2rboWB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362094299056394246/VU2rboWB_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_location": null,
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JDetemmerman",
-   "status": {
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Mon Feb 22 15:59:52 +0000 2021",
-    "entities": {
-     "hashtags": [],
-     "symbols": [],
-     "urls": [
-      {
-       "display_url": "twitter.com/i/web/status/1…",
-       "expanded_url": "https://twitter.com/i/web/status/1363881201333903368",
-       "indices": [
-        117,
-        140
-       ],
-       "url": "https://t.co/IPH2jSLoto"
-      }
-     ],
-     "user_mentions": []
-    },
-    "favorite_count": 14,
-    "favorited": false,
-    "geo": null,
-    "id": 1363881201333903400,
-    "id_str": "1363881201333903368",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "fr",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 3,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "text": "Prendre du recul, avec une vision venue de l'étranger, sur la folie qui s'empare de nos dirigeants. Il faut tjs 1 e… https://t.co/IPH2jSLoto",
-    "truncated": true
-   },
-   "statuses_count": 4528,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/suAaGzhgqj",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Députée de la 15° circonscription du Nord - LT @AssembleeNat @AN_Finances @PACE_News Présidente @GEODD4 #ODD #SDGs #Agenda2030 Presse : 06.07.61.90.47",
-  "twitter_favourites": 4951,
-  "twitter_followers": 2603,
-  "twitter_following": 1360,
-  "twitter_id": 866604231847018500,
-  "twitter_listed": 67,
-  "twitter_name": "Jennifer De Temmerman 🌍🕊🐝",
-  "twitter_protected": false,
-  "twitter_tweets": 4528,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720538",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720538",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jennifer-de-temmerman",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jennifer-de-temmerman/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720538"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jennifer-De Temmerman",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720538",
@@ -761,9 +594,9 @@
   "id": "866604231847018496",
   "name": "Jennifer De Temmerman 🌍🕊🐝",
   "public_metrics": {
-   "followers_count": 2602,
+   "followers_count": 2603,
    "following_count": 1359,
-   "listed_count": 68,
+   "listed_count": 67,
    "tweet_count": 4528
   },
   "username": "JDetemmerman"

@@ -79,144 +79,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Toulouse Métropole /  / membre"
-   },
-   {
-    "mandat": "Toulouse / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Marthe Marti"
-   },
-   {
-    "collaborateur": "M. Léo Barruol"
-   },
-   {
-    "collaborateur": "M. Laurent Esquenet"
-   },
-   {
-    "collaborateur": "M. Damien Verbiguié"
-   }
-  ],
-  "date_naissance": "1958-09-09",
-  "emails": [
-   {
-    "email": "jean-luc.lagleize@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 501,
-  "id_an": "719504",
-  "lieu_naissance": "Tarbes (Hautes-Pyrénées)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Jean-Luc Lagleize",
-  "nom_circo": "Haute-Garonne",
-  "nom_de_famille": "Lagleize",
-  "num_circo": 2,
-  "num_deptmt": "31",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "185",
-  "prenom": "Jean-Luc",
-  "profession": "Conseiller patrimonial",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.jeanluclagleize.fr",
-   "https://twitter.com/jeanluclagleize",
-   "https://fr-fr.facebook.com/JL.Lagleize"
-  ],
-  "slug": "jean-luc-lagleize",
   "twitter": "jeanluclagleize",
-  "twitter_created_at": "2010-03-02T08:35:07",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Mar 02 08:35:07 +0000 2010",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la @HauteGaronne à l'@AssembleeNat. Membre du groupe @DeputesDem et Secrétaire de l’@AN_AfEco. Président 🇫🇷-🇨🇦 & ✈-🛰.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanluclagleize.fr",
-       "expanded_url": "http://www.jeanluclagleize.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/x0ww5yeJO4"
-      }
-     ]
-    }
-   },
-   "favourites_count": 2867,
-   "follow_request_sent": false,
-   "followers_count": 4241,
-   "following": false,
-   "friends_count": 3542,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 118977224,
-   "id_str": "118977224",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 160,
-   "location": "Toulouse, France",
-   "name": "Jean-Luc LAGLEIZE",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/118977224/1568796590",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1174366300912721920/Kiyy_Zl__normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174366300912721920/Kiyy_Zl__normal.jpg",
-   "profile_link_color": "F58B3B",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "JeanLucLAGLEIZE",
-   "statuses_count": 9053,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/x0ww5yeJO4",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la @HauteGaronne à l'@AssembleeNat. Membre du groupe @DeputesDem et Secrétaire de l’@AN_AfEco. Président 🇫🇷-🇨🇦 & ✈-🛰.",
-  "twitter_favourites": 2867,
-  "twitter_followers": 4241,
-  "twitter_following": 3542,
-  "twitter_id": 118977224,
-  "twitter_listed": 160,
-  "twitter_name": "Jean-Luc LAGLEIZE",
-  "twitter_protected": false,
-  "twitter_tweets": 9053,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719504",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719504",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-luc-lagleize",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-luc-lagleize/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719504"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Luc-Lagleize",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719504",
@@ -498,10 +362,10 @@
   "id": "118977224",
   "name": "Jean-Luc LAGLEIZE",
   "public_metrics": {
-   "followers_count": 4246,
-   "following_count": 3543,
+   "followers_count": 4248,
+   "following_count": 3542,
    "listed_count": 159,
-   "tweet_count": 9053
+   "tweet_count": 9058
   },
   "username": "JeanLucLAGLEIZE"
  },

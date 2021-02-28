@@ -138,147 +138,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence BP 30826 F 86108 Châtellerault Cedex"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Moncontour / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Anaïs Auger"
-   },
-   {
-    "collaborateur": "M. François Plaze"
-   },
-   {
-    "collaborateur": "M. Xavier Brouard"
-   },
-   {
-    "collaborateur": "Mme Manon Baillargeaux"
-   }
-  ],
-  "date_naissance": "1972-07-26",
-  "emails": [
-   {
-    "email": "nicolas.turquois@gmail.com"
-   },
-   {
-    "email": "nicolas.turquois@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 190,
-  "id_an": "722162",
-  "lieu_naissance": "Tours (Indre-et-Loire)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Nicolas Turquois",
-  "nom_circo": "Vienne",
-  "nom_de_famille": "Turquois",
-  "num_circo": 4,
-  "num_deptmt": "86",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "265",
-  "prenom": "Nicolas",
-  "profession": "Agriculteur-propriétaire exploitant",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.nicolas-turquois.fr",
-   "https://twitter.com/TurquoisNicolas",
-   "https://fr-fr.facebook.com/nicolasturquois8604"
-  ],
-  "slug": "nicolas-turquois",
   "twitter": "TurquoisNicolas",
-  "twitter_created_at": "2017-05-17T14:07:05",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed May 17 14:07:05 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la Vienne @GroupeMoDem | Commission des Affaires Sociales | Energies renouvelables | Sortie du glyphosate | Pratiques innovantes pour l’emploi",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "nicolas-turquois.fr",
-       "expanded_url": "http://www.nicolas-turquois.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/dl5QtdzFDX"
-      }
-     ]
-    }
-   },
-   "favourites_count": 5821,
-   "follow_request_sent": false,
-   "followers_count": 2594,
-   "following": false,
-   "friends_count": 1512,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 864844727828582400,
-   "id_str": "864844727828582400",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 102,
-   "location": "Moncontour, France",
-   "name": "Nicolas Turquois",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/864844727828582400/1589135323",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1226182225630236677/YaZaTKhj_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226182225630236677/YaZaTKhj_normal.jpg",
-   "profile_link_color": "133366",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "TurquoisNicolas",
-   "statuses_count": 5632,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/dl5QtdzFDX",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député de la Vienne @GroupeMoDem | Commission des Affaires Sociales | Energies renouvelables | Sortie du glyphosate | Pratiques innovantes pour l’emploi",
-  "twitter_favourites": 5821,
-  "twitter_followers": 2594,
-  "twitter_following": 1512,
-  "twitter_id": 864844727828582400,
-  "twitter_listed": 102,
-  "twitter_name": "Nicolas Turquois",
-  "twitter_protected": false,
-  "twitter_tweets": 5632,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722162",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722162",
-  "url_nosdeputes": "https://www.nosdeputes.fr/nicolas-turquois",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/nicolas-turquois/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722162"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Nicolas-Turquois",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722162",
@@ -1085,10 +946,10 @@
   "id": "864844727828582400",
   "name": "Nicolas Turquois",
   "public_metrics": {
-   "followers_count": 2596,
-   "following_count": 1512,
+   "followers_count": 2600,
+   "following_count": 1513,
    "listed_count": 101,
-   "tweet_count": 5632
+   "tweet_count": 5639
   },
   "username": "TurquoisNicolas"
  },

@@ -139,134 +139,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Thibaud Roblin"
-   },
-   {
-    "collaborateur": "Mme Myriam Saint-André"
-   },
-   {
-    "collaborateur": "Mme Lara Baeza"
-   }
-  ],
-  "date_naissance": "1991-03-23",
-  "emails": [
-   {
-    "email": "benedicte.peyrol@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 144,
-  "id_an": "718736",
-  "lieu_naissance": "Vichy (Allier)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Bénédicte Peyrol",
-  "nom_circo": "Allier",
-  "nom_de_famille": "Peyrol",
-  "num_circo": 3,
-  "num_deptmt": "03",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "395",
-  "prenom": "Bénédicte",
-  "profession": "Conseiller juridique",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/B_Peyrol",
-   "https://www.benedicte-peyrol.fr",
-   "https://fr-fr.facebook.com/BPeyrolREM0303"
-  ],
-  "slug": "benedicte-peyrol",
   "twitter": "B_Peyrol",
-  "twitter_created_at": "2009-11-24T11:49:47",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Nov 24 11:49:47 +0000 2009",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Députée de l’Allier #ruralité - Membre de la commission des finances",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "benedicte-peyrol.fr",
-       "expanded_url": "https://www.benedicte-peyrol.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/65ngGIosLU"
-      }
-     ]
-    }
-   },
-   "favourites_count": 4732,
-   "follow_request_sent": false,
-   "followers_count": 6080,
-   "following": false,
-   "friends_count": 691,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 92254303,
-   "id_str": "92254303",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 143,
-   "location": "Vichy, France",
-   "name": "Bénédicte Peyrol",
-   "notifications": false,
-   "profile_background_color": "DBE9ED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/92254303/1603954934",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1172556998015143936/OEinL5YV_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172556998015143936/OEinL5YV_normal.jpg",
-   "profile_link_color": "FA743E",
-   "profile_sidebar_border_color": "DBE9ED",
-   "profile_sidebar_fill_color": "E6F6F9",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "B_Peyrol",
-   "statuses_count": 4508,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/65ngGIosLU",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de l’Allier #ruralité - Membre de la commission des finances",
-  "twitter_favourites": 4732,
-  "twitter_followers": 6080,
-  "twitter_following": 691,
-  "twitter_id": 92254303,
-  "twitter_listed": 143,
-  "twitter_name": "Bénédicte Peyrol",
-  "twitter_protected": false,
-  "twitter_tweets": 4508,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718736",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718736",
-  "url_nosdeputes": "https://www.nosdeputes.fr/benedicte-peyrol",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/benedicte-peyrol/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718736"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Bénédicte-Peyrol",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718736",
@@ -1218,10 +1092,10 @@
   "id": "92254303",
   "name": "Bénédicte Peyrol",
   "public_metrics": {
-   "followers_count": 6082,
-   "following_count": 693,
-   "listed_count": 144,
-   "tweet_count": 4510
+   "followers_count": 6081,
+   "following_count": 694,
+   "listed_count": 143,
+   "tweet_count": 4521
   },
   "username": "B_Peyrol"
  },

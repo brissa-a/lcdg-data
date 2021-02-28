@@ -223,143 +223,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire 13 Rue Gambetta 60000 Beauvais"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.75.50"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Charles Herrbach"
-   },
-   {
-    "collaborateur": "M. Rémi Scholtz"
-   },
-   {
-    "collaborateur": "Mme Isabelle Lescalle"
-   },
-   {
-    "collaborateur": "Mme Marion Lescalle"
-   }
-  ],
-  "date_naissance": "1964-06-02",
-  "emails": [
-   {
-    "email": "permanence@agnesthill.fr"
-   },
-   {
-    "email": "agnes.thill@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 180,
-  "id_an": "720568",
-  "lieu_naissance": "Paris 14ème (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Agnès Thill",
-  "nom_circo": "Oise",
-  "nom_de_famille": "Thill",
-  "num_circo": 2,
-  "num_deptmt": "60",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "122",
-  "prenom": "Agnès",
-  "profession": "Enseignant du 1er degré-Directeur d'école",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.agnesthill.fr",
-   "https://twitter.com/ThillAgnes",
-   "https://fr-fr.facebook.com/agnesthilldeputee"
-  ],
-  "slug": "agnes-thill",
   "twitter": "ThillAgnes",
-  "twitter_created_at": "2017-02-03T18:15:56",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Feb 03 18:15:56 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de l'Oise exclue de #LaRepubliqueEnMarche Com. des Aff culturelles et Educ. Gr UDI&I. membre du CSP. Beauvaisienne, Directrice d'école en disponibilité.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "agnesthill.fr",
-       "expanded_url": "http://www.agnesthill.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/TZuN0f5QKG"
-      }
-     ]
-    }
-   },
-   "favourites_count": 35912,
-   "follow_request_sent": false,
-   "followers_count": 9876,
-   "following": false,
-   "friends_count": 1102,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 827581398965944300,
-   "id_str": "827581398965944320",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 110,
-   "location": "",
-   "name": "Agnès Thill",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/827581398965944320/1505219802",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/863614708737331201/IAnyW8aT_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/863614708737331201/IAnyW8aT_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ThillAgnes",
-   "statuses_count": 18391,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/TZuN0f5QKG",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de l'Oise exclue de #LaRepubliqueEnMarche Com. des Aff culturelles et Educ. Gr UDI&I. membre du CSP. Beauvaisienne, Directrice d'école en disponibilité.",
-  "twitter_favourites": 35912,
-  "twitter_followers": 9876,
-  "twitter_following": 1102,
-  "twitter_id": 827581398965944300,
-  "twitter_listed": 110,
-  "twitter_name": "Agnès Thill",
-  "twitter_protected": false,
-  "twitter_tweets": 18391,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720568",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720568",
-  "url_nosdeputes": "https://www.nosdeputes.fr/agnes-thill",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/agnes-thill/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720568"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Agnès-Thill",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720568",
@@ -1352,10 +1217,10 @@
   "id": "827581398965944320",
   "name": "Agnès Thill",
   "public_metrics": {
-   "followers_count": 9879,
+   "followers_count": 9874,
    "following_count": 1102,
-   "listed_count": 112,
-   "tweet_count": 18394
+   "listed_count": 110,
+   "tweet_count": 18404
   },
   "username": "ThillAgnes"
  },

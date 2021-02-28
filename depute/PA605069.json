@@ -231,146 +231,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 PARIS 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 9 Rue de la République 02140 Vervins Téléphone : 03 23 58 52 45"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Bohain-en-Vermandois / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Noé Girardot-Champsaur"
-   },
-   {
-    "collaborateur": "Mme Sandrine Le-Vourch"
-   },
-   {
-    "collaborateur": "M. Arnaud Battefort"
-   }
-  ],
-  "date_naissance": "1957-12-27",
-  "emails": [
-   {
-    "email": "bricoutjl@orange.fr"
-   },
-   {
-    "email": "jean-louis.bricout@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "SOC",
-  "id": 262,
-  "id_an": "605069",
-  "lieu_naissance": "Busigny (Nord)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Jean-Louis Bricout",
-  "nom_circo": "Aisne",
-  "nom_de_famille": "Bricout",
-  "num_circo": 3,
-  "num_deptmt": "02",
-  "parti_ratt_financier": "Parti socialiste",
-  "place_en_hemicycle": "498",
-  "prenom": "Jean-Louis",
-  "profession": "Cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/jlbricout",
-   "http://www.jeanlouisbricout.fr"
-  ],
-  "slug": "jean-louis-bricout",
   "twitter": "jlbricout",
-  "twitter_created_at": "2015-02-10T12:50:13",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Feb 10 12:50:13 +0000 2015",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 3ème circonscription de l'Aisne - Membre de la commission des finances - @socialistesAN // Ancien Maire de Bohain en Vermandois (2008-2017)",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "jeanlouisbricout.fr",
-       "expanded_url": "http://www.jeanlouisbricout.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/u6pQPokW4k"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3099,
-   "follow_request_sent": false,
-   "followers_count": 3135,
-   "following": false,
-   "friends_count": 3137,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 3028135792,
-   "id_str": "3028135792",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 100,
-   "location": "Entre l'Aisne et Paris",
-   "name": "Jean-Louis Bricout",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3028135792/1505834629",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/883045364034654210/-ZoXkas7_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/883045364034654210/-ZoXkas7_normal.jpg",
-   "profile_link_color": "19CF86",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "jlbricout",
-   "statuses_count": 5139,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/u6pQPokW4k",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 3ème circonscription de l'Aisne - Membre de la commission des finances - @socialistesAN // Ancien Maire de Bohain en Vermandois (2008-2017)",
-  "twitter_favourites": 3099,
-  "twitter_followers": 3135,
-  "twitter_following": 3137,
-  "twitter_id": 3028135792,
-  "twitter_listed": 100,
-  "twitter_name": "Jean-Louis Bricout",
-  "twitter_protected": false,
-  "twitter_tweets": 5139,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605069",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605069",
-  "url_nosdeputes": "https://www.nosdeputes.fr/jean-louis-bricout",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/jean-louis-bricout/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605069"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Jean-Louis-Bricout",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605069",
@@ -1196,10 +1058,10 @@
   "id": "3028135792",
   "name": "Jean-Louis Bricout",
   "public_metrics": {
-   "followers_count": 3141,
-   "following_count": 3151,
+   "followers_count": 3151,
+   "following_count": 3154,
    "listed_count": 100,
-   "tweet_count": 5140
+   "tweet_count": 5146
   },
   "username": "jlbricout"
  },

@@ -56,136 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.90.13"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Paris 9ème Arrondissement / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Rodrigo Diaz-Romero"
-   },
-   {
-    "collaborateur": "Mme Aude Vrillet"
-   }
-  ],
-  "date_naissance": "1974-04-28",
-  "emails": [
-   {
-    "email": "sylvain.maillard@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 242,
-  "id_an": "717379",
-  "lieu_naissance": "saint maur des fossés (Val-de-Marne)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Sylvain Maillard",
-  "nom_circo": "Paris",
-  "nom_de_famille": "Maillard",
-  "num_circo": 1,
-  "num_deptmt": "75",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "330",
-  "prenom": "Sylvain",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://sylvainmaillard.fr",
-   "https://twitter.com/sylvainmaillard",
-   "http://Instagram.com/Sylvain_Maillard",
-   "https://fr-fr.facebook.com/sylvainmaillardparis"
-  ],
-  "slug": "sylvain-maillard",
   "twitter": "sylvainmaillard",
-  "twitter_created_at": "2011-04-14T15:49:21",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Thu Apr 14 15:49:21 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Paris/ French MP • Porte-parole des députés @LaREM_AN • Président grp d'étude antisémitisme • VP @AtelierLiRe..et toujours chef d'entreprise @Alantys.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "Instagram.com/Sylvain_Mailla…",
-       "expanded_url": "http://Instagram.com/Sylvain_Maillard",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UC2sjVBb89"
-      }
-     ]
-    }
-   },
-   "favourites_count": 43466,
-   "follow_request_sent": false,
-   "followers_count": 30993,
-   "following": false,
-   "friends_count": 4077,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 282119887,
-   "id_str": "282119887",
-   "is_translation_enabled": true,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 325,
-   "location": "Paris, France",
-   "name": "🇨🇵🇪🇺 Sylvain Maillard",
-   "notifications": false,
-   "profile_background_color": "3B94D9",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/282119887/1612565564",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1236766624654471168/chYCmeME_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236766624654471168/chYCmeME_normal.jpg",
-   "profile_link_color": "000000",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "SylvainMaillard",
-   "statuses_count": 13831,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UC2sjVBb89",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Paris/ French MP • Porte-parole des députés @LaREM_AN • Président grp d'étude antisémitisme • VP @AtelierLiRe..et toujours chef d'entreprise @Alantys.",
-  "twitter_favourites": 43466,
-  "twitter_followers": 30993,
-  "twitter_following": 4077,
-  "twitter_id": 282119887,
-  "twitter_listed": 325,
-  "twitter_name": "🇨🇵🇪🇺 Sylvain Maillard",
-  "twitter_protected": false,
-  "twitter_tweets": 13831,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA717379",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA717379",
-  "url_nosdeputes": "https://www.nosdeputes.fr/sylvain-maillard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/sylvain-maillard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA717379"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sylvain-Maillard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA717379",
@@ -1317,10 +1189,10 @@
   "id": "282119887",
   "name": "🇨🇵🇪🇺 Sylvain Maillard",
   "public_metrics": {
-   "followers_count": 30991,
-   "following_count": 4081,
-   "listed_count": 326,
-   "tweet_count": 13834
+   "followers_count": 30997,
+   "following_count": 4082,
+   "listed_count": 325,
+   "tweet_count": 13849
   },
   "username": "SylvainMaillard"
  },

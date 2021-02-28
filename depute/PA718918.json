@@ -52,136 +52,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Guillaume Jesberger"
-   },
-   {
-    "collaborateur": "Mme Charlotte Duval"
-   },
-   {
-    "collaborateur": "M. Wiktor Zamojski"
-   },
-   {
-    "collaborateur": "M. Gabriel Schill"
-   }
-  ],
-  "date_naissance": "1983-09-17",
-  "emails": [
-   {
-    "email": "alexandra.louis@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 572,
-  "id_an": "718918",
-  "lieu_naissance": "Grenoble (Isère)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Alexandra Louis",
-  "nom_circo": "Bouches-du-Rhône",
-  "nom_de_famille": "Louis",
-  "num_circo": 3,
-  "num_deptmt": "13",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "456",
-  "prenom": "Alexandra",
-  "profession": "Avocat",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.alexandralouis.fr",
-   "https://twitter.com/ALouisDeputee13"
-  ],
-  "slug": "alexandra-louis",
   "twitter": "ALouisDeputee13",
-  "twitter_created_at": "2017-05-23T01:21:25",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue May 23 01:21:25 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "⚖️ Députée LREM de #Marseille missionnée sur la #LoiSchiappa | @AN_ComLois | Droits de l’enfant | #ViolencesConjugales | Rapporteure @CoE_fr | #HabitatIndigne",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "alexandralouis.fr",
-       "expanded_url": "http://www.alexandralouis.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/7sgoQL970H"
-      }
-     ]
-    }
-   },
-   "favourites_count": 12087,
-   "follow_request_sent": false,
-   "followers_count": 6811,
-   "following": false,
-   "friends_count": 1804,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 866826365152235500,
-   "id_str": "866826365152235521",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 122,
-   "location": "Marseille, France",
-   "name": "Alexandra Louis",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/866826365152235521/1612548041",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1201484173753700354/imzvhRZJ_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201484173753700354/imzvhRZJ_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "ALouisDeputee13",
-   "statuses_count": 5414,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/7sgoQL970H",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "⚖️ Députée LREM de #Marseille missionnée sur la #LoiSchiappa | @AN_ComLois | Droits de l’enfant | #ViolencesConjugales | Rapporteure @CoE_fr | #HabitatIndigne",
-  "twitter_favourites": 12087,
-  "twitter_followers": 6811,
-  "twitter_following": 1804,
-  "twitter_id": 866826365152235500,
-  "twitter_listed": 122,
-  "twitter_name": "Alexandra Louis",
-  "twitter_protected": false,
-  "twitter_tweets": 5414,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718918",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718918",
-  "url_nosdeputes": "https://www.nosdeputes.fr/alexandra-louis",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/alexandra-louis/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718918"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Alexandra-Louis",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA718918",
@@ -809,10 +681,10 @@
   "id": "866826365152235521",
   "name": "Alexandra Louis",
   "public_metrics": {
-   "followers_count": 6815,
-   "following_count": 1806,
-   "listed_count": 122,
-   "tweet_count": 5421
+   "followers_count": 6851,
+   "following_count": 1807,
+   "listed_count": 121,
+   "tweet_count": 5450
   },
   "username": "ALouisDeputee13"
  },

@@ -56,150 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "16/12/2007 / 19/06/2012 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Sarcelles / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Roissy Pays de France / Communauté d'agglomération / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Ninos Oclin"
-   },
-   {
-    "collaborateur": "M. François-Xavier Valentin"
-   },
-   {
-    "collaborateur": "Mme Julie Andreani"
-   },
-   {
-    "collaborateur": "M. Ali Abchiche"
-   }
-  ],
-  "date_naissance": "1962-07-31",
-  "emails": [
-   {
-    "email": "francois.pupponi@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 250,
-  "id_an": "405480",
-  "lieu_naissance": "Nantua (Ain)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "François Pupponi",
-  "nom_circo": "Val-d'Oise",
-  "nom_de_famille": "Pupponi",
-  "num_circo": 8,
-  "num_deptmt": "95",
-  "parti_ratt_financier": "Régions et peuples solidaires",
-  "place_en_hemicycle": "216",
-  "prenom": "François",
-  "profession": "Administrateur des Finances publiques adjoint",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/fpupponi",
-   "https://www.facebook.com/Pupponi",
-   "https://fr-fr.facebook.com/PupponiFrancois"
-  ],
-  "slug": "francois-pupponi",
   "twitter": "fpupponi",
-  "twitter_created_at": "2011-11-16T09:07:11",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Nov 16 09:07:11 +0000 2011",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Député de la 8e circonscription du Val-d'Oise",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "facebook.com/Pupponi",
-       "expanded_url": "https://www.facebook.com/Pupponi",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UAgYgtbYR8"
-      }
-     ]
-    }
-   },
-   "favourites_count": 123,
-   "follow_request_sent": false,
-   "followers_count": 6083,
-   "following": false,
-   "friends_count": 560,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 413819531,
-   "id_str": "413819531",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 178,
-   "location": "Sarcelles",
-   "name": "François Pupponi",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/413819531/1566378291",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/2328688253/srfv7wzv8pct4z7wwxdx_normal.jpeg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2328688253/srfv7wzv8pct4z7wwxdx_normal.jpeg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "fpupponi",
-   "statuses_count": 1516,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UAgYgtbYR8",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 8e circonscription du Val-d'Oise",
-  "twitter_favourites": 123,
-  "twitter_followers": 6083,
-  "twitter_following": 560,
-  "twitter_id": 413819531,
-  "twitter_listed": 178,
-  "twitter_name": "François Pupponi",
-  "twitter_protected": false,
-  "twitter_tweets": 1516,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA405480",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA405480",
-  "url_nosdeputes": "https://www.nosdeputes.fr/francois-pupponi",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/francois-pupponi/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA405480"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/François-Pupponi",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA405480",
@@ -622,10 +480,10 @@
   "id": "413819531",
   "name": "François Pupponi",
   "public_metrics": {
-   "followers_count": 6086,
+   "followers_count": 6105,
    "following_count": 560,
    "listed_count": 178,
-   "tweet_count": 1516
+   "tweet_count": 1528
   },
   "username": "fpupponi"
  },

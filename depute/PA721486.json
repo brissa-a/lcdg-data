@@ -92,145 +92,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "Permanence parlementaire 78 Quater Boulevard Thiers 88200 Remiremont Téléphone : 03.29.22.30.65"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Chloé Bouley"
-   },
-   {
-    "collaborateur": "M. Florent Frantz"
-   },
-   {
-    "collaborateur": "Mme Patricia Ferry"
-   },
-   {
-    "collaborateur": "Mme Isabeau de Challemaison"
-   },
-   {
-    "collaborateur": "M. Eric Constantin"
-   }
-  ],
-  "date_naissance": "1983-12-30",
-  "emails": [
-   {
-    "email": "christophe.naegelen@assemblee-nationale.fr"
-   },
-   {
-    "email": "contact@naegelen.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 114,
-  "id_an": "721486",
-  "lieu_naissance": "Remiremont (Vosges)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Christophe Naegelen",
-  "nom_circo": "Vosges",
-  "nom_de_famille": "Naegelen",
-  "num_circo": 3,
-  "num_deptmt": "88",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "135",
-  "prenom": "Christophe",
-  "profession": "Industriel-Chef d'entreprise",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.naegelen.fr",
-   "https://twitter.com/naegelenchris",
-   "https://fr-fr.facebook.com/ChristopheNaegelenVosges"
-  ],
-  "slug": "christophe-naegelen",
   "twitter": "naegelenchris",
-  "twitter_created_at": "2017-07-28T18:41:43",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri Jul 28 18:41:43 +0000 2017",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Chef d'entreprise. \nDéputé des Vosges",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "naegelen.fr",
-       "expanded_url": "http://www.naegelen.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/r0yygEP0bJ"
-      }
-     ]
-    }
-   },
-   "favourites_count": 628,
-   "follow_request_sent": false,
-   "followers_count": 1040,
-   "following": false,
-   "friends_count": 353,
-   "geo_enabled": false,
-   "has_extended_profile": false,
-   "id": 891005764097192000,
-   "id_str": "891005764097191938",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 45,
-   "location": "FRANCE",
-   "name": "Christophe Naegelen",
-   "notifications": false,
-   "profile_background_color": "F5F8FA",
-   "profile_background_image_url": null,
-   "profile_background_image_url_https": null,
-   "profile_background_tile": false,
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1272950797526093832/80QsayZc_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272950797526093832/80QsayZc_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "naegelenchris",
-   "statuses_count": 455,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/r0yygEP0bJ",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Chef d'entreprise. Député des Vosges",
-  "twitter_favourites": 628,
-  "twitter_followers": 1040,
-  "twitter_following": 353,
-  "twitter_id": 891005764097192000,
-  "twitter_listed": 45,
-  "twitter_name": "Christophe Naegelen",
-  "twitter_protected": false,
-  "twitter_tweets": 455,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721486",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721486",
-  "url_nosdeputes": "https://www.nosdeputes.fr/christophe-naegelen",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/christophe-naegelen/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721486"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Christophe-Naegelen",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721486",
@@ -670,7 +533,7 @@
   "id": "891005764097191938",
   "name": "Christophe Naegelen",
   "public_metrics": {
-   "followers_count": 1041,
+   "followers_count": 1044,
    "following_count": 353,
    "listed_count": 45,
    "tweet_count": 455

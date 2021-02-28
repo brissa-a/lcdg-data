@@ -78,143 +78,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Léna Demeret"
-   },
-   {
-    "collaborateur": "Mme Anne-Audrey Yvon"
-   },
-   {
-    "collaborateur": "Mme Florence Colin"
-   },
-   {
-    "collaborateur": "Mme Héloïse Pastinelli"
-   },
-   {
-    "collaborateur": "M. Jean Bosco Nicolle"
-   },
-   {
-    "collaborateur": "Mme Lorène Kloster"
-   }
-  ],
-  "date_naissance": "1967-04-05",
-  "emails": [
-   {
-    "email": "laurence.maillart-mehaignerie@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 489,
-  "id_an": "719718",
-  "lieu_naissance": "Paris (Paris)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Laurence Maillart-Méhaignerie",
-  "nom_circo": "Ille-et-Vilaine",
-  "nom_de_famille": "Maillart-Méhaignerie",
-  "num_circo": 2,
-  "num_deptmt": "35",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "447",
-  "prenom": "Laurence",
-  "profession": "Chef entreprise",
-  "sexe": "F",
-  "sites_web": [
-   "https://twitter.com/LMaillart",
-   "http://lmaillartmehaignerie.fr",
-   "https://fr-fr.facebook.com/LMaillartDeputeeLaREM"
-  ],
-  "slug": "laurence-maillart-mehaignerie",
   "twitter": "LMaillart",
-  "twitter_created_at": "2013-03-25T14:40:51",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Mar 25 14:40:51 +0000 2013",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée d'Ille-et-Vilaine | Présidente de la Commission du Développement durable et de l’aménagement du territoire",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "lmaillartmehaignerie.fr",
-       "expanded_url": "http://lmaillartmehaignerie.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4n3HC5Jtxn"
-      }
-     ]
-    }
-   },
-   "favourites_count": 10455,
-   "follow_request_sent": false,
-   "followers_count": 7809,
-   "following": false,
-   "friends_count": 1433,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 1299738390,
-   "id_str": "1299738390",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 181,
-   "location": "Rennes, Ille&Vilaine, Bretagne",
-   "name": "Laurence Maillart M",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299738390/1604267396",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1080089844334948352/jut8dLwB_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080089844334948352/jut8dLwB_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "LMaillart",
-   "statuses_count": 7288,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/4n3HC5Jtxn",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée d'Ille-et-Vilaine | Présidente de la Commission du Développement durable et de l’aménagement du territoire",
-  "twitter_favourites": 10455,
-  "twitter_followers": 7809,
-  "twitter_following": 1433,
-  "twitter_id": 1299738390,
-  "twitter_listed": 181,
-  "twitter_name": "Laurence Maillart M",
-  "twitter_protected": false,
-  "twitter_tweets": 7288,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719718",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719718",
-  "url_nosdeputes": "https://www.nosdeputes.fr/laurence-maillart-mehaignerie",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/laurence-maillart-mehaignerie/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719718"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Laurence-Maillart-Méhaignerie",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719718",
@@ -851,10 +716,10 @@
   "id": "1299738390",
   "name": "Laurence Maillart M",
   "public_metrics": {
-   "followers_count": 7822,
-   "following_count": 1436,
-   "listed_count": 182,
-   "tweet_count": 7291
+   "followers_count": 7827,
+   "following_count": 1434,
+   "listed_count": 181,
+   "tweet_count": 7297
   },
   "username": "LMaillart"
  },

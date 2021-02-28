@@ -90,142 +90,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Permanence parlementaire, 9 Faubourg de Lyon, 90000 Belfort Téléphone : 03 84 90 15 10"
-   },
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "19/06/2002 / 19/06/2007 / fin de législature"
-   },
-   {
-    "mandat": "20/06/2007 / 19/06/2012 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Grand Belfort /  / membre"
-   },
-   {
-    "mandat": "Valdoie / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Claire Parrot"
-   },
-   {
-    "collaborateur": "Mme Corinne Coudereau"
-   },
-   {
-    "collaborateur": "Mme Laëtitia Guilbert"
-   }
-  ],
-  "date_naissance": "1966-01-21",
-  "emails": [
-   {
-    "email": "michel.zumkeller@wanadoo.fr"
-   },
-   {
-    "email": "michel.zumkeller@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 329,
-  "id_an": "267330",
-  "lieu_naissance": "Belfort (Territoire de Belfort)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Michel Zumkeller",
-  "nom_circo": "Territoire de Belfort",
-  "nom_de_famille": "Zumkeller",
-  "num_circo": 2,
-  "num_deptmt": "90",
-  "parti_ratt_financier": "Union des démocrates, radicaux et libéraux",
-  "place_en_hemicycle": "134",
-  "prenom": "Michel",
-  "profession": "Comptable",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.michelzumkeller.fr",
-   "https://twitter.com/MichelZumkeller"
-  ],
-  "slug": "michel-zumkeller",
   "twitter": "MichelZumkeller",
-  "twitter_created_at": "2011-12-20T14:43:30",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Tue Dec 20 14:43:30 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du Territoire de Belfort.\nPresident de la commission nationale des investitures de l'udi",
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   },
-   "favourites_count": 400,
-   "follow_request_sent": false,
-   "followers_count": 3479,
-   "following": false,
-   "friends_count": 1876,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 441892644,
-   "id_str": "441892644",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 178,
-   "location": "Belfort",
-   "name": "Michel Zumkeller député",
-   "notifications": false,
-   "profile_background_color": "2B2B2A",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/441892644/1555949757",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/943127330305855488/aVAAZbJY_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/943127330305855488/aVAAZbJY_normal.jpg",
-   "profile_link_color": "981CEB",
-   "profile_sidebar_border_color": "C3C6C7",
-   "profile_sidebar_fill_color": "B6E9FC",
-   "profile_text_color": "0A050A",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "MichelZumkeller",
-   "statuses_count": 834,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": null,
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député du Territoire de Belfort. President de la commission nationale des investitures de l'udi",
-  "twitter_favourites": 400,
-  "twitter_followers": 3479,
-  "twitter_following": 1876,
-  "twitter_id": 441892644,
-  "twitter_listed": 178,
-  "twitter_name": "Michel Zumkeller député",
-  "twitter_protected": false,
-  "twitter_tweets": 834,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267330",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267330",
-  "url_nosdeputes": "https://www.nosdeputes.fr/michel-zumkeller",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/michel-zumkeller/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267330"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Michel-Zumkeller",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267330",
@@ -457,10 +323,10 @@
   "id": "441892644",
   "name": "Michel Zumkeller député",
   "public_metrics": {
-   "followers_count": 3479,
-   "following_count": 1878,
+   "followers_count": 3484,
+   "following_count": 1879,
    "listed_count": 178,
-   "tweet_count": 834
+   "tweet_count": 837
   },
   "username": "MichelZumkeller"
  },

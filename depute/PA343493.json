@@ -56,147 +56,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "26 Cours de Chazelles 56100 Lorient Téléphone : 02 97 89 86 34"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "05/05/2011 / 19/06/2012 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   },
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Lorient / Conseil municipal / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Emilie Chatard"
-   },
-   {
-    "collaborateur": "Mme Virginie Larralde"
-   }
-  ],
-  "date_naissance": "1976-04-20",
-  "emails": [
-   {
-    "email": "gwendal.rouillard@assemblee-nationale.fr"
-   },
-   {
-    "email": "rouillard.gwendal@orange.fr"
-   }
-  ],
-  "groupe_sigle": "LREM",
-  "id": 438,
-  "id_an": "343493",
-  "lieu_naissance": "Pontivy (Morbihan)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 1,
-  "nom": "Gwendal Rouillard",
-  "nom_circo": "Morbihan",
-  "nom_de_famille": "Rouillard",
-  "num_circo": 5,
-  "num_deptmt": "56",
-  "parti_ratt_financier": "La République en Marche",
-  "place_en_hemicycle": "354",
-  "prenom": "Gwendal",
-  "profession": "Cadre du secteur public",
-  "sexe": "H",
-  "sites_web": [
-   "http://gwendal-rouillard.fr",
-   "https://twitter.com/G_ROUILLARD",
-   "https://fr-fr.facebook.com/gwendal.rouillard1"
-  ],
-  "slug": "gwendal-rouillard",
   "twitter": "G_ROUILLARD",
-  "twitter_created_at": "2012-10-01T08:51:04",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Oct 01 08:51:04 +0000 2012",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de Lorient, Défense & Forces armées 🇫🇷 Passion pour les pays celtes, Marseille, Rome, Athènes & Liban 🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧🇮🇹🇬🇷🇱🇧",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "gwendal-rouillard.fr",
-       "expanded_url": "http://gwendal-rouillard.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/JiPdsXCw6V"
-      }
-     ]
-    }
-   },
-   "favourites_count": 30632,
-   "follow_request_sent": false,
-   "followers_count": 8867,
-   "following": false,
-   "friends_count": 8715,
-   "geo_enabled": true,
-   "has_extended_profile": true,
-   "id": 856059444,
-   "id_str": "856059444",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 264,
-   "location": "Pays de Lorient",
-   "name": "Gwendal ROUILLARD",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/856059444/1507756997",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1302908411047272448/U2vcbM7b_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302908411047272448/U2vcbM7b_normal.jpg",
-   "profile_link_color": "0084B4",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "G_ROUILLARD",
-   "statuses_count": 16093,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/JiPdsXCw6V",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de Lorient, Défense & Forces armées 🇫🇷 Passion pour les pays celtes, Marseille, Rome, Athènes & Liban 🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧🇮🇹🇬🇷🇱🇧",
-  "twitter_favourites": 30632,
-  "twitter_followers": 8867,
-  "twitter_following": 8715,
-  "twitter_id": 856059444,
-  "twitter_listed": 264,
-  "twitter_name": "Gwendal ROUILLARD",
-  "twitter_protected": false,
-  "twitter_tweets": 16093,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA343493",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA343493",
-  "url_nosdeputes": "https://www.nosdeputes.fr/gwendal-rouillard",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/gwendal-rouillard/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA343493"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Gwendal-Rouillard",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA343493",
@@ -492,10 +353,10 @@
   "id": "856059444",
   "name": "Gwendal ROUILLARD",
   "public_metrics": {
-   "followers_count": 8870,
-   "following_count": 8717,
+   "followers_count": 8979,
+   "following_count": 8725,
    "listed_count": 264,
-   "tweet_count": 16103
+   "tweet_count": 16114
   },
   "username": "G_ROUILLARD"
  },

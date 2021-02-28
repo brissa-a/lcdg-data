@@ -90,149 +90,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale 126 Rue de l'Université 75355 Paris 07 SP"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "20/06/2012 / 20/06/2017 / fin de législature"
-   },
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Nouvelle-Calédonie / Congrès / membre"
-   },
-   {
-    "mandat": "Assemblée de la province Sud de la Nouvelle Calédonie /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Etienne de Crouy-Chanel"
-   },
-   {
-    "collaborateur": "M. Eric Helard"
-   },
-   {
-    "collaborateur": "Mme Marie-Astrid Jardé"
-   },
-   {
-    "collaborateur": "Mme Laurie Oudache"
-   },
-   {
-    "collaborateur": "M. Stéphane Bertinetti"
-   }
-  ],
-  "date_naissance": "1958-10-27",
-  "emails": [
-   {
-    "email": "philippe.gomes@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "UDI",
-  "id": 401,
-  "id_an": "610775",
-  "lieu_naissance": "Alger (Algérie)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Philippe Gomès",
-  "nom_circo": "Nouvelle-Calédonie",
-  "nom_de_famille": "Gomès",
-  "num_circo": 2,
-  "num_deptmt": "988",
-  "parti_ratt_financier": "Calédonie Ensemble",
-  "place_en_hemicycle": "104",
-  "prenom": "Philippe",
-  "profession": "Cadre supérieur de la fonction publique",
-  "sexe": "H",
-  "sites_web": [
-   "http://www.caledonie-ensemble.com",
-   "https://twitter.com/PhilippeGomesCE"
-  ],
-  "slug": "philippe-gomes",
   "twitter": "PhilippeGomesCE",
-  "twitter_created_at": "2011-11-09T00:31:22",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Wed Nov 09 00:31:22 +0000 2011",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député de la 2ème circonscription de #NouvelleCalédonie et fondateur du parti @CaledonieE",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "caledonie-ensemble.com",
-       "expanded_url": "http://www.caledonie-ensemble.com",
-       "indices": [
-        0,
-        22
-       ],
-       "url": "http://t.co/3RKWzdORii"
-      }
-     ]
-    }
-   },
-   "favourites_count": 16,
-   "follow_request_sent": false,
-   "followers_count": 2859,
-   "following": false,
-   "friends_count": 134,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 408115726,
-   "id_str": "408115726",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 179,
-   "location": "Nouvelle-Calédonie",
-   "name": "Philippe Gomès",
-   "notifications": false,
-   "profile_background_color": "E07C2F",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/408115726/1403231693",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/716866192372203520/6_QEAw1i_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/716866192372203520/6_QEAw1i_normal.jpg",
-   "profile_link_color": "2E2006",
-   "profile_sidebar_border_color": "FFFFFF",
-   "profile_sidebar_fill_color": "99CC33",
-   "profile_text_color": "3E4415",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "PhilippeGomesCE",
-   "statuses_count": 3971,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "http://t.co/3RKWzdORii",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Député de la 2ème circonscription de #NouvelleCalédonie et fondateur du parti @CaledonieE",
-  "twitter_favourites": 16,
-  "twitter_followers": 2859,
-  "twitter_following": 134,
-  "twitter_id": 408115726,
-  "twitter_listed": 179,
-  "twitter_name": "Philippe Gomès",
-  "twitter_protected": false,
-  "twitter_tweets": 3971,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA610775",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA610775",
-  "url_nosdeputes": "https://www.nosdeputes.fr/philippe-gomes",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/philippe-gomes/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA610775"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Philippe-Gomès",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA610775",
@@ -387,7 +246,7 @@
   "id": "408115726",
   "name": "Philippe Gomès",
   "public_metrics": {
-   "followers_count": 2859,
+   "followers_count": 2858,
    "following_count": 134,
    "listed_count": 179,
    "tweet_count": 3971

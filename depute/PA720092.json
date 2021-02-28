@@ -84,139 +84,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP Téléphone : 01.40.63.56.76"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Fay-aux-Loges / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Loges / Communauté de communes / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "Mme Amandine Rollin"
-   },
-   {
-    "collaborateur": "M. Stéphane Feutry"
-   },
-   {
-    "collaborateur": "Mme Marion Nowak"
-   }
-  ],
-  "date_naissance": "1968-03-23",
-  "emails": [
-   {
-    "email": "richard.ramos@assemblee-nationale.fr"
-   }
-  ],
-  "groupe_sigle": "MODEM",
-  "id": 70,
-  "id_an": "720092",
-  "lieu_naissance": "Blois (Loir-et-Cher)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Richard Ramos",
-  "nom_circo": "Loiret",
-  "nom_de_famille": "Ramos",
-  "num_circo": 6,
-  "num_deptmt": "45",
-  "parti_ratt_financier": "Mouvement Démocrate",
-  "place_en_hemicycle": "264",
-  "prenom": "Richard",
-  "profession": "Autre cadre (secteur privé)",
-  "sexe": "H",
-  "sites_web": [
-   "https://twitter.com/_richardramos"
-  ],
-  "slug": "richard-ramos",
   "twitter": "_richardramos",
-  "twitter_created_at": "2017-05-12T14:35:33",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Fri May 12 14:35:33 +0000 2017",
-   "default_profile": false,
-   "default_profile_image": false,
-   "description": "Député du Loiret / Membre commission des affaires économiques / Secrétaire général adjoint du Modem",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "assemblee-nationale.fr",
-       "expanded_url": "http://www.assemblee-nationale.fr/",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/UJbcHYaCxx"
-      }
-     ]
-    }
-   },
-   "favourites_count": 81,
-   "follow_request_sent": false,
-   "followers_count": 2596,
-   "following": false,
-   "friends_count": 1561,
-   "geo_enabled": false,
-   "has_extended_profile": true,
-   "id": 863039952401170400,
-   "id_str": "863039952401170433",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 53,
-   "location": "Loiret, France",
-   "name": "Richard Ramos",
-   "notifications": false,
-   "profile_background_color": "000000",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/863039952401170433/1545069506",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1123864350048030721/FCmosjl__normal.png",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123864350048030721/FCmosjl__normal.png",
-   "profile_link_color": "1B95E0",
-   "profile_sidebar_border_color": "000000",
-   "profile_sidebar_fill_color": "000000",
-   "profile_text_color": "000000",
-   "profile_use_background_image": false,
-   "protected": false,
-   "screen_name": "_richardramos",
-   "statuses_count": 622,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/UJbcHYaCxx",
-   "utc_offset": null,
-   "verified": false
-  },
-  "twitter_description": "Député du Loiret / Membre commission des affaires économiques / Secrétaire général adjoint du Modem",
-  "twitter_favourites": 81,
-  "twitter_followers": 2596,
-  "twitter_following": 1561,
-  "twitter_id": 863039952401170400,
-  "twitter_listed": 53,
-  "twitter_name": "Richard Ramos",
-  "twitter_protected": false,
-  "twitter_tweets": 622,
-  "twitter_verified": false,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720092",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720092",
-  "url_nosdeputes": "https://www.nosdeputes.fr/richard-ramos",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/richard-ramos/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720092"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Richard-Ramos",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720092",
@@ -650,10 +519,10 @@
   "id": "863039952401170433",
   "name": "Richard Ramos",
   "public_metrics": {
-   "followers_count": 2596,
+   "followers_count": 2602,
    "following_count": 1561,
    "listed_count": 53,
-   "tweet_count": 624
+   "tweet_count": 633
   },
   "username": "_richardramos"
  },

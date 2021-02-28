@@ -54,151 +54,8 @@
   }
  },
  "nd_twitter": {
-  "adresses": [
-   {
-    "adresse": "Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP"
-   },
-   {
-    "adresse": "14 Place de la gare 93420 Villepinte Téléphone : 01 41 51 10 50"
-   }
-  ],
-  "anciens_autres_mandats": [],
-  "anciens_mandats": [
-   {
-    "mandat": "21/06/2017 /  / "
-   }
-  ],
-  "autres_mandats": [
-   {
-    "mandat": "Sevran / Conseil municipal / membre"
-   },
-   {
-    "mandat": "Paris Terre d'Envol /  / membre"
-   }
-  ],
-  "collaborateurs": [
-   {
-    "collaborateur": "M. Aliaume Couchard"
-   },
-   {
-    "collaborateur": "Mme Céline Herrmann"
-   },
-   {
-    "collaborateur": "M. Clément Ourgaud"
-   },
-   {
-    "collaborateur": "M. Pablo Livigni"
-   }
-  ],
-  "date_naissance": "1973-05-26",
-  "emails": [
-   {
-    "email": "clementine.autain@assemblee-nationale.fr"
-   },
-   {
-    "email": "clementineautain93@gmail.com"
-   }
-  ],
-  "groupe_sigle": "LFI",
-  "id": 404,
-  "id_an": "588884",
-  "lieu_naissance": "Saint-Cloud (Hauts-de-Seine)",
-  "mandat_debut": "2017-06-21",
-  "nb_mandats": 2,
-  "nom": "Clémentine Autain",
-  "nom_circo": "Seine-Saint-Denis",
-  "nom_de_famille": "Autain",
-  "num_circo": 11,
-  "num_deptmt": "93",
-  "parti_ratt_financier": "La France Insoumise",
-  "place_en_hemicycle": "618",
-  "prenom": "Clémentine",
-  "profession": "Journaliste et autre média",
-  "sexe": "F",
-  "sites_web": [
-   "http://www.idfpopulaire.fr",
-   "https://twitter.com/Clem_Autain",
-   "http://www.clementineautain-idf.fr",
-   "https://fr-fr.facebook.com/clementineautain"
-  ],
-  "slug": "clementine-autain",
   "twitter": "Clem_Autain",
-  "twitter_created_at": "2012-02-13T14:46:13",
-  "twitter_data": {
-   "contributors_enabled": false,
-   "created_at": "Mon Feb 13 14:46:13 +0000 2012",
-   "default_profile": true,
-   "default_profile_image": false,
-   "description": "Députée de la 11ème circonscription de Seine-Saint-Denis.\nTête de liste aux régionales en Ile-de-France.",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "clementineautain-idf.fr",
-       "expanded_url": "http://www.clementineautain-idf.fr",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/V2w4i95FBW"
-      }
-     ]
-    }
-   },
-   "favourites_count": 3629,
-   "follow_request_sent": false,
-   "followers_count": 102881,
-   "following": false,
-   "friends_count": 1043,
-   "geo_enabled": true,
-   "has_extended_profile": false,
-   "id": 491343921,
-   "id_str": "491343921",
-   "is_translation_enabled": false,
-   "is_translator": false,
-   "lang": null,
-   "listed_count": 765,
-   "location": "Sevran (93)",
-   "name": "Clémentine Autain",
-   "notifications": false,
-   "profile_background_color": "C0DEED",
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-   "profile_background_tile": false,
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/491343921/1612177206",
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1356285439179710481/RE2NyNpM_normal.jpg",
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356285439179710481/RE2NyNpM_normal.jpg",
-   "profile_link_color": "1DA1F2",
-   "profile_sidebar_border_color": "C0DEED",
-   "profile_sidebar_fill_color": "DDEEF6",
-   "profile_text_color": "333333",
-   "profile_use_background_image": true,
-   "protected": false,
-   "screen_name": "Clem_Autain",
-   "statuses_count": 8885,
-   "time_zone": null,
-   "translator_type": "none",
-   "url": "https://t.co/V2w4i95FBW",
-   "utc_offset": null,
-   "verified": true
-  },
-  "twitter_description": "Députée de la 11ème circonscription de Seine-Saint-Denis. Tête de liste aux régionales en Ile-de-France.",
-  "twitter_favourites": 3629,
-  "twitter_followers": 102881,
-  "twitter_following": 1043,
-  "twitter_id": 491343921,
-  "twitter_listed": 765,
-  "twitter_name": "Clémentine Autain",
-  "twitter_protected": false,
-  "twitter_tweets": 8885,
-  "twitter_verified": true,
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA588884",
-  "url_institution": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA588884",
-  "url_nosdeputes": "https://www.nosdeputes.fr/clementine-autain",
-  "url_nosdeputes_api": "https://www.nosdeputes.fr/clementine-autain/json"
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA588884"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Clémentine-Autain",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA588884",
@@ -640,10 +497,10 @@
   "id": "491343921",
   "name": "Clémentine Autain",
   "public_metrics": {
-   "followers_count": 102935,
-   "following_count": 1044,
-   "listed_count": 767,
-   "tweet_count": 8893
+   "followers_count": 103275,
+   "following_count": 1047,
+   "listed_count": 769,
+   "tweet_count": 8909
   },
   "username": "Clem_Autain"
  },
