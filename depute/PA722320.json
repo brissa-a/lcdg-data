@@ -592,6 +592,7 @@
   "VTANR5L15V3430": "P",
   "VTANR5L15V3432": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3453": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V365": "P",
@@ -708,8 +709,8 @@
   "public_metrics": {
    "followers_count": 2073,
    "following_count": 2187,
-   "listed_count": 61,
-   "tweet_count": 1756
+   "listed_count": 60,
+   "tweet_count": 1757
   },
   "username": "lejeune_ch"
  },

@@ -548,6 +548,7 @@
   "VTANR5L15V3442": "P",
   "VTANR5L15V3443": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3453": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -704,10 +705,10 @@
   "id": "1415195768",
   "name": "Anne-Laurence Petel",
   "public_metrics": {
-   "followers_count": 7835,
-   "following_count": 4733,
+   "followers_count": 7841,
+   "following_count": 4734,
    "listed_count": 204,
-   "tweet_count": 9332
+   "tweet_count": 9335
   },
   "username": "al_petel"
  },

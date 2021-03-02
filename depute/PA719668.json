@@ -513,6 +513,7 @@
   "VTANR5L15V3426": "P",
   "VTANR5L15V3427": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3453": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -692,8 +693,8 @@
   "id": "2208536261",
   "name": "Patricia MIRALLÈS",
   "public_metrics": {
-   "followers_count": 5499,
-   "following_count": 1283,
+   "followers_count": 5497,
+   "following_count": 1284,
    "listed_count": 320,
    "tweet_count": 24281
   },

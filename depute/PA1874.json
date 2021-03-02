@@ -1026,6 +1026,7 @@
   "VTANR5L15V3444": "P",
   "VTANR5L15V3445": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3453": "P",
   "VTANR5L15V350": "N",
   "VTANR5L15V351": "C",
   "VTANR5L15V352": "N",
@@ -1189,7 +1190,7 @@
    "followers_count": 13700,
    "following_count": 1631,
    "listed_count": 348,
-   "tweet_count": 3605
+   "tweet_count": 3610
   },
   "username": "marclefur"
  },
