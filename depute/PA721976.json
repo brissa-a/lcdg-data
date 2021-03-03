@@ -981,6 +981,7 @@
   "VTANR5L15V3433": "P",
   "VTANR5L15V3434": "C",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -1231,7 +1232,7 @@
   "id": "455602715",
   "name": "Bruno Millienne",
   "public_metrics": {
-   "followers_count": 5667,
+   "followers_count": 5666,
    "following_count": 1950,
    "listed_count": 145,
    "tweet_count": 10900

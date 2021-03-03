@@ -602,6 +602,7 @@
   "VTANR5L15V3438": "C",
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V365": "P",
@@ -735,9 +736,9 @@
   "name": "Philippe Chalumeau",
   "public_metrics": {
    "followers_count": 5036,
-   "following_count": 1201,
+   "following_count": 1200,
    "listed_count": 115,
-   "tweet_count": 2168
+   "tweet_count": 2169
   },
   "username": "Chalumeau_P"
  },

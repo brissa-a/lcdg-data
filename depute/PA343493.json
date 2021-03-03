@@ -292,6 +292,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -353,10 +354,10 @@
   "id": "856059444",
   "name": "Gwendal ROUILLARD",
   "public_metrics": {
-   "followers_count": 8979,
+   "followers_count": 8977,
    "following_count": 8726,
    "listed_count": 264,
-   "tweet_count": 16118
+   "tweet_count": 16119
   },
   "username": "G_ROUILLARD"
  },

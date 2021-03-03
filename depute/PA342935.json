@@ -376,6 +376,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -450,7 +451,7 @@
   "name": "Marianne Dubois",
   "public_metrics": {
    "followers_count": 8431,
-   "following_count": 4271,
+   "following_count": 4270,
    "listed_count": 181,
    "tweet_count": 3556
   },

@@ -752,6 +752,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "A",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "A",
   "VTANR5L15V353": "P",
@@ -823,10 +824,10 @@
   "id": "450968514",
   "name": "Paul Molac",
   "public_metrics": {
-   "followers_count": 6558,
-   "following_count": 472,
+   "followers_count": 6566,
+   "following_count": 473,
    "listed_count": 241,
-   "tweet_count": 6393
+   "tweet_count": 6399
   },
   "username": "Paul_Molac"
  },

@@ -867,6 +867,7 @@
   "VTANR5L15V3432": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -1060,7 +1061,7 @@
   "id": "3137717312",
   "name": "Stella DUPONT",
   "public_metrics": {
-   "followers_count": 4229,
+   "followers_count": 4230,
    "following_count": 792,
    "listed_count": 110,
    "tweet_count": 1919

@@ -619,6 +619,7 @@
   "VTANR5L15V3441": "P",
   "VTANR5L15V3442": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "P",
@@ -745,10 +746,10 @@
   "id": "920588743",
   "name": "Marguerite Deprez",
   "public_metrics": {
-   "followers_count": 2766,
+   "followers_count": 2767,
    "following_count": 1796,
    "listed_count": 95,
-   "tweet_count": 5031
+   "tweet_count": 5032
   },
   "username": "MDeprezAudebert"
  },

@@ -733,6 +733,7 @@
   "VTANR5L15V3442": "C",
   "VTANR5L15V3443": "C",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
@@ -945,10 +946,10 @@
   "id": "973480421148291072",
   "name": "BATTISTEL Marie Noelle",
   "public_metrics": {
-   "followers_count": 969,
+   "followers_count": 968,
    "following_count": 133,
    "listed_count": 42,
-   "tweet_count": 527
+   "tweet_count": 531
   },
   "username": "BattistelMarie"
  },

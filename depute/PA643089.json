@@ -405,16 +405,17 @@
   "VTANR5L15V3382": "A",
   "VTANR5L15V3383": "P",
   "VTANR5L15V3421": "C",
-  "VTANR5L15V3422": "P"
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3454": "P"
  },
  "twitter": {
   "id": "998156310",
   "name": "Jean-Louis Thiériot",
   "public_metrics": {
-   "followers_count": 5282,
-   "following_count": 3345,
+   "followers_count": 5283,
+   "following_count": 3346,
    "listed_count": 84,
-   "tweet_count": 3800
+   "tweet_count": 3801
   },
   "username": "JL_Thieriot"
  },

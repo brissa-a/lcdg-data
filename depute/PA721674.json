@@ -572,16 +572,17 @@
   "VTANR5L15V3437": "C",
   "VTANR5L15V3438": "C",
   "VTANR5L15V3439": "C",
-  "VTANR5L15V3440": "A"
+  "VTANR5L15V3440": "A",
+  "VTANR5L15V3454": "P"
  },
  "twitter": {
   "id": "1117388032775208960",
   "name": "Stéphanie Atger",
   "public_metrics": {
-   "followers_count": 1727,
+   "followers_count": 1728,
    "following_count": 1481,
    "listed_count": 36,
-   "tweet_count": 1644
+   "tweet_count": 1648
   },
   "username": "StephanieAtger"
  },

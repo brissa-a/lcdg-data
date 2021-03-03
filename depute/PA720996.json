@@ -470,6 +470,7 @@
   "VTANR5L15V3447": "C",
   "VTANR5L15V3448": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V346": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V380": "C",
@@ -596,10 +597,10 @@
   "id": "1136005090530209793",
   "name": "M'jid El GUERRAB",
   "public_metrics": {
-   "followers_count": 2726,
-   "following_count": 556,
+   "followers_count": 2732,
+   "following_count": 562,
    "listed_count": 28,
-   "tweet_count": 2682
+   "tweet_count": 2688
   },
   "username": "mjidelguerrab"
  },

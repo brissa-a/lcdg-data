@@ -542,7 +542,8 @@
   "VTANR5L15V3429": "P",
   "VTANR5L15V3430": "P",
   "VTANR5L15V3431": "P",
-  "VTANR5L15V3432": "P"
+  "VTANR5L15V3432": "P",
+  "VTANR5L15V3454": "P"
  },
  "twitter": {
   "id": "749231728452104192",
@@ -551,7 +552,7 @@
    "followers_count": 397,
    "following_count": 889,
    "listed_count": 16,
-   "tweet_count": 4114
+   "tweet_count": 4116
   },
   "username": "sylv1templier"
  },

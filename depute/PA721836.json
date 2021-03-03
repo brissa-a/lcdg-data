@@ -499,6 +499,7 @@
   "VTANR5L15V3418": "C",
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "P",
@@ -599,10 +600,10 @@
   "id": "865482011523166209",
   "name": "Jean-Noël Barrot",
   "public_metrics": {
-   "followers_count": 5690,
+   "followers_count": 5695,
    "following_count": 460,
    "listed_count": 120,
-   "tweet_count": 2397
+   "tweet_count": 2398
   },
   "username": "jnbarrot"
  },

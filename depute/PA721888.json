@@ -645,6 +645,7 @@
   "VTANR5L15V3448": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V356": "C",
   "VTANR5L15V357": "P",
@@ -827,7 +828,7 @@
   "id": "864955921025433600",
   "name": "Pierre-Alain RAPHAN",
   "public_metrics": {
-   "followers_count": 5571,
+   "followers_count": 5574,
    "following_count": 2426,
    "listed_count": 110,
    "tweet_count": 2096

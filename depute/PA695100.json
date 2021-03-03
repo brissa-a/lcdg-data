@@ -251,6 +251,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "A",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -311,7 +312,7 @@
   "id": "1851724262",
   "name": "Meyer Habib",
   "public_metrics": {
-   "followers_count": 16319,
+   "followers_count": 16335,
    "following_count": 381,
    "listed_count": 205,
    "tweet_count": 1248

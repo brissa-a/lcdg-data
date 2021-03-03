@@ -430,6 +430,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V348": "A",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
@@ -576,7 +577,7 @@
   "id": "1890087739",
   "name": "Josy Poueyto",
   "public_metrics": {
-   "followers_count": 2518,
+   "followers_count": 2519,
    "following_count": 309,
    "listed_count": 191,
    "tweet_count": 28108

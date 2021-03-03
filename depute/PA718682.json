@@ -409,6 +409,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -464,10 +465,10 @@
   "id": "3291786911",
   "name": "Stéphane Trompille",
   "public_metrics": {
-   "followers_count": 6519,
+   "followers_count": 6520,
    "following_count": 225,
    "listed_count": 412,
-   "tweet_count": 56550
+   "tweet_count": 56553
   },
   "username": "S_Trompille"
  },

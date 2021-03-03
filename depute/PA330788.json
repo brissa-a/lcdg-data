@@ -240,6 +240,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -262,10 +263,10 @@
   "id": "76662684",
   "name": "reynes bernard",
   "public_metrics": {
-   "followers_count": 9630,
+   "followers_count": 9631,
    "following_count": 1355,
    "listed_count": 188,
-   "tweet_count": 2106
+   "tweet_count": 2110
   },
   "username": "bernardreynes"
  },

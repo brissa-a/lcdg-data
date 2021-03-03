@@ -192,16 +192,17 @@
   "VTANR5L15V3395": "P",
   "VTANR5L15V3397": "P",
   "VTANR5L15V3421": "C",
-  "VTANR5L15V3422": "P"
+  "VTANR5L15V3422": "P",
+  "VTANR5L15V3454": "P"
  },
  "twitter": {
   "id": "1275478906221576193",
   "name": "Sylvie Bouchet Bellecourt",
   "public_metrics": {
-   "followers_count": 362,
-   "following_count": 449,
+   "followers_count": 365,
+   "following_count": 450,
    "listed_count": 9,
-   "tweet_count": 245
+   "tweet_count": 248
   },
   "username": "SBouchetB"
  },

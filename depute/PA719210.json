@@ -297,6 +297,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -351,10 +352,10 @@
   "id": "2348352426",
   "name": "Bruno Joncour",
   "public_metrics": {
-   "followers_count": 2078,
+   "followers_count": 2080,
    "following_count": 363,
    "listed_count": 127,
-   "tweet_count": 940
+   "tweet_count": 942
   },
   "username": "BJoncour"
  },

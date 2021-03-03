@@ -369,6 +369,7 @@
   "VTANR5L15V3444": "A",
   "VTANR5L15V3445": "A",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "C",
   "VTANR5L15V365": "C",
@@ -497,10 +498,10 @@
   "id": "491343921",
   "name": "Clémentine Autain",
   "public_metrics": {
-   "followers_count": 103462,
+   "followers_count": 103487,
    "following_count": 1048,
    "listed_count": 769,
-   "tweet_count": 8917
+   "tweet_count": 8922
   },
   "username": "Clem_Autain"
  },

@@ -822,6 +822,7 @@
   "VTANR5L15V3448": "P",
   "VTANR5L15V3449": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
   "VTANR5L15V347": "P",
   "VTANR5L15V35": "C",
@@ -1026,7 +1027,7 @@
   "id": "1145576430",
   "name": "Sylvie Charrière",
   "public_metrics": {
-   "followers_count": 5601,
+   "followers_count": 5607,
    "following_count": 753,
    "listed_count": 98,
    "tweet_count": 3347

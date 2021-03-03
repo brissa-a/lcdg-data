@@ -829,6 +829,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -1070,10 +1071,10 @@
   "id": "471076259",
   "name": "Mireille Clapot",
   "public_metrics": {
-   "followers_count": 7601,
-   "following_count": 2327,
+   "followers_count": 7608,
+   "following_count": 2329,
    "listed_count": 123,
-   "tweet_count": 3084
+   "tweet_count": 3086
   },
   "username": "CLAPOTMireille"
  },

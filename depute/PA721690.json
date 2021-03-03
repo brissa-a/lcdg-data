@@ -381,6 +381,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V361": "C",
@@ -418,10 +419,10 @@
   "id": "2495899075",
   "name": "Buon TAN",
   "public_metrics": {
-   "followers_count": 2675,
+   "followers_count": 2676,
    "following_count": 961,
    "listed_count": 106,
-   "tweet_count": 1320
+   "tweet_count": 1321
   },
   "username": "BuonTAN"
  },

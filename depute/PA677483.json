@@ -596,6 +596,7 @@
   "VTANR5L15V3430": "P",
   "VTANR5L15V3432": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -803,9 +804,9 @@
   "name": "Stéphane Mazars",
   "public_metrics": {
    "followers_count": 2519,
-   "following_count": 1038,
+   "following_count": 1039,
    "listed_count": 131,
-   "tweet_count": 1695
+   "tweet_count": 1697
   },
   "username": "S_Mazars"
  },

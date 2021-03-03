@@ -485,6 +485,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V3427": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "A",
@@ -640,10 +641,10 @@
   "id": "862305784188874752",
   "name": "Laurence Trastour-Isnart",
   "public_metrics": {
-   "followers_count": 1686,
+   "followers_count": 1688,
    "following_count": 309,
    "listed_count": 70,
-   "tweet_count": 579
+   "tweet_count": 580
   },
   "username": "TrastourIsnart"
  },

@@ -1049,6 +1049,7 @@
   "VTANR5L15V3425": "C",
   "VTANR5L15V3426": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "C",
   "VTANR5L15V355": "C",
@@ -1319,7 +1320,7 @@
   "id": "2846410672",
   "name": "Maxime Minot",
   "public_metrics": {
-   "followers_count": 5397,
+   "followers_count": 5398,
    "following_count": 388,
    "listed_count": 102,
    "tweet_count": 1507

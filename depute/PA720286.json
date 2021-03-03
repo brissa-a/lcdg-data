@@ -1171,6 +1171,7 @@
   "VTANR5L15V3433": "C",
   "VTANR5L15V3434": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V346": "P",
   "VTANR5L15V347": "P",
   "VTANR5L15V351": "C",
@@ -1364,10 +1365,10 @@
   "id": "832246158391144448",
   "name": "Caroline FIAT",
   "public_metrics": {
-   "followers_count": 29322,
+   "followers_count": 29329,
    "following_count": 399,
    "listed_count": 227,
-   "tweet_count": 4392
+   "tweet_count": 4393
   },
   "username": "CarolineFiat54"
  },

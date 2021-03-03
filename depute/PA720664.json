@@ -234,6 +234,7 @@
   "VTANR5L15V3378": "C",
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V365": "C",
   "VTANR5L15V408": "P",
   "VTANR5L15V409": "C",
@@ -302,7 +303,7 @@
   "name": "José Evrard",
   "public_metrics": {
    "followers_count": 1466,
-   "following_count": 303,
+   "following_count": 302,
    "listed_count": 27,
    "tweet_count": 1233
   },

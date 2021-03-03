@@ -535,6 +535,7 @@
   "VTANR5L15V3426": "P",
   "VTANR5L15V3429": "A",
   "VTANR5L15V3430": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V354": "P",
   "VTANR5L15V365": "A",
@@ -589,7 +590,7 @@
   "id": "102722347",
   "name": "Jean Lassalle",
   "public_metrics": {
-   "followers_count": 56634,
+   "followers_count": 56642,
    "following_count": 424,
    "listed_count": 562,
    "tweet_count": 4718

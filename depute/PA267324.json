@@ -550,6 +550,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -613,7 +614,7 @@
    "followers_count": 1491,
    "following_count": 178,
    "listed_count": 66,
-   "tweet_count": 388
+   "tweet_count": 389
   },
   "username": "JJ_Gaultier"
  },

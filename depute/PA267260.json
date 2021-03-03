@@ -435,6 +435,7 @@
   "VTANR5L15V345": "C",
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "A",
   "VTANR5L15V365": "C",
   "VTANR5L15V389": "P",
@@ -522,10 +523,10 @@
   "id": "3664828937",
   "name": "Bérengère Poletti",
   "public_metrics": {
-   "followers_count": 2520,
-   "following_count": 524,
+   "followers_count": 2524,
+   "following_count": 523,
    "listed_count": 98,
-   "tweet_count": 864
+   "tweet_count": 865
   },
   "username": "Poletti_B"
  },

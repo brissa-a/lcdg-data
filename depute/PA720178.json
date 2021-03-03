@@ -297,6 +297,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V386": "P",
@@ -383,10 +384,10 @@
   "id": "786575225316110336",
   "name": "Laurent GARCIA",
   "public_metrics": {
-   "followers_count": 2074,
+   "followers_count": 2073,
    "following_count": 362,
    "listed_count": 90,
-   "tweet_count": 2307
+   "tweet_count": 2310
   },
   "username": "GarciaLaxou"
  },

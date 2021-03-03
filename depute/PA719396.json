@@ -276,6 +276,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -324,7 +325,7 @@
   "name": "Jean-Charles Larsonneur",
   "public_metrics": {
    "followers_count": 4817,
-   "following_count": 1947,
+   "following_count": 1948,
    "listed_count": 113,
    "tweet_count": 4814
   },

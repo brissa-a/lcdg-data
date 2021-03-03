@@ -530,6 +530,7 @@
   "VTANR5L15V3439": "A",
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V365": "P",
@@ -730,10 +731,10 @@
   "id": "949232324",
   "name": "Matthieu ORPHELIN",
   "public_metrics": {
-   "followers_count": 39651,
-   "following_count": 9718,
+   "followers_count": 39667,
+   "following_count": 9717,
    "listed_count": 539,
-   "tweet_count": 19931
+   "tweet_count": 19938
   },
   "username": "M_Orphelin"
  },

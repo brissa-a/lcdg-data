@@ -951,6 +951,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -1280,7 +1281,7 @@
   "id": "1359255073",
   "name": "Rémy Rebeyrotte",
   "public_metrics": {
-   "followers_count": 1642,
+   "followers_count": 1643,
    "following_count": 600,
    "listed_count": 108,
    "tweet_count": 258

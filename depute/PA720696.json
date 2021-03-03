@@ -528,6 +528,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V3423": "P",
   "VTANR5L15V345": "A",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
@@ -603,7 +604,7 @@
    "followers_count": 1413,
    "following_count": 887,
    "listed_count": 41,
-   "tweet_count": 1721
+   "tweet_count": 1724
   },
   "username": "beadescamps"
  },

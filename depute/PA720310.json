@@ -332,6 +332,7 @@
   "VTANR5L15V339": "P",
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -433,10 +434,10 @@
   "id": "554262922",
   "name": "Christophe Arend",
   "public_metrics": {
-   "followers_count": 4450,
+   "followers_count": 4454,
    "following_count": 1442,
    "listed_count": 111,
-   "tweet_count": 5675
+   "tweet_count": 5676
   },
   "username": "christophearend"
  },

@@ -388,6 +388,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -515,20 +516,8 @@
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
  },
- "twitter": {
-  "id": "431569315",
-  "name": "Sébastien Cazenove",
-  "public_metrics": {
-   "followers_count": 3657,
-   "following_count": 642,
-   "listed_count": 99,
-   "tweet_count": 1686
-  },
-  "username": "SCazenove"
- },
  "twitter_username": {
-  "status": "found",
-  "value": "SCazenove"
+  "status": "notfound"
  },
  "uid": "PA720814"
 }

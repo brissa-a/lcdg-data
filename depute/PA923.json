@@ -479,6 +479,7 @@
   "VTANR5L15V3421": "A",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -530,7 +531,7 @@
   "id": "568029290",
   "name": "Fr Cornut-Gentille",
   "public_metrics": {
-   "followers_count": 3192,
+   "followers_count": 3196,
    "following_count": 381,
    "listed_count": 114,
    "tweet_count": 3284

@@ -527,6 +527,7 @@
   "VTANR5L15V3401": "P",
   "VTANR5L15V3402": "C",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -652,8 +653,8 @@
   "id": "791251850628591620",
   "name": "Emilie Guerel",
   "public_metrics": {
-   "followers_count": 5859,
-   "following_count": 1730,
+   "followers_count": 5861,
+   "following_count": 1732,
    "listed_count": 114,
    "tweet_count": 2058
   },

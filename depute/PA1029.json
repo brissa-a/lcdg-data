@@ -197,6 +197,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "A",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -215,10 +216,10 @@
   "id": "4826853935",
   "name": "Bernard Deflesselles",
   "public_metrics": {
-   "followers_count": 1696,
+   "followers_count": 1700,
    "following_count": 168,
    "listed_count": 97,
-   "tweet_count": 669
+   "tweet_count": 670
   },
   "username": "BDeflesselles"
  },

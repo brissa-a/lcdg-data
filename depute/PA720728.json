@@ -933,6 +933,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V348": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
@@ -1090,7 +1091,7 @@
    "followers_count": 1116,
    "following_count": 525,
    "listed_count": 49,
-   "tweet_count": 511
+   "tweet_count": 514
   },
   "username": "jp_mattei"
  },

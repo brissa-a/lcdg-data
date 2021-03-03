@@ -489,6 +489,7 @@
   "VTANR5L15V3437": "P",
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -579,10 +580,10 @@
   "id": "864228297613479938",
   "name": "Guillaume Chiche",
   "public_metrics": {
-   "followers_count": 9503,
+   "followers_count": 9505,
    "following_count": 2672,
-   "listed_count": 153,
-   "tweet_count": 6605
+   "listed_count": 152,
+   "tweet_count": 6606
   },
   "username": "GuillaumeChiche"
  },

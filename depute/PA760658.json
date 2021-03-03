@@ -476,7 +476,8 @@
   "VTANR5L15V3429": "P",
   "VTANR5L15V3430": "P",
   "VTANR5L15V3431": "P",
-  "VTANR5L15V3432": "P"
+  "VTANR5L15V3432": "P",
+  "VTANR5L15V3454": "P"
  },
  "twitter": {
   "id": "282687869",
@@ -484,8 +485,8 @@
   "public_metrics": {
    "followers_count": 7760,
    "following_count": 3463,
-   "listed_count": 156,
-   "tweet_count": 10835
+   "listed_count": 0,
+   "tweet_count": 10838
   },
   "username": "fchouat"
  },

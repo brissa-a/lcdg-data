@@ -319,6 +319,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V382": "P",
@@ -406,9 +407,9 @@
   "name": "Sira SYLLA",
   "public_metrics": {
    "followers_count": 9976,
-   "following_count": 946,
+   "following_count": 947,
    "listed_count": 113,
-   "tweet_count": 4451
+   "tweet_count": 4459
   },
   "username": "sirasylla76"
  },

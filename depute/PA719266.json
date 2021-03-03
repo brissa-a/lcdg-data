@@ -581,6 +581,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V3433": "P",
   "VTANR5L15V3434": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "P",
@@ -681,7 +682,7 @@
   "public_metrics": {
    "followers_count": 1078,
    "following_count": 273,
-   "listed_count": 35,
+   "listed_count": 34,
    "tweet_count": 1541
   },
   "username": "dep_cubertafon"

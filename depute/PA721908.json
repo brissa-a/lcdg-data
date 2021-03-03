@@ -629,6 +629,7 @@
   "VTANR5L15V3443": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V359": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -823,10 +824,10 @@
   "id": "389644606",
   "name": "Yaël BRAUN-PIVET",
   "public_metrics": {
-   "followers_count": 24598,
-   "following_count": 1227,
+   "followers_count": 24614,
+   "following_count": 1228,
    "listed_count": 246,
-   "tweet_count": 4062
+   "tweet_count": 4063
   },
   "username": "YaelBRAUNPIVET"
  },

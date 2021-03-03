@@ -493,6 +493,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -633,7 +634,7 @@
   "id": "1143094713010073600",
   "name": "Christian JACOB",
   "public_metrics": {
-   "followers_count": 13846,
+   "followers_count": 13862,
    "following_count": 940,
    "listed_count": 110,
    "tweet_count": 2108

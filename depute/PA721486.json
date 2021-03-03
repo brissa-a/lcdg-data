@@ -443,6 +443,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V3432": "P",
   "VTANR5L15V345": "A",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V347": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
@@ -536,7 +537,7 @@
    "followers_count": 1042,
    "following_count": 353,
    "listed_count": 45,
-   "tweet_count": 456
+   "tweet_count": 457
   },
   "username": "naegelenchris"
  },

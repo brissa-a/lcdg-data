@@ -722,6 +722,7 @@
   "VTANR5L15V3448": "P",
   "VTANR5L15V3449": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V348": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
@@ -810,7 +811,7 @@
   "id": "864165870213500928",
   "name": "Dominique DAVID",
   "public_metrics": {
-   "followers_count": 7256,
+   "followers_count": 7254,
    "following_count": 1492,
    "listed_count": 137,
    "tweet_count": 2302

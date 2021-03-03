@@ -854,6 +854,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -982,7 +983,7 @@
    "followers_count": 4874,
    "following_count": 933,
    "listed_count": 111,
-   "tweet_count": 2530
+   "tweet_count": 2531
   },
   "username": "jmarilossian"
  },

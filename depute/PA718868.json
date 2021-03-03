@@ -605,6 +605,7 @@
   "VTANR5L15V3432": "C",
   "VTANR5L15V345": "C",
   "VTANR5L15V3453": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V346": "P",
   "VTANR5L15V347": "P",
   "VTANR5L15V351": "C",
@@ -726,10 +727,10 @@
   "id": "857153285190537220",
   "name": "Michel Larive",
   "public_metrics": {
-   "followers_count": 14986,
+   "followers_count": 14990,
    "following_count": 992,
    "listed_count": 165,
-   "tweet_count": 4430
+   "tweet_count": 4431
   },
   "username": "Michel_Larive"
  },

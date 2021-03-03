@@ -798,6 +798,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
@@ -881,10 +882,10 @@
   "id": "862575147085164544",
   "name": "Frédéric Petit - Cœur de l'Europe",
   "public_metrics": {
-   "followers_count": 5126,
+   "followers_count": 5127,
    "following_count": 2174,
    "listed_count": 107,
-   "tweet_count": 4636
+   "tweet_count": 4650
   },
   "username": "fpetitAN"
  },

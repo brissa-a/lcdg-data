@@ -620,6 +620,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V407": "P",
@@ -710,7 +711,7 @@
   "id": "3124227529",
   "name": "Alain Perea",
   "public_metrics": {
-   "followers_count": 4945,
+   "followers_count": 4952,
    "following_count": 829,
    "listed_count": 120,
    "tweet_count": 1882

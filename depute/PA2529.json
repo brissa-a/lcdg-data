@@ -292,6 +292,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -321,7 +322,7 @@
   "id": "869905383837577216",
   "name": "Jean-Luc Reitzer",
   "public_metrics": {
-   "followers_count": 1474,
+   "followers_count": 1475,
    "following_count": 241,
    "listed_count": 70,
    "tweet_count": 157

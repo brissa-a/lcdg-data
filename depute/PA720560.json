@@ -837,6 +837,7 @@
   "VTANR5L15V3442": "P",
   "VTANR5L15V3443": "P",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -986,10 +987,10 @@
   "id": "2269369240",
   "name": "Perrine Goulet - députée de la Nièvre",
   "public_metrics": {
-   "followers_count": 7190,
+   "followers_count": 7192,
    "following_count": 365,
    "listed_count": 117,
-   "tweet_count": 3078
+   "tweet_count": 3079
   },
   "username": "perrinegoulet"
  },

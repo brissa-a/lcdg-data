@@ -182,6 +182,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V385": "C",
@@ -213,7 +214,7 @@
   "id": "570703871",
   "name": "Guy Teissier",
   "public_metrics": {
-   "followers_count": 9292,
+   "followers_count": 9296,
    "following_count": 377,
    "listed_count": 226,
    "tweet_count": 2477

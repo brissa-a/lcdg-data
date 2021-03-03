@@ -971,6 +971,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V348": "C",
   "VTANR5L15V351": "A",
   "VTANR5L15V352": "C",
@@ -1144,10 +1145,10 @@
   "id": "724577257",
   "name": "Véronique Louwagie",
   "public_metrics": {
-   "followers_count": 3986,
-   "following_count": 998,
+   "followers_count": 4008,
+   "following_count": 1009,
    "listed_count": 171,
-   "tweet_count": 3363
+   "tweet_count": 3366
   },
   "username": "VeroLouwagie"
  },

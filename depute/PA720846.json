@@ -499,6 +499,7 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "C",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V35": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V36": "P",
@@ -697,10 +698,10 @@
   "id": "247895631",
   "name": "Bastien Lachaud",
   "public_metrics": {
-   "followers_count": 32063,
-   "following_count": 548,
+   "followers_count": 32067,
+   "following_count": 551,
    "listed_count": 290,
-   "tweet_count": 10176
+   "tweet_count": 10185
   },
   "username": "LachaudB"
  },

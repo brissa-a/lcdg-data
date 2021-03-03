@@ -520,6 +520,7 @@
   "VTANR5L15V3442": "A",
   "VTANR5L15V3443": "A",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "P",
   "VTANR5L15V346": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V365": "C",
@@ -560,7 +561,7 @@
   "id": "902788871460724740",
   "name": "Marie-France Lorho",
   "public_metrics": {
-   "followers_count": 1091,
+   "followers_count": 1092,
    "following_count": 119,
    "listed_count": 38,
    "tweet_count": 711

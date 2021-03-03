@@ -239,6 +239,7 @@
   "VTANR5L15V3422": "C",
   "VTANR5L15V3427": "P",
   "VTANR5L15V345": "C",
+  "VTANR5L15V3454": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V365": "C",
   "VTANR5L15V389": "A",
@@ -277,10 +278,10 @@
   "id": "38170599",
   "name": "N. Dupont-Aignan",
   "public_metrics": {
-   "followers_count": 244024,
+   "followers_count": 244097,
    "following_count": 1397,
    "listed_count": 1697,
-   "tweet_count": 20131
+   "tweet_count": 20138
   },
   "username": "dupontaignan"
  },
