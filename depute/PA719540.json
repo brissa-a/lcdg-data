@@ -614,6 +614,9 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
@@ -776,10 +779,10 @@
   "id": "826017036451061761",
   "name": "E. Toutut-Picard",
   "public_metrics": {
-   "followers_count": 3005,
+   "followers_count": 3006,
    "following_count": 412,
-   "listed_count": 112,
-   "tweet_count": 3198
+   "listed_count": 113,
+   "tweet_count": 3200
   },
   "username": "etoututpicard"
  },

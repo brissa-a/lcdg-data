@@ -581,7 +581,11 @@
   "VTANR5L15V3437": "C",
   "VTANR5L15V3438": "C",
   "VTANR5L15V3439": "C",
-  "VTANR5L15V3454": "P"
+  "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "P",
+  "VTANR5L15V3458": "C"
  },
  "twitter": {
   "id": "1106588431289851905",
@@ -590,7 +594,7 @@
    "followers_count": 2362,
    "following_count": 526,
    "listed_count": 33,
-   "tweet_count": 1755
+   "tweet_count": 1757
   },
   "username": "DeputeeBPetelle"
  },

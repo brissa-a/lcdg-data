@@ -821,6 +821,7 @@
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "A",
+  "VTANR5L15V3455": "C",
   "VTANR5L15V348": "A",
   "VTANR5L15V35": "P",
   "VTANR5L15V351": "C",
@@ -1150,10 +1151,10 @@
   "id": "858041350494793728",
   "name": "Députée Obono",
   "public_metrics": {
-   "followers_count": 59264,
+   "followers_count": 59275,
    "following_count": 1458,
-   "listed_count": 390,
-   "tweet_count": 10584
+   "listed_count": 392,
+   "tweet_count": 10588
   },
   "username": "Deputee_Obono"
  },

@@ -777,6 +777,7 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -1041,9 +1042,9 @@
   "name": "Guillaume Vuilletet",
   "public_metrics": {
    "followers_count": 3336,
-   "following_count": 844,
+   "following_count": 846,
    "listed_count": 118,
-   "tweet_count": 2660
+   "tweet_count": 2662
   },
   "username": "g_vuilletet"
  },

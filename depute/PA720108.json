@@ -603,6 +603,9 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -815,10 +818,10 @@
   "id": "3049520651",
   "name": "Valérie Oppelt",
   "public_metrics": {
-   "followers_count": 6254,
-   "following_count": 3881,
-   "listed_count": 307,
-   "tweet_count": 6126
+   "followers_count": 6255,
+   "following_count": 3882,
+   "listed_count": 308,
+   "tweet_count": 6127
   },
   "username": "valerie_oppelt"
  },

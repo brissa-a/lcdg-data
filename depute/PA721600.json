@@ -654,6 +654,9 @@
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V361": "C",
@@ -843,10 +846,10 @@
   "id": "569390345",
   "name": "Laurianne Rossi",
   "public_metrics": {
-   "followers_count": 19348,
-   "following_count": 5298,
+   "followers_count": 19366,
+   "following_count": 5304,
    "listed_count": 222,
-   "tweet_count": 8609
+   "tweet_count": 8614
   },
   "username": "lauriannerossi"
  },

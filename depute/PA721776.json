@@ -440,6 +440,9 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
   "VTANR5L15V346": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
@@ -587,10 +590,10 @@
   "id": "22255651",
   "name": "Didier BAICHERE",
   "public_metrics": {
-   "followers_count": 9551,
-   "following_count": 4978,
+   "followers_count": 9556,
+   "following_count": 4979,
    "listed_count": 569,
-   "tweet_count": 23767
+   "tweet_count": 23785
   },
   "username": "dbaichere"
  },

@@ -617,13 +617,14 @@
   "VTANR5L15V3419": "A",
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
-  "VTANR5L15V3454": "P"
+  "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P"
  },
  "twitter": {
   "id": "150607995",
   "name": "Pascal Brindeau",
   "public_metrics": {
-   "followers_count": 2436,
+   "followers_count": 2437,
    "following_count": 1316,
    "listed_count": 98,
    "tweet_count": 5928

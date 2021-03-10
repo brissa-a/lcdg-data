@@ -502,6 +502,8 @@
   "VTANR5L15V3432": "P",
   "VTANR5L15V3433": "P",
   "VTANR5L15V3434": "C",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
   "VTANR5L15V349": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
@@ -653,10 +655,10 @@
   "id": "862999383499042816",
   "name": "Sandrine Le Feur",
   "public_metrics": {
-   "followers_count": 7034,
+   "followers_count": 7039,
    "following_count": 443,
    "listed_count": 134,
-   "tweet_count": 2106
+   "tweet_count": 2108
   },
   "username": "SandrineLeFeur"
  },

@@ -1140,6 +1140,9 @@
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -1397,10 +1400,10 @@
   "id": "1446653228",
   "name": "GIRARDIN Eric",
   "public_metrics": {
-   "followers_count": 3587,
-   "following_count": 576,
+   "followers_count": 3586,
+   "following_count": 577,
    "listed_count": 87,
-   "tweet_count": 2662
+   "tweet_count": 2665
   },
   "username": "GirardinEric"
  },

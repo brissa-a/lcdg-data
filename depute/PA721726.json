@@ -896,6 +896,7 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -1060,10 +1061,10 @@
   "id": "827528847797153792",
   "name": "Sereine Mauborgne",
   "public_metrics": {
-   "followers_count": 5424,
+   "followers_count": 5429,
    "following_count": 869,
    "listed_count": 105,
-   "tweet_count": 1607
+   "tweet_count": 1608
   },
   "username": "SereineEnMarche"
  },

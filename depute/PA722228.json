@@ -1115,6 +1115,9 @@
   "VTANR5L15V3432": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -1385,10 +1388,10 @@
   "id": "864410712487206916",
   "name": "Jean-Claude Leclabart",
   "public_metrics": {
-   "followers_count": 5502,
+   "followers_count": 5506,
    "following_count": 841,
    "listed_count": 102,
-   "tweet_count": 3265
+   "tweet_count": 3267
   },
   "username": "JLeclabart"
  },

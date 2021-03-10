@@ -552,6 +552,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -631,8 +632,8 @@
   "public_metrics": {
    "followers_count": 2899,
    "following_count": 635,
-   "listed_count": 99,
-   "tweet_count": 1175
+   "listed_count": 100,
+   "tweet_count": 1177
   },
   "username": "ChristopheEuzet"
  },

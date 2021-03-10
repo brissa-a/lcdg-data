@@ -455,6 +455,9 @@
   "VTANR5L15V3443": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3456": "C",
+  "VTANR5L15V3457": "C",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -608,7 +611,7 @@
    "followers_count": 4412,
    "following_count": 1122,
    "listed_count": 113,
-   "tweet_count": 2468
+   "tweet_count": 2469
   },
   "username": "M_MeynierM"
  },

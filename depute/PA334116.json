@@ -266,6 +266,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3456": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -349,9 +350,9 @@
   "id": "801121064357085184",
   "name": "Jacqueline Maquet",
   "public_metrics": {
-   "followers_count": 1627,
-   "following_count": 1215,
-   "listed_count": 87,
+   "followers_count": 1626,
+   "following_count": 1214,
+   "listed_count": 86,
    "tweet_count": 362
   },
   "username": "JMaquetDeputee"

@@ -740,6 +740,10 @@
   "VTANR5L15V3452": "P",
   "VTANR5L15V3453": "C",
   "VTANR5L15V3454": "A",
+  "VTANR5L15V3455": "A",
+  "VTANR5L15V3456": "P",
+  "VTANR5L15V3457": "P",
+  "VTANR5L15V3458": "C",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V360": "C",
@@ -902,10 +906,10 @@
   "id": "532293856",
   "name": "André Chassaigne",
   "public_metrics": {
-   "followers_count": 13833,
+   "followers_count": 13834,
    "following_count": 1242,
    "listed_count": 306,
-   "tweet_count": 3013
+   "tweet_count": 3019
   },
   "username": "AndreChassaigne"
  },

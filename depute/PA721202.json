@@ -781,6 +781,7 @@
   "VTANR5L15V344": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "A",
+  "VTANR5L15V3455": "C",
   "VTANR5L15V347": "P",
   "VTANR5L15V35": "P",
   "VTANR5L15V351": "C",
@@ -1020,10 +1021,10 @@
   "id": "311601642",
   "name": "Eric Coquerel",
   "public_metrics": {
-   "followers_count": 67945,
+   "followers_count": 67962,
    "following_count": 2148,
    "listed_count": 551,
-   "tweet_count": 26933
+   "tweet_count": 26936
   },
   "username": "ericcoquerel"
  },

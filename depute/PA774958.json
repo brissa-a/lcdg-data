@@ -275,16 +275,20 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "P",
-  "VTANR5L15V3454": "P"
+  "VTANR5L15V3454": "P",
+  "VTANR5L15V3455": "P",
+  "VTANR5L15V3456": "P",
+  "VTANR5L15V3457": "P",
+  "VTANR5L15V3458": "C"
  },
  "twitter": {
   "id": "369978611",
   "name": "Gérard Leseul",
   "public_metrics": {
-   "followers_count": 650,
+   "followers_count": 652,
    "following_count": 309,
    "listed_count": 8,
-   "tweet_count": 439
+   "tweet_count": 442
   },
   "username": "LeseulG"
  },
