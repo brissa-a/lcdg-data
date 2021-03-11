@@ -363,6 +363,8 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3456": "P",
   "VTANR5L15V3457": "P",
+  "VTANR5L15V3459": "P",
+  "VTANR5L15V3460": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V356": "C",
   "VTANR5L15V357": "P",
@@ -441,7 +443,7 @@
    "followers_count": 6573,
    "following_count": 2991,
    "listed_count": 122,
-   "tweet_count": 2982
+   "tweet_count": 2983
   },
   "username": "BenoitSimian"
  },

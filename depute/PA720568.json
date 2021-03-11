@@ -1077,7 +1077,9 @@
   "VTANR5L15V3434": "C",
   "VTANR5L15V344": "C",
   "VTANR5L15V345": "P",
+  "VTANR5L15V3459": "C",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3460": "P",
   "VTANR5L15V347": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -1217,10 +1219,10 @@
   "id": "827581398965944320",
   "name": "Agnès Thill",
   "public_metrics": {
-   "followers_count": 9870,
+   "followers_count": 9874,
    "following_count": 1101,
-   "listed_count": 111,
-   "tweet_count": 18447
+   "listed_count": 110,
+   "tweet_count": 18451
   },
   "username": "ThillAgnes"
  },

@@ -223,16 +223,21 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3456": "P",
   "VTANR5L15V3457": "A",
-  "VTANR5L15V3458": "P"
+  "VTANR5L15V3458": "P",
+  "VTANR5L15V3459": "C",
+  "VTANR5L15V3460": "P",
+  "VTANR5L15V3461": "C",
+  "VTANR5L15V3462": "C",
+  "VTANR5L15V3463": "P"
  },
  "twitter": {
   "id": "1304097324",
   "name": "Julien Ravier",
   "public_metrics": {
-   "followers_count": 2727,
-   "following_count": 1964,
+   "followers_count": 2789,
+   "following_count": 2021,
    "listed_count": 39,
-   "tweet_count": 1867
+   "tweet_count": 1874
   },
   "username": "JuRavier"
  },

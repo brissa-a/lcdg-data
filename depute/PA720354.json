@@ -563,6 +563,7 @@
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3461": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V359": "P",
@@ -730,7 +731,7 @@
    "followers_count": 4510,
    "following_count": 1499,
    "listed_count": 120,
-   "tweet_count": 2015
+   "tweet_count": 2017
   },
   "username": "J_M_Jacques"
  },

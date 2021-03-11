@@ -472,6 +472,8 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3456": "C",
+  "VTANR5L15V3459": "C",
+  "VTANR5L15V3460": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V354": "P",
   "VTANR5L15V355": "C",
@@ -563,7 +565,7 @@
    "followers_count": 3054,
    "following_count": 812,
    "listed_count": 92,
-   "tweet_count": 1374
+   "tweet_count": 1376
   },
   "username": "YHaury44"
  },

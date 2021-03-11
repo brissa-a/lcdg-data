@@ -715,6 +715,8 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3460": "P",
+  "VTANR5L15V3463": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V360": "P",
@@ -938,9 +940,9 @@
   "id": "137338942",
   "name": "Vincent Descoeur",
   "public_metrics": {
-   "followers_count": 2013,
+   "followers_count": 2012,
    "following_count": 422,
-   "listed_count": 107,
+   "listed_count": 108,
    "tweet_count": 245
   },
   "username": "VincentDescoeur"

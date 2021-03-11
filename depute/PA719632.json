@@ -506,6 +506,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3459": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -616,7 +617,7 @@
    "followers_count": 3043,
    "following_count": 1280,
    "listed_count": 66,
-   "tweet_count": 2218
+   "tweet_count": 2219
   },
   "username": "SoPanonacle"
  },

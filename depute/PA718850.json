@@ -705,6 +705,8 @@
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3455": "P",
+  "VTANR5L15V3459": "C",
+  "VTANR5L15V3460": "P",
   "VTANR5L15V347": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V352": "C",
@@ -884,10 +886,10 @@
   "id": "2529855122",
   "name": "Pierre CORDIER",
   "public_metrics": {
-   "followers_count": 3600,
+   "followers_count": 3603,
    "following_count": 1179,
    "listed_count": 102,
-   "tweet_count": 3712
+   "tweet_count": 3713
   },
   "username": "CORDIERPierre08"
  },

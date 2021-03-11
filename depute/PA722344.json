@@ -349,6 +349,9 @@
   "VTANR5L15V3456": "P",
   "VTANR5L15V3457": "P",
   "VTANR5L15V3458": "C",
+  "VTANR5L15V3459": "P",
+  "VTANR5L15V3460": "C",
+  "VTANR5L15V3461": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
@@ -464,9 +467,9 @@
   "id": "435623552",
   "name": "Hubert J-LAFERRIERE",
   "public_metrics": {
-   "followers_count": 6028,
+   "followers_count": 6033,
    "following_count": 2530,
-   "listed_count": 106,
+   "listed_count": 107,
    "tweet_count": 2736
   },
   "username": "hub_laferriere"

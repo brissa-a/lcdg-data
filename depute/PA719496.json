@@ -577,6 +577,7 @@
   "VTANR5L15V3456": "C",
   "VTANR5L15V3457": "P",
   "VTANR5L15V3458": "C",
+  "VTANR5L15V3460": "C",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -771,10 +772,10 @@
   "id": "885051305835802625",
   "name": "Pierre Cabaré",
   "public_metrics": {
-   "followers_count": 3290,
-   "following_count": 3644,
+   "followers_count": 3296,
+   "following_count": 3643,
    "listed_count": 80,
-   "tweet_count": 2733
+   "tweet_count": 2738
   },
   "username": "DeputeCabareP"
  },

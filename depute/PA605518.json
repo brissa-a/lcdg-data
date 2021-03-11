@@ -366,6 +366,10 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3456": "P",
   "VTANR5L15V3457": "P",
+  "VTANR5L15V3459": "P",
+  "VTANR5L15V3460": "C",
+  "VTANR5L15V3462": "A",
+  "VTANR5L15V3463": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -430,10 +434,10 @@
   "id": "522084022",
   "name": "FM LAMBERT",
   "public_metrics": {
-   "followers_count": 13580,
+   "followers_count": 13581,
    "following_count": 2137,
    "listed_count": 394,
-   "tweet_count": 19301
+   "tweet_count": 19313
   },
   "username": "fm_lambert"
  },

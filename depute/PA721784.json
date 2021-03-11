@@ -529,6 +529,9 @@
   "VTANR5L15V3456": "C",
   "VTANR5L15V3457": "C",
   "VTANR5L15V3458": "C",
+  "VTANR5L15V3459": "C",
+  "VTANR5L15V3460": "C",
+  "VTANR5L15V3462": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
   "VTANR5L15V357": "P",
@@ -681,8 +684,8 @@
   "public_metrics": {
    "followers_count": 3865,
    "following_count": 2101,
-   "listed_count": 96,
-   "tweet_count": 3821
+   "listed_count": 95,
+   "tweet_count": 3822
   },
   "username": "VGB83"
  },

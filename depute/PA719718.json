@@ -555,7 +555,9 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3459": "C",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3460": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -717,10 +719,10 @@
   "id": "1299738390",
   "name": "Laurence Maillart M",
   "public_metrics": {
-   "followers_count": 7903,
-   "following_count": 1439,
-   "listed_count": 184,
-   "tweet_count": 7326
+   "followers_count": 7911,
+   "following_count": 1438,
+   "listed_count": 186,
+   "tweet_count": 7331
   },
   "username": "LMaillart"
  },

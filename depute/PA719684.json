@@ -544,6 +544,8 @@
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3459": "C",
+  "VTANR5L15V3460": "C",
   "VTANR5L15V359": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -670,9 +672,9 @@
   "name": "Coralie Dubost",
   "public_metrics": {
    "followers_count": 17375,
-   "following_count": 3296,
-   "listed_count": 217,
-   "tweet_count": 15142
+   "following_count": 3297,
+   "listed_count": 216,
+   "tweet_count": 15143
   },
   "username": "CoDubost"
  },

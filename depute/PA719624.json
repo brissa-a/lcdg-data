@@ -519,6 +519,7 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3456": "C",
   "VTANR5L15V3457": "C",
+  "VTANR5L15V3462": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -615,10 +616,10 @@
   "id": "863834372125970432",
   "name": "Bérangère Couillard",
   "public_metrics": {
-   "followers_count": 9509,
-   "following_count": 1963,
-   "listed_count": 131,
-   "tweet_count": 2618
+   "followers_count": 9524,
+   "following_count": 1964,
+   "listed_count": 132,
+   "tweet_count": 2621
   },
   "username": "BCouillard33"
  },
