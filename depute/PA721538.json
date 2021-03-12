@@ -243,16 +243,24 @@
   "VTANR5L15V3457": "C",
   "VTANR5L15V3458": "C",
   "VTANR5L15V3459": "C",
-  "VTANR5L15V3460": "C"
+  "VTANR5L15V3460": "C",
+  "VTANR5L15V3464": "C",
+  "VTANR5L15V3466": "C",
+  "VTANR5L15V3467": "C",
+  "VTANR5L15V3468": "C",
+  "VTANR5L15V3469": "C",
+  "VTANR5L15V3470": "C",
+  "VTANR5L15V3471": "C",
+  "VTANR5L15V3472": "C"
  },
  "twitter": {
   "id": "1310410140",
   "name": "Muriel RoquesEtienne",
   "public_metrics": {
    "followers_count": 652,
-   "following_count": 588,
-   "listed_count": 9,
-   "tweet_count": 687
+   "following_count": 589,
+   "listed_count": 8,
+   "tweet_count": 688
   },
   "username": "MRoquesetienne"
  },

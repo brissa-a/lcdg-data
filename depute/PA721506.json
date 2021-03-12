@@ -998,6 +998,16 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3459": "C",
   "VTANR5L15V3460": "P",
+  "VTANR5L15V3464": "C",
+  "VTANR5L15V3465": "P",
+  "VTANR5L15V3466": "P",
+  "VTANR5L15V3467": "P",
+  "VTANR5L15V3468": "P",
+  "VTANR5L15V3469": "P",
+  "VTANR5L15V3470": "P",
+  "VTANR5L15V3471": "C",
+  "VTANR5L15V3475": "P",
+  "VTANR5L15V3476": "C",
   "VTANR5L15V351": "A",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "A",
@@ -1229,10 +1239,10 @@
   "id": "59800834",
   "name": "Brigitte KUSTER",
   "public_metrics": {
-   "followers_count": 13813,
+   "followers_count": 13820,
    "following_count": 1640,
-   "listed_count": 344,
-   "tweet_count": 22562
+   "listed_count": 345,
+   "tweet_count": 22577
   },
   "username": "brigitte_kuster"
  },

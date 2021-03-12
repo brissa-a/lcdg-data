@@ -820,6 +820,7 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3457": "C",
+  "VTANR5L15V3466": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -1039,10 +1040,10 @@
   "id": "1341729894",
   "name": "Thomas MESNIER",
   "public_metrics": {
-   "followers_count": 17480,
+   "followers_count": 17486,
    "following_count": 976,
-   "listed_count": 203,
-   "tweet_count": 3771
+   "listed_count": 204,
+   "tweet_count": 3772
   },
   "username": "MESNIERThomas"
  },

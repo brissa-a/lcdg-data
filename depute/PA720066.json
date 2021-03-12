@@ -729,6 +729,9 @@
   "VTANR5L15V3459": "C",
   "VTANR5L15V346": "C",
   "VTANR5L15V3460": "C",
+  "VTANR5L15V3464": "C",
+  "VTANR5L15V3465": "C",
+  "VTANR5L15V3468": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V365": "P",
@@ -861,8 +864,8 @@
   "public_metrics": {
    "followers_count": 6269,
    "following_count": 2188,
-   "listed_count": 112,
-   "tweet_count": 2382
+   "listed_count": 113,
+   "tweet_count": 2384
   },
   "username": "stephanie_rist"
  },

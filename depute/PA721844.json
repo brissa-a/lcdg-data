@@ -907,7 +907,16 @@
   "VTANR5L15V346": "C",
   "VTANR5L15V3460": "C",
   "VTANR5L15V3462": "P",
+  "VTANR5L15V3464": "C",
+  "VTANR5L15V3465": "C",
+  "VTANR5L15V3466": "C",
+  "VTANR5L15V3467": "C",
+  "VTANR5L15V3468": "C",
   "VTANR5L15V347": "P",
+  "VTANR5L15V3472": "C",
+  "VTANR5L15V3473": "C",
+  "VTANR5L15V3474": "C",
+  "VTANR5L15V3475": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V359": "P",
@@ -1152,10 +1161,10 @@
   "id": "864547522588667909",
   "name": "Béatrice Piron",
   "public_metrics": {
-   "followers_count": 7475,
+   "followers_count": 7479,
    "following_count": 1004,
    "listed_count": 128,
-   "tweet_count": 3288
+   "tweet_count": 3291
   },
   "username": "BeatricePiron"
  },

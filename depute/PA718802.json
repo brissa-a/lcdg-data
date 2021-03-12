@@ -625,6 +625,14 @@
   "VTANR5L15V3457": "C",
   "VTANR5L15V3458": "C",
   "VTANR5L15V3459": "C",
+  "VTANR5L15V3466": "C",
+  "VTANR5L15V3467": "C",
+  "VTANR5L15V3468": "C",
+  "VTANR5L15V3469": "C",
+  "VTANR5L15V3470": "C",
+  "VTANR5L15V3471": "C",
+  "VTANR5L15V3474": "C",
+  "VTANR5L15V3475": "C",
   "VTANR5L15V361": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V407": "P",
@@ -715,10 +723,10 @@
   "id": "3124227529",
   "name": "Alain Perea",
   "public_metrics": {
-   "followers_count": 4966,
+   "followers_count": 4970,
    "following_count": 830,
-   "listed_count": 123,
-   "tweet_count": 1884
+   "listed_count": 122,
+   "tweet_count": 1885
   },
   "username": "PereaAlain"
  },

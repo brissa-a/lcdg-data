@@ -366,16 +366,27 @@
   "VTANR5L15V3396": "C",
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
-  "VTANR5L15V3454": "P"
+  "VTANR5L15V3454": "P",
+  "VTANR5L15V3464": "C",
+  "VTANR5L15V3465": "C",
+  "VTANR5L15V3466": "C",
+  "VTANR5L15V3467": "C",
+  "VTANR5L15V3470": "C",
+  "VTANR5L15V3471": "C",
+  "VTANR5L15V3472": "C",
+  "VTANR5L15V3473": "C",
+  "VTANR5L15V3474": "C",
+  "VTANR5L15V3475": "C",
+  "VTANR5L15V3476": "C"
  },
  "twitter": {
   "id": "1174627465307840512",
-  "name": "Patrick Loiseau",
+  "name": "Patrick LOISEAU",
   "public_metrics": {
    "followers_count": 505,
    "following_count": 435,
    "listed_count": 19,
-   "tweet_count": 986
+   "tweet_count": 990
   },
   "username": "PLoiseau85"
  },
