@@ -11,6 +11,12 @@
   },
   "nom": "Manuéla Kéclard-Mondésir"
  },
+ "an_www_depute": {
+  "groupe": "Gauche démocrate et républicaine",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721012.jpg",
+  "nosiege": "596"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA721012",
@@ -42,6 +48,22 @@
   "prenom": "Manuéla"
  },
  "datan": "https://datan.fr/deputes/martinique-972/depute_manuela-keclardmondesir",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 46,
+   "curRadiusIndex": 5,
+   "id": "ai46ri5",
+   "no": 596,
+   "polar": {
+    "angle": 3.074750256704904,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.6236042991394707,
+    "y": -0.041753649544207065
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "KeclardManuela",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721012"
