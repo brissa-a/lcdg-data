@@ -1941,6 +1941,13 @@
   "VTANR5L15V3471": "C",
   "VTANR5L15V3472": "C",
   "VTANR5L15V3473": "C",
+  "VTANR5L15V3477": "P",
+  "VTANR5L15V3478": "P",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "P",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V351": "A",
   "VTANR5L15V358": "C",
   "VTANR5L15V360": "A",
@@ -2373,7 +2380,7 @@
    "followers_count": 8580,
    "following_count": 30,
    "listed_count": 62,
-   "tweet_count": 611
+   "tweet_count": 613
   },
   "username": "emenard34"
  },

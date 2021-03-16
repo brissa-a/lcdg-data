@@ -1358,6 +1358,11 @@
   "VTANR5L15V3461": "C",
   "VTANR5L15V3462": "P",
   "VTANR5L15V3463": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -1609,10 +1614,10 @@
   "id": "866236903066128384",
   "name": "Nicole Dubré Chirat",
   "public_metrics": {
-   "followers_count": 4045,
+   "followers_count": 4047,
    "following_count": 374,
    "listed_count": 104,
-   "tweet_count": 4702
+   "tweet_count": 4703
   },
   "username": "NicoleDubre17"
  },

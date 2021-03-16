@@ -910,6 +910,11 @@
   "VTANR5L15V3445": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -1164,7 +1169,7 @@
   "id": "837694453250936837",
   "name": "Dominique da Silva",
   "public_metrics": {
-   "followers_count": 6780,
+   "followers_count": 6779,
    "following_count": 909,
    "listed_count": 120,
    "tweet_count": 1684

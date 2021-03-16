@@ -142,16 +142,23 @@
   "VTANR5L15V3468": "C",
   "VTANR5L15V3472": "P",
   "VTANR5L15V3473": "P",
-  "VTANR5L15V3474": "P"
+  "VTANR5L15V3474": "P",
+  "VTANR5L15V3477": "P",
+  "VTANR5L15V3478": "P",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "P",
+  "VTANR5L15V3482": "P",
+  "VTANR5L15V3483": "P"
  },
  "twitter": {
   "id": "1186673785",
   "name": "Isabelle Santiago",
   "public_metrics": {
-   "followers_count": 2227,
-   "following_count": 1320,
-   "listed_count": 31,
-   "tweet_count": 4055
+   "followers_count": 2236,
+   "following_count": 1321,
+   "listed_count": 33,
+   "tweet_count": 4068
   },
   "username": "isasantiago_94"
  },

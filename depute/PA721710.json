@@ -1215,6 +1215,13 @@
   "VTANR5L15V3474": "C",
   "VTANR5L15V3475": "C",
   "VTANR5L15V3476": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -1515,10 +1522,10 @@
   "id": "802991763476594688",
   "name": "Michèle PEYRON",
   "public_metrics": {
-   "followers_count": 5435,
+   "followers_count": 5443,
    "following_count": 551,
    "listed_count": 101,
-   "tweet_count": 6108
+   "tweet_count": 6122
   },
   "username": "MichelePeyron"
  },

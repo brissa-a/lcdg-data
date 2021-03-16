@@ -429,6 +429,10 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "A",
   "VTANR5L15V353": "P",
@@ -506,7 +510,7 @@
    "followers_count": 1126,
    "following_count": 172,
    "listed_count": 97,
-   "tweet_count": 521
+   "tweet_count": 522
   },
   "username": "sclaireaux"
  },

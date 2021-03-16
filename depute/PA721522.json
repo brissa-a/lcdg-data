@@ -675,6 +675,13 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -787,10 +794,10 @@
   "id": "862754226589577216",
   "name": "Xavier Batut",
   "public_metrics": {
-   "followers_count": 6162,
+   "followers_count": 6164,
    "following_count": 1844,
    "listed_count": 107,
-   "tweet_count": 1963
+   "tweet_count": 1965
   },
   "username": "XavierBatut"
  },

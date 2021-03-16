@@ -777,6 +777,12 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
@@ -993,7 +999,7 @@
    "followers_count": 1144,
    "following_count": 594,
    "listed_count": 23,
-   "tweet_count": 458
+   "tweet_count": 461
   },
   "username": "Bannier_G"
  },

@@ -516,6 +516,13 @@
   "VTANR5L15V3453": "P",
   "VTANR5L15V3462": "P",
   "VTANR5L15V3463": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -695,10 +702,10 @@
   "id": "2208536261",
   "name": "Patricia MIRALLÈS",
   "public_metrics": {
-   "followers_count": 5536,
-   "following_count": 1295,
+   "followers_count": 5540,
+   "following_count": 1296,
    "listed_count": 321,
-   "tweet_count": 24312
+   "tweet_count": 24318
   },
   "username": "MIRALLESMP"
  },

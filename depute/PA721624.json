@@ -649,6 +649,13 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -852,10 +859,10 @@
   "id": "2317502810",
   "name": "Laetitia Avia",
   "public_metrics": {
-   "followers_count": 32994,
-   "following_count": 1516,
+   "followers_count": 32991,
+   "following_count": 1519,
    "listed_count": 381,
-   "tweet_count": 7787
+   "tweet_count": 7790
   },
   "username": "LaetitiaAvia"
  },

@@ -1301,7 +1301,14 @@
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3477": "P",
+  "VTANR5L15V3478": "P",
+  "VTANR5L15V3479": "P",
   "VTANR5L15V348": "C",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "A",
+  "VTANR5L15V3482": "P",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V352": "C",
@@ -1671,7 +1678,7 @@
    "followers_count": 1688,
    "following_count": 177,
    "listed_count": 81,
-   "tweet_count": 3078
+   "tweet_count": 3080
   },
   "username": "alainramadier"
  },

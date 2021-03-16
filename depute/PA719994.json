@@ -862,7 +862,14 @@
   "VTANR5L15V347": "P",
   "VTANR5L15V3475": "C",
   "VTANR5L15V3476": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
   "VTANR5L15V348": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -1116,7 +1123,7 @@
   "id": "875806431731228676",
   "name": "Catherine Kamowski",
   "public_metrics": {
-   "followers_count": 1243,
+   "followers_count": 1244,
    "following_count": 250,
    "listed_count": 68,
    "tweet_count": 2831

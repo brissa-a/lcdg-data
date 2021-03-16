@@ -858,6 +858,12 @@
   "VTANR5L15V3456": "C",
   "VTANR5L15V3457": "C",
   "VTANR5L15V3458": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -983,7 +989,7 @@
   "id": "795233446121664512",
   "name": "Jacques Marilossian",
   "public_metrics": {
-   "followers_count": 4904,
+   "followers_count": 4906,
    "following_count": 936,
    "listed_count": 111,
    "tweet_count": 2540

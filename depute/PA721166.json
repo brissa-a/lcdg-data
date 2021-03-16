@@ -348,6 +348,13 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3459": "C",
   "VTANR5L15V3460": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
+  "VTANR5L15V3479": "P",
+  "VTANR5L15V3480": "P",
+  "VTANR5L15V3481": "C",
+  "VTANR5L15V3482": "C",
+  "VTANR5L15V3483": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
@@ -408,10 +415,10 @@
   "id": "214823261",
   "name": "Samantha Cazebonne",
   "public_metrics": {
-   "followers_count": 10508,
-   "following_count": 2980,
-   "listed_count": 129,
-   "tweet_count": 2458
+   "followers_count": 10505,
+   "following_count": 2979,
+   "listed_count": 130,
+   "tweet_count": 2461
   },
   "username": "scazebonne"
  },

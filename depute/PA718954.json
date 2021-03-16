@@ -506,6 +506,8 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3459": "C",
   "VTANR5L15V3460": "C",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -607,7 +609,7 @@
    "followers_count": 6752,
    "following_count": 1361,
    "listed_count": 151,
-   "tweet_count": 2454
+   "tweet_count": 2458
   },
   "username": "saidahamada"
  },

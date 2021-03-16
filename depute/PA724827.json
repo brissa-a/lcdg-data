@@ -554,6 +554,8 @@
   "VTANR5L15V3443": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3477": "C",
+  "VTANR5L15V3478": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -645,7 +647,7 @@
   "id": "999986689622855680",
   "name": "Ramlati Ali",
   "public_metrics": {
-   "followers_count": 623,
+   "followers_count": 624,
    "following_count": 109,
    "listed_count": 31,
    "tweet_count": 436
