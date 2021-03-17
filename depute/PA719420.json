@@ -543,6 +543,7 @@
   "VTANR5L15V3473": "C",
   "VTANR5L15V3474": "C",
   "VTANR5L15V3475": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V349": "A",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
@@ -713,7 +714,7 @@
   "id": "67336250",
   "name": "Denis Sommer",
   "public_metrics": {
-   "followers_count": 1649,
+   "followers_count": 1651,
    "following_count": 474,
    "listed_count": 107,
    "tweet_count": 574

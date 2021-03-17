@@ -464,6 +464,7 @@
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3455": "P",
+  "VTANR5L15V3484": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "A",
   "VTANR5L15V360": "P",
@@ -595,10 +596,10 @@
   "id": "177662118",
   "name": "🇫🇷 Guillaume Larrivé",
   "public_metrics": {
-   "followers_count": 34385,
+   "followers_count": 34381,
    "following_count": 2126,
    "listed_count": 378,
-   "tweet_count": 8152
+   "tweet_count": 8159
   },
   "username": "GLarrive"
  },

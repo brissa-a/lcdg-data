@@ -636,6 +636,7 @@
   "VTANR5L15V3481": "C",
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -737,10 +738,10 @@
   "id": "402214102",
   "name": "Mohamed Laqhila - Député des Bouches-du-Rhône",
   "public_metrics": {
-   "followers_count": 3029,
-   "following_count": 2633,
+   "followers_count": 3032,
+   "following_count": 2637,
    "listed_count": 116,
-   "tweet_count": 4754
+   "tweet_count": 4767
   },
   "username": "laqhila"
  },

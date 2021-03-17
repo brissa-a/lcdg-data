@@ -485,6 +485,7 @@
   "VTANR5L15V3453": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -556,7 +557,7 @@
   "id": "917647276176273408",
   "name": "Anne Blanc",
   "public_metrics": {
-   "followers_count": 1489,
+   "followers_count": 1493,
    "following_count": 790,
    "listed_count": 59,
    "tweet_count": 812

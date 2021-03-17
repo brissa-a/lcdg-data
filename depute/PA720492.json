@@ -788,6 +788,7 @@
   "VTANR5L15V3477": "C",
   "VTANR5L15V3478": "C",
   "VTANR5L15V348": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -871,8 +872,8 @@
   "id": "2163509654",
   "name": "Osson Catherine",
   "public_metrics": {
-   "followers_count": 3564,
-   "following_count": 1085,
+   "followers_count": 3567,
+   "following_count": 1086,
    "listed_count": 107,
    "tweet_count": 3146
   },

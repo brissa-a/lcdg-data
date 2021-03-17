@@ -518,6 +518,7 @@
   "VTANR5L15V3448": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
@@ -799,7 +800,7 @@
   "id": "862791076633083904",
   "name": "Annaïg Le Meur",
   "public_metrics": {
-   "followers_count": 3838,
+   "followers_count": 3839,
    "following_count": 540,
    "listed_count": 107,
    "tweet_count": 1203

@@ -778,6 +778,7 @@
   "VTANR5L15V3457": "P",
   "VTANR5L15V3458": "P",
   "VTANR5L15V347": "P",
+  "VTANR5L15V3484": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -1050,10 +1051,10 @@
   "id": "870216254300270593",
   "name": "Martine WONNER",
   "public_metrics": {
-   "followers_count": 44948,
-   "following_count": 926,
-   "listed_count": 293,
-   "tweet_count": 2344
+   "followers_count": 45062,
+   "following_count": 925,
+   "listed_count": 294,
+   "tweet_count": 2347
   },
   "username": "MartineWonner"
  },

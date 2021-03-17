@@ -474,6 +474,7 @@
   "VTANR5L15V3451": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V347": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V359": "C",
@@ -602,8 +603,8 @@
   "id": "1280904205247614981",
   "name": "Josette Manin",
   "public_metrics": {
-   "followers_count": 420,
-   "following_count": 1910,
+   "followers_count": 421,
+   "following_count": 1911,
    "listed_count": 4,
    "tweet_count": 5
   },

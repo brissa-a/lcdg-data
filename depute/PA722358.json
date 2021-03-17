@@ -358,6 +358,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3451": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -422,10 +423,10 @@
   "id": "207187853",
   "name": "Thomas Gassilloud",
   "public_metrics": {
-   "followers_count": 3902,
-   "following_count": 1496,
+   "followers_count": 3901,
+   "following_count": 1497,
    "listed_count": 187,
-   "tweet_count": 16282
+   "tweet_count": 16283
   },
   "username": "tgassilloud"
  },

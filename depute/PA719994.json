@@ -870,6 +870,7 @@
   "VTANR5L15V3481": "C",
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -1126,7 +1127,7 @@
    "followers_count": 1244,
    "following_count": 250,
    "listed_count": 68,
-   "tweet_count": 2831
+   "tweet_count": 2832
   },
   "username": "CKamowski3805"
  },

@@ -624,6 +624,7 @@
   "VTANR5L15V3445": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -820,7 +821,7 @@
   "id": "880849230",
   "name": "Xavier Roseren",
   "public_metrics": {
-   "followers_count": 2887,
+   "followers_count": 2893,
    "following_count": 513,
    "listed_count": 89,
    "tweet_count": 1440

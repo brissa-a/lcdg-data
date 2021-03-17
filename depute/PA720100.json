@@ -602,6 +602,7 @@
   "VTANR5L15V3438": "P",
   "VTANR5L15V3440": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -654,10 +655,10 @@
   "id": "1855097904",
   "name": "Aurélien Pradié",
   "public_metrics": {
-   "followers_count": 11493,
+   "followers_count": 11513,
    "following_count": 72,
-   "listed_count": 158,
-   "tweet_count": 4851
+   "listed_count": 157,
+   "tweet_count": 4867
   },
   "username": "AurelienPradie"
  },

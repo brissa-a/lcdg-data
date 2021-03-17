@@ -928,6 +928,7 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3453": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V356": "C",
@@ -1247,10 +1248,10 @@
   "id": "938533192142872577",
   "name": "Pascale Boyer",
   "public_metrics": {
-   "followers_count": 1081,
-   "following_count": 419,
+   "followers_count": 1082,
+   "following_count": 420,
    "listed_count": 33,
-   "tweet_count": 366
+   "tweet_count": 370
   },
   "username": "PascaleBoyerEM"
  },

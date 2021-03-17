@@ -316,6 +316,7 @@
   "VTANR5L15V3422": "A",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -350,7 +351,7 @@
   "id": "4069983213",
   "name": "David Lorion",
   "public_metrics": {
-   "followers_count": 1823,
+   "followers_count": 1826,
    "following_count": 468,
    "listed_count": 78,
    "tweet_count": 1902

@@ -864,6 +864,7 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V348": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V36": "C",
   "VTANR5L15V361": "C",
@@ -976,9 +977,9 @@
   "id": "733339165379731458",
   "name": "Laurent Saint-Martin",
   "public_metrics": {
-   "followers_count": 18978,
-   "following_count": 924,
-   "listed_count": 181,
+   "followers_count": 19001,
+   "following_count": 925,
+   "listed_count": 182,
    "tweet_count": 6617
   },
   "username": "LauStmartin"

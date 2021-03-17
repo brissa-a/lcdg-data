@@ -299,6 +299,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -319,7 +320,7 @@
   "id": "2152248747",
   "name": "Didier QUENTIN",
   "public_metrics": {
-   "followers_count": 1868,
+   "followers_count": 1869,
    "following_count": 114,
    "listed_count": 109,
    "tweet_count": 517

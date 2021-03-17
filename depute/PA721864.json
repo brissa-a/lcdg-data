@@ -244,16 +244,18 @@
   "VTANR5L15V3459": "C",
   "VTANR5L15V3460": "C",
   "VTANR5L15V3462": "P",
-  "VTANR5L15V3463": "C"
+  "VTANR5L15V3463": "C",
+  "VTANR5L15V3484": "P",
+  "VTANR5L15V3485": "P"
  },
  "twitter": {
   "id": "1248356491607842817",
   "name": "ZITOUNI Souad",
   "public_metrics": {
-   "followers_count": 1193,
+   "followers_count": 1197,
    "following_count": 688,
    "listed_count": 8,
-   "tweet_count": 417
+   "tweet_count": 420
   },
   "username": "ZITOUNISouad3"
  },

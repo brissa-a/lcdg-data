@@ -214,6 +214,7 @@
   "VTANR5L15V345": "A",
   "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -247,7 +248,7 @@
   "id": "408115726",
   "name": "Philippe Gomès",
   "public_metrics": {
-   "followers_count": 2856,
+   "followers_count": 2859,
    "following_count": 134,
    "listed_count": 181,
    "tweet_count": 3971

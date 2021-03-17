@@ -306,6 +306,7 @@
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "A",
   "VTANR5L15V347": "A",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "A",
   "VTANR5L15V358": "C",
@@ -448,10 +449,10 @@
   "id": "1635233568",
   "name": "Bruno Bilde",
   "public_metrics": {
-   "followers_count": 10975,
+   "followers_count": 10978,
    "following_count": 867,
-   "listed_count": 106,
-   "tweet_count": 1686
+   "listed_count": 105,
+   "tweet_count": 1687
   },
   "username": "BrunoBilde"
  },

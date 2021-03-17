@@ -677,6 +677,8 @@
   "VTANR5L15V3469": "A",
   "VTANR5L15V3472": "P",
   "VTANR5L15V3474": "P",
+  "VTANR5L15V3484": "P",
+  "VTANR5L15V3485": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V356": "A",
   "VTANR5L15V357": "P",
@@ -725,7 +727,7 @@
   "id": "529798328",
   "name": "Michel Castellani",
   "public_metrics": {
-   "followers_count": 7141,
+   "followers_count": 7142,
    "following_count": 152,
    "listed_count": 92,
    "tweet_count": 1163

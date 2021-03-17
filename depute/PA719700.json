@@ -472,6 +472,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V365": "P",
@@ -637,9 +638,9 @@
   "name": "Philippe HUPPE ✒️",
   "public_metrics": {
    "followers_count": 4403,
-   "following_count": 1192,
+   "following_count": 1193,
    "listed_count": 123,
-   "tweet_count": 3487
+   "tweet_count": 3489
   },
   "username": "PhilippeHuppe"
  },

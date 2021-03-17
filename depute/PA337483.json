@@ -394,6 +394,7 @@
   "VTANR5L15V3451": "P",
   "VTANR5L15V3452": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
@@ -481,7 +482,7 @@
   "id": "470370230",
   "name": "Serge LETCHIMY",
   "public_metrics": {
-   "followers_count": 6998,
+   "followers_count": 6996,
    "following_count": 648,
    "listed_count": 202,
    "tweet_count": 2187

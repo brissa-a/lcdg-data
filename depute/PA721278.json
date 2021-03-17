@@ -409,6 +409,7 @@
   "VTANR5L15V3450": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -642,10 +643,10 @@
   "id": "3791340735",
   "name": "Patrice Anato",
   "public_metrics": {
-   "followers_count": 6190,
-   "following_count": 1792,
+   "followers_count": 6197,
+   "following_count": 1791,
    "listed_count": 117,
-   "tweet_count": 1459
+   "tweet_count": 1460
   },
   "username": "Patrice_Anato"
  },

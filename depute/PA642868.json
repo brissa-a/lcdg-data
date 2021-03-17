@@ -958,6 +958,7 @@
   "VTANR5L15V3457": "P",
   "VTANR5L15V3458": "C",
   "VTANR5L15V346": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "P",
@@ -1108,7 +1109,7 @@
   "id": "616609800",
   "name": "Paul CHRISTOPHE",
   "public_metrics": {
-   "followers_count": 3431,
+   "followers_count": 3433,
    "following_count": 1147,
    "listed_count": 84,
    "tweet_count": 1457

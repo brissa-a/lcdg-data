@@ -438,6 +438,7 @@
   "VTANR5L15V3481": "C",
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
@@ -510,7 +511,7 @@
   "id": "864415461072658432",
   "name": "Jacques Maire",
   "public_metrics": {
-   "followers_count": 6852,
+   "followers_count": 6861,
    "following_count": 713,
    "listed_count": 127,
    "tweet_count": 2458

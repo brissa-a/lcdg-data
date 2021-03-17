@@ -527,6 +527,7 @@
   "VTANR5L15V3440": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -579,7 +580,7 @@
   "id": "864560136974737408",
   "name": "Claire Pitollat",
   "public_metrics": {
-   "followers_count": 6973,
+   "followers_count": 6976,
    "following_count": 1526,
    "listed_count": 143,
    "tweet_count": 3586

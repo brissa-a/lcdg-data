@@ -647,6 +647,7 @@
   "VTANR5L15V3478": "P",
   "VTANR5L15V3479": "P",
   "VTANR5L15V3480": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -825,8 +826,8 @@
   "id": "856270190736277506",
   "name": "Fiona Lazaar",
   "public_metrics": {
-   "followers_count": 14481,
-   "following_count": 2713,
+   "followers_count": 14484,
+   "following_count": 2714,
    "listed_count": 148,
    "tweet_count": 5751
   },

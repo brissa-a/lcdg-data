@@ -481,6 +481,7 @@
   "VTANR5L15V3432": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -528,8 +529,8 @@
   "id": "556754160",
   "name": "Bernard PERRUT",
   "public_metrics": {
-   "followers_count": 6616,
-   "following_count": 3589,
+   "followers_count": 6615,
+   "following_count": 3587,
    "listed_count": 191,
    "tweet_count": 1871
   },

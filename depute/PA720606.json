@@ -453,6 +453,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "A",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "A",
   "VTANR5L15V358": "C",
   "VTANR5L15V360": "C",
@@ -628,9 +629,9 @@
   "id": "496370501",
   "name": "Ludovic PAJOT",
   "public_metrics": {
-   "followers_count": 9728,
+   "followers_count": 9730,
    "following_count": 541,
-   "listed_count": 103,
+   "listed_count": 102,
    "tweet_count": 4350
   },
   "username": "ludovicpajot"

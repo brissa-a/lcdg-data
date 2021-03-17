@@ -861,6 +861,7 @@
   "VTANR5L15V3452": "C",
   "VTANR5L15V3453": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V36": "C",
@@ -976,10 +977,10 @@
   "id": "570133214",
   "name": "Anne GENETET",
   "public_metrics": {
-   "followers_count": 8375,
+   "followers_count": 8388,
    "following_count": 1487,
    "listed_count": 147,
-   "tweet_count": 10226
+   "tweet_count": 10234
   },
   "username": "AGenetet"
  },

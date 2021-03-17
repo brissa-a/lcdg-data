@@ -657,6 +657,7 @@
   "VTANR5L15V3438": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V366": "C",
@@ -872,7 +873,7 @@
   "name": "Michèle Crouzet",
   "public_metrics": {
    "followers_count": 3844,
-   "following_count": 936,
+   "following_count": 937,
    "listed_count": 100,
    "tweet_count": 756
   },

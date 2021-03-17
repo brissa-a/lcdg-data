@@ -798,6 +798,7 @@
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
   "VTANR5L15V347": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
@@ -956,8 +957,8 @@
   "id": "947822287",
   "name": "GiseleBiemouret",
   "public_metrics": {
-   "followers_count": 3584,
-   "following_count": 1031,
+   "followers_count": 3585,
+   "following_count": 1033,
    "listed_count": 134,
    "tweet_count": 2775
   },

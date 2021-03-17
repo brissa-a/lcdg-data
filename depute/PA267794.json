@@ -162,6 +162,7 @@
   "VTANR5L15V3422": "A",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -179,7 +180,7 @@
   "id": "514546669",
   "name": "Michèle Tabarot",
   "public_metrics": {
-   "followers_count": 5509,
+   "followers_count": 5512,
    "following_count": 522,
    "listed_count": 145,
    "tweet_count": 1611

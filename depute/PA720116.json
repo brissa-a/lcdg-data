@@ -376,6 +376,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V363": "C",
@@ -489,10 +490,10 @@
   "id": "864509060816793601",
   "name": "Anne-France Brunet #ClimatRésilience",
   "public_metrics": {
-   "followers_count": 3221,
+   "followers_count": 3227,
    "following_count": 1052,
    "listed_count": 85,
-   "tweet_count": 1779
+   "tweet_count": 1781
   },
   "username": "AFBrunet_4403"
  },

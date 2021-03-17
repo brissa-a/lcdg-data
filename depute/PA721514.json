@@ -524,6 +524,7 @@
   "VTANR5L15V3466": "C",
   "VTANR5L15V3467": "C",
   "VTANR5L15V3468": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
@@ -641,7 +642,7 @@
    "followers_count": 6515,
    "following_count": 1208,
    "listed_count": 145,
-   "tweet_count": 3833
+   "tweet_count": 3836
   },
   "username": "SKerbarh"
  },

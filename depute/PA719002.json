@@ -228,16 +228,17 @@
   "VTANR5L15V3460": "P",
   "VTANR5L15V3461": "C",
   "VTANR5L15V3462": "C",
-  "VTANR5L15V3463": "P"
+  "VTANR5L15V3463": "P",
+  "VTANR5L15V3484": "A"
  },
  "twitter": {
   "id": "1304097324",
   "name": "Julien Ravier",
   "public_metrics": {
-   "followers_count": 2840,
+   "followers_count": 2846,
    "following_count": 2020,
    "listed_count": 39,
-   "tweet_count": 1874
+   "tweet_count": 1875
   },
   "username": "JuRavier"
  },

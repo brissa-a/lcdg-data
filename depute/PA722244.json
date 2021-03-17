@@ -637,6 +637,7 @@
   "VTANR5L15V3481": "C",
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -705,7 +706,7 @@
   "id": "862750783804190721",
   "name": "Marie-Ange Magne",
   "public_metrics": {
-   "followers_count": 3675,
+   "followers_count": 3678,
    "following_count": 625,
    "listed_count": 108,
    "tweet_count": 876

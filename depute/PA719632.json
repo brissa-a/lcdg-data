@@ -509,6 +509,7 @@
   "VTANR5L15V3459": "C",
   "VTANR5L15V3472": "C",
   "VTANR5L15V3473": "C",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -617,9 +618,9 @@
   "name": "Sophie Panonacle",
   "public_metrics": {
    "followers_count": 3050,
-   "following_count": 1281,
+   "following_count": 1282,
    "listed_count": 66,
-   "tweet_count": 2222
+   "tweet_count": 2224
   },
   "username": "SoPanonacle"
  },

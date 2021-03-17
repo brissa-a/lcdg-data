@@ -958,6 +958,7 @@
   "VTANR5L15V3438": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "C",
   "VTANR5L15V351": "C",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "C",
@@ -1224,10 +1225,10 @@
   "id": "881156720155930624",
   "name": "Fabien DI FILIPPO",
   "public_metrics": {
-   "followers_count": 9261,
+   "followers_count": 9268,
    "following_count": 2103,
    "listed_count": 87,
-   "tweet_count": 4966
+   "tweet_count": 4973
   },
   "username": "FabienDiFilippo"
  },

@@ -779,6 +779,7 @@
   "VTANR5L15V346": "P",
   "VTANR5L15V3462": "C",
   "VTANR5L15V3463": "P",
+  "VTANR5L15V3484": "C",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V363": "P",
@@ -855,7 +856,7 @@
   "id": "4733398756",
   "name": "Patrick Hetzel",
   "public_metrics": {
-   "followers_count": 5297,
+   "followers_count": 5298,
    "following_count": 1618,
    "listed_count": 149,
    "tweet_count": 6548

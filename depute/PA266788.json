@@ -420,6 +420,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "A",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -492,10 +493,10 @@
   "id": "110940220",
   "name": "MOREL A L'HUISSIER",
   "public_metrics": {
-   "followers_count": 4143,
-   "following_count": 1522,
+   "followers_count": 4142,
+   "following_count": 1521,
    "listed_count": 176,
-   "tweet_count": 4467
+   "tweet_count": 4468
   },
   "username": "MORELPIERRE"
  },

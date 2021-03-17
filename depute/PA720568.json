@@ -1081,6 +1081,7 @@
   "VTANR5L15V346": "C",
   "VTANR5L15V3460": "P",
   "VTANR5L15V347": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -1219,7 +1220,7 @@
   "id": "827581398965944320",
   "name": "Agnès Thill",
   "public_metrics": {
-   "followers_count": 9873,
+   "followers_count": 9874,
    "following_count": 1100,
    "listed_count": 110,
    "tweet_count": 18462

@@ -352,6 +352,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -403,10 +404,10 @@
   "id": "725260365135765504",
   "name": "Jean Jacques Ferrara",
   "public_metrics": {
-   "followers_count": 1279,
+   "followers_count": 1281,
    "following_count": 172,
    "listed_count": 65,
-   "tweet_count": 136
+   "tweet_count": 137
   },
   "username": "jjferrarafb"
  },

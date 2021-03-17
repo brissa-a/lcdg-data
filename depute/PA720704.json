@@ -470,6 +470,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V381": "A",
@@ -551,7 +552,7 @@
   "id": "85308962",
   "name": "Laurence Vichnievsky",
   "public_metrics": {
-   "followers_count": 3934,
+   "followers_count": 3932,
    "following_count": 485,
    "listed_count": 153,
    "tweet_count": 1444

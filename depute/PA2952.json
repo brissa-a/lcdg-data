@@ -352,6 +352,7 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -382,10 +383,10 @@
   "id": "94168587",
   "name": "Jean-Luc Warsmann",
   "public_metrics": {
-   "followers_count": 3274,
-   "following_count": 218,
+   "followers_count": 3275,
+   "following_count": 220,
    "listed_count": 194,
-   "tweet_count": 577
+   "tweet_count": 580
   },
   "username": "warsmann"
  },

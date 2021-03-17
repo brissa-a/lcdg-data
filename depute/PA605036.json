@@ -508,6 +508,7 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V345": "C",
   "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -555,10 +556,10 @@
   "id": "76584619",
   "name": "Damien Abad",
   "public_metrics": {
-   "followers_count": 23010,
-   "following_count": 6419,
+   "followers_count": 23019,
+   "following_count": 6418,
    "listed_count": 492,
-   "tweet_count": 6445
+   "tweet_count": 6449
   },
   "username": "damienabad"
  },

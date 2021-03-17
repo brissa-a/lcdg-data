@@ -674,6 +674,7 @@
   "VTANR5L15V3481": "C",
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
+  "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -788,10 +789,10 @@
   "id": "862190399938539520",
   "name": "Bruno Studer",
   "public_metrics": {
-   "followers_count": 7869,
+   "followers_count": 7874,
    "following_count": 1266,
    "listed_count": 155,
-   "tweet_count": 7813
+   "tweet_count": 7817
   },
   "username": "BrunoStuder67"
  },

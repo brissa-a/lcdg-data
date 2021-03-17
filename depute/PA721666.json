@@ -101,16 +101,17 @@
   "VTANR5L15V3378": "C",
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "P",
-  "VTANR5L15V3454": "P"
+  "VTANR5L15V3454": "P",
+  "VTANR5L15V3484": "C"
  },
  "twitter": {
   "id": "1291053895297445890",
   "name": "Edith Audibert",
   "public_metrics": {
-   "followers_count": 191,
+   "followers_count": 194,
    "following_count": 179,
    "listed_count": 11,
-   "tweet_count": 123
+   "tweet_count": 124
   },
   "username": "AudibertEdith"
  },
