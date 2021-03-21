@@ -1239,6 +1239,11 @@
   "VTANR5L15V347": "P",
   "VTANR5L15V3484": "A",
   "VTANR5L15V3485": "P",
+  "VTANR5L15V3488": "P",
+  "VTANR5L15V3489": "P",
+  "VTANR5L15V3490": "C",
+  "VTANR5L15V3491": "A",
+  "VTANR5L15V3492": "C",
   "VTANR5L15V351": "C",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "C",
@@ -1556,9 +1561,9 @@
   "id": "1970541246",
   "name": "Thibault BAZIN",
   "public_metrics": {
-   "followers_count": 4036,
-   "following_count": 1002,
-   "listed_count": 97,
+   "followers_count": 4061,
+   "following_count": 1003,
+   "listed_count": 96,
    "tweet_count": 3804
   },
   "username": "thibault_bazin"

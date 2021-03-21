@@ -439,7 +439,12 @@
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3488": "C",
+  "VTANR5L15V3489": "P",
   "VTANR5L15V349": "P",
+  "VTANR5L15V3490": "P",
+  "VTANR5L15V3491": "P",
+  "VTANR5L15V3492": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -511,10 +516,10 @@
   "id": "864415461072658432",
   "name": "Jacques Maire",
   "public_metrics": {
-   "followers_count": 6861,
-   "following_count": 713,
+   "followers_count": 6872,
+   "following_count": 714,
    "listed_count": 127,
-   "tweet_count": 2458
+   "tweet_count": 2464
   },
   "username": "JMaireofficiel"
  },

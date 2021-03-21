@@ -94,16 +94,26 @@
   "VTANR5L15V3480": "P",
   "VTANR5L15V3481": "A",
   "VTANR5L15V3482": "P",
-  "VTANR5L15V3483": "P"
+  "VTANR5L15V3483": "P",
+  "VTANR5L15V3488": "P",
+  "VTANR5L15V3489": "P",
+  "VTANR5L15V3490": "C",
+  "VTANR5L15V3491": "C",
+  "VTANR5L15V3492": "C",
+  "VTANR5L15V3502": "A",
+  "VTANR5L15V3503": "P",
+  "VTANR5L15V3504": "C",
+  "VTANR5L15V3505": "P",
+  "VTANR5L15V3506": "A"
  },
  "twitter": {
   "id": "1349674527219982336",
   "name": "KARINE LEBON",
   "public_metrics": {
-   "followers_count": 37,
+   "followers_count": 58,
    "following_count": 75,
    "listed_count": 0,
-   "tweet_count": 28
+   "tweet_count": 33
   },
   "username": "KarineLebon"
  },

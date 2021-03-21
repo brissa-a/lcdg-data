@@ -164,16 +164,18 @@
   "VTANR5L15V3431": "C",
   "VTANR5L15V3432": "P",
   "VTANR5L15V3454": "A",
-  "VTANR5L15V3484": "A"
+  "VTANR5L15V3484": "A",
+  "VTANR5L15V3486": "P",
+  "VTANR5L15V3487": "P"
  },
  "twitter": {
   "id": "794315550352691205",
   "name": "Catherine Pujol",
   "public_metrics": {
-   "followers_count": 2965,
-   "following_count": 1266,
-   "listed_count": 39,
-   "tweet_count": 18480
+   "followers_count": 2970,
+   "following_count": 1265,
+   "listed_count": 38,
+   "tweet_count": 18483
   },
   "username": "CatherinePUJOL1"
  },

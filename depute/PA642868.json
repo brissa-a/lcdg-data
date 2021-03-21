@@ -959,6 +959,11 @@
   "VTANR5L15V3458": "C",
   "VTANR5L15V346": "C",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3488": "C",
+  "VTANR5L15V3489": "P",
+  "VTANR5L15V3490": "C",
+  "VTANR5L15V3491": "P",
+  "VTANR5L15V3492": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "P",
@@ -1112,7 +1117,7 @@
    "followers_count": 3433,
    "following_count": 1147,
    "listed_count": 84,
-   "tweet_count": 1457
+   "tweet_count": 1459
   },
   "username": "christophe_p"
  },

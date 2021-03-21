@@ -757,6 +757,9 @@
   "VTANR5L15V3483": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V3485": "P",
+  "VTANR5L15V3486": "P",
+  "VTANR5L15V3487": "P",
+  "VTANR5L15V3492": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -932,10 +935,10 @@
   "id": "48664671",
   "name": "Jean-Michel MIS 🇫🇷",
   "public_metrics": {
-   "followers_count": 6259,
-   "following_count": 2078,
+   "followers_count": 6276,
+   "following_count": 2087,
    "listed_count": 177,
-   "tweet_count": 10862
+   "tweet_count": 10897
   },
   "username": "JeanMichelMIS"
  },

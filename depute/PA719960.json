@@ -757,6 +757,9 @@
   "VTANR5L15V3482": "C",
   "VTANR5L15V3483": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3490": "P",
+  "VTANR5L15V3491": "P",
+  "VTANR5L15V3492": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
@@ -824,10 +827,10 @@
   "id": "863389083099426816",
   "name": "Valéria Faure-Muntian",
   "public_metrics": {
-   "followers_count": 3585,
+   "followers_count": 3591,
    "following_count": 1459,
-   "listed_count": 98,
-   "tweet_count": 1780
+   "listed_count": 97,
+   "tweet_count": 1785
   },
   "username": "V_Faure_Muntian"
  },

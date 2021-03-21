@@ -903,7 +903,19 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V3485": "P",
+  "VTANR5L15V3488": "C",
+  "VTANR5L15V3489": "P",
+  "VTANR5L15V3490": "P",
+  "VTANR5L15V3491": "P",
+  "VTANR5L15V3492": "P",
+  "VTANR5L15V3494": "P",
+  "VTANR5L15V3495": "C",
+  "VTANR5L15V3496": "C",
+  "VTANR5L15V3497": "C",
+  "VTANR5L15V3498": "P",
+  "VTANR5L15V3499": "P",
   "VTANR5L15V35": "C",
+  "VTANR5L15V3500": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "P",
@@ -1257,10 +1269,10 @@
   "id": "987366042",
   "name": "Nicolas Démoulin",
   "public_metrics": {
-   "followers_count": 6948,
-   "following_count": 1272,
+   "followers_count": 6966,
+   "following_count": 1273,
    "listed_count": 124,
-   "tweet_count": 3066
+   "tweet_count": 3078
   },
   "username": "DemoulinEM"
  },

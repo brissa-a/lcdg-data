@@ -361,6 +361,9 @@
   "VTANR5L15V3422": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3490": "P",
+  "VTANR5L15V3491": "P",
+  "VTANR5L15V3492": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -427,9 +430,9 @@
   "id": "417049363",
   "name": "Frédéric Barbier",
   "public_metrics": {
-   "followers_count": 3002,
-   "following_count": 1113,
-   "listed_count": 157,
+   "followers_count": 3005,
+   "following_count": 1112,
+   "listed_count": 158,
    "tweet_count": 1913
   },
   "username": "Fred_Barbier"

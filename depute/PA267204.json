@@ -507,6 +507,8 @@
   "VTANR5L15V3463": "P",
   "VTANR5L15V3476": "C",
   "VTANR5L15V3484": "A",
+  "VTANR5L15V3493": "P",
+  "VTANR5L15V3497": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
@@ -570,7 +572,7 @@
   "id": "753210819379421185",
   "name": "Jean-Marie SERMIER",
   "public_metrics": {
-   "followers_count": 2483,
+   "followers_count": 2487,
    "following_count": 197,
    "listed_count": 83,
    "tweet_count": 347

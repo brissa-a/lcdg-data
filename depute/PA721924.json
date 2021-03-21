@@ -1116,7 +1116,17 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3488": "C",
+  "VTANR5L15V3489": "P",
   "VTANR5L15V349": "P",
+  "VTANR5L15V3490": "C",
+  "VTANR5L15V3491": "P",
+  "VTANR5L15V3492": "P",
+  "VTANR5L15V3493": "P",
+  "VTANR5L15V3494": "P",
+  "VTANR5L15V3495": "A",
+  "VTANR5L15V3496": "A",
+  "VTANR5L15V3497": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -1286,10 +1296,10 @@
   "id": "864828415760900097",
   "name": "MichèledeVaucouleurs",
   "public_metrics": {
-   "followers_count": 2706,
-   "following_count": 852,
+   "followers_count": 2712,
+   "following_count": 857,
    "listed_count": 79,
-   "tweet_count": 1710
+   "tweet_count": 1711
   },
   "username": "MdeVaucouleurs"
  },

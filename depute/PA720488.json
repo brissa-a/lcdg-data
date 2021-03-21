@@ -215,16 +215,21 @@
   "VTANR5L15V3431": "P",
   "VTANR5L15V3432": "P",
   "VTANR5L15V3454": "P",
-  "VTANR5L15V3484": "P"
+  "VTANR5L15V3484": "P",
+  "VTANR5L15V3488": "A",
+  "VTANR5L15V3489": "P",
+  "VTANR5L15V3490": "C",
+  "VTANR5L15V3491": "C",
+  "VTANR5L15V3492": "C"
  },
  "twitter": {
   "id": "902470987765211137",
   "name": "Valérie Six",
   "public_metrics": {
-   "followers_count": 781,
-   "following_count": 689,
+   "followers_count": 789,
+   "following_count": 694,
    "listed_count": 19,
-   "tweet_count": 865
+   "tweet_count": 876
   },
   "username": "six_valerie"
  },

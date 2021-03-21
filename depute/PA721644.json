@@ -552,6 +552,7 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V3485": "P",
   "VTANR5L15V349": "P",
+  "VTANR5L15V3493": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
@@ -673,10 +674,10 @@
   "id": "750407584897724416",
   "name": "Rodrigue Kokouendo",
   "public_metrics": {
-   "followers_count": 5509,
-   "following_count": 1575,
+   "followers_count": 5513,
+   "following_count": 1576,
    "listed_count": 93,
-   "tweet_count": 4943
+   "tweet_count": 4964
   },
   "username": "RKokouendoJ"
  },

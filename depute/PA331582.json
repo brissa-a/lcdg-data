@@ -814,6 +814,11 @@
   "VTANR5L15V345": "A",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3493": "P",
+  "VTANR5L15V3494": "P",
+  "VTANR5L15V3495": "A",
+  "VTANR5L15V3496": "A",
+  "VTANR5L15V3497": "C",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V360": "P",
@@ -927,10 +932,10 @@
   "id": "365505352",
   "name": "Philippe Vigier",
   "public_metrics": {
-   "followers_count": 11901,
-   "following_count": 4411,
-   "listed_count": 304,
-   "tweet_count": 5928
+   "followers_count": 11904,
+   "following_count": 4409,
+   "listed_count": 305,
+   "tweet_count": 5929
   },
   "username": "VigierPhilippe"
  },

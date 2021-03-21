@@ -1045,7 +1045,14 @@
   "VTANR5L15V3454": "A",
   "VTANR5L15V3484": "P",
   "VTANR5L15V3485": "C",
+  "VTANR5L15V3486": "A",
+  "VTANR5L15V3492": "C",
+  "VTANR5L15V3494": "A",
+  "VTANR5L15V3498": "P",
+  "VTANR5L15V3499": "A",
   "VTANR5L15V35": "P",
+  "VTANR5L15V3500": "P",
+  "VTANR5L15V3501": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V359": "C",
@@ -1248,7 +1255,7 @@
   "id": "2380233572",
   "name": "Pierre Dharréville",
   "public_metrics": {
-   "followers_count": 4700,
+   "followers_count": 4710,
    "following_count": 354,
    "listed_count": 99,
    "tweet_count": 2034
