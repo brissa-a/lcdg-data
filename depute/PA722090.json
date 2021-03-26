@@ -599,16 +599,17 @@
   "VTANR5L15V3489": "P",
   "VTANR5L15V3490": "P",
   "VTANR5L15V3491": "P",
-  "VTANR5L15V3492": "P"
+  "VTANR5L15V3492": "P",
+  "VTANR5L15V3507": "P"
  },
  "twitter": {
   "id": "1106588431289851905",
   "name": "Bénédicte Pételle",
   "public_metrics": {
-   "followers_count": 2378,
+   "followers_count": 2376,
    "following_count": 528,
-   "listed_count": 33,
-   "tweet_count": 1811
+   "listed_count": 34,
+   "tweet_count": 1814
   },
   "username": "DeputeeBPetelle"
  },

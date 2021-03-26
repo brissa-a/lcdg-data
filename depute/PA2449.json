@@ -541,6 +541,7 @@
   "VTANR5L15V3499": "P",
   "VTANR5L15V3500": "P",
   "VTANR5L15V3501": "C",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -663,10 +664,10 @@
   "id": "862952634164154368",
   "name": "Jean-Pierre PONT",
   "public_metrics": {
-   "followers_count": 4742,
+   "followers_count": 4741,
    "following_count": 1123,
    "listed_count": 99,
-   "tweet_count": 4070
+   "tweet_count": 4072
   },
   "username": "JeanPierrePont"
  },

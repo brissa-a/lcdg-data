@@ -751,6 +751,7 @@
   "VTANR5L15V3504": "A",
   "VTANR5L15V3505": "P",
   "VTANR5L15V3506": "P",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -962,9 +963,9 @@
   "id": "866911134837862400",
   "name": "Maud Petit",
   "public_metrics": {
-   "followers_count": 3619,
+   "followers_count": 3621,
    "following_count": 583,
-   "listed_count": 113,
+   "listed_count": 112,
    "tweet_count": 1740
   },
   "username": "MaudPetit_AN94"

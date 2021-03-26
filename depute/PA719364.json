@@ -687,6 +687,8 @@
   "VTANR5L15V3479": "P",
   "VTANR5L15V3480": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3508": "P",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -724,7 +726,7 @@
    "followers_count": 3305,
    "following_count": 104,
    "listed_count": 76,
-   "tweet_count": 2096
+   "tweet_count": 2097
   },
   "username": "claireopetit"
  },

@@ -987,6 +987,7 @@
   "VTANR5L15V3491": "P",
   "VTANR5L15V3492": "P",
   "VTANR5L15V35": "C",
+  "VTANR5L15V3507": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V359": "P",
   "VTANR5L15V36": "C",
@@ -1197,7 +1198,7 @@
   "id": "447845263",
   "name": "Khattabi Fadila",
   "public_metrics": {
-   "followers_count": 3450,
+   "followers_count": 3449,
    "following_count": 1557,
    "listed_count": 141,
    "tweet_count": 7610

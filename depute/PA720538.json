@@ -497,6 +497,9 @@
   "VTANR5L15V345": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
+  "VTANR5L15V3507": "P",
+  "VTANR5L15V3508": "P",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V359": "P",
@@ -596,10 +599,10 @@
   "id": "866604231847018496",
   "name": "Jennifer De Temmerman 🌍🕊🐝",
   "public_metrics": {
-   "followers_count": 2646,
-   "following_count": 1367,
+   "followers_count": 2654,
+   "following_count": 1390,
    "listed_count": 65,
-   "tweet_count": 4567
+   "tweet_count": 4573
   },
   "username": "JDetemmerman"
  },

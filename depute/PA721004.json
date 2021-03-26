@@ -382,7 +382,9 @@
   "VTANR5L15V3480": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V3485": "P",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3510": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
@@ -471,10 +473,10 @@
   "id": "806865153472004097",
   "name": "Amelia Lakrafi",
   "public_metrics": {
-   "followers_count": 6498,
+   "followers_count": 6497,
    "following_count": 1798,
    "listed_count": 129,
-   "tweet_count": 4105
+   "tweet_count": 4113
   },
   "username": "Amelia_LKF"
  },

@@ -278,7 +278,11 @@
   "VTANR5L15V345": "A",
   "VTANR5L15V3453": "A",
   "VTANR5L15V3484": "C",
+  "VTANR5L15V3507": "P",
+  "VTANR5L15V3508": "P",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3510": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -325,10 +329,10 @@
   "id": "441892644",
   "name": "Michel Zumkeller député",
   "public_metrics": {
-   "followers_count": 3506,
-   "following_count": 1917,
+   "followers_count": 3507,
+   "following_count": 1922,
    "listed_count": 177,
-   "tweet_count": 853
+   "tweet_count": 855
   },
   "username": "MichelZumkeller"
  },

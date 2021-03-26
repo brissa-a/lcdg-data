@@ -842,6 +842,9 @@
   "VTANR5L15V3504": "C",
   "VTANR5L15V3505": "P",
   "VTANR5L15V3506": "P",
+  "VTANR5L15V3507": "P",
+  "VTANR5L15V3508": "P",
+  "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
@@ -1042,10 +1045,10 @@
   "id": "1145576430",
   "name": "Sylvie Charrière",
   "public_metrics": {
-   "followers_count": 5662,
+   "followers_count": 5663,
    "following_count": 754,
    "listed_count": 100,
-   "tweet_count": 3363
+   "tweet_count": 3364
   },
   "username": "SylvieCharriere"
  },
