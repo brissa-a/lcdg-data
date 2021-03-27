@@ -17,7 +17,10 @@
   "nosiege": "570"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/FLMorlighem/",
+  "twitter_link": "https://twitter.com/@FMorlighem/"
+ },
  "circo": {
   "acteurId": "OMC_PA720516",
   "civ": "Mme",
@@ -498,10 +501,10 @@
   "id": "861524040837734400",
   "name": "Florence Morlighem",
   "public_metrics": {
-   "followers_count": 1797,
-   "following_count": 1625,
+   "followers_count": 1799,
+   "following_count": 1626,
    "listed_count": 22,
-   "tweet_count": 4240
+   "tweet_count": 4243
   },
   "username": "FMorlighem"
  },
