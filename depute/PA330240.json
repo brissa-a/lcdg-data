@@ -429,6 +429,7 @@
   "VTANR5L15V3473": "C",
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3511": "A",
   "VTANR5L15V355": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -553,10 +554,10 @@
   "id": "87886754",
   "name": "Eric Ciotti",
   "public_metrics": {
-   "followers_count": 173741,
-   "following_count": 2108,
-   "listed_count": 1062,
-   "tweet_count": 26167
+   "followers_count": 173759,
+   "following_count": 2109,
+   "listed_count": 1061,
+   "tweet_count": 26174
   },
   "username": "ECiotti"
  },

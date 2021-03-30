@@ -434,6 +434,7 @@
   "VTANR5L15V348": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V358": "P",
   "VTANR5L15V362": "C",
   "VTANR5L15V365": "P",
@@ -546,10 +547,10 @@
   "id": "848443405676032000",
   "name": "Valérie Petit",
   "public_metrics": {
-   "followers_count": 7344,
-   "following_count": 1838,
+   "followers_count": 7347,
+   "following_count": 1839,
    "listed_count": 131,
-   "tweet_count": 9113
+   "tweet_count": 9127
   },
   "username": "ValeriePetit_AN"
  },

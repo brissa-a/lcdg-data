@@ -851,6 +851,7 @@
   "VTANR5L15V3487": "P",
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V359": "P",
   "VTANR5L15V36": "A",
   "VTANR5L15V365": "P",
@@ -1073,7 +1074,7 @@
    "followers_count": 2531,
    "following_count": 894,
    "listed_count": 75,
-   "tweet_count": 2296
+   "tweet_count": 2304
   },
   "username": "DeputeCausse"
  },

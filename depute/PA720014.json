@@ -975,6 +975,7 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V355": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "C",
@@ -1266,7 +1267,7 @@
    "followers_count": 4078,
    "following_count": 704,
    "listed_count": 134,
-   "tweet_count": 7687
+   "tweet_count": 7690
   },
   "username": "Huguette_Tiegna"
  },

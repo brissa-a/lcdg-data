@@ -389,6 +389,7 @@
   "VTANR5L15V3505": "P",
   "VTANR5L15V3506": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V383": "P",
   "VTANR5L15V385": "C",
@@ -520,10 +521,10 @@
   "id": "485535439",
   "name": "Françoise Dumas",
   "public_metrics": {
-   "followers_count": 5768,
+   "followers_count": 5766,
    "following_count": 1245,
    "listed_count": 197,
-   "tweet_count": 9625
+   "tweet_count": 9629
   },
   "username": "fdumasdeputee"
  },

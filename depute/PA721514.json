@@ -527,6 +527,7 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V363": "C",
@@ -639,10 +640,10 @@
   "id": "1264462435",
   "name": "Stéphanie Kerbarh",
   "public_metrics": {
-   "followers_count": 6522,
+   "followers_count": 6523,
    "following_count": 1210,
    "listed_count": 145,
-   "tweet_count": 3849
+   "tweet_count": 3850
   },
   "username": "SKerbarh"
  },

@@ -603,6 +603,7 @@
   "VTANR5L15V35": "P",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3511": "P",
   "VTANR5L15V36": "P",
   "VTANR5L15V365": "C",
   "VTANR5L15V366": "P",
@@ -861,10 +862,10 @@
   "id": "870283676898271232",
   "name": "Bénédicte Taurine",
   "public_metrics": {
-   "followers_count": 8906,
+   "followers_count": 8912,
    "following_count": 496,
    "listed_count": 126,
-   "tweet_count": 1000
+   "tweet_count": 1002
   },
   "username": "BenedictTaurine"
  },

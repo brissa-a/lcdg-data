@@ -787,6 +787,7 @@
   "VTANR5L15V3507": "P",
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -934,10 +935,10 @@
   "id": "879795305226665985",
   "name": "Florence Granjus",
   "public_metrics": {
-   "followers_count": 2574,
-   "following_count": 1221,
+   "followers_count": 2578,
+   "following_count": 1222,
    "listed_count": 92,
-   "tweet_count": 6525
+   "tweet_count": 6528
   },
   "username": "fgranjus"
  },

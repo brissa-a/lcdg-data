@@ -1256,6 +1256,7 @@
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3510": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "C",
   "VTANR5L15V358": "P",
@@ -1438,9 +1439,9 @@
   "id": "858769856463859712",
   "name": "Mireille Robert",
   "public_metrics": {
-   "followers_count": 6866,
+   "followers_count": 6867,
    "following_count": 891,
-   "listed_count": 116,
+   "listed_count": 117,
    "tweet_count": 3434
   },
   "username": "MRobert_11"

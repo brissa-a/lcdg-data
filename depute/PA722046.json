@@ -945,6 +945,7 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -1084,10 +1085,10 @@
   "id": "37509285",
   "name": "Aurore Bergé",
   "public_metrics": {
-   "followers_count": 65826,
-   "following_count": 4988,
-   "listed_count": 930,
-   "tweet_count": 66086
+   "followers_count": 65842,
+   "following_count": 4989,
+   "listed_count": 931,
+   "tweet_count": 66100
   },
   "username": "auroreberge"
  },

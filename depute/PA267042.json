@@ -126,7 +126,7 @@
   ],
   "departement": "Mayenne",
   "group": "UDI et Indépendants",
-  "nom": "Favennec-Bécot ",
+  "nom": "Favennec-Bécot",
   "numCirco": "3",
   "numDepartement": "53",
   "prenom": "Yannick"
@@ -606,10 +606,10 @@
   "id": "16648630",
   "name": "Yannick FAVENNEC",
   "public_metrics": {
-   "followers_count": 8860,
-   "following_count": 1270,
+   "followers_count": 8864,
+   "following_count": 1275,
    "listed_count": 464,
-   "tweet_count": 8317
+   "tweet_count": 8327
   },
   "username": "yfavennec"
  },

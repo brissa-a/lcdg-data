@@ -597,6 +597,7 @@
   "VTANR5L15V3456": "C",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V355": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -711,7 +712,7 @@
   "name": "Christophe Lejeune",
   "public_metrics": {
    "followers_count": 2075,
-   "following_count": 2197,
+   "following_count": 2196,
    "listed_count": 59,
    "tweet_count": 1780
   },

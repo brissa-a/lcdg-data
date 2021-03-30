@@ -752,6 +752,7 @@
   "VTANR5L15V3504": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V3510": "P",
+  "VTANR5L15V3511": "C",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "N",
   "VTANR5L15V365": "P",
@@ -952,7 +953,7 @@
   "name": "Sacha Houlié",
   "public_metrics": {
    "followers_count": 29193,
-   "following_count": 1527,
+   "following_count": 1530,
    "listed_count": 300,
    "tweet_count": 9542
   },
