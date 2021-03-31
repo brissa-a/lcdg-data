@@ -570,6 +570,7 @@
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -710,10 +711,10 @@
   "id": "864386355622817792",
   "name": "Martine Leguille-Balloy",
   "public_metrics": {
-   "followers_count": 2562,
+   "followers_count": 2564,
    "following_count": 1067,
-   "listed_count": 68,
-   "tweet_count": 1005
+   "listed_count": 69,
+   "tweet_count": 1006
   },
   "username": "LeguilleBalloy"
  },

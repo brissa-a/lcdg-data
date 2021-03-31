@@ -849,6 +849,8 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3511": "C",
+  "VTANR5L15V3512": "C",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V361": "C",
   "VTANR5L15V362": "C",
@@ -1115,10 +1117,10 @@
   "id": "843748232",
   "name": "Gilles Le Gendre",
   "public_metrics": {
-   "followers_count": 39206,
+   "followers_count": 39214,
    "following_count": 1916,
-   "listed_count": 337,
-   "tweet_count": 3470
+   "listed_count": 339,
+   "tweet_count": 3471
   },
   "username": "GillesLeGendre"
  },

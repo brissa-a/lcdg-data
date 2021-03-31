@@ -712,6 +712,7 @@
   "VTANR5L15V3505": "P",
   "VTANR5L15V3506": "P",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
   "VTANR5L15V357": "P",
@@ -763,7 +764,7 @@
    "followers_count": 15738,
    "following_count": 3830,
    "listed_count": 371,
-   "tweet_count": 13091
+   "tweet_count": 13090
   },
   "username": "Juanico"
  },

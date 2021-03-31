@@ -361,6 +361,8 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3512": "P",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -399,7 +401,7 @@
   "public_metrics": {
    "followers_count": 3547,
    "following_count": 545,
-   "listed_count": 100,
+   "listed_count": 101,
    "tweet_count": 1032
   },
   "username": "DipompeoChrist"

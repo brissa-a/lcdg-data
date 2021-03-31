@@ -549,6 +549,8 @@
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3511": "C",
+  "VTANR5L15V3512": "C",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -717,7 +719,7 @@
   "public_metrics": {
    "followers_count": 1653,
    "following_count": 474,
-   "listed_count": 108,
+   "listed_count": 109,
    "tweet_count": 574
   },
   "username": "DenisSommer"

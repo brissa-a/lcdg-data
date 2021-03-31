@@ -729,6 +729,8 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3511": "C",
+  "VTANR5L15V3512": "P",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -894,9 +896,9 @@
   "id": "244026421",
   "name": "Jimmy Pahun",
   "public_metrics": {
-   "followers_count": 2895,
+   "followers_count": 2896,
    "following_count": 484,
-   "listed_count": 86,
+   "listed_count": 87,
    "tweet_count": 1017
   },
   "username": "JimmyPahun"

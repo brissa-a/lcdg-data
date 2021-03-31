@@ -350,6 +350,8 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3512": "P",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -498,7 +500,7 @@
    "followers_count": 1836,
    "following_count": 585,
    "listed_count": 79,
-   "tweet_count": 690
+   "tweet_count": 692
   },
   "username": "LDumontDeputee"
  },

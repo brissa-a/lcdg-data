@@ -385,16 +385,18 @@
   "VTANR5L15V3452": "C",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
-  "VTANR5L15V3485": "P"
+  "VTANR5L15V3485": "P",
+  "VTANR5L15V3512": "C",
+  "VTANR5L15V3513": "P"
  },
  "twitter": {
   "id": "317655205",
   "name": "Benjamin Griveaux",
   "public_metrics": {
-   "followers_count": 252280,
+   "followers_count": 252295,
    "following_count": 3443,
-   "listed_count": 838,
-   "tweet_count": 4789
+   "listed_count": 841,
+   "tweet_count": 4788
   },
   "username": "BGriveaux"
  },

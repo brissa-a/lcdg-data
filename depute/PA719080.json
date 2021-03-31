@@ -830,6 +830,8 @@
   "VTANR5L15V3460": "A",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3512": "C",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -1133,9 +1135,9 @@
   "id": "863134711715180544",
   "name": "Sandra Marsaud",
   "public_metrics": {
-   "followers_count": 5649,
+   "followers_count": 5652,
    "following_count": 442,
-   "listed_count": 109,
+   "listed_count": 110,
    "tweet_count": 1294
   },
   "username": "MARSAUDSandra"

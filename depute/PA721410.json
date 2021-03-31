@@ -811,6 +811,8 @@
   "VTANR5L15V3492": "C",
   "VTANR5L15V3493": "P",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3512": "P",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V362": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
@@ -923,7 +925,7 @@
   "id": "550352602",
   "name": "Bonnivard Emilie",
   "public_metrics": {
-   "followers_count": 2720,
+   "followers_count": 2719,
    "following_count": 2373,
    "listed_count": 91,
    "tweet_count": 524

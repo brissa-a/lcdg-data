@@ -885,6 +885,8 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V349": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3512": "C",
+  "VTANR5L15V3513": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -1160,10 +1162,10 @@
   "id": "864095016943308800",
   "name": "Jean Terlier",
   "public_metrics": {
-   "followers_count": 7028,
+   "followers_count": 7035,
    "following_count": 671,
-   "listed_count": 118,
-   "tweet_count": 1807
+   "listed_count": 120,
+   "tweet_count": 1808
   },
   "username": "JeanTerlier"
  },
