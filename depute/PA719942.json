@@ -493,16 +493,18 @@
   "VTANR5L15V3459": "C",
   "VTANR5L15V3460": "C",
   "VTANR5L15V3484": "P",
-  "VTANR5L15V3485": "P"
+  "VTANR5L15V3485": "P",
+  "VTANR5L15V3514": "C",
+  "VTANR5L15V3515": "C"
  },
  "twitter": {
   "id": "1090991802176413696",
   "name": "Stéphane Baudu",
   "public_metrics": {
-   "followers_count": 819,
+   "followers_count": 820,
    "following_count": 684,
    "listed_count": 33,
-   "tweet_count": 833
+   "tweet_count": 834
   },
   "username": "baudu_stephane"
  },

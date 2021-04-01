@@ -500,6 +500,10 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3514": "C",
+  "VTANR5L15V3515": "C",
+  "VTANR5L15V3516": "P",
+  "VTANR5L15V3517": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -560,7 +564,7 @@
    "followers_count": 5791,
    "following_count": 3160,
    "listed_count": 117,
-   "tweet_count": 1794
+   "tweet_count": 1795
   },
   "username": "CMUSCHOTTI"
  },

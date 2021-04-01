@@ -967,6 +967,8 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3512": "P",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3514": "P",
+  "VTANR5L15V3516": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -1187,7 +1189,7 @@
    "followers_count": 5895,
    "following_count": 2102,
    "listed_count": 98,
-   "tweet_count": 3788
+   "tweet_count": 3793
   },
   "username": "olivierdam1"
  },

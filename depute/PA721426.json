@@ -855,6 +855,9 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3512": "A",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3514": "C",
+  "VTANR5L15V3515": "C",
+  "VTANR5L15V3516": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -999,8 +1002,8 @@
   "public_metrics": {
    "followers_count": 5452,
    "following_count": 286,
-   "listed_count": 120,
-   "tweet_count": 951
+   "listed_count": 119,
+   "tweet_count": 952
   },
   "username": "V_Riotton"
  },

@@ -278,6 +278,7 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3514": "A",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -364,10 +365,10 @@
   "id": "1140962599250661376",
   "name": "@sandrinejossoAN 🐝🌍",
   "public_metrics": {
-   "followers_count": 1186,
-   "following_count": 2912,
+   "followers_count": 1192,
+   "following_count": 2916,
    "listed_count": 21,
-   "tweet_count": 2401
+   "tweet_count": 2409
   },
   "username": "sandrinejossoan"
  },

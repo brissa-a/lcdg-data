@@ -445,6 +445,9 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V3512": "C",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3514": "P",
+  "VTANR5L15V3515": "C",
+  "VTANR5L15V3516": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -532,9 +535,9 @@
   "id": "377992263",
   "name": "Antoine Herth",
   "public_metrics": {
-   "followers_count": 1923,
-   "following_count": 217,
-   "listed_count": 109,
+   "followers_count": 1924,
+   "following_count": 219,
+   "listed_count": 108,
    "tweet_count": 491
   },
   "username": "antoineherth"

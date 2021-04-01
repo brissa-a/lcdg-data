@@ -1211,6 +1211,7 @@
   "VTANR5L15V3511": "C",
   "VTANR5L15V3512": "C",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3516": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -1496,10 +1497,10 @@
   "id": "866413487723040771",
   "name": "Marion LENNE Députée",
   "public_metrics": {
-   "followers_count": 3401,
-   "following_count": 1715,
+   "followers_count": 3399,
+   "following_count": 1714,
    "listed_count": 86,
-   "tweet_count": 2053
+   "tweet_count": 2054
   },
   "username": "marion_lenne"
  },

@@ -1060,6 +1060,9 @@
   "VTANR5L15V35": "C",
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3514": "C",
+  "VTANR5L15V3515": "C",
+  "VTANR5L15V3516": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -1381,10 +1384,10 @@
   "id": "898841450",
   "name": "Fannette Charvier",
   "public_metrics": {
-   "followers_count": 4589,
+   "followers_count": 4592,
    "following_count": 1261,
-   "listed_count": 107,
-   "tweet_count": 3352
+   "listed_count": 106,
+   "tweet_count": 3354
   },
   "username": "F_Charvier"
  },

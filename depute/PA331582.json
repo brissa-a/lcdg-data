@@ -930,5 +930,20 @@
   "VTANR5L15V981": "P",
   "VTANR5L15V982": "C"
  },
+ "twitter": {
+  "id": "365505352",
+  "name": "Philippe Vigier",
+  "public_metrics": {
+   "followers_count": 11911,
+   "following_count": 4409,
+   "listed_count": 304,
+   "tweet_count": 5960
+  },
+  "username": "VigierPhilippe"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "VigierPhilippe"
+ },
  "uid": "PA331582"
 }

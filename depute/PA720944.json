@@ -793,6 +793,8 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3512": "C",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3514": "C",
+  "VTANR5L15V3517": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V362": "C",
   "VTANR5L15V365": "P",
@@ -1012,9 +1014,9 @@
   "id": "866717602298691584",
   "name": "Zivka Park",
   "public_metrics": {
-   "followers_count": 3945,
+   "followers_count": 3944,
    "following_count": 725,
-   "listed_count": 95,
+   "listed_count": 94,
    "tweet_count": 745
   },
   "username": "zivkapark"
