@@ -164,13 +164,14 @@
   "VTANR5L15V3421": "P",
   "VTANR5L15V3422": "P",
   "VTANR5L15V3454": "P",
-  "VTANR5L15V3484": "P"
+  "VTANR5L15V3484": "P",
+  "VTANR5L15V3518": "P"
  },
  "twitter": {
   "id": "1354822700548509704",
   "name": "Luc Lamirault",
   "public_metrics": {
-   "followers_count": 90,
+   "followers_count": 89,
    "following_count": 90,
    "listed_count": 1,
    "tweet_count": 48

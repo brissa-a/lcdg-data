@@ -338,6 +338,7 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V389": "P",
@@ -460,10 +461,10 @@
   "id": "816357406280192000",
   "name": "Stéphanie Do",
   "public_metrics": {
-   "followers_count": 3920,
+   "followers_count": 3922,
    "following_count": 1788,
    "listed_count": 103,
-   "tweet_count": 2677
+   "tweet_count": 2681
   },
   "username": "DoStephanie_77"
  },

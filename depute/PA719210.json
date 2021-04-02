@@ -302,6 +302,7 @@
   "VTANR5L15V3478": "C",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -358,7 +359,7 @@
    "followers_count": 2089,
    "following_count": 362,
    "listed_count": 125,
-   "tweet_count": 968
+   "tweet_count": 970
   },
   "username": "BJoncour"
  },

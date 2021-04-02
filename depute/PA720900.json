@@ -774,6 +774,10 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -1024,10 +1028,10 @@
   "id": "889759349450604544",
   "name": "Cécile RILHAC",
   "public_metrics": {
-   "followers_count": 4728,
-   "following_count": 1521,
+   "followers_count": 4734,
+   "following_count": 1523,
    "listed_count": 77,
-   "tweet_count": 3491
+   "tweet_count": 3494
   },
   "username": "Cecile_Rilhac"
  },

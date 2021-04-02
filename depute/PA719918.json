@@ -386,6 +386,7 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -460,7 +461,7 @@
    "followers_count": 1467,
    "following_count": 935,
    "listed_count": 48,
-   "tweet_count": 791
+   "tweet_count": 790
   },
   "username": "fabien_laine"
  },

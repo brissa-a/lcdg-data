@@ -993,6 +993,7 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3517": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -1195,10 +1196,10 @@
   "id": "282119887",
   "name": "🇨🇵🇪🇺 Sylvain Maillard",
   "public_metrics": {
-   "followers_count": 31036,
-   "following_count": 4095,
-   "listed_count": 324,
-   "tweet_count": 13990
+   "followers_count": 31039,
+   "following_count": 4094,
+   "listed_count": 327,
+   "tweet_count": 13995
   },
   "username": "SylvainMaillard"
  },

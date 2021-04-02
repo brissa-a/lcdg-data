@@ -698,6 +698,7 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3512": "C",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -810,9 +811,9 @@
   "name": "Xavier Batut",
   "public_metrics": {
    "followers_count": 6206,
-   "following_count": 1845,
-   "listed_count": 108,
-   "tweet_count": 1980
+   "following_count": 1844,
+   "listed_count": 107,
+   "tweet_count": 1982
   },
   "username": "XavierBatut"
  },

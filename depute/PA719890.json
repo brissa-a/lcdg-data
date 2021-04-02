@@ -1160,6 +1160,7 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V355": "C",
@@ -1331,10 +1332,10 @@
   "id": "110988733",
   "name": "Danielle Brulebois",
   "public_metrics": {
-   "followers_count": 2176,
+   "followers_count": 2177,
    "following_count": 1016,
    "listed_count": 104,
-   "tweet_count": 1500
+   "tweet_count": 1501
   },
   "username": "dbrulebois"
  },

@@ -415,6 +415,7 @@
   "VTANR5L15V3484": "C",
   "VTANR5L15V3508": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "A",
   "VTANR5L15V354": "P",
@@ -455,10 +456,10 @@
   "id": "864160956070469633",
   "name": "JLBourlanges",
   "public_metrics": {
-   "followers_count": 5972,
+   "followers_count": 5982,
    "following_count": 135,
    "listed_count": 83,
-   "tweet_count": 901
+   "tweet_count": 903
   },
   "username": "JLBourlanges"
  },

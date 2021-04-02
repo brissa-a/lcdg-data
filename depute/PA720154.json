@@ -1376,6 +1376,7 @@
   "VTANR5L15V3513": "P",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3517": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V359": "P",
   "VTANR5L15V362": "C",
@@ -1625,7 +1626,7 @@
   "id": "866236903066128384",
   "name": "Nicole Dubré Chirat",
   "public_metrics": {
-   "followers_count": 4082,
+   "followers_count": 4085,
    "following_count": 374,
    "listed_count": 105,
    "tweet_count": 4732

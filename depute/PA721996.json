@@ -382,16 +382,17 @@
   "VTANR5L15V3485": "P",
   "VTANR5L15V3512": "P",
   "VTANR5L15V3514": "C",
-  "VTANR5L15V3515": "C"
+  "VTANR5L15V3515": "C",
+  "VTANR5L15V3518": "P"
  },
  "twitter": {
   "id": "1174627465307840512",
   "name": "Patrick LOISEAU",
   "public_metrics": {
-   "followers_count": 521,
+   "followers_count": 522,
    "following_count": 435,
    "listed_count": 19,
-   "tweet_count": 1049
+   "tweet_count": 1053
   },
   "username": "PLoiseau85"
  },

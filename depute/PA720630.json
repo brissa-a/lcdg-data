@@ -1086,6 +1086,9 @@
   "VTANR5L15V3512": "P",
   "VTANR5L15V3513": "P",
   "VTANR5L15V3517": "P",
+  "VTANR5L15V3520": "A",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "A",
   "VTANR5L15V357": "P",
@@ -1354,10 +1357,10 @@
   "id": "2846410672",
   "name": "Maxime Minot",
   "public_metrics": {
-   "followers_count": 5464,
+   "followers_count": 5472,
    "following_count": 389,
-   "listed_count": 103,
-   "tweet_count": 1540
+   "listed_count": 0,
+   "tweet_count": 1541
   },
   "username": "MaximeMinot"
  },

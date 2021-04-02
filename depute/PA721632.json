@@ -676,7 +676,11 @@
   "VTANR5L15V3513": "P",
   "VTANR5L15V3514": "P",
   "VTANR5L15V3515": "C",
-  "VTANR5L15V3516": "P"
+  "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P"
  },
  "twitter": {
   "id": "1065527514242654208",
@@ -684,7 +688,7 @@
   "public_metrics": {
    "followers_count": 822,
    "following_count": 162,
-   "listed_count": 27,
+   "listed_count": 28,
    "tweet_count": 649
   },
   "username": "P_Lemoine"

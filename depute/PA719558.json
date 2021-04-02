@@ -712,6 +712,10 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3517": "P",
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -906,10 +910,10 @@
   "id": "17137760",
   "name": "Erwan Balanant",
   "public_metrics": {
-   "followers_count": 5187,
+   "followers_count": 5194,
    "following_count": 2667,
-   "listed_count": 188,
-   "tweet_count": 11833
+   "listed_count": 189,
+   "tweet_count": 11839
   },
   "username": "erwanbalanant"
  },

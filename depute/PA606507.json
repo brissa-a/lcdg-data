@@ -539,6 +539,7 @@
   "VTANR5L15V3512": "C",
   "VTANR5L15V3513": "P",
   "VTANR5L15V3515": "C",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -661,7 +662,7 @@
   "id": "245747441",
   "name": "Florent Boudié",
   "public_metrics": {
-   "followers_count": 6039,
+   "followers_count": 6040,
    "following_count": 1949,
    "listed_count": 220,
    "tweet_count": 3230

@@ -368,6 +368,7 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3511": "C",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -415,7 +416,7 @@
    "followers_count": 3174,
    "following_count": 1333,
    "listed_count": 80,
-   "tweet_count": 1866
+   "tweet_count": 1868
   },
   "username": "famatras"
  },

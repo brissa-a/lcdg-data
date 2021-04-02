@@ -464,6 +464,7 @@
   "VTANR5L15V3513": "P",
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -619,9 +620,9 @@
   "id": "1436327000",
   "name": "Emilie CHALAS",
   "public_metrics": {
-   "followers_count": 8084,
+   "followers_count": 8087,
    "following_count": 492,
-   "listed_count": 119,
+   "listed_count": 120,
    "tweet_count": 4190
   },
   "username": "EmilieCChalas"

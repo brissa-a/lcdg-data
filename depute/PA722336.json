@@ -1031,7 +1031,11 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3517": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V362": "C",
@@ -1328,9 +1332,9 @@
   "id": "464437513",
   "name": "Vincent Thiébaut",
   "public_metrics": {
-   "followers_count": 4886,
+   "followers_count": 4891,
    "following_count": 327,
-   "listed_count": 98,
+   "listed_count": 99,
    "tweet_count": 1690
   },
   "username": "VincentThiebaut"

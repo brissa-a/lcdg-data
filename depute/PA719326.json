@@ -895,6 +895,7 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V363": "C",
@@ -1105,10 +1106,10 @@
   "id": "3337632231",
   "name": "Séverine Gipson",
   "public_metrics": {
-   "followers_count": 2705,
+   "followers_count": 2704,
    "following_count": 931,
-   "listed_count": 71,
-   "tweet_count": 5738
+   "listed_count": 72,
+   "tweet_count": 5743
   },
   "username": "severine_gipson"
  },

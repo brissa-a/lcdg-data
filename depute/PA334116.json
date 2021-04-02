@@ -278,6 +278,10 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -360,7 +364,7 @@
   "id": "801121064357085184",
   "name": "Jacqueline Maquet",
   "public_metrics": {
-   "followers_count": 1620,
+   "followers_count": 1619,
    "following_count": 1213,
    "listed_count": 86,
    "tweet_count": 362

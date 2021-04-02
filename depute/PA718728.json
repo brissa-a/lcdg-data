@@ -485,6 +485,7 @@
   "VTANR5L15V3486": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
@@ -576,9 +577,9 @@
   "name": "Laurence Vanceunebrock",
   "public_metrics": {
    "followers_count": 4948,
-   "following_count": 944,
+   "following_count": 945,
    "listed_count": 83,
-   "tweet_count": 9362
+   "tweet_count": 9360
   },
   "username": "LaurenceVanceu"
  },

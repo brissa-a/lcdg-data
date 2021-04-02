@@ -857,6 +857,8 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V359": "P",
   "VTANR5L15V36": "A",
   "VTANR5L15V365": "P",
@@ -1076,7 +1078,7 @@
   "id": "912604842643816448",
   "name": "Lionel Causse",
   "public_metrics": {
-   "followers_count": 2538,
+   "followers_count": 2541,
    "following_count": 896,
    "listed_count": 75,
    "tweet_count": 2307

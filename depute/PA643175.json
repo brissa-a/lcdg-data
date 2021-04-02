@@ -882,7 +882,11 @@
   "VTANR5L15V3505": "P",
   "VTANR5L15V3506": "P",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V354": "P",
   "VTANR5L15V355": "C",
@@ -1073,10 +1077,10 @@
   "id": "3137717312",
   "name": "Stella DUPONT",
   "public_metrics": {
-   "followers_count": 4262,
+   "followers_count": 4264,
    "following_count": 791,
-   "listed_count": 110,
-   "tweet_count": 1977
+   "listed_count": 111,
+   "tweet_count": 1979
   },
   "username": "stelladupont"
  },

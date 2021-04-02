@@ -593,6 +593,7 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3511": "C",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
@@ -677,7 +678,7 @@
   "id": "993455378020098049",
   "name": "Jean-Philippe Ardouin",
   "public_metrics": {
-   "followers_count": 948,
+   "followers_count": 947,
    "following_count": 590,
    "listed_count": 44,
    "tweet_count": 1851

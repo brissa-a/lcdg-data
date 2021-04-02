@@ -977,6 +977,7 @@
   "VTANR5L15V3513": "P",
   "VTANR5L15V3514": "P",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -1205,7 +1206,7 @@
   "name": "Thierry BENOIT",
   "public_metrics": {
    "followers_count": 3427,
-   "following_count": 1097,
+   "following_count": 1096,
    "listed_count": 175,
    "tweet_count": 3614
   },

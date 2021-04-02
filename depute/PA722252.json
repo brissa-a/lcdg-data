@@ -566,6 +566,7 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V356": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -679,10 +680,10 @@
   "id": "864254888599068673",
   "name": "Marie-Pierre Rixain",
   "public_metrics": {
-   "followers_count": 10424,
-   "following_count": 1719,
-   "listed_count": 127,
-   "tweet_count": 5257
+   "followers_count": 10430,
+   "following_count": 1720,
+   "listed_count": 128,
+   "tweet_count": 5260
   },
   "username": "RixainMP"
  },

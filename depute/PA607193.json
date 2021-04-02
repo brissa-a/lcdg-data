@@ -512,6 +512,10 @@
   "VTANR5L15V3510": "P",
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3520": "P",
+  "VTANR5L15V3521": "P",
+  "VTANR5L15V3522": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V362": "C",
   "VTANR5L15V363": "C",
@@ -560,7 +564,7 @@
   "id": "549319211",
   "name": "Sophie Errante",
   "public_metrics": {
-   "followers_count": 6061,
+   "followers_count": 6063,
    "following_count": 1380,
    "listed_count": 232,
    "tweet_count": 1145

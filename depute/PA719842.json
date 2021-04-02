@@ -427,6 +427,7 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3517": "P",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V398": "P",
   "VTANR5L15V402": "P",
@@ -589,7 +590,7 @@
   "id": "581648342",
   "name": "Mustapha Laabid 🇫🇷",
   "public_metrics": {
-   "followers_count": 4171,
+   "followers_count": 4173,
    "following_count": 488,
    "listed_count": 116,
    "tweet_count": 2290

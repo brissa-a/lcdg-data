@@ -277,6 +277,7 @@
   "VTANR5L15V3454": "A",
   "VTANR5L15V3484": "A",
   "VTANR5L15V35": "A",
+  "VTANR5L15V3518": "C",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "C",
   "VTANR5L15V365": "A",
@@ -380,10 +381,10 @@
   "id": "217749896",
   "name": "Marine Le Pen",
   "public_metrics": {
-   "followers_count": 2583944,
-   "following_count": 3296,
-   "listed_count": 4996,
-   "tweet_count": 21886
+   "followers_count": 2584242,
+   "following_count": 3294,
+   "listed_count": 5001,
+   "tweet_count": 21889
   },
   "username": "MLP_officiel"
  },

@@ -1182,6 +1182,7 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
+  "VTANR5L15V3518": "P",
   "VTANR5L15V356": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -1348,8 +1349,8 @@
   "id": "745992482387812352",
   "name": "Christophe Blanchet",
   "public_metrics": {
-   "followers_count": 5390,
-   "following_count": 622,
+   "followers_count": 5389,
+   "following_count": 621,
    "listed_count": 114,
    "tweet_count": 3543
   },

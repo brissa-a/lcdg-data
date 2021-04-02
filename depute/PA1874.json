@@ -1057,6 +1057,9 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3517": "N",
   "VTANR5L15V352": "N",
+  "VTANR5L15V3520": "N",
+  "VTANR5L15V3521": "N",
+  "VTANR5L15V3522": "N",
   "VTANR5L15V353": "N",
   "VTANR5L15V354": "N",
   "VTANR5L15V355": "N",
@@ -1216,8 +1219,8 @@
   "public_metrics": {
    "followers_count": 13798,
    "following_count": 1631,
-   "listed_count": 346,
-   "tweet_count": 3630
+   "listed_count": 347,
+   "tweet_count": 3631
   },
   "username": "marclefur"
  },
