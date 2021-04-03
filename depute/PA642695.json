@@ -840,6 +840,12 @@
   "VTANR5L15V3516": "P",
   "VTANR5L15V3518": "P",
   "VTANR5L15V3522": "P",
+  "VTANR5L15V3523": "P",
+  "VTANR5L15V3524": "C",
+  "VTANR5L15V3525": "P",
+  "VTANR5L15V3526": "P",
+  "VTANR5L15V3527": "C",
+  "VTANR5L15V3528": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "C",
@@ -1098,10 +1104,10 @@
   "id": "162094209",
   "name": "eric bothorel ⌨️",
   "public_metrics": {
-   "followers_count": 10658,
-   "following_count": 2876,
+   "followers_count": 10662,
+   "following_count": 2880,
    "listed_count": 757,
-   "tweet_count": 31792
+   "tweet_count": 31817
   },
   "username": "ebothorel"
  },

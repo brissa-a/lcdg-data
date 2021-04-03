@@ -699,6 +699,11 @@
   "VTANR5L15V3517": "P",
   "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
+  "VTANR5L15V3524": "C",
+  "VTANR5L15V3525": "P",
+  "VTANR5L15V3526": "P",
+  "VTANR5L15V3527": "C",
+  "VTANR5L15V3528": "P",
   "VTANR5L15V353": "P",
   "VTANR5L15V355": "C",
   "VTANR5L15V356": "C",
@@ -811,10 +816,10 @@
   "id": "862190399938539520",
   "name": "Bruno Studer",
   "public_metrics": {
-   "followers_count": 7948,
-   "following_count": 1270,
+   "followers_count": 7952,
+   "following_count": 1272,
    "listed_count": 157,
-   "tweet_count": 7861
+   "tweet_count": 7865
   },
   "username": "BrunoStuder67"
  },

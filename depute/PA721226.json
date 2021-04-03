@@ -572,6 +572,9 @@
   "VTANR5L15V35": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V3511": "P",
+  "VTANR5L15V3536": "P",
+  "VTANR5L15V3537": "P",
+  "VTANR5L15V3538": "P",
   "VTANR5L15V355": "P",
   "VTANR5L15V356": "P",
   "VTANR5L15V357": "P",
@@ -744,7 +747,7 @@
   "id": "864527846227759104",
   "name": "Sabine Rubin FI 93.9",
   "public_metrics": {
-   "followers_count": 13697,
+   "followers_count": 13701,
    "following_count": 337,
    "listed_count": 154,
    "tweet_count": 2205

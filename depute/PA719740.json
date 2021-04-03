@@ -682,7 +682,13 @@
   "VTANR5L15V352": "P",
   "VTANR5L15V3521": "P",
   "VTANR5L15V3522": "P",
+  "VTANR5L15V3525": "P",
+  "VTANR5L15V3526": "P",
+  "VTANR5L15V3529": "C",
   "VTANR5L15V353": "P",
+  "VTANR5L15V3530": "P",
+  "VTANR5L15V3536": "P",
+  "VTANR5L15V3537": "P",
   "VTANR5L15V354": "P",
   "VTANR5L15V357": "C",
   "VTANR5L15V361": "C",
@@ -853,10 +859,10 @@
   "id": "864042960119320576",
   "name": "J-C Colas-Roy",
   "public_metrics": {
-   "followers_count": 6451,
-   "following_count": 1329,
-   "listed_count": 150,
-   "tweet_count": 3462
+   "followers_count": 6459,
+   "following_count": 1331,
+   "listed_count": 152,
+   "tweet_count": 3469
   },
   "username": "JCColasRoy"
  },
