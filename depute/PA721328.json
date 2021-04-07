@@ -786,6 +786,11 @@
   "VTANR5L15V3536": "P",
   "VTANR5L15V3537": "P",
   "VTANR5L15V3538": "C",
+  "VTANR5L15V3539": "P",
+  "VTANR5L15V3540": "P",
+  "VTANR5L15V3541": "P",
+  "VTANR5L15V3542": "P",
+  "VTANR5L15V3543": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -1001,7 +1006,7 @@
    "followers_count": 4662,
    "following_count": 1066,
    "listed_count": 136,
-   "tweet_count": 3812
+   "tweet_count": 3820
   },
   "username": "AnneBrugnera"
  },

@@ -584,6 +584,15 @@
   "VTANR5L15V3511": "A",
   "VTANR5L15V3512": "P",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3539": "P",
+  "VTANR5L15V3540": "P",
+  "VTANR5L15V3541": "A",
+  "VTANR5L15V3542": "P",
+  "VTANR5L15V3543": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "A",
+  "VTANR5L15V3548": "P",
+  "VTANR5L15V3549": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V368": "P",
@@ -686,10 +695,10 @@
   "id": "520259649",
   "name": "Julien Aubert",
   "public_metrics": {
-   "followers_count": 26300,
-   "following_count": 565,
-   "listed_count": 229,
-   "tweet_count": 7527
+   "followers_count": 26322,
+   "following_count": 566,
+   "listed_count": 230,
+   "tweet_count": 7543
   },
   "username": "JulienAubert84"
  },

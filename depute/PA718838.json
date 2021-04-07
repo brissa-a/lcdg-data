@@ -611,6 +611,7 @@
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "C",
   "VTANR5L15V354": "C",
+  "VTANR5L15V3550": "A",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "P",
   "VTANR5L15V365": "A",
@@ -748,7 +749,7 @@
    "followers_count": 2151,
    "following_count": 316,
    "listed_count": 83,
-   "tweet_count": 1790
+   "tweet_count": 1791
   },
   "username": "FabriceBrun"
  },

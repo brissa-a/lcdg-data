@@ -428,6 +428,12 @@
   "VTANR5L15V351": "C",
   "VTANR5L15V3512": "P",
   "VTANR5L15V3513": "P",
+  "VTANR5L15V3544": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "A",
+  "VTANR5L15V3548": "A",
+  "VTANR5L15V3549": "C",
+  "VTANR5L15V3550": "A",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "P",
   "VTANR5L15V365": "A",
@@ -469,7 +475,7 @@
   "id": "858073347581771776",
   "name": "Jacques CATTIN",
   "public_metrics": {
-   "followers_count": 1001,
+   "followers_count": 1002,
    "following_count": 194,
    "listed_count": 72,
    "tweet_count": 64

@@ -510,6 +510,12 @@
   "VTANR5L15V3492": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3543": "P",
+  "VTANR5L15V3544": "C",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
   "VTANR5L15V356": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -650,7 +656,7 @@
    "followers_count": 5523,
    "following_count": 1550,
    "listed_count": 107,
-   "tweet_count": 3898
+   "tweet_count": 3904
   },
   "username": "DamienPichereau"
  },

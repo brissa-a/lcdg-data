@@ -694,6 +694,12 @@
   "VTANR5L15V3514": "P",
   "VTANR5L15V3516": "C",
   "VTANR5L15V3517": "A",
+  "VTANR5L15V3545": "A",
+  "VTANR5L15V3546": "P",
+  "VTANR5L15V3547": "C",
+  "VTANR5L15V3548": "A",
+  "VTANR5L15V3549": "C",
+  "VTANR5L15V3550": "A",
   "VTANR5L15V358": "C",
   "VTANR5L15V359": "C",
   "VTANR5L15V36": "P",
@@ -821,9 +827,9 @@
   "name": "Alain Bruneel",
   "public_metrics": {
    "followers_count": 3049,
-   "following_count": 206,
-   "listed_count": 85,
-   "tweet_count": 1365
+   "following_count": 208,
+   "listed_count": 87,
+   "tweet_count": 1367
   },
   "username": "Alain_Bruneel"
  },

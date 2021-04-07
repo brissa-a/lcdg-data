@@ -496,7 +496,13 @@
   "VTANR5L15V3485": "P",
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
-  "VTANR5L15V3518": "P"
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3550": "P"
  },
  "twitter": {
   "id": "1090991802176413696",
@@ -505,7 +511,7 @@
    "followers_count": 824,
    "following_count": 684,
    "listed_count": 33,
-   "tweet_count": 836
+   "tweet_count": 837
   },
   "username": "baudu_stephane"
  },

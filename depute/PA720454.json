@@ -581,6 +581,17 @@
   "VTANR5L15V3514": "P",
   "VTANR5L15V3515": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3539": "P",
+  "VTANR5L15V3540": "P",
+  "VTANR5L15V3541": "P",
+  "VTANR5L15V3542": "P",
+  "VTANR5L15V3543": "C",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3550": "P",
   "VTANR5L15V363": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -720,9 +731,9 @@
   "name": "Dimitri Houbron 🇫🇷🇪🇺🐾",
   "public_metrics": {
    "followers_count": 5681,
-   "following_count": 979,
-   "listed_count": 107,
-   "tweet_count": 2693
+   "following_count": 980,
+   "listed_count": 109,
+   "tweet_count": 2699
   },
   "username": "dhoubron1759"
  },

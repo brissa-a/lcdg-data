@@ -763,6 +763,12 @@
   "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
+  "VTANR5L15V3544": "C",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3550": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
@@ -871,10 +877,10 @@
   "id": "865810478315995136",
   "name": "Belkhir Belhaddad",
   "public_metrics": {
-   "followers_count": 3461,
+   "followers_count": 3462,
    "following_count": 1410,
    "listed_count": 105,
-   "tweet_count": 959
+   "tweet_count": 960
   },
   "username": "b_belhaddad"
  },

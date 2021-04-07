@@ -956,6 +956,10 @@
   "VTANR5L15V353": "P",
   "VTANR5L15V3530": "P",
   "VTANR5L15V3532": "P",
+  "VTANR5L15V3543": "P",
+  "VTANR5L15V3544": "A",
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3550": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -1156,10 +1160,10 @@
   "id": "847384196074962944",
   "name": "Lise Magnier",
   "public_metrics": {
-   "followers_count": 2491,
+   "followers_count": 2495,
    "following_count": 415,
    "listed_count": 80,
-   "tweet_count": 1256
+   "tweet_count": 1258
   },
   "username": "lise_magnier"
  },

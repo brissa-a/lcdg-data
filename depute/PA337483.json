@@ -396,6 +396,11 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3539": "P",
+  "VTANR5L15V3540": "P",
+  "VTANR5L15V3541": "P",
+  "VTANR5L15V3542": "P",
+  "VTANR5L15V3543": "A",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -482,9 +487,9 @@
   "id": "470370230",
   "name": "Serge LETCHIMY",
   "public_metrics": {
-   "followers_count": 7030,
+   "followers_count": 7034,
    "following_count": 646,
-   "listed_count": 205,
+   "listed_count": 206,
    "tweet_count": 2188
   },
   "username": "SergeLetchimy"

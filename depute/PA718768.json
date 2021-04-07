@@ -402,7 +402,11 @@
   "VTANR5L15V3520": "P",
   "VTANR5L15V3521": "P",
   "VTANR5L15V3522": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
   "VTANR5L15V355": "C",
+  "VTANR5L15V3550": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -627,8 +631,8 @@
   "public_metrics": {
    "followers_count": 4769,
    "following_count": 2362,
-   "listed_count": 100,
-   "tweet_count": 2460
+   "listed_count": 101,
+   "tweet_count": 2461
   },
   "username": "A_Ardisson"
  },

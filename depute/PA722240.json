@@ -393,7 +393,18 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3517": "P",
-  "VTANR5L15V3518": "P"
+  "VTANR5L15V3518": "P",
+  "VTANR5L15V3539": "P",
+  "VTANR5L15V3540": "P",
+  "VTANR5L15V3541": "P",
+  "VTANR5L15V3542": "P",
+  "VTANR5L15V3544": "C",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3550": "P"
  },
  "twitter": {
   "id": "1169584397517017089",
@@ -402,7 +413,7 @@
    "followers_count": 726,
    "following_count": 193,
    "listed_count": 23,
-   "tweet_count": 838
+   "tweet_count": 839
   },
   "username": "PierreVenteau"
  },

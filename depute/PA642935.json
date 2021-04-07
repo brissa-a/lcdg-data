@@ -414,6 +414,7 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3545": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -472,7 +473,7 @@
   "id": "1019559283774644224",
   "name": "Olivier Becht",
   "public_metrics": {
-   "followers_count": 1863,
+   "followers_count": 1866,
    "following_count": 89,
    "listed_count": 49,
    "tweet_count": 364

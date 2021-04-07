@@ -498,6 +498,10 @@
   "VTANR5L15V3531": "C",
   "VTANR5L15V3532": "P",
   "VTANR5L15V354": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
+  "VTANR5L15V3549": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -588,7 +592,7 @@
    "followers_count": 4951,
    "following_count": 945,
    "listed_count": 83,
-   "tweet_count": 9377
+   "tweet_count": 9384
   },
   "username": "LaurenceVanceu"
  },

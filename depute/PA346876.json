@@ -230,6 +230,9 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3548": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -260,9 +263,9 @@
   "id": "116229959",
   "name": "Thierry SOLERE",
   "public_metrics": {
-   "followers_count": 27550,
+   "followers_count": 27546,
    "following_count": 3811,
-   "listed_count": 460,
+   "listed_count": 461,
    "tweet_count": 13770
   },
   "username": "solere92"

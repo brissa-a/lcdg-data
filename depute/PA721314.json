@@ -586,6 +586,11 @@
   "VTANR5L15V3536": "P",
   "VTANR5L15V3537": "P",
   "VTANR5L15V3538": "C",
+  "VTANR5L15V3543": "P",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "A",
+  "VTANR5L15V3548": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
   "VTANR5L15V368": "P",
@@ -716,10 +721,10 @@
   "id": "111266206",
   "name": "Raphaël Schellenberger",
   "public_metrics": {
-   "followers_count": 2864,
+   "followers_count": 2863,
    "following_count": 349,
    "listed_count": 105,
-   "tweet_count": 2604
+   "tweet_count": 2605
   },
   "username": "RSCactu"
  },

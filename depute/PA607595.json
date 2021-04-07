@@ -565,6 +565,13 @@
   "VTANR5L15V3513": "P",
   "VTANR5L15V3518": "P",
   "VTANR5L15V352": "C",
+  "VTANR5L15V3539": "P",
+  "VTANR5L15V3540": "P",
+  "VTANR5L15V3544": "C",
+  "VTANR5L15V3545": "P",
+  "VTANR5L15V3546": "C",
+  "VTANR5L15V3547": "P",
+  "VTANR5L15V3548": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V365": "P",
@@ -621,7 +628,7 @@
    "followers_count": 3006,
    "following_count": 861,
    "listed_count": 154,
-   "tweet_count": 2129
+   "tweet_count": 2130
   },
   "username": "HervePellois"
  },
