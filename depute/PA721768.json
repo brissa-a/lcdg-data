@@ -178,21 +178,21 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
   "VTANR5L15V3518": "P",
-  "VTANR5L15V3545": "P",
-  "VTANR5L15V3546": "C",
-  "VTANR5L15V3547": "P",
-  "VTANR5L15V3548": "C",
-  "VTANR5L15V3549": "P",
-  "VTANR5L15V3550": "P"
+  "VTANR5L15V3544": "P",
+  "VTANR5L15V3545": "C",
+  "VTANR5L15V3546": "P",
+  "VTANR5L15V3547": "C",
+  "VTANR5L15V3548": "P",
+  "VTANR5L15V3549": "P"
  },
  "twitter": {
   "id": "71610575",
   "name": "Marie Silin",
   "public_metrics": {
-   "followers_count": 2914,
-   "following_count": 3788,
+   "followers_count": 2916,
+   "following_count": 3789,
    "listed_count": 35,
-   "tweet_count": 9793
+   "tweet_count": 9794
   },
   "username": "mariesilin"
  },

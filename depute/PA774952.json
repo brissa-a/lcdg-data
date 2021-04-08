@@ -17,7 +17,10 @@
   "nosiege": "118"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Benassaya78/",
+  "twitter_link": "https://twitter.com/@PhilipBenassaya/"
+ },
  "circo": {
   "acteurId": "OMC_PA774952",
   "civ": "M.",
@@ -162,7 +165,8 @@
   "VTANR5L15V3475": "P",
   "VTANR5L15V3476": "C",
   "VTANR5L15V3484": "A",
-  "VTANR5L15V3485": "P"
+  "VTANR5L15V3485": "P",
+  "VTANR5L15V3552": "P"
  },
  "twitter": {
   "id": "1612404397",
@@ -170,8 +174,8 @@
   "public_metrics": {
    "followers_count": 2750,
    "following_count": 790,
-   "listed_count": 0,
-   "tweet_count": 4823
+   "listed_count": 58,
+   "tweet_count": 4826
   },
   "username": "PhilipBenassaya"
  },

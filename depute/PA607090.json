@@ -516,11 +516,11 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3538": "P",
   "VTANR5L15V3539": "P",
   "VTANR5L15V3540": "P",
   "VTANR5L15V3541": "P",
   "VTANR5L15V3542": "P",
-  "VTANR5L15V3543": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -585,9 +585,9 @@
   "id": "3906442118",
   "name": "Jean-Pierre Vigier",
   "public_metrics": {
-   "followers_count": 1939,
+   "followers_count": 1940,
    "following_count": 1077,
-   "listed_count": 81,
+   "listed_count": 82,
    "tweet_count": 220
   },
   "username": "J_PVigier"

@@ -891,11 +891,11 @@
   "VTANR5L15V3513": "P",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3518": "P",
-  "VTANR5L15V3523": "P",
-  "VTANR5L15V3524": "C",
+  "VTANR5L15V3522": "P",
+  "VTANR5L15V3523": "C",
+  "VTANR5L15V3524": "P",
   "VTANR5L15V3525": "P",
-  "VTANR5L15V3526": "P",
-  "VTANR5L15V3527": "C",
+  "VTANR5L15V3526": "C",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -1125,10 +1125,10 @@
   "id": "864238987669643265",
   "name": "Stéphane Buchou",
   "public_metrics": {
-   "followers_count": 4203,
-   "following_count": 1498,
+   "followers_count": 4202,
+   "following_count": 1497,
    "listed_count": 104,
-   "tweet_count": 2980
+   "tweet_count": 2983
   },
   "username": "StephaneBuchou"
  },

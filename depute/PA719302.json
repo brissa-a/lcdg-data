@@ -426,8 +426,9 @@
   "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
-  "VTANR5L15V3546": "C",
-  "VTANR5L15V3548": "C",
+  "VTANR5L15V3545": "C",
+  "VTANR5L15V3547": "C",
+  "VTANR5L15V3550": "C",
   "VTANR5L15V356": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -561,10 +562,10 @@
   "id": "866199742073712640",
   "name": "Alice Thourot",
   "public_metrics": {
-   "followers_count": 5738,
+   "followers_count": 5741,
    "following_count": 732,
    "listed_count": 121,
-   "tweet_count": 917
+   "tweet_count": 919
   },
   "username": "AliceThourot"
  },

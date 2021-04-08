@@ -811,10 +811,11 @@
   "VTANR5L15V350": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
-  "VTANR5L15V3545": "P",
-  "VTANR5L15V3546": "C",
-  "VTANR5L15V3547": "P",
-  "VTANR5L15V3548": "C",
+  "VTANR5L15V3544": "P",
+  "VTANR5L15V3545": "C",
+  "VTANR5L15V3546": "P",
+  "VTANR5L15V3547": "C",
+  "VTANR5L15V3548": "P",
   "VTANR5L15V3549": "P",
   "VTANR5L15V3550": "P",
   "VTANR5L15V365": "P",
@@ -898,10 +899,10 @@
   "id": "862575147085164544",
   "name": "Frédéric Petit - Cœur de l'Europe",
   "public_metrics": {
-   "followers_count": 5284,
-   "following_count": 1950,
+   "followers_count": 5298,
+   "following_count": 1953,
    "listed_count": 108,
-   "tweet_count": 5131
+   "tweet_count": 5144
   },
   "username": "fpetitAN"
  },

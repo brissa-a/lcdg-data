@@ -346,10 +346,10 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "P",
+  "VTANR5L15V3538": "P",
   "VTANR5L15V3539": "P",
-  "VTANR5L15V3540": "P",
-  "VTANR5L15V3541": "A",
-  "VTANR5L15V3542": "P",
+  "VTANR5L15V3540": "A",
+  "VTANR5L15V3541": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -371,10 +371,10 @@
   "id": "96111834",
   "name": "Marine Brenier",
   "public_metrics": {
-   "followers_count": 12154,
+   "followers_count": 12162,
    "following_count": 3469,
-   "listed_count": 213,
-   "tweet_count": 18097
+   "listed_count": 210,
+   "tweet_count": 18109
   },
   "username": "marinebrenier"
  },

@@ -48,6 +48,7 @@
   "numDepartement": "84",
   "prenom": "Adrien"
  },
+ "datan": "https://datan.fr/deputes/vaucluse-84/depute_adrien-morenas",
  "lcdg": {
   "siege": {
    "curAngleIndex": 66,
@@ -589,10 +590,10 @@
   "id": "889730003495211009",
   "name": "Adrien MORENAS",
   "public_metrics": {
-   "followers_count": 2080,
-   "following_count": 852,
+   "followers_count": 2109,
+   "following_count": 856,
    "listed_count": 62,
-   "tweet_count": 3011
+   "tweet_count": 3014
   },
   "username": "AdrienMorenas"
  },

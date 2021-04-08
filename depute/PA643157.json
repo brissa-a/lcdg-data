@@ -179,17 +179,24 @@
   "VTANR5L15V3514": "P",
   "VTANR5L15V3515": "A",
   "VTANR5L15V3516": "C",
+  "VTANR5L15V3522": "C",
   "VTANR5L15V3523": "C",
   "VTANR5L15V3524": "C",
-  "VTANR5L15V3525": "C",
-  "VTANR5L15V3526": "A",
-  "VTANR5L15V3527": "C",
-  "VTANR5L15V3528": "P",
+  "VTANR5L15V3525": "A",
+  "VTANR5L15V3526": "C",
+  "VTANR5L15V3527": "P",
+  "VTANR5L15V3531": "P",
   "VTANR5L15V3532": "P",
-  "VTANR5L15V3533": "P",
-  "VTANR5L15V3534": "A",
-  "VTANR5L15V3542": "P",
-  "VTANR5L15V3543": "A"
+  "VTANR5L15V3533": "A",
+  "VTANR5L15V3541": "P",
+  "VTANR5L15V3542": "A",
+  "VTANR5L15V3552": "P",
+  "VTANR5L15V3553": "P",
+  "VTANR5L15V3554": "A",
+  "VTANR5L15V3555": "A",
+  "VTANR5L15V3556": "A",
+  "VTANR5L15V3557": "A",
+  "VTANR5L15V3560": "P"
  },
  "twitter": {
   "id": "1283323346076282880",
@@ -198,7 +205,7 @@
    "followers_count": 431,
    "following_count": 334,
    "listed_count": 16,
-   "tweet_count": 251
+   "tweet_count": 254
   },
   "username": "PNaillet"
  },

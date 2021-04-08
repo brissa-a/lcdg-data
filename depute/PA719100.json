@@ -594,7 +594,8 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3511": "C",
   "VTANR5L15V3518": "P",
-  "VTANR5L15V3544": "C",
+  "VTANR5L15V3543": "C",
+  "VTANR5L15V3554": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
@@ -682,7 +683,7 @@
    "followers_count": 950,
    "following_count": 589,
    "listed_count": 44,
-   "tweet_count": 1852
+   "tweet_count": 1854
   },
   "username": "jean_ardouin"
  },

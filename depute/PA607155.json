@@ -576,6 +576,14 @@
   "VTANR5L15V3512": "C",
   "VTANR5L15V3513": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3554": "P",
+  "VTANR5L15V3555": "P",
+  "VTANR5L15V3556": "P",
+  "VTANR5L15V3557": "P",
+  "VTANR5L15V3558": "P",
+  "VTANR5L15V3559": "P",
+  "VTANR5L15V3560": "P",
+  "VTANR5L15V3562": "P",
   "VTANR5L15V357": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V365": "P",
@@ -653,7 +661,7 @@
   "id": "3299222093",
   "name": "Yves DANIEL",
   "public_metrics": {
-   "followers_count": 2407,
+   "followers_count": 2406,
    "following_count": 261,
    "listed_count": 134,
    "tweet_count": 1014
