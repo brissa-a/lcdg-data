@@ -585,7 +585,11 @@
   "VTANR5L15V3545": "C",
   "VTANR5L15V3546": "P",
   "VTANR5L15V3547": "C",
-  "VTANR5L15V3549": "P"
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C"
  },
  "twitter": {
   "id": "382747703",
@@ -594,7 +598,7 @@
    "followers_count": 20213,
    "following_count": 1793,
    "listed_count": 463,
-   "tweet_count": 17774
+   "tweet_count": 17780
   },
   "username": "StTRAVERT"
  },

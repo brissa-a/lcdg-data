@@ -667,6 +667,11 @@
   "VTANR5L15V3561": "P",
   "VTANR5L15V3563": "C",
   "VTANR5L15V3565": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V385": "C",
@@ -728,10 +733,10 @@
   "id": "863155122041483264",
   "name": "Brigitte Liso",
   "public_metrics": {
-   "followers_count": 4138,
-   "following_count": 410,
+   "followers_count": 4146,
+   "following_count": 412,
    "listed_count": 105,
-   "tweet_count": 879
+   "tweet_count": 885
   },
   "username": "brigitte_liso"
  },

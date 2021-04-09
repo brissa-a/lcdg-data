@@ -491,6 +491,8 @@
   "VTANR5L15V3558": "P",
   "VTANR5L15V3559": "P",
   "VTANR5L15V3560": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -563,7 +565,7 @@
   "id": "773993798",
   "name": "Jean-François Portarrieu",
   "public_metrics": {
-   "followers_count": 2733,
+   "followers_count": 2737,
    "following_count": 806,
    "listed_count": 97,
    "tweet_count": 791

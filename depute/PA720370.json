@@ -435,6 +435,10 @@
   "VTANR5L15V3547": "C",
   "VTANR5L15V3548": "P",
   "VTANR5L15V3549": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -552,10 +556,10 @@
   "id": "294130753",
   "name": "Ludovic MENDES",
   "public_metrics": {
-   "followers_count": 4588,
-   "following_count": 2734,
+   "followers_count": 4591,
+   "following_count": 2735,
    "listed_count": 166,
-   "tweet_count": 4902
+   "tweet_count": 4908
   },
   "username": "ludovicMDS"
  },

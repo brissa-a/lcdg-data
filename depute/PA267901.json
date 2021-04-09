@@ -258,6 +258,9 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V40": "C",
@@ -337,10 +340,10 @@
   "id": "986655792089661440",
   "name": "Mansour KAMARDINE - Officiel",
   "public_metrics": {
-   "followers_count": 1556,
+   "followers_count": 1558,
    "following_count": 216,
    "listed_count": 42,
-   "tweet_count": 734
+   "tweet_count": 735
   },
   "username": "Kamardine_M"
  },

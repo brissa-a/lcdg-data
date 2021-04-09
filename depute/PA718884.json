@@ -549,6 +549,9 @@
   "VTANR5L15V3545": "C",
   "VTANR5L15V3546": "A",
   "VTANR5L15V3547": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V378": "P",
@@ -713,7 +716,7 @@
   "id": "864248206514946048",
   "name": "Valérie Bazin-Malgras",
   "public_metrics": {
-   "followers_count": 2666,
+   "followers_count": 2669,
    "following_count": 740,
    "listed_count": 68,
    "tweet_count": 1232

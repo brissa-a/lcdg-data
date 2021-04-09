@@ -614,6 +614,10 @@
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "C",
   "VTANR5L15V365": "P",
@@ -759,8 +763,8 @@
   "id": "115715214",
   "name": "Bruno Fuchs",
   "public_metrics": {
-   "followers_count": 5961,
-   "following_count": 1033,
+   "followers_count": 5966,
+   "following_count": 1032,
    "listed_count": 177,
    "tweet_count": 4519
   },

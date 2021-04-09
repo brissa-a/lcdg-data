@@ -622,7 +622,11 @@
   "VTANR5L15V3559": "P",
   "VTANR5L15V356": "C",
   "VTANR5L15V3560": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
   "VTANR5L15V357": "P",
+  "VTANR5L15V3570": "C",
   "VTANR5L15V363": "A",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
@@ -823,10 +827,10 @@
   "id": "1429780352",
   "name": "Stéphane Mazars",
   "public_metrics": {
-   "followers_count": 2550,
-   "following_count": 1059,
+   "followers_count": 2551,
+   "following_count": 1062,
    "listed_count": 134,
-   "tweet_count": 1734
+   "tweet_count": 1737
   },
   "username": "S_Mazars"
  },

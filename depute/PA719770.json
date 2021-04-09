@@ -397,6 +397,9 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -493,8 +496,8 @@
   "id": "542779549",
   "name": "Florian Bachelier",
   "public_metrics": {
-   "followers_count": 11910,
-   "following_count": 3386,
+   "followers_count": 11918,
+   "following_count": 3391,
    "listed_count": 199,
    "tweet_count": 5140
   },

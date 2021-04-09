@@ -419,6 +419,10 @@
   "VTANR5L15V3550": "A",
   "VTANR5L15V3551": "P",
   "VTANR5L15V3552": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3569": "A",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -476,7 +480,7 @@
    "followers_count": 6512,
    "following_count": 226,
    "listed_count": 412,
-   "tweet_count": 56603
+   "tweet_count": 56604
   },
   "username": "S_Trompille"
  },

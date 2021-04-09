@@ -676,6 +676,9 @@
   "VTANR5L15V3546": "P",
   "VTANR5L15V3547": "C",
   "VTANR5L15V356": "C",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "C",
   "VTANR5L15V357": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V359": "P",
@@ -856,10 +859,10 @@
   "id": "864955921025433600",
   "name": "Pierre-Alain RAPHAN",
   "public_metrics": {
-   "followers_count": 5668,
-   "following_count": 2430,
-   "listed_count": 113,
-   "tweet_count": 2196
+   "followers_count": 5672,
+   "following_count": 2431,
+   "listed_count": 112,
+   "tweet_count": 2197
   },
   "username": "p_a_raphan"
  },

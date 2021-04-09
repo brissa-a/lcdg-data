@@ -871,6 +871,7 @@
   "VTANR5L15V3562": "P",
   "VTANR5L15V3563": "C",
   "VTANR5L15V3564": "C",
+  "VTANR5L15V3567": "C",
   "VTANR5L15V359": "P",
   "VTANR5L15V36": "A",
   "VTANR5L15V365": "P",
@@ -1090,10 +1091,10 @@
   "id": "912604842643816448",
   "name": "Lionel Causse",
   "public_metrics": {
-   "followers_count": 2547,
-   "following_count": 899,
+   "followers_count": 2551,
+   "following_count": 901,
    "listed_count": 75,
-   "tweet_count": 2322
+   "tweet_count": 2323
   },
   "username": "DeputeCausse"
  },

@@ -697,6 +697,10 @@
   "VTANR5L15V354": "C",
   "VTANR5L15V3542": "A",
   "VTANR5L15V3543": "A",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "P",
@@ -794,7 +798,7 @@
   "id": "83424512",
   "name": "Herve Saulignac",
   "public_metrics": {
-   "followers_count": 4985,
+   "followers_count": 4989,
    "following_count": 907,
    "listed_count": 135,
    "tweet_count": 1420

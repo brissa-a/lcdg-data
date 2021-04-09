@@ -724,6 +724,9 @@
   "VTANR5L15V3547": "C",
   "VTANR5L15V3548": "P",
   "VTANR5L15V356": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -946,10 +949,10 @@
   "id": "178485109",
   "name": "Eric POULLIAT",
   "public_metrics": {
-   "followers_count": 2900,
-   "following_count": 1541,
+   "followers_count": 2902,
+   "following_count": 1542,
    "listed_count": 107,
-   "tweet_count": 1621
+   "tweet_count": 1623
   },
   "username": "EPoulliat"
  },

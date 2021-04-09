@@ -617,6 +617,9 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -810,7 +813,7 @@
   "id": "865125792602304512",
   "name": "Frédérique Lardet",
   "public_metrics": {
-   "followers_count": 4312,
+   "followers_count": 4317,
    "following_count": 459,
    "listed_count": 108,
    "tweet_count": 856

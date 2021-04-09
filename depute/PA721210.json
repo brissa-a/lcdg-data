@@ -631,6 +631,10 @@
   "VTANR5L15V35": "P",
   "VTANR5L15V351": "C",
   "VTANR5L15V3511": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V36": "P",
   "VTANR5L15V365": "C",
@@ -825,10 +829,10 @@
   "id": "266215308",
   "name": "Alexis Corbière",
   "public_metrics": {
-   "followers_count": 103526,
-   "following_count": 2076,
-   "listed_count": 796,
-   "tweet_count": 25463
+   "followers_count": 103561,
+   "following_count": 2075,
+   "listed_count": 797,
+   "tweet_count": 25464
   },
   "username": "alexiscorbiere"
  },

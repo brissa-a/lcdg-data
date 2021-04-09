@@ -763,6 +763,10 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3509": "P",
   "VTANR5L15V351": "A",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V38": "P",
@@ -982,10 +986,10 @@
   "id": "338910451",
   "name": "Constance Le Grip",
   "public_metrics": {
-   "followers_count": 10933,
-   "following_count": 1215,
+   "followers_count": 10942,
+   "following_count": 1216,
    "listed_count": 296,
-   "tweet_count": 15456
+   "tweet_count": 15465
   },
   "username": "ConstanceLeGrip"
  },

@@ -320,16 +320,21 @@
   "VTANR5L15V3557": "C",
   "VTANR5L15V3558": "C",
   "VTANR5L15V3559": "C",
-  "VTANR5L15V3560": "P"
+  "VTANR5L15V3560": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "C"
  },
  "twitter": {
   "id": "1286307042014171137",
   "name": "Serre Nathalie",
   "public_metrics": {
-   "followers_count": 190,
-   "following_count": 100,
+   "followers_count": 191,
+   "following_count": 101,
    "listed_count": 13,
-   "tweet_count": 247
+   "tweet_count": 250
   },
   "username": "NathalieSerre"
  },

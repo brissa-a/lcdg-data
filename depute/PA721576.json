@@ -218,16 +218,20 @@
   "VTANR5L15V3549": "A",
   "VTANR5L15V3550": "P",
   "VTANR5L15V3551": "C",
-  "VTANR5L15V3552": "P"
+  "VTANR5L15V3552": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P"
  },
  "twitter": {
   "id": "1275478906221576193",
   "name": "Sylvie Bouchet Bellecourt",
   "public_metrics": {
-   "followers_count": 408,
-   "following_count": 467,
-   "listed_count": 12,
-   "tweet_count": 275
+   "followers_count": 412,
+   "following_count": 470,
+   "listed_count": 17,
+   "tweet_count": 276
   },
   "username": "SBouchetB"
  },

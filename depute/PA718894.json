@@ -697,6 +697,11 @@
   "VTANR5L15V3484": "P",
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -835,10 +840,10 @@
   "id": "52779939",
   "name": "Loïc Dombreval 🐾",
   "public_metrics": {
-   "followers_count": 12249,
+   "followers_count": 12255,
    "following_count": 845,
    "listed_count": 179,
-   "tweet_count": 3419
+   "tweet_count": 3420
   },
   "username": "LoicDombreval"
  },

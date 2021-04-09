@@ -884,6 +884,10 @@
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "P",
   "VTANR5L15V3563": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "A",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V378": "C",
@@ -1119,7 +1123,7 @@
    "followers_count": 1231,
    "following_count": 454,
    "listed_count": 95,
-   "tweet_count": 4690
+   "tweet_count": 4699
   },
   "username": "SophieMette1"
  },

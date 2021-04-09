@@ -571,6 +571,10 @@
   "VTANR5L15V3564": "C",
   "VTANR5L15V3565": "P",
   "VTANR5L15V3566": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V362": "C",
   "VTANR5L15V363": "C",
@@ -637,10 +641,10 @@
   "id": "42256235",
   "name": "François Cormier-Bouligeon",
   "public_metrics": {
-   "followers_count": 5260,
-   "following_count": 3059,
+   "followers_count": 5262,
+   "following_count": 3060,
    "listed_count": 106,
-   "tweet_count": 7507
+   "tweet_count": 7510
   },
   "username": "FCBDeputeduCher"
  },

@@ -1046,6 +1046,11 @@
   "VTANR5L15V3562": "P",
   "VTANR5L15V3564": "P",
   "VTANR5L15V3565": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V359": "C",
   "VTANR5L15V365": "P",
@@ -1238,10 +1243,10 @@
   "id": "938843677",
   "name": "Ch. Pirès Beaune",
   "public_metrics": {
-   "followers_count": 5292,
+   "followers_count": 5306,
    "following_count": 1835,
    "listed_count": 146,
-   "tweet_count": 6435
+   "tweet_count": 6438
   },
   "username": "cpiresbeaune"
  },

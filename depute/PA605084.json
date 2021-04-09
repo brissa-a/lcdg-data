@@ -484,6 +484,10 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3517": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -530,10 +534,10 @@
   "id": "1946847096",
   "name": "Jacques Krabal",
   "public_metrics": {
-   "followers_count": 3880,
+   "followers_count": 3881,
    "following_count": 1135,
    "listed_count": 173,
-   "tweet_count": 8699
+   "tweet_count": 8704
   },
   "username": "JKrabal"
  },

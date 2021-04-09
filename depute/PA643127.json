@@ -824,6 +824,10 @@
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
   "VTANR5L15V355": "C",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
   "VTANR5L15V358": "P",
   "VTANR5L15V359": "P",
   "VTANR5L15V365": "P",
@@ -1226,8 +1230,8 @@
   "id": "319756723",
   "name": "Bruno Questel 🇫🇷",
   "public_metrics": {
-   "followers_count": 11267,
-   "following_count": 696,
+   "followers_count": 11313,
+   "following_count": 695,
    "listed_count": 153,
    "tweet_count": 6860
   },

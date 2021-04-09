@@ -200,7 +200,12 @@
   "VTANR5L15V3557": "C",
   "VTANR5L15V3558": "C",
   "VTANR5L15V3559": "C",
-  "VTANR5L15V3560": "P"
+  "VTANR5L15V3560": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "A",
+  "VTANR5L15V3571": "A"
  },
  "twitter": {
   "id": "418590420",
@@ -209,7 +214,7 @@
    "followers_count": 1447,
    "following_count": 882,
    "listed_count": 28,
-   "tweet_count": 6839
+   "tweet_count": 6845
   },
   "username": "YvesBaumuller"
  },

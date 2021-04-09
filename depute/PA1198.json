@@ -353,6 +353,8 @@
   "VTANR5L15V3512": "P",
   "VTANR5L15V3513": "P",
   "VTANR5L15V3514": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -498,7 +500,7 @@
   "id": "851502935511101441",
   "name": "Laurence DUMONT",
   "public_metrics": {
-   "followers_count": 1842,
+   "followers_count": 1846,
    "following_count": 585,
    "listed_count": 79,
    "tweet_count": 694

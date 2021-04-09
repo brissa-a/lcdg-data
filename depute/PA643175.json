@@ -912,6 +912,8 @@
   "VTANR5L15V3564": "C",
   "VTANR5L15V3565": "P",
   "VTANR5L15V3566": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -1101,7 +1103,7 @@
    "followers_count": 4268,
    "following_count": 791,
    "listed_count": 111,
-   "tweet_count": 1996
+   "tweet_count": 2003
   },
   "username": "stelladupont"
  },

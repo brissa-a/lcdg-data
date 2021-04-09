@@ -448,6 +448,9 @@
   "VTANR5L15V3490": "C",
   "VTANR5L15V3491": "C",
   "VTANR5L15V351": "A",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V380": "C",
   "VTANR5L15V389": "A",
   "VTANR5L15V390": "P",
@@ -476,10 +479,10 @@
   "id": "4073986679",
   "name": "Paul-André Colombani",
   "public_metrics": {
-   "followers_count": 4292,
+   "followers_count": 4297,
    "following_count": 446,
    "listed_count": 72,
-   "tweet_count": 875
+   "tweet_count": 880
   },
   "username": "pacolombani"
  },

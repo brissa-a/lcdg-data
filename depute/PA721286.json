@@ -1333,6 +1333,11 @@
   "VTANR5L15V352": "C",
   "VTANR5L15V353": "C",
   "VTANR5L15V354": "C",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "A",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V364": "C",
@@ -1694,10 +1699,10 @@
   "id": "819329291389431808",
   "name": "Alain Ramadier",
   "public_metrics": {
-   "followers_count": 1714,
+   "followers_count": 1716,
    "following_count": 177,
    "listed_count": 82,
-   "tweet_count": 3147
+   "tweet_count": 3150
   },
   "username": "alainramadier"
  },

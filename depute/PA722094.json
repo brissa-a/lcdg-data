@@ -822,6 +822,11 @@
   "VTANR5L15V3558": "P",
   "VTANR5L15V3559": "P",
   "VTANR5L15V3560": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "A",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V362": "C",
   "VTANR5L15V365": "P",
@@ -1086,8 +1091,8 @@
   "id": "864206680648810496",
   "name": "Christine Hennion",
   "public_metrics": {
-   "followers_count": 6230,
-   "following_count": 1240,
+   "followers_count": 6237,
+   "following_count": 1241,
    "listed_count": 127,
    "tweet_count": 3317
   },

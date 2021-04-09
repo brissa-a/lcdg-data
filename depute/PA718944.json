@@ -561,6 +561,11 @@
   "VTANR5L15V3560": "P",
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -621,10 +626,10 @@
   "id": "862722286444564482",
   "name": "Cathy RACON BOUZON",
   "public_metrics": {
-   "followers_count": 5846,
-   "following_count": 987,
+   "followers_count": 5849,
+   "following_count": 988,
    "listed_count": 134,
-   "tweet_count": 3219
+   "tweet_count": 3231
   },
   "username": "RaconCathy"
  },

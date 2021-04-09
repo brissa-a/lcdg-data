@@ -620,6 +620,11 @@
   "VTANR5L15V3560": "P",
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "A",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V362": "A",
   "VTANR5L15V365": "P",
@@ -751,9 +756,9 @@
   "id": "1316373931968860163",
   "name": "Michèle Victory",
   "public_metrics": {
-   "followers_count": 346,
-   "following_count": 396,
-   "listed_count": 0,
+   "followers_count": 347,
+   "following_count": 393,
+   "listed_count": 5,
    "tweet_count": 174
   },
   "username": "victory_michele"

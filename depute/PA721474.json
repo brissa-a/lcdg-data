@@ -662,6 +662,10 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "A",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "A",
   "VTANR5L15V358": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "A",
@@ -793,7 +797,7 @@
   "id": "4842549479",
   "name": "Stéphane VIRY",
   "public_metrics": {
-   "followers_count": 2315,
+   "followers_count": 2318,
    "following_count": 428,
    "listed_count": 83,
    "tweet_count": 824

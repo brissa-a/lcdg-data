@@ -1265,6 +1265,11 @@
   "VTANR5L15V3537": "P",
   "VTANR5L15V3538": "P",
   "VTANR5L15V3539": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -1474,10 +1479,10 @@
   "id": "865939828550098948",
   "name": "Julien Borowczyk",
   "public_metrics": {
-   "followers_count": 2482,
+   "followers_count": 2486,
    "following_count": 227,
    "listed_count": 105,
-   "tweet_count": 439
+   "tweet_count": 441
   },
   "username": "JulienBorowczyk"
  },

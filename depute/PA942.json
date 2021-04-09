@@ -818,6 +818,10 @@
   "VTANR5L15V3550": "P",
   "VTANR5L15V3551": "C",
   "VTANR5L15V3552": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V378": "P",
@@ -885,9 +889,9 @@
   "id": "436816838",
   "name": "Charles de Courson",
   "public_metrics": {
-   "followers_count": 10523,
+   "followers_count": 10522,
    "following_count": 798,
-   "listed_count": 262,
+   "listed_count": 267,
    "tweet_count": 2966
   },
   "username": "C_deCourson"

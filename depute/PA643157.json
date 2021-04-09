@@ -196,16 +196,21 @@
   "VTANR5L15V3555": "A",
   "VTANR5L15V3556": "A",
   "VTANR5L15V3557": "A",
-  "VTANR5L15V3560": "P"
+  "VTANR5L15V3560": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P"
  },
  "twitter": {
   "id": "1283323346076282880",
   "name": "Philippe Naillet",
   "public_metrics": {
-   "followers_count": 431,
+   "followers_count": 435,
    "following_count": 334,
    "listed_count": 16,
-   "tweet_count": 254
+   "tweet_count": 258
   },
   "username": "PNaillet"
  },

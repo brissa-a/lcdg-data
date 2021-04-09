@@ -536,6 +536,10 @@
   "VTANR5L15V3518": "P",
   "VTANR5L15V352": "P",
   "VTANR5L15V353": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
@@ -582,7 +586,7 @@
   "id": "911979209714802688",
   "name": "Philippe Chassaing",
   "public_metrics": {
-   "followers_count": 1139,
+   "followers_count": 1140,
    "following_count": 291,
    "listed_count": 44,
    "tweet_count": 390

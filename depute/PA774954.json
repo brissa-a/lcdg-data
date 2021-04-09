@@ -220,16 +220,19 @@
   "VTANR5L15V3421": "C",
   "VTANR5L15V3422": "A",
   "VTANR5L15V3454": "P",
-  "VTANR5L15V3484": "C"
+  "VTANR5L15V3484": "C",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "C"
  },
  "twitter": {
   "id": "89169913",
   "name": "Anne-Laure Blin",
   "public_metrics": {
-   "followers_count": 2623,
-   "following_count": 1329,
+   "followers_count": 2626,
+   "following_count": 1331,
    "listed_count": 48,
-   "tweet_count": 9818
+   "tweet_count": 9822
   },
   "username": "AnneLaureBlin"
  },

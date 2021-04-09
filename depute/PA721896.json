@@ -609,6 +609,9 @@
   "VTANR5L15V351": "C",
   "VTANR5L15V3511": "P",
   "VTANR5L15V3514": "P",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V364": "P",
   "VTANR5L15V365": "C",
   "VTANR5L15V381": "P",
@@ -768,9 +771,9 @@
   "id": "789381772190416896",
   "name": "Elsa Faucillon",
   "public_metrics": {
-   "followers_count": 21605,
+   "followers_count": 21615,
    "following_count": 1151,
-   "listed_count": 187,
+   "listed_count": 186,
    "tweet_count": 2995
   },
   "username": "ElsaFaucillon"

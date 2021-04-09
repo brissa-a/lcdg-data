@@ -410,6 +410,8 @@
   "VTANR5L15V3514": "C",
   "VTANR5L15V3515": "C",
   "VTANR5L15V3516": "P",
+  "VTANR5L15V3569": "A",
+  "VTANR5L15V3570": "C",
   "VTANR5L15V36": "C",
   "VTANR5L15V37": "C",
   "VTANR5L15V38": "P",
@@ -497,7 +499,7 @@
   "id": "864927261274845184",
   "name": "Anissa Khedher",
   "public_metrics": {
-   "followers_count": 3443,
+   "followers_count": 3445,
    "following_count": 304,
    "listed_count": 121,
    "tweet_count": 2619

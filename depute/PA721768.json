@@ -183,16 +183,18 @@
   "VTANR5L15V3546": "P",
   "VTANR5L15V3547": "C",
   "VTANR5L15V3548": "P",
-  "VTANR5L15V3549": "P"
+  "VTANR5L15V3549": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P"
  },
  "twitter": {
   "id": "71610575",
   "name": "Marie Silin",
   "public_metrics": {
-   "followers_count": 2916,
-   "following_count": 3789,
+   "followers_count": 2924,
+   "following_count": 3791,
    "listed_count": 35,
-   "tweet_count": 9794
+   "tweet_count": 9801
   },
   "username": "mariesilin"
  },

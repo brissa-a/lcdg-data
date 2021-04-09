@@ -816,6 +816,7 @@
   "VTANR5L15V3550": "A",
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "P",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "P",
   "VTANR5L15V360": "C",
   "VTANR5L15V364": "P",
@@ -1164,10 +1165,10 @@
   "id": "303112391",
   "name": "Stephane Peu",
   "public_metrics": {
-   "followers_count": 9237,
+   "followers_count": 9242,
    "following_count": 647,
    "listed_count": 147,
-   "tweet_count": 4471
+   "tweet_count": 4473
   },
   "username": "stephane1peu"
  },

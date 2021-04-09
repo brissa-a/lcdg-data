@@ -774,6 +774,9 @@
   "VTANR5L15V3541": "P",
   "VTANR5L15V3542": "P",
   "VTANR5L15V3543": "C",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -918,9 +921,9 @@
   "name": "Annie Vidal",
   "public_metrics": {
    "followers_count": 5810,
-   "following_count": 536,
+   "following_count": 538,
    "listed_count": 104,
-   "tweet_count": 2618
+   "tweet_count": 2623
   },
   "username": "Vidal7602"
  },

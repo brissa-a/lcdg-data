@@ -550,6 +550,11 @@
   "VTANR5L15V35": "C",
   "VTANR5L15V351": "P",
   "VTANR5L15V3518": "P",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "P",
+  "VTANR5L15V3571": "C",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
@@ -660,7 +665,7 @@
   "id": "865114227580784640",
   "name": "Frédéric Descrozaille",
   "public_metrics": {
-   "followers_count": 3991,
+   "followers_count": 3993,
    "following_count": 1241,
    "listed_count": 96,
    "tweet_count": 1210

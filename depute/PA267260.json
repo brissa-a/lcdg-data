@@ -438,6 +438,9 @@
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "A",
+  "VTANR5L15V3569": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V365": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -526,8 +529,8 @@
   "public_metrics": {
    "followers_count": 2569,
    "following_count": 524,
-   "listed_count": 98,
-   "tweet_count": 877
+   "listed_count": 103,
+   "tweet_count": 880
   },
   "username": "Poletti_B"
  },

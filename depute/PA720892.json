@@ -792,6 +792,11 @@
   "VTANR5L15V3564": "P",
   "VTANR5L15V3565": "A",
   "VTANR5L15V3566": "C",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "C",
+  "VTANR5L15V3569": "C",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V360": "C",
   "VTANR5L15V365": "C",
   "VTANR5L15V37": "P",
@@ -997,10 +1002,10 @@
   "id": "2370188558",
   "name": "Mathilde Panot",
   "public_metrics": {
-   "followers_count": 49919,
+   "followers_count": 49970,
    "following_count": 1338,
-   "listed_count": 301,
-   "tweet_count": 11531
+   "listed_count": 302,
+   "tweet_count": 11535
   },
   "username": "MathildePanot"
  },

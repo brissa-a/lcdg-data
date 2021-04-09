@@ -760,6 +760,9 @@
   "VTANR5L15V3547": "N",
   "VTANR5L15V3548": "N",
   "VTANR5L15V3549": "N",
+  "VTANR5L15V3567": "P",
+  "VTANR5L15V3568": "N",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
@@ -943,10 +946,10 @@
   "id": "705617755",
   "name": "Hugues Renson",
   "public_metrics": {
-   "followers_count": 20540,
-   "following_count": 1957,
-   "listed_count": 247,
-   "tweet_count": 4581
+   "followers_count": 20560,
+   "following_count": 1959,
+   "listed_count": 248,
+   "tweet_count": 4582
   },
   "username": "huguesrenson"
  },

@@ -743,6 +743,10 @@
   "VTANR5L15V3537": "C",
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "P",
+  "VTANR5L15V3567": "A",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V361": "C",
   "VTANR5L15V363": "C",
@@ -893,7 +897,7 @@
   "id": "863317587865866241",
   "name": "Monica Michel",
   "public_metrics": {
-   "followers_count": 3103,
+   "followers_count": 3105,
    "following_count": 347,
    "listed_count": 85,
    "tweet_count": 3286

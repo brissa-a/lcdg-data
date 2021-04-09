@@ -746,7 +746,12 @@
   "VTANR5L15V356": "C",
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "P",
+  "VTANR5L15V3567": "C",
+  "VTANR5L15V3568": "P",
+  "VTANR5L15V3569": "P",
   "VTANR5L15V357": "P",
+  "VTANR5L15V3570": "C",
+  "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "C",
@@ -793,9 +798,9 @@
   "name": "Régis JUANICO",
   "public_metrics": {
    "followers_count": 15764,
-   "following_count": 3835,
+   "following_count": 3836,
    "listed_count": 372,
-   "tweet_count": 13111
+   "tweet_count": 13114
   },
   "username": "Juanico"
  },
