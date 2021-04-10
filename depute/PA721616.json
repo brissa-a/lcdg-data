@@ -813,6 +813,9 @@
   "VTANR5L15V357": "A",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3575": "P",
+  "VTANR5L15V3576": "P",
+  "VTANR5L15V3577": "P",
   "VTANR5L15V359": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
@@ -1064,7 +1067,7 @@
    "followers_count": 10983,
    "following_count": 401,
    "listed_count": 205,
-   "tweet_count": 2470
+   "tweet_count": 2471
   },
   "username": "PacomeRupin"
  },

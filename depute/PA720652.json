@@ -879,6 +879,12 @@
   "VTANR5L15V3523": "C",
   "VTANR5L15V3524": "P",
   "VTANR5L15V3525": "P",
+  "VTANR5L15V3572": "P",
+  "VTANR5L15V3573": "C",
+  "VTANR5L15V3574": "C",
+  "VTANR5L15V3575": "P",
+  "VTANR5L15V3576": "P",
+  "VTANR5L15V3577": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -965,9 +971,9 @@
   "id": "2910111251",
   "name": "Bruno Duvergé",
   "public_metrics": {
-   "followers_count": 700,
+   "followers_count": 699,
    "following_count": 1,
-   "listed_count": 74,
+   "listed_count": 73,
    "tweet_count": 0
   },
   "username": "BrunoDuverge"

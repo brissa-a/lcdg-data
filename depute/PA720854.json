@@ -885,7 +885,18 @@
   "VTANR5L15V3569": "C",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3573": "C",
+  "VTANR5L15V3574": "C",
+  "VTANR5L15V3575": "P",
+  "VTANR5L15V3576": "P",
+  "VTANR5L15V3577": "P",
+  "VTANR5L15V3578": "C",
+  "VTANR5L15V3579": "P",
   "VTANR5L15V358": "P",
+  "VTANR5L15V3580": "P",
+  "VTANR5L15V3581": "C",
+  "VTANR5L15V3582": "P",
+  "VTANR5L15V3583": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -1041,10 +1052,10 @@
   "id": "1037275272364650496",
   "name": "Stéphane Testé",
   "public_metrics": {
-   "followers_count": 1877,
-   "following_count": 1161,
+   "followers_count": 1882,
+   "following_count": 1162,
    "listed_count": 43,
-   "tweet_count": 1597
+   "tweet_count": 1598
   },
   "username": "stephane_teste"
  },

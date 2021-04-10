@@ -897,7 +897,15 @@
   "VTANR5L15V3563": "P",
   "VTANR5L15V3569": "P",
   "VTANR5L15V3571": "C",
+  "VTANR5L15V3577": "A",
   "VTANR5L15V358": "C",
+  "VTANR5L15V3581": "P",
+  "VTANR5L15V3582": "P",
+  "VTANR5L15V3583": "A",
+  "VTANR5L15V3587": "P",
+  "VTANR5L15V3588": "P",
+  "VTANR5L15V3589": "P",
+  "VTANR5L15V3590": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V387": "P",
   "VTANR5L15V389": "P",
@@ -1058,10 +1066,10 @@
   "id": "450644069",
   "name": "Dominique Potier",
   "public_metrics": {
-   "followers_count": 9465,
-   "following_count": 2006,
+   "followers_count": 9471,
+   "following_count": 2007,
    "listed_count": 241,
-   "tweet_count": 3648
+   "tweet_count": 3649
   },
   "username": "PotierDominique"
  },

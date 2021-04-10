@@ -879,6 +879,10 @@
   "VTANR5L15V357": "P",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3572": "P",
+  "VTANR5L15V3574": "C",
+  "VTANR5L15V3575": "P",
+  "VTANR5L15V3577": "P",
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "P",
   "VTANR5L15V365": "P",
@@ -1049,10 +1053,10 @@
   "id": "526824153",
   "name": "Delphine Bagarry",
   "public_metrics": {
-   "followers_count": 5668,
+   "followers_count": 5672,
    "following_count": 235,
    "listed_count": 133,
-   "tweet_count": 2752
+   "tweet_count": 2754
   },
   "username": "DBagarry"
  },

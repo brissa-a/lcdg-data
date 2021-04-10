@@ -339,16 +339,35 @@
   "VTANR5L15V3568": "A",
   "VTANR5L15V3569": "P",
   "VTANR5L15V3570": "C",
-  "VTANR5L15V3571": "P"
+  "VTANR5L15V3571": "P",
+  "VTANR5L15V3572": "A",
+  "VTANR5L15V3573": "P",
+  "VTANR5L15V3574": "P",
+  "VTANR5L15V3575": "A",
+  "VTANR5L15V3576": "P",
+  "VTANR5L15V3577": "C",
+  "VTANR5L15V3578": "A",
+  "VTANR5L15V3579": "A",
+  "VTANR5L15V3580": "P",
+  "VTANR5L15V3581": "P",
+  "VTANR5L15V3582": "P",
+  "VTANR5L15V3583": "A",
+  "VTANR5L15V3584": "P",
+  "VTANR5L15V3585": "P",
+  "VTANR5L15V3586": "A",
+  "VTANR5L15V3587": "P",
+  "VTANR5L15V3588": "P",
+  "VTANR5L15V3589": "A",
+  "VTANR5L15V3590": "P"
  },
  "twitter": {
   "id": "369978611",
   "name": "Gérard Leseul",
   "public_metrics": {
-   "followers_count": 749,
-   "following_count": 338,
+   "followers_count": 754,
+   "following_count": 339,
    "listed_count": 9,
-   "tweet_count": 536
+   "tweet_count": 544
   },
   "username": "LeseulG"
  },

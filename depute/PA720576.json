@@ -674,6 +674,9 @@
   "VTANR5L15V357": "P",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3574": "C",
+  "VTANR5L15V3578": "C",
+  "VTANR5L15V3579": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -775,7 +778,7 @@
   "id": "835149861267849217",
   "name": "Pascal BOIS",
   "public_metrics": {
-   "followers_count": 4265,
+   "followers_count": 4269,
    "following_count": 1334,
    "listed_count": 102,
    "tweet_count": 1926

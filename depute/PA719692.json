@@ -697,6 +697,7 @@
   "VTANR5L15V3569": "C",
   "VTANR5L15V3570": "P",
   "VTANR5L15V3571": "C",
+  "VTANR5L15V3577": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
@@ -783,7 +784,7 @@
   "id": "753225726",
   "name": "Jean-François Eliaou",
   "public_metrics": {
-   "followers_count": 4309,
+   "followers_count": 4312,
    "following_count": 840,
    "listed_count": 124,
    "tweet_count": 2527

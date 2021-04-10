@@ -458,7 +458,18 @@
   "VTANR5L15V3567": "C",
   "VTANR5L15V3569": "P",
   "VTANR5L15V3570": "C",
+  "VTANR5L15V3576": "P",
+  "VTANR5L15V3578": "P",
+  "VTANR5L15V3579": "P",
   "VTANR5L15V358": "P",
+  "VTANR5L15V3580": "P",
+  "VTANR5L15V3581": "P",
+  "VTANR5L15V3582": "P",
+  "VTANR5L15V3583": "P",
+  "VTANR5L15V3584": "P",
+  "VTANR5L15V3585": "P",
+  "VTANR5L15V3587": "P",
+  "VTANR5L15V3588": "P",
   "VTANR5L15V362": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V38": "P",
@@ -571,9 +582,9 @@
   "name": "Valérie Petit",
   "public_metrics": {
    "followers_count": 7404,
-   "following_count": 1849,
-   "listed_count": 134,
-   "tweet_count": 9222
+   "following_count": 1848,
+   "listed_count": 133,
+   "tweet_count": 9227
   },
   "username": "ValeriePetit_AN"
  },

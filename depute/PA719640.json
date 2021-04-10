@@ -888,6 +888,7 @@
   "VTANR5L15V3569": "P",
   "VTANR5L15V3570": "A",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3574": "C",
   "VTANR5L15V360": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V378": "C",
@@ -1120,7 +1121,7 @@
   "id": "4309055487",
   "name": "Mette Sophie",
   "public_metrics": {
-   "followers_count": 1231,
+   "followers_count": 1234,
    "following_count": 454,
    "listed_count": 95,
    "tweet_count": 4699
