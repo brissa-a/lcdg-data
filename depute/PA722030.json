@@ -469,6 +469,15 @@
   "VTANR5L15V3586": "P",
   "VTANR5L15V3587": "P",
   "VTANR5L15V3588": "P",
+  "VTANR5L15V3592": "A",
+  "VTANR5L15V3593": "P",
+  "VTANR5L15V3594": "P",
+  "VTANR5L15V3595": "P",
+  "VTANR5L15V3596": "P",
+  "VTANR5L15V3597": "P",
+  "VTANR5L15V3598": "P",
+  "VTANR5L15V3599": "P",
+  "VTANR5L15V3601": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -607,10 +616,10 @@
   "id": "90409722",
   "name": "PierreYves Bournazel",
   "public_metrics": {
-   "followers_count": 26043,
-   "following_count": 3873,
-   "listed_count": 492,
-   "tweet_count": 22098
+   "followers_count": 26051,
+   "following_count": 3875,
+   "listed_count": 491,
+   "tweet_count": 22110
   },
   "username": "pybournazel"
  },

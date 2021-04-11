@@ -553,6 +553,15 @@
   "VTANR5L15V3588": "C",
   "VTANR5L15V3589": "P",
   "VTANR5L15V3590": "P",
+  "VTANR5L15V3613": "C",
+  "VTANR5L15V3614": "C",
+  "VTANR5L15V3615": "C",
+  "VTANR5L15V3616": "C",
+  "VTANR5L15V3617": "P",
+  "VTANR5L15V3618": "C",
+  "VTANR5L15V3619": "C",
+  "VTANR5L15V3620": "P",
+  "VTANR5L15V3621": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -614,10 +623,10 @@
   "id": "372703035",
   "name": "Monique Iborra",
   "public_metrics": {
-   "followers_count": 6682,
+   "followers_count": 6685,
    "following_count": 1430,
    "listed_count": 268,
-   "tweet_count": 9568
+   "tweet_count": 9573
   },
   "username": "MoniqueIborra"
  },

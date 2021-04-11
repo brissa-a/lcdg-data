@@ -804,6 +804,13 @@
   "VTANR5L15V3572": "P",
   "VTANR5L15V3573": "C",
   "VTANR5L15V359": "P",
+  "VTANR5L15V3591": "C",
+  "VTANR5L15V3592": "C",
+  "VTANR5L15V3593": "P",
+  "VTANR5L15V3594": "C",
+  "VTANR5L15V3608": "P",
+  "VTANR5L15V3610": "P",
+  "VTANR5L15V3611": "P",
   "VTANR5L15V362": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
@@ -1064,9 +1071,9 @@
   "name": "Guillaume Vuilletet",
   "public_metrics": {
    "followers_count": 3391,
-   "following_count": 888,
-   "listed_count": 121,
-   "tweet_count": 2702
+   "following_count": 887,
+   "listed_count": 120,
+   "tweet_count": 2691
   },
   "username": "g_vuilletet"
  },

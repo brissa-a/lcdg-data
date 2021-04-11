@@ -956,7 +956,17 @@
   "VTANR5L15V3588": "C",
   "VTANR5L15V3589": "P",
   "VTANR5L15V3590": "P",
+  "VTANR5L15V3591": "C",
+  "VTANR5L15V3592": "C",
+  "VTANR5L15V3593": "P",
+  "VTANR5L15V3594": "C",
+  "VTANR5L15V3595": "C",
+  "VTANR5L15V3597": "P",
+  "VTANR5L15V3598": "P",
+  "VTANR5L15V3599": "C",
   "VTANR5L15V36": "P",
+  "VTANR5L15V3600": "C",
+  "VTANR5L15V3601": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V38": "P",
@@ -1310,7 +1320,7 @@
    "followers_count": 7019,
    "following_count": 1284,
    "listed_count": 126,
-   "tweet_count": 3128
+   "tweet_count": 3130
   },
   "username": "DemoulinEM"
  },

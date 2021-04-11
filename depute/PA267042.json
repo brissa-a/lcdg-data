@@ -519,6 +519,12 @@
   "VTANR5L15V3587": "P",
   "VTANR5L15V3588": "P",
   "VTANR5L15V3589": "P",
+  "VTANR5L15V3591": "P",
+  "VTANR5L15V3593": "P",
+  "VTANR5L15V3594": "P",
+  "VTANR5L15V3595": "A",
+  "VTANR5L15V3596": "C",
+  "VTANR5L15V3597": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -614,7 +620,7 @@
   "id": "16648630",
   "name": "Yannick FAVENNEC",
   "public_metrics": {
-   "followers_count": 8866,
+   "followers_count": 8867,
    "following_count": 1279,
    "listed_count": 464,
    "tweet_count": 8340

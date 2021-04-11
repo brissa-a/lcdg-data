@@ -373,6 +373,11 @@
   "VTANR5L15V3545": "C",
   "VTANR5L15V3546": "P",
   "VTANR5L15V3547": "C",
+  "VTANR5L15V3595": "C",
+  "VTANR5L15V3596": "P",
+  "VTANR5L15V3599": "C",
+  "VTANR5L15V3600": "C",
+  "VTANR5L15V3601": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -417,10 +422,10 @@
   "id": "865234300190564352",
   "name": "MATRAS Fabien 🇫🇷",
   "public_metrics": {
-   "followers_count": 3184,
+   "followers_count": 3188,
    "following_count": 1333,
    "listed_count": 80,
-   "tweet_count": 1877
+   "tweet_count": 1878
   },
   "username": "famatras"
  },
