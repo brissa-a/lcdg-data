@@ -870,6 +870,9 @@
   "VTANR5L15V362": "A",
   "VTANR5L15V3620": "A",
   "VTANR5L15V3621": "P",
+  "VTANR5L15V3626": "P",
+  "VTANR5L15V3627": "P",
+  "VTANR5L15V3628": "P",
   "VTANR5L15V363": "A",
   "VTANR5L15V370": "C",
   "VTANR5L15V371": "C",
@@ -993,9 +996,9 @@
   "name": "Nicolas Turquois",
   "public_metrics": {
    "followers_count": 2663,
-   "following_count": 1543,
+   "following_count": 1544,
    "listed_count": 101,
-   "tweet_count": 5825
+   "tweet_count": 5829
   },
   "username": "TurquoisNicolas"
  },

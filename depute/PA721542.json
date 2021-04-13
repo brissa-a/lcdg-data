@@ -1527,6 +1527,9 @@
   "VTANR5L15V3619": "C",
   "VTANR5L15V3620": "P",
   "VTANR5L15V3621": "P",
+  "VTANR5L15V3623": "C",
+  "VTANR5L15V3624": "P",
+  "VTANR5L15V3625": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -1797,10 +1800,10 @@
   "id": "843864760689016833",
   "name": "Marie-Christine Verdier-Jouclas",
   "public_metrics": {
-   "followers_count": 14224,
+   "followers_count": 14238,
    "following_count": 742,
-   "listed_count": 150,
-   "tweet_count": 10185
+   "listed_count": 147,
+   "tweet_count": 10189
   },
   "username": "VerdierJouclas"
  },

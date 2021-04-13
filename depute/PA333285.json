@@ -518,6 +518,9 @@
   "VTANR5L15V3571": "P",
   "VTANR5L15V358": "C",
   "VTANR5L15V359": "C",
+  "VTANR5L15V3626": "A",
+  "VTANR5L15V3627": "C",
+  "VTANR5L15V3628": "A",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "P",
   "VTANR5L15V39": "P",
@@ -637,10 +640,10 @@
   "id": "374055885",
   "name": "Guillaume GAROT",
   "public_metrics": {
-   "followers_count": 20657,
-   "following_count": 3142,
+   "followers_count": 20660,
+   "following_count": 3144,
    "listed_count": 429,
-   "tweet_count": 7065
+   "tweet_count": 7071
   },
   "username": "guillaumegarot"
  },

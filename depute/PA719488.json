@@ -514,6 +514,9 @@
   "VTANR5L15V3616": "C",
   "VTANR5L15V3617": "P",
   "VTANR5L15V362": "A",
+  "VTANR5L15V3626": "P",
+  "VTANR5L15V3627": "P",
+  "VTANR5L15V3628": "P",
   "VTANR5L15V364": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
@@ -624,10 +627,10 @@
   "id": "863333535066836993",
   "name": "Philippe Berta",
   "public_metrics": {
-   "followers_count": 5450,
-   "following_count": 1564,
-   "listed_count": 124,
-   "tweet_count": 3419
+   "followers_count": 5455,
+   "following_count": 1566,
+   "listed_count": 123,
+   "tweet_count": 3420
   },
   "username": "PBertaGard"
  },

@@ -1039,6 +1039,16 @@
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
   "VTANR5L15V36": "C",
+  "VTANR5L15V3622": "P",
+  "VTANR5L15V3623": "C",
+  "VTANR5L15V3624": "P",
+  "VTANR5L15V3625": "C",
+  "VTANR5L15V3627": "P",
+  "VTANR5L15V3628": "P",
+  "VTANR5L15V3629": "P",
+  "VTANR5L15V3630": "P",
+  "VTANR5L15V3631": "P",
+  "VTANR5L15V3632": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -1250,9 +1260,9 @@
   "id": "2968734303",
   "name": "Bertrand Bouyx",
   "public_metrics": {
-   "followers_count": 3888,
+   "followers_count": 3889,
    "following_count": 1357,
-   "listed_count": 113,
+   "listed_count": 111,
    "tweet_count": 6180
   },
   "username": "BertrandBouyx"

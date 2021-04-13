@@ -566,6 +566,7 @@
   "VTANR5L15V3570": "P",
   "VTANR5L15V3571": "C",
   "VTANR5L15V360": "P",
+  "VTANR5L15V3622": "A",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
@@ -652,7 +653,7 @@
   "public_metrics": {
    "followers_count": 9121,
    "following_count": 1321,
-   "listed_count": 270,
+   "listed_count": 269,
    "tweet_count": 4804
   },
   "username": "bretonxavier"

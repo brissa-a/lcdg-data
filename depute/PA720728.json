@@ -961,7 +961,14 @@
   "VTANR5L15V3607": "P",
   "VTANR5L15V361": "P",
   "VTANR5L15V362": "A",
+  "VTANR5L15V3626": "P",
+  "VTANR5L15V3627": "P",
+  "VTANR5L15V3628": "P",
+  "VTANR5L15V3629": "P",
   "VTANR5L15V363": "P",
+  "VTANR5L15V3630": "P",
+  "VTANR5L15V3631": "P",
+  "VTANR5L15V3632": "P",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V38": "P",
@@ -1106,7 +1113,7 @@
   "id": "985802003149402113",
   "name": "Jean-Paul Mattéi",
   "public_metrics": {
-   "followers_count": 1147,
+   "followers_count": 1149,
    "following_count": 529,
    "listed_count": 49,
    "tweet_count": 531

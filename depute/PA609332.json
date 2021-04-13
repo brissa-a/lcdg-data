@@ -444,6 +444,15 @@
   "VTANR5L15V360": "P",
   "VTANR5L15V3618": "C",
   "VTANR5L15V3619": "C",
+  "VTANR5L15V3622": "A",
+  "VTANR5L15V3623": "P",
+  "VTANR5L15V3624": "P",
+  "VTANR5L15V3625": "P",
+  "VTANR5L15V3627": "A",
+  "VTANR5L15V3628": "A",
+  "VTANR5L15V3629": "P",
+  "VTANR5L15V3631": "P",
+  "VTANR5L15V3632": "A",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "P",
@@ -528,9 +537,9 @@
   "id": "213754264",
   "name": "Olivier Faure",
   "public_metrics": {
-   "followers_count": 57731,
-   "following_count": 2478,
-   "listed_count": 680,
+   "followers_count": 57743,
+   "following_count": 2479,
+   "listed_count": 681,
    "tweet_count": 14466
   },
   "username": "faureolivier"

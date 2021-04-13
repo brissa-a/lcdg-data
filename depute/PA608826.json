@@ -426,6 +426,13 @@
   "VTANR5L15V3619": "C",
   "VTANR5L15V3620": "C",
   "VTANR5L15V3621": "C",
+  "VTANR5L15V3625": "C",
+  "VTANR5L15V3627": "P",
+  "VTANR5L15V3628": "A",
+  "VTANR5L15V3629": "P",
+  "VTANR5L15V3630": "A",
+  "VTANR5L15V3631": "C",
+  "VTANR5L15V3632": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -477,10 +484,10 @@
   "id": "531550143",
   "name": "Virginie Duby-Muller",
   "public_metrics": {
-   "followers_count": 17689,
+   "followers_count": 17705,
    "following_count": 5431,
-   "listed_count": 336,
-   "tweet_count": 9446
+   "listed_count": 337,
+   "tweet_count": 9450
   },
   "username": "DubyMuller"
  },
