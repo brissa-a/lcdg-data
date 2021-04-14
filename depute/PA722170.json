@@ -1098,6 +1098,9 @@
   "VTANR5L15V3630": "P",
   "VTANR5L15V3631": "P",
   "VTANR5L15V3632": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "A",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -1399,7 +1402,7 @@
    "followers_count": 4758,
    "following_count": 612,
    "listed_count": 103,
-   "tweet_count": 2122
+   "tweet_count": 2124
   },
   "username": "BeaudouinSo"
  },

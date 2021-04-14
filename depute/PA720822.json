@@ -312,6 +312,7 @@
   "VTANR5L15V3518": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V36": "C",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "P",
@@ -450,7 +451,7 @@
   "id": "1635233568",
   "name": "Bruno Bilde",
   "public_metrics": {
-   "followers_count": 11115,
+   "followers_count": 11118,
    "following_count": 868,
    "listed_count": 105,
    "tweet_count": 1702

@@ -574,6 +574,12 @@
   "VTANR5L15V3627": "P",
   "VTANR5L15V3628": "P",
   "VTANR5L15V363": "C",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -683,9 +689,9 @@
   "id": "1264462435",
   "name": "Stéphanie Kerbarh",
   "public_metrics": {
-   "followers_count": 6539,
-   "following_count": 1213,
-   "listed_count": 147,
+   "followers_count": 6538,
+   "following_count": 1212,
+   "listed_count": 146,
    "tweet_count": 3876
   },
   "username": "SKerbarh"

@@ -462,6 +462,11 @@
   "VTANR5L15V3628": "A",
   "VTANR5L15V3629": "P",
   "VTANR5L15V363": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "A",
+  "VTANR5L15V3636": "A",
+  "VTANR5L15V3637": "A",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "A",
   "VTANR5L15V381": "C",
@@ -548,10 +553,10 @@
   "id": "891005764097191938",
   "name": "Christophe Naegelen",
   "public_metrics": {
-   "followers_count": 1073,
+   "followers_count": 1074,
    "following_count": 362,
    "listed_count": 46,
-   "tweet_count": 464
+   "tweet_count": 465
   },
   "username": "naegelenchris"
  },

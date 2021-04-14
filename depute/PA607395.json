@@ -619,16 +619,17 @@
   "VTANR5L15V3617": "P",
   "VTANR5L15V3618": "C",
   "VTANR5L15V3619": "C",
-  "VTANR5L15V3620": "P"
+  "VTANR5L15V3620": "P",
+  "VTANR5L15V3633": "P"
  },
  "twitter": {
   "id": "382747703",
   "name": "STEPHANE TRAVERT #ProtegezVous",
   "public_metrics": {
-   "followers_count": 20223,
-   "following_count": 1797,
+   "followers_count": 20225,
+   "following_count": 1798,
    "listed_count": 463,
-   "tweet_count": 17813
+   "tweet_count": 17825
   },
   "username": "StTRAVERT"
  },

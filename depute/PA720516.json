@@ -506,16 +506,24 @@
   "VTANR5L15V3628": "P",
   "VTANR5L15V3630": "P",
   "VTANR5L15V3631": "P",
-  "VTANR5L15V3632": "P"
+  "VTANR5L15V3632": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "P",
+  "VTANR5L15V3639": "A",
+  "VTANR5L15V3640": "P"
  },
  "twitter": {
   "id": "861524040837734400",
   "name": "Florence Morlighem",
   "public_metrics": {
-   "followers_count": 1823,
-   "following_count": 1646,
+   "followers_count": 1827,
+   "following_count": 1648,
    "listed_count": 23,
-   "tweet_count": 4299
+   "tweet_count": 4304
   },
   "username": "FMorlighem"
  },

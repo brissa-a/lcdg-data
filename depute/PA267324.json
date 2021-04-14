@@ -554,6 +554,7 @@
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V360": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
@@ -612,7 +613,7 @@
   "id": "783216646299193344",
   "name": "JJ Gaultier",
   "public_metrics": {
-   "followers_count": 1536,
+   "followers_count": 1537,
    "following_count": 178,
    "listed_count": 66,
    "tweet_count": 396

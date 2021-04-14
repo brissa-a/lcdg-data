@@ -912,6 +912,7 @@
   "VTANR5L15V3615": "C",
   "VTANR5L15V3616": "C",
   "VTANR5L15V3617": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
@@ -1172,7 +1173,7 @@
   "id": "864572608674754565",
   "name": "Valérie THOMAS",
   "public_metrics": {
-   "followers_count": 2273,
+   "followers_count": 2275,
    "following_count": 824,
    "listed_count": 88,
    "tweet_count": 1558

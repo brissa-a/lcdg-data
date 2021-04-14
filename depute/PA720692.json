@@ -576,6 +576,10 @@
   "VTANR5L15V3562": "P",
   "VTANR5L15V3563": "P",
   "VTANR5L15V3564": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3638": "P",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "C",
   "VTANR5L15V389": "A",
   "VTANR5L15V4": "P",
@@ -643,10 +647,10 @@
   "id": "1324449588",
   "name": "Fabien Roussel",
   "public_metrics": {
-   "followers_count": 21134,
+   "followers_count": 21178,
    "following_count": 351,
-   "listed_count": 219,
-   "tweet_count": 4619
+   "listed_count": 220,
+   "tweet_count": 4621
   },
   "username": "Fabien_Rssl"
  },

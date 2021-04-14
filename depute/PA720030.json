@@ -679,6 +679,7 @@
   "VTANR5L15V3515": "C",
   "VTANR5L15V3518": "P",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -787,9 +788,9 @@
   "name": "Alexandre Freschi",
   "public_metrics": {
    "followers_count": 5289,
-   "following_count": 925,
+   "following_count": 926,
    "listed_count": 106,
-   "tweet_count": 2776
+   "tweet_count": 2777
   },
   "username": "AVFreschi"
  },

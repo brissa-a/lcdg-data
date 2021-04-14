@@ -621,6 +621,7 @@
   "VTANR5L15V3569": "P",
   "VTANR5L15V360": "P",
   "VTANR5L15V361": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
@@ -753,10 +754,10 @@
   "id": "2999458558",
   "name": "Fabrice Brun",
   "public_metrics": {
-   "followers_count": 2168,
-   "following_count": 319,
+   "followers_count": 2164,
+   "following_count": 318,
    "listed_count": 83,
-   "tweet_count": 1808
+   "tweet_count": 1810
   },
   "username": "FabriceBrun"
  },

@@ -359,6 +359,14 @@
   "VTANR5L15V3568": "A",
   "VTANR5L15V3569": "P",
   "VTANR5L15V360": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "C",
+  "VTANR5L15V3635": "C",
+  "VTANR5L15V3636": "C",
+  "VTANR5L15V3637": "C",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -509,7 +517,7 @@
   "id": "884660403648831488",
   "name": "NATHALIE BASSIRE",
   "public_metrics": {
-   "followers_count": 850,
+   "followers_count": 851,
    "following_count": 344,
    "listed_count": 57,
    "tweet_count": 103

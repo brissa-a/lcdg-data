@@ -547,6 +547,11 @@
   "VTANR5L15V3568": "C",
   "VTANR5L15V3571": "C",
   "VTANR5L15V36": "C",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V38": "P",
@@ -702,10 +707,10 @@
   "id": "866826365152235521",
   "name": "Alexandra Louis",
   "public_metrics": {
-   "followers_count": 7073,
+   "followers_count": 7076,
    "following_count": 1840,
    "listed_count": 123,
-   "tweet_count": 5700
+   "tweet_count": 5717
   },
   "username": "ALouisDeputee13"
  },

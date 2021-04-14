@@ -545,6 +545,14 @@
   "VTANR5L15V360": "P",
   "VTANR5L15V362": "P",
   "VTANR5L15V363": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "C",
+  "VTANR5L15V3636": "C",
+  "VTANR5L15V3637": "C",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "C",
+  "VTANR5L15V3640": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V399": "P",
@@ -641,7 +649,7 @@
   "id": "802848743045402624",
   "name": "Emmanuel Maquet",
   "public_metrics": {
-   "followers_count": 1987,
+   "followers_count": 1988,
    "following_count": 249,
    "listed_count": 64,
    "tweet_count": 223

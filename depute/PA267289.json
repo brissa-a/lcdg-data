@@ -524,6 +524,7 @@
   "VTANR5L15V3490": "C",
   "VTANR5L15V3491": "C",
   "VTANR5L15V3492": "C",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V433": "A",
   "VTANR5L15V438": "P",
@@ -578,7 +579,7 @@
   "id": "492616495",
   "name": "Jean-Pierre Door",
   "public_metrics": {
-   "followers_count": 6377,
+   "followers_count": 6376,
    "following_count": 176,
    "listed_count": 182,
    "tweet_count": 1775

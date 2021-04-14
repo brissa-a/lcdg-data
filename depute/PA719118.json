@@ -578,6 +578,7 @@
   "VTANR5L15V360": "P",
   "VTANR5L15V362": "C",
   "VTANR5L15V363": "C",
+  "VTANR5L15V3633": "C",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
@@ -642,9 +643,9 @@
   "name": "François Cormier-Bouligeon",
   "public_metrics": {
    "followers_count": 5267,
-   "following_count": 3060,
+   "following_count": 3061,
    "listed_count": 105,
-   "tweet_count": 7525
+   "tweet_count": 7528
   },
   "username": "FCBDeputeduCher"
  },

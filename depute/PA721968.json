@@ -366,6 +366,12 @@
   "VTANR5L15V3630": "A",
   "VTANR5L15V3631": "A",
   "VTANR5L15V3632": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3636": "C",
+  "VTANR5L15V3637": "C",
+  "VTANR5L15V3638": "A",
+  "VTANR5L15V3639": "C",
+  "VTANR5L15V3640": "A",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V419": "P",
@@ -420,7 +426,7 @@
   "id": "1482313339",
   "name": "Michel Vialay",
   "public_metrics": {
-   "followers_count": 1740,
+   "followers_count": 1741,
    "following_count": 230,
    "listed_count": 75,
    "tweet_count": 296

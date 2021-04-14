@@ -742,6 +742,14 @@
   "VTANR5L15V3588": "C",
   "VTANR5L15V3589": "P",
   "VTANR5L15V3590": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -828,7 +836,7 @@
   "id": "864165870213500928",
   "name": "Dominique DAVID",
   "public_metrics": {
-   "followers_count": 7356,
+   "followers_count": 7357,
    "following_count": 1493,
    "listed_count": 139,
    "tweet_count": 2330

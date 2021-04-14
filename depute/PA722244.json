@@ -668,6 +668,14 @@
   "VTANR5L15V3584": "P",
   "VTANR5L15V3585": "P",
   "VTANR5L15V3586": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
@@ -733,9 +741,9 @@
   "name": "Marie-Ange Magne",
   "public_metrics": {
    "followers_count": 3720,
-   "following_count": 625,
+   "following_count": 624,
    "listed_count": 109,
-   "tweet_count": 894
+   "tweet_count": 895
   },
   "username": "MarieAngeMagne"
  },

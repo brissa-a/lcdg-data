@@ -526,6 +526,7 @@
   "VTANR5L15V3569": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V360": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
@@ -588,7 +589,7 @@
   "id": "3906442118",
   "name": "Jean-Pierre Vigier",
   "public_metrics": {
-   "followers_count": 1953,
+   "followers_count": 1955,
    "following_count": 1078,
    "listed_count": 82,
    "tweet_count": 220

@@ -419,6 +419,7 @@
   "VTANR5L15V3518": "P",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V404": "A",
@@ -519,7 +520,7 @@
   "id": "861587157416378368",
   "name": "Sonia Krimi",
   "public_metrics": {
-   "followers_count": 12636,
+   "followers_count": 12632,
    "following_count": 1200,
    "listed_count": 147,
    "tweet_count": 2727

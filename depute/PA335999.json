@@ -492,6 +492,10 @@
   "VTANR5L15V3630": "P",
   "VTANR5L15V3631": "P",
   "VTANR5L15V3632": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "A",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3639": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V381": "P",
   "VTANR5L15V389": "P",
@@ -618,10 +622,10 @@
   "id": "263572557",
   "name": "Delphine Batho",
   "public_metrics": {
-   "followers_count": 71512,
+   "followers_count": 71513,
    "following_count": 3480,
    "listed_count": 1252,
-   "tweet_count": 9052
+   "tweet_count": 9064
   },
   "username": "delphinebatho"
  },

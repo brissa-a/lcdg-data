@@ -525,6 +525,7 @@
   "VTANR5L15V3595": "A",
   "VTANR5L15V3596": "C",
   "VTANR5L15V3597": "P",
+  "VTANR5L15V3633": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -623,7 +624,7 @@
    "followers_count": 8870,
    "following_count": 1281,
    "listed_count": 464,
-   "tweet_count": 8342
+   "tweet_count": 8343
   },
   "username": "yfavennec"
  },

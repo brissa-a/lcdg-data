@@ -901,6 +901,9 @@
   "VTANR5L15V3630": "P",
   "VTANR5L15V3631": "P",
   "VTANR5L15V3632": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -1038,9 +1041,9 @@
   "id": "863756233093894145",
   "name": "Véronique Riotton",
   "public_metrics": {
-   "followers_count": 5473,
-   "following_count": 286,
-   "listed_count": 120,
+   "followers_count": 5474,
+   "following_count": 285,
+   "listed_count": 119,
    "tweet_count": 958
   },
   "username": "V_Riotton"

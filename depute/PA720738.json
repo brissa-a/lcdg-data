@@ -1009,6 +1009,13 @@
   "VTANR5L15V3618": "C",
   "VTANR5L15V3619": "C",
   "VTANR5L15V3620": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V38": "P",
@@ -1168,10 +1175,10 @@
   "id": "2859306226",
   "name": "Thierry Michels",
   "public_metrics": {
-   "followers_count": 6566,
+   "followers_count": 6568,
    "following_count": 850,
    "listed_count": 119,
-   "tweet_count": 3740
+   "tweet_count": 3744
   },
   "username": "ThierryMichels"
  },

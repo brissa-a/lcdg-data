@@ -670,6 +670,12 @@
   "VTANR5L15V3627": "P",
   "VTANR5L15V3628": "P",
   "VTANR5L15V363": "C",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "A",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -878,7 +884,7 @@
    "followers_count": 4387,
    "following_count": 854,
    "listed_count": 131,
-   "tweet_count": 1764
+   "tweet_count": 1765
   },
   "username": "SandrineMorch"
  },

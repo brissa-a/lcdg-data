@@ -833,6 +833,7 @@
   "VTANR5L15V3570": "P",
   "VTANR5L15V3571": "C",
   "VTANR5L15V359": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V404": "P",
@@ -978,9 +979,9 @@
   "id": "865209415628140544",
   "name": "Naïma Moutchou",
   "public_metrics": {
-   "followers_count": 12922,
+   "followers_count": 12921,
    "following_count": 1114,
-   "listed_count": 147,
+   "listed_count": 146,
    "tweet_count": 1834
   },
   "username": "NaimaMoutchou"

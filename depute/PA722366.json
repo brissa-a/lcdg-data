@@ -1053,6 +1053,14 @@
   "VTANR5L15V3627": "P",
   "VTANR5L15V3628": "P",
   "VTANR5L15V3629": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -1318,9 +1326,9 @@
   "name": "Jean-Luc FUGIT",
   "public_metrics": {
    "followers_count": 5343,
-   "following_count": 3552,
-   "listed_count": 123,
-   "tweet_count": 7560
+   "following_count": 3551,
+   "listed_count": 124,
+   "tweet_count": 7568
   },
   "username": "Jean_LucFUGIT"
  },

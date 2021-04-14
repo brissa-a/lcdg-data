@@ -271,6 +271,7 @@
   "VTANR5L15V3567": "C",
   "VTANR5L15V3568": "P",
   "VTANR5L15V3571": "P",
+  "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -386,7 +387,7 @@
   "id": "224265528",
   "name": "JEAN-CLAUDE BOUCHET",
   "public_metrics": {
-   "followers_count": 1826,
+   "followers_count": 1823,
    "following_count": 156,
    "listed_count": 138,
    "tweet_count": 563

@@ -350,16 +350,24 @@
   "VTANR5L15V3618": "C",
   "VTANR5L15V3619": "C",
   "VTANR5L15V3620": "P",
-  "VTANR5L15V3621": "P"
+  "VTANR5L15V3621": "P",
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3634": "P",
+  "VTANR5L15V3635": "P",
+  "VTANR5L15V3636": "P",
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3638": "C",
+  "VTANR5L15V3639": "P",
+  "VTANR5L15V3640": "P"
  },
  "twitter": {
   "id": "1300741258122493953",
   "name": "Claire Bouchet",
   "public_metrics": {
-   "followers_count": 166,
+   "followers_count": 167,
    "following_count": 22,
    "listed_count": 9,
-   "tweet_count": 75
+   "tweet_count": 76
   },
   "username": "ClaireBouchet05"
  },
