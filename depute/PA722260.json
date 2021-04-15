@@ -412,7 +412,13 @@
   "VTANR5L15V3620": "P",
   "VTANR5L15V3621": "C",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3648": "A",
+  "VTANR5L15V3649": "A",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
+  "VTANR5L15V3653": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
@@ -527,7 +533,7 @@
    "followers_count": 97668,
    "following_count": 729,
    "listed_count": 700,
-   "tweet_count": 3625
+   "tweet_count": 3639
   },
   "username": "VillaniCedric"
  },

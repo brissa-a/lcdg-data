@@ -874,6 +874,7 @@
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3641": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -1033,7 +1034,7 @@
   "id": "887934696511991808",
   "name": "Nicole Trisse",
   "public_metrics": {
-   "followers_count": 1642,
+   "followers_count": 1644,
    "following_count": 231,
    "listed_count": 66,
    "tweet_count": 1885

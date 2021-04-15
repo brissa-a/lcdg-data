@@ -842,6 +842,12 @@
   "VTANR5L15V3637": "P",
   "VTANR5L15V3638": "A",
   "VTANR5L15V3639": "A",
+  "VTANR5L15V3644": "C",
+  "VTANR5L15V3645": "C",
+  "VTANR5L15V3646": "C",
+  "VTANR5L15V3647": "P",
+  "VTANR5L15V3648": "C",
+  "VTANR5L15V3649": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V378": "C",
@@ -1088,7 +1094,7 @@
   "id": "72581817",
   "name": "Pacôme Rupin",
   "public_metrics": {
-   "followers_count": 10983,
+   "followers_count": 10982,
    "following_count": 401,
    "listed_count": 205,
    "tweet_count": 2471

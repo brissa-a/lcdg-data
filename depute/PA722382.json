@@ -741,6 +741,9 @@
   "VTANR5L15V3637": "P",
   "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
   "VTANR5L15V380": "P",
@@ -840,7 +843,7 @@
   "id": "864077786209812480",
   "name": "Benjamin Dirx",
   "public_metrics": {
-   "followers_count": 4914,
+   "followers_count": 4917,
    "following_count": 532,
    "listed_count": 116,
    "tweet_count": 1119

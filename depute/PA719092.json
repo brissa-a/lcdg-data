@@ -602,7 +602,16 @@
   "VTANR5L15V3638": "C",
   "VTANR5L15V3639": "P",
   "VTANR5L15V3640": "P",
+  "VTANR5L15V3642": "C",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3644": "C",
+  "VTANR5L15V3646": "C",
+  "VTANR5L15V3647": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
+  "VTANR5L15V3653": "P",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
   "VTANR5L15V368": "C",
@@ -699,10 +708,10 @@
   "id": "865463897976733698",
   "name": "Frédérique Tuffnell",
   "public_metrics": {
-   "followers_count": 2616,
-   "following_count": 1167,
-   "listed_count": 92,
-   "tweet_count": 4228
+   "followers_count": 2619,
+   "following_count": 1168,
+   "listed_count": 93,
+   "tweet_count": 4237
   },
   "username": "Tuffnell17"
  },

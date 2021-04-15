@@ -556,13 +556,16 @@
   "VTANR5L15V3560": "P",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3641": "C",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3644": "A"
  },
  "twitter": {
   "id": "456917253",
   "name": "Sylvie Tolmont 🌹",
   "public_metrics": {
-   "followers_count": 2819,
+   "followers_count": 2818,
    "following_count": 1172,
    "listed_count": 152,
    "tweet_count": 10679

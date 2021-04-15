@@ -872,7 +872,16 @@
   "VTANR5L15V3619": "C",
   "VTANR5L15V3620": "P",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3641": "P",
+  "VTANR5L15V3642": "C",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3644": "C",
+  "VTANR5L15V3647": "P",
+  "VTANR5L15V3649": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "P",
+  "VTANR5L15V3651": "P",
+  "VTANR5L15V3653": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
   "VTANR5L15V368": "C",
@@ -1168,10 +1177,10 @@
   "id": "863134711715180544",
   "name": "Sandra Marsaud",
   "public_metrics": {
-   "followers_count": 5696,
+   "followers_count": 5698,
    "following_count": 470,
    "listed_count": 110,
-   "tweet_count": 1326
+   "tweet_count": 1327
   },
   "username": "MARSAUDSandra"
  },

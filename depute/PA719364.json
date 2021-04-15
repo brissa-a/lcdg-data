@@ -715,7 +715,12 @@
   "VTANR5L15V3636": "P",
   "VTANR5L15V3637": "P",
   "VTANR5L15V3640": "P",
+  "VTANR5L15V3649": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
+  "VTANR5L15V3653": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -748,7 +753,7 @@
   "id": "871841979981860868",
   "name": "Claire  O'PETIT",
   "public_metrics": {
-   "followers_count": 3312,
+   "followers_count": 3313,
    "following_count": 104,
    "listed_count": 76,
    "tweet_count": 2122

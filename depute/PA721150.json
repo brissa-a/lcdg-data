@@ -847,6 +847,9 @@
   "VTANR5L15V3637": "P",
   "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -895,10 +898,10 @@
   "id": "2863717025",
   "name": "Alexandre Holroyd",
   "public_metrics": {
-   "followers_count": 6383,
-   "following_count": 1048,
+   "followers_count": 6390,
+   "following_count": 1049,
    "listed_count": 137,
-   "tweet_count": 3756
+   "tweet_count": 3759
   },
   "username": "alexIholroyd"
  },

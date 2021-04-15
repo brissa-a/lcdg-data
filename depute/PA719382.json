@@ -211,7 +211,16 @@
   "VTANR5L15V3637": "P",
   "VTANR5L15V3638": "C",
   "VTANR5L15V3639": "P",
-  "VTANR5L15V3640": "P"
+  "VTANR5L15V3640": "P",
+  "VTANR5L15V3641": "P",
+  "VTANR5L15V3642": "C",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3644": "C",
+  "VTANR5L15V3646": "P",
+  "VTANR5L15V3647": "P",
+  "VTANR5L15V3650": "A",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C"
  },
  "twitter": {
   "id": "1354822700548509704",
@@ -220,7 +229,7 @@
    "followers_count": 107,
    "following_count": 90,
    "listed_count": 1,
-   "tweet_count": 65
+   "tweet_count": 66
   },
   "username": "LamiraultLuc"
  },

@@ -1021,7 +1021,15 @@
   "VTANR5L15V3637": "A",
   "VTANR5L15V3638": "P",
   "VTANR5L15V3639": "P",
+  "VTANR5L15V3643": "A",
+  "VTANR5L15V3644": "P",
+  "VTANR5L15V3646": "P",
+  "VTANR5L15V3647": "A",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "A",
+  "VTANR5L15V3653": "A",
   "VTANR5L15V368": "P",
   "VTANR5L15V369": "P",
   "VTANR5L15V370": "P",
@@ -1248,8 +1256,8 @@
   "public_metrics": {
    "followers_count": 3436,
    "following_count": 1101,
-   "listed_count": 176,
-   "tweet_count": 3636
+   "listed_count": 175,
+   "tweet_count": 3637
   },
   "username": "ThierryBenoit35"
  },

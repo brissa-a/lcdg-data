@@ -1273,6 +1273,7 @@
   "VTANR5L15V358": "P",
   "VTANR5L15V36": "C",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3641": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
@@ -1480,7 +1481,7 @@
   "id": "865939828550098948",
   "name": "Julien Borowczyk",
   "public_metrics": {
-   "followers_count": 2494,
+   "followers_count": 2498,
    "following_count": 227,
    "listed_count": 105,
    "tweet_count": 443

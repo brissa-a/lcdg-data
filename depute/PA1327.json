@@ -522,6 +522,7 @@
   "VTANR5L15V3484": "A",
   "VTANR5L15V351": "C",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3641": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -572,9 +573,9 @@
   "id": "3832713568",
   "name": "Nicolas Forissier",
   "public_metrics": {
-   "followers_count": 2805,
+   "followers_count": 2807,
    "following_count": 1444,
-   "listed_count": 109,
+   "listed_count": 108,
    "tweet_count": 1264
   },
   "username": "N_Forissier"

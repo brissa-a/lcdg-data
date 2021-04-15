@@ -765,6 +765,7 @@
   "VTANR5L15V3635": "A",
   "VTANR5L15V3636": "C",
   "VTANR5L15V3637": "C",
+  "VTANR5L15V3641": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V373": "P",
   "VTANR5L15V387": "A",
@@ -861,7 +862,7 @@
    "followers_count": 14615,
    "following_count": 888,
    "listed_count": 302,
-   "tweet_count": 9304
+   "tweet_count": 9308
   },
   "username": "phgosselin"
  },

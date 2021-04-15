@@ -603,6 +603,11 @@
   "VTANR5L15V3568": "P",
   "VTANR5L15V3569": "P",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3643": "C",
+  "VTANR5L15V3644": "P",
+  "VTANR5L15V3645": "P",
+  "VTANR5L15V3646": "P",
+  "VTANR5L15V3647": "C",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
   "VTANR5L15V368": "P",
@@ -736,7 +741,7 @@
    "followers_count": 2876,
    "following_count": 351,
    "listed_count": 105,
-   "tweet_count": 2613
+   "tweet_count": 2614
   },
   "username": "RSCactu"
  },

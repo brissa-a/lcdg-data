@@ -824,6 +824,7 @@
   "VTANR5L15V3638": "C",
   "VTANR5L15V3639": "C",
   "VTANR5L15V3640": "A",
+  "VTANR5L15V3641": "C",
   "VTANR5L15V365": "A",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
@@ -1125,7 +1126,7 @@
   "id": "807531084678385665",
   "name": "Emmanuelle Anthoine",
   "public_metrics": {
-   "followers_count": 1395,
+   "followers_count": 1393,
    "following_count": 422,
    "listed_count": 81,
    "tweet_count": 326

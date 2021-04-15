@@ -861,7 +861,14 @@
   "VTANR5L15V3638": "P",
   "VTANR5L15V3639": "P",
   "VTANR5L15V3640": "P",
+  "VTANR5L15V3641": "C",
+  "VTANR5L15V3642": "P",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3649": "P",
   "VTANR5L15V365": "C",
+  "VTANR5L15V3650": "A",
+  "VTANR5L15V3651": "A",
+  "VTANR5L15V3653": "A",
   "VTANR5L15V37": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "C",
@@ -1043,10 +1050,10 @@
   "id": "461022437",
   "name": "Sébastien Jumel",
   "public_metrics": {
-   "followers_count": 13986,
+   "followers_count": 13991,
    "following_count": 4240,
    "listed_count": 152,
-   "tweet_count": 5302
+   "tweet_count": 5303
   },
   "username": "sebastienjumel"
  },

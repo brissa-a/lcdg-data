@@ -442,6 +442,7 @@
   "VTANR5L15V3608": "P",
   "VTANR5L15V3609": "C",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3642": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -577,7 +578,7 @@
    "followers_count": 5768,
    "following_count": 733,
    "listed_count": 119,
-   "tweet_count": 929
+   "tweet_count": 930
   },
   "username": "AliceThourot"
  },

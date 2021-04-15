@@ -213,16 +213,29 @@
   "VTANR5L15V3637": "C",
   "VTANR5L15V3638": "A",
   "VTANR5L15V3639": "C",
-  "VTANR5L15V3640": "A"
+  "VTANR5L15V3640": "A",
+  "VTANR5L15V3641": "C",
+  "VTANR5L15V3642": "P",
+  "VTANR5L15V3643": "C",
+  "VTANR5L15V3644": "P",
+  "VTANR5L15V3645": "P",
+  "VTANR5L15V3646": "P",
+  "VTANR5L15V3647": "C",
+  "VTANR5L15V3648": "P",
+  "VTANR5L15V3649": "P",
+  "VTANR5L15V3650": "P",
+  "VTANR5L15V3651": "P",
+  "VTANR5L15V3652": "P",
+  "VTANR5L15V3653": "C"
  },
  "twitter": {
   "id": "418590420",
   "name": "Yves Baumuller",
   "public_metrics": {
-   "followers_count": 1446,
-   "following_count": 888,
+   "followers_count": 1450,
+   "following_count": 889,
    "listed_count": 28,
-   "tweet_count": 6869
+   "tweet_count": 6882
   },
   "username": "YvesBaumuller"
  },

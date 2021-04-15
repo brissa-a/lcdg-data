@@ -877,6 +877,7 @@
   "VTANR5L15V362": "C",
   "VTANR5L15V3627": "P",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3644": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V368": "C",
   "VTANR5L15V369": "C",
@@ -1079,10 +1080,10 @@
   "id": "615337066",
   "name": "Jean Baptiste Moreau",
   "public_metrics": {
-   "followers_count": 19235,
+   "followers_count": 19243,
    "following_count": 1759,
-   "listed_count": 192,
-   "tweet_count": 10781
+   "listed_count": 194,
+   "tweet_count": 10804
   },
   "username": "moreaujb23"
  },

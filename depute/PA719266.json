@@ -600,7 +600,16 @@
   "VTANR5L15V3638": "C",
   "VTANR5L15V3639": "P",
   "VTANR5L15V3640": "P",
+  "VTANR5L15V3642": "C",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3644": "C",
+  "VTANR5L15V3646": "C",
+  "VTANR5L15V3647": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
+  "VTANR5L15V3653": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V403": "P",
@@ -693,10 +702,10 @@
   "id": "912024416271392769",
   "name": "Jean-Pierre Cubertafon",
   "public_metrics": {
-   "followers_count": 1098,
+   "followers_count": 1100,
    "following_count": 273,
    "listed_count": 33,
-   "tweet_count": 1555
+   "tweet_count": 1556
   },
   "username": "dep_cubertafon"
  },

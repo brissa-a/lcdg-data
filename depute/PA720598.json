@@ -692,7 +692,16 @@
   "VTANR5L15V3636": "P",
   "VTANR5L15V3637": "P",
   "VTANR5L15V3638": "C",
+  "VTANR5L15V3641": "P",
+  "VTANR5L15V3642": "C",
+  "VTANR5L15V3643": "P",
+  "VTANR5L15V3648": "C",
+  "VTANR5L15V3649": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3650": "C",
+  "VTANR5L15V3651": "C",
+  "VTANR5L15V3652": "C",
+  "VTANR5L15V3653": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
   "VTANR5L15V368": "C",
@@ -816,8 +825,8 @@
   "public_metrics": {
    "followers_count": 2808,
    "following_count": 1802,
-   "listed_count": 95,
-   "tweet_count": 5255
+   "listed_count": 94,
+   "tweet_count": 5265
   },
   "username": "MDeprezAudebert"
  },

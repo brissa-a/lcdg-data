@@ -919,6 +919,13 @@
   "VTANR5L15V3631": "P",
   "VTANR5L15V3632": "P",
   "VTANR5L15V3633": "P",
+  "VTANR5L15V3641": "P",
+  "VTANR5L15V3642": "C",
+  "VTANR5L15V3645": "C",
+  "VTANR5L15V3646": "C",
+  "VTANR5L15V3647": "P",
+  "VTANR5L15V3648": "C",
+  "VTANR5L15V3649": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -1171,9 +1178,9 @@
   "name": "Raphaël Gérard",
   "public_metrics": {
    "followers_count": 4797,
-   "following_count": 1154,
+   "following_count": 1155,
    "listed_count": 121,
-   "tweet_count": 3359
+   "tweet_count": 3364
   },
   "username": "RaphaelGerard17"
  },
