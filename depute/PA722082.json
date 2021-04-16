@@ -257,13 +257,23 @@
   "VTANR5L15V3637": "P",
   "VTANR5L15V3638": "C",
   "VTANR5L15V3639": "P",
-  "VTANR5L15V3640": "P"
+  "VTANR5L15V3640": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3667": "C",
+  "VTANR5L15V3668": "C",
+  "VTANR5L15V3669": "C",
+  "VTANR5L15V3670": "C",
+  "VTANR5L15V3671": "C",
+  "VTANR5L15V3672": "C",
+  "VTANR5L15V3673": "P",
+  "VTANR5L15V3674": "P"
  },
  "twitter": {
   "id": "865297846786031616",
   "name": "Françoise Ballet-Blu",
   "public_metrics": {
-   "followers_count": 530,
+   "followers_count": 532,
    "following_count": 308,
    "listed_count": 14,
    "tweet_count": 158

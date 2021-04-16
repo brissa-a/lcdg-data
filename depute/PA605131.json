@@ -549,16 +549,30 @@
   "VTANR5L15V3566": "P",
   "VTANR5L15V3567": "P",
   "VTANR5L15V3568": "C",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3661": "C",
+  "VTANR5L15V3662": "P",
+  "VTANR5L15V3663": "P",
+  "VTANR5L15V3664": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3667": "C",
+  "VTANR5L15V3668": "C",
+  "VTANR5L15V3669": "C",
+  "VTANR5L15V3670": "C",
+  "VTANR5L15V3671": "C",
+  "VTANR5L15V3672": "C",
+  "VTANR5L15V3673": "P",
+  "VTANR5L15V3674": "P"
  },
  "twitter": {
   "id": "125727024",
   "name": "Christophe Castaner",
   "public_metrics": {
-   "followers_count": 359861,
+   "followers_count": 359913,
    "following_count": 2604,
-   "listed_count": 1499,
-   "tweet_count": 17329
+   "listed_count": 1497,
+   "tweet_count": 17334
   },
   "username": "CCastaner"
  },

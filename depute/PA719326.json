@@ -947,6 +947,10 @@
   "VTANR5L15V3648": "C",
   "VTANR5L15V3649": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3655": "P",
+  "VTANR5L15V3656": "P",
+  "VTANR5L15V3657": "C",
+  "VTANR5L15V3658": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -1156,7 +1160,7 @@
    "followers_count": 2733,
    "following_count": 938,
    "listed_count": 72,
-   "tweet_count": 5801
+   "tweet_count": 5808
   },
   "username": "severine_gipson"
  },

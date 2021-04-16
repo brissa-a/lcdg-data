@@ -612,16 +612,25 @@
   "VTANR5L15V3567": "C",
   "VTANR5L15V3569": "P",
   "VTANR5L15V3571": "C",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3663": "P",
+  "VTANR5L15V3664": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3667": "C",
+  "VTANR5L15V3669": "C",
+  "VTANR5L15V3672": "C",
+  "VTANR5L15V3673": "P",
+  "VTANR5L15V3674": "P"
  },
  "twitter": {
   "id": "1106588431289851905",
   "name": "Bénédicte Pételle",
   "public_metrics": {
-   "followers_count": 2450,
+   "followers_count": 2451,
    "following_count": 545,
    "listed_count": 36,
-   "tweet_count": 1880
+   "tweet_count": 1882
   },
   "username": "DeputeeBPetelle"
  },

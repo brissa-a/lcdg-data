@@ -275,16 +275,19 @@
   "VTANR5L15V3561": "P",
   "VTANR5L15V3562": "P",
   "VTANR5L15V3563": "A",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3654": "C",
+  "VTANR5L15V3655": "P",
+  "VTANR5L15V3656": "P"
  },
  "twitter": {
   "id": "2366839787",
   "name": "Sandra Boëlle",
   "public_metrics": {
-   "followers_count": 1900,
-   "following_count": 1459,
+   "followers_count": 1902,
+   "following_count": 1460,
    "listed_count": 25,
-   "tweet_count": 2504
+   "tweet_count": 2510
   },
   "username": "SBoelle"
  },

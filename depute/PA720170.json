@@ -731,6 +731,12 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3664": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3667": "A",
+  "VTANR5L15V3668": "P",
+  "VTANR5L15V3669": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
@@ -846,7 +852,7 @@
   "id": "845025344600113152",
   "name": "Carole Grandjean",
   "public_metrics": {
-   "followers_count": 5310,
+   "followers_count": 5313,
    "following_count": 914,
    "listed_count": 115,
    "tweet_count": 1803

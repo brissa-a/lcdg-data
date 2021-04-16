@@ -925,6 +925,11 @@
   "VTANR5L15V3646": "C",
   "VTANR5L15V3647": "A",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3656": "A",
+  "VTANR5L15V3658": "C",
+  "VTANR5L15V3659": "P",
+  "VTANR5L15V3660": "P",
+  "VTANR5L15V3661": "C",
   "VTANR5L15V37": "C",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
@@ -1202,10 +1207,10 @@
   "id": "315284579",
   "name": "Albane Gaillot",
   "public_metrics": {
-   "followers_count": 5619,
-   "following_count": 2386,
-   "listed_count": 263,
-   "tweet_count": 7826
+   "followers_count": 5644,
+   "following_count": 2388,
+   "listed_count": 265,
+   "tweet_count": 7844
   },
   "username": "AlbaneGaillot"
  },

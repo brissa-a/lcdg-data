@@ -858,6 +858,11 @@
   "VTANR5L15V3651": "C",
   "VTANR5L15V3652": "C",
   "VTANR5L15V3653": "P",
+  "VTANR5L15V3654": "C",
+  "VTANR5L15V3655": "P",
+  "VTANR5L15V3656": "P",
+  "VTANR5L15V3657": "C",
+  "VTANR5L15V3658": "A",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V393": "C",
@@ -989,8 +994,8 @@
   "id": "4070381506",
   "name": "Aina Kuric",
   "public_metrics": {
-   "followers_count": 4086,
-   "following_count": 890,
+   "followers_count": 4089,
+   "following_count": 892,
    "listed_count": 103,
    "tweet_count": 2292
   },

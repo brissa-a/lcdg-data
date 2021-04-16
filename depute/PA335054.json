@@ -411,6 +411,8 @@
   "VTANR5L15V36": "P",
   "VTANR5L15V3633": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3657": "P",
+  "VTANR5L15V3658": "C",
   "VTANR5L15V380": "C",
   "VTANR5L15V387": "P",
   "VTANR5L15V388": "C",
@@ -524,8 +526,8 @@
   "id": "1189104433",
   "name": "Marietta Karamanli",
   "public_metrics": {
-   "followers_count": 4004,
-   "following_count": 2757,
+   "followers_count": 4006,
+   "following_count": 2758,
    "listed_count": 122,
    "tweet_count": 4899
   },

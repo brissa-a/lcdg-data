@@ -965,6 +965,11 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3654": "C",
+  "VTANR5L15V3655": "P",
+  "VTANR5L15V3656": "P",
+  "VTANR5L15V3657": "C",
+  "VTANR5L15V3658": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
   "VTANR5L15V368": "C",
@@ -1213,7 +1218,7 @@
    "followers_count": 6823,
    "following_count": 917,
    "listed_count": 122,
-   "tweet_count": 1718
+   "tweet_count": 1720
   },
   "username": "DDaSilva95"
  },

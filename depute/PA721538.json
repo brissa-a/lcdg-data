@@ -280,16 +280,18 @@
   "VTANR5L15V3642": "C",
   "VTANR5L15V3643": "P",
   "VTANR5L15V3644": "C",
-  "VTANR5L15V3645": "C"
+  "VTANR5L15V3645": "C",
+  "VTANR5L15V3657": "C",
+  "VTANR5L15V3658": "P"
  },
  "twitter": {
   "id": "1310410140",
   "name": "Muriel RoquesEtienne",
   "public_metrics": {
-   "followers_count": 714,
-   "following_count": 636,
+   "followers_count": 719,
+   "following_count": 639,
    "listed_count": 8,
-   "tweet_count": 730
+   "tweet_count": 736
   },
   "username": "MRoquesetienne"
  },

@@ -620,6 +620,16 @@
   "VTANR5L15V3651": "P",
   "VTANR5L15V3652": "P",
   "VTANR5L15V3653": "C",
+  "VTANR5L15V3664": "A",
+  "VTANR5L15V3665": "P",
+  "VTANR5L15V3666": "A",
+  "VTANR5L15V3667": "P",
+  "VTANR5L15V3668": "P",
+  "VTANR5L15V3669": "P",
+  "VTANR5L15V3670": "P",
+  "VTANR5L15V3671": "P",
+  "VTANR5L15V3672": "P",
+  "VTANR5L15V3674": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V409": "P",
@@ -681,9 +691,9 @@
   "id": "753210819379421185",
   "name": "Jean-Marie SERMIER",
   "public_metrics": {
-   "followers_count": 2544,
+   "followers_count": 2545,
    "following_count": 197,
-   "listed_count": 86,
+   "listed_count": 85,
    "tweet_count": 351
   },
   "username": "jmsermier"

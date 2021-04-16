@@ -615,6 +615,8 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V364": "P",
   "VTANR5L15V365": "C",
+  "VTANR5L15V3659": "P",
+  "VTANR5L15V3660": "P",
   "VTANR5L15V381": "P",
   "VTANR5L15V382": "C",
   "VTANR5L15V383": "C",
@@ -772,7 +774,7 @@
   "id": "789381772190416896",
   "name": "Elsa Faucillon",
   "public_metrics": {
-   "followers_count": 21680,
+   "followers_count": 21685,
    "following_count": 1152,
    "listed_count": 185,
    "tweet_count": 2997

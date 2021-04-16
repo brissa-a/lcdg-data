@@ -760,6 +760,7 @@
   "VTANR5L15V3646": "A",
   "VTANR5L15V3647": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3659": "P",
   "VTANR5L15V380": "C",
   "VTANR5L15V385": "P",
   "VTANR5L15V386": "C",
@@ -804,7 +805,7 @@
   "name": "Régis JUANICO",
   "public_metrics": {
    "followers_count": 15777,
-   "following_count": 3841,
+   "following_count": 3842,
    "listed_count": 372,
    "tweet_count": 13105
   },

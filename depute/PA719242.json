@@ -879,6 +879,17 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V3644": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3664": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3667": "C",
+  "VTANR5L15V3668": "C",
+  "VTANR5L15V3669": "C",
+  "VTANR5L15V3670": "C",
+  "VTANR5L15V3671": "C",
+  "VTANR5L15V3672": "C",
+  "VTANR5L15V3673": "P",
+  "VTANR5L15V3674": "P",
   "VTANR5L15V368": "C",
   "VTANR5L15V369": "C",
   "VTANR5L15V370": "C",
@@ -1080,10 +1091,10 @@
   "id": "615337066",
   "name": "Jean Baptiste Moreau",
   "public_metrics": {
-   "followers_count": 19243,
-   "following_count": 1759,
-   "listed_count": 194,
-   "tweet_count": 10804
+   "followers_count": 19261,
+   "following_count": 1760,
+   "listed_count": 195,
+   "tweet_count": 10836
   },
   "username": "moreaujb23"
  },

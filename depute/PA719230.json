@@ -1210,6 +1210,14 @@
   "VTANR5L15V3639": "P",
   "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3664": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3670": "C",
+  "VTANR5L15V3671": "C",
+  "VTANR5L15V3672": "A",
+  "VTANR5L15V3673": "P",
+  "VTANR5L15V3674": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -1479,9 +1487,9 @@
   "name": "Yannick Kerlogot",
   "public_metrics": {
    "followers_count": 1730,
-   "following_count": 676,
+   "following_count": 679,
    "listed_count": 82,
-   "tweet_count": 1288
+   "tweet_count": 1289
   },
   "username": "Kerlogot22"
  },

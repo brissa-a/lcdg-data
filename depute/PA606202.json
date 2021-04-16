@@ -416,6 +416,17 @@
   "VTANR5L15V3651": "C",
   "VTANR5L15V3652": "C",
   "VTANR5L15V3653": "C",
+  "VTANR5L15V3659": "C",
+  "VTANR5L15V3660": "P",
+  "VTANR5L15V3661": "C",
+  "VTANR5L15V3662": "P",
+  "VTANR5L15V3663": "P",
+  "VTANR5L15V3664": "P",
+  "VTANR5L15V3665": "C",
+  "VTANR5L15V3666": "C",
+  "VTANR5L15V3667": "C",
+  "VTANR5L15V3668": "C",
+  "VTANR5L15V3669": "C",
   "VTANR5L15V383": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -547,9 +558,9 @@
   "name": "Françoise Dumas",
   "public_metrics": {
    "followers_count": 5797,
-   "following_count": 1247,
+   "following_count": 1248,
    "listed_count": 200,
-   "tweet_count": 9672
+   "tweet_count": 9681
   },
   "username": "fdumasdeputee"
  },

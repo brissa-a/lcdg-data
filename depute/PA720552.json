@@ -632,6 +632,9 @@
   "VTANR5L15V363": "C",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3654": "C",
+  "VTANR5L15V3655": "P",
+  "VTANR5L15V3656": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V407": "P",
@@ -765,10 +768,10 @@
   "id": "317420284",
   "name": "Isabelle Rauch",
   "public_metrics": {
-   "followers_count": 1122,
-   "following_count": 954,
+   "followers_count": 1125,
+   "following_count": 955,
    "listed_count": 52,
-   "tweet_count": 862
+   "tweet_count": 869
   },
   "username": "IsabelleRauch"
  },

@@ -535,6 +535,10 @@
   "VTANR5L15V36": "P",
   "VTANR5L15V364": "P",
   "VTANR5L15V365": "C",
+  "VTANR5L15V3655": "C",
+  "VTANR5L15V3656": "C",
+  "VTANR5L15V3657": "P",
+  "VTANR5L15V3658": "C",
   "VTANR5L15V366": "P",
   "VTANR5L15V367": "P",
   "VTANR5L15V368": "A",
@@ -694,7 +698,7 @@
   "public_metrics": {
    "followers_count": 5686,
    "following_count": 247,
-   "listed_count": 90,
+   "listed_count": 89,
    "tweet_count": 442
   },
   "username": "DeputeRatenon"
