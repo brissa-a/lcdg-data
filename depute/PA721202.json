@@ -823,6 +823,15 @@
   "VTANR5L15V365": "C",
   "VTANR5L15V3657": "P",
   "VTANR5L15V3658": "C",
+  "VTANR5L15V3675": "P",
+  "VTANR5L15V3677": "P",
+  "VTANR5L15V3679": "P",
+  "VTANR5L15V3680": "A",
+  "VTANR5L15V3681": "P",
+  "VTANR5L15V3682": "A",
+  "VTANR5L15V3683": "C",
+  "VTANR5L15V3684": "P",
+  "VTANR5L15V3685": "A",
   "VTANR5L15V37": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V382": "C",
@@ -1052,10 +1061,10 @@
   "id": "311601642",
   "name": "Eric Coquerel",
   "public_metrics": {
-   "followers_count": 69720,
+   "followers_count": 69774,
    "following_count": 2148,
-   "listed_count": 559,
-   "tweet_count": 27179
+   "listed_count": 560,
+   "tweet_count": 27180
   },
   "username": "ericcoquerel"
  },

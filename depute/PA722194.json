@@ -694,16 +694,27 @@
   "VTANR5L15V3659": "P",
   "VTANR5L15V3660": "P",
   "VTANR5L15V3661": "C",
-  "VTANR5L15V3662": "P"
+  "VTANR5L15V3662": "P",
+  "VTANR5L15V3686": "P",
+  "VTANR5L15V3687": "C",
+  "VTANR5L15V3688": "C",
+  "VTANR5L15V3689": "C",
+  "VTANR5L15V3690": "C",
+  "VTANR5L15V3691": "P",
+  "VTANR5L15V3692": "P",
+  "VTANR5L15V3693": "C",
+  "VTANR5L15V3694": "C",
+  "VTANR5L15V3695": "C",
+  "VTANR5L15V3696": "P"
  },
  "twitter": {
   "id": "870665966862163968",
   "name": "Florence Provendier",
   "public_metrics": {
-   "followers_count": 2873,
-   "following_count": 902,
+   "followers_count": 2874,
+   "following_count": 903,
    "listed_count": 51,
-   "tweet_count": 2840
+   "tweet_count": 2845
   },
   "username": "flprovendier"
  },

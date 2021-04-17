@@ -216,16 +216,40 @@
   "VTANR5L15V3670": "C",
   "VTANR5L15V3671": "C",
   "VTANR5L15V3672": "C",
-  "VTANR5L15V3673": "P"
+  "VTANR5L15V3673": "P",
+  "VTANR5L15V3679": "P",
+  "VTANR5L15V3680": "P",
+  "VTANR5L15V3681": "C",
+  "VTANR5L15V3682": "P",
+  "VTANR5L15V3683": "P",
+  "VTANR5L15V3684": "P",
+  "VTANR5L15V3685": "P",
+  "VTANR5L15V3686": "P",
+  "VTANR5L15V3687": "C",
+  "VTANR5L15V3688": "C",
+  "VTANR5L15V3689": "C",
+  "VTANR5L15V3690": "C",
+  "VTANR5L15V3693": "C",
+  "VTANR5L15V3694": "C",
+  "VTANR5L15V3697": "C",
+  "VTANR5L15V3698": "P",
+  "VTANR5L15V3700": "C",
+  "VTANR5L15V3701": "C",
+  "VTANR5L15V3702": "P",
+  "VTANR5L15V3703": "P",
+  "VTANR5L15V3704": "P",
+  "VTANR5L15V3705": "P",
+  "VTANR5L15V3708": "P",
+  "VTANR5L15V3709": "P"
  },
  "twitter": {
   "id": "71610575",
   "name": "Marie Silin",
   "public_metrics": {
-   "followers_count": 2944,
+   "followers_count": 2946,
    "following_count": 3803,
    "listed_count": 35,
-   "tweet_count": 9819
+   "tweet_count": 9825
   },
   "username": "mariesilin"
  },

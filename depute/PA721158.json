@@ -670,6 +670,16 @@
   "VTANR5L15V3665": "C",
   "VTANR5L15V3666": "C",
   "VTANR5L15V3670": "C",
+  "VTANR5L15V3687": "C",
+  "VTANR5L15V3688": "C",
+  "VTANR5L15V3689": "C",
+  "VTANR5L15V3690": "C",
+  "VTANR5L15V3691": "C",
+  "VTANR5L15V3692": "C",
+  "VTANR5L15V3693": "C",
+  "VTANR5L15V3694": "P",
+  "VTANR5L15V3695": "C",
+  "VTANR5L15V3696": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -812,10 +822,10 @@
   "id": "1255991936",
   "name": "Pieyre-Alexandre Anglade",
   "public_metrics": {
-   "followers_count": 12726,
+   "followers_count": 12749,
    "following_count": 3300,
    "listed_count": 187,
-   "tweet_count": 3882
+   "tweet_count": 3887
   },
   "username": "PA_Anglade"
  },

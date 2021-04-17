@@ -796,6 +796,14 @@
   "VTANR5L15V3658": "P",
   "VTANR5L15V366": "C",
   "VTANR5L15V367": "C",
+  "VTANR5L15V3687": "C",
+  "VTANR5L15V3688": "C",
+  "VTANR5L15V3689": "C",
+  "VTANR5L15V3690": "C",
+  "VTANR5L15V3691": "P",
+  "VTANR5L15V3692": "P",
+  "VTANR5L15V3693": "P",
+  "VTANR5L15V3694": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V383": "P",
   "VTANR5L15V387": "C",
@@ -1020,7 +1028,7 @@
   "id": "574566042",
   "name": "Liliana TANGUY",
   "public_metrics": {
-   "followers_count": 2154,
+   "followers_count": 2151,
    "following_count": 547,
    "listed_count": 117,
    "tweet_count": 2178

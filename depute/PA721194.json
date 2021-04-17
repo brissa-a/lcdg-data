@@ -629,6 +629,7 @@
   "VTANR5L15V365": "P",
   "VTANR5L15V3657": "C",
   "VTANR5L15V3658": "C",
+  "VTANR5L15V3675": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V40": "C",
   "VTANR5L15V407": "P",
@@ -758,8 +759,8 @@
   "id": "3772780954",
   "name": "Frédérique Dumas",
   "public_metrics": {
-   "followers_count": 9656,
-   "following_count": 2513,
+   "followers_count": 9654,
+   "following_count": 2511,
    "listed_count": 152,
    "tweet_count": 6240
   },
