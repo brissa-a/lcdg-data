@@ -291,16 +291,36 @@
   "VTANR5L15V3704": "P",
   "VTANR5L15V3705": "P",
   "VTANR5L15V3708": "P",
-  "VTANR5L15V3709": "P"
+  "VTANR5L15V3709": "P",
+  "VTANR5L15V3714": "P",
+  "VTANR5L15V3715": "C",
+  "VTANR5L15V3717": "C",
+  "VTANR5L15V3718": "C",
+  "VTANR5L15V3719": "P",
+  "VTANR5L15V3720": "C",
+  "VTANR5L15V3721": "C",
+  "VTANR5L15V3722": "C",
+  "VTANR5L15V3723": "C",
+  "VTANR5L15V3724": "C",
+  "VTANR5L15V3725": "C",
+  "VTANR5L15V3726": "P",
+  "VTANR5L15V3727": "P",
+  "VTANR5L15V3728": "C",
+  "VTANR5L15V3729": "C",
+  "VTANR5L15V3730": "P",
+  "VTANR5L15V3731": "C",
+  "VTANR5L15V3732": "C",
+  "VTANR5L15V3733": "P",
+  "VTANR5L15V3734": "C"
  },
  "twitter": {
   "id": "865297846786031616",
   "name": "Françoise Ballet-Blu",
   "public_metrics": {
-   "followers_count": 541,
+   "followers_count": 546,
    "following_count": 309,
-   "listed_count": 14,
-   "tweet_count": 160
+   "listed_count": 15,
+   "tweet_count": 161
   },
   "username": "fballetblu"
  },

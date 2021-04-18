@@ -529,7 +529,29 @@
   "VTANR5L15V3706": "C",
   "VTANR5L15V3707": "C",
   "VTANR5L15V3708": "C",
-  "VTANR5L15V3709": "P"
+  "VTANR5L15V3709": "P",
+  "VTANR5L15V3710": "C",
+  "VTANR5L15V3711": "C",
+  "VTANR5L15V3712": "P",
+  "VTANR5L15V3713": "P",
+  "VTANR5L15V3714": "P",
+  "VTANR5L15V3715": "C",
+  "VTANR5L15V3721": "C",
+  "VTANR5L15V3722": "C",
+  "VTANR5L15V3723": "C",
+  "VTANR5L15V3724": "C",
+  "VTANR5L15V3725": "A",
+  "VTANR5L15V3726": "A",
+  "VTANR5L15V3727": "P",
+  "VTANR5L15V3728": "C",
+  "VTANR5L15V3729": "C",
+  "VTANR5L15V3730": "P",
+  "VTANR5L15V3731": "C",
+  "VTANR5L15V3732": "C",
+  "VTANR5L15V3734": "C",
+  "VTANR5L15V3735": "A",
+  "VTANR5L15V3736": "C",
+  "VTANR5L15V3737": "C"
  },
  "twitter": {
   "id": "1169584397517017089",
@@ -537,8 +559,8 @@
   "public_metrics": {
    "followers_count": 739,
    "following_count": 193,
-   "listed_count": 23,
-   "tweet_count": 888
+   "listed_count": 24,
+   "tweet_count": 893
   },
   "username": "PierreVenteau"
  },

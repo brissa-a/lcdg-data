@@ -437,6 +437,9 @@
   "VTANR5L15V3697": "P",
   "VTANR5L15V3698": "P",
   "VTANR5L15V37": "C",
+  "VTANR5L15V3735": "P",
+  "VTANR5L15V3736": "P",
+  "VTANR5L15V3737": "A",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
@@ -547,10 +550,10 @@
   "id": "861942866989469697",
   "name": "Cédric Villani",
   "public_metrics": {
-   "followers_count": 97707,
-   "following_count": 731,
-   "listed_count": 700,
-   "tweet_count": 3662
+   "followers_count": 97719,
+   "following_count": 737,
+   "listed_count": 702,
+   "tweet_count": 3675
   },
   "username": "VillaniCedric"
  },

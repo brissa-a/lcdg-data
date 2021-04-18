@@ -873,6 +873,15 @@
   "VTANR5L15V3708": "P",
   "VTANR5L15V3709": "P",
   "VTANR5L15V371": "C",
+  "VTANR5L15V3710": "C",
+  "VTANR5L15V3711": "C",
+  "VTANR5L15V3712": "P",
+  "VTANR5L15V3713": "P",
+  "VTANR5L15V3714": "P",
+  "VTANR5L15V3715": "C",
+  "VTANR5L15V3717": "C",
+  "VTANR5L15V3718": "C",
+  "VTANR5L15V3719": "P",
   "VTANR5L15V372": "C",
   "VTANR5L15V373": "C",
   "VTANR5L15V374": "C",
@@ -1078,10 +1087,10 @@
   "id": "582220122",
   "name": "Anne Brugnera",
   "public_metrics": {
-   "followers_count": 4680,
-   "following_count": 1076,
+   "followers_count": 4681,
+   "following_count": 1078,
    "listed_count": 136,
-   "tweet_count": 3849
+   "tweet_count": 3853
   },
   "username": "AnneBrugnera"
  },

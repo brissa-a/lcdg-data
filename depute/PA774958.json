@@ -449,16 +449,40 @@
   "VTANR5L15V3704": "P",
   "VTANR5L15V3705": "A",
   "VTANR5L15V3708": "P",
-  "VTANR5L15V3709": "P"
+  "VTANR5L15V3709": "P",
+  "VTANR5L15V3710": "P",
+  "VTANR5L15V3711": "P",
+  "VTANR5L15V3712": "P",
+  "VTANR5L15V3713": "P",
+  "VTANR5L15V3714": "P",
+  "VTANR5L15V3715": "P",
+  "VTANR5L15V3716": "C",
+  "VTANR5L15V3717": "P",
+  "VTANR5L15V3718": "C",
+  "VTANR5L15V3719": "P",
+  "VTANR5L15V3723": "P",
+  "VTANR5L15V3724": "P",
+  "VTANR5L15V3725": "P",
+  "VTANR5L15V3726": "A",
+  "VTANR5L15V3728": "P",
+  "VTANR5L15V3729": "P",
+  "VTANR5L15V3730": "P",
+  "VTANR5L15V3731": "P",
+  "VTANR5L15V3732": "P",
+  "VTANR5L15V3733": "P",
+  "VTANR5L15V3734": "P",
+  "VTANR5L15V3735": "P",
+  "VTANR5L15V3736": "A",
+  "VTANR5L15V3737": "P"
  },
  "twitter": {
   "id": "369978611",
   "name": "Gérard Leseul",
   "public_metrics": {
-   "followers_count": 777,
+   "followers_count": 779,
    "following_count": 348,
    "listed_count": 9,
-   "tweet_count": 569
+   "tweet_count": 573
   },
   "username": "LeseulG"
  },
