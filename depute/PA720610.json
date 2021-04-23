@@ -1,0 +1,102 @@
+{
+ "an_data_depute": {
+  "dateNais": "1946-06-05",
+  "femme": true,
+  "ident": {
+   "alpha": "Houplain",
+   "civ": "Mme",
+   "nom": "Houplain",
+   "prenom": "Myriane",
+   "trigramme": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:nil": "true"
+   }
+  },
+  "nom": "Myriane Houplain"
+ },
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720610.jpg",
+  "nosiege": "56"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA720610",
+  "civ": "Mme",
+  "communes": [
+   "Aix-Noulette (62160)",
+   "Barlin (62620)",
+   "Beugin (62150)",
+   "Beuvry (62660)",
+   "Bouvigny-Boyeffles (62172)",
+   "Bruay-la-Buissière (62700)",
+   "Calonne-Ricouart (62470)",
+   "Camblain-Châtelain (62470)",
+   "Caucourt (62150)",
+   "Divion (62460)",
+   "Drouvin-le-Marais (62131)",
+   "Estrée-Cauchy (62690)",
+   "Fresnicourt-le-Dolmen (62150)",
+   "Gauchin-Légal (62150)",
+   "Gosnay (62199)",
+   "Gouy-Servins (62530)",
+   "Haillicourt (62940)",
+   "Hermin (62150)",
+   "Hersin-Coupigny (62530)",
+   "Hesdigneul-lès-Béthune (62196)",
+   "Houchin (62620)",
+   "Houdain (62150)",
+   "Labourse (62113)",
+   "Maisnil-lès-Ruitz (62620)",
+   "Marles-les-Mines (62540)",
+   "Noeux-les-Mines (62290)",
+   "Ourton (62460)",
+   "Rebreuve-Ranchicourt (62150)",
+   "Ruitz (62620)",
+   "Sailly-Labourse (62113)",
+   "Sains-en-Gohelle (62114)",
+   "Servins (62530)",
+   "Vaudricourt (Pas-de-Calais) (62131)"
+  ],
+  "departement": "Pas-de-calais",
+  "group": "Non inscrit",
+  "nom": "Houplain",
+  "numCirco": "10",
+  "numDepartement": "62",
+  "prenom": "Myriane"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 0,
+   "curRadiusIndex": 10,
+   "id": "ai0ri10",
+   "no": 56,
+   "polar": {
+    "angle": 0,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.9375,
+    "y": 0
+   }
+  }
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Myriane-Houplain",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720610",
+ "twitter": {
+  "id": "1278003705065897986",
+  "name": "Myriane Houplain",
+  "public_metrics": {
+   "followers_count": 270,
+   "following_count": 37,
+   "listed_count": 0,
+   "tweet_count": 6
+  },
+  "username": "myrianehouplain"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "myrianehouplain"
+ },
+ "uid": "PA720610"
+}

@@ -831,8 +831,20 @@
   "VTANR5L15V989": "A",
   "VTANR5L15V99": "P"
  },
+ "twitter": {
+  "id": "28214411",
+  "name": "Pierre-Henri Dumont",
+  "public_metrics": {
+   "followers_count": 11678,
+   "following_count": 527,
+   "listed_count": 173,
+   "tweet_count": 14828
+  },
+  "username": "phdumont"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "phdumont"
  },
  "uid": "PA720684"
 }

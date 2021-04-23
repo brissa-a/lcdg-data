@@ -43,7 +43,7 @@
   ],
   "departement": "Bouches-du-rhône",
   "group": "La République en Marche",
-  "nom": "Michel",
+  "nom": "Michel-Brassart",
   "numCirco": "16",
   "numDepartement": "13",
   "prenom": "Monica"
@@ -919,12 +919,12 @@
  },
  "twitter": {
   "id": "863317587865866241",
-  "name": "Monica Michel",
+  "name": "Monica Michel-Brassart",
   "public_metrics": {
-   "followers_count": 3146,
-   "following_count": 348,
+   "followers_count": 3150,
+   "following_count": 350,
    "listed_count": 85,
-   "tweet_count": 3336
+   "tweet_count": 3339
   },
   "username": "MonicaMichel_Of"
  },
