@@ -469,8 +469,20 @@
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "A"
  },
+ "twitter": {
+  "id": "1384491847129571335",
+  "name": "André VILLIERS",
+  "public_metrics": {
+   "followers_count": 1,
+   "following_count": 8,
+   "listed_count": 0,
+   "tweet_count": 2
+  },
+  "username": "AndreVilliers89"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "AndreVilliers89"
  },
  "uid": "PA421348"
 }

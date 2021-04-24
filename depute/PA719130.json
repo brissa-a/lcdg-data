@@ -5,11 +5,11 @@
   "ident": {
    "alpha": "Michel",
    "civ": "Mme",
-   "nom": "Michel",
+   "nom": "Michel-Brassart",
    "prenom": "Monica",
    "trigramme": "MMI"
   },
-  "nom": "Monica Michel"
+  "nom": "Monica Michel-Brassart"
  },
  "an_www_depute": {
   "groupe": "La République en Marche",
@@ -48,7 +48,6 @@
   "numDepartement": "13",
   "prenom": "Monica"
  },
- "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_monica-michel",
  "lcdg": {
   "siege": {
    "curAngleIndex": 27,
@@ -69,7 +68,7 @@
   "twitter": "MonicaMichel_Of",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719130"
  },
- "nosdeputes_link": "https://www.nosdeputes.fr/Monica-Michel",
+ "nosdeputes_link": "https://www.nosdeputes.fr/Monica-Michel-Brassart",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719130",
  "scrutins": {
   "VTANR5L15V1": "P",
@@ -917,20 +916,8 @@
   "VTANR5L15V998": "P",
   "VTANR5L15V999": "P"
  },
- "twitter": {
-  "id": "863317587865866241",
-  "name": "Monica Michel-Brassart",
-  "public_metrics": {
-   "followers_count": 3150,
-   "following_count": 350,
-   "listed_count": 85,
-   "tweet_count": 3339
-  },
-  "username": "MonicaMichel_Of"
- },
  "twitter_username": {
-  "status": "found",
-  "value": "MonicaMichel_Of"
+  "status": "notfound"
  },
  "uid": "PA719130"
 }
