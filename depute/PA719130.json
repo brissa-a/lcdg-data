@@ -48,6 +48,7 @@
   "numDepartement": "13",
   "prenom": "Monica"
  },
+ "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_monica-michelbrassart",
  "lcdg": {
   "siege": {
    "curAngleIndex": 27,
@@ -916,8 +917,20 @@
   "VTANR5L15V998": "P",
   "VTANR5L15V999": "P"
  },
+ "twitter": {
+  "id": "863317587865866241",
+  "name": "Monica Michel-Brassart",
+  "public_metrics": {
+   "followers_count": 3152,
+   "following_count": 350,
+   "listed_count": 85,
+   "tweet_count": 3340
+  },
+  "username": "MonicaMichel_Of"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "MonicaMichel_Of"
  },
  "uid": "PA719130"
 }
