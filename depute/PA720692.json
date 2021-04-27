@@ -77,7 +77,7 @@
   }
  },
  "nd_twitter": {
-  "twitter": "Fabien_Rssl",
+  "twitter": "Fabien_Roussel",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabien-Roussel",
@@ -696,16 +696,16 @@
   "id": "1324449588",
   "name": "Fabien Roussel",
   "public_metrics": {
-   "followers_count": 21564,
+   "followers_count": 21628,
    "following_count": 398,
    "listed_count": 221,
-   "tweet_count": 4663
+   "tweet_count": 4665
   },
-  "username": "Fabien_Rssl"
+  "username": "Fabien_Roussel"
  },
  "twitter_username": {
   "status": "found",
-  "value": "Fabien_Rssl"
+  "value": "Fabien_Roussel"
  },
  "uid": "PA720692"
 }
