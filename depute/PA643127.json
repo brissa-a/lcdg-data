@@ -1241,8 +1241,20 @@
   "VTANR5L15V998": "P",
   "VTANR5L15V999": "P"
  },
+ "twitter": {
+  "id": "319756723",
+  "name": "Bruno Questel 🇫🇷",
+  "public_metrics": {
+   "followers_count": 11487,
+   "following_count": 652,
+   "listed_count": 154,
+   "tweet_count": 6937
+  },
+  "username": "BQuestel"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "BQuestel"
  },
  "uid": "PA643127"
 }
