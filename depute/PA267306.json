@@ -996,8 +996,20 @@
   "VTANR5L15V974": "C",
   "VTANR5L15V982": "C"
  },
+ "twitter": {
+  "id": "532293856",
+  "name": "André Chassaigne",
+  "public_metrics": {
+   "followers_count": 14034,
+   "following_count": 1250,
+   "listed_count": 306,
+   "tweet_count": 3050
+  },
+  "username": "AndreChassaigne"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "AndreChassaigne"
  },
  "uid": "PA267306"
 }
