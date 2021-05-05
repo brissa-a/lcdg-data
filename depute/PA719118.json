@@ -604,6 +604,7 @@
   "VTANR5L15V3707": "C",
   "VTANR5L15V3708": "P",
   "VTANR5L15V3709": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
   "VTANR5L15V394": "P",
@@ -665,8 +666,8 @@
   "id": "42256235",
   "name": "François Cormier-Bouligeon",
   "public_metrics": {
-   "followers_count": 5295,
-   "following_count": 3077,
+   "followers_count": 5297,
+   "following_count": 3078,
    "listed_count": 104,
    "tweet_count": 7600
   },

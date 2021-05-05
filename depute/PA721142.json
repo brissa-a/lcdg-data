@@ -363,6 +363,7 @@
   "VTANR5L15V3691": "P",
   "VTANR5L15V3692": "P",
   "VTANR5L15V3696": "P",
+  "VTANR5L15V3738": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
@@ -447,10 +448,10 @@
   "id": "192986664",
   "name": "Paula Forteza",
   "public_metrics": {
-   "followers_count": 15314,
+   "followers_count": 15319,
    "following_count": 7970,
    "listed_count": 443,
-   "tweet_count": 8836
+   "tweet_count": 8838
   },
   "username": "PaulaForteza"
  },

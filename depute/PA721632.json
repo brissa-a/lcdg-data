@@ -798,13 +798,14 @@
   "VTANR5L15V3728": "C",
   "VTANR5L15V3729": "P",
   "VTANR5L15V3730": "P",
-  "VTANR5L15V3731": "C"
+  "VTANR5L15V3731": "C",
+  "VTANR5L15V3738": "P"
  },
  "twitter": {
   "id": "1065527514242654208",
   "name": "Patricia Lemoine",
   "public_metrics": {
-   "followers_count": 835,
+   "followers_count": 837,
    "following_count": 165,
    "listed_count": 29,
    "tweet_count": 664

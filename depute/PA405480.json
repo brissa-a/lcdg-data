@@ -394,6 +394,7 @@
   "VTANR5L15V358": "C",
   "VTANR5L15V3633": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V417": "C",
@@ -486,7 +487,7 @@
   "id": "413819531",
   "name": "François Pupponi",
   "public_metrics": {
-   "followers_count": 6204,
+   "followers_count": 6207,
    "following_count": 560,
    "listed_count": 178,
    "tweet_count": 1787

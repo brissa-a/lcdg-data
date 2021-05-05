@@ -390,6 +390,7 @@
   "VTANR5L15V360": "P",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -456,10 +457,10 @@
   "id": "360680603",
   "name": "Jean-Christophe Lagarde",
   "public_metrics": {
-   "followers_count": 121501,
+   "followers_count": 121498,
    "following_count": 2329,
    "listed_count": 544,
-   "tweet_count": 8252
+   "tweet_count": 8253
   },
   "username": "jclagarde"
  },

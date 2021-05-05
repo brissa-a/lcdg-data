@@ -436,16 +436,17 @@
   "VTANR5L15V3716": "C",
   "VTANR5L15V3717": "C",
   "VTANR5L15V3718": "C",
-  "VTANR5L15V3719": "P"
+  "VTANR5L15V3719": "P",
+  "VTANR5L15V3738": "P"
  },
  "twitter": {
   "id": "1300741258122493953",
   "name": "Claire Bouchet",
   "public_metrics": {
-   "followers_count": 183,
+   "followers_count": 185,
    "following_count": 22,
    "listed_count": 10,
-   "tweet_count": 80
+   "tweet_count": 81
   },
   "username": "ClaireBouchet05"
  },

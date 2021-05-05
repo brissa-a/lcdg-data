@@ -201,16 +201,17 @@
   "VTANR5L15V3633": "C",
   "VTANR5L15V3634": "P",
   "VTANR5L15V3635": "P",
-  "VTANR5L15V3637": "P"
+  "VTANR5L15V3637": "P",
+  "VTANR5L15V3738": "P"
  },
  "twitter": {
   "id": "865700310131630080",
   "name": "GEISMAR Luc",
   "public_metrics": {
-   "followers_count": 1425,
+   "followers_count": 1426,
    "following_count": 1125,
    "listed_count": 18,
-   "tweet_count": 691
+   "tweet_count": 692
   },
   "username": "GeismarLuc"
  },

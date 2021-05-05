@@ -422,6 +422,7 @@
   "VTANR5L15V371": "C",
   "VTANR5L15V372": "C",
   "VTANR5L15V373": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
   "VTANR5L15V376": "C",
@@ -635,10 +636,10 @@
   "id": "849566433138933760",
   "name": "Alexandra Ardisson",
   "public_metrics": {
-   "followers_count": 5202,
-   "following_count": 2876,
+   "followers_count": 5206,
+   "following_count": 2877,
    "listed_count": 100,
-   "tweet_count": 2495
+   "tweet_count": 2496
   },
   "username": "A_Ardisson"
  },

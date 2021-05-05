@@ -827,6 +827,7 @@
   "VTANR5L15V3646": "P",
   "VTANR5L15V3647": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "C",
   "VTANR5L15V378": "P",
   "VTANR5L15V379": "P",
   "VTANR5L15V386": "P",
@@ -895,7 +896,7 @@
    "followers_count": 10523,
    "following_count": 798,
    "listed_count": 261,
-   "tweet_count": 2969
+   "tweet_count": 2970
   },
   "username": "C_deCourson"
  },

@@ -472,6 +472,7 @@
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "A",
   "VTANR5L15V385": "C",
@@ -571,7 +572,7 @@
   "id": "866978105189171201",
   "name": "Typhanie Degois",
   "public_metrics": {
-   "followers_count": 2818,
+   "followers_count": 2817,
    "following_count": 1051,
    "listed_count": 108,
    "tweet_count": 645

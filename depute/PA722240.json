@@ -551,16 +551,17 @@
   "VTANR5L15V3734": "C",
   "VTANR5L15V3735": "A",
   "VTANR5L15V3736": "C",
-  "VTANR5L15V3737": "C"
+  "VTANR5L15V3737": "C",
+  "VTANR5L15V3738": "P"
  },
  "twitter": {
   "id": "1169584397517017089",
   "name": "Pierre Venteau",
   "public_metrics": {
-   "followers_count": 753,
+   "followers_count": 752,
    "following_count": 196,
    "listed_count": 24,
-   "tweet_count": 957
+   "tweet_count": 965
   },
   "username": "PierreVenteau"
  },

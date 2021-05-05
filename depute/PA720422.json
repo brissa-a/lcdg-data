@@ -603,6 +603,7 @@
   "VTANR5L15V3688": "P",
   "VTANR5L15V3689": "P",
   "VTANR5L15V3690": "P",
+  "VTANR5L15V3738": "C",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "P",
@@ -732,10 +733,10 @@
   "id": "3023497329",
   "name": "Adrien Quatennens",
   "public_metrics": {
-   "followers_count": 112226,
+   "followers_count": 112319,
    "following_count": 1172,
-   "listed_count": 623,
-   "tweet_count": 33665
+   "listed_count": 626,
+   "tweet_count": 33672
   },
   "username": "AQuatennens"
  },

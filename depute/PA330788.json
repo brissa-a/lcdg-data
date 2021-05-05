@@ -250,6 +250,7 @@
   "VTANR5L15V3571": "C",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -270,7 +271,7 @@
   "id": "76662684",
   "name": "reynes bernard",
   "public_metrics": {
-   "followers_count": 8482,
+   "followers_count": 7827,
    "following_count": 1351,
    "listed_count": 186,
    "tweet_count": 2276

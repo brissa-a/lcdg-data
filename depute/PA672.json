@@ -1149,6 +1149,7 @@
   "VTANR5L15V3733": "P",
   "VTANR5L15V3734": "C",
   "VTANR5L15V3735": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -1434,7 +1435,7 @@
   "id": "3887630259",
   "name": "Jean-Jacques Bridey",
   "public_metrics": {
-   "followers_count": 4310,
+   "followers_count": 4311,
    "following_count": 1234,
    "listed_count": 149,
    "tweet_count": 3531

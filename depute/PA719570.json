@@ -845,6 +845,7 @@
   "VTANR5L15V3652": "C",
   "VTANR5L15V3653": "P",
   "VTANR5L15V37": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V38": "P",
@@ -979,7 +980,7 @@
   "id": "121106417",
   "name": "Catherine Fabre",
   "public_metrics": {
-   "followers_count": 8903,
+   "followers_count": 8904,
    "following_count": 1283,
    "listed_count": 155,
    "tweet_count": 3876

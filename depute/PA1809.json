@@ -528,6 +528,7 @@
   "VTANR5L15V359": "C",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -556,7 +557,7 @@
   "id": "449861621",
   "name": "jerome Lambert",
   "public_metrics": {
-   "followers_count": 1520,
+   "followers_count": 1521,
    "following_count": 50,
    "listed_count": 93,
    "tweet_count": 1036

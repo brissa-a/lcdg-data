@@ -930,6 +930,7 @@
   "VTANR5L15V3693": "C",
   "VTANR5L15V3694": "P",
   "VTANR5L15V3695": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
@@ -1086,7 +1087,7 @@
    "followers_count": 1947,
    "following_count": 1164,
    "listed_count": 46,
-   "tweet_count": 1628
+   "tweet_count": 1630
   },
   "username": "stephane_teste"
  },

@@ -401,6 +401,7 @@
   "VTANR5L15V369": "P",
   "VTANR5L15V370": "P",
   "VTANR5L15V371": "P",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -463,7 +464,7 @@
   "id": "2769842216",
   "name": "Martial SADDIER",
   "public_metrics": {
-   "followers_count": 4040,
+   "followers_count": 4044,
    "following_count": 988,
    "listed_count": 162,
    "tweet_count": 6547

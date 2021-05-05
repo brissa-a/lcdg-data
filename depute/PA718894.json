@@ -724,6 +724,7 @@
   "VTANR5L15V3701": "C",
   "VTANR5L15V3702": "P",
   "VTANR5L15V3703": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
@@ -861,7 +862,7 @@
   "id": "52779939",
   "name": "Loïc Dombreval 🐾",
   "public_metrics": {
-   "followers_count": 12581,
+   "followers_count": 12596,
    "following_count": 847,
    "listed_count": 178,
    "tweet_count": 3440

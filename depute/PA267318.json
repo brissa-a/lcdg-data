@@ -492,6 +492,7 @@
   "VTANR5L15V3484": "C",
   "VTANR5L15V358": "C",
   "VTANR5L15V365": "A",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
@@ -512,7 +513,7 @@
   "id": "905713485329391616",
   "name": "Jean-Carles Grelier",
   "public_metrics": {
-   "followers_count": 1280,
+   "followers_count": 1279,
    "following_count": 392,
    "listed_count": 43,
    "tweet_count": 292

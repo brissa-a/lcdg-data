@@ -469,6 +469,7 @@
   "VTANR5L15V3624": "P",
   "VTANR5L15V3633": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V401": "C",
@@ -564,10 +565,10 @@
   "id": "845978405917069312",
   "name": "Pascale Fontenel-Personne",
   "public_metrics": {
-   "followers_count": 4374,
-   "following_count": 1014,
+   "followers_count": 4378,
+   "following_count": 1015,
    "listed_count": 79,
-   "tweet_count": 4664
+   "tweet_count": 4668
   },
   "username": "f_personne"
  },

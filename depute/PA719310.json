@@ -1037,6 +1037,7 @@
   "VTANR5L15V3725": "C",
   "VTANR5L15V3726": "P",
   "VTANR5L15V3727": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -1259,10 +1260,10 @@
   "id": "866946801726877697",
   "name": "Célia de Lavergne",
   "public_metrics": {
-   "followers_count": 11817,
+   "followers_count": 11819,
    "following_count": 757,
    "listed_count": 157,
-   "tweet_count": 2413
+   "tweet_count": 2415
   },
   "username": "CdLavergne"
  },

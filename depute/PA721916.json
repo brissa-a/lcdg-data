@@ -1000,6 +1000,7 @@
   "VTANR5L15V370": "C",
   "VTANR5L15V371": "C",
   "VTANR5L15V373": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V38": "P",
@@ -1157,10 +1158,10 @@
   "id": "864116167841116160",
   "name": "Natalia Pouzyreff",
   "public_metrics": {
-   "followers_count": 7649,
-   "following_count": 1859,
+   "followers_count": 7656,
+   "following_count": 1863,
    "listed_count": 122,
-   "tweet_count": 7222
+   "tweet_count": 7227
   },
   "username": "npouzyreff78"
  },

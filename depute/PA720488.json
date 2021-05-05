@@ -226,7 +226,8 @@
   "VTANR5L15V3509": "P",
   "VTANR5L15V3510": "C",
   "VTANR5L15V3571": "C",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3738": "P"
  },
  "twitter": {
   "id": "902470987765211137",
@@ -235,7 +236,7 @@
    "followers_count": 870,
    "following_count": 729,
    "listed_count": 21,
-   "tweet_count": 936
+   "tweet_count": 937
   },
   "username": "six_valerie"
  },

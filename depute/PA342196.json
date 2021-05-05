@@ -277,16 +277,17 @@
   "VTANR5L15V3569": "P",
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3738": "C"
  },
  "twitter": {
   "id": "4103047462",
   "name": "Claudia Rouaux",
   "public_metrics": {
-   "followers_count": 917,
-   "following_count": 620,
+   "followers_count": 921,
+   "following_count": 621,
    "listed_count": 23,
-   "tweet_count": 694
+   "tweet_count": 695
   },
   "username": "claudia_rouaux"
  },

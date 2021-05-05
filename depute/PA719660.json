@@ -630,6 +630,7 @@
   "VTANR5L15V3652": "C",
   "VTANR5L15V3653": "P",
   "VTANR5L15V37": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -993,7 +994,7 @@
   "id": "846977443571388420",
   "name": "Christelle Dubos",
   "public_metrics": {
-   "followers_count": 22317,
+   "followers_count": 22312,
    "following_count": 881,
    "listed_count": 244,
    "tweet_count": 2634

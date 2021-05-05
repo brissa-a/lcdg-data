@@ -757,6 +757,7 @@
   "VTANR5L15V3656": "P",
   "VTANR5L15V3657": "C",
   "VTANR5L15V3658": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -878,10 +879,10 @@
   "id": "865558964976603139",
   "name": "Cédric ROUSSEL",
   "public_metrics": {
-   "followers_count": 5111,
+   "followers_count": 5113,
    "following_count": 924,
    "listed_count": 124,
-   "tweet_count": 3151
+   "tweet_count": 3152
   },
   "username": "CedricRoussel06"
  },

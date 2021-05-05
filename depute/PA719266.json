@@ -657,6 +657,7 @@
   "VTANR5L15V3707": "C",
   "VTANR5L15V3708": "C",
   "VTANR5L15V3709": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V403": "P",
@@ -749,7 +750,7 @@
   "id": "912024416271392769",
   "name": "Jean-Pierre Cubertafon",
   "public_metrics": {
-   "followers_count": 1110,
+   "followers_count": 1113,
    "following_count": 273,
    "listed_count": 35,
    "tweet_count": 1559

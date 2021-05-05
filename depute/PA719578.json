@@ -721,6 +721,7 @@
   "VTANR5L15V3732": "P",
   "VTANR5L15V3733": "P",
   "VTANR5L15V3734": "P",
+  "VTANR5L15V3738": "C",
   "VTANR5L15V374": "P",
   "VTANR5L15V375": "P",
   "VTANR5L15V376": "P",
@@ -935,10 +936,10 @@
   "id": "864595354578300928",
   "name": "Loïc Prud'homme",
   "public_metrics": {
-   "followers_count": 25964,
+   "followers_count": 26017,
    "following_count": 925,
    "listed_count": 221,
-   "tweet_count": 6546
+   "tweet_count": 6551
   },
   "username": "PrudhommeLoic"
  },

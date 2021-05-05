@@ -1012,6 +1012,7 @@
   "VTANR5L15V371": "P",
   "VTANR5L15V372": "P",
   "VTANR5L15V373": "P",
+  "VTANR5L15V3738": "C",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "P",
   "VTANR5L15V385": "P",
@@ -1200,7 +1201,7 @@
   "id": "2541430148",
   "name": "Jean-Paul Dufrègne",
   "public_metrics": {
-   "followers_count": 2081,
+   "followers_count": 2084,
    "following_count": 455,
    "listed_count": 85,
    "tweet_count": 1062

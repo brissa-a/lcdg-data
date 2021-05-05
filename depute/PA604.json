@@ -189,16 +189,17 @@
   "VTANR5L15V3432": "P",
   "VTANR5L15V3454": "P",
   "VTANR5L15V3484": "A",
-  "VTANR5L15V3633": "P"
+  "VTANR5L15V3633": "P",
+  "VTANR5L15V3738": "A"
  },
  "twitter": {
   "id": "867343466057129985",
   "name": "BOULEY BERNARD",
   "public_metrics": {
-   "followers_count": 84,
+   "followers_count": 85,
    "following_count": 42,
    "listed_count": 5,
-   "tweet_count": 63
+   "tweet_count": 64
   },
   "username": "BouleyBernard"
  },

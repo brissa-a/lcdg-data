@@ -253,6 +253,7 @@
   "VTANR5L15V3518": "P",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V414": "P",
@@ -308,7 +309,7 @@
   "public_metrics": {
    "followers_count": 1287,
    "following_count": 13,
-   "listed_count": 69,
+   "listed_count": 70,
    "tweet_count": 2038
   },
   "username": "MaxMathiasin"

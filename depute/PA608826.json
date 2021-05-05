@@ -442,6 +442,7 @@
   "VTANR5L15V3639": "C",
   "VTANR5L15V3640": "C",
   "VTANR5L15V365": "A",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "C",
@@ -492,8 +493,8 @@
   "id": "531550143",
   "name": "Virginie Duby-Muller",
   "public_metrics": {
-   "followers_count": 17773,
-   "following_count": 5427,
+   "followers_count": 17781,
+   "following_count": 5428,
    "listed_count": 336,
    "tweet_count": 9473
   },

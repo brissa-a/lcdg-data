@@ -502,6 +502,7 @@
   "VTANR5L15V3692": "C",
   "VTANR5L15V3693": "C",
   "VTANR5L15V3694": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -590,9 +591,9 @@
   "id": "881887452591517698",
   "name": "Justine Benin",
   "public_metrics": {
-   "followers_count": 1612,
+   "followers_count": 1614,
    "following_count": 1287,
-   "listed_count": 54,
+   "listed_count": 55,
    "tweet_count": 489
   },
   "username": "Justine_BENIN"

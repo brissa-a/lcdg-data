@@ -622,6 +622,7 @@
   "VTANR5L15V371": "C",
   "VTANR5L15V372": "C",
   "VTANR5L15V373": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -762,7 +763,7 @@
    "followers_count": 8072,
    "following_count": 4743,
    "listed_count": 204,
-   "tweet_count": 9560
+   "tweet_count": 9561
   },
   "username": "al_petel"
  },

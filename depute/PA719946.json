@@ -271,6 +271,7 @@
   "VTANR5L15V360": "P",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -312,9 +313,9 @@
   "id": "239867102",
   "name": "Guillaume Peltier",
   "public_metrics": {
-   "followers_count": 44579,
+   "followers_count": 44590,
    "following_count": 2073,
-   "listed_count": 581,
+   "listed_count": 582,
    "tweet_count": 8205
   },
   "username": "G_Peltier"

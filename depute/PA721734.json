@@ -799,6 +799,7 @@
   "VTANR5L15V3633": "C",
   "VTANR5L15V3644": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -919,9 +920,9 @@
   "name": "Ph.Michel-Kleisbauer",
   "public_metrics": {
    "followers_count": 4362,
-   "following_count": 1266,
+   "following_count": 1267,
    "listed_count": 113,
-   "tweet_count": 5174
+   "tweet_count": 5175
   },
   "username": "PhilippeMichelK"
  },

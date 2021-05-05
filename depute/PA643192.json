@@ -411,16 +411,17 @@
   "VTANR5L15V3704": "P",
   "VTANR5L15V3706": "C",
   "VTANR5L15V3708": "P",
-  "VTANR5L15V3709": "P"
+  "VTANR5L15V3709": "P",
+  "VTANR5L15V3738": "C"
  },
  "twitter": {
   "id": "1318495091280039936",
   "name": "Chantal JOURDAN",
   "public_metrics": {
-   "followers_count": 203,
+   "followers_count": 205,
    "following_count": 63,
    "listed_count": 6,
-   "tweet_count": 59
+   "tweet_count": 61
   },
   "username": "ChantalJourdan"
  },

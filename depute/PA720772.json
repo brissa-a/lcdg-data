@@ -501,6 +501,7 @@
   "VTANR5L15V371": "C",
   "VTANR5L15V372": "C",
   "VTANR5L15V373": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
   "VTANR5L15V376": "C",
@@ -618,7 +619,7 @@
   "id": "866255052104769538",
   "name": "Vincent Bru",
   "public_metrics": {
-   "followers_count": 2925,
+   "followers_count": 2926,
    "following_count": 492,
    "listed_count": 90,
    "tweet_count": 2014

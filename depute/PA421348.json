@@ -444,6 +444,7 @@
   "VTANR5L15V3508": "P",
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "A",
   "VTANR5L15V408": "P",
@@ -476,7 +477,7 @@
    "followers_count": 1,
    "following_count": 8,
    "listed_count": 0,
-   "tweet_count": 3
+   "tweet_count": 4
   },
   "username": "AndreVilliers89"
  },

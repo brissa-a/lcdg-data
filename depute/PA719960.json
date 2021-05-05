@@ -814,6 +814,7 @@
   "VTANR5L15V3650": "C",
   "VTANR5L15V3651": "C",
   "VTANR5L15V3652": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -878,7 +879,7 @@
    "followers_count": 3608,
    "following_count": 1464,
    "listed_count": 97,
-   "tweet_count": 1834
+   "tweet_count": 1835
   },
   "username": "V_Faure_Muntian"
  },

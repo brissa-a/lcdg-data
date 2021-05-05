@@ -636,6 +636,7 @@
   "VTANR5L15V3707": "P",
   "VTANR5L15V3708": "P",
   "VTANR5L15V3709": "C",
+  "VTANR5L15V3738": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -682,10 +683,10 @@
   "id": "436780101",
   "name": "Bertrand Pancher",
   "public_metrics": {
-   "followers_count": 7771,
+   "followers_count": 7774,
    "following_count": 2706,
    "listed_count": 249,
-   "tweet_count": 8009
+   "tweet_count": 8012
   },
   "username": "BertrandPancher"
  },

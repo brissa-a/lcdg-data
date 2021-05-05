@@ -328,6 +328,7 @@
   "VTANR5L15V3518": "P",
   "VTANR5L15V3633": "C",
   "VTANR5L15V365": "P",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V381": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V40": "C",
@@ -523,7 +524,7 @@
   "id": "863039952401170433",
   "name": "Richard Ramos",
   "public_metrics": {
-   "followers_count": 2671,
+   "followers_count": 2670,
    "following_count": 1565,
    "listed_count": 54,
    "tweet_count": 681

@@ -631,6 +631,7 @@
   "VTANR5L15V371": "C",
   "VTANR5L15V372": "C",
   "VTANR5L15V373": "C",
+  "VTANR5L15V3738": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V380": "P",
@@ -769,10 +770,10 @@
   "id": "793725741355630592",
   "name": "Denis Masséglia",
   "public_metrics": {
-   "followers_count": 6981,
-   "following_count": 1116,
+   "followers_count": 6988,
+   "following_count": 1117,
    "listed_count": 138,
-   "tweet_count": 3921
+   "tweet_count": 3927
   },
   "username": "denis_Masseglia"
  },
