@@ -525,6 +525,7 @@
   "VTANR5L15V373": "C",
   "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
+  "VTANR5L15V3745": "C",
   "VTANR5L15V375": "C",
   "VTANR5L15V376": "C",
   "VTANR5L15V377": "C",
@@ -680,7 +681,7 @@
    "followers_count": 2381,
    "following_count": 832,
    "listed_count": 77,
-   "tweet_count": 2028
+   "tweet_count": 2029
   },
   "username": "elodiejala"
  },

@@ -776,6 +776,13 @@
   "VTANR5L15V3658": "A",
   "VTANR5L15V37": "N",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3739": "C",
+  "VTANR5L15V3740": "P",
+  "VTANR5L15V3741": "P",
+  "VTANR5L15V3742": "C",
+  "VTANR5L15V3743": "C",
+  "VTANR5L15V3744": "C",
+  "VTANR5L15V3749": "C",
   "VTANR5L15V38": "N",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -968,19 +975,19 @@
   "VTANR5L15V986": "C"
  },
  "twitter": {
-  "id": "1105911762359066625",
-  "name": "Sacha Houlié Actu",
+  "id": "308514268",
+  "name": "Sacha Houlié",
   "public_metrics": {
-   "followers_count": 231,
-   "following_count": 41,
-   "listed_count": 2,
-   "tweet_count": 719
+   "followers_count": 30289,
+   "following_count": 1545,
+   "listed_count": 305,
+   "tweet_count": 9575
   },
-  "username": "SachaHoulieActu"
+  "username": "SachaHoulie"
  },
  "twitter_username": {
   "status": "found",
-  "value": "SachaHoulieActu"
+  "value": "SachaHoulie"
  },
  "uid": "PA722150"
 }

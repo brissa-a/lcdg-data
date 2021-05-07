@@ -607,6 +607,15 @@
   "VTANR5L15V371": "C",
   "VTANR5L15V372": "C",
   "VTANR5L15V373": "C",
+  "VTANR5L15V3740": "P",
+  "VTANR5L15V3741": "P",
+  "VTANR5L15V3742": "C",
+  "VTANR5L15V3743": "C",
+  "VTANR5L15V3744": "C",
+  "VTANR5L15V3746": "C",
+  "VTANR5L15V3747": "C",
+  "VTANR5L15V3748": "P",
+  "VTANR5L15V3749": "C",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V380": "P",
@@ -744,10 +753,10 @@
   "id": "888033440393822208",
   "name": "Valérie Gomez-Bassac",
   "public_metrics": {
-   "followers_count": 3928,
+   "followers_count": 3929,
    "following_count": 2103,
    "listed_count": 96,
-   "tweet_count": 3948
+   "tweet_count": 3950
   },
   "username": "VGB83"
  },

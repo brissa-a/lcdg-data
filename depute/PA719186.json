@@ -1005,6 +1005,12 @@
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3739": "C",
+  "VTANR5L15V3740": "P",
+  "VTANR5L15V3741": "P",
+  "VTANR5L15V3742": "C",
+  "VTANR5L15V3743": "C",
+  "VTANR5L15V3744": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1213,7 +1219,7 @@
    "followers_count": 3566,
    "following_count": 1506,
    "listed_count": 144,
-   "tweet_count": 7616
+   "tweet_count": 7617
   },
   "username": "KhattabiF"
  },

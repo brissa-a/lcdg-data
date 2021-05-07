@@ -574,6 +574,7 @@
   "VTANR5L15V3697": "P",
   "VTANR5L15V3698": "P",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3739": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V414": "C",
@@ -699,10 +700,10 @@
   "id": "486927132",
   "name": "Ian Boucard",
   "public_metrics": {
-   "followers_count": 4251,
+   "followers_count": 4248,
    "following_count": 817,
-   "listed_count": 104,
-   "tweet_count": 1950
+   "listed_count": 103,
+   "tweet_count": 1951
   },
   "username": "IanBoucard"
  },

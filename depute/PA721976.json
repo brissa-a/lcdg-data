@@ -1129,6 +1129,11 @@
   "VTANR5L15V3728": "C",
   "VTANR5L15V3730": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3745": "C",
+  "VTANR5L15V3746": "C",
+  "VTANR5L15V3747": "C",
+  "VTANR5L15V3748": "P",
+  "VTANR5L15V3749": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -1377,7 +1382,7 @@
    "followers_count": 5819,
    "following_count": 1981,
    "listed_count": 149,
-   "tweet_count": 11374
+   "tweet_count": 11387
   },
   "username": "BrunoMillienne"
  },

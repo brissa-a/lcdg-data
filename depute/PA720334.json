@@ -834,6 +834,10 @@
   "VTANR5L15V3735": "P",
   "VTANR5L15V3737": "C",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3740": "P",
+  "VTANR5L15V3741": "P",
+  "VTANR5L15V3742": "C",
+  "VTANR5L15V3745": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V400": "P",
@@ -998,10 +1002,10 @@
   "id": "244026421",
   "name": "Jimmy Pahun",
   "public_metrics": {
-   "followers_count": 2918,
+   "followers_count": 2919,
    "following_count": 487,
-   "listed_count": 88,
-   "tweet_count": 1040
+   "listed_count": 89,
+   "tweet_count": 1043
   },
   "username": "JimmyPahun"
  },

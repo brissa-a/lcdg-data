@@ -791,6 +791,9 @@
   "VTANR5L15V3673": "P",
   "VTANR5L15V3674": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3740": "P",
+  "VTANR5L15V3741": "P",
+  "VTANR5L15V3749": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -897,9 +900,9 @@
   "name": "Fabien Gouttefarde",
   "public_metrics": {
    "followers_count": 5619,
-   "following_count": 1050,
+   "following_count": 1053,
    "listed_count": 106,
-   "tweet_count": 7054
+   "tweet_count": 7061
   },
   "username": "FGouttefarde"
  },

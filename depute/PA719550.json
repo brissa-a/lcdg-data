@@ -805,6 +805,7 @@
   "VTANR5L15V3693": "P",
   "VTANR5L15V3694": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3749": "C",
   "VTANR5L15V381": "C",
   "VTANR5L15V383": "P",
   "VTANR5L15V387": "C",
@@ -1030,9 +1031,9 @@
   "name": "Liliana TANGUY",
   "public_metrics": {
    "followers_count": 2165,
-   "following_count": 552,
+   "following_count": 554,
    "listed_count": 117,
-   "tweet_count": 2208
+   "tweet_count": 2209
   },
   "username": "LilianeTanguyAN"
  },

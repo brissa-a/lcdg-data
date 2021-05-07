@@ -690,6 +690,8 @@
   "VTANR5L15V3736": "C",
   "VTANR5L15V3737": "C",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3748": "P",
+  "VTANR5L15V3749": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V389": "P",
@@ -893,10 +895,10 @@
   "id": "828000112215355393",
   "name": "Roland Lescure",
   "public_metrics": {
-   "followers_count": 21303,
-   "following_count": 4000,
+   "followers_count": 21339,
+   "following_count": 4004,
    "listed_count": 245,
-   "tweet_count": 7864
+   "tweet_count": 7875
   },
   "username": "RolandLescure"
  },

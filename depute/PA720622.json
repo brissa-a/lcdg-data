@@ -961,6 +961,14 @@
   "VTANR5L15V3657": "C",
   "VTANR5L15V3658": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3739": "C",
+  "VTANR5L15V3740": "P",
+  "VTANR5L15V3741": "P",
+  "VTANR5L15V3742": "C",
+  "VTANR5L15V3743": "C",
+  "VTANR5L15V3744": "C",
+  "VTANR5L15V3746": "C",
+  "VTANR5L15V3747": "C",
   "VTANR5L15V380": "N",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -1211,7 +1219,7 @@
   "id": "863846061202341890",
   "name": "Carole BureauBonnard",
   "public_metrics": {
-   "followers_count": 4576,
+   "followers_count": 4573,
    "following_count": 1391,
    "listed_count": 95,
    "tweet_count": 3818
