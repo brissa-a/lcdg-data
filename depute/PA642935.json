@@ -423,6 +423,12 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "A",
+  "VTANR5L15V3753": "A",
+  "VTANR5L15V3754": "C",
+  "VTANR5L15V3755": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -482,8 +488,8 @@
   "public_metrics": {
    "followers_count": 1941,
    "following_count": 89,
-   "listed_count": 49,
-   "tweet_count": 372
+   "listed_count": 50,
+   "tweet_count": 374
   },
   "username": "becht_olivier"
  },

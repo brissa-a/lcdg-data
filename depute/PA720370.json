@@ -452,6 +452,7 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V3748": "P",
   "VTANR5L15V3749": "C",
+  "VTANR5L15V3750": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
@@ -571,7 +572,7 @@
    "followers_count": 4678,
    "following_count": 2744,
    "listed_count": 166,
-   "tweet_count": 4995
+   "tweet_count": 5001
   },
   "username": "ludovicMDS"
  },

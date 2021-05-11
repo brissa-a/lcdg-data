@@ -709,6 +709,11 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "C",
   "VTANR5L15V376": "C",
   "VTANR5L15V377": "C",
   "VTANR5L15V380": "P",
@@ -995,10 +1000,10 @@
   "id": "448808766",
   "name": "Richard Lioger",
   "public_metrics": {
-   "followers_count": 3331,
-   "following_count": 1555,
+   "followers_count": 3332,
+   "following_count": 1556,
    "listed_count": 124,
-   "tweet_count": 2430
+   "tweet_count": 2432
   },
   "username": "RichardLioger"
  },

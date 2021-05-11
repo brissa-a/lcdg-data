@@ -871,6 +871,12 @@
   "VTANR5L15V3736": "C",
   "VTANR5L15V3737": "C",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "P",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "C",
+  "VTANR5L15V3755": "A",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -1013,7 +1019,7 @@
   "id": "866081129048223746",
   "name": "Charlotte Parmentier Lecocq",
   "public_metrics": {
-   "followers_count": 5503,
+   "followers_count": 5504,
    "following_count": 695,
    "listed_count": 117,
    "tweet_count": 2768

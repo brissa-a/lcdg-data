@@ -643,6 +643,11 @@
   "VTANR5L15V3696": "P",
   "VTANR5L15V3738": "P",
   "VTANR5L15V3739": "C",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V400": "P",
   "VTANR5L15V407": "P",
@@ -693,7 +698,7 @@
   "id": "920876347",
   "name": "Hervé Pellois",
   "public_metrics": {
-   "followers_count": 3042,
+   "followers_count": 3043,
    "following_count": 860,
    "listed_count": 154,
    "tweet_count": 2150

@@ -83,13 +83,19 @@
  "nosdeputes_link": "https://www.nosdeputes.fr/Myriane-Houplain",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720610",
  "scrutins": {
-  "VTANR5L15V3738": "A"
+  "VTANR5L15V3738": "A",
+  "VTANR5L15V3750": "P",
+  "VTANR5L15V3751": "P",
+  "VTANR5L15V3752": "A",
+  "VTANR5L15V3753": "P",
+  "VTANR5L15V3754": "P",
+  "VTANR5L15V3755": "A"
  },
  "twitter": {
   "id": "1278003705065897986",
   "name": "Myriane Houplain",
   "public_metrics": {
-   "followers_count": 326,
+   "followers_count": 327,
    "following_count": 40,
    "listed_count": 0,
    "tweet_count": 17

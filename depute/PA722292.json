@@ -671,6 +671,11 @@
   "VTANR5L15V3748": "P",
   "VTANR5L15V3749": "C",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "C",
+  "VTANR5L15V3755": "C",
   "VTANR5L15V376": "C",
   "VTANR5L15V377": "C",
   "VTANR5L15V389": "P",
@@ -842,10 +847,10 @@
   "id": "347374931",
   "name": "Thomas Rudigoz",
   "public_metrics": {
-   "followers_count": 4467,
+   "followers_count": 4470,
    "following_count": 1485,
    "listed_count": 133,
-   "tweet_count": 2300
+   "tweet_count": 2303
   },
   "username": "trudigoz"
  },

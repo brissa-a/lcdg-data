@@ -240,6 +240,12 @@
   "VTANR5L15V3633": "C",
   "VTANR5L15V365": "C",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3750": "P",
+  "VTANR5L15V3751": "P",
+  "VTANR5L15V3752": "P",
+  "VTANR5L15V3753": "P",
+  "VTANR5L15V3754": "P",
+  "VTANR5L15V3755": "P",
   "VTANR5L15V408": "P",
   "VTANR5L15V409": "C",
   "VTANR5L15V419": "C",
@@ -306,10 +312,10 @@
   "id": "935241513193353216",
   "name": "José Evrard",
   "public_metrics": {
-   "followers_count": 1515,
+   "followers_count": 1517,
    "following_count": 318,
-   "listed_count": 35,
-   "tweet_count": 1288
+   "listed_count": 34,
+   "tweet_count": 1290
   },
   "username": "Joseevrard62"
  },

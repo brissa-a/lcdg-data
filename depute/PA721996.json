@@ -398,7 +398,11 @@
   "VTANR5L15V3633": "C",
   "VTANR5L15V3634": "P",
   "VTANR5L15V3637": "P",
-  "VTANR5L15V3738": "P"
+  "VTANR5L15V3738": "P",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "P",
+  "VTANR5L15V3753": "P",
+  "VTANR5L15V3754": "P"
  },
  "twitter": {
   "id": "1174627465307840512",
@@ -407,7 +411,7 @@
    "followers_count": 559,
    "following_count": 437,
    "listed_count": 20,
-   "tweet_count": 1126
+   "tweet_count": 1127
   },
   "username": "PLoiseau85"
  },

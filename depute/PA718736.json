@@ -998,6 +998,11 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "C",
+  "VTANR5L15V3755": "C",
   "VTANR5L15V376": "C",
   "VTANR5L15V377": "C",
   "VTANR5L15V380": "P",
@@ -1146,9 +1151,9 @@
   "name": "Bénédicte Peyrol",
   "public_metrics": {
    "followers_count": 6319,
-   "following_count": 721,
+   "following_count": 722,
    "listed_count": 146,
-   "tweet_count": 4848
+   "tweet_count": 4859
   },
   "username": "B_Peyrol"
  },

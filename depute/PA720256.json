@@ -882,6 +882,12 @@
   "VTANR5L15V371": "C",
   "VTANR5L15V372": "C",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3750": "P",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "P",
+  "VTANR5L15V3755": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1078,10 +1084,10 @@
   "id": "866695760905154560",
   "name": "Géraldine BANNIER",
   "public_metrics": {
-   "followers_count": 1181,
+   "followers_count": 1180,
    "following_count": 601,
    "listed_count": 23,
-   "tweet_count": 471
+   "tweet_count": 473
   },
   "username": "Bannier_G"
  },

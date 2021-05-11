@@ -535,6 +535,10 @@
   "VTANR5L15V373": "C",
   "VTANR5L15V3738": "P",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3754": "C",
   "VTANR5L15V376": "C",
   "VTANR5L15V377": "C",
   "VTANR5L15V38": "P",
@@ -667,7 +671,7 @@
   "id": "865133923361312768",
   "name": "Marjolaine Meynier",
   "public_metrics": {
-   "followers_count": 4496,
+   "followers_count": 4498,
    "following_count": 1131,
    "listed_count": 117,
    "tweet_count": 2544

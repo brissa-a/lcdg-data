@@ -800,6 +800,10 @@
   "VTANR5L15V3644": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "P",
+  "VTANR5L15V3753": "P",
+  "VTANR5L15V3754": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -922,7 +926,7 @@
    "followers_count": 4372,
    "following_count": 1272,
    "listed_count": 114,
-   "tweet_count": 5185
+   "tweet_count": 5183
   },
   "username": "PhilippeMichelK"
  },

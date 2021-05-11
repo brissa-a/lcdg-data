@@ -1101,6 +1101,11 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3750": "P",
+  "VTANR5L15V3752": "P",
+  "VTANR5L15V3753": "P",
+  "VTANR5L15V3754": "P",
+  "VTANR5L15V3755": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V385": "C",
@@ -1234,7 +1239,7 @@
    "followers_count": 9864,
    "following_count": 1106,
    "listed_count": 111,
-   "tweet_count": 18494
+   "tweet_count": 18495
   },
   "username": "ThillAgnes"
  },

@@ -1283,6 +1283,11 @@
   "VTANR5L15V3743": "C",
   "VTANR5L15V3744": "C",
   "VTANR5L15V3749": "C",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3754": "C",
+  "VTANR5L15V3755": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -1527,10 +1532,10 @@
   "id": "339155330",
   "name": "Guillaume Gouffier",
   "public_metrics": {
-   "followers_count": 6172,
-   "following_count": 3387,
-   "listed_count": 158,
-   "tweet_count": 7150
+   "followers_count": 6178,
+   "following_count": 3390,
+   "listed_count": 157,
+   "tweet_count": 7160
   },
   "username": "G_GouffierCha"
  },

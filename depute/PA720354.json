@@ -584,6 +584,7 @@
   "VTANR5L15V3641": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3750": "C",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V380": "P",
@@ -745,9 +746,9 @@
   "name": "Jean-Michel JACQUES",
   "public_metrics": {
    "followers_count": 4566,
-   "following_count": 1511,
-   "listed_count": 121,
-   "tweet_count": 2092
+   "following_count": 1510,
+   "listed_count": 0,
+   "tweet_count": 2093
   },
   "username": "J_M_Jacques"
  },

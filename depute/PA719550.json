@@ -806,6 +806,12 @@
   "VTANR5L15V3694": "P",
   "VTANR5L15V3738": "P",
   "VTANR5L15V3749": "C",
+  "VTANR5L15V3750": "C",
+  "VTANR5L15V3751": "C",
+  "VTANR5L15V3752": "C",
+  "VTANR5L15V3753": "C",
+  "VTANR5L15V3754": "C",
+  "VTANR5L15V3755": "C",
   "VTANR5L15V381": "C",
   "VTANR5L15V383": "P",
   "VTANR5L15V387": "C",
@@ -1033,7 +1039,7 @@
    "followers_count": 2182,
    "following_count": 555,
    "listed_count": 117,
-   "tweet_count": 2219
+   "tweet_count": 2220
   },
   "username": "LilianeTanguyAN"
  },
