@@ -639,6 +639,10 @@
   "VTANR5L15V365": "P",
   "VTANR5L15V37": "C",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V382": "P",
@@ -805,9 +809,9 @@
   "id": "753101760563179520",
   "name": "Laëtitia Romeiro Dias",
   "public_metrics": {
-   "followers_count": 5677,
-   "following_count": 1362,
-   "listed_count": 115,
+   "followers_count": 5681,
+   "following_count": 1365,
+   "listed_count": 116,
    "tweet_count": 2418
   },
   "username": "Romeiro1L"

@@ -560,6 +560,12 @@
   "VTANR5L15V3657": "C",
   "VTANR5L15V3658": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V404": "P",
   "VTANR5L15V405": "P",
@@ -688,7 +694,7 @@
    "followers_count": 2833,
    "following_count": 2331,
    "listed_count": 100,
-   "tweet_count": 2495
+   "tweet_count": 2496
   },
   "username": "Gauvain_Raphael"
  },

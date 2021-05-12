@@ -577,7 +577,13 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
   "VTANR5L15V376": "C",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V377": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
@@ -610,10 +616,10 @@
   "id": "549319211",
   "name": "Sophie Errante",
   "public_metrics": {
-   "followers_count": 6123,
+   "followers_count": 6125,
    "following_count": 1404,
    "listed_count": 232,
-   "tweet_count": 1167
+   "tweet_count": 1168
   },
   "username": "SophieErrante"
  },

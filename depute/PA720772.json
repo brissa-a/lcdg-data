@@ -504,7 +504,12 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "A",
   "VTANR5L15V376": "C",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V377": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -622,7 +627,7 @@
    "followers_count": 2924,
    "following_count": 492,
    "listed_count": 90,
-   "tweet_count": 2018
+   "tweet_count": 2020
   },
   "username": "bru_vincent"
  },

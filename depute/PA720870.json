@@ -686,6 +686,11 @@
   "VTANR5L15V373": "C",
   "VTANR5L15V3738": "P",
   "VTANR5L15V3750": "C",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V390": "C",
@@ -947,8 +952,8 @@
   "id": "864825463927164928",
   "name": "𝗝𝗲𝗮𝗻 𝗙𝗿𝗮𝗻𝗰𝗼𝗶𝘀 𝗠𝗯𝗮𝘆𝗲",
   "public_metrics": {
-   "followers_count": 7685,
-   "following_count": 1123,
+   "followers_count": 7684,
+   "following_count": 1124,
    "listed_count": 121,
    "tweet_count": 1933
   },

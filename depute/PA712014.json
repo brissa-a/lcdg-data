@@ -453,6 +453,10 @@
   "VTANR5L15V3745": "C",
   "VTANR5L15V3746": "A",
   "VTANR5L15V3747": "C",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -488,8 +492,8 @@
   "id": "3367383094",
   "name": "Vincent Ledoux",
   "public_metrics": {
-   "followers_count": 9868,
-   "following_count": 9658,
+   "followers_count": 9869,
+   "following_count": 9657,
    "listed_count": 144,
    "tweet_count": 5435
   },

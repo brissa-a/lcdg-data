@@ -290,6 +290,7 @@
   "VTANR5L15V3652": "C",
   "VTANR5L15V3653": "P",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3756": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V402": "P",
@@ -376,10 +377,10 @@
   "id": "118977224",
   "name": "Jean-Luc LAGLEIZE",
   "public_metrics": {
-   "followers_count": 4393,
-   "following_count": 3603,
+   "followers_count": 4395,
+   "following_count": 3604,
    "listed_count": 160,
-   "tweet_count": 9185
+   "tweet_count": 9189
   },
   "username": "JeanLucLAGLEIZE"
  },

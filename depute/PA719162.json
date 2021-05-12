@@ -1013,6 +1013,10 @@
   "VTANR5L15V3751": "C",
   "VTANR5L15V3752": "C",
   "VTANR5L15V3753": "C",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -1244,9 +1248,9 @@
   "id": "2475448796",
   "name": "Jacqueline Dubois",
   "public_metrics": {
-   "followers_count": 2305,
+   "followers_count": 2304,
    "following_count": 427,
-   "listed_count": 120,
+   "listed_count": 121,
    "tweet_count": 6773
   },
   "username": "Jacqlinedubois"

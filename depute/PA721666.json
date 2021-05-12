@@ -108,7 +108,10 @@
   "VTANR5L15V3570": "C",
   "VTANR5L15V3571": "P",
   "VTANR5L15V3633": "P",
-  "VTANR5L15V3738": "A"
+  "VTANR5L15V3738": "A",
+  "VTANR5L15V3759": "C",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C"
  },
  "twitter": {
   "id": "1291053895297445890",
@@ -117,7 +120,7 @@
    "followers_count": 250,
    "following_count": 185,
    "listed_count": 13,
-   "tweet_count": 160
+   "tweet_count": 162
   },
   "username": "AudibertEdith"
  },

@@ -323,6 +323,11 @@
   "VTANR5L15V3752": "P",
   "VTANR5L15V3753": "P",
   "VTANR5L15V3754": "P",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3759": "A",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -407,7 +412,7 @@
   "id": "786575225316110336",
   "name": "Laurent GARCIA",
   "public_metrics": {
-   "followers_count": 2135,
+   "followers_count": 2134,
    "following_count": 363,
    "listed_count": 91,
    "tweet_count": 2332

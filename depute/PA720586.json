@@ -899,6 +899,10 @@
   "VTANR5L15V3652": "P",
   "VTANR5L15V3653": "C",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3757": "C",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C",
   "VTANR5L15V387": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
@@ -1032,7 +1036,7 @@
   "id": "1227623274185662464",
   "name": "Pierre VATIN",
   "public_metrics": {
-   "followers_count": 363,
+   "followers_count": 364,
    "following_count": 216,
    "listed_count": 13,
    "tweet_count": 85

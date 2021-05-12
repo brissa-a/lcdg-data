@@ -485,7 +485,13 @@
   "VTANR5L15V3738": "A",
   "VTANR5L15V374": "C",
   "VTANR5L15V375": "C",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3757": "C",
+  "VTANR5L15V3758": "P",
+  "VTANR5L15V3759": "C",
   "VTANR5L15V376": "C",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C",
   "VTANR5L15V377": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -589,7 +595,7 @@
   "id": "47626354",
   "name": "Jérôme NURY",
   "public_metrics": {
-   "followers_count": 1771,
+   "followers_count": 1770,
    "following_count": 468,
    "listed_count": 101,
    "tweet_count": 1246

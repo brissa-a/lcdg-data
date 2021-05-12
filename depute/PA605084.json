@@ -491,6 +491,11 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V40": "C",
@@ -539,7 +544,7 @@
    "followers_count": 3906,
    "following_count": 1136,
    "listed_count": 173,
-   "tweet_count": 8798
+   "tweet_count": 8802
   },
   "username": "JKrabal"
  },

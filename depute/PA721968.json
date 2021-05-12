@@ -396,6 +396,9 @@
   "VTANR5L15V3752": "P",
   "VTANR5L15V3753": "P",
   "VTANR5L15V3754": "P",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3758": "P",
+  "VTANR5L15V3759": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
@@ -452,7 +455,7 @@
    "followers_count": 1750,
    "following_count": 230,
    "listed_count": 74,
-   "tweet_count": 298
+   "tweet_count": 299
   },
   "username": "MichelVialay"
  },

@@ -278,6 +278,7 @@
   "VTANR5L15V3640": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3756": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -319,10 +320,10 @@
   "id": "980242016",
   "name": "Patrick Vignal",
   "public_metrics": {
-   "followers_count": 8327,
-   "following_count": 4561,
+   "followers_count": 8329,
+   "following_count": 4560,
    "listed_count": 222,
-   "tweet_count": 14351
+   "tweet_count": 14355
   },
   "username": "PatrickVignal"
  },

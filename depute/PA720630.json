@@ -1148,6 +1148,9 @@
   "VTANR5L15V3753": "P",
   "VTANR5L15V3754": "P",
   "VTANR5L15V3755": "P",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -1407,7 +1410,7 @@
    "followers_count": 5527,
    "following_count": 390,
    "listed_count": 105,
-   "tweet_count": 1575
+   "tweet_count": 1577
   },
   "username": "MaximeMinot"
  },

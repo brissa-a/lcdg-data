@@ -906,6 +906,10 @@
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "C",
   "VTANR5L15V3755": "C",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1057,10 +1061,10 @@
   "id": "887934696511991808",
   "name": "Nicole Trisse",
   "public_metrics": {
-   "followers_count": 1706,
+   "followers_count": 1708,
    "following_count": 232,
-   "listed_count": 69,
-   "tweet_count": 1918
+   "listed_count": 70,
+   "tweet_count": 1919
   },
   "username": "NicoleTrisse"
  },

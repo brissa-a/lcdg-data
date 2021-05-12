@@ -577,6 +577,12 @@
   "VTANR5L15V3706": "A",
   "VTANR5L15V3708": "P",
   "VTANR5L15V3709": "A",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "A",
+  "VTANR5L15V3760": "A",
+  "VTANR5L15V3761": "A",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
@@ -685,8 +691,8 @@
   "id": "863333535066836993",
   "name": "Philippe Berta",
   "public_metrics": {
-   "followers_count": 5494,
-   "following_count": 1580,
+   "followers_count": 5501,
+   "following_count": 1581,
    "listed_count": 122,
    "tweet_count": 3458
   },

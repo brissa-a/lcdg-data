@@ -1034,7 +1034,12 @@
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "P",
   "VTANR5L15V3755": "C",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
   "VTANR5L15V376": "C",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V377": "C",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
@@ -1398,8 +1403,8 @@
   "public_metrics": {
    "followers_count": 4565,
    "following_count": 1563,
-   "listed_count": 109,
-   "tweet_count": 2298
+   "listed_count": 110,
+   "tweet_count": 2301
   },
   "username": "GrazieMelchior"
  },

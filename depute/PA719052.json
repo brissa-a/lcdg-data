@@ -496,6 +496,10 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -564,7 +568,7 @@
    "followers_count": 3733,
    "following_count": 1229,
    "listed_count": 99,
-   "tweet_count": 3914
+   "tweet_count": 3915
   },
   "username": "LoicKervran18"
  },

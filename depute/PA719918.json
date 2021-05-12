@@ -400,6 +400,11 @@
   "VTANR5L15V3746": "C",
   "VTANR5L15V3747": "C",
   "VTANR5L15V3748": "P",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -473,7 +478,7 @@
    "followers_count": 1482,
    "following_count": 947,
    "listed_count": 49,
-   "tweet_count": 811
+   "tweet_count": 812
   },
   "username": "fabien_laine"
  },

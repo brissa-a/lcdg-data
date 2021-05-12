@@ -402,6 +402,11 @@
   "VTANR5L15V370": "P",
   "VTANR5L15V371": "P",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3757": "C",
+  "VTANR5L15V3758": "P",
+  "VTANR5L15V3759": "C",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -467,7 +472,7 @@
    "followers_count": 4045,
    "following_count": 988,
    "listed_count": 162,
-   "tweet_count": 6554
+   "tweet_count": 6559
   },
   "username": "MartialSaddier"
  },

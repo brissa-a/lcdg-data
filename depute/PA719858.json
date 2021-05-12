@@ -1078,6 +1078,10 @@
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "C",
   "VTANR5L15V3755": "C",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V382": "P",
@@ -1323,8 +1327,8 @@
   "public_metrics": {
    "followers_count": 9064,
    "following_count": 563,
-   "listed_count": 125,
-   "tweet_count": 4754
+   "listed_count": 126,
+   "tweet_count": 4761
   },
   "username": "3807Limon"
  },

@@ -311,6 +311,10 @@
   "VTANR5L15V3633": "A",
   "VTANR5L15V365": "A",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3757": "C",
+  "VTANR5L15V3758": "P",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V398": "A",
   "VTANR5L15V399": "P",
@@ -491,10 +495,10 @@
   "id": "85541760",
   "name": "Sébastien Huyghe ‏ن",
   "public_metrics": {
-   "followers_count": 21654,
-   "following_count": 2070,
+   "followers_count": 21652,
+   "following_count": 2073,
    "listed_count": 390,
-   "tweet_count": 16677
+   "tweet_count": 16689
   },
   "username": "SebastienHuyghe"
  },

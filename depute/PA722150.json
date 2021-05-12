@@ -786,6 +786,12 @@
   "VTANR5L15V3750": "P",
   "VTANR5L15V3754": "C",
   "VTANR5L15V3755": "C",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V38": "N",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -981,10 +987,10 @@
   "id": "308514268",
   "name": "Sacha Houlié",
   "public_metrics": {
-   "followers_count": 30401,
-   "following_count": 1544,
+   "followers_count": 30663,
+   "following_count": 1547,
    "listed_count": 306,
-   "tweet_count": 9578
+   "tweet_count": 9580
   },
   "username": "SachaHoulie"
  },

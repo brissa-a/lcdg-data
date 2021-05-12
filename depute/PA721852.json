@@ -1053,6 +1053,11 @@
   "VTANR5L15V3748": "P",
   "VTANR5L15V3749": "C",
   "VTANR5L15V3750": "C",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V387": "C",
@@ -1334,9 +1339,9 @@
   "id": "2308358192",
   "name": "Marie Lebec",
   "public_metrics": {
-   "followers_count": 20928,
-   "following_count": 3134,
-   "listed_count": 205,
+   "followers_count": 20937,
+   "following_count": 3135,
+   "listed_count": 206,
    "tweet_count": 4720
   },
   "username": "MarieLebec78"

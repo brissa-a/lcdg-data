@@ -604,6 +604,12 @@
   "VTANR5L15V3752": "C",
   "VTANR5L15V3754": "C",
   "VTANR5L15V3755": "C",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V4": "C",
   "VTANR5L15V40": "C",
@@ -724,9 +730,9 @@
   "id": "791251850628591620",
   "name": "Emilie Guerel",
   "public_metrics": {
-   "followers_count": 6020,
+   "followers_count": 6019,
    "following_count": 1783,
-   "listed_count": 118,
+   "listed_count": 119,
    "tweet_count": 2084
   },
   "username": "eguerelLREM"

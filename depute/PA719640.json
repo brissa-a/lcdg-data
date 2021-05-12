@@ -917,6 +917,10 @@
   "VTANR5L15V3746": "C",
   "VTANR5L15V3747": "C",
   "VTANR5L15V3748": "P",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3759": "A",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V385": "C",
@@ -1148,9 +1152,9 @@
   "name": "Mette Sophie",
   "public_metrics": {
    "followers_count": 1282,
-   "following_count": 472,
+   "following_count": 473,
    "listed_count": 96,
-   "tweet_count": 4833
+   "tweet_count": 4837
   },
   "username": "SophieMette1"
  },

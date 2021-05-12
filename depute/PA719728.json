@@ -702,6 +702,11 @@
   "VTANR5L15V3752": "C",
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "C",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -894,10 +899,10 @@
   "id": "864057336440213504",
   "name": "Gael Le Bohec",
   "public_metrics": {
-   "followers_count": 5230,
-   "following_count": 1060,
+   "followers_count": 5229,
+   "following_count": 1062,
    "listed_count": 115,
-   "tweet_count": 6667
+   "tweet_count": 6684
   },
   "username": "GaelLeBohec"
  },

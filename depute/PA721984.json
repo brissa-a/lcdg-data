@@ -483,6 +483,10 @@
   "VTANR5L15V3753": "P",
   "VTANR5L15V3754": "P",
   "VTANR5L15V3755": "A",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3759": "A",
+  "VTANR5L15V3760": "A",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V386": "P",
@@ -553,10 +557,10 @@
   "id": "560299831",
   "name": "Philippe Latombe",
   "public_metrics": {
-   "followers_count": 3381,
+   "followers_count": 3412,
    "following_count": 2160,
    "listed_count": 91,
-   "tweet_count": 2677
+   "tweet_count": 2683
   },
   "username": "platombe"
  },

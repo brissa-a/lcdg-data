@@ -585,6 +585,7 @@
   "VTANR5L15V3752": "C",
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "C",
+  "VTANR5L15V3757": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -645,10 +646,10 @@
   "id": "372703035",
   "name": "Monique Iborra",
   "public_metrics": {
-   "followers_count": 6702,
+   "followers_count": 6701,
    "following_count": 1441,
-   "listed_count": 269,
-   "tweet_count": 9632
+   "listed_count": 270,
+   "tweet_count": 9633
   },
   "username": "MoniqueIborra"
  },

@@ -987,6 +987,7 @@
   "VTANR5L15V3733": "P",
   "VTANR5L15V3734": "P",
   "VTANR5L15V3738": "C",
+  "VTANR5L15V3757": "C",
   "VTANR5L15V387": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -1149,7 +1150,7 @@
    "followers_count": 9607,
    "following_count": 2027,
    "listed_count": 239,
-   "tweet_count": 3709
+   "tweet_count": 3712
   },
   "username": "PotierDominique"
  },

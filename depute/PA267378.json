@@ -301,6 +301,9 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3758": "P",
+  "VTANR5L15V3760": "C",
+  "VTANR5L15V3761": "C",
   "VTANR5L15V385": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -358,10 +361,10 @@
   "id": "842115066333941765",
   "name": "Geneviève Levy",
   "public_metrics": {
-   "followers_count": 1606,
+   "followers_count": 1608,
    "following_count": 459,
    "listed_count": 72,
-   "tweet_count": 384
+   "tweet_count": 385
   },
   "username": "genevievelevy83"
  },

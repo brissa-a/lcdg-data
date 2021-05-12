@@ -443,6 +443,11 @@
   "VTANR5L15V3752": "C",
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "P",
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "A",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
@@ -514,7 +519,7 @@
   "id": "2433624242",
   "name": "Sabine Thillaye",
   "public_metrics": {
-   "followers_count": 5976,
+   "followers_count": 5974,
    "following_count": 1466,
    "listed_count": 138,
    "tweet_count": 4942

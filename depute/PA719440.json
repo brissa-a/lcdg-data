@@ -649,6 +649,12 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3757": "P",
+  "VTANR5L15V3758": "C",
+  "VTANR5L15V3759": "P",
+  "VTANR5L15V3760": "P",
+  "VTANR5L15V3761": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -784,7 +790,7 @@
   "public_metrics": {
    "followers_count": 6961,
    "following_count": 568,
-   "listed_count": 140,
+   "listed_count": 141,
    "tweet_count": 1868
   },
   "username": "anthonycellier"
