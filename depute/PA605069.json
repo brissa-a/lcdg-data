@@ -986,6 +986,7 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3762": "P",
   "VTANR5L15V387": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -1123,8 +1124,8 @@
   "id": "3028135792",
   "name": "Jean-Louis Bricout",
   "public_metrics": {
-   "followers_count": 3321,
-   "following_count": 3396,
+   "followers_count": 3320,
+   "following_count": 3395,
    "listed_count": 101,
    "tweet_count": 5301
   },

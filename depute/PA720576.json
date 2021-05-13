@@ -708,6 +708,9 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3763": "C",
+  "VTANR5L15V3765": "P",
+  "VTANR5L15V3766": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V384": "C",
@@ -808,8 +811,8 @@
   "public_metrics": {
    "followers_count": 4288,
    "following_count": 1340,
-   "listed_count": 107,
-   "tweet_count": 1946
+   "listed_count": 106,
+   "tweet_count": 1948
   },
   "username": "PascalBoisLaREM"
  },

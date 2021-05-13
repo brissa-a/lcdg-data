@@ -800,6 +800,11 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3762": "P",
+  "VTANR5L15V3763": "P",
+  "VTANR5L15V3764": "P",
+  "VTANR5L15V3765": "P",
+  "VTANR5L15V3766": "P",
   "VTANR5L15V387": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -1003,8 +1008,8 @@
   "public_metrics": {
    "followers_count": 1044,
    "following_count": 133,
-   "listed_count": 46,
-   "tweet_count": 627
+   "listed_count": 47,
+   "tweet_count": 631
   },
   "username": "BattistelMarie"
  },

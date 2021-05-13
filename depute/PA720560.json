@@ -878,6 +878,7 @@
   "VTANR5L15V3759": "A",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3762": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1021,7 +1022,7 @@
    "followers_count": 7245,
    "following_count": 365,
    "listed_count": 118,
-   "tweet_count": 3168
+   "tweet_count": 3169
   },
   "username": "perrinegoulet"
  },

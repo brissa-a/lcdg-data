@@ -1046,6 +1046,7 @@
   "VTANR5L15V3758": "C",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3763": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1205,8 +1206,8 @@
   "public_metrics": {
    "followers_count": 6668,
    "following_count": 859,
-   "listed_count": 121,
-   "tweet_count": 3809
+   "listed_count": 120,
+   "tweet_count": 3814
   },
   "username": "ThierryMichels"
  },

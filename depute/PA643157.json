@@ -245,13 +245,14 @@
   "VTANR5L15V3757": "C",
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
-  "VTANR5L15V3761": "C"
+  "VTANR5L15V3761": "C",
+  "VTANR5L15V3763": "P"
  },
  "twitter": {
   "id": "1283323346076282880",
   "name": "Philippe Naillet",
   "public_metrics": {
-   "followers_count": 448,
+   "followers_count": 449,
    "following_count": 335,
    "listed_count": 17,
    "tweet_count": 282

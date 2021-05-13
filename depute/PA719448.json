@@ -866,6 +866,11 @@
   "VTANR5L15V3697": "C",
   "VTANR5L15V3698": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3762": "P",
+  "VTANR5L15V3763": "A",
+  "VTANR5L15V3764": "P",
+  "VTANR5L15V3765": "P",
+  "VTANR5L15V3766": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1055,7 +1060,7 @@
    "followers_count": 6938,
    "following_count": 956,
    "listed_count": 117,
-   "tweet_count": 1815
+   "tweet_count": 1820
   },
   "username": "chapelierannie"
  },

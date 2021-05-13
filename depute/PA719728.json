@@ -707,6 +707,7 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3762": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -900,9 +901,9 @@
   "name": "Gael Le Bohec",
   "public_metrics": {
    "followers_count": 5229,
-   "following_count": 1062,
+   "following_count": 1061,
    "listed_count": 115,
-   "tweet_count": 6684
+   "tweet_count": 6700
   },
   "username": "GaelLeBohec"
  },

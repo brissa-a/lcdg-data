@@ -697,6 +697,8 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3762": "P",
+  "VTANR5L15V3763": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -757,8 +759,8 @@
   "id": "863155122041483264",
   "name": "Brigitte Liso",
   "public_metrics": {
-   "followers_count": 4181,
-   "following_count": 418,
+   "followers_count": 4178,
+   "following_count": 419,
    "listed_count": 107,
    "tweet_count": 921
   },

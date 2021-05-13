@@ -790,6 +790,7 @@
   "VTANR5L15V3759": "A",
   "VTANR5L15V3760": "A",
   "VTANR5L15V3761": "A",
+  "VTANR5L15V3762": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -914,10 +915,10 @@
   "id": "156032740",
   "name": "Blandine Brocard",
   "public_metrics": {
-   "followers_count": 4285,
+   "followers_count": 4291,
    "following_count": 2521,
    "listed_count": 121,
-   "tweet_count": 1603
+   "tweet_count": 1611
   },
   "username": "BBrocard"
  },

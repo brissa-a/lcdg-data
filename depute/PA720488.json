@@ -231,7 +231,12 @@
   "VTANR5L15V3758": "P",
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
-  "VTANR5L15V3761": "C"
+  "VTANR5L15V3761": "C",
+  "VTANR5L15V3762": "P",
+  "VTANR5L15V3763": "C",
+  "VTANR5L15V3764": "P",
+  "VTANR5L15V3765": "P",
+  "VTANR5L15V3766": "P"
  },
  "twitter": {
   "id": "902470987765211137",
@@ -240,7 +245,7 @@
    "followers_count": 878,
    "following_count": 727,
    "listed_count": 21,
-   "tweet_count": 948
+   "tweet_count": 951
   },
   "username": "six_valerie"
  },

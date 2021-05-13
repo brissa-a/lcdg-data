@@ -1252,6 +1252,11 @@
   "VTANR5L15V3759": "A",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3762": "P",
+  "VTANR5L15V3763": "C",
+  "VTANR5L15V3764": "P",
+  "VTANR5L15V3765": "P",
+  "VTANR5L15V3766": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -1413,8 +1418,8 @@
   "id": "864828415760900097",
   "name": "MichèledeVaucouleurs",
   "public_metrics": {
-   "followers_count": 2768,
-   "following_count": 868,
+   "followers_count": 2772,
+   "following_count": 869,
    "listed_count": 82,
    "tweet_count": 1726
   },

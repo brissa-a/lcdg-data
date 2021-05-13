@@ -1392,6 +1392,8 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3762": "P",
+  "VTANR5L15V3763": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V383": "P",
@@ -1748,7 +1750,7 @@
   "id": "819329291389431808",
   "name": "Alain Ramadier",
   "public_metrics": {
-   "followers_count": 1740,
+   "followers_count": 1739,
    "following_count": 177,
    "listed_count": 84,
    "tweet_count": 3224

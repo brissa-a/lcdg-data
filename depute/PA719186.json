@@ -1018,6 +1018,7 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3762": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1223,9 +1224,9 @@
   "id": "447845263",
   "name": "Fadila Khattabi",
   "public_metrics": {
-   "followers_count": 3565,
+   "followers_count": 3567,
    "following_count": 1508,
-   "listed_count": 145,
+   "listed_count": 144,
    "tweet_count": 7627
   },
   "username": "KhattabiF"
