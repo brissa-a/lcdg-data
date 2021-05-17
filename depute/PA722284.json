@@ -772,17 +772,6 @@
   "VTANR5L15V981": "P",
   "VTANR5L15V982": "A"
  },
- "twitter": {
-  "id": "115715214",
-  "name": "Bruno Fuchs",
-  "public_metrics": {
-   "followers_count": 6020,
-   "following_count": 1016,
-   "listed_count": 178,
-   "tweet_count": 4565
-  },
-  "username": "bruno_fuchs"
- },
  "twitter_username": {
   "status": "found",
   "value": "bruno_fuchs"

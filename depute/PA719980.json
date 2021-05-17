@@ -1488,17 +1488,6 @@
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
  },
- "twitter": {
-  "id": "865939828550098948",
-  "name": "Julien Borowczyk",
-  "public_metrics": {
-   "followers_count": 2558,
-   "following_count": 232,
-   "listed_count": 107,
-   "tweet_count": 494
-  },
-  "username": "JulienBorowczyk"
- },
  "twitter_username": {
   "status": "found",
   "value": "JulienBorowczyk"

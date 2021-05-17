@@ -837,17 +837,6 @@
   "VTANR5L15V989": "P",
   "VTANR5L15V990": "C"
  },
- "twitter": {
-  "id": "15243103",
-  "name": "Damien ADAM",
-  "public_metrics": {
-   "followers_count": 4124,
-   "following_count": 597,
-   "listed_count": 129,
-   "tweet_count": 4897
-  },
-  "username": "damienadam76"
- },
  "twitter_username": {
   "status": "found",
   "value": "damienadam76"
