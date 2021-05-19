@@ -910,6 +910,7 @@
   "VTANR5L15V3757": "P",
   "VTANR5L15V3758": "C",
   "VTANR5L15V3759": "P",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1064,7 +1065,7 @@
    "followers_count": 1720,
    "following_count": 233,
    "listed_count": 70,
-   "tweet_count": 1921
+   "tweet_count": 1922
   },
   "username": "NicoleTrisse"
  },

@@ -633,6 +633,7 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -771,9 +772,9 @@
   "name": "Dimitri Houbron 🇫🇷🇪🇺🐾⚖️",
   "public_metrics": {
    "followers_count": 5807,
-   "following_count": 1000,
+   "following_count": 1002,
    "listed_count": 112,
-   "tweet_count": 2804
+   "tweet_count": 2805
   },
   "username": "dhoubron1759"
  },

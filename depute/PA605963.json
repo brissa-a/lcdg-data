@@ -898,6 +898,7 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V3748": "C",
   "VTANR5L15V3749": "C",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
@@ -995,7 +996,7 @@
   "id": "842102300",
   "name": "Éric Alauzet",
   "public_metrics": {
-   "followers_count": 4853,
+   "followers_count": 4850,
    "following_count": 1088,
    "listed_count": 209,
    "tweet_count": 2308

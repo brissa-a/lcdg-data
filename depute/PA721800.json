@@ -410,6 +410,7 @@
   "VTANR5L15V3737": "C",
   "VTANR5L15V3738": "P",
   "VTANR5L15V3739": "C",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -453,7 +454,7 @@
   "id": "865234300190564352",
   "name": "MATRAS Fabien 🇫🇷",
   "public_metrics": {
-   "followers_count": 3463,
+   "followers_count": 3467,
    "following_count": 1346,
    "listed_count": 81,
    "tweet_count": 1948

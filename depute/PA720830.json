@@ -935,6 +935,7 @@
   "VTANR5L15V3708": "P",
   "VTANR5L15V3709": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -1197,7 +1198,7 @@
    "followers_count": 2311,
    "following_count": 828,
    "listed_count": 88,
-   "tweet_count": 1586
+   "tweet_count": 1589
   },
   "username": "Vthomas_63"
  },

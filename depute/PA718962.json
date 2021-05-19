@@ -953,6 +953,7 @@
   "VTANR5L15V3757": "P",
   "VTANR5L15V3758": "C",
   "VTANR5L15V3759": "P",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V389": "P",
@@ -1142,7 +1143,7 @@
    "followers_count": 7845,
    "following_count": 4307,
    "listed_count": 168,
-   "tweet_count": 7716
+   "tweet_count": 7722
   },
   "username": "jmzulesi"
  },

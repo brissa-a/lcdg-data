@@ -1433,6 +1433,7 @@
   "VTANR5L15V3759": "A",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V380": "P",
@@ -1680,8 +1681,8 @@
   "public_metrics": {
    "followers_count": 4159,
    "following_count": 374,
-   "listed_count": 105,
-   "tweet_count": 4836
+   "listed_count": 106,
+   "tweet_count": 4838
   },
   "username": "NicoleDubre17"
  },

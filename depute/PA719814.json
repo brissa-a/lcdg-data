@@ -819,6 +819,7 @@
   "VTANR5L15V3647": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3767": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1046,7 +1047,7 @@
   "id": "69870071",
   "name": "Fabienne COLBOC",
   "public_metrics": {
-   "followers_count": 5479,
+   "followers_count": 5478,
    "following_count": 1458,
    "listed_count": 114,
    "tweet_count": 2625
