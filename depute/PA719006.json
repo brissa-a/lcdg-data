@@ -615,6 +615,7 @@
   "VTANR5L15V364": "C",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3770": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
   "VTANR5L15V394": "C",
@@ -745,7 +746,7 @@
   "id": "118061183",
   "name": "Fabrice Le Vigoureux",
   "public_metrics": {
-   "followers_count": 1310,
+   "followers_count": 1308,
    "following_count": 545,
    "listed_count": 85,
    "tweet_count": 84

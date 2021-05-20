@@ -708,6 +708,7 @@
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3769": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -850,10 +851,10 @@
   "id": "1255991936",
   "name": "Pieyre-Alexandre Anglade",
   "public_metrics": {
-   "followers_count": 13088,
+   "followers_count": 13094,
    "following_count": 3321,
    "listed_count": 190,
-   "tweet_count": 3989
+   "tweet_count": 3995
   },
   "username": "PA_Anglade"
  },

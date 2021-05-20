@@ -1395,6 +1395,9 @@
   "VTANR5L15V3762": "P",
   "VTANR5L15V3763": "C",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3768": "A",
+  "VTANR5L15V3769": "P",
+  "VTANR5L15V3770": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V383": "P",
@@ -1754,7 +1757,7 @@
    "followers_count": 1745,
    "following_count": 177,
    "listed_count": 83,
-   "tweet_count": 3238
+   "tweet_count": 3243
   },
   "username": "alainramadier"
  },

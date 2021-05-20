@@ -543,8 +543,20 @@
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
  },
+ "twitter": {
+  "id": "1395004603972870147",
+  "name": "Sebastien Cazenove",
+  "public_metrics": {
+   "followers_count": 107,
+   "following_count": 398,
+   "listed_count": 0,
+   "tweet_count": 5
+  },
+  "username": "SebCazenove"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "SebCazenove"
  },
  "uid": "PA720814"
 }

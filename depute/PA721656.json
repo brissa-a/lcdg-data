@@ -562,6 +562,7 @@
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
   "VTANR5L15V3763": "C",
+  "VTANR5L15V3769": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V409": "P",
@@ -615,7 +616,7 @@
   "name": "Cécile MUSCHOTTI",
   "public_metrics": {
    "followers_count": 5874,
-   "following_count": 3231,
+   "following_count": 3232,
    "listed_count": 118,
    "tweet_count": 1830
   },

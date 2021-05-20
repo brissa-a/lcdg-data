@@ -574,6 +574,9 @@
   "VTANR5L15V3761": "A",
   "VTANR5L15V3762": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3768": "P",
+  "VTANR5L15V3769": "P",
+  "VTANR5L15V3770": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
@@ -709,9 +712,9 @@
   "name": "Philippe Bolo",
   "public_metrics": {
    "followers_count": 3562,
-   "following_count": 1346,
+   "following_count": 1347,
    "listed_count": 188,
-   "tweet_count": 9040
+   "tweet_count": 9045
   },
   "username": "phbolo"
  },

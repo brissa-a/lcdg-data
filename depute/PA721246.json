@@ -937,6 +937,7 @@
   "VTANR5L15V3764": "P",
   "VTANR5L15V3765": "P",
   "VTANR5L15V3766": "P",
+  "VTANR5L15V3768": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V38": "P",
@@ -1216,7 +1217,7 @@
    "followers_count": 5735,
    "following_count": 2482,
    "listed_count": 261,
-   "tweet_count": 7993
+   "tweet_count": 8000
   },
   "username": "AlbaneGaillot"
  },

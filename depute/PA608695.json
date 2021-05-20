@@ -668,6 +668,9 @@
   "VTANR5L15V3753": "P",
   "VTANR5L15V3754": "P",
   "VTANR5L15V3755": "P",
+  "VTANR5L15V3768": "A",
+  "VTANR5L15V3769": "P",
+  "VTANR5L15V3770": "P",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "A",
   "VTANR5L15V389": "P",
@@ -777,7 +780,7 @@
    "followers_count": 3899,
    "following_count": 2117,
    "listed_count": 141,
-   "tweet_count": 3736
+   "tweet_count": 3742
   },
   "username": "ceciluntermaier"
  },

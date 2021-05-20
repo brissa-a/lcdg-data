@@ -1143,6 +1143,7 @@
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3768": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1439,10 +1440,10 @@
   "id": "831910700574457856",
   "name": "Sophie Beaudouin-H.",
   "public_metrics": {
-   "followers_count": 4812,
+   "followers_count": 4815,
    "following_count": 618,
    "listed_count": 103,
-   "tweet_count": 2153
+   "tweet_count": 2156
   },
   "username": "BeaudouinSo"
  },

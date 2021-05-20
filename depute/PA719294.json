@@ -960,6 +960,9 @@
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "C",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3768": "P",
+  "VTANR5L15V3769": "P",
+  "VTANR5L15V3770": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -1197,10 +1200,10 @@
   "id": "471076259",
   "name": "Mireille Clapot",
   "public_metrics": {
-   "followers_count": 7802,
-   "following_count": 2380,
+   "followers_count": 7805,
+   "following_count": 2382,
    "listed_count": 125,
-   "tweet_count": 3305
+   "tweet_count": 3312
   },
   "username": "CLAPOTMireille"
  },

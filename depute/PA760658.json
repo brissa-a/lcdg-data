@@ -498,16 +498,17 @@
   "VTANR5L15V3571": "P",
   "VTANR5L15V3633": "P",
   "VTANR5L15V3738": "P",
-  "VTANR5L15V3756": "P"
+  "VTANR5L15V3756": "P",
+  "VTANR5L15V3769": "P"
  },
  "twitter": {
   "id": "282687869",
   "name": "Francis Chouat",
   "public_metrics": {
-   "followers_count": 7888,
+   "followers_count": 7889,
    "following_count": 3509,
    "listed_count": 154,
-   "tweet_count": 11076
+   "tweet_count": 11078
   },
   "username": "fchouat"
  },

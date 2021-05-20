@@ -998,7 +998,9 @@
   "VTANR5L15V3761": "P",
   "VTANR5L15V3766": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3769": "P",
   "VTANR5L15V377": "C",
+  "VTANR5L15V3770": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V389": "P",
@@ -1144,7 +1146,7 @@
    "followers_count": 5581,
    "following_count": 966,
    "listed_count": 107,
-   "tweet_count": 1779
+   "tweet_count": 1781
   },
   "username": "SereineEnMarche"
  },

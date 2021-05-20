@@ -399,6 +399,8 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3768": "C",
+  "VTANR5L15V3769": "A",
   "VTANR5L15V383": "P",
   "VTANR5L15V384": "P",
   "VTANR5L15V389": "P",
@@ -517,10 +519,10 @@
   "id": "493833484",
   "name": "Sébastien Chenu",
   "public_metrics": {
-   "followers_count": 30283,
-   "following_count": 6838,
+   "followers_count": 30360,
+   "following_count": 6836,
    "listed_count": 216,
-   "tweet_count": 7204
+   "tweet_count": 7208
   },
   "username": "sebchenu"
  },

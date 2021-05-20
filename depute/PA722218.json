@@ -334,16 +334,17 @@
   "VTANR5L15V3758": "C",
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
-  "VTANR5L15V3761": "P"
+  "VTANR5L15V3761": "P",
+  "VTANR5L15V3768": "P"
  },
  "twitter": {
   "id": "826478037780852737",
   "name": "Cecile Delpirou",
   "public_metrics": {
-   "followers_count": 480,
+   "followers_count": 481,
    "following_count": 228,
    "listed_count": 18,
-   "tweet_count": 1219
+   "tweet_count": 1222
   },
   "username": "C_Delpirou"
  },
