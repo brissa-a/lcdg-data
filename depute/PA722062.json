@@ -816,6 +816,9 @@
   "VTANR5L15V3768": "P",
   "VTANR5L15V3769": "P",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3772": "C",
+  "VTANR5L15V3773": "P",
+  "VTANR5L15V3774": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -963,7 +966,7 @@
    "followers_count": 2632,
    "following_count": 1233,
    "listed_count": 89,
-   "tweet_count": 6864
+   "tweet_count": 6875
   },
   "username": "fgranjus"
  },

@@ -535,6 +535,7 @@
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3774": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -722,10 +723,10 @@
   "id": "1911591212",
   "name": "Stanislas Guerini",
   "public_metrics": {
-   "followers_count": 57457,
+   "followers_count": 57480,
    "following_count": 1306,
    "listed_count": 368,
-   "tweet_count": 5133
+   "tweet_count": 5147
   },
   "username": "StanGuerini"
  },

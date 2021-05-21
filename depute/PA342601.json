@@ -656,16 +656,20 @@
   "VTANR5L15V3761": "C",
   "VTANR5L15V3767": "C",
   "VTANR5L15V3768": "C",
-  "VTANR5L15V3769": "P"
+  "VTANR5L15V3769": "P",
+  "VTANR5L15V3772": "P",
+  "VTANR5L15V3773": "C",
+  "VTANR5L15V3774": "P",
+  "VTANR5L15V3775": "P"
  },
  "twitter": {
   "id": "150607995",
   "name": "Pascal Brindeau",
   "public_metrics": {
-   "followers_count": 2519,
+   "followers_count": 2520,
    "following_count": 1341,
    "listed_count": 99,
-   "tweet_count": 6005
+   "tweet_count": 6007
   },
   "username": "pascalbrindeau"
  },

@@ -1259,6 +1259,9 @@
   "VTANR5L15V3766": "P",
   "VTANR5L15V3768": "P",
   "VTANR5L15V3769": "P",
+  "VTANR5L15V3774": "A",
+  "VTANR5L15V3775": "P",
+  "VTANR5L15V3776": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -1423,7 +1426,7 @@
    "followers_count": 2773,
    "following_count": 871,
    "listed_count": 82,
-   "tweet_count": 1730
+   "tweet_count": 1731
   },
   "username": "MdeVaucouleurs"
  },

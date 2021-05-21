@@ -739,6 +739,10 @@
   "VTANR5L15V3768": "C",
   "VTANR5L15V3769": "A",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3772": "P",
+  "VTANR5L15V3774": "P",
+  "VTANR5L15V3775": "C",
+  "VTANR5L15V3777": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V385": "P",
   "VTANR5L15V386": "C",
@@ -835,10 +839,10 @@
   "id": "152382594",
   "name": "Ugo Bernalicis φ",
   "public_metrics": {
-   "followers_count": 22905,
+   "followers_count": 22965,
    "following_count": 1298,
    "listed_count": 289,
-   "tweet_count": 14453
+   "tweet_count": 14479
   },
   "username": "Ugobernalicis"
  },

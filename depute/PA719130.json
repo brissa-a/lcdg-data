@@ -783,6 +783,10 @@
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
   "VTANR5L15V3766": "P",
+  "VTANR5L15V3774": "C",
+  "VTANR5L15V3775": "A",
+  "VTANR5L15V3776": "A",
+  "VTANR5L15V3777": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
   "VTANR5L15V38": "P",
@@ -927,10 +931,10 @@
   "id": "863317587865866241",
   "name": "Monica Michel-Brassart",
   "public_metrics": {
-   "followers_count": 3180,
+   "followers_count": 3183,
    "following_count": 351,
    "listed_count": 86,
-   "tweet_count": 3385
+   "tweet_count": 3386
   },
   "username": "MonicaMichel_Of"
  },

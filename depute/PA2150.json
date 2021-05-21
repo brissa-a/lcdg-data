@@ -773,6 +773,10 @@
   "VTANR5L15V3768": "C",
   "VTANR5L15V3769": "A",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3772": "P",
+  "VTANR5L15V3774": "P",
+  "VTANR5L15V3775": "C",
+  "VTANR5L15V3777": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "P",
@@ -942,10 +946,10 @@
   "id": "80820758",
   "name": "Jean-Luc Mélenchon",
   "public_metrics": {
-   "followers_count": 2274600,
+   "followers_count": 2274142,
    "following_count": 4848,
-   "listed_count": 4712,
-   "tweet_count": 37522
+   "listed_count": 4711,
+   "tweet_count": 37527
   },
   "username": "JLMelenchon"
  },

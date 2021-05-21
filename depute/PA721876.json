@@ -504,6 +504,7 @@
   "VTANR5L15V376": "C",
   "VTANR5L15V3767": "C",
   "VTANR5L15V377": "C",
+  "VTANR5L15V3774": "C",
   "VTANR5L15V381": "C",
   "VTANR5L15V382": "P",
   "VTANR5L15V389": "P",
@@ -603,7 +604,7 @@
   "name": "Adrien MORENAS",
   "public_metrics": {
    "followers_count": 2157,
-   "following_count": 863,
+   "following_count": 864,
    "listed_count": 64,
    "tweet_count": 3118
   },

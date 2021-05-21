@@ -562,6 +562,7 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3771": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V40": "P",
@@ -629,10 +630,10 @@
   "id": "861666911872057348",
   "name": "Béatrice Descamps",
   "public_metrics": {
-   "followers_count": 1476,
+   "followers_count": 1478,
    "following_count": 894,
    "listed_count": 45,
-   "tweet_count": 1867
+   "tweet_count": 1868
   },
   "username": "beadescamps"
  },
