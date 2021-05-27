@@ -1096,6 +1096,9 @@
   "VTANR5L15V3766": "P",
   "VTANR5L15V3767": "C",
   "VTANR5L15V3771": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3780": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V389": "P",
@@ -1282,10 +1285,10 @@
   "id": "142632679",
   "name": "Céline Calvez",
   "public_metrics": {
-   "followers_count": 13788,
-   "following_count": 3399,
-   "listed_count": 182,
-   "tweet_count": 8441
+   "followers_count": 13790,
+   "following_count": 3400,
+   "listed_count": 181,
+   "tweet_count": 8453
   },
   "username": "celinecalvez"
  },

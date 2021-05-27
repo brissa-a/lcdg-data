@@ -323,6 +323,8 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -414,7 +416,7 @@
   "id": "1465704961",
   "name": "Yves Blein",
   "public_metrics": {
-   "followers_count": 3980,
+   "followers_count": 3982,
    "following_count": 3885,
    "listed_count": 186,
    "tweet_count": 3250

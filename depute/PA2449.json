@@ -599,7 +599,10 @@
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
   "VTANR5L15V377": "C",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V378": "C",
+  "VTANR5L15V3780": "P",
   "VTANR5L15V379": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -707,10 +710,10 @@
   "id": "862952634164154368",
   "name": "Jean-Pierre PONT",
   "public_metrics": {
-   "followers_count": 4873,
+   "followers_count": 4872,
    "following_count": 1128,
    "listed_count": 104,
-   "tweet_count": 4186
+   "tweet_count": 4187
   },
   "username": "JeanPierrePont"
  },

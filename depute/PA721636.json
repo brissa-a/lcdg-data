@@ -298,6 +298,8 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -341,7 +343,7 @@
   "id": "963759448794771456",
   "name": "Jean-François PARIGI",
   "public_metrics": {
-   "followers_count": 1149,
+   "followers_count": 1148,
    "following_count": 137,
    "listed_count": 34,
    "tweet_count": 340

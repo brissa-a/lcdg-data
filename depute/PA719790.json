@@ -682,6 +682,11 @@
   "VTANR5L15V3761": "P",
   "VTANR5L15V3762": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3787": "P",
+  "VTANR5L15V3788": "A",
+  "VTANR5L15V3789": "P",
   "VTANR5L15V383": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -814,7 +819,7 @@
    "followers_count": 5174,
    "following_count": 1203,
    "listed_count": 117,
-   "tweet_count": 2242
+   "tweet_count": 2243
   },
   "username": "Chalumeau_P"
  },

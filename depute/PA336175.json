@@ -968,6 +968,9 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
+  "VTANR5L15V3780": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -1288,8 +1291,8 @@
   "id": "358886584",
   "name": "Sylvia PINEL",
   "public_metrics": {
-   "followers_count": 25362,
-   "following_count": 1331,
+   "followers_count": 25350,
+   "following_count": 1332,
    "listed_count": 723,
    "tweet_count": 6027
   },

@@ -888,6 +888,8 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V3738": "C",
   "VTANR5L15V3756": "C",
+  "VTANR5L15V3778": "C",
+  "VTANR5L15V3779": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V477": "C",
@@ -956,7 +958,7 @@
   "id": "2712326416",
   "name": "Joël Aviragnet",
   "public_metrics": {
-   "followers_count": 2581,
+   "followers_count": 2583,
    "following_count": 736,
    "listed_count": 106,
    "tweet_count": 555

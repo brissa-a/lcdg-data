@@ -339,6 +339,8 @@
   "VTANR5L15V3759": "A",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V409": "P",
   "VTANR5L15V410": "P",
@@ -365,7 +367,7 @@
   "id": "786149802731986944",
   "name": "michelfanget",
   "public_metrics": {
-   "followers_count": 1022,
+   "followers_count": 1023,
    "following_count": 100,
    "listed_count": 65,
    "tweet_count": 187

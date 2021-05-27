@@ -895,6 +895,11 @@
   "VTANR5L15V3775": "P",
   "VTANR5L15V3776": "P",
   "VTANR5L15V3777": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3780": "P",
+  "VTANR5L15V3787": "P",
+  "VTANR5L15V3788": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -1236,9 +1241,9 @@
   "name": "Isabelle Florennes",
   "public_metrics": {
    "followers_count": 4989,
-   "following_count": 3128,
+   "following_count": 3131,
    "listed_count": 109,
-   "tweet_count": 4975
+   "tweet_count": 4977
   },
   "username": "iflorennes92"
  },

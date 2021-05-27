@@ -237,14 +237,16 @@
   "VTANR5L15V3571": "C",
   "VTANR5L15V3633": "P",
   "VTANR5L15V3738": "A",
-  "VTANR5L15V3756": "C"
+  "VTANR5L15V3756": "C",
+  "VTANR5L15V3778": "C",
+  "VTANR5L15V3779": "C"
  },
  "twitter": {
   "id": "1304097324",
   "name": "Julien Ravier",
   "public_metrics": {
-   "followers_count": 3122,
-   "following_count": 2497,
+   "followers_count": 3130,
+   "following_count": 2515,
    "listed_count": 43,
    "tweet_count": 1998
   },

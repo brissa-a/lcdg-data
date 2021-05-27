@@ -570,6 +570,8 @@
   "VTANR5L15V3767": "C",
   "VTANR5L15V3769": "P",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -725,8 +727,8 @@
   "public_metrics": {
    "followers_count": 7241,
    "following_count": 1872,
-   "listed_count": 125,
-   "tweet_count": 5922
+   "listed_count": 126,
+   "tweet_count": 5923
   },
   "username": "ALouisDeputee13"
  },

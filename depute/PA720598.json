@@ -725,6 +725,13 @@
   "VTANR5L15V3768": "P",
   "VTANR5L15V3769": "P",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3785": "P",
+  "VTANR5L15V3786": "P",
+  "VTANR5L15V3787": "P",
+  "VTANR5L15V3788": "P",
+  "VTANR5L15V3789": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -839,9 +846,9 @@
   "name": "Marguerite Deprez",
   "public_metrics": {
    "followers_count": 2872,
-   "following_count": 1822,
+   "following_count": 1823,
    "listed_count": 97,
-   "tweet_count": 5485
+   "tweet_count": 5491
   },
   "username": "MDeprezAudebert"
  },

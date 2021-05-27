@@ -823,6 +823,13 @@
   "VTANR5L15V3768": "P",
   "VTANR5L15V3769": "P",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3780": "P",
+  "VTANR5L15V3783": "C",
+  "VTANR5L15V3784": "C",
+  "VTANR5L15V3785": "P",
+  "VTANR5L15V3786": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1053,7 +1060,7 @@
    "followers_count": 5478,
    "following_count": 1458,
    "listed_count": 114,
-   "tweet_count": 2629
+   "tweet_count": 2630
   },
   "username": "fabiennecolboc"
  },

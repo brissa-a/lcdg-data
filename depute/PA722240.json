@@ -553,16 +553,22 @@
   "VTANR5L15V3736": "C",
   "VTANR5L15V3737": "C",
   "VTANR5L15V3738": "P",
-  "VTANR5L15V3768": "P"
+  "VTANR5L15V3768": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3783": "C",
+  "VTANR5L15V3784": "C",
+  "VTANR5L15V3785": "P",
+  "VTANR5L15V3786": "P"
  },
  "twitter": {
   "id": "1169584397517017089",
   "name": "Pierre Venteau",
   "public_metrics": {
-   "followers_count": 768,
+   "followers_count": 771,
    "following_count": 197,
    "listed_count": 24,
-   "tweet_count": 1031
+   "tweet_count": 1040
   },
   "username": "PierreVenteau"
  },

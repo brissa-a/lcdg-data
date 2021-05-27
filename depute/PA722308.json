@@ -342,16 +342,18 @@
   "VTANR5L15V3755": "P",
   "VTANR5L15V3756": "C",
   "VTANR5L15V3758": "P",
-  "VTANR5L15V3759": "C"
+  "VTANR5L15V3759": "C",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A"
  },
  "twitter": {
   "id": "1286307042014171137",
   "name": "Serre Nathalie",
   "public_metrics": {
-   "followers_count": 223,
-   "following_count": 108,
+   "followers_count": 225,
+   "following_count": 109,
    "listed_count": 14,
-   "tweet_count": 329
+   "tweet_count": 333
   },
   "username": "NathalieSerre"
  },

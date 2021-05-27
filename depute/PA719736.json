@@ -420,16 +420,22 @@
   "VTANR5L15V3753": "C",
   "VTANR5L15V3754": "C",
   "VTANR5L15V3755": "C",
-  "VTANR5L15V3768": "P"
+  "VTANR5L15V3768": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3783": "P",
+  "VTANR5L15V3784": "P",
+  "VTANR5L15V3785": "P",
+  "VTANR5L15V3786": "P"
  },
  "twitter": {
   "id": "939271648880062464",
   "name": "Camille Galliard-Minier",
   "public_metrics": {
-   "followers_count": 779,
+   "followers_count": 778,
    "following_count": 263,
-   "listed_count": 18,
-   "tweet_count": 838
+   "listed_count": 19,
+   "tweet_count": 839
   },
   "username": "GalliardM"
  },

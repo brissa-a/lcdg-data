@@ -486,6 +486,8 @@
   "VTANR5L15V3774": "C",
   "VTANR5L15V3775": "P",
   "VTANR5L15V3777": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V408": "P",
@@ -619,7 +621,7 @@
   "id": "734819214",
   "name": "Antoine Savignat",
   "public_metrics": {
-   "followers_count": 1895,
+   "followers_count": 1897,
    "following_count": 711,
    "listed_count": 45,
    "tweet_count": 1115

@@ -399,6 +399,11 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3787": "P",
+  "VTANR5L15V3788": "P",
+  "VTANR5L15V3789": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -434,7 +439,7 @@
   "id": "853657404252311552",
   "name": "Christophe Di Pompeo",
   "public_metrics": {
-   "followers_count": 3625,
+   "followers_count": 3628,
    "following_count": 546,
    "listed_count": 106,
    "tweet_count": 1052

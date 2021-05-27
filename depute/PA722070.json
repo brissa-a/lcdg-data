@@ -625,6 +625,9 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3786": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V389": "P",
@@ -795,7 +798,7 @@
   "id": "738724327059656705",
   "name": "Pierre Henriet",
   "public_metrics": {
-   "followers_count": 3505,
+   "followers_count": 3489,
    "following_count": 873,
    "listed_count": 98,
    "tweet_count": 368

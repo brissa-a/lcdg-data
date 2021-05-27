@@ -295,6 +295,8 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -340,9 +342,9 @@
   "name": "Michel Zumkeller député",
   "public_metrics": {
    "followers_count": 3562,
-   "following_count": 1942,
+   "following_count": 1943,
    "listed_count": 176,
-   "tweet_count": 896
+   "tweet_count": 897
   },
   "username": "MichelZumkeller"
  },

@@ -712,6 +712,12 @@
   "VTANR5L15V3756": "C",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3780": "P",
+  "VTANR5L15V3783": "C",
+  "VTANR5L15V3784": "C",
+  "VTANR5L15V3785": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -823,9 +829,9 @@
   "name": "Patrick Mignola",
   "public_metrics": {
    "followers_count": 5984,
-   "following_count": 1511,
+   "following_count": 1512,
    "listed_count": 158,
-   "tweet_count": 2030
+   "tweet_count": 2031
   },
   "username": "PatrickMignola"
  },

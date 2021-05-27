@@ -185,6 +185,8 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "A",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V408": "P",
@@ -203,7 +205,7 @@
   "id": "937643785240096768",
   "name": "Nadia Ramassamy",
   "public_metrics": {
-   "followers_count": 1094,
+   "followers_count": 1092,
    "following_count": 555,
    "listed_count": 50,
    "tweet_count": 1160

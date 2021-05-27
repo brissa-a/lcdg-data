@@ -484,6 +484,8 @@
   "VTANR5L15V3765": "P",
   "VTANR5L15V3766": "P",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -524,7 +526,7 @@
   "id": "538968658",
   "name": "Alain Tourret",
   "public_metrics": {
-   "followers_count": 3434,
+   "followers_count": 3435,
    "following_count": 116,
    "listed_count": 186,
    "tweet_count": 312

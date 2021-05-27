@@ -1321,6 +1321,14 @@
   "VTANR5L15V3769": "P",
   "VTANR5L15V377": "C",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3780": "P",
+  "VTANR5L15V3783": "C",
+  "VTANR5L15V3786": "P",
+  "VTANR5L15V3787": "P",
+  "VTANR5L15V3788": "P",
+  "VTANR5L15V3789": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V385": "C",
@@ -1491,7 +1499,7 @@
   "id": "858769856463859712",
   "name": "Mireille Robert",
   "public_metrics": {
-   "followers_count": 6932,
+   "followers_count": 6933,
    "following_count": 894,
    "listed_count": 119,
    "tweet_count": 3508

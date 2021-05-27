@@ -810,6 +810,9 @@
   "VTANR5L15V376": "C",
   "VTANR5L15V3761": "P",
   "VTANR5L15V377": "C",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3780": "P",
   "VTANR5L15V379": "C",
   "VTANR5L15V380": "P",
   "VTANR5L15V383": "A",
@@ -998,7 +1001,7 @@
   "id": "863383857072140288",
   "name": "Brahim Hammouche",
   "public_metrics": {
-   "followers_count": 3812,
+   "followers_count": 3816,
    "following_count": 2016,
    "listed_count": 94,
    "tweet_count": 1058

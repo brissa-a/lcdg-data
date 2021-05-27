@@ -335,7 +335,9 @@
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
   "VTANR5L15V3761": "P",
-  "VTANR5L15V3768": "P"
+  "VTANR5L15V3768": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P"
  },
  "twitter": {
   "id": "826478037780852737",
@@ -344,7 +346,7 @@
    "followers_count": 484,
    "following_count": 231,
    "listed_count": 18,
-   "tweet_count": 1239
+   "tweet_count": 1240
   },
   "username": "C_Delpirou"
  },

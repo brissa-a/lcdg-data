@@ -996,6 +996,10 @@
   "VTANR5L15V3758": "P",
   "VTANR5L15V3760": "C",
   "VTANR5L15V3761": "C",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
+  "VTANR5L15V3785": "C",
+  "VTANR5L15V3786": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V387": "A",
   "VTANR5L15V388": "A",
@@ -1152,7 +1156,7 @@
   "id": "724577257",
   "name": "Véronique Louwagie",
   "public_metrics": {
-   "followers_count": 4061,
+   "followers_count": 4059,
    "following_count": 1020,
    "listed_count": 171,
    "tweet_count": 3401

@@ -562,6 +562,9 @@
   "VTANR5L15V375": "P",
   "VTANR5L15V376": "P",
   "VTANR5L15V377": "P",
+  "VTANR5L15V3778": "C",
+  "VTANR5L15V3779": "C",
+  "VTANR5L15V3780": "C",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "P",
@@ -706,7 +709,7 @@
   "id": "913087858679930880",
   "name": "Jean-Hugues Ratenon",
   "public_metrics": {
-   "followers_count": 5708,
+   "followers_count": 5707,
    "following_count": 247,
    "listed_count": 95,
    "tweet_count": 439

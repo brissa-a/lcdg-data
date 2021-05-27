@@ -822,6 +822,8 @@
   "VTANR5L15V3762": "P",
   "VTANR5L15V3769": "P",
   "VTANR5L15V3770": "P",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
@@ -964,7 +966,7 @@
   "id": "903635970955890688",
   "name": "Laurence GAYTE",
   "public_metrics": {
-   "followers_count": 1497,
+   "followers_count": 1495,
    "following_count": 723,
    "listed_count": 62,
    "tweet_count": 2014

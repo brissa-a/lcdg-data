@@ -1015,6 +1015,8 @@
   "VTANR5L15V3775": "N",
   "VTANR5L15V3776": "N",
   "VTANR5L15V3777": "N",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
   "VTANR5L15V4": "C",
@@ -1156,7 +1158,7 @@
   "id": "3130755833",
   "name": "Annie Genevard",
   "public_metrics": {
-   "followers_count": 14749,
+   "followers_count": 14751,
    "following_count": 1142,
    "listed_count": 195,
    "tweet_count": 4976

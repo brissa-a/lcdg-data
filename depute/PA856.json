@@ -586,6 +586,8 @@
   "VTANR5L15V3757": "C",
   "VTANR5L15V3758": "P",
   "VTANR5L15V3759": "C",
+  "VTANR5L15V3778": "C",
+  "VTANR5L15V3779": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -659,7 +661,7 @@
    "followers_count": 3260,
    "following_count": 543,
    "listed_count": 177,
-   "tweet_count": 2368
+   "tweet_count": 2369
   },
   "username": "GerardCherpion"
  },

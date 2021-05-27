@@ -445,6 +445,12 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "A",
+  "VTANR5L15V3778": "A",
+  "VTANR5L15V3779": "A",
+  "VTANR5L15V3783": "P",
+  "VTANR5L15V3784": "A",
+  "VTANR5L15V3785": "P",
+  "VTANR5L15V3786": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "A",
   "VTANR5L15V408": "P",
@@ -470,20 +476,8 @@
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "A"
  },
- "twitter": {
-  "id": "1384491847129571335",
-  "name": "André VILLIERS",
-  "public_metrics": {
-   "followers_count": 11,
-   "following_count": 8,
-   "listed_count": 0,
-   "tweet_count": 10
-  },
-  "username": "AndreVilliers89"
- },
  "twitter_username": {
-  "status": "found",
-  "value": "AndreVilliers89"
+  "status": "notfound"
  },
  "uid": "PA421348"
 }

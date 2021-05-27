@@ -464,16 +464,18 @@
   "VTANR5L15V3633": "P",
   "VTANR5L15V3738": "A",
   "VTANR5L15V3767": "C",
-  "VTANR5L15V3768": "C"
+  "VTANR5L15V3768": "C",
+  "VTANR5L15V3778": "C",
+  "VTANR5L15V3779": "C"
  },
  "twitter": {
   "id": "773854656",
   "name": "Nicolas Meizonnet",
   "public_metrics": {
-   "followers_count": 4985,
+   "followers_count": 4992,
    "following_count": 1439,
-   "listed_count": 56,
-   "tweet_count": 1774
+   "listed_count": 57,
+   "tweet_count": 1777
   },
   "username": "NMeizonnet"
  },

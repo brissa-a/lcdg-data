@@ -535,7 +535,10 @@
   "VTANR5L15V365": "C",
   "VTANR5L15V3738": "A",
   "VTANR5L15V3767": "C",
+  "VTANR5L15V3778": "C",
+  "VTANR5L15V3779": "C",
   "VTANR5L15V378": "P",
+  "VTANR5L15V3780": "A",
   "VTANR5L15V379": "P",
   "VTANR5L15V389": "A",
   "VTANR5L15V390": "P",
@@ -574,7 +577,7 @@
   "public_metrics": {
    "followers_count": 1110,
    "following_count": 123,
-   "listed_count": 39,
+   "listed_count": 40,
    "tweet_count": 733
   },
   "username": "FranceLorho"

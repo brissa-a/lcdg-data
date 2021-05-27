@@ -777,7 +777,12 @@
   "VTANR5L15V375": "N",
   "VTANR5L15V376": "N",
   "VTANR5L15V377": "N",
+  "VTANR5L15V3778": "P",
+  "VTANR5L15V3779": "P",
   "VTANR5L15V378": "N",
+  "VTANR5L15V3783": "C",
+  "VTANR5L15V3784": "C",
+  "VTANR5L15V3785": "P",
   "VTANR5L15V379": "N",
   "VTANR5L15V38": "N",
   "VTANR5L15V380": "N",
@@ -1472,8 +1477,8 @@
   "id": "455806353",
   "name": "François de Rugy",
   "public_metrics": {
-   "followers_count": 80291,
-   "following_count": 1470,
+   "followers_count": 80276,
+   "following_count": 1471,
    "listed_count": 1063,
    "tweet_count": 27937
   },
