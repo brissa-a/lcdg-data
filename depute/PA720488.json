@@ -238,14 +238,16 @@
   "VTANR5L15V3765": "P",
   "VTANR5L15V3766": "P",
   "VTANR5L15V3778": "A",
-  "VTANR5L15V3779": "A"
+  "VTANR5L15V3779": "A",
+  "VTANR5L15V3791": "P",
+  "VTANR5L15V3792": "P"
  },
  "twitter": {
   "id": "902470987765211137",
   "name": "Valérie Six",
   "public_metrics": {
    "followers_count": 882,
-   "following_count": 729,
+   "following_count": 730,
    "listed_count": 21,
    "tweet_count": 971
   },

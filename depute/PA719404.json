@@ -448,6 +448,9 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3786": "P",
+  "VTANR5L15V3790": "P",
+  "VTANR5L15V3791": "P",
+  "VTANR5L15V3792": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V420": "C",
@@ -536,7 +539,7 @@
   "name": "LE GAC Didier",
   "public_metrics": {
    "followers_count": 4782,
-   "following_count": 1972,
+   "following_count": 1973,
    "listed_count": 128,
    "tweet_count": 2828
   },

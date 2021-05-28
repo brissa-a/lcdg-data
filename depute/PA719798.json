@@ -1009,6 +1009,8 @@
   "VTANR5L15V3784": "C",
   "VTANR5L15V3785": "P",
   "VTANR5L15V3789": "P",
+  "VTANR5L15V3791": "P",
+  "VTANR5L15V3792": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -1141,10 +1143,10 @@
   "id": "3063365597",
   "name": "Labaronne Daniel",
   "public_metrics": {
-   "followers_count": 5766,
-   "following_count": 988,
+   "followers_count": 5767,
+   "following_count": 989,
    "listed_count": 113,
-   "tweet_count": 3583
+   "tweet_count": 3590
   },
   "username": "LabaronneDaniel"
  },

@@ -727,6 +727,7 @@
   "VTANR5L15V3786": "P",
   "VTANR5L15V3787": "P",
   "VTANR5L15V3788": "P",
+  "VTANR5L15V3790": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V382": "P",
@@ -1011,7 +1012,7 @@
   "id": "448808766",
   "name": "Richard Lioger",
   "public_metrics": {
-   "followers_count": 3357,
+   "followers_count": 3356,
    "following_count": 1568,
    "listed_count": 124,
    "tweet_count": 2453

@@ -756,6 +756,9 @@
   "VTANR5L15V378": "P",
   "VTANR5L15V3780": "C",
   "VTANR5L15V379": "P",
+  "VTANR5L15V3790": "P",
+  "VTANR5L15V3791": "P",
+  "VTANR5L15V3792": "P",
   "VTANR5L15V387": "A",
   "VTANR5L15V388": "A",
   "VTANR5L15V389": "P",
@@ -920,7 +923,7 @@
    "followers_count": 3700,
    "following_count": 1195,
    "listed_count": 103,
-   "tweet_count": 3754
+   "tweet_count": 3755
   },
   "username": "CORDIERPierre08"
  },
