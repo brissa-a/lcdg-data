@@ -823,6 +823,7 @@
   "VTANR5L15V3790": "P",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3793": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
@@ -901,9 +902,9 @@
   "name": "Barbara Bessot Ballot",
   "public_metrics": {
    "followers_count": 5231,
-   "following_count": 622,
+   "following_count": 623,
    "listed_count": 112,
-   "tweet_count": 2509
+   "tweet_count": 2511
   },
   "username": "B_BessotBallot"
  },

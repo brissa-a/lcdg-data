@@ -605,6 +605,7 @@
   "VTANR5L15V3790": "P",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3793": "C",
   "VTANR5L15V381": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -740,10 +741,10 @@
   "id": "770957104152768512",
   "name": "Eric PAUGET",
   "public_metrics": {
-   "followers_count": 3956,
-   "following_count": 608,
+   "followers_count": 3966,
+   "following_count": 610,
    "listed_count": 97,
-   "tweet_count": 5289
+   "tweet_count": 5297
   },
   "username": "EricPAUGET1"
  },

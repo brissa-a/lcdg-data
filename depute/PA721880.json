@@ -624,6 +624,7 @@
   "VTANR5L15V3777": "P",
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
+  "VTANR5L15V3793": "C",
   "VTANR5L15V390": "C",
   "VTANR5L15V393": "C",
   "VTANR5L15V394": "C",
@@ -773,7 +774,7 @@
   "id": "277091443",
   "name": "Marie Guévenoux",
   "public_metrics": {
-   "followers_count": 6387,
+   "followers_count": 6391,
    "following_count": 510,
    "listed_count": 115,
    "tweet_count": 1137

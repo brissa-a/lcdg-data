@@ -1098,6 +1098,7 @@
   "VTANR5L15V3788": "P",
   "VTANR5L15V3789": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3793": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "P",
@@ -1293,7 +1294,7 @@
   "id": "2380233572",
   "name": "Pierre Dharréville",
   "public_metrics": {
-   "followers_count": 4864,
+   "followers_count": 4867,
    "following_count": 354,
    "listed_count": 103,
    "tweet_count": 2059

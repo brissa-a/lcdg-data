@@ -467,6 +467,7 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V3780": "A",
+  "VTANR5L15V3793": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V408": "P",
@@ -541,7 +542,7 @@
   "id": "844476456164114432",
   "name": "Vincent Rolland",
   "public_metrics": {
-   "followers_count": 1288,
+   "followers_count": 1289,
    "following_count": 112,
    "listed_count": 66,
    "tweet_count": 161

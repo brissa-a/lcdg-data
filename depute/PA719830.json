@@ -998,6 +998,7 @@
   "VTANR5L15V3787": "P",
   "VTANR5L15V3788": "P",
   "VTANR5L15V3789": "P",
+  "VTANR5L15V3793": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -1346,8 +1347,8 @@
   "id": "987366042",
   "name": "Nicolas Démoulin",
   "public_metrics": {
-   "followers_count": 7173,
-   "following_count": 1325,
+   "followers_count": 7172,
+   "following_count": 1326,
    "listed_count": 128,
    "tweet_count": 3238
   },
