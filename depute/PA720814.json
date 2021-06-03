@@ -18,8 +18,8 @@
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/sebastienCazenove2017/",
-  "twitter_link": "https://twitter.com/@SCazenove/"
+  "facebook_link": "https://fr-fr.facebook.com/sebastien.cazenove/",
+  "twitter_link": "https://twitter.com/@SebCazenove/"
  },
  "circo": {
   "acteurId": "OMC_PA720814",
@@ -549,10 +549,10 @@
   "id": "1395004603972870147",
   "name": "Sebastien Cazenove",
   "public_metrics": {
-   "followers_count": 504,
-   "following_count": 595,
+   "followers_count": 510,
+   "following_count": 609,
    "listed_count": 0,
-   "tweet_count": 48
+   "tweet_count": 53
   },
   "username": "SebCazenove"
  },

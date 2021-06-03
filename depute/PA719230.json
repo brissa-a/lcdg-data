@@ -1276,6 +1276,8 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3793": "C",
+  "VTANR5L15V3794": "P",
+  "VTANR5L15V3795": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1543,7 +1545,7 @@
   "id": "4218590265",
   "name": "Yannick Kerlogot",
   "public_metrics": {
-   "followers_count": 1789,
+   "followers_count": 1792,
    "following_count": 700,
    "listed_count": 83,
    "tweet_count": 1406

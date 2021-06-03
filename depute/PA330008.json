@@ -588,6 +588,7 @@
   "VTANR5L15V3787": "P",
   "VTANR5L15V3788": "P",
   "VTANR5L15V3789": "P",
+  "VTANR5L15V3798": "A",
   "VTANR5L15V383": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -663,10 +664,10 @@
   "id": "110940366",
   "name": "Xavier BRETON",
   "public_metrics": {
-   "followers_count": 9103,
-   "following_count": 1329,
-   "listed_count": 265,
-   "tweet_count": 4837
+   "followers_count": 9111,
+   "following_count": 1330,
+   "listed_count": 266,
+   "tweet_count": 4856
   },
   "username": "bretonxavier"
  },

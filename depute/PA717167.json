@@ -455,15 +455,17 @@
   "VTANR5L15V3768": "P",
   "VTANR5L15V3769": "P",
   "VTANR5L15V3778": "P",
-  "VTANR5L15V3779": "P"
+  "VTANR5L15V3779": "P",
+  "VTANR5L15V3794": "P",
+  "VTANR5L15V3795": "C"
  },
  "twitter": {
   "id": "80528373",
   "name": "Mounir Mahjoubi",
   "public_metrics": {
-   "followers_count": 175074,
+   "followers_count": 175072,
    "following_count": 3366,
-   "listed_count": 1244,
+   "listed_count": 1245,
    "tweet_count": 5581
   },
   "username": "mounir"

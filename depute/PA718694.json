@@ -1063,6 +1063,7 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V378": "C",
   "VTANR5L15V379": "C",
+  "VTANR5L15V3798": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -1262,8 +1263,8 @@
   "id": "869560974323396608",
   "name": "Marc Delatte",
   "public_metrics": {
-   "followers_count": 2978,
-   "following_count": 2374,
+   "followers_count": 2977,
+   "following_count": 2372,
    "listed_count": 119,
    "tweet_count": 2708
   },

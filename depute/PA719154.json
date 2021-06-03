@@ -937,6 +937,10 @@
   "VTANR5L15V3787": "P",
   "VTANR5L15V3788": "P",
   "VTANR5L15V3789": "P",
+  "VTANR5L15V3794": "P",
+  "VTANR5L15V3795": "C",
+  "VTANR5L15V3796": "C",
+  "VTANR5L15V3797": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1151,7 +1155,7 @@
   "id": "2336493002",
   "name": "Didier Martin 🎗",
   "public_metrics": {
-   "followers_count": 4059,
+   "followers_count": 4064,
    "following_count": 1922,
    "listed_count": 127,
    "tweet_count": 2694

@@ -865,6 +865,7 @@
   "VTANR5L15V3786": "P",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3798": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -1052,10 +1053,10 @@
   "id": "818210180756336641",
   "name": "Guillaume Kasbarian",
   "public_metrics": {
-   "followers_count": 10143,
+   "followers_count": 10145,
    "following_count": 1228,
    "listed_count": 162,
-   "tweet_count": 5599
+   "tweet_count": 5612
   },
   "username": "guillaumekasba"
  },

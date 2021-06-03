@@ -635,6 +635,10 @@
   "VTANR5L15V3779": "A",
   "VTANR5L15V3780": "C",
   "VTANR5L15V3793": "C",
+  "VTANR5L15V3794": "C",
+  "VTANR5L15V3795": "C",
+  "VTANR5L15V3797": "P",
+  "VTANR5L15V3798": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V40": "C",
   "VTANR5L15V407": "P",
@@ -764,10 +768,10 @@
   "id": "3772780954",
   "name": "Frédérique Dumas",
   "public_metrics": {
-   "followers_count": 9855,
-   "following_count": 2515,
+   "followers_count": 9856,
+   "following_count": 2514,
    "listed_count": 154,
-   "tweet_count": 6308
+   "tweet_count": 6313
   },
   "username": "DumasFrederique"
  },

@@ -411,6 +411,10 @@
   "VTANR5L15V3770": "A",
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
+  "VTANR5L15V3794": "P",
+  "VTANR5L15V3795": "P",
+  "VTANR5L15V3796": "P",
+  "VTANR5L15V3797": "A",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "P",
@@ -549,7 +553,7 @@
    "followers_count": 3850,
    "following_count": 603,
    "listed_count": 91,
-   "tweet_count": 2833
+   "tweet_count": 2835
   },
   "username": "DiardEric"
  },

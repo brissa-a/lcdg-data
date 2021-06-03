@@ -857,6 +857,7 @@
   "VTANR5L15V3780": "P",
   "VTANR5L15V3786": "P",
   "VTANR5L15V3793": "C",
+  "VTANR5L15V3798": "P",
   "VTANR5L15V381": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -956,7 +957,7 @@
   "id": "365505352",
   "name": "Philippe Vigier",
   "public_metrics": {
-   "followers_count": 11857,
+   "followers_count": 11860,
    "following_count": 4402,
    "listed_count": 299,
    "tweet_count": 6093

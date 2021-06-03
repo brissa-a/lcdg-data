@@ -953,6 +953,7 @@
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
   "VTANR5L15V3793": "C",
+  "VTANR5L15V3798": "P",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
@@ -1145,7 +1146,7 @@
    "followers_count": 5722,
    "following_count": 758,
    "listed_count": 103,
-   "tweet_count": 3470
+   "tweet_count": 3471
   },
   "username": "SylvieCharriere"
  },

@@ -327,6 +327,7 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3780": "P",
+  "VTANR5L15V3798": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V476": "C",
@@ -353,7 +354,7 @@
   "id": "413114866",
   "name": "Lénaïck ADAM",
   "public_metrics": {
-   "followers_count": 2764,
+   "followers_count": 2768,
    "following_count": 646,
    "listed_count": 101,
    "tweet_count": 317
