@@ -648,6 +648,7 @@
   "VTANR5L15V3785": "A",
   "VTANR5L15V3786": "A",
   "VTANR5L15V379": "P",
+  "VTANR5L15V3800": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
@@ -753,10 +754,10 @@
   "id": "106557131",
   "name": "Julien DIVE",
   "public_metrics": {
-   "followers_count": 7150,
+   "followers_count": 7145,
    "following_count": 1249,
    "listed_count": 178,
-   "tweet_count": 12417
+   "tweet_count": 12423
   },
   "username": "JulienDive"
  },

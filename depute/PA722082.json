@@ -318,7 +318,9 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3793": "C",
   "VTANR5L15V3796": "C",
-  "VTANR5L15V3797": "P"
+  "VTANR5L15V3797": "P",
+  "VTANR5L15V3801": "P",
+  "VTANR5L15V3802": "P"
  },
  "twitter": {
   "id": "865297846786031616",
@@ -327,7 +329,7 @@
    "followers_count": 595,
    "following_count": 314,
    "listed_count": 16,
-   "tweet_count": 186
+   "tweet_count": 187
   },
   "username": "fballetblu"
  },

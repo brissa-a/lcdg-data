@@ -1184,6 +1184,7 @@
   "VTANR5L15V3794": "P",
   "VTANR5L15V3795": "C",
   "VTANR5L15V3798": "P",
+  "VTANR5L15V3800": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -1469,10 +1470,10 @@
   "id": "3887630259",
   "name": "Jean-Jacques Bridey #Vacciné",
   "public_metrics": {
-   "followers_count": 4333,
-   "following_count": 1235,
+   "followers_count": 4331,
+   "following_count": 1234,
    "listed_count": 147,
-   "tweet_count": 3600
+   "tweet_count": 3604
   },
   "username": "jjbridey94260"
  },

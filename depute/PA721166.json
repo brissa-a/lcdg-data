@@ -445,6 +445,7 @@
   "VTANR5L15V3783": "C",
   "VTANR5L15V3785": "P",
   "VTANR5L15V38": "C",
+  "VTANR5L15V3802": "P",
   "VTANR5L15V48": "C",
   "VTANR5L15V49": "P",
   "VTANR5L15V59": "C",
@@ -500,10 +501,10 @@
   "id": "214823261",
   "name": "Samantha Cazebonne",
   "public_metrics": {
-   "followers_count": 10544,
-   "following_count": 3338,
+   "followers_count": 10549,
+   "following_count": 3336,
    "listed_count": 128,
-   "tweet_count": 2550
+   "tweet_count": 2555
   },
   "username": "scazebonne"
  },

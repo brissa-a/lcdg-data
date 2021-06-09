@@ -473,7 +473,11 @@
   "VTANR5L15V3767": "C",
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
+  "VTANR5L15V3799": "P",
   "VTANR5L15V380": "P",
+  "VTANR5L15V3800": "P",
+  "VTANR5L15V3801": "P",
+  "VTANR5L15V3802": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -585,7 +589,7 @@
    "followers_count": 3320,
    "following_count": 1063,
    "listed_count": 87,
-   "tweet_count": 1921
+   "tweet_count": 1924
   },
   "username": "AFBrunet_4403"
  },

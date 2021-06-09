@@ -1,0 +1,70 @@
+{
+ "an_data_depute": {
+  "dateNais": "1986-11-22",
+  "femme": true,
+  "ident": {
+   "alpha": "El Aaraje",
+   "civ": "Mme",
+   "nom": "El Aaraje",
+   "prenom": "Lamia",
+   "trigramme": "LEL"
+  },
+  "nom": "Lamia El Aaraje"
+ },
+ "an_www_depute": {
+  "groupe": "Socialistes et apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/783468.jpg",
+  "nosiege": "517"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA783468",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 20eme arrondissement (75020)"
+  ],
+  "departement": "Paris",
+  "group": "Socialistes et apparentés",
+  "nom": "El Aaraje",
+  "numCirco": "15",
+  "numDepartement": "75",
+  "prenom": "Lamia"
+ },
+ "datan": "https://datan.fr/deputes/paris-75/depute_lamia-elaaraje",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 44,
+   "curRadiusIndex": 6,
+   "id": "ai44ri6",
+   "no": 517,
+   "polar": {
+    "angle": 2.6081146558103945,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": -0.591967483090057,
+    "y": -0.34968426624065124
+   }
+  }
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Lamia-El Aaraje",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA783468",
+ "twitter": {
+  "id": "943672818",
+  "name": "Lamia El Aaraje",
+  "public_metrics": {
+   "followers_count": 3302,
+   "following_count": 1568,
+   "listed_count": 24,
+   "tweet_count": 2447
+  },
+  "username": "lamiaela"
+ },
+ "twitter_username": {
+  "status": "found",
+  "value": "lamiaela"
+ },
+ "uid": "PA783468"
+}

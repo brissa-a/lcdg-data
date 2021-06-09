@@ -686,6 +686,7 @@
   "VTANR5L15V3785": "P",
   "VTANR5L15V3786": "P",
   "VTANR5L15V3788": "P",
+  "VTANR5L15V3801": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -874,7 +875,7 @@
   "public_metrics": {
    "followers_count": 4376,
    "following_count": 458,
-   "listed_count": 108,
+   "listed_count": 106,
    "tweet_count": 860
   },
   "username": "F_Lardet"

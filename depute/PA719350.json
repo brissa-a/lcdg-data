@@ -866,8 +866,12 @@
   "VTANR5L15V3757": "P",
   "VTANR5L15V3759": "P",
   "VTANR5L15V3760": "P",
+  "VTANR5L15V3799": "C",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "P",
+  "VTANR5L15V3800": "C",
+  "VTANR5L15V3801": "P",
+  "VTANR5L15V3802": "A",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
@@ -951,7 +955,7 @@
    "followers_count": 2098,
    "following_count": 913,
    "listed_count": 73,
-   "tweet_count": 1445
+   "tweet_count": 1448
   },
   "username": "marietamarelle"
  },

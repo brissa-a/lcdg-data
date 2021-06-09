@@ -902,6 +902,8 @@
   "VTANR5L15V3793": "C",
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
+  "VTANR5L15V3800": "C",
+  "VTANR5L15V3801": "A",
   "VTANR5L15V382": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
@@ -1111,9 +1113,9 @@
   "name": "Aude Bono-Vandorme",
   "public_metrics": {
    "followers_count": 2068,
-   "following_count": 507,
-   "listed_count": 104,
-   "tweet_count": 302
+   "following_count": 510,
+   "listed_count": 105,
+   "tweet_count": 304
   },
   "username": "AudeBono"
  },

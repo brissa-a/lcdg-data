@@ -736,6 +736,9 @@
   "VTANR5L15V3797": "P",
   "VTANR5L15V3798": "P",
   "VTANR5L15V38": "P",
+  "VTANR5L15V3800": "P",
+  "VTANR5L15V3801": "P",
+  "VTANR5L15V3802": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -821,7 +824,7 @@
    "followers_count": 4379,
    "following_count": 841,
    "listed_count": 125,
-   "tweet_count": 2599
+   "tweet_count": 2605
   },
   "username": "JFEliaou"
  },

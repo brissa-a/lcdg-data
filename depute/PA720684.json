@@ -653,6 +653,7 @@
   "VTANR5L15V3779": "C",
   "VTANR5L15V3780": "A",
   "VTANR5L15V3783": "C",
+  "VTANR5L15V3800": "C",
   "VTANR5L15V387": "A",
   "VTANR5L15V388": "P",
   "VTANR5L15V389": "P",
@@ -844,9 +845,9 @@
   "name": "Pierre-Henri Dumont",
   "public_metrics": {
    "followers_count": 11851,
-   "following_count": 531,
-   "listed_count": 174,
-   "tweet_count": 14911
+   "following_count": 532,
+   "listed_count": 178,
+   "tweet_count": 14919
   },
   "username": "phdumont"
  },

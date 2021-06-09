@@ -588,6 +588,7 @@
   "VTANR5L15V3759": "C",
   "VTANR5L15V3778": "C",
   "VTANR5L15V3779": "C",
+  "VTANR5L15V3800": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -658,8 +659,8 @@
   "id": "532466430",
   "name": "Gérard Cherpion",
   "public_metrics": {
-   "followers_count": 3263,
-   "following_count": 543,
+   "followers_count": 3260,
+   "following_count": 544,
    "listed_count": 177,
    "tweet_count": 2373
   },
