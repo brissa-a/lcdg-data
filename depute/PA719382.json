@@ -233,7 +233,9 @@
   "VTANR5L15V3786": "P",
   "VTANR5L15V3787": "P",
   "VTANR5L15V3788": "P",
-  "VTANR5L15V3793": "C"
+  "VTANR5L15V3793": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P"
  },
  "twitter": {
   "id": "1354822700548509704",
@@ -242,7 +244,7 @@
    "followers_count": 151,
    "following_count": 104,
    "listed_count": 2,
-   "tweet_count": 104
+   "tweet_count": 105
   },
   "username": "LamiraultLuc"
  },

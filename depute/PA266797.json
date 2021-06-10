@@ -795,6 +795,11 @@
   "VTANR5L15V3800": "C",
   "VTANR5L15V3801": "C",
   "VTANR5L15V3802": "C",
+  "VTANR5L15V3803": "C",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V387": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
@@ -886,9 +891,9 @@
   "id": "380373029",
   "name": "Philippe GOSSELIN",
   "public_metrics": {
-   "followers_count": 14776,
+   "followers_count": 14749,
    "following_count": 895,
-   "listed_count": 303,
+   "listed_count": 302,
    "tweet_count": 9372
   },
   "username": "phgosselin"

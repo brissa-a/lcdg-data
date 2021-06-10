@@ -594,6 +594,11 @@
   "VTANR5L15V380": "P",
   "VTANR5L15V3801": "P",
   "VTANR5L15V3802": "P",
+  "VTANR5L15V3803": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "C",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -751,10 +756,10 @@
   "id": "814331851070382080",
   "name": "Jean-Michel JACQUES",
   "public_metrics": {
-   "followers_count": 4586,
+   "followers_count": 4583,
    "following_count": 1512,
    "listed_count": 121,
-   "tweet_count": 2122
+   "tweet_count": 2123
   },
   "username": "J_M_Jacques"
  },

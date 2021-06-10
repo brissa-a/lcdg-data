@@ -382,6 +382,10 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V3800": "C",
   "VTANR5L15V3801": "C",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V390": "P",
@@ -497,7 +501,7 @@
   "id": "424117102",
   "name": "Claude de Ganay",
   "public_metrics": {
-   "followers_count": 5360,
+   "followers_count": 5356,
    "following_count": 1025,
    "listed_count": 172,
    "tweet_count": 1434

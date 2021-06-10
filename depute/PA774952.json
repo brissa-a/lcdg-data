@@ -201,16 +201,21 @@
   "VTANR5L15V3796": "P",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3800": "C",
-  "VTANR5L15V3801": "C"
+  "VTANR5L15V3801": "C",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "C"
  },
  "twitter": {
   "id": "1612404397",
   "name": "Philippe BENASSAYA",
   "public_metrics": {
-   "followers_count": 2856,
+   "followers_count": 2854,
    "following_count": 818,
    "listed_count": 58,
-   "tweet_count": 5093
+   "tweet_count": 5097
   },
   "username": "PhilipBenassaya"
  },

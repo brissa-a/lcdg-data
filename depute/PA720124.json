@@ -559,6 +559,11 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V380": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -651,21 +656,6 @@
   "VTANR5L15V997": "C",
   "VTANR5L15V998": "A",
   "VTANR5L15V999": "A"
- },
- "twitter": {
-  "id": "1114759578",
-  "name": "Aude Amadou",
-  "public_metrics": {
-   "followers_count": 4630,
-   "following_count": 789,
-   "listed_count": 117,
-   "tweet_count": 1586
-  },
-  "username": "AudeAmadou"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "AudeAmadou"
  },
  "uid": "PA720124"
 }

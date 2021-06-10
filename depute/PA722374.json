@@ -601,6 +601,8 @@
   "VTANR5L15V3786": "P",
   "VTANR5L15V3800": "A",
   "VTANR5L15V3801": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -675,7 +677,7 @@
    "followers_count": 2390,
    "following_count": 1240,
    "listed_count": 102,
-   "tweet_count": 5814
+   "tweet_count": 5817
   },
   "username": "CIsaacSibille"
  },

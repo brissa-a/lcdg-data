@@ -581,6 +581,7 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3798": "P",
+  "VTANR5L15V3803": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V404": "P",
   "VTANR5L15V405": "P",
@@ -706,7 +707,7 @@
   "id": "99056802",
   "name": "Raphaël Gauvain",
   "public_metrics": {
-   "followers_count": 2853,
+   "followers_count": 2851,
    "following_count": 2327,
    "listed_count": 103,
    "tweet_count": 2550

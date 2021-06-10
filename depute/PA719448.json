@@ -877,6 +877,11 @@
   "VTANR5L15V3786": "P",
   "VTANR5L15V3787": "P",
   "VTANR5L15V3802": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "P",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1063,9 +1068,9 @@
   "id": "864528441303027712",
   "name": "Annie Chapelier",
   "public_metrics": {
-   "followers_count": 6942,
+   "followers_count": 6937,
    "following_count": 959,
-   "listed_count": 116,
+   "listed_count": 0,
    "tweet_count": 1852
   },
   "username": "chapelierannie"

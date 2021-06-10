@@ -654,6 +654,11 @@
   "VTANR5L15V380": "P",
   "VTANR5L15V3800": "P",
   "VTANR5L15V3801": "P",
+  "VTANR5L15V3803": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
   "VTANR5L15V384": "C",
@@ -821,7 +826,7 @@
    "followers_count": 5696,
    "following_count": 1371,
    "listed_count": 115,
-   "tweet_count": 2443
+   "tweet_count": 2446
   },
   "username": "Romeiro1L"
  },

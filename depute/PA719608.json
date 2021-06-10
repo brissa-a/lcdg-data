@@ -2048,6 +2048,12 @@
   "VTANR5L15V3800": "C",
   "VTANR5L15V3801": "C",
   "VTANR5L15V3802": "A",
+  "VTANR5L15V3803": "C",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V381": "P",
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
@@ -2462,10 +2468,10 @@
   "id": "883251500138598400",
   "name": "Emmanuelle Ménard",
   "public_metrics": {
-   "followers_count": 8847,
+   "followers_count": 8857,
    "following_count": 32,
    "listed_count": 68,
-   "tweet_count": 836
+   "tweet_count": 842
   },
   "username": "emenard34"
  },

@@ -1618,6 +1618,12 @@
   "VTANR5L15V3793": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
+  "VTANR5L15V3803": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
@@ -1873,7 +1879,7 @@
    "followers_count": 14538,
    "following_count": 743,
    "listed_count": 152,
-   "tweet_count": 10463
+   "tweet_count": 10475
   },
   "username": "VerdierJouclas"
  },

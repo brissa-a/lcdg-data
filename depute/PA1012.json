@@ -414,6 +414,10 @@
   "VTANR5L15V3738": "A",
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -519,7 +523,7 @@
   "id": "115003417",
   "name": "delaverpilliere",
   "public_metrics": {
-   "followers_count": 4656,
+   "followers_count": 4649,
    "following_count": 434,
    "listed_count": 148,
    "tweet_count": 1047

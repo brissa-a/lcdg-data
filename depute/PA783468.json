@@ -51,14 +51,21 @@
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Lamia-El Aaraje",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA783468",
+ "scrutins": {
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "P",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P"
+ },
  "twitter": {
   "id": "943672818",
   "name": "Lamia El Aaraje",
   "public_metrics": {
-   "followers_count": 3302,
+   "followers_count": 3330,
    "following_count": 1568,
    "listed_count": 24,
-   "tweet_count": 2447
+   "tweet_count": 2450
   },
   "username": "lamiaela"
  },

@@ -339,6 +339,7 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V3800": "P",
+  "VTANR5L15V3803": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
@@ -484,10 +485,10 @@
   "id": "2525163440",
   "name": "Pierre PERSON",
   "public_metrics": {
-   "followers_count": 28735,
+   "followers_count": 28725,
    "following_count": 1632,
    "listed_count": 311,
-   "tweet_count": 4110
+   "tweet_count": 4113
   },
   "username": "Pierr_Person"
  },

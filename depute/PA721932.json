@@ -545,6 +545,12 @@
   "VTANR5L15V3800": "C",
   "VTANR5L15V3801": "C",
   "VTANR5L15V3802": "A",
+  "VTANR5L15V3803": "C",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V389": "A",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
@@ -580,7 +586,7 @@
   "id": "902788871460724740",
   "name": "Marie-France Lorho",
   "public_metrics": {
-   "followers_count": 1117,
+   "followers_count": 1116,
    "following_count": 124,
    "listed_count": 41,
    "tweet_count": 734

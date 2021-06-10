@@ -671,6 +671,7 @@
   "VTANR5L15V3789": "P",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3803": "C",
   "VTANR5L15V387": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
@@ -805,7 +806,7 @@
   "id": "866886606",
   "name": "Arnaud VIALA",
   "public_metrics": {
-   "followers_count": 3146,
+   "followers_count": 3142,
    "following_count": 1123,
    "listed_count": 102,
    "tweet_count": 1336

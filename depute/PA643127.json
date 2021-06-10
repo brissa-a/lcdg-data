@@ -890,6 +890,7 @@
   "VTANR5L15V3800": "P",
   "VTANR5L15V3801": "P",
   "VTANR5L15V3802": "P",
+  "VTANR5L15V3803": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
@@ -1274,9 +1275,9 @@
   "name": "Bruno Questel 🇫🇷 #Vacciné",
   "public_metrics": {
    "followers_count": 11881,
-   "following_count": 656,
+   "following_count": 657,
    "listed_count": 157,
-   "tweet_count": 7225
+   "tweet_count": 7238
   },
   "username": "BQuestel"
  },

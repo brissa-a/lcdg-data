@@ -478,6 +478,11 @@
   "VTANR5L15V3800": "P",
   "VTANR5L15V3801": "P",
   "VTANR5L15V3802": "P",
+  "VTANR5L15V3803": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "P",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -586,10 +591,10 @@
   "id": "864509060816793601",
   "name": "Anne-France Brunet",
   "public_metrics": {
-   "followers_count": 3320,
-   "following_count": 1063,
+   "followers_count": 3318,
+   "following_count": 1064,
    "listed_count": 87,
-   "tweet_count": 1924
+   "tweet_count": 1927
   },
   "username": "AFBrunet_4403"
  },

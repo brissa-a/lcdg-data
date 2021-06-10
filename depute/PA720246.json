@@ -700,7 +700,13 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3798": "P",
   "VTANR5L15V3801": "P",
-  "VTANR5L15V3802": "P"
+  "VTANR5L15V3802": "P",
+  "VTANR5L15V3803": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P"
  },
  "twitter": {
   "id": "749231728452104192",
@@ -709,7 +715,7 @@
    "followers_count": 497,
    "following_count": 921,
    "listed_count": 19,
-   "tweet_count": 4427
+   "tweet_count": 4451
   },
   "username": "sylv1templier"
  },

@@ -942,6 +942,10 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3799": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "C",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1156,10 +1160,10 @@
   "id": "2336493002",
   "name": "Didier Martin 🎗",
   "public_metrics": {
-   "followers_count": 4071,
-   "following_count": 1924,
+   "followers_count": 4073,
+   "following_count": 1925,
    "listed_count": 128,
-   "tweet_count": 2698
+   "tweet_count": 2699
   },
   "username": "dmartindijon"
  },

@@ -248,16 +248,19 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3780": "P",
-  "VTANR5L15V3793": "C"
+  "VTANR5L15V3793": "C",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3808": "P"
  },
  "twitter": {
   "id": "938164497545682946",
   "name": "David Corceiro",
   "public_metrics": {
    "followers_count": 1070,
-   "following_count": 548,
+   "following_count": 549,
    "listed_count": 15,
-   "tweet_count": 1537
+   "tweet_count": 1541
   },
   "username": "CorceiroDavid"
  },

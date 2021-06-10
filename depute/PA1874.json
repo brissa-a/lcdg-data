@@ -1154,6 +1154,11 @@
   "VTANR5L15V3798": "N",
   "VTANR5L15V3800": "C",
   "VTANR5L15V3801": "C",
+  "VTANR5L15V3803": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "N",
   "VTANR5L15V394": "N",
@@ -1291,9 +1296,9 @@
   "id": "110459051",
   "name": "Marc Le Fur",
   "public_metrics": {
-   "followers_count": 13858,
-   "following_count": 1631,
-   "listed_count": 343,
+   "followers_count": 13847,
+   "following_count": 1632,
+   "listed_count": 345,
    "tweet_count": 3694
   },
   "username": "marclefur"

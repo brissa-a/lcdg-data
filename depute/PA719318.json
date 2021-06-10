@@ -860,6 +860,11 @@
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
   "VTANR5L15V38": "P",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V387": "A",
   "VTANR5L15V388": "A",
   "VTANR5L15V389": "P",
@@ -1148,7 +1153,7 @@
   "id": "807531084678385665",
   "name": "Emmanuelle Anthoine",
   "public_metrics": {
-   "followers_count": 1418,
+   "followers_count": 1416,
    "following_count": 426,
    "listed_count": 80,
    "tweet_count": 378

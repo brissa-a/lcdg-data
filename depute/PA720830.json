@@ -952,6 +952,12 @@
   "VTANR5L15V3798": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V3800": "P",
+  "VTANR5L15V3803": "P",
+  "VTANR5L15V3804": "P",
+  "VTANR5L15V3805": "P",
+  "VTANR5L15V3806": "P",
+  "VTANR5L15V3807": "P",
+  "VTANR5L15V3808": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1213,7 +1219,7 @@
    "followers_count": 2338,
    "following_count": 839,
    "listed_count": 89,
-   "tweet_count": 1619
+   "tweet_count": 1624
   },
   "username": "Vthomas_63"
  },

@@ -717,6 +717,11 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V380": "C",
+  "VTANR5L15V3803": "C",
+  "VTANR5L15V3804": "C",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3806": "C",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "P",
@@ -771,7 +776,7 @@
   "id": "983695865612251136",
   "name": "Josiane Corneloup",
   "public_metrics": {
-   "followers_count": 547,
+   "followers_count": 546,
    "following_count": 142,
    "listed_count": 37,
    "tweet_count": 934

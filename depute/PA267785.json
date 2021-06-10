@@ -479,6 +479,8 @@
   "VTANR5L15V3786": "A",
   "VTANR5L15V3794": "P",
   "VTANR5L15V3798": "P",
+  "VTANR5L15V3805": "C",
+  "VTANR5L15V3808": "C",
   "VTANR5L15V383": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
@@ -606,7 +608,7 @@
   "id": "177662118",
   "name": "🇫🇷 Guillaume Larrivé",
   "public_metrics": {
-   "followers_count": 35487,
+   "followers_count": 35465,
    "following_count": 2160,
    "listed_count": 385,
    "tweet_count": 8333
