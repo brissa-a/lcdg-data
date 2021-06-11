@@ -848,6 +848,7 @@
   "VTANR5L15V380": "P",
   "VTANR5L15V3803": "P",
   "VTANR5L15V3805": "P",
+  "VTANR5L15V3813": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -954,8 +955,8 @@
   "id": "865810478315995136",
   "name": "Belkhir Belhaddad",
   "public_metrics": {
-   "followers_count": 3598,
-   "following_count": 1211,
+   "followers_count": 3599,
+   "following_count": 1210,
    "listed_count": 105,
    "tweet_count": 1007
   },

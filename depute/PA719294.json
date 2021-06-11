@@ -976,6 +976,13 @@
   "VTANR5L15V3806": "C",
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3809": "P",
+  "VTANR5L15V3810": "C",
+  "VTANR5L15V3811": "C",
+  "VTANR5L15V3812": "C",
+  "VTANR5L15V3813": "P",
+  "VTANR5L15V3814": "P",
+  "VTANR5L15V3816": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -1215,8 +1222,8 @@
   "public_metrics": {
    "followers_count": 7859,
    "following_count": 2387,
-   "listed_count": 125,
-   "tweet_count": 3378
+   "listed_count": 126,
+   "tweet_count": 3381
   },
   "username": "CLAPOTMireille"
  },

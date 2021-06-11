@@ -1061,6 +1061,7 @@
   "VTANR5L15V3798": "C",
   "VTANR5L15V38": "P",
   "VTANR5L15V381": "C",
+  "VTANR5L15V3814": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
@@ -1205,10 +1206,10 @@
   "id": "813728148",
   "name": "Émilie Cariou",
   "public_metrics": {
-   "followers_count": 7363,
-   "following_count": 1038,
+   "followers_count": 7370,
+   "following_count": 1040,
    "listed_count": 132,
-   "tweet_count": 3613
+   "tweet_count": 3623
   },
   "username": "EmilieCariou"
  },

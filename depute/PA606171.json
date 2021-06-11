@@ -2919,6 +2919,14 @@
   "VTANR5L15V3806": "N",
   "VTANR5L15V3807": "N",
   "VTANR5L15V3808": "N",
+  "VTANR5L15V3809": "N",
+  "VTANR5L15V3810": "N",
+  "VTANR5L15V3811": "N",
+  "VTANR5L15V3812": "N",
+  "VTANR5L15V3813": "N",
+  "VTANR5L15V3814": "N",
+  "VTANR5L15V3815": "N",
+  "VTANR5L15V3816": "N",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -2984,9 +2992,9 @@
   "id": "438305534",
   "name": "Richard Ferrand",
   "public_metrics": {
-   "followers_count": 95670,
+   "followers_count": 95672,
    "following_count": 1673,
-   "listed_count": 870,
+   "listed_count": 871,
    "tweet_count": 10938
   },
   "username": "RichardFerrand"

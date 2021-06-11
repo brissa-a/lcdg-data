@@ -414,6 +414,13 @@
   "VTANR5L15V3806": "P",
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3810": "C",
+  "VTANR5L15V3811": "C",
+  "VTANR5L15V3812": "C",
+  "VTANR5L15V3813": "P",
+  "VTANR5L15V3814": "P",
+  "VTANR5L15V3815": "P",
+  "VTANR5L15V3816": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -508,9 +515,9 @@
   "id": "542779549",
   "name": "Florian Bachelier",
   "public_metrics": {
-   "followers_count": 12179,
-   "following_count": 3619,
-   "listed_count": 201,
+   "followers_count": 12198,
+   "following_count": 3618,
+   "listed_count": 202,
    "tweet_count": 5169
   },
   "username": "F_BACHELIER"

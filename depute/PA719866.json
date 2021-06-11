@@ -905,6 +905,7 @@
   "VTANR5L15V3805": "P",
   "VTANR5L15V3806": "C",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3809": "P",
   "VTANR5L15V382": "C",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1207,9 +1208,9 @@
   "id": "507168683",
   "name": "Abadie Caroline",
   "public_metrics": {
-   "followers_count": 5833,
+   "followers_count": 5832,
    "following_count": 2306,
-   "listed_count": 124,
+   "listed_count": 125,
    "tweet_count": 1911
   },
   "username": "AbadieCaroline"

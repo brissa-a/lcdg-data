@@ -966,6 +966,13 @@
   "VTANR5L15V3801": "P",
   "VTANR5L15V3802": "P",
   "VTANR5L15V3803": "P",
+  "VTANR5L15V3810": "C",
+  "VTANR5L15V3811": "C",
+  "VTANR5L15V3812": "C",
+  "VTANR5L15V3813": "P",
+  "VTANR5L15V3814": "P",
+  "VTANR5L15V3815": "P",
+  "VTANR5L15V3816": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -1151,10 +1158,10 @@
   "id": "122155194",
   "name": "Jean-Marc Zulesi",
   "public_metrics": {
-   "followers_count": 7868,
-   "following_count": 4316,
+   "followers_count": 7870,
+   "following_count": 4318,
    "listed_count": 170,
-   "tweet_count": 7789
+   "tweet_count": 7792
   },
   "username": "jmzulesi"
  },

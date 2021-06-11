@@ -997,6 +997,7 @@
   "VTANR5L15V3786": "C",
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "C",
+  "VTANR5L15V3809": "P",
   "VTANR5L15V387": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
@@ -1156,7 +1157,7 @@
   "id": "450644069",
   "name": "Dominique Potier",
   "public_metrics": {
-   "followers_count": 9613,
+   "followers_count": 9617,
    "following_count": 2066,
    "listed_count": 238,
    "tweet_count": 3755

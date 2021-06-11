@@ -801,6 +801,10 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V38": "P",
+  "VTANR5L15V3810": "C",
+  "VTANR5L15V3811": "C",
+  "VTANR5L15V3812": "C",
+  "VTANR5L15V3814": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -921,7 +925,7 @@
   "id": "372686353",
   "name": "Anne-Laure Cattelot",
   "public_metrics": {
-   "followers_count": 4644,
+   "followers_count": 4643,
    "following_count": 1621,
    "listed_count": 141,
    "tweet_count": 4355

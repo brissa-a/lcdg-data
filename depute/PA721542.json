@@ -1625,6 +1625,10 @@
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "P",
   "VTANR5L15V381": "C",
+  "VTANR5L15V3810": "C",
+  "VTANR5L15V3811": "C",
+  "VTANR5L15V3813": "P",
+  "VTANR5L15V3814": "P",
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
   "VTANR5L15V384": "C",
@@ -1876,10 +1880,10 @@
   "id": "843864760689016833",
   "name": "Marie-Christine Verdier-Jouclas #Vaccinée 💉",
   "public_metrics": {
-   "followers_count": 14538,
+   "followers_count": 14539,
    "following_count": 743,
-   "listed_count": 152,
-   "tweet_count": 10475
+   "listed_count": 153,
+   "tweet_count": 10478
   },
   "username": "VerdierJouclas"
  },

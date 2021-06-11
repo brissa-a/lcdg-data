@@ -944,6 +944,9 @@
   "VTANR5L15V3795": "C",
   "VTANR5L15V3798": "P",
   "VTANR5L15V3800": "P",
+  "VTANR5L15V3812": "C",
+  "VTANR5L15V3813": "P",
+  "VTANR5L15V3814": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
@@ -1097,7 +1100,7 @@
   "id": "1037275272364650496",
   "name": "Stéphane Testé",
   "public_metrics": {
-   "followers_count": 2040,
+   "followers_count": 2041,
    "following_count": 1170,
    "listed_count": 45,
    "tweet_count": 1670

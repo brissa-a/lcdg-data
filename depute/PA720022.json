@@ -791,6 +791,8 @@
   "VTANR5L15V3804": "P",
   "VTANR5L15V3805": "P",
   "VTANR5L15V3806": "C",
+  "VTANR5L15V3813": "P",
+  "VTANR5L15V3814": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -867,7 +869,7 @@
   "id": "4121844143",
   "name": "Michel Lauzzana",
   "public_metrics": {
-   "followers_count": 4754,
+   "followers_count": 4756,
    "following_count": 840,
    "listed_count": 92,
    "tweet_count": 2408
