@@ -614,7 +614,12 @@
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "C",
   "VTANR5L15V381": "P",
+  "VTANR5L15V3817": "P",
+  "VTANR5L15V3818": "C",
+  "VTANR5L15V3819": "C",
   "VTANR5L15V382": "C",
+  "VTANR5L15V3820": "P",
+  "VTANR5L15V3821": "C",
   "VTANR5L15V383": "C",
   "VTANR5L15V384": "C",
   "VTANR5L15V389": "C",
@@ -776,10 +781,10 @@
   "id": "864527846227759104",
   "name": "Sabine Rubin FI 93.9",
   "public_metrics": {
-   "followers_count": 14065,
+   "followers_count": 14071,
    "following_count": 342,
    "listed_count": 163,
-   "tweet_count": 2268
+   "tweet_count": 2269
   },
   "username": "SabineRubinFI93"
  },

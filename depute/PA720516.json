@@ -562,16 +562,17 @@
   "VTANR5L15V3813": "P",
   "VTANR5L15V3814": "P",
   "VTANR5L15V3815": "P",
-  "VTANR5L15V3816": "P"
+  "VTANR5L15V3816": "P",
+  "VTANR5L15V3818": "P"
  },
  "twitter": {
   "id": "861524040837734400",
   "name": "Florence Morlighem",
   "public_metrics": {
-   "followers_count": 1871,
-   "following_count": 1734,
+   "followers_count": 1874,
+   "following_count": 1735,
    "listed_count": 24,
-   "tweet_count": 4514
+   "tweet_count": 4517
   },
   "username": "FMorlighem"
  },

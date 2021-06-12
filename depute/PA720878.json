@@ -910,6 +910,11 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V3802": "P",
+  "VTANR5L15V3817": "C",
+  "VTANR5L15V3818": "P",
+  "VTANR5L15V3819": "P",
+  "VTANR5L15V3820": "P",
+  "VTANR5L15V3821": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1013,10 +1018,10 @@
   "id": "733339165379731458",
   "name": "Laurent Saint-Martin",
   "public_metrics": {
-   "followers_count": 22588,
-   "following_count": 1136,
-   "listed_count": 211,
-   "tweet_count": 7602
+   "followers_count": 22605,
+   "following_count": 1137,
+   "listed_count": 212,
+   "tweet_count": 7626
   },
   "username": "LauStmartin"
  },

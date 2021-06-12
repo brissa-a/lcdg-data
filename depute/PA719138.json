@@ -758,6 +758,11 @@
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "A",
   "VTANR5L15V381": "P",
+  "VTANR5L15V3817": "P",
+  "VTANR5L15V3818": "P",
+  "VTANR5L15V3819": "A",
+  "VTANR5L15V3820": "P",
+  "VTANR5L15V3821": "A",
   "VTANR5L15V389": "A",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
@@ -800,7 +805,7 @@
    "followers_count": 7319,
    "following_count": 170,
    "listed_count": 92,
-   "tweet_count": 1195
+   "tweet_count": 1196
   },
   "username": "Castellani_"
  },

@@ -770,6 +770,10 @@
   "VTANR5L15V3780": "A",
   "VTANR5L15V3805": "C",
   "VTANR5L15V3808": "C",
+  "VTANR5L15V3818": "A",
+  "VTANR5L15V3819": "P",
+  "VTANR5L15V3820": "P",
+  "VTANR5L15V3821": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -803,7 +807,7 @@
   "id": "390156878",
   "name": "Eric Woerth",
   "public_metrics": {
-   "followers_count": 60683,
+   "followers_count": 60682,
    "following_count": 456,
    "listed_count": 652,
    "tweet_count": 6324

@@ -287,6 +287,7 @@
   "VTANR5L15V3738": "A",
   "VTANR5L15V3778": "C",
   "VTANR5L15V3779": "A",
+  "VTANR5L15V3821": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -303,7 +304,7 @@
   "id": "513300752",
   "name": "Gilles Carrez",
   "public_metrics": {
-   "followers_count": 6452,
+   "followers_count": 6455,
    "following_count": 236,
    "listed_count": 210,
    "tweet_count": 760

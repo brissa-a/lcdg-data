@@ -817,6 +817,9 @@
   "VTANR5L15V3805": "C",
   "VTANR5L15V3806": "C",
   "VTANR5L15V3808": "C",
+  "VTANR5L15V3819": "P",
+  "VTANR5L15V3820": "P",
+  "VTANR5L15V3821": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -888,10 +891,10 @@
   "id": "4733398756",
   "name": "Patrick Hetzel",
   "public_metrics": {
-   "followers_count": 5414,
+   "followers_count": 5413,
    "following_count": 1626,
    "listed_count": 147,
-   "tweet_count": 6644
+   "tweet_count": 6645
   },
   "username": "patrickhetzel"
  },

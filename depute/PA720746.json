@@ -864,7 +864,10 @@
   "VTANR5L15V3814": "N",
   "VTANR5L15V3815": "N",
   "VTANR5L15V3816": "P",
+  "VTANR5L15V3819": "N",
   "VTANR5L15V382": "N",
+  "VTANR5L15V3820": "N",
+  "VTANR5L15V3821": "N",
   "VTANR5L15V383": "N",
   "VTANR5L15V384": "N",
   "VTANR5L15V387": "C",
@@ -1044,7 +1047,7 @@
    "followers_count": 4113,
    "following_count": 717,
    "listed_count": 146,
-   "tweet_count": 2353
+   "tweet_count": 2355
   },
   "username": "SylvainWaserman"
  },
