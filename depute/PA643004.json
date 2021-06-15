@@ -378,8 +378,20 @@
   "VTANR5L15V3801": "C",
   "VTANR5L15V3803": "C"
  },
+ "twitter": {
+  "id": "1404482011260145666",
+  "name": "gregory labille",
+  "public_metrics": {
+   "followers_count": 0,
+   "following_count": 1,
+   "listed_count": 0,
+   "tweet_count": 2
+  },
+  "username": "gregorylabille1"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "gregorylabille1"
  },
  "uid": "PA643004"
 }
