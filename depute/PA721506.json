@@ -1080,6 +1080,7 @@
   "VTANR5L15V3811": "P",
   "VTANR5L15V3812": "P",
   "VTANR5L15V382": "P",
+  "VTANR5L15V3822": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
@@ -1303,9 +1304,9 @@
   "name": "Brigitte KUSTER",
   "public_metrics": {
    "followers_count": 13980,
-   "following_count": 1680,
+   "following_count": 1681,
    "listed_count": 346,
-   "tweet_count": 23101
+   "tweet_count": 23109
   },
   "username": "brigitte_kuster"
  },

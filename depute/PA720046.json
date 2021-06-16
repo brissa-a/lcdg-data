@@ -662,6 +662,7 @@
   "VTANR5L15V3800": "P",
   "VTANR5L15V3801": "P",
   "VTANR5L15V3802": "P",
+  "VTANR5L15V3822": "C",
   "VTANR5L15V383": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V385": "C",
@@ -770,8 +771,8 @@
   "public_metrics": {
    "followers_count": 4070,
    "following_count": 932,
-   "listed_count": 105,
-   "tweet_count": 2415
+   "listed_count": 106,
+   "tweet_count": 2420
   },
   "username": "audreydufeu"
  },

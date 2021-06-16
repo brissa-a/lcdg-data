@@ -734,6 +734,7 @@
   "VTANR5L15V3789": "P",
   "VTANR5L15V3793": "C",
   "VTANR5L15V3801": "P",
+  "VTANR5L15V3822": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -850,7 +851,7 @@
    "followers_count": 2893,
    "following_count": 1823,
    "listed_count": 99,
-   "tweet_count": 5751
+   "tweet_count": 5765
   },
   "username": "MDeprezAudebert"
  },

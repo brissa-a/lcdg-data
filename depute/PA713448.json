@@ -371,6 +371,7 @@
   "VTANR5L15V3780": "A",
   "VTANR5L15V3787": "P",
   "VTANR5L15V3800": "P",
+  "VTANR5L15V3822": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -391,10 +392,10 @@
   "id": "96111834",
   "name": "Marine Brenier",
   "public_metrics": {
-   "followers_count": 12478,
+   "followers_count": 12483,
    "following_count": 3492,
    "listed_count": 211,
-   "tweet_count": 18343
+   "tweet_count": 18347
   },
   "username": "marinebrenier"
  },

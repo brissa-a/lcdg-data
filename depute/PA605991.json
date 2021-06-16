@@ -1029,6 +1029,7 @@
   "VTANR5L15V3806": "N",
   "VTANR5L15V3807": "N",
   "VTANR5L15V3808": "C",
+  "VTANR5L15V3822": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
   "VTANR5L15V4": "C",
@@ -1172,8 +1173,8 @@
   "public_metrics": {
    "followers_count": 14818,
    "following_count": 1142,
-   "listed_count": 198,
-   "tweet_count": 5002
+   "listed_count": 197,
+   "tweet_count": 5003
   },
   "username": "AnnieGenevard"
  },

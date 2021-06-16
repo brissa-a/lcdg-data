@@ -741,6 +741,7 @@
   "VTANR5L15V3795": "C",
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
+  "VTANR5L15V3822": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -879,8 +880,8 @@
   "public_metrics": {
    "followers_count": 5029,
    "following_count": 915,
-   "listed_count": 124,
-   "tweet_count": 2882
+   "listed_count": 125,
+   "tweet_count": 2884
   },
   "username": "Daniele_herin"
  },
