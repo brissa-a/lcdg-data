@@ -1028,6 +1028,11 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3793": "C",
   "VTANR5L15V3803": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -1262,7 +1267,7 @@
    "followers_count": 2308,
    "following_count": 429,
    "listed_count": 122,
-   "tweet_count": 6801
+   "tweet_count": 6802
   },
   "username": "Jacqlinedubois"
  },

@@ -907,6 +907,9 @@
   "VTANR5L15V3806": "C",
   "VTANR5L15V3807": "C",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1249,7 +1252,7 @@
    "followers_count": 5028,
    "following_count": 3166,
    "listed_count": 112,
-   "tweet_count": 5025
+   "tweet_count": 5027
   },
   "username": "iflorennes92"
  },

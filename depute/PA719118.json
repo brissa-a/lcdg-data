@@ -612,6 +612,9 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3793": "C",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
   "VTANR5L15V394": "P",
@@ -676,7 +679,7 @@
    "followers_count": 5349,
    "following_count": 3113,
    "listed_count": 105,
-   "tweet_count": 7797
+   "tweet_count": 7801
   },
   "username": "FCBDeputeduCher"
  },

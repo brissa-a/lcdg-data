@@ -1084,6 +1084,9 @@
   "VTANR5L15V3806": "A",
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "C",
+  "VTANR5L15V3823": "C",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V390": "P",
@@ -1300,7 +1303,7 @@
    "followers_count": 3441,
    "following_count": 1105,
    "listed_count": 176,
-   "tweet_count": 3675
+   "tweet_count": 3679
   },
   "username": "ThierryBenoit35"
  },

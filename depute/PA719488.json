@@ -597,6 +597,15 @@
   "VTANR5L15V3806": "A",
   "VTANR5L15V3807": "C",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3832": "C",
+  "VTANR5L15V3833": "C",
+  "VTANR5L15V3834": "C",
+  "VTANR5L15V3835": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
@@ -708,7 +717,7 @@
    "followers_count": 5541,
    "following_count": 1602,
    "listed_count": 124,
-   "tweet_count": 3518
+   "tweet_count": 3520
   },
   "username": "PBertaGard"
  },

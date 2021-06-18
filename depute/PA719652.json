@@ -930,6 +930,12 @@
   "VTANR5L15V3806": "C",
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3831": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -1160,10 +1166,10 @@
   "id": "863139545528905729",
   "name": "Véronique HAMMERER",
   "public_metrics": {
-   "followers_count": 6129,
+   "followers_count": 6131,
    "following_count": 312,
    "listed_count": 127,
-   "tweet_count": 1903
+   "tweet_count": 1905
   },
   "username": "V_Hammerer"
  },

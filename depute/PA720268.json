@@ -1007,6 +1007,11 @@
   "VTANR5L15V3819": "P",
   "VTANR5L15V3820": "P",
   "VTANR5L15V3821": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1219,10 +1224,10 @@
   "id": "789792281540890625",
   "name": "Olivier Damaisin",
   "public_metrics": {
-   "followers_count": 6072,
-   "following_count": 2138,
+   "followers_count": 6077,
+   "following_count": 2137,
    "listed_count": 101,
-   "tweet_count": 3916
+   "tweet_count": 3918
   },
   "username": "olivierdam1"
  },

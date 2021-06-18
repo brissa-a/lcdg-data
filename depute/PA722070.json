@@ -631,6 +631,11 @@
   "VTANR5L15V3794": "P",
   "VTANR5L15V38": "C",
   "VTANR5L15V380": "P",
+  "VTANR5L15V3823": "C",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "A",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
   "VTANR5L15V394": "C",
@@ -801,7 +806,7 @@
   "public_metrics": {
    "followers_count": 3489,
    "following_count": 877,
-   "listed_count": 0,
+   "listed_count": 100,
    "tweet_count": 376
   },
   "username": "HenrietPierre"

@@ -758,6 +758,13 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V3801": "C",
+  "VTANR5L15V3823": "C",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3828": "C",
+  "VTANR5L15V3829": "C",
+  "VTANR5L15V3830": "C",
+  "VTANR5L15V3831": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
@@ -944,7 +951,7 @@
   "id": "3060130660",
   "name": "VALENTIN Isabelle",
   "public_metrics": {
-   "followers_count": 2125,
+   "followers_count": 2126,
    "following_count": 241,
    "listed_count": 79,
    "tweet_count": 1203

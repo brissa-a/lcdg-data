@@ -1030,6 +1030,16 @@
   "VTANR5L15V3795": "C",
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3828": "C",
+  "VTANR5L15V3829": "C",
+  "VTANR5L15V3830": "P",
+  "VTANR5L15V3831": "P",
+  "VTANR5L15V3832": "C",
+  "VTANR5L15V3833": "C",
+  "VTANR5L15V3834": "C",
+  "VTANR5L15V3835": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
@@ -1236,10 +1246,10 @@
   "id": "3337632231",
   "name": "Séverine Gipson #Vaccinée",
   "public_metrics": {
-   "followers_count": 2825,
-   "following_count": 962,
+   "followers_count": 2826,
+   "following_count": 963,
    "listed_count": 74,
-   "tweet_count": 6049
+   "tweet_count": 6051
   },
   "username": "severine_gipson"
  },

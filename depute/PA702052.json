@@ -577,6 +577,14 @@
   "VTANR5L15V3814": "P",
   "VTANR5L15V3815": "P",
   "VTANR5L15V3816": "P",
+  "VTANR5L15V3828": "C",
+  "VTANR5L15V3829": "C",
+  "VTANR5L15V3830": "C",
+  "VTANR5L15V3831": "C",
+  "VTANR5L15V3832": "A",
+  "VTANR5L15V3833": "P",
+  "VTANR5L15V3834": "P",
+  "VTANR5L15V3835": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "A",
   "VTANR5L15V419": "P",
@@ -662,7 +670,7 @@
   "id": "2851523481",
   "name": "Maina Sage",
   "public_metrics": {
-   "followers_count": 2232,
+   "followers_count": 2231,
    "following_count": 1263,
    "listed_count": 154,
    "tweet_count": 5580

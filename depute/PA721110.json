@@ -320,6 +320,12 @@
   "VTANR5L15V3738": "P",
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3828": "C",
+  "VTANR5L15V3832": "P",
+  "VTANR5L15V3833": "P",
+  "VTANR5L15V3834": "P",
+  "VTANR5L15V3835": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "A",
   "VTANR5L15V419": "P",
@@ -376,7 +382,7 @@
   "id": "934136307533545472",
   "name": "Nicole SANQUER",
   "public_metrics": {
-   "followers_count": 563,
+   "followers_count": 562,
    "following_count": 75,
    "listed_count": 43,
    "tweet_count": 575

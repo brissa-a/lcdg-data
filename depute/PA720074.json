@@ -742,6 +742,10 @@
   "VTANR5L15V3813": "P",
   "VTANR5L15V3814": "C",
   "VTANR5L15V3815": "P",
+  "VTANR5L15V3823": "A",
+  "VTANR5L15V3824": "A",
+  "VTANR5L15V3825": "A",
+  "VTANR5L15V3826": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V390": "C",
@@ -837,9 +841,9 @@
   "name": "Caroline Janvier",
   "public_metrics": {
    "followers_count": 7234,
-   "following_count": 1656,
+   "following_count": 1657,
    "listed_count": 149,
-   "tweet_count": 3595
+   "tweet_count": 3596
   },
   "username": "CarolineJanvier"
  },

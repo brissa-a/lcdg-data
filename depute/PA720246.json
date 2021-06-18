@@ -707,16 +707,27 @@
   "VTANR5L15V3806": "C",
   "VTANR5L15V3807": "P",
   "VTANR5L15V3808": "P",
-  "VTANR5L15V3822": "C"
+  "VTANR5L15V3822": "C",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3829": "C",
+  "VTANR5L15V3830": "C",
+  "VTANR5L15V3831": "C",
+  "VTANR5L15V3832": "C",
+  "VTANR5L15V3833": "C",
+  "VTANR5L15V3834": "C",
+  "VTANR5L15V3835": "C"
  },
  "twitter": {
   "id": "749231728452104192",
   "name": "Sylvain Templier",
   "public_metrics": {
-   "followers_count": 501,
+   "followers_count": 500,
    "following_count": 922,
    "listed_count": 20,
-   "tweet_count": 4468
+   "tweet_count": 4478
   },
   "username": "sylv1templier"
  },

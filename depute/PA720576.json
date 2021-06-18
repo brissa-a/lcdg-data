@@ -728,6 +728,9 @@
   "VTANR5L15V3812": "C",
   "VTANR5L15V3813": "P",
   "VTANR5L15V3814": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V401": "C",
@@ -825,9 +828,9 @@
   "name": "Pascal BOIS",
   "public_metrics": {
    "followers_count": 4344,
-   "following_count": 1353,
+   "following_count": 1357,
    "listed_count": 110,
-   "tweet_count": 2012
+   "tweet_count": 2014
   },
   "username": "PascalBoisLaREM"
  },

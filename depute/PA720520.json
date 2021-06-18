@@ -810,6 +810,12 @@
   "VTANR5L15V3819": "P",
   "VTANR5L15V3820": "P",
   "VTANR5L15V3821": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3828": "C",
+  "VTANR5L15V3829": "C",
+  "VTANR5L15V3830": "C",
+  "VTANR5L15V3831": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
@@ -933,7 +939,7 @@
    "followers_count": 4649,
    "following_count": 1626,
    "listed_count": 142,
-   "tweet_count": 4363
+   "tweet_count": 4365
   },
   "username": "ALCattelot"
  },

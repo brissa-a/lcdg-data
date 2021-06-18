@@ -398,6 +398,13 @@
   "VTANR5L15V3790": "P",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3823": "C",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3832": "P",
+  "VTANR5L15V3833": "P",
+  "VTANR5L15V3834": "P",
+  "VTANR5L15V3835": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -469,10 +476,10 @@
   "id": "610649874",
   "name": "Benoit Simian",
   "public_metrics": {
-   "followers_count": 6626,
+   "followers_count": 6627,
    "following_count": 2992,
    "listed_count": 128,
-   "tweet_count": 3137
+   "tweet_count": 3140
   },
   "username": "BenoitSimian"
  },

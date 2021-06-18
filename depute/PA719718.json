@@ -725,6 +725,7 @@
   "VTANR5L15V3815": "P",
   "VTANR5L15V3816": "P",
   "VTANR5L15V382": "P",
+  "VTANR5L15V3823": "P",
   "VTANR5L15V383": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V389": "P",
@@ -876,7 +877,7 @@
   "id": "1299738390",
   "name": "Laurence Maillart M",
   "public_metrics": {
-   "followers_count": 8204,
+   "followers_count": 8207,
    "following_count": 1479,
    "listed_count": 190,
    "tweet_count": 7728

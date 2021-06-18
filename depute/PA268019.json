@@ -402,6 +402,7 @@
   "VTANR5L15V3779": "A",
   "VTANR5L15V3792": "P",
   "VTANR5L15V3800": "C",
+  "VTANR5L15V3823": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -471,7 +472,7 @@
    "followers_count": 120568,
    "following_count": 2324,
    "listed_count": 541,
-   "tweet_count": 8322
+   "tweet_count": 8325
   },
   "username": "jclagarde"
  },

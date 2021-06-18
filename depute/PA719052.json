@@ -509,6 +509,7 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3798": "P",
+  "VTANR5L15V3832": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -574,10 +575,10 @@
   "id": "802997806252388352",
   "name": "Loic Kervran",
   "public_metrics": {
-   "followers_count": 3754,
-   "following_count": 1251,
+   "followers_count": 3752,
+   "following_count": 1253,
    "listed_count": 100,
-   "tweet_count": 3944
+   "tweet_count": 3945
   },
   "username": "LoicKervran18"
  },

@@ -1022,6 +1022,13 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V38": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3833": "C",
+  "VTANR5L15V3834": "C",
+  "VTANR5L15V3835": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -1226,7 +1233,7 @@
   "id": "447845263",
   "name": "Fadila Khattabi",
   "public_metrics": {
-   "followers_count": 3602,
+   "followers_count": 3603,
    "following_count": 1512,
    "listed_count": 149,
    "tweet_count": 7637

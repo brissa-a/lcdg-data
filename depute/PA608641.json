@@ -331,6 +331,7 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3798": "P",
+  "VTANR5L15V3823": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -422,9 +423,9 @@
   "id": "1465704961",
   "name": "Yves Blein",
   "public_metrics": {
-   "followers_count": 3977,
+   "followers_count": 3978,
    "following_count": 3885,
-   "listed_count": 187,
+   "listed_count": 186,
    "tweet_count": 3251
   },
   "username": "yves_blein"

@@ -320,13 +320,16 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3801": "P",
-  "VTANR5L15V3802": "P"
+  "VTANR5L15V3802": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P"
  },
  "twitter": {
   "id": "865297846786031616",
   "name": "Françoise Ballet-Blu",
   "public_metrics": {
-   "followers_count": 596,
+   "followers_count": 597,
    "following_count": 314,
    "listed_count": 17,
    "tweet_count": 189

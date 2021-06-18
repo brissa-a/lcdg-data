@@ -575,6 +575,9 @@
   "VTANR5L15V3819": "A",
   "VTANR5L15V3820": "P",
   "VTANR5L15V3821": "P",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "A",
+  "VTANR5L15V3825": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -672,8 +675,8 @@
   "id": "1114759578",
   "name": "Aude Amadou",
   "public_metrics": {
-   "followers_count": 4631,
-   "following_count": 790,
+   "followers_count": 4632,
+   "following_count": 791,
    "listed_count": 119,
    "tweet_count": 1591
   },

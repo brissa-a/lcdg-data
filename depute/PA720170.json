@@ -765,6 +765,11 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V380": "P",
   "VTANR5L15V3822": "C",
+  "VTANR5L15V3823": "P",
+  "VTANR5L15V3824": "C",
+  "VTANR5L15V3825": "P",
+  "VTANR5L15V3826": "P",
+  "VTANR5L15V3827": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -880,7 +885,7 @@
    "followers_count": 5462,
    "following_count": 919,
    "listed_count": 120,
-   "tweet_count": 1881
+   "tweet_count": 1882
   },
   "username": "CGrandjean54"
  },
