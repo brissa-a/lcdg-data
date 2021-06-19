@@ -629,20 +629,8 @@
   "VTANR5L15V998": "C",
   "VTANR5L15V999": "C"
  },
- "twitter": {
-  "id": "861666911872057348",
-  "name": "Béatrice Descamps",
-  "public_metrics": {
-   "followers_count": 1482,
-   "following_count": 896,
-   "listed_count": 45,
-   "tweet_count": 1885
-  },
-  "username": "beadescamps"
- },
  "twitter_username": {
-  "status": "found",
-  "value": "beadescamps"
+  "status": "notfound"
  },
  "uid": "PA720696"
 }
