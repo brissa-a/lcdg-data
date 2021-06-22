@@ -1198,6 +1198,7 @@
   "VTANR5L15V3824": "C",
   "VTANR5L15V3825": "P",
   "VTANR5L15V383": "P",
+  "VTANR5L15V3836": "C",
   "VTANR5L15V384": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1442,9 +1443,9 @@
   "name": "Jean-Luc FUGIT",
   "public_metrics": {
    "followers_count": 5449,
-   "following_count": 3612,
+   "following_count": 3614,
    "listed_count": 124,
-   "tweet_count": 7740
+   "tweet_count": 7744
   },
   "username": "Jean_LucFUGIT"
  },

@@ -742,6 +742,7 @@
   "VTANR5L15V3796": "C",
   "VTANR5L15V3797": "P",
   "VTANR5L15V3822": "C",
+  "VTANR5L15V3836": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -878,10 +879,10 @@
   "id": "139594328",
   "name": "Danièle Hérin",
   "public_metrics": {
-   "followers_count": 5033,
-   "following_count": 916,
+   "followers_count": 5032,
+   "following_count": 915,
    "listed_count": 125,
-   "tweet_count": 2889
+   "tweet_count": 2890
   },
   "username": "Daniele_herin"
  },

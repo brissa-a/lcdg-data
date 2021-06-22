@@ -695,6 +695,7 @@
   "VTANR5L15V380": "C",
   "VTANR5L15V3809": "P",
   "VTANR5L15V381": "A",
+  "VTANR5L15V3836": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -799,10 +800,10 @@
   "id": "970250112",
   "name": "Cécile Untermaier",
   "public_metrics": {
-   "followers_count": 3902,
-   "following_count": 2130,
+   "followers_count": 3903,
+   "following_count": 2131,
    "listed_count": 146,
-   "tweet_count": 3782
+   "tweet_count": 3787
   },
   "username": "ceciluntermaier"
  },

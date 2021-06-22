@@ -826,6 +826,7 @@
   "VTANR5L15V3789": "P",
   "VTANR5L15V3793": "C",
   "VTANR5L15V3810": "C",
+  "VTANR5L15V3836": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V393": "C",
@@ -923,8 +924,8 @@
   "id": "227618523",
   "name": "Yolaine de Courson",
   "public_metrics": {
-   "followers_count": 845,
-   "following_count": 724,
+   "followers_count": 847,
+   "following_count": 727,
    "listed_count": 13,
    "tweet_count": 427
   },

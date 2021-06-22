@@ -711,6 +711,7 @@
   "VTANR5L15V381": "C",
   "VTANR5L15V3810": "C",
   "VTANR5L15V382": "P",
+  "VTANR5L15V3836": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -798,9 +799,9 @@
   "name": "Frédérique Tuffnell",
   "public_metrics": {
    "followers_count": 2675,
-   "following_count": 1244,
-   "listed_count": 94,
-   "tweet_count": 4365
+   "following_count": 1246,
+   "listed_count": 95,
+   "tweet_count": 4368
   },
   "username": "Tuffnell17"
  },
