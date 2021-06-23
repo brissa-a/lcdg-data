@@ -376,13 +376,15 @@
   "VTANR5L15V3792": "P",
   "VTANR5L15V3800": "A",
   "VTANR5L15V3801": "C",
-  "VTANR5L15V3803": "C"
+  "VTANR5L15V3803": "C",
+  "VTANR5L15V3837": "A",
+  "VTANR5L15V3838": "P"
  },
  "twitter": {
   "id": "1404482011260145666",
   "name": "gregory labille",
   "public_metrics": {
-   "followers_count": 0,
+   "followers_count": 1,
    "following_count": 1,
    "listed_count": 0,
    "tweet_count": 2

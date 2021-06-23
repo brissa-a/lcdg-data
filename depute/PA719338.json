@@ -1068,6 +1068,8 @@
   "VTANR5L15V3816": "P",
   "VTANR5L15V3819": "P",
   "VTANR5L15V3822": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1425,9 +1427,9 @@
   "id": "865162242861535232",
   "name": "Graziella Melchior",
   "public_metrics": {
-   "followers_count": 4619,
+   "followers_count": 4624,
    "following_count": 1569,
-   "listed_count": 112,
+   "listed_count": 113,
    "tweet_count": 2388
   },
   "username": "GrazieMelchior"

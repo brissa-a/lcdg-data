@@ -646,16 +646,18 @@
   "VTANR5L15V3823": "P",
   "VTANR5L15V3824": "C",
   "VTANR5L15V3825": "P",
-  "VTANR5L15V3827": "P"
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P"
  },
  "twitter": {
   "id": "125727024",
   "name": "Christophe Castaner",
   "public_metrics": {
-   "followers_count": 360995,
+   "followers_count": 361066,
    "following_count": 2623,
-   "listed_count": 1509,
-   "tweet_count": 17485
+   "listed_count": 1510,
+   "tweet_count": 17486
   },
   "username": "CCastaner"
  },

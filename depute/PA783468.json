@@ -59,16 +59,17 @@
   "VTANR5L15V3808": "P",
   "VTANR5L15V3823": "C",
   "VTANR5L15V3826": "P",
-  "VTANR5L15V3827": "P"
+  "VTANR5L15V3827": "P",
+  "VTANR5L15V3838": "C"
  },
  "twitter": {
   "id": "943672818",
   "name": "Lamia El Aaraje",
   "public_metrics": {
-   "followers_count": 3518,
+   "followers_count": 3530,
    "following_count": 1633,
    "listed_count": 25,
-   "tweet_count": 2561
+   "tweet_count": 2572
   },
   "username": "lamiaela"
  },

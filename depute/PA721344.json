@@ -539,6 +539,7 @@
   "VTANR5L15V3805": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V383": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V388": "C",
@@ -649,10 +650,10 @@
   "id": "3343767939",
   "name": "Bruno Bonnell",
   "public_metrics": {
-   "followers_count": 11322,
-   "following_count": 519,
+   "followers_count": 11327,
+   "following_count": 521,
    "listed_count": 328,
-   "tweet_count": 9234
+   "tweet_count": 9236
   },
   "username": "BrunoBonnellOff"
  },

@@ -1012,6 +1012,7 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3826": "P",
   "VTANR5L15V3827": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1224,7 +1225,7 @@
   "id": "789792281540890625",
   "name": "Olivier Damaisin",
   "public_metrics": {
-   "followers_count": 6078,
+   "followers_count": 6079,
    "following_count": 2135,
    "listed_count": 101,
    "tweet_count": 3922

@@ -616,6 +616,8 @@
   "VTANR5L15V3787": "P",
   "VTANR5L15V3788": "P",
   "VTANR5L15V38": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -721,9 +723,9 @@
   "id": "865114227580784640",
   "name": "Frédéric Descrozaille",
   "public_metrics": {
-   "followers_count": 4118,
+   "followers_count": 4119,
    "following_count": 1245,
-   "listed_count": 101,
+   "listed_count": 102,
    "tweet_count": 1297
   },
   "username": "fdescrozaille"

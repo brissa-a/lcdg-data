@@ -1231,6 +1231,8 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -1474,8 +1476,8 @@
   "id": "864410712487206916",
   "name": "Jean-Claude Leclabart",
   "public_metrics": {
-   "followers_count": 5706,
-   "following_count": 861,
+   "followers_count": 5709,
+   "following_count": 860,
    "listed_count": 109,
    "tweet_count": 3324
   },

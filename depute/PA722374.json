@@ -607,6 +607,7 @@
   "VTANR5L15V3823": "P",
   "VTANR5L15V3824": "C",
   "VTANR5L15V3825": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -679,9 +680,9 @@
   "name": "Cyrille IsaacSibille",
   "public_metrics": {
    "followers_count": 2403,
-   "following_count": 1241,
+   "following_count": 1242,
    "listed_count": 103,
-   "tweet_count": 5842
+   "tweet_count": 5844
   },
   "username": "CIsaacSibille"
  },

@@ -594,6 +594,8 @@
   "VTANR5L15V3812": "C",
   "VTANR5L15V3813": "P",
   "VTANR5L15V3814": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V402": "P",
@@ -729,9 +731,9 @@
   "id": "863439731979427843",
   "name": "Gregory Besson Moreau",
   "public_metrics": {
-   "followers_count": 4655,
+   "followers_count": 4658,
    "following_count": 2846,
-   "listed_count": 106,
+   "listed_count": 107,
    "tweet_count": 2259
   },
   "username": "GBessonMoreau"

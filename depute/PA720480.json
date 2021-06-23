@@ -916,6 +916,8 @@
   "VTANR5L15V3825": "A",
   "VTANR5L15V3826": "P",
   "VTANR5L15V3827": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -1057,9 +1059,9 @@
   "id": "866081129048223746",
   "name": "Charlotte Parmentier Lecocq",
   "public_metrics": {
-   "followers_count": 5516,
+   "followers_count": 5518,
    "following_count": 697,
-   "listed_count": 117,
+   "listed_count": 118,
    "tweet_count": 2860
   },
   "username": "lecocqcharlotte"

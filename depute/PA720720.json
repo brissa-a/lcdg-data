@@ -503,6 +503,8 @@
   "VTANR5L15V3808": "P",
   "VTANR5L15V3827": "P",
   "VTANR5L15V3836": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -643,7 +645,7 @@
    "followers_count": 2588,
    "following_count": 314,
    "listed_count": 192,
-   "tweet_count": 29413
+   "tweet_count": 29427
   },
   "username": "josypoueyto"
  },

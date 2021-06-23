@@ -558,6 +558,8 @@
   "VTANR5L15V3784": "C",
   "VTANR5L15V3785": "P",
   "VTANR5L15V3786": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
@@ -612,7 +614,7 @@
   "id": "708604271701434368",
   "name": "Hervé Berville",
   "public_metrics": {
-   "followers_count": 7290,
+   "followers_count": 7291,
    "following_count": 542,
    "listed_count": 161,
    "tweet_count": 2874

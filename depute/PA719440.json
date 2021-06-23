@@ -673,6 +673,8 @@
   "VTANR5L15V3833": "C",
   "VTANR5L15V3834": "C",
   "VTANR5L15V3835": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -806,9 +808,9 @@
   "id": "865478836053344257",
   "name": "Anthony Cellier",
   "public_metrics": {
-   "followers_count": 7000,
+   "followers_count": 7002,
    "following_count": 568,
-   "listed_count": 144,
+   "listed_count": 146,
    "tweet_count": 1901
   },
   "username": "anthonycellier"

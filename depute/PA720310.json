@@ -416,6 +416,8 @@
   "VTANR5L15V3824": "C",
   "VTANR5L15V3825": "P",
   "VTANR5L15V3836": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -517,7 +519,7 @@
    "followers_count": 4781,
    "following_count": 1607,
    "listed_count": 121,
-   "tweet_count": 6871
+   "tweet_count": 6884
   },
   "username": "christophearend"
  },

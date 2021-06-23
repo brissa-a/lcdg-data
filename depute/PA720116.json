@@ -483,6 +483,8 @@
   "VTANR5L15V3805": "P",
   "VTANR5L15V3806": "P",
   "VTANR5L15V3808": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -592,9 +594,9 @@
   "name": "Anne-France Brunet",
   "public_metrics": {
    "followers_count": 3320,
-   "following_count": 1066,
+   "following_count": 1067,
    "listed_count": 88,
-   "tweet_count": 1940
+   "tweet_count": 1941
   },
   "username": "AFBrunet_4403"
  },

@@ -859,6 +859,7 @@
   "VTANR5L15V3793": "C",
   "VTANR5L15V3798": "P",
   "VTANR5L15V381": "P",
+  "VTANR5L15V3837": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V40": "C",
@@ -959,7 +960,7 @@
   "public_metrics": {
    "followers_count": 11841,
    "following_count": 4399,
-   "listed_count": 300,
+   "listed_count": 301,
    "tweet_count": 6175
   },
   "username": "VigierPhilippe"

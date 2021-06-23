@@ -765,6 +765,8 @@
   "VTANR5L15V3829": "C",
   "VTANR5L15V3830": "C",
   "VTANR5L15V3831": "C",
+  "VTANR5L15V3837": "C",
+  "VTANR5L15V3838": "A",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
@@ -951,7 +953,7 @@
   "id": "3060130660",
   "name": "VALENTIN Isabelle",
   "public_metrics": {
-   "followers_count": 2111,
+   "followers_count": 2121,
    "following_count": 241,
    "listed_count": 79,
    "tweet_count": 1203

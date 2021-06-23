@@ -304,7 +304,9 @@
   "VTANR5L15V3828": "C",
   "VTANR5L15V3829": "C",
   "VTANR5L15V3830": "C",
-  "VTANR5L15V3831": "C"
+  "VTANR5L15V3831": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P"
  },
  "twitter": {
   "id": "1310410140",
@@ -313,7 +315,7 @@
    "followers_count": 782,
    "following_count": 674,
    "listed_count": 10,
-   "tweet_count": 854
+   "tweet_count": 856
   },
   "username": "MRoquesetienne"
  },

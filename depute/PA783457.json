@@ -202,6 +202,9 @@
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Victor-Habert-Dassault",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA783457",
+ "scrutins": {
+  "VTANR5L15V3837": "C"
+ },
  "twitter_username": {
   "status": "notfound"
  },

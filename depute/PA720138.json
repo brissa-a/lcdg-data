@@ -717,6 +717,8 @@
   "VTANR5L15V3833": "C",
   "VTANR5L15V3834": "C",
   "VTANR5L15V3835": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V408": "P",
@@ -821,9 +823,9 @@
   "name": "Laetitia Saint-Paul",
   "public_metrics": {
    "followers_count": 2126,
-   "following_count": 826,
+   "following_count": 827,
    "listed_count": 50,
-   "tweet_count": 1023
+   "tweet_count": 1027
   },
   "username": "l_saintpaul"
  },

@@ -880,6 +880,8 @@
   "VTANR5L15V3814": "P",
   "VTANR5L15V3815": "P",
   "VTANR5L15V3816": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V387": "C",
@@ -959,7 +961,7 @@
   "id": "730306077456269312",
   "name": "Marie Tamarelle Verhaeghe",
   "public_metrics": {
-   "followers_count": 2104,
+   "followers_count": 2105,
    "following_count": 920,
    "listed_count": 75,
    "tweet_count": 1452

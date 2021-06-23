@@ -567,6 +567,8 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3794": "P",
   "VTANR5L15V3795": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V409": "P",
@@ -619,10 +621,10 @@
   "id": "607447732",
   "name": "Cécile MUSCHOTTI",
   "public_metrics": {
-   "followers_count": 5904,
-   "following_count": 3264,
+   "followers_count": 5909,
+   "following_count": 3263,
    "listed_count": 120,
-   "tweet_count": 1858
+   "tweet_count": 1861
   },
   "username": "CMUSCHOTTI"
  },

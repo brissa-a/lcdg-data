@@ -340,6 +340,8 @@
   "VTANR5L15V3823": "P",
   "VTANR5L15V3826": "P",
   "VTANR5L15V3827": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V40": "C",
   "VTANR5L15V407": "P",
@@ -537,7 +539,7 @@
    "followers_count": 2691,
    "following_count": 1566,
    "listed_count": 54,
-   "tweet_count": 735
+   "tweet_count": 736
   },
   "username": "_richardramos"
  },

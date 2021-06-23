@@ -1009,6 +1009,8 @@
   "VTANR5L15V3826": "P",
   "VTANR5L15V3827": "P",
   "VTANR5L15V383": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V389": "P",
@@ -1243,10 +1245,10 @@
   "id": "865305435707985921",
   "name": "JB Sempastous",
   "public_metrics": {
-   "followers_count": 1933,
+   "followers_count": 1935,
    "following_count": 929,
-   "listed_count": 83,
-   "tweet_count": 1415
+   "listed_count": 84,
+   "tweet_count": 1416
   },
   "username": "Sempastoushp"
  },

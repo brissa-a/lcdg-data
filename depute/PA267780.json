@@ -898,6 +898,7 @@
   "VTANR5L15V3823": "C",
   "VTANR5L15V3824": "P",
   "VTANR5L15V383": "A",
+  "VTANR5L15V3837": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1008,10 +1009,10 @@
   "id": "1979469114",
   "name": "Agnes Firmin Le Bodo",
   "public_metrics": {
-   "followers_count": 9164,
-   "following_count": 3535,
+   "followers_count": 9166,
+   "following_count": 3536,
    "listed_count": 128,
-   "tweet_count": 9874
+   "tweet_count": 9881
   },
   "username": "agnesfirmin"
  },

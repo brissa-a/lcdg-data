@@ -718,16 +718,18 @@
   "VTANR5L15V3832": "C",
   "VTANR5L15V3833": "C",
   "VTANR5L15V3834": "C",
-  "VTANR5L15V3835": "C"
+  "VTANR5L15V3835": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P"
  },
  "twitter": {
   "id": "749231728452104192",
   "name": "Sylvain Templier",
   "public_metrics": {
-   "followers_count": 502,
+   "followers_count": 503,
    "following_count": 922,
    "listed_count": 20,
-   "tweet_count": 4490
+   "tweet_count": 4498
   },
   "username": "sylv1templier"
  },

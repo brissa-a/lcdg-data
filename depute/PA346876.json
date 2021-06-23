@@ -269,6 +269,8 @@
   "VTANR5L15V3761": "P",
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -300,8 +302,8 @@
   "public_metrics": {
    "followers_count": 27550,
    "following_count": 3818,
-   "listed_count": 457,
-   "tweet_count": 13916
+   "listed_count": 458,
+   "tweet_count": 13910
   },
   "username": "solere92"
  },

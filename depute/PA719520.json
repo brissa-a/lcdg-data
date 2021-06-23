@@ -527,6 +527,7 @@
   "VTANR5L15V3824": "C",
   "VTANR5L15V3825": "P",
   "VTANR5L15V383": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -785,8 +786,8 @@
   "id": "80071647",
   "name": "Mickael Nogal",
   "public_metrics": {
-   "followers_count": 8694,
-   "following_count": 3048,
+   "followers_count": 8695,
+   "following_count": 3049,
    "listed_count": 237,
    "tweet_count": 9609
   },

@@ -253,14 +253,15 @@
   "VTANR5L15V3761": "C",
   "VTANR5L15V3767": "C",
   "VTANR5L15V3778": "C",
-  "VTANR5L15V3779": "C"
+  "VTANR5L15V3779": "C",
+  "VTANR5L15V3838": "A"
  },
  "twitter": {
   "id": "418590420",
   "name": "Yves Baumuller",
   "public_metrics": {
    "followers_count": 1429,
-   "following_count": 910,
+   "following_count": 912,
    "listed_count": 28,
    "tweet_count": 6934
   },

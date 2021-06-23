@@ -373,6 +373,7 @@
   "VTANR5L15V365": "C",
   "VTANR5L15V3738": "A",
   "VTANR5L15V3823": "C",
+  "VTANR5L15V3837": "P",
   "VTANR5L15V385": "P",
   "VTANR5L15V386": "C",
   "VTANR5L15V389": "A",
@@ -428,8 +429,8 @@
   "id": "882350664",
   "name": "Gabriel Serville",
   "public_metrics": {
-   "followers_count": 6683,
-   "following_count": 840,
+   "followers_count": 6688,
+   "following_count": 841,
    "listed_count": 158,
    "tweet_count": 5020
   },

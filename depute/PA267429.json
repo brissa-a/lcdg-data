@@ -597,6 +597,7 @@
   "VTANR5L15V3790": "P",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3837": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
@@ -697,10 +698,10 @@
   "id": "829686286097211392",
   "name": "Dino Cinieri",
   "public_metrics": {
-   "followers_count": 4292,
-   "following_count": 2130,
-   "listed_count": 98,
-   "tweet_count": 7444
+   "followers_count": 4305,
+   "following_count": 2132,
+   "listed_count": 99,
+   "tweet_count": 7451
   },
   "username": "DinoCinieri"
  },

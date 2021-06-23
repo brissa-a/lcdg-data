@@ -566,6 +566,8 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V3800": "C",
+  "VTANR5L15V3837": "A",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V40": "P",
@@ -629,8 +631,20 @@
   "VTANR5L15V998": "C",
   "VTANR5L15V999": "C"
  },
+ "twitter": {
+  "id": "861666911872057348",
+  "name": "Béatrice Descamps",
+  "public_metrics": {
+   "followers_count": 1483,
+   "following_count": 896,
+   "listed_count": 45,
+   "tweet_count": 1887
+  },
+  "username": "beadescamps"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "beadescamps"
  },
  "uid": "PA720696"
 }

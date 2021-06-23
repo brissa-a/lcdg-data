@@ -834,6 +834,8 @@
   "VTANR5L15V3833": "C",
   "VTANR5L15V3834": "C",
   "VTANR5L15V3835": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
@@ -913,8 +915,8 @@
   "public_metrics": {
    "followers_count": 5244,
    "following_count": 624,
-   "listed_count": 116,
-   "tweet_count": 2549
+   "listed_count": 119,
+   "tweet_count": 2552
   },
   "username": "B_BessotBallot"
  },

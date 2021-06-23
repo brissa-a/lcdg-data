@@ -1609,6 +1609,8 @@
   "VTANR5L15V3833": "C",
   "VTANR5L15V3834": "C",
   "VTANR5L15V3835": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V4": "C",
@@ -1754,9 +1756,9 @@
   "name": "Jean-René Cazeneuve",
   "public_metrics": {
    "followers_count": 6004,
-   "following_count": 564,
+   "following_count": 566,
    "listed_count": 166,
-   "tweet_count": 5841
+   "tweet_count": 5845
   },
   "username": "jrcazeneuve"
  },

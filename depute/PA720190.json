@@ -811,6 +811,8 @@
   "VTANR5L15V379": "C",
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
@@ -890,8 +892,8 @@
   "id": "827280437059805186",
   "name": "Bertrand SORRE",
   "public_metrics": {
-   "followers_count": 1758,
-   "following_count": 399,
+   "followers_count": 1759,
+   "following_count": 400,
    "listed_count": 97,
    "tweet_count": 264
   },

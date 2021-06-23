@@ -365,6 +365,7 @@
   "VTANR5L15V3738": "A",
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
+  "VTANR5L15V3837": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V413": "P",
@@ -447,9 +448,9 @@
   "id": "864819251496046592",
   "name": "Olivier Gaillard",
   "public_metrics": {
-   "followers_count": 4405,
+   "followers_count": 4407,
    "following_count": 203,
-   "listed_count": 109,
+   "listed_count": 110,
    "tweet_count": 891
   },
   "username": "OliveGaillard30"

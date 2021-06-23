@@ -630,6 +630,7 @@
   "VTANR5L15V3824": "A",
   "VTANR5L15V3825": "A",
   "VTANR5L15V383": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V384": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -781,10 +782,10 @@
   "id": "2208536261",
   "name": "Patricia MIRALLÈS #Vaccinée💉",
   "public_metrics": {
-   "followers_count": 5723,
-   "following_count": 1323,
+   "followers_count": 5727,
+   "following_count": 1324,
    "listed_count": 323,
-   "tweet_count": 24525
+   "tweet_count": 24526
   },
   "username": "MIRALLESMP"
  },

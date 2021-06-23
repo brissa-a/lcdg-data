@@ -991,6 +991,8 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3826": "P",
   "VTANR5L15V3827": "P",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V413": "P",
@@ -1140,9 +1142,9 @@
   "id": "864604534122962944",
   "name": "Xavier Paluszkiewicz",
   "public_metrics": {
-   "followers_count": 5133,
+   "followers_count": 5134,
    "following_count": 1241,
-   "listed_count": 105,
+   "listed_count": 106,
    "tweet_count": 1915
   },
   "username": "XavierPalu2017"

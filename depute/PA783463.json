@@ -130,6 +130,10 @@
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sophie-Métadier",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA783463",
+ "scrutins": {
+  "VTANR5L15V3837": "A",
+  "VTANR5L15V3838": "P"
+ },
  "twitter_username": {
   "status": "notfound"
  },

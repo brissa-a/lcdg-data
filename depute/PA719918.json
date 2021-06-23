@@ -411,6 +411,7 @@
   "VTANR5L15V3823": "P",
   "VTANR5L15V3824": "C",
   "VTANR5L15V3825": "P",
+  "VTANR5L15V3837": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
@@ -482,7 +483,7 @@
   "name": "Fabien Lainé",
   "public_metrics": {
    "followers_count": 1503,
-   "following_count": 956,
+   "following_count": 957,
    "listed_count": 50,
    "tweet_count": 823
   },

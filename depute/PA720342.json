@@ -899,6 +899,8 @@
   "VTANR5L15V3833": "C",
   "VTANR5L15V3834": "C",
   "VTANR5L15V3835": "C",
+  "VTANR5L15V3837": "P",
+  "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
   "VTANR5L15V385": "C",
   "VTANR5L15V389": "P",
@@ -1076,9 +1078,9 @@
   "id": "865286612837650432",
   "name": "Nicole Le Peih",
   "public_metrics": {
-   "followers_count": 5044,
+   "followers_count": 5046,
    "following_count": 470,
-   "listed_count": 121,
+   "listed_count": 122,
    "tweet_count": 1519
   },
   "username": "NicoleLePeih"
