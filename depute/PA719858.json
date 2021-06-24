@@ -1122,6 +1122,7 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1360,10 +1361,10 @@
   "id": "867852249673891840",
   "name": "Monique Limon",
   "public_metrics": {
-   "followers_count": 9124,
+   "followers_count": 9126,
    "following_count": 566,
-   "listed_count": 130,
-   "tweet_count": 5078
+   "listed_count": 131,
+   "tweet_count": 5085
   },
   "username": "3807Limon"
  },

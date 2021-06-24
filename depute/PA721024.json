@@ -967,6 +967,7 @@
   "VTANR5L15V383": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1064,7 +1065,7 @@
    "followers_count": 8947,
    "following_count": 1509,
    "listed_count": 154,
-   "tweet_count": 10699
+   "tweet_count": 10700
   },
   "username": "AGenetet"
  },

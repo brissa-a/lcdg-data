@@ -1028,6 +1028,9 @@
   "VTANR5L15V3822": "C",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3839": "A",
+  "VTANR5L15V3840": "P",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V389": "P",
@@ -1269,7 +1272,7 @@
    "followers_count": 7679,
    "following_count": 1010,
    "listed_count": 136,
-   "tweet_count": 3541
+   "tweet_count": 3547
   },
   "username": "BeatricePiron"
  },

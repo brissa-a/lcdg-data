@@ -737,7 +737,9 @@
   "VTANR5L15V3814": "P",
   "VTANR5L15V3836": "C",
   "VTANR5L15V3837": "P",
-  "VTANR5L15V3838": "P"
+  "VTANR5L15V3838": "P",
+  "VTANR5L15V3839": "C",
+  "VTANR5L15V3840": "C"
  },
  "twitter": {
   "id": "870665966862163968",
@@ -746,7 +748,7 @@
    "followers_count": 3002,
    "following_count": 1003,
    "listed_count": 52,
-   "tweet_count": 3064
+   "tweet_count": 3070
   },
   "username": "flprovendier"
  },

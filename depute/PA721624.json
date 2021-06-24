@@ -738,6 +738,7 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V4": "C",
@@ -931,10 +932,10 @@
   "id": "2317502810",
   "name": "Laetitia Avia",
   "public_metrics": {
-   "followers_count": 33740,
+   "followers_count": 33751,
    "following_count": 1597,
    "listed_count": 393,
-   "tweet_count": 8135
+   "tweet_count": 8136
   },
   "username": "LaetitiaAvia"
  },

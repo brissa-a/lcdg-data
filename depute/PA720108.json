@@ -739,6 +739,7 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V390": "C",
@@ -931,9 +932,9 @@
   "name": "Valérie Oppelt",
   "public_metrics": {
    "followers_count": 6440,
-   "following_count": 4050,
+   "following_count": 4051,
    "listed_count": 311,
-   "tweet_count": 6440
+   "tweet_count": 6442
   },
   "username": "valerie_oppelt"
  },

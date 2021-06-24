@@ -295,8 +295,20 @@
   "VTANR5L15V98": "C",
   "VTANR5L15V99": "C"
  },
+ "twitter": {
+  "id": "1373051236258357251",
+  "name": "Joachim Son-Forget",
+  "public_metrics": {
+   "followers_count": 4419,
+   "following_count": 877,
+   "listed_count": 10,
+   "tweet_count": 939
+  },
+  "username": "__iron_man_"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "__iron_man_"
  },
  "uid": "PA721174"
 }

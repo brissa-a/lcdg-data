@@ -1169,6 +1169,9 @@
   "VTANR5L15V3826": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3839": "C",
+  "VTANR5L15V3840": "C",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
@@ -1315,10 +1318,10 @@
   "id": "864488046355517440",
   "name": "Corinne Vignon",
   "public_metrics": {
-   "followers_count": 5013,
+   "followers_count": 5015,
    "following_count": 776,
    "listed_count": 126,
-   "tweet_count": 3100
+   "tweet_count": 3103
   },
   "username": "corinnevignon"
  },

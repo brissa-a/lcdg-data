@@ -502,6 +502,9 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3839": "A",
+  "VTANR5L15V3840": "A",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V419": "P",
@@ -569,7 +572,7 @@
   "id": "545389706",
   "name": "Stéphane Claireaux",
   "public_metrics": {
-   "followers_count": 1132,
+   "followers_count": 1133,
    "following_count": 172,
    "listed_count": 96,
    "tweet_count": 538

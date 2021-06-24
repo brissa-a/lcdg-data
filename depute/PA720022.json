@@ -805,6 +805,7 @@
   "VTANR5L15V3827": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -881,10 +882,10 @@
   "id": "4121844143",
   "name": "Michel Lauzzana",
   "public_metrics": {
-   "followers_count": 4762,
+   "followers_count": 4764,
    "following_count": 841,
    "listed_count": 96,
-   "tweet_count": 2417
+   "tweet_count": 2418
   },
   "username": "lauzzanamichel"
  },

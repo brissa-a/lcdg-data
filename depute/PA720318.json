@@ -1067,6 +1067,9 @@
   "VTANR5L15V382": "P",
   "VTANR5L15V383": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3839": "P",
+  "VTANR5L15V3840": "A",
+  "VTANR5L15V3841": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1268,10 +1271,10 @@
   "id": "864668681967632384",
   "name": "Hélène Zannier",
   "public_metrics": {
-   "followers_count": 3117,
+   "followers_count": 3118,
    "following_count": 772,
    "listed_count": 95,
-   "tweet_count": 1097
+   "tweet_count": 1099
   },
   "username": "HeleneZannier"
  },
