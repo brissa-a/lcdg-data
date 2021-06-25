@@ -1109,6 +1109,10 @@
   "VTANR5L15V3792": "P",
   "VTANR5L15V3798": "P",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3849": "P",
+  "VTANR5L15V3850": "P",
+  "VTANR5L15V3851": "P",
+  "VTANR5L15V3852": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V407": "P",
@@ -1390,7 +1394,7 @@
   "id": "3940110196",
   "name": "Huguette Tiegna",
   "public_metrics": {
-   "followers_count": 4129,
+   "followers_count": 4128,
    "following_count": 723,
    "listed_count": 140,
    "tweet_count": 7920

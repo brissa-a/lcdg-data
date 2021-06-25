@@ -922,6 +922,11 @@
   "VTANR5L15V3835": "N",
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "C",
+  "VTANR5L15V3847": "N",
+  "VTANR5L15V3848": "N",
+  "VTANR5L15V3849": "N",
+  "VTANR5L15V3850": "N",
+  "VTANR5L15V3851": "N",
   "VTANR5L15V389": "P",
   "VTANR5L15V407": "C",
   "VTANR5L15V419": "P",
@@ -1006,9 +1011,9 @@
   "id": "4714098677",
   "name": "David Habib",
   "public_metrics": {
-   "followers_count": 3347,
-   "following_count": 4166,
-   "listed_count": 96,
+   "followers_count": 3349,
+   "following_count": 4168,
+   "listed_count": 98,
    "tweet_count": 1127
   },
   "username": "DavidDhabib"

@@ -630,6 +630,16 @@
   "VTANR5L15V380": "P",
   "VTANR5L15V381": "C",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3842": "P",
+  "VTANR5L15V3843": "P",
+  "VTANR5L15V3845": "P",
+  "VTANR5L15V3846": "P",
+  "VTANR5L15V3847": "P",
+  "VTANR5L15V3848": "P",
+  "VTANR5L15V3849": "P",
+  "VTANR5L15V3850": "P",
+  "VTANR5L15V3851": "P",
+  "VTANR5L15V3852": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
   "VTANR5L15V40": "C",
@@ -766,7 +776,7 @@
    "followers_count": 2652,
    "following_count": 1067,
    "listed_count": 71,
-   "tweet_count": 1056
+   "tweet_count": 1057
   },
   "username": "LeguilleBalloy"
  },

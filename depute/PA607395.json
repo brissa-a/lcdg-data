@@ -685,16 +685,27 @@
   "VTANR5L15V3791": "P",
   "VTANR5L15V3792": "P",
   "VTANR5L15V3837": "P",
-  "VTANR5L15V3838": "P"
+  "VTANR5L15V3838": "P",
+  "VTANR5L15V3842": "P",
+  "VTANR5L15V3843": "P",
+  "VTANR5L15V3844": "P",
+  "VTANR5L15V3845": "P",
+  "VTANR5L15V3846": "P",
+  "VTANR5L15V3847": "P",
+  "VTANR5L15V3848": "P",
+  "VTANR5L15V3849": "P",
+  "VTANR5L15V3850": "P",
+  "VTANR5L15V3851": "P",
+  "VTANR5L15V3852": "P"
  },
  "twitter": {
   "id": "382747703",
   "name": "STEPHANE TRAVERT #ProtegezVous",
   "public_metrics": {
    "followers_count": 20168,
-   "following_count": 1836,
+   "following_count": 1835,
    "listed_count": 461,
-   "tweet_count": 18296
+   "tweet_count": 18310
   },
   "username": "StTRAVERT"
  },

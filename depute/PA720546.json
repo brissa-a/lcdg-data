@@ -901,8 +901,20 @@
   "VTANR5L15V994": "C",
   "VTANR5L15V995": "C"
  },
+ "twitter": {
+  "id": "826026073540481024",
+  "name": "Alain Bruneel",
+  "public_metrics": {
+   "followers_count": 3346,
+   "following_count": 230,
+   "listed_count": 93,
+   "tweet_count": 1422
+  },
+  "username": "alain_bruneel"
+ },
  "twitter_username": {
-  "status": "notfound"
+  "status": "found",
+  "value": "alain_bruneel"
  },
  "uid": "PA720546"
 }

@@ -1234,6 +1234,17 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
+  "VTANR5L15V3842": "P",
+  "VTANR5L15V3843": "P",
+  "VTANR5L15V3844": "P",
+  "VTANR5L15V3845": "P",
+  "VTANR5L15V3846": "P",
+  "VTANR5L15V3847": "P",
+  "VTANR5L15V3848": "P",
+  "VTANR5L15V3849": "P",
+  "VTANR5L15V3850": "P",
+  "VTANR5L15V3851": "P",
+  "VTANR5L15V3852": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V399": "C",
@@ -1476,10 +1487,10 @@
   "id": "864410712487206916",
   "name": "Jean-Claude Leclabart",
   "public_metrics": {
-   "followers_count": 5709,
+   "followers_count": 5710,
    "following_count": 860,
    "listed_count": 109,
-   "tweet_count": 3325
+   "tweet_count": 3326
   },
   "username": "JLeclabart"
  },

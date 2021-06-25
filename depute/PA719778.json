@@ -662,6 +662,7 @@
   "VTANR5L15V3821": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3842": "P",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V404": "P",
@@ -864,10 +865,10 @@
   "id": "859500950620385282",
   "name": "François Jolivet",
   "public_metrics": {
-   "followers_count": 10457,
-   "following_count": 3035,
+   "followers_count": 10453,
+   "following_count": 3038,
    "listed_count": 127,
-   "tweet_count": 5195
+   "tweet_count": 5206
   },
   "username": "FJolivet36"
  },

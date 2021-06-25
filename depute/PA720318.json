@@ -1070,6 +1070,11 @@
   "VTANR5L15V3839": "P",
   "VTANR5L15V3840": "A",
   "VTANR5L15V3841": "P",
+  "VTANR5L15V3847": "P",
+  "VTANR5L15V3848": "P",
+  "VTANR5L15V3850": "P",
+  "VTANR5L15V3851": "P",
+  "VTANR5L15V3852": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -1274,7 +1279,7 @@
    "followers_count": 3118,
    "following_count": 772,
    "listed_count": 95,
-   "tweet_count": 1099
+   "tweet_count": 1100
   },
   "username": "HeleneZannier"
  },
