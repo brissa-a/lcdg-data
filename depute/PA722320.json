@@ -624,9 +624,34 @@
   "VTANR5L15V3816": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3858": "C",
+  "VTANR5L15V3859": "C",
+  "VTANR5L15V3860": "C",
+  "VTANR5L15V3861": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4010": "C",
+  "VTANR5L15V4018": "C",
+  "VTANR5L15V4019": "C",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4065": "P",
+  "VTANR5L15V4066": "P",
+  "VTANR5L15V4067": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V414": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4151": "P",
+  "VTANR5L15V4152": "P",
+  "VTANR5L15V4158": "P",
+  "VTANR5L15V4159": "P",
+  "VTANR5L15V4162": "P",
+  "VTANR5L15V4163": "P",
+  "VTANR5L15V4164": "P",
+  "VTANR5L15V4165": "P",
+  "VTANR5L15V4166": "P",
+  "VTANR5L15V4167": "P",
+  "VTANR5L15V4198": "C",
   "VTANR5L15V420": "C",
   "VTANR5L15V421": "C",
   "VTANR5L15V422": "C",
@@ -729,21 +754,6 @@
   "VTANR5L15V949": "C",
   "VTANR5L15V974": "P",
   "VTANR5L15V981": "P"
- },
- "twitter": {
-  "id": "903271106303455234",
-  "name": "Christophe Lejeune",
-  "public_metrics": {
-   "followers_count": 2114,
-   "following_count": 2192,
-   "listed_count": 61,
-   "tweet_count": 1909
-  },
-  "username": "lejeune_ch"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "lejeune_ch"
  },
  "uid": "PA722320"
 }

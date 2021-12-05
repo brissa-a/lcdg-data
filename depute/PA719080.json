@@ -953,14 +953,35 @@
   "VTANR5L15V3850": "P",
   "VTANR5L15V3851": "P",
   "VTANR5L15V3852": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
+  "VTANR5L15V3970": "P",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4010": "C",
+  "VTANR5L15V4011": "P",
+  "VTANR5L15V4012": "C",
+  "VTANR5L15V4013": "C",
+  "VTANR5L15V4014": "C",
   "VTANR5L15V405": "P",
   "VTANR5L15V406": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4071": "C",
+  "VTANR5L15V4072": "P",
+  "VTANR5L15V4073": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4085": "C",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4158": "P",
+  "VTANR5L15V4167": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4199": "P",
   "VTANR5L15V420": "C",
+  "VTANR5L15V4201": "P",
+  "VTANR5L15V4221": "C",
   "VTANR5L15V433": "P",
   "VTANR5L15V447": "C",
   "VTANR5L15V448": "C",
@@ -1228,21 +1249,6 @@
   "VTANR5L15V941": "C",
   "VTANR5L15V95": "C",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "863134711715180544",
-  "name": "Sandra Marsaud",
-  "public_metrics": {
-   "followers_count": 5840,
-   "following_count": 522,
-   "listed_count": 116,
-   "tweet_count": 1416
-  },
-  "username": "MARSAUDSandra"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "MARSAUDSandra"
  },
  "uid": "PA719080"
 }

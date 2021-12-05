@@ -476,11 +476,29 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3854": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3856": "C",
+  "VTANR5L15V3857": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3945": "A",
+  "VTANR5L15V3946": "P",
+  "VTANR5L15V3947": "P",
+  "VTANR5L15V3984": "P",
+  "VTANR5L15V3986": "P",
+  "VTANR5L15V3987": "P",
+  "VTANR5L15V3988": "P",
+  "VTANR5L15V3990": "P",
+  "VTANR5L15V3991": "P",
+  "VTANR5L15V4008": "P",
   "VTANR5L15V404": "A",
   "VTANR5L15V405": "A",
   "VTANR5L15V406": "A",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V438": "A",
   "VTANR5L15V439": "P",
@@ -570,21 +588,6 @@
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "A",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "861587157416378368",
-  "name": "Sonia Krimi",
-  "public_metrics": {
-   "followers_count": 12617,
-   "following_count": 1324,
-   "listed_count": 153,
-   "tweet_count": 2920
-  },
-  "username": "Sonia_Krimi"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Sonia_Krimi"
  },
  "uid": "PA720202"
 }

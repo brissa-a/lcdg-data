@@ -496,7 +496,13 @@
   "VTANR5L15V3778": "P",
   "VTANR5L15V3779": "P",
   "VTANR5L15V3837": "C",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4009": "P",
+  "VTANR5L15V4035": "A",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V477": "P",
@@ -511,21 +517,6 @@
   "VTANR5L15V941": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "C"
- },
- "twitter": {
-  "id": "905713485329391616",
-  "name": "Jean-Carles Grelier",
-  "public_metrics": {
-   "followers_count": 1287,
-   "following_count": 392,
-   "listed_count": 46,
-   "tweet_count": 289
-  },
-  "username": "JCGrelier"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "JCGrelier"
  },
  "uid": "PA267318"
 }

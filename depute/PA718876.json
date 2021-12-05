@@ -607,11 +607,23 @@
   "VTANR5L15V3850": "P",
   "VTANR5L15V3851": "P",
   "VTANR5L15V3852": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3856": "C",
+  "VTANR5L15V3857": "P",
+  "VTANR5L15V3858": "C",
+  "VTANR5L15V3859": "C",
+  "VTANR5L15V3860": "P",
+  "VTANR5L15V3861": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
+  "VTANR5L15V3983": "P",
   "VTANR5L15V402": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4151": "P",
+  "VTANR5L15V4152": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V434": "P",
@@ -737,21 +749,6 @@
   "VTANR5L15V96": "C",
   "VTANR5L15V97": "C",
   "VTANR5L15V98": "C"
- },
- "twitter": {
-  "id": "863439731979427843",
-  "name": "Gregory Besson Moreau",
-  "public_metrics": {
-   "followers_count": 4679,
-   "following_count": 2849,
-   "listed_count": 108,
-   "tweet_count": 2277
-  },
-  "username": "GBessonMoreau"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "GBessonMoreau"
  },
  "uid": "PA718876"
 }

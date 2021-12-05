@@ -675,11 +675,34 @@
   "VTANR5L15V3802": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3892": "C",
+  "VTANR5L15V3911": "C",
+  "VTANR5L15V3912": "C",
+  "VTANR5L15V3913": "C",
+  "VTANR5L15V3914": "C",
+  "VTANR5L15V3915": "C",
+  "VTANR5L15V3916": "C",
+  "VTANR5L15V3918": "P",
+  "VTANR5L15V3919": "C",
+  "VTANR5L15V3920": "C",
+  "VTANR5L15V3921": "C",
+  "VTANR5L15V4009": "C",
   "VTANR5L15V401": "C",
+  "VTANR5L15V4010": "C",
+  "VTANR5L15V4011": "P",
   "VTANR5L15V402": "P",
+  "VTANR5L15V4023": "C",
+  "VTANR5L15V4024": "C",
   "VTANR5L15V403": "P",
+  "VTANR5L15V4035": "C",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4085": "C",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4155": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V430": "P",
   "VTANR5L15V433": "P",
@@ -829,21 +852,6 @@
   "VTANR5L15V932": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "826017036451061761",
-  "name": "E. Toutut-Picard",
-  "public_metrics": {
-   "followers_count": 3095,
-   "following_count": 414,
-   "listed_count": 115,
-   "tweet_count": 3728
-  },
-  "username": "etoututpicard"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "etoututpicard"
  },
  "uid": "PA719540"
 }

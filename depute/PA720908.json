@@ -884,10 +884,32 @@
   "VTANR5L15V380": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V3841": "P",
+  "VTANR5L15V3855": "A",
+  "VTANR5L15V3862": "C",
+  "VTANR5L15V3863": "C",
+  "VTANR5L15V3865": "C",
+  "VTANR5L15V3892": "C",
+  "VTANR5L15V3957": "C",
+  "VTANR5L15V3958": "P",
+  "VTANR5L15V3959": "P",
+  "VTANR5L15V3960": "P",
+  "VTANR5L15V3966": "P",
+  "VTANR5L15V3967": "C",
+  "VTANR5L15V3968": "P",
+  "VTANR5L15V3969": "P",
+  "VTANR5L15V4008": "P",
   "VTANR5L15V404": "P",
   "VTANR5L15V405": "P",
   "VTANR5L15V406": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4087": "C",
+  "VTANR5L15V4088": "P",
+  "VTANR5L15V4089": "C",
+  "VTANR5L15V4113": "C",
+  "VTANR5L15V4114": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V434": "P",
@@ -1022,21 +1044,6 @@
   "VTANR5L15V997": "C",
   "VTANR5L15V998": "P",
   "VTANR5L15V999": "P"
- },
- "twitter": {
-  "id": "865209415628140544",
-  "name": "Naïma Moutchou",
-  "public_metrics": {
-   "followers_count": 13614,
-   "following_count": 1129,
-   "listed_count": 155,
-   "tweet_count": 1929
-  },
-  "username": "NaimaMoutchou"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "NaimaMoutchou"
  },
  "uid": "PA720908"
 }

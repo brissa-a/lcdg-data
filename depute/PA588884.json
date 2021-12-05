@@ -405,15 +405,29 @@
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "C",
   "VTANR5L15V385": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3889": "A",
   "VTANR5L15V389": "C",
   "VTANR5L15V39": "P",
   "VTANR5L15V4": "P",
   "VTANR5L15V40": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4057": "P",
+  "VTANR5L15V4058": "P",
+  "VTANR5L15V4059": "P",
+  "VTANR5L15V4060": "P",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V41": "P",
   "VTANR5L15V411": "C",
   "VTANR5L15V412": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4199": "P",
+  "VTANR5L15V4200": "P",
+  "VTANR5L15V4202": "C",
+  "VTANR5L15V4203": "P",
+  "VTANR5L15V4204": "P",
   "VTANR5L15V43": "P",
   "VTANR5L15V433": "C",
   "VTANR5L15V44": "C",
@@ -519,21 +533,6 @@
   "VTANR5L15V974": "C",
   "VTANR5L15V975": "P",
   "VTANR5L15V981": "A"
- },
- "twitter": {
-  "id": "491343921",
-  "name": "Clémentine Autain",
-  "public_metrics": {
-   "followers_count": 115114,
-   "following_count": 1112,
-   "listed_count": 843,
-   "tweet_count": 9708
-  },
-  "username": "Clem_Autain"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Clem_Autain"
  },
  "uid": "PA588884"
 }

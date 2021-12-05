@@ -12,9 +12,9 @@
   "nom": "Stéphanie Kerbarh"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
+  "groupe": "Libertés et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721514.jpg",
-  "nosiege": "472"
+  "nosiege": "221"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -151,7 +151,7 @@
    "Yébleron (76640)"
   ],
   "departement": "Seine-maritime",
-  "group": "La République en Marche",
+  "group": "Libertés et Territoires",
   "nom": "Kerbarh",
   "numCirco": "9",
   "numDepartement": "76",
@@ -160,17 +160,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_stephanie-kerbarh",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 59,
-   "curRadiusIndex": 10,
-   "id": "ai59ri10",
-   "no": 472,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 9,
+   "id": "ai24ri9",
+   "no": 221,
    "polar": {
-    "angle": 2.2883205748370097,
-    "radius": 0.9375
+    "angle": 1.0927278795094932,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.616426283033497,
-    "y": -0.7064858040185078
+    "x": 0.40255690801475813,
+    "y": -0.777053166380148
    }
   }
  },
@@ -615,9 +615,22 @@
   "VTANR5L15V3802": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
+  "VTANR5L15V3970": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4052": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4088": "C",
+  "VTANR5L15V4089": "C",
+  "VTANR5L15V4091": "P",
+  "VTANR5L15V4094": "P",
+  "VTANR5L15V4095": "P",
+  "VTANR5L15V4096": "P",
+  "VTANR5L15V4097": "P",
+  "VTANR5L15V4103": "C",
   "VTANR5L15V414": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
@@ -712,21 +725,6 @@
   "VTANR5L15V99": "A",
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "C"
- },
- "twitter": {
-  "id": "1264462435",
-  "name": "Stéphanie Kerbarh",
-  "public_metrics": {
-   "followers_count": 6636,
-   "following_count": 1248,
-   "listed_count": 150,
-   "tweet_count": 3932
-  },
-  "username": "SKerbarh"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "SKerbarh"
  },
  "uid": "PA721514"
 }

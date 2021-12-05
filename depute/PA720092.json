@@ -343,9 +343,20 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
   "VTANR5L15V40": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4092": "C",
+  "VTANR5L15V4093": "C",
+  "VTANR5L15V4094": "C",
+  "VTANR5L15V4095": "C",
+  "VTANR5L15V4096": "C",
   "VTANR5L15V41": "C",
+  "VTANR5L15V4101": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V42": "C",
   "VTANR5L15V43": "C",
   "VTANR5L15V433": "P",
@@ -531,21 +542,6 @@
   "VTANR5L15V974": "P",
   "VTANR5L15V976": "C",
   "VTANR5L15V991": "C"
- },
- "twitter": {
-  "id": "863039952401170433",
-  "name": "Richard Ramos",
-  "public_metrics": {
-   "followers_count": 2697,
-   "following_count": 1566,
-   "listed_count": 54,
-   "tweet_count": 742
-  },
-  "username": "_richardramos"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "_richardramos"
  },
  "uid": "PA720092"
 }

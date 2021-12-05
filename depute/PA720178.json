@@ -333,9 +333,19 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3780": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
+  "VTANR5L15V3981": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V459": "C",
@@ -412,21 +422,6 @@
   "VTANR5L15V929": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "786575225316110336",
-  "name": "Laurent GARCIA",
-  "public_metrics": {
-   "followers_count": 2160,
-   "following_count": 365,
-   "listed_count": 92,
-   "tweet_count": 2337
-  },
-  "username": "GarciaLaxou"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "GarciaLaxou"
  },
  "uid": "PA720178"
 }

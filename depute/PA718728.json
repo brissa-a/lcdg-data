@@ -553,6 +553,7 @@
   "VTANR5L15V3822": "C",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
@@ -561,10 +562,21 @@
   "VTANR5L15V395": "C",
   "VTANR5L15V396": "C",
   "VTANR5L15V397": "C",
+  "VTANR5L15V3978": "P",
+  "VTANR5L15V3979": "P",
   "VTANR5L15V398": "P",
+  "VTANR5L15V4008": "P",
   "VTANR5L15V402": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4179": "P",
+  "VTANR5L15V4180": "P",
+  "VTANR5L15V4181": "P",
+  "VTANR5L15V4182": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4198": "C",
+  "VTANR5L15V4205": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V461": "P",
   "VTANR5L15V462": "C",
@@ -634,21 +646,6 @@
   "VTANR5L15V941": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "501564320",
-  "name": "Laurence Vanceunebrock",
-  "public_metrics": {
-   "followers_count": 5226,
-   "following_count": 1001,
-   "listed_count": 85,
-   "tweet_count": 10072
-  },
-  "username": "LaurenceVanceu"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "LaurenceVanceu"
  },
  "uid": "PA718728"
 }

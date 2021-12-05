@@ -419,22 +419,31 @@
   "VTANR5L15V3807": "A",
   "VTANR5L15V3808": "C",
   "VTANR5L15V3837": "C",
-  "VTANR5L15V3838": "A"
- },
- "twitter": {
-  "id": "998156310",
-  "name": "Jean-Louis Thiériot",
-  "public_metrics": {
-   "followers_count": 5742,
-   "following_count": 3448,
-   "listed_count": 91,
-   "tweet_count": 4028
-  },
-  "username": "JL_Thieriot"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "JL_Thieriot"
+  "VTANR5L15V3838": "A",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3858": "P",
+  "VTANR5L15V3859": "P",
+  "VTANR5L15V3871": "P",
+  "VTANR5L15V3961": "P",
+  "VTANR5L15V3977": "P",
+  "VTANR5L15V3984": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4009": "P",
+  "VTANR5L15V4031": "C",
+  "VTANR5L15V4032": "P",
+  "VTANR5L15V4033": "C",
+  "VTANR5L15V4034": "C",
+  "VTANR5L15V4064": "C",
+  "VTANR5L15V4086": "P",
+  "VTANR5L15V4101": "P",
+  "VTANR5L15V4102": "C",
+  "VTANR5L15V4103": "C",
+  "VTANR5L15V4104": "C",
+  "VTANR5L15V4107": "P",
+  "VTANR5L15V4108": "C",
+  "VTANR5L15V4109": "C",
+  "VTANR5L15V4150": "C",
+  "VTANR5L15V4202": "P"
  },
  "uid": "PA643089"
 }

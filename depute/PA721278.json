@@ -452,12 +452,18 @@
   "VTANR5L15V3835": "C",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3877": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
+  "VTANR5L15V3915": "C",
+  "VTANR5L15V3916": "C",
   "VTANR5L15V392": "C",
   "VTANR5L15V393": "C",
   "VTANR5L15V394": "C",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
   "VTANR5L15V395": "C",
   "VTANR5L15V396": "C",
   "VTANR5L15V397": "C",
@@ -465,11 +471,20 @@
   "VTANR5L15V399": "C",
   "VTANR5L15V40": "C",
   "VTANR5L15V400": "P",
+  "VTANR5L15V4008": "P",
   "VTANR5L15V404": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V409": "P",
   "VTANR5L15V41": "C",
+  "VTANR5L15V4111": "P",
+  "VTANR5L15V4112": "P",
+  "VTANR5L15V4129": "C",
   "VTANR5L15V413": "P",
+  "VTANR5L15V4130": "C",
   "VTANR5L15V415": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4156": "P",
+  "VTANR5L15V4157": "P",
   "VTANR5L15V417": "P",
   "VTANR5L15V418": "P",
   "VTANR5L15V419": "P",
@@ -666,21 +681,6 @@
   "VTANR5L15V987": "C",
   "VTANR5L15V989": "P",
   "VTANR5L15V990": "C"
- },
- "twitter": {
-  "id": "3791340735",
-  "name": "Patrice Anato",
-  "public_metrics": {
-   "followers_count": 6546,
-   "following_count": 1898,
-   "listed_count": 127,
-   "tweet_count": 1640
-  },
-  "username": "Patrice_Anato"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Patrice_Anato"
  },
  "uid": "PA721278"
 }

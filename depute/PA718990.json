@@ -548,9 +548,27 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3853": "C",
+  "VTANR5L15V3854": "P",
+  "VTANR5L15V3855": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3984": "P",
+  "VTANR5L15V3985": "P",
+  "VTANR5L15V3986": "P",
+  "VTANR5L15V3987": "P",
+  "VTANR5L15V3988": "P",
+  "VTANR5L15V3991": "P",
+  "VTANR5L15V3992": "P",
+  "VTANR5L15V3993": "P",
+  "VTANR5L15V3994": "C",
+  "VTANR5L15V3995": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V465": "C",
@@ -605,21 +623,6 @@
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P",
   "VTANR5L15V975": "P"
- },
- "twitter": {
-  "id": "917647276176273408",
-  "name": "Anne Blanc",
-  "public_metrics": {
-   "followers_count": 1544,
-   "following_count": 794,
-   "listed_count": 63,
-   "tweet_count": 825
-  },
-  "username": "AnneBlanc_12"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "AnneBlanc_12"
  },
  "uid": "PA718990"
 }

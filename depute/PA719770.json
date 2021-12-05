@@ -424,8 +424,26 @@
   "VTANR5L15V3823": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3879": "P",
+  "VTANR5L15V3880": "C",
+  "VTANR5L15V3882": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3901": "C",
+  "VTANR5L15V3902": "C",
+  "VTANR5L15V3903": "C",
+  "VTANR5L15V3915": "C",
+  "VTANR5L15V3916": "C",
+  "VTANR5L15V3922": "C",
+  "VTANR5L15V3935": "C",
+  "VTANR5L15V3936": "P",
+  "VTANR5L15V3937": "P",
+  "VTANR5L15V3943": "P",
+  "VTANR5L15V3980": "C",
+  "VTANR5L15V3981": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V423": "C",
   "VTANR5L15V427": "C",
@@ -513,21 +531,6 @@
   "VTANR5L15V993": "C",
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "542779549",
-  "name": "Florian Bachelier",
-  "public_metrics": {
-   "followers_count": 12246,
-   "following_count": 3631,
-   "listed_count": 203,
-   "tweet_count": 5189
-  },
-  "username": "F_BACHELIER"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "F_BACHELIER"
  },
  "uid": "PA719770"
 }

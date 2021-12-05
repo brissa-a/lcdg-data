@@ -504,8 +504,19 @@
   "VTANR5L15V3822": "C",
   "VTANR5L15V3823": "C",
   "VTANR5L15V3837": "C",
+  "VTANR5L15V3867": "C",
+  "VTANR5L15V3868": "P",
+  "VTANR5L15V3869": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "P",
+  "VTANR5L15V3891": "C",
+  "VTANR5L15V3915": "P",
+  "VTANR5L15V3916": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4197": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V438": "C",
   "VTANR5L15V483": "P",
@@ -561,21 +572,6 @@
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "C",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "522084022",
-  "name": "FM LAMBERT",
-  "public_metrics": {
-   "followers_count": 14573,
-   "following_count": 2106,
-   "listed_count": 389,
-   "tweet_count": 19923
-  },
-  "username": "fm_lambert"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "fm_lambert"
  },
  "uid": "PA605518"
 }

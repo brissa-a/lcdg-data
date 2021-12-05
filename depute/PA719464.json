@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719464.jpg",
-  "nosiege": "644"
+  "nosiege": "211"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -141,17 +141,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_sebastien-nadot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 75,
-   "curRadiusIndex": 11,
-   "id": "ai75ri11",
-   "no": 644,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 8,
+   "id": "ai23ri8",
+   "no": 211,
    "polar": {
-    "angle": 2.9825246711295508,
-    "radius": 1
+    "angle": 1.078457179590526,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.9873753419363335,
-    "y": -0.1584293411715125
+    "x": 0.3840594104657093,
+    "y": -0.7161405954525667
    }
   }
  },
@@ -335,8 +335,13 @@
   "VTANR5L15V3822": "C",
   "VTANR5L15V3823": "C",
   "VTANR5L15V3837": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "C",
+  "VTANR5L15V4176": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V436": "C",
   "VTANR5L15V477": "P",

@@ -518,9 +518,29 @@
   "VTANR5L15V3797": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3858": "P",
+  "VTANR5L15V3859": "A",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3950": "C",
+  "VTANR5L15V3951": "C",
+  "VTANR5L15V3952": "C",
+  "VTANR5L15V3953": "C",
+  "VTANR5L15V3954": "C",
+  "VTANR5L15V3956": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4037": "P",
+  "VTANR5L15V4038": "P",
+  "VTANR5L15V4041": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4125": "P",
+  "VTANR5L15V4126": "P",
+  "VTANR5L15V4127": "P",
+  "VTANR5L15V4128": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V434": "P",
@@ -601,21 +621,6 @@
   "VTANR5L15V971": "P",
   "VTANR5L15V972": "C",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "881887452591517698",
-  "name": "Justine Benin",
-  "public_metrics": {
-   "followers_count": 1638,
-   "following_count": 1291,
-   "listed_count": 54,
-   "tweet_count": 494
-  },
-  "username": "Justine_BENIN"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Justine_BENIN"
  },
  "uid": "PA720968"
 }

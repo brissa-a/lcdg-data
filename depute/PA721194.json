@@ -640,12 +640,32 @@
   "VTANR5L15V3797": "P",
   "VTANR5L15V3798": "A",
   "VTANR5L15V3823": "C",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3862": "P",
+  "VTANR5L15V3865": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V40": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4022": "P",
+  "VTANR5L15V4023": "P",
+  "VTANR5L15V4024": "P",
+  "VTANR5L15V4025": "C",
+  "VTANR5L15V4026": "P",
+  "VTANR5L15V4027": "P",
+  "VTANR5L15V4028": "C",
+  "VTANR5L15V4029": "C",
+  "VTANR5L15V4030": "A",
+  "VTANR5L15V4031": "A",
+  "VTANR5L15V4034": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
   "VTANR5L15V41": "C",
+  "VTANR5L15V4113": "P",
+  "VTANR5L15V4114": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4196": "P",
   "VTANR5L15V42": "C",
   "VTANR5L15V43": "C",
   "VTANR5L15V433": "P",
@@ -764,21 +784,6 @@
   "VTANR5L15V997": "C",
   "VTANR5L15V998": "A",
   "VTANR5L15V999": "A"
- },
- "twitter": {
-  "id": "3772780954",
-  "name": "Frédérique Dumas",
-  "public_metrics": {
-   "followers_count": 9925,
-   "following_count": 2528,
-   "listed_count": 154,
-   "tweet_count": 6357
-  },
-  "username": "DumasFrederique"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "DumasFrederique"
  },
  "uid": "PA721194"
 }

@@ -374,11 +374,15 @@
   "VTANR5L15V3810": "P",
   "VTANR5L15V3811": "P",
   "VTANR5L15V3814": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "A",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V416": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
@@ -453,21 +457,6 @@
   "VTANR5L15V989": "P",
   "VTANR5L15V99": "C",
   "VTANR5L15V996": "P"
- },
- "twitter": {
-  "id": "192986664",
-  "name": "Paula Forteza",
-  "public_metrics": {
-   "followers_count": 15447,
-   "following_count": 8005,
-   "listed_count": 446,
-   "tweet_count": 8971
-  },
-  "username": "PaulaForteza"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "PaulaForteza"
  },
  "uid": "PA721142"
 }

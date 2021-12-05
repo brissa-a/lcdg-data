@@ -445,8 +445,16 @@
   "VTANR5L15V382": "A",
   "VTANR5L15V3837": "A",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "A",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "A",
+  "VTANR5L15V4008": "A",
+  "VTANR5L15V4064": "A",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4122": "P",
+  "VTANR5L15V4150": "A",
+  "VTANR5L15V4152": "P",
+  "VTANR5L15V4167": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -508,21 +516,6 @@
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "A",
   "VTANR5L15V982": "C"
- },
- "twitter": {
-  "id": "110940220",
-  "name": "MOREL A L'HUISSIER",
-  "public_metrics": {
-   "followers_count": 4165,
-   "following_count": 1521,
-   "listed_count": 175,
-   "tweet_count": 4519
-  },
-  "username": "MORELPIERRE"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "MORELPIERRE"
  },
  "uid": "PA266788"
 }

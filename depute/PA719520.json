@@ -531,12 +531,32 @@
   "VTANR5L15V3839": "C",
   "VTANR5L15V3840": "C",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3854": "P",
+  "VTANR5L15V3862": "C",
+  "VTANR5L15V3863": "C",
+  "VTANR5L15V3864": "C",
+  "VTANR5L15V3865": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
   "VTANR5L15V39": "C",
+  "VTANR5L15V3917": "P",
+  "VTANR5L15V3984": "P",
+  "VTANR5L15V3985": "P",
+  "VTANR5L15V3986": "P",
+  "VTANR5L15V3987": "P",
+  "VTANR5L15V3988": "P",
   "VTANR5L15V40": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4038": "P",
+  "VTANR5L15V4039": "C",
+  "VTANR5L15V4040": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V41": "C",
   "VTANR5L15V414": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4151": "P",
   "VTANR5L15V417": "P",
   "VTANR5L15V418": "P",
   "VTANR5L15V42": "C",
@@ -783,21 +803,6 @@
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "80071647",
-  "name": "Mickael Nogal",
-  "public_metrics": {
-   "followers_count": 8697,
-   "following_count": 3057,
-   "listed_count": 237,
-   "tweet_count": 9609
-  },
-  "username": "MickaelNogal"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "MickaelNogal"
  },
  "uid": "PA719520"
 }

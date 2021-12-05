@@ -275,8 +275,19 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V3837": "C",
+  "VTANR5L15V3855": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3940": "C",
+  "VTANR5L15V3941": "A",
+  "VTANR5L15V3942": "C",
+  "VTANR5L15V3943": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4107": "P",
+  "VTANR5L15V4108": "C",
+  "VTANR5L15V4109": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V439": "C",
@@ -311,21 +322,6 @@
   "VTANR5L15V96": "C",
   "VTANR5L15V974": "C",
   "VTANR5L15V98": "C"
- },
- "twitter": {
-  "id": "239867102",
-  "name": "Guillaume Peltier",
-  "public_metrics": {
-   "followers_count": 44972,
-   "following_count": 2068,
-   "listed_count": 594,
-   "tweet_count": 8280
-  },
-  "username": "G_Peltier"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "G_Peltier"
  },
  "uid": "PA719946"
 }

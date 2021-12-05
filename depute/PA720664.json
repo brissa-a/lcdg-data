@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720664.jpg",
-  "nosiege": "239"
+  "nosiege": "240"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -46,17 +46,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_jose-evrard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 22,
+   "curAngleIndex": 23,
    "curRadiusIndex": 11,
-   "id": "ai22ri11",
-   "no": 239,
+   "id": "ai23ri11",
+   "no": 240,
    "polar": {
-    "angle": 0.8748739035313349,
+    "angle": 0.9146408991463956,
     "radius": 1
    },
    "pos": {
-    "x": 0.6410936375922202,
-    "y": -0.7676144032094914
+    "x": 0.6100751460105244,
+    "y": -0.7925002131609329
    }
   }
  },
@@ -254,8 +254,51 @@
   "VTANR5L15V3823": "C",
   "VTANR5L15V3837": "A",
   "VTANR5L15V3838": "A",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3891": "C",
+  "VTANR5L15V3893": "P",
+  "VTANR5L15V3926": "P",
+  "VTANR5L15V3927": "P",
+  "VTANR5L15V3928": "P",
+  "VTANR5L15V3929": "P",
+  "VTANR5L15V3930": "P",
+  "VTANR5L15V3932": "P",
+  "VTANR5L15V3933": "C",
+  "VTANR5L15V3936": "C",
+  "VTANR5L15V3937": "C",
+  "VTANR5L15V3939": "C",
+  "VTANR5L15V3943": "C",
+  "VTANR5L15V3944": "P",
+  "VTANR5L15V3945": "C",
+  "VTANR5L15V3946": "C",
+  "VTANR5L15V3948": "C",
+  "VTANR5L15V3949": "C",
+  "VTANR5L15V3951": "P",
+  "VTANR5L15V3952": "P",
+  "VTANR5L15V3953": "P",
+  "VTANR5L15V3954": "P",
+  "VTANR5L15V3955": "P",
+  "VTANR5L15V3956": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V408": "P",
   "VTANR5L15V409": "C",
+  "VTANR5L15V4090": "P",
+  "VTANR5L15V4091": "P",
+  "VTANR5L15V4092": "P",
+  "VTANR5L15V4093": "P",
+  "VTANR5L15V4094": "P",
+  "VTANR5L15V4098": "P",
+  "VTANR5L15V4099": "P",
+  "VTANR5L15V4100": "P",
+  "VTANR5L15V4101": "P",
+  "VTANR5L15V4102": "P",
+  "VTANR5L15V4103": "C",
+  "VTANR5L15V4106": "P",
+  "VTANR5L15V4107": "P",
+  "VTANR5L15V4108": "C",
+  "VTANR5L15V4109": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "C",
   "VTANR5L15V433": "C",
   "VTANR5L15V459": "P",
@@ -315,21 +358,6 @@
   "VTANR5L15V974": "C",
   "VTANR5L15V98": "P",
   "VTANR5L15V99": "P"
- },
- "twitter": {
-  "id": "935241513193353216",
-  "name": "José Evrard",
-  "public_metrics": {
-   "followers_count": 1691,
-   "following_count": 338,
-   "listed_count": 36,
-   "tweet_count": 1351
-  },
-  "username": "Joseevrard62"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Joseevrard62"
  },
  "uid": "PA720664"
 }

@@ -271,8 +271,32 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3853": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3894": "C",
+  "VTANR5L15V3895": "C",
+  "VTANR5L15V3896": "C",
+  "VTANR5L15V3897": "C",
+  "VTANR5L15V3898": "C",
+  "VTANR5L15V3899": "C",
+  "VTANR5L15V3900": "C",
+  "VTANR5L15V3901": "C",
+  "VTANR5L15V3902": "C",
+  "VTANR5L15V3903": "C",
+  "VTANR5L15V3910": "C",
+  "VTANR5L15V3911": "C",
+  "VTANR5L15V3912": "C",
+  "VTANR5L15V3913": "C",
+  "VTANR5L15V3917": "P",
+  "VTANR5L15V3933": "P",
+  "VTANR5L15V3936": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -295,21 +319,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "116229959",
-  "name": "Thierry SOLERE",
-  "public_metrics": {
-   "followers_count": 27585,
-   "following_count": 3819,
-   "listed_count": 460,
-   "tweet_count": 13922
-  },
-  "username": "solere92"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "solere92"
  },
  "uid": "PA346876"
 }

@@ -236,8 +236,16 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3800": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4115": "P",
+  "VTANR5L15V4126": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4153": "C",
+  "VTANR5L15V4154": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -260,21 +268,6 @@
   "VTANR5L15V928": "A",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "A"
- },
- "twitter": {
-  "id": "408115726",
-  "name": "Philippe Gomès",
-  "public_metrics": {
-   "followers_count": 2844,
-   "following_count": 134,
-   "listed_count": 180,
-   "tweet_count": 3971
-  },
-  "username": "PhilippeGomesCE"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "PhilippeGomesCE"
  },
  "uid": "PA610775"
 }

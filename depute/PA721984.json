@@ -502,10 +502,27 @@
   "VTANR5L15V3814": "C",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3856": "A",
+  "VTANR5L15V3857": "C",
+  "VTANR5L15V3858": "C",
+  "VTANR5L15V3859": "C",
   "VTANR5L15V386": "P",
+  "VTANR5L15V3860": "P",
+  "VTANR5L15V3861": "P",
+  "VTANR5L15V3862": "C",
+  "VTANR5L15V3863": "C",
+  "VTANR5L15V3865": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3957": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4059": "C",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4206": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V434": "P",
   "VTANR5L15V467": "C",
@@ -565,21 +582,6 @@
   "VTANR5L15V983": "P",
   "VTANR5L15V984": "P",
   "VTANR5L15V985": "P"
- },
- "twitter": {
-  "id": "560299831",
-  "name": "Philippe Latombe",
-  "public_metrics": {
-   "followers_count": 3512,
-   "following_count": 2236,
-   "listed_count": 94,
-   "tweet_count": 2777
-  },
-  "username": "platombe"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "platombe"
  },
  "uid": "PA721984"
 }

@@ -362,10 +362,14 @@
   "VTANR5L15V3837": "A",
   "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "P",
   "VTANR5L15V404": "P",
   "VTANR5L15V405": "P",
   "VTANR5L15V406": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4186": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -384,21 +388,6 @@
   "VTANR5L15V941": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "94168587",
-  "name": "Jean-Luc Warsmann",
-  "public_metrics": {
-   "followers_count": 3325,
-   "following_count": 230,
-   "listed_count": 194,
-   "tweet_count": 586
-  },
-  "username": "warsmann"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "warsmann"
  },
  "uid": "PA2952"
 }

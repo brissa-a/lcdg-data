@@ -777,11 +777,32 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3892": "C",
   "VTANR5L15V39": "C",
+  "VTANR5L15V3904": "C",
+  "VTANR5L15V3905": "C",
+  "VTANR5L15V3907": "C",
+  "VTANR5L15V3908": "C",
+  "VTANR5L15V3910": "C",
+  "VTANR5L15V3911": "C",
+  "VTANR5L15V3912": "C",
+  "VTANR5L15V3913": "C",
+  "VTANR5L15V3914": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4012": "C",
+  "VTANR5L15V4013": "C",
+  "VTANR5L15V4014": "C",
+  "VTANR5L15V4062": "P",
+  "VTANR5L15V4063": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4083": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V420": "C",
   "VTANR5L15V433": "P",
@@ -867,21 +888,6 @@
   "VTANR5L15V95": "C",
   "VTANR5L15V974": "P",
   "VTANR5L15V99": "P"
- },
- "twitter": {
-  "id": "864077786209812480",
-  "name": "Benjamin Dirx",
-  "public_metrics": {
-   "followers_count": 4965,
-   "following_count": 532,
-   "listed_count": 124,
-   "tweet_count": 1194
-  },
-  "username": "BenjaminDirx"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "BenjaminDirx"
  },
  "uid": "PA722382"
 }

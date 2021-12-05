@@ -510,11 +510,29 @@
   "VTANR5L15V3808": "P",
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
+  "VTANR5L15V3862": "C",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3892": "C",
+  "VTANR5L15V3906": "C",
+  "VTANR5L15V3907": "P",
+  "VTANR5L15V3908": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4068": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V415": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4176": "P",
+  "VTANR5L15V4177": "P",
+  "VTANR5L15V4178": "P",
+  "VTANR5L15V4179": "P",
+  "VTANR5L15V4180": "P",
+  "VTANR5L15V4181": "P",
+  "VTANR5L15V4182": "P",
+  "VTANR5L15V4183": "P",
+  "VTANR5L15V4184": "P",
   "VTANR5L15V421": "C",
   "VTANR5L15V422": "C",
   "VTANR5L15V426": "C",
@@ -664,21 +682,6 @@
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "2979937161",
-  "name": "Philippe HUPPE ✒️",
-  "public_metrics": {
-   "followers_count": 4509,
-   "following_count": 1212,
-   "listed_count": 123,
-   "tweet_count": 3685
-  },
-  "username": "PhilippeHuppe"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "PhilippeHuppe"
  },
  "uid": "PA719700"
 }

@@ -921,9 +921,23 @@
   "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4113": "C",
+  "VTANR5L15V4114": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4184": "P",
+  "VTANR5L15V4186": "P",
+  "VTANR5L15V4188": "C",
+  "VTANR5L15V4189": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4191": "P",
+  "VTANR5L15V4192": "C",
+  "VTANR5L15V4193": "C",
+  "VTANR5L15V4194": "C",
+  "VTANR5L15V4195": "C",
   "VTANR5L15V433": "P",
   "VTANR5L15V459": "C",
   "VTANR5L15V460": "C",
@@ -999,21 +1013,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "2910111251",
-  "name": "Bruno Duvergé",
-  "public_metrics": {
-   "followers_count": 713,
-   "following_count": 1,
-   "listed_count": 75,
-   "tweet_count": 0
-  },
-  "username": "BrunoDuverge"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "BrunoDuverge"
  },
  "uid": "PA720652"
 }

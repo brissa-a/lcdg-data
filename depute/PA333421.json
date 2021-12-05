@@ -651,8 +651,33 @@
   "VTANR5L15V3838": "P",
   "VTANR5L15V3839": "P",
   "VTANR5L15V3840": "P",
+  "VTANR5L15V3853": "C",
+  "VTANR5L15V3874": "C",
+  "VTANR5L15V3889": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "P",
+  "VTANR5L15V3891": "C",
+  "VTANR5L15V3969": "A",
+  "VTANR5L15V3973": "A",
+  "VTANR5L15V3977": "A",
+  "VTANR5L15V3983": "P",
+  "VTANR5L15V3984": "C",
+  "VTANR5L15V3988": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4020": "C",
+  "VTANR5L15V4028": "C",
+  "VTANR5L15V4029": "C",
+  "VTANR5L15V4030": "A",
+  "VTANR5L15V4031": "A",
+  "VTANR5L15V4032": "P",
+  "VTANR5L15V4033": "C",
+  "VTANR5L15V4034": "C",
+  "VTANR5L15V4062": "P",
+  "VTANR5L15V4063": "C",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4113": "P",
+  "VTANR5L15V4114": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -692,21 +717,6 @@
   "VTANR5L15V944": "P",
   "VTANR5L15V974": "A",
   "VTANR5L15V982": "C"
- },
- "twitter": {
-  "id": "436780101",
-  "name": "Bertrand Pancher",
-  "public_metrics": {
-   "followers_count": 7740,
-   "following_count": 2716,
-   "listed_count": 247,
-   "tweet_count": 8090
-  },
-  "username": "BertrandPancher"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "BertrandPancher"
  },
  "uid": "PA333421"
 }

@@ -279,11 +279,17 @@
   "VTANR5L15V385": "C",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3917": "C",
   "VTANR5L15V40": "C",
+  "VTANR5L15V4008": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V41": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V42": "C",
+  "VTANR5L15V4202": "C",
+  "VTANR5L15V4203": "P",
+  "VTANR5L15V4204": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V438": "C",
   "VTANR5L15V44": "P",
@@ -334,21 +340,6 @@
   "VTANR5L15V974": "P",
   "VTANR5L15V98": "C",
   "VTANR5L15V99": "C"
- },
- "twitter": {
-  "id": "472903732",
-  "name": "Aurélien Taché",
-  "public_metrics": {
-   "followers_count": 29085,
-   "following_count": 2990,
-   "listed_count": 280,
-   "tweet_count": 11179
-  },
-  "username": "Aurelientache"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Aurelientache"
  },
  "uid": "PA720952"
 }

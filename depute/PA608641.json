@@ -335,6 +335,7 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
@@ -346,6 +347,11 @@
   "VTANR5L15V396": "C",
   "VTANR5L15V397": "C",
   "VTANR5L15V398": "P",
+  "VTANR5L15V3984": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V434": "P",
@@ -420,21 +426,6 @@
   "VTANR5L15V933": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "1465704961",
-  "name": "Yves Blein",
-  "public_metrics": {
-   "followers_count": 3981,
-   "following_count": 3890,
-   "listed_count": 187,
-   "tweet_count": 3255
-  },
-  "username": "yves_blein"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "yves_blein"
  },
  "uid": "PA608641"
 }

@@ -343,9 +343,26 @@
   "VTANR5L15V3779": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4084": "C",
   "VTANR5L15V409": "P",
   "VTANR5L15V410": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4205": "P",
+  "VTANR5L15V4206": "P",
+  "VTANR5L15V4212": "P",
+  "VTANR5L15V4213": "P",
+  "VTANR5L15V4214": "P",
+  "VTANR5L15V4216": "C",
+  "VTANR5L15V4217": "C",
+  "VTANR5L15V4218": "C",
+  "VTANR5L15V4219": "P",
+  "VTANR5L15V4220": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
   "VTANR5L15V483": "P",
@@ -364,21 +381,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "786149802731986944",
-  "name": "michelfanget",
-  "public_metrics": {
-   "followers_count": 1033,
-   "following_count": 100,
-   "listed_count": 66,
-   "tweet_count": 187
-  },
-  "username": "michelfanget"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "michelfanget"
  },
  "uid": "PA1276"
 }

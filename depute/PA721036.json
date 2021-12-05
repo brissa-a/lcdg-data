@@ -329,6 +329,12 @@
   "VTANR5L15V3780": "P",
   "VTANR5L15V3798": "P",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3907": "P",
+  "VTANR5L15V3943": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4128": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V476": "C",
@@ -350,21 +356,6 @@
   "VTANR5L15V946": "C",
   "VTANR5L15V947": "C",
   "VTANR5L15V948": "C"
- },
- "twitter": {
-  "id": "413114866",
-  "name": "Lénaïck ADAM",
-  "public_metrics": {
-   "followers_count": 2830,
-   "following_count": 647,
-   "listed_count": 103,
-   "tweet_count": 338
-  },
-  "username": "LenaickADAM"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "LenaickADAM"
  },
  "uid": "PA721036"
 }

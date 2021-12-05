@@ -357,8 +357,17 @@
   "VTANR5L15V3780": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3904": "C",
+  "VTANR5L15V3905": "C",
+  "VTANR5L15V3906": "P",
+  "VTANR5L15V3907": "C",
+  "VTANR5L15V3908": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V420": "C",
   "VTANR5L15V421": "C",
@@ -412,21 +421,6 @@
   "VTANR5L15V976": "C",
   "VTANR5L15V977": "P",
   "VTANR5L15V978": "P"
- },
- "twitter": {
-  "id": "856059444",
-  "name": "Gwendal ROUILLARD",
-  "public_metrics": {
-   "followers_count": 9207,
-   "following_count": 8891,
-   "listed_count": 264,
-   "tweet_count": 16843
-  },
-  "username": "G_ROUILLARD"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "G_ROUILLARD"
  },
  "uid": "PA343493"
 }

@@ -540,7 +540,36 @@
   "VTANR5L15V3845": "P",
   "VTANR5L15V3846": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
+  "VTANR5L15V3950": "C",
+  "VTANR5L15V3984": "P",
+  "VTANR5L15V3986": "P",
+  "VTANR5L15V3997": "C",
+  "VTANR5L15V3998": "C",
+  "VTANR5L15V3999": "C",
+  "VTANR5L15V4000": "P",
+  "VTANR5L15V4001": "C",
+  "VTANR5L15V4006": "P",
+  "VTANR5L15V4007": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4069": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4086": "C",
+  "VTANR5L15V4113": "C",
+  "VTANR5L15V4114": "P",
+  "VTANR5L15V4135": "C",
+  "VTANR5L15V4136": "C",
+  "VTANR5L15V4137": "P",
+  "VTANR5L15V4138": "P",
+  "VTANR5L15V4141": "P",
+  "VTANR5L15V4142": "P",
+  "VTANR5L15V4143": "P",
+  "VTANR5L15V4144": "C",
+  "VTANR5L15V4147": "C",
+  "VTANR5L15V4148": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -629,21 +658,6 @@
   "VTANR5L15V972": "P",
   "VTANR5L15V973": "C",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "865482011523166209",
-  "name": "Jean-Noël Barrot",
-  "public_metrics": {
-   "followers_count": 6260,
-   "following_count": 472,
-   "listed_count": 132,
-   "tweet_count": 2699
-  },
-  "username": "jnbarrot"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "jnbarrot"
  },
  "uid": "PA721836"
 }

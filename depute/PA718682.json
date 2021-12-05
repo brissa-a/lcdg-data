@@ -481,10 +481,29 @@
   "VTANR5L15V3836": "C",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4090": "C",
+  "VTANR5L15V4091": "C",
+  "VTANR5L15V4092": "C",
+  "VTANR5L15V4093": "C",
+  "VTANR5L15V4094": "C",
+  "VTANR5L15V4095": "C",
+  "VTANR5L15V4096": "C",
+  "VTANR5L15V4097": "C",
+  "VTANR5L15V4098": "C",
+  "VTANR5L15V4099": "C",
+  "VTANR5L15V4100": "C",
+  "VTANR5L15V4101": "C",
+  "VTANR5L15V4102": "C",
+  "VTANR5L15V4103": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V421": "C",
   "VTANR5L15V422": "A",
@@ -525,21 +544,6 @@
   "VTANR5L15V976": "C",
   "VTANR5L15V982": "P",
   "VTANR5L15V983": "P"
- },
- "twitter": {
-  "id": "3291786911",
-  "name": "Stéphane Trompille",
-  "public_metrics": {
-   "followers_count": 6454,
-   "following_count": 227,
-   "listed_count": 413,
-   "tweet_count": 56758
-  },
-  "username": "S_Trompille"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "S_Trompille"
  },
  "uid": "PA718682"
 }

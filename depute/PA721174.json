@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721174.jpg",
-  "nosiege": "241"
+  "nosiege": "242"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -38,17 +38,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_joachim-sonforget",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
+   "curAngleIndex": 25,
    "curRadiusIndex": 11,
-   "id": "ai24ri11",
-   "no": 241,
+   "id": "ai25ri11",
+   "no": 242,
    "polar": {
-    "angle": 0.9544078947614563,
+    "angle": 0.9941748903765169,
     "radius": 1
    },
    "pos": {
-    "x": 0.5780920002248483,
-    "y": -0.8161329173805968
+    "x": 0.5451947721626677,
+    "y": -0.8384751477055179
    }
   }
  },
@@ -248,10 +248,40 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V386": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3893": "P",
+  "VTANR5L15V3894": "P",
+  "VTANR5L15V3895": "A",
+  "VTANR5L15V3896": "A",
+  "VTANR5L15V3897": "P",
+  "VTANR5L15V3898": "P",
+  "VTANR5L15V3899": "P",
+  "VTANR5L15V3900": "P",
+  "VTANR5L15V3922": "P",
+  "VTANR5L15V3943": "C",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4020": "C",
+  "VTANR5L15V4029": "C",
+  "VTANR5L15V4030": "A",
+  "VTANR5L15V4031": "A",
+  "VTANR5L15V4032": "P",
+  "VTANR5L15V4033": "C",
+  "VTANR5L15V4034": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4084": "P",
+  "VTANR5L15V4085": "P",
+  "VTANR5L15V4086": "P",
+  "VTANR5L15V4087": "P",
+  "VTANR5L15V4088": "C",
+  "VTANR5L15V4107": "P",
+  "VTANR5L15V4108": "C",
+  "VTANR5L15V4109": "C",
+  "VTANR5L15V4114": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4198": "P",
   "VTANR5L15V420": "C",
   "VTANR5L15V421": "C",
   "VTANR5L15V422": "C",
@@ -294,21 +324,6 @@
   "VTANR5L15V974": "P",
   "VTANR5L15V98": "C",
   "VTANR5L15V99": "C"
- },
- "twitter": {
-  "id": "1373051236258357251",
-  "name": "Joachim Son-Forget",
-  "public_metrics": {
-   "followers_count": 4448,
-   "following_count": 879,
-   "listed_count": 10,
-   "tweet_count": 947
-  },
-  "username": "__iron_man_"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "__iron_man_"
  },
  "uid": "PA721174"
 }

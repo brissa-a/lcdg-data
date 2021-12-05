@@ -571,10 +571,29 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3893": "C",
+  "VTANR5L15V3894": "P",
+  "VTANR5L15V3895": "P",
+  "VTANR5L15V3897": "C",
+  "VTANR5L15V3898": "C",
+  "VTANR5L15V3899": "C",
+  "VTANR5L15V3906": "P",
+  "VTANR5L15V3907": "P",
+  "VTANR5L15V3908": "P",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4176": "P",
+  "VTANR5L15V4177": "P",
+  "VTANR5L15V4181": "P",
+  "VTANR5L15V4182": "P",
+  "VTANR5L15V4185": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V421": "C",
   "VTANR5L15V422": "C",
+  "VTANR5L15V4222": "C",
   "VTANR5L15V424": "P",
   "VTANR5L15V425": "P",
   "VTANR5L15V426": "C",
@@ -687,21 +706,6 @@
   "VTANR5L15V956": "P",
   "VTANR5L15V974": "P",
   "VTANR5L15V982": "C"
- },
- "twitter": {
-  "id": "1136005090530209793",
-  "name": "M'jid El GUERRAB",
-  "public_metrics": {
-   "followers_count": 2838,
-   "following_count": 732,
-   "listed_count": 27,
-   "tweet_count": 3157
-  },
-  "username": "mjidelguerrab"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "mjidelguerrab"
  },
  "uid": "PA720996"
 }

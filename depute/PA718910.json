@@ -547,9 +547,16 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V414": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4176": "P",
+  "VTANR5L15V4177": "P",
+  "VTANR5L15V4178": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V437": "C",
@@ -591,21 +598,6 @@
   "VTANR5L15V948": "C",
   "VTANR5L15V955": "C",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "864560136974737408",
-  "name": "Claire Pitollat",
-  "public_metrics": {
-   "followers_count": 7145,
-   "following_count": 1556,
-   "listed_count": 147,
-   "tweet_count": 3719
-  },
-  "username": "ClairePitollat"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "ClairePitollat"
  },
  "uid": "PA718910"
 }

@@ -279,9 +279,20 @@
   "VTANR5L15V3836": "A",
   "VTANR5L15V3837": "A",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3853": "C",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3856": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3917": "P",
+  "VTANR5L15V3948": "P",
+  "VTANR5L15V3949": "P",
+  "VTANR5L15V4008": "A",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V411": "P",
+  "VTANR5L15V4114": "C",
+  "VTANR5L15V4150": "A",
+  "VTANR5L15V4186": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
   "VTANR5L15V483": "A",
@@ -332,21 +343,6 @@
   "VTANR5L15V975": "P",
   "VTANR5L15V982": "C",
   "VTANR5L15V989": "A"
- },
- "twitter": {
-  "id": "1851724262",
-  "name": "Meyer Habib",
-  "public_metrics": {
-   "followers_count": 18027,
-   "following_count": 387,
-   "listed_count": 212,
-   "tweet_count": 1364
-  },
-  "username": "Meyer_Habib"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Meyer_Habib"
  },
  "uid": "PA695100"
 }

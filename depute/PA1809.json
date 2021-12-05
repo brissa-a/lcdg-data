@@ -534,8 +534,20 @@
   "VTANR5L15V3780": "C",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "C",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3869": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4085": "P",
+  "VTANR5L15V4086": "P",
+  "VTANR5L15V4087": "P",
+  "VTANR5L15V4088": "C",
+  "VTANR5L15V4089": "P",
+  "VTANR5L15V4114": "C",
+  "VTANR5L15V4150": "C",
+  "VTANR5L15V4154": "A",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V438": "P",
@@ -557,21 +569,6 @@
   "VTANR5L15V974": "C",
   "VTANR5L15V982": "C",
   "VTANR5L15V983": "C"
- },
- "twitter": {
-  "id": "449861621",
-  "name": "jerome Lambert",
-  "public_metrics": {
-   "followers_count": 1500,
-   "following_count": 54,
-   "listed_count": 95,
-   "tweet_count": 1037
-  },
-  "username": "jeromelambert16"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "jeromelambert16"
  },
  "uid": "PA1809"
 }

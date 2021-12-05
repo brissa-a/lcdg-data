@@ -561,12 +561,28 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V388": "C",
+  "VTANR5L15V3889": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "P",
   "VTANR5L15V39": "C",
+  "VTANR5L15V3977": "P",
+  "VTANR5L15V3982": "P",
+  "VTANR5L15V3983": "P",
+  "VTANR5L15V3988": "P",
   "VTANR5L15V399": "C",
+  "VTANR5L15V3993": "P",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4006": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4100": "C",
+  "VTANR5L15V4101": "C",
+  "VTANR5L15V4109": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V47": "C",
@@ -609,21 +625,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "708604271701434368",
-  "name": "Hervé Berville",
-  "public_metrics": {
-   "followers_count": 7301,
-   "following_count": 542,
-   "listed_count": 161,
-   "tweet_count": 2878
-  },
-  "username": "HerveBerville"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "HerveBerville"
  },
  "uid": "PA719218"
 }

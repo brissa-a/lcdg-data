@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721474.jpg",
-  "nosiege": "23"
+  "nosiege": "35"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -114,17 +114,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_stephane-viry",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 6,
-   "id": "ai0ri6",
-   "no": 23,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 7,
+   "id": "ai4ri7",
+   "no": 35,
    "polar": {
-    "angle": 0,
-    "radius": 0.6875
+    "angle": 0.2371013323463995,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.6875,
-    "y": 0
+    "x": 0.729017185560308,
+    "y": -0.17619936370447553
    }
   }
  },
@@ -690,12 +690,69 @@
   "VTANR5L15V3823": "C",
   "VTANR5L15V3838": "A",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3856": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "A",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
   "VTANR5L15V392": "A",
+  "VTANR5L15V3971": "C",
+  "VTANR5L15V3984": "C",
+  "VTANR5L15V3985": "C",
+  "VTANR5L15V3987": "C",
+  "VTANR5L15V3988": "C",
+  "VTANR5L15V3989": "C",
+  "VTANR5L15V3990": "C",
+  "VTANR5L15V3991": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4009": "P",
+  "VTANR5L15V4010": "P",
+  "VTANR5L15V4012": "P",
+  "VTANR5L15V4013": "P",
+  "VTANR5L15V4014": "P",
+  "VTANR5L15V4015": "P",
+  "VTANR5L15V4016": "P",
+  "VTANR5L15V4017": "P",
+  "VTANR5L15V4018": "P",
+  "VTANR5L15V4019": "P",
+  "VTANR5L15V4021": "P",
+  "VTANR5L15V4028": "C",
+  "VTANR5L15V4029": "C",
+  "VTANR5L15V4030": "P",
+  "VTANR5L15V4031": "C",
+  "VTANR5L15V4034": "C",
+  "VTANR5L15V4051": "P",
+  "VTANR5L15V4052": "P",
+  "VTANR5L15V4053": "P",
+  "VTANR5L15V4055": "P",
+  "VTANR5L15V4056": "P",
+  "VTANR5L15V4062": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4084": "P",
+  "VTANR5L15V4085": "P",
+  "VTANR5L15V4086": "P",
+  "VTANR5L15V4087": "P",
+  "VTANR5L15V4088": "C",
+  "VTANR5L15V4089": "P",
+  "VTANR5L15V4092": "P",
+  "VTANR5L15V4093": "P",
+  "VTANR5L15V4094": "P",
+  "VTANR5L15V4101": "P",
+  "VTANR5L15V4103": "C",
+  "VTANR5L15V4107": "P",
+  "VTANR5L15V4108": "C",
+  "VTANR5L15V4109": "C",
+  "VTANR5L15V4120": "P",
+  "VTANR5L15V4121": "C",
+  "VTANR5L15V4122": "P",
+  "VTANR5L15V4123": "P",
   "VTANR5L15V413": "P",
+  "VTANR5L15V4150": "C",
+  "VTANR5L15V4152": "P",
+  "VTANR5L15V4153": "C",
+  "VTANR5L15V4154": "A",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V439": "C",
@@ -810,21 +867,6 @@
   "VTANR5L15V972": "C",
   "VTANR5L15V974": "C",
   "VTANR5L15V980": "P"
- },
- "twitter": {
-  "id": "4842549479",
-  "name": "Stéphane VIRY",
-  "public_metrics": {
-   "followers_count": 2346,
-   "following_count": 426,
-   "listed_count": 85,
-   "tweet_count": 824
-  },
-  "username": "ViryStephane"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "ViryStephane"
  },
  "uid": "PA721474"
 }

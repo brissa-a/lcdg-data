@@ -643,9 +643,35 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V3836": "C",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3860": "C",
+  "VTANR5L15V3861": "C",
+  "VTANR5L15V3862": "C",
+  "VTANR5L15V3863": "C",
+  "VTANR5L15V3865": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3904": "C",
+  "VTANR5L15V3905": "C",
+  "VTANR5L15V3906": "A",
+  "VTANR5L15V3978": "P",
+  "VTANR5L15V3979": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4010": "C",
+  "VTANR5L15V4011": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4069": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4176": "P",
+  "VTANR5L15V4177": "P",
+  "VTANR5L15V4178": "P",
+  "VTANR5L15V4179": "P",
+  "VTANR5L15V4180": "P",
+  "VTANR5L15V4181": "P",
+  "VTANR5L15V4182": "P",
+  "VTANR5L15V4183": "P",
+  "VTANR5L15V4184": "P",
+  "VTANR5L15V4185": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -707,21 +733,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V974": "P",
   "VTANR5L15V977": "P"
- },
- "twitter": {
-  "id": "864711815552532480",
-  "name": "Christophe Euzet",
-  "public_metrics": {
-   "followers_count": 2989,
-   "following_count": 656,
-   "listed_count": 103,
-   "tweet_count": 1283
-  },
-  "username": "ChristopheEuzet"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "ChristopheEuzet"
  },
  "uid": "PA719616"
 }

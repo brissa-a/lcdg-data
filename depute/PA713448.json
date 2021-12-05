@@ -374,8 +374,30 @@
   "VTANR5L15V3822": "P",
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "A",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3858": "P",
+  "VTANR5L15V3859": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "A",
+  "VTANR5L15V3893": "P",
+  "VTANR5L15V3894": "P",
+  "VTANR5L15V3895": "P",
+  "VTANR5L15V3896": "P",
+  "VTANR5L15V3901": "P",
+  "VTANR5L15V3902": "P",
+  "VTANR5L15V3903": "P",
+  "VTANR5L15V3904": "P",
+  "VTANR5L15V3905": "P",
+  "VTANR5L15V3906": "P",
+  "VTANR5L15V3907": "P",
+  "VTANR5L15V3908": "P",
+  "VTANR5L15V3910": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4010": "P",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "C",
   "VTANR5L15V440": "C",
@@ -389,21 +411,6 @@
   "VTANR5L15V928": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "C"
- },
- "twitter": {
-  "id": "96111834",
-  "name": "Marine Brenier",
-  "public_metrics": {
-   "followers_count": 12496,
-   "following_count": 3494,
-   "listed_count": 211,
-   "tweet_count": 18389
-  },
-  "username": "marinebrenier"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "marinebrenier"
  },
  "uid": "PA713448"
 }

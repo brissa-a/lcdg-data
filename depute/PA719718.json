@@ -730,9 +730,26 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V384": "C",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3867": "P",
+  "VTANR5L15V3868": "A",
+  "VTANR5L15V3869": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3984": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4085": "C",
+  "VTANR5L15V4114": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4152": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4202": "C",
+  "VTANR5L15V4203": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V447": "C",
   "VTANR5L15V456": "C",
@@ -874,21 +891,6 @@
   "VTANR5L15V975": "C",
   "VTANR5L15V991": "C",
   "VTANR5L15V992": "P"
- },
- "twitter": {
-  "id": "1299738390",
-  "name": "Laurence Maillart M",
-  "public_metrics": {
-   "followers_count": 8211,
-   "following_count": 1480,
-   "listed_count": 190,
-   "tweet_count": 7745
-  },
-  "username": "LMaillart"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "LMaillart"
  },
  "uid": "PA719718"
 }

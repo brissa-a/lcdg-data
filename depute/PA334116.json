@@ -357,8 +357,28 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4085": "C",
+  "VTANR5L15V4086": "C",
+  "VTANR5L15V4087": "C",
+  "VTANR5L15V4088": "P",
+  "VTANR5L15V4089": "C",
+  "VTANR5L15V4090": "C",
+  "VTANR5L15V4091": "C",
+  "VTANR5L15V4092": "C",
+  "VTANR5L15V4093": "C",
+  "VTANR5L15V4094": "C",
+  "VTANR5L15V4095": "C",
+  "VTANR5L15V4096": "C",
+  "VTANR5L15V4097": "C",
+  "VTANR5L15V4098": "C",
+  "VTANR5L15V4099": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
   "VTANR5L15V483": "P",
@@ -433,21 +453,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "801121064357085184",
-  "name": "Jacqueline Maquet",
-  "public_metrics": {
-   "followers_count": 1660,
-   "following_count": 1214,
-   "listed_count": 88,
-   "tweet_count": 376
-  },
-  "username": "JMaquetDeputee"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "JMaquetDeputee"
  },
  "uid": "PA334116"
 }

@@ -435,8 +435,13 @@
   "VTANR5L15V3825": "P",
   "VTANR5L15V3826": "P",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V423": "C",
   "VTANR5L15V424": "P",
@@ -638,21 +643,6 @@
   "VTANR5L15V992": "P",
   "VTANR5L15V993": "P",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "849566433138933760",
-  "name": "Alexandra Ardisson",
-  "public_metrics": {
-   "followers_count": 5271,
-   "following_count": 2899,
-   "listed_count": 104,
-   "tweet_count": 2568
-  },
-  "username": "A_Ardisson"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "A_Ardisson"
  },
  "uid": "PA718768"
 }

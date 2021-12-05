@@ -17,7 +17,10 @@
   "nosiege": "404"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/jm.jacques.bzh/",
+  "twitter_link": "https://twitter.com/@J_M_Jacques/"
+ },
  "circo": {
   "acteurId": "OMC_PA720354",
   "civ": "M.",
@@ -607,10 +610,31 @@
   "VTANR5L15V3838": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
+  "VTANR5L15V3917": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4010": "C",
   "VTANR5L15V403": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4065": "P",
+  "VTANR5L15V4066": "C",
+  "VTANR5L15V4067": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V409": "P",
+  "VTANR5L15V4154": "P",
+  "VTANR5L15V4158": "P",
+  "VTANR5L15V4159": "P",
+  "VTANR5L15V4161": "P",
+  "VTANR5L15V4162": "P",
+  "VTANR5L15V4163": "P",
+  "VTANR5L15V4164": "P",
+  "VTANR5L15V4165": "P",
+  "VTANR5L15V4166": "P",
+  "VTANR5L15V4167": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4196": "P",
+  "VTANR5L15V4197": "P",
+  "VTANR5L15V4198": "C",
   "VTANR5L15V420": "C",
   "VTANR5L15V421": "C",
   "VTANR5L15V422": "C",
@@ -756,21 +780,6 @@
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P",
   "VTANR5L15V996": "P"
- },
- "twitter": {
-  "id": "814331851070382080",
-  "name": "Jean-Michel JACQUES",
-  "public_metrics": {
-   "followers_count": 4597,
-   "following_count": 1512,
-   "listed_count": 124,
-   "tweet_count": 2142
-  },
-  "username": "J_M_Jacques"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "J_M_Jacques"
  },
  "uid": "PA720354"
 }

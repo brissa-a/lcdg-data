@@ -494,8 +494,32 @@
   "VTANR5L15V3808": "C",
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "A",
+  "VTANR5L15V3855": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4010": "P",
+  "VTANR5L15V4064": "C",
+  "VTANR5L15V4065": "A",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4084": "P",
+  "VTANR5L15V4085": "P",
+  "VTANR5L15V4086": "P",
+  "VTANR5L15V4087": "P",
+  "VTANR5L15V4088": "C",
+  "VTANR5L15V4090": "P",
+  "VTANR5L15V4091": "P",
+  "VTANR5L15V4092": "P",
+  "VTANR5L15V4093": "P",
+  "VTANR5L15V4094": "P",
+  "VTANR5L15V4100": "P",
+  "VTANR5L15V4101": "P",
+  "VTANR5L15V4103": "C",
+  "VTANR5L15V4104": "C",
+  "VTANR5L15V4105": "P",
+  "VTANR5L15V4106": "P",
+  "VTANR5L15V4108": "C",
+  "VTANR5L15V4109": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V420": "P",
   "VTANR5L15V422": "P",
@@ -537,21 +561,6 @@
   "VTANR5L15V942": "A",
   "VTANR5L15V974": "C",
   "VTANR5L15V982": "C"
- },
- "twitter": {
-  "id": "568029290",
-  "name": "Fr Cornut-Gentille",
-  "public_metrics": {
-   "followers_count": 3264,
-   "following_count": 389,
-   "listed_count": 114,
-   "tweet_count": 3357
-  },
-  "username": "FCornutGentille"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "FCornutGentille"
  },
  "uid": "PA923"
 }

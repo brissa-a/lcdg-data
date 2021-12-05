@@ -655,14 +655,30 @@
   "VTANR5L15V3835": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "C",
+  "VTANR5L15V3853": "P",
+  "VTANR5L15V3854": "A",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3863": "C",
+  "VTANR5L15V3865": "P",
   "VTANR5L15V389": "A",
   "VTANR5L15V4": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
   "VTANR5L15V415": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V416": "C",
   "VTANR5L15V417": "C",
   "VTANR5L15V418": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4213": "C",
+  "VTANR5L15V4214": "C",
+  "VTANR5L15V4215": "P",
+  "VTANR5L15V4216": "P",
+  "VTANR5L15V4217": "P",
+  "VTANR5L15V4218": "C",
+  "VTANR5L15V4222": "P",
+  "VTANR5L15V4223": "P",
   "VTANR5L15V433": "C",
   "VTANR5L15V434": "C",
   "VTANR5L15V438": "P",
@@ -716,21 +732,6 @@
   "VTANR5L15V974": "C",
   "VTANR5L15V98": "P",
   "VTANR5L15V99": "P"
- },
- "twitter": {
-  "id": "1324449588",
-  "name": "Fabien Roussel",
-  "public_metrics": {
-   "followers_count": 23794,
-   "following_count": 440,
-   "listed_count": 235,
-   "tweet_count": 4994
-  },
-  "username": "Fabien_Roussel"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Fabien_Roussel"
  },
  "uid": "PA720692"
 }

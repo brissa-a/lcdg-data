@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/755549.jpg",
-  "nosiege": "221"
+  "nosiege": "574"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -34,17 +34,17 @@
  "datan": "https://datan.fr/deputes/wallis-et-futuna-986/depute_sylvain-brial",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 9,
-   "id": "ai24ri9",
-   "no": 221,
+   "curAngleIndex": 72,
+   "curRadiusIndex": 11,
+   "id": "ai72ri11",
+   "no": 574,
    "polar": {
-    "angle": 1.0927278795094932,
-    "radius": 0.875
+    "angle": 2.863223684284369,
+    "radius": 1
    },
    "pos": {
-    "x": 0.40255690801475813,
-    "y": -0.777053166380148
+    "x": -0.9615049043274205,
+    "y": -0.2748420988519008
    }
   }
  },
@@ -137,6 +137,10 @@
   "VTANR5L15V2738": "P",
   "VTANR5L15V3567": "C",
   "VTANR5L15V3568": "P",
+  "VTANR5L15V4030": "C",
+  "VTANR5L15V4031": "C",
+  "VTANR5L15V4032": "C",
+  "VTANR5L15V4033": "C",
   "VTANR5L15V716": "P",
   "VTANR5L15V717": "P",
   "VTANR5L15V748": "P",
@@ -146,21 +150,6 @@
   "VTANR5L15V767": "C",
   "VTANR5L15V807": "P",
   "VTANR5L15V808": "P"
- },
- "twitter": {
-  "id": "1017365125546823681",
-  "name": "Sylvain Brial",
-  "public_metrics": {
-   "followers_count": 86,
-   "following_count": 2,
-   "listed_count": 17,
-   "tweet_count": 39
-  },
-  "username": "SylvainBrial"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "SylvainBrial"
  },
  "uid": "PA755549"
 }

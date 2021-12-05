@@ -490,9 +490,16 @@
   "VTANR5L15V38": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3867": "P",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "C",
+  "VTANR5L15V3956": "P",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4084": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V420": "C",
   "VTANR5L15V421": "C",
@@ -568,21 +575,6 @@
   "VTANR5L15V942": "P",
   "VTANR5L15V998": "P",
   "VTANR5L15V999": "P"
- },
- "twitter": {
-  "id": "864927261274845184",
-  "name": "Anissa Khedher",
-  "public_metrics": {
-   "followers_count": 3503,
-   "following_count": 304,
-   "listed_count": 124,
-   "tweet_count": 2757
-  },
-  "username": "Anissa_Khedher"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "Anissa_Khedher"
  },
  "uid": "PA722300"
 }

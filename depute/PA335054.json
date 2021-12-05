@@ -444,13 +444,26 @@
   "VTANR5L15V3821": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V387": "P",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V39": "P",
+  "VTANR5L15V3989": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4012": "P",
+  "VTANR5L15V4014": "P",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "A",
   "VTANR5L15V41": "P",
+  "VTANR5L15V4150": "C",
+  "VTANR5L15V4155": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4201": "P",
+  "VTANR5L15V4204": "A",
+  "VTANR5L15V4212": "C",
+  "VTANR5L15V4213": "C",
+  "VTANR5L15V4214": "C",
   "VTANR5L15V433": "A",
   "VTANR5L15V434": "C",
   "VTANR5L15V440": "C",
@@ -551,21 +564,6 @@
   "VTANR5L15V928": "C",
   "VTANR5L15V942": "C",
   "VTANR5L15V974": "C"
- },
- "twitter": {
-  "id": "1189104433",
-  "name": "Marietta Karamanli",
-  "public_metrics": {
-   "followers_count": 4040,
-   "following_count": 2809,
-   "listed_count": 125,
-   "tweet_count": 4972
-  },
-  "username": "MKaramanli72"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "MKaramanli72"
  },
  "uid": "PA335054"
 }

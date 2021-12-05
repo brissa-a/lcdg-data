@@ -562,13 +562,33 @@
   "VTANR5L15V3802": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3853": "C",
+  "VTANR5L15V3854": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3856": "C",
+  "VTANR5L15V3857": "C",
+  "VTANR5L15V3870": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
   "VTANR5L15V4": "C",
   "VTANR5L15V40": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4010": "C",
+  "VTANR5L15V4011": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4065": "P",
+  "VTANR5L15V4066": "C",
   "VTANR5L15V407": "P",
   "VTANR5L15V41": "C",
+  "VTANR5L15V4127": "C",
+  "VTANR5L15V4128": "C",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4198": "C",
+  "VTANR5L15V4199": "P",
   "VTANR5L15V42": "C",
+  "VTANR5L15V4202": "C",
+  "VTANR5L15V4203": "P",
   "VTANR5L15V43": "C",
   "VTANR5L15V433": "P",
   "VTANR5L15V44": "P",
@@ -647,21 +667,6 @@
   "VTANR5L15V974": "P",
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "P"
- },
- "twitter": {
-  "id": "863834372125970432",
-  "name": "Bérangère Couillard",
-  "public_metrics": {
-   "followers_count": 9923,
-   "following_count": 1997,
-   "listed_count": 144,
-   "tweet_count": 2858
-  },
-  "username": "BCouillard33"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "BCouillard33"
  },
  "uid": "PA719624"
 }

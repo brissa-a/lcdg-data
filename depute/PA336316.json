@@ -278,7 +278,14 @@
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "A",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3911": "P",
+  "VTANR5L15V3957": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4009": "P",
+  "VTANR5L15V4064": "C",
+  "VTANR5L15V4068": "P",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V477": "P",
@@ -386,21 +393,6 @@
   "VTANR5L15V947": "P",
   "VTANR5L15V948": "P",
   "VTANR5L15V974": "C"
- },
- "twitter": {
-  "id": "224265528",
-  "name": "JEAN-CLAUDE BOUCHET",
-  "public_metrics": {
-   "followers_count": 1856,
-   "following_count": 155,
-   "listed_count": 137,
-   "tweet_count": 567
-  },
-  "username": "JCBOUCHET"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "JCBOUCHET"
  },
  "uid": "PA336316"
 }

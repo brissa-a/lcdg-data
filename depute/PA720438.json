@@ -407,10 +407,31 @@
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
   "VTANR5L15V385": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4044": "C",
+  "VTANR5L15V4045": "P",
+  "VTANR5L15V4047": "P",
+  "VTANR5L15V4048": "P",
+  "VTANR5L15V4049": "C",
+  "VTANR5L15V4050": "P",
+  "VTANR5L15V4051": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4085": "C",
   "VTANR5L15V411": "P",
+  "VTANR5L15V4110": "P",
+  "VTANR5L15V4111": "P",
   "VTANR5L15V412": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4168": "C",
+  "VTANR5L15V4169": "C",
+  "VTANR5L15V4170": "C",
+  "VTANR5L15V4171": "C",
+  "VTANR5L15V4172": "C",
+  "VTANR5L15V4173": "C",
+  "VTANR5L15V4174": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V427": "C",
   "VTANR5L15V428": "C",
@@ -436,21 +457,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "853657404252311552",
-  "name": "Christophe Di Pompeo",
-  "public_metrics": {
-   "followers_count": 3634,
-   "following_count": 548,
-   "listed_count": 107,
-   "tweet_count": 1071
-  },
-  "username": "DipompeoChrist"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "DipompeoChrist"
  },
  "uid": "PA720438"
 }

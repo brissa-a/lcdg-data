@@ -306,7 +306,14 @@
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "A",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4085": "P",
+  "VTANR5L15V4086": "P",
+  "VTANR5L15V4087": "P",
+  "VTANR5L15V4088": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V477": "P",
@@ -327,21 +334,6 @@
   "VTANR5L15V928": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "C"
- },
- "twitter": {
-  "id": "869905383837577216",
-  "name": "Jean-Luc Reitzer",
-  "public_metrics": {
-   "followers_count": 1517,
-   "following_count": 239,
-   "listed_count": 74,
-   "tweet_count": 157
-  },
-  "username": "JL_Reitzer"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "JL_Reitzer"
  },
  "uid": "PA2529"
 }

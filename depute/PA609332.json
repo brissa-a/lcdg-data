@@ -541,11 +541,17 @@
   "VTANR5L15V3835": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "C",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3866": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "C",
   "VTANR5L15V39": "P",
   "VTANR5L15V40": "P",
+  "VTANR5L15V4008": "C",
   "VTANR5L15V402": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V448": "P",
@@ -619,21 +625,6 @@
   "VTANR5L15V942": "C",
   "VTANR5L15V974": "C",
   "VTANR5L15V98": "P"
- },
- "twitter": {
-  "id": "213754264",
-  "name": "Olivier Faure",
-  "public_metrics": {
-   "followers_count": 59983,
-   "following_count": 2499,
-   "listed_count": 700,
-   "tweet_count": 15001
-  },
-  "username": "faureolivier"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "faureolivier"
  },
  "uid": "PA609332"
 }

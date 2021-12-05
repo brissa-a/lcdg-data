@@ -491,6 +491,8 @@
   "VTANR5L15V3839": "C",
   "VTANR5L15V3840": "C",
   "VTANR5L15V3841": "P",
+  "VTANR5L15V3853": "C",
+  "VTANR5L15V3854": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
@@ -503,7 +505,10 @@
   "VTANR5L15V398": "P",
   "VTANR5L15V399": "C",
   "VTANR5L15V400": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V475": "C",
@@ -526,21 +531,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "538968658",
-  "name": "Alain Tourret",
-  "public_metrics": {
-   "followers_count": 3427,
-   "following_count": 116,
-   "listed_count": 190,
-   "tweet_count": 312
-  },
-  "username": "AlainTourret"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "AlainTourret"
  },
  "uid": "PA2828"
 }

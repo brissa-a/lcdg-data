@@ -392,8 +392,27 @@
   "VTANR5L15V3779": "A",
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "A",
+  "VTANR5L15V3855": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3907": "C",
+  "VTANR5L15V3908": "C",
+  "VTANR5L15V3935": "A",
+  "VTANR5L15V3936": "C",
+  "VTANR5L15V3937": "C",
+  "VTANR5L15V3984": "C",
+  "VTANR5L15V3985": "C",
+  "VTANR5L15V3986": "C",
+  "VTANR5L15V3987": "C",
+  "VTANR5L15V3988": "C",
+  "VTANR5L15V3990": "C",
+  "VTANR5L15V3992": "C",
+  "VTANR5L15V3993": "C",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
+  "VTANR5L15V4066": "P",
+  "VTANR5L15V4067": "P",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V420": "P",
   "VTANR5L15V424": "P",
@@ -458,21 +477,6 @@
   "VTANR5L15V97": "C",
   "VTANR5L15V974": "C",
   "VTANR5L15V982": "C"
- },
- "twitter": {
-  "id": "459093089",
-  "name": "Marianne Dubois",
-  "public_metrics": {
-   "followers_count": 8453,
-   "following_count": 4255,
-   "listed_count": 181,
-   "tweet_count": 3687
-  },
-  "username": "duboismarianne"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "duboismarianne"
  },
  "uid": "PA342935"
 }

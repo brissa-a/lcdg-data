@@ -283,8 +283,15 @@
   "VTANR5L15V3779": "C",
   "VTANR5L15V3837": "C",
   "VTANR5L15V3838": "A",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3856": "P",
+  "VTANR5L15V3858": "P",
+  "VTANR5L15V3859": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V477": "P",
@@ -296,9 +303,6 @@
   "VTANR5L15V928": "C",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "C"
- },
- "twitter_username": {
-  "status": "notfound"
  },
  "uid": "PA223837"
 }

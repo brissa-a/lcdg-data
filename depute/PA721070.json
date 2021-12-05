@@ -188,8 +188,18 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3950": "C",
+  "VTANR5L15V3951": "C",
+  "VTANR5L15V3952": "P",
+  "VTANR5L15V3953": "C",
+  "VTANR5L15V3954": "A",
+  "VTANR5L15V3955": "C",
+  "VTANR5L15V3956": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V439": "C",
@@ -200,21 +210,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "A",
   "VTANR5L15V974": "C"
- },
- "twitter": {
-  "id": "937643785240096768",
-  "name": "Nadia Ramassamy",
-  "public_metrics": {
-   "followers_count": 1102,
-   "following_count": 556,
-   "listed_count": 52,
-   "tweet_count": 1162
-  },
-  "username": "NadiaRamassamy"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "NadiaRamassamy"
  },
  "uid": "PA721070"
 }

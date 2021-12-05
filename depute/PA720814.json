@@ -115,7 +115,7 @@
   }
  },
  "nd_twitter": {
-  "twitter": "SCazenove",
+  "twitter": "SebCazenove",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720814"
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sébastien-Cazenove",
@@ -430,13 +430,33 @@
   "VTANR5L15V3821": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3858": "C",
+  "VTANR5L15V3859": "C",
+  "VTANR5L15V3860": "C",
+  "VTANR5L15V3861": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "C",
+  "VTANR5L15V3891": "P",
   "VTANR5L15V390": "C",
   "VTANR5L15V391": "C",
   "VTANR5L15V392": "C",
+  "VTANR5L15V4000": "P",
+  "VTANR5L15V4001": "C",
+  "VTANR5L15V4002": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4175": "P",
+  "VTANR5L15V4176": "P",
+  "VTANR5L15V4177": "P",
+  "VTANR5L15V4178": "P",
+  "VTANR5L15V4183": "P",
+  "VTANR5L15V4184": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4199": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V467": "C",
   "VTANR5L15V477": "P",
@@ -551,21 +571,6 @@
   "VTANR5L15V993": "P",
   "VTANR5L15V994": "P",
   "VTANR5L15V995": "P"
- },
- "twitter": {
-  "id": "1395004603972870147",
-  "name": "Sebastien Cazenove",
-  "public_metrics": {
-   "followers_count": 702,
-   "following_count": 645,
-   "listed_count": 0,
-   "tweet_count": 125
-  },
-  "username": "SebCazenove"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "SebCazenove"
  },
  "uid": "PA720814"
 }

@@ -505,7 +505,10 @@
   "VTANR5L15V389": "P",
   "VTANR5L15V390": "P",
   "VTANR5L15V391": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V439": "C",
@@ -634,21 +637,6 @@
   "VTANR5L15V988": "P",
   "VTANR5L15V989": "A",
   "VTANR5L15V990": "P"
- },
- "twitter": {
-  "id": "1143094713010073600",
-  "name": "Christian JACOB",
-  "public_metrics": {
-   "followers_count": 16575,
-   "following_count": 957,
-   "listed_count": 133,
-   "tweet_count": 2534
-  },
-  "username": "ChJacob77"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "ChJacob77"
  },
  "uid": "PA1695"
 }

@@ -560,10 +560,22 @@
   "VTANR5L15V3738": "C",
   "VTANR5L15V381": "P",
   "VTANR5L15V3823": "C",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3890": "P",
+  "VTANR5L15V3891": "C",
+  "VTANR5L15V3943": "A",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4033": "C",
+  "VTANR5L15V4034": "C",
   "VTANR5L15V407": "C",
   "VTANR5L15V408": "P",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4199": "P",
+  "VTANR5L15V4200": "P",
+  "VTANR5L15V4201": "P",
+  "VTANR5L15V4204": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V434": "C",
   "VTANR5L15V477": "C",
@@ -679,21 +691,6 @@
   "VTANR5L15V950": "C",
   "VTANR5L15V98": "P",
   "VTANR5L15V99": "P"
- },
- "twitter": {
-  "id": "263572557",
-  "name": "Delphine Batho",
-  "public_metrics": {
-   "followers_count": 71931,
-   "following_count": 3555,
-   "listed_count": 1256,
-   "tweet_count": 9360
-  },
-  "username": "delphinebatho"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "delphinebatho"
  },
  "uid": "PA335999"
 }

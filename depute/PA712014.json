@@ -470,8 +470,26 @@
   "VTANR5L15V3821": "P",
   "VTANR5L15V3837": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
+  "VTANR5L15V3856": "C",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3944": "C",
+  "VTANR5L15V3945": "P",
+  "VTANR5L15V3946": "P",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4158": "P",
+  "VTANR5L15V4176": "P",
+  "VTANR5L15V4177": "P",
+  "VTANR5L15V4178": "P",
+  "VTANR5L15V4179": "P",
+  "VTANR5L15V4180": "P",
+  "VTANR5L15V4182": "P",
+  "VTANR5L15V4183": "P",
+  "VTANR5L15V4184": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -500,21 +518,6 @@
   "VTANR5L15V942": "P",
   "VTANR5L15V96": "C",
   "VTANR5L15V974": "A"
- },
- "twitter": {
-  "id": "3367383094",
-  "name": "Vincent Ledoux",
-  "public_metrics": {
-   "followers_count": 9915,
-   "following_count": 9704,
-   "listed_count": 146,
-   "tweet_count": 5466
-  },
-  "username": "VincentLedoux59"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "VincentLedoux59"
  },
  "uid": "PA712014"
 }

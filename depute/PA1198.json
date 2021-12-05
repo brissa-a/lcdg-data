@@ -373,12 +373,17 @@
   "VTANR5L15V3797": "C",
   "VTANR5L15V3801": "P",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
   "VTANR5L15V409": "P",
   "VTANR5L15V410": "P",
+  "VTANR5L15V4114": "C",
   "VTANR5L15V412": "P",
   "VTANR5L15V413": "P",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "A",
   "VTANR5L15V476": "A",
@@ -511,21 +516,6 @@
   "VTANR5L15V976": "P",
   "VTANR5L15V98": "P",
   "VTANR5L15V99": "P"
- },
- "twitter": {
-  "id": "851502935511101441",
-  "name": "Laurence DUMONT",
-  "public_metrics": {
-   "followers_count": 1908,
-   "following_count": 586,
-   "listed_count": 85,
-   "tweet_count": 743
-  },
-  "username": "LDumontDeputee"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "LDumontDeputee"
  },
  "uid": "PA1198"
 }

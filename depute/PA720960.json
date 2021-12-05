@@ -300,7 +300,21 @@
   "VTANR5L15V365": "P",
   "VTANR5L15V3738": "P",
   "VTANR5L15V3838": "P",
+  "VTANR5L15V3855": "P",
   "VTANR5L15V389": "P",
+  "VTANR5L15V3907": "P",
+  "VTANR5L15V3943": "C",
+  "VTANR5L15V3950": "C",
+  "VTANR5L15V3951": "C",
+  "VTANR5L15V3952": "C",
+  "VTANR5L15V3954": "P",
+  "VTANR5L15V3998": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4125": "C",
+  "VTANR5L15V4127": "P",
+  "VTANR5L15V4128": "P",
+  "VTANR5L15V4150": "P",
   "VTANR5L15V419": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V477": "P",
@@ -321,21 +335,6 @@
   "VTANR5L15V974": "P",
   "VTANR5L15V98": "C",
   "VTANR5L15V99": "C"
- },
- "twitter": {
-  "id": "2953113070",
-  "name": "Olivier SERVA",
-  "public_metrics": {
-   "followers_count": 3230,
-   "following_count": 738,
-   "listed_count": 129,
-   "tweet_count": 3360
-  },
-  "username": "olivier_serva"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "olivier_serva"
  },
  "uid": "PA720960"
 }

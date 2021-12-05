@@ -557,8 +557,31 @@
   "VTANR5L15V3827": "P",
   "VTANR5L15V3836": "C",
   "VTANR5L15V3837": "P",
+  "VTANR5L15V3855": "C",
+  "VTANR5L15V3858": "C",
+  "VTANR5L15V3859": "C",
+  "VTANR5L15V3860": "C",
+  "VTANR5L15V3861": "C",
+  "VTANR5L15V3891": "P",
+  "VTANR5L15V3892": "C",
+  "VTANR5L15V3978": "P",
+  "VTANR5L15V3979": "P",
+  "VTANR5L15V3998": "C",
+  "VTANR5L15V3999": "C",
+  "VTANR5L15V4008": "P",
+  "VTANR5L15V4009": "C",
+  "VTANR5L15V4010": "C",
+  "VTANR5L15V4011": "P",
+  "VTANR5L15V4064": "P",
+  "VTANR5L15V4068": "C",
+  "VTANR5L15V4069": "P",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4072": "P",
+  "VTANR5L15V4073": "P",
+  "VTANR5L15V4150": "P",
+  "VTANR5L15V4155": "P",
   "VTANR5L15V419": "P",
+  "VTANR5L15V4198": "C",
   "VTANR5L15V433": "P",
   "VTANR5L15V439": "P",
   "VTANR5L15V440": "P",
@@ -701,21 +724,6 @@
   "VTANR5L15V928": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "107393186",
-  "name": "Elodie Jacquier-Laforge",
-  "public_metrics": {
-   "followers_count": 2422,
-   "following_count": 852,
-   "listed_count": 80,
-   "tweet_count": 2190
-  },
-  "username": "elodiejala"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "elodiejala"
  },
  "uid": "PA719874"
 }

@@ -52,10 +52,6 @@
    }
   }
  },
- "nd_twitter": {
-  "twitter": "josette_manin",
-  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720988"
- },
  "nosdeputes_link": "https://www.nosdeputes.fr/Josette-Manin",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720988",
  "scrutins": {
@@ -582,8 +578,39 @@
   "VTANR5L15V395": "A",
   "VTANR5L15V396": "C",
   "VTANR5L15V397": "A",
+  "VTANR5L15V3972": "P",
+  "VTANR5L15V3973": "P",
+  "VTANR5L15V3975": "P",
+  "VTANR5L15V3976": "P",
+  "VTANR5L15V3977": "A",
   "VTANR5L15V398": "A",
+  "VTANR5L15V3984": "C",
+  "VTANR5L15V3985": "C",
+  "VTANR5L15V3986": "C",
+  "VTANR5L15V3987": "C",
+  "VTANR5L15V3988": "C",
+  "VTANR5L15V3990": "C",
+  "VTANR5L15V3991": "P",
+  "VTANR5L15V3994": "A",
+  "VTANR5L15V3995": "A",
+  "VTANR5L15V4008": "C",
+  "VTANR5L15V4009": "P",
+  "VTANR5L15V4025": "C",
+  "VTANR5L15V4026": "A",
+  "VTANR5L15V4027": "A",
+  "VTANR5L15V4028": "C",
+  "VTANR5L15V4029": "C",
+  "VTANR5L15V4031": "P",
+  "VTANR5L15V4032": "P",
+  "VTANR5L15V4033": "C",
+  "VTANR5L15V4034": "C",
+  "VTANR5L15V4064": "C",
   "VTANR5L15V407": "C",
+  "VTANR5L15V4125": "C",
+  "VTANR5L15V4126": "P",
+  "VTANR5L15V4127": "A",
+  "VTANR5L15V4128": "P",
+  "VTANR5L15V4150": "C",
   "VTANR5L15V419": "P",
   "VTANR5L15V435": "C",
   "VTANR5L15V437": "C",
@@ -690,21 +717,6 @@
   "VTANR5L15V966": "C",
   "VTANR5L15V974": "C",
   "VTANR5L15V976": "P"
- },
- "twitter": {
-  "id": "1280904205247614981",
-  "name": "Josette Manin",
-  "public_metrics": {
-   "followers_count": 712,
-   "following_count": 3267,
-   "listed_count": 6,
-   "tweet_count": 11
-  },
-  "username": "josette_manin"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "josette_manin"
  },
  "uid": "PA720988"
 }

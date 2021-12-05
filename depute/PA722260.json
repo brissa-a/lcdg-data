@@ -444,11 +444,18 @@
   "VTANR5L15V3778": "A",
   "VTANR5L15V3779": "A",
   "VTANR5L15V3823": "C",
+  "VTANR5L15V3865": "P",
   "VTANR5L15V387": "C",
   "VTANR5L15V388": "C",
   "VTANR5L15V389": "P",
   "VTANR5L15V4": "C",
+  "VTANR5L15V4042": "A",
   "VTANR5L15V407": "P",
+  "VTANR5L15V4084": "P",
+  "VTANR5L15V4113": "P",
+  "VTANR5L15V4150": "C",
+  "VTANR5L15V4151": "P",
+  "VTANR5L15V4155": "P",
   "VTANR5L15V433": "P",
   "VTANR5L15V44": "P",
   "VTANR5L15V45": "C",
@@ -549,21 +556,6 @@
   "VTANR5L15V94": "P",
   "VTANR5L15V942": "P",
   "VTANR5L15V974": "P"
- },
- "twitter": {
-  "id": "861942866989469697",
-  "name": "Cédric Villani",
-  "public_metrics": {
-   "followers_count": 97715,
-   "following_count": 789,
-   "listed_count": 707,
-   "tweet_count": 4013
-  },
-  "username": "VillaniCedric"
- },
- "twitter_username": {
-  "status": "found",
-  "value": "VillaniCedric"
  },
  "uid": "PA722260"
 }
