@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719002.jpg",
-  "nosiege": "153"
+  "nosiege": "139"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -37,17 +37,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_julien-ravier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 11,
-   "id": "ai12ri11",
-   "no": 153,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 10,
+   "id": "ai11ri10",
+   "no": 139,
    "polar": {
-    "angle": 0.47720394738072813,
-    "radius": 1
+    "angle": 0.42663603937639166,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.8882826127491319,
-    "y": -0.4593880965736568
+    "x": 0.8534652571557625,
+    "y": -0.3880242550672872
    }
   }
  },

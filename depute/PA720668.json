@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {
+  "dateNais": "1986-03-14",
+  "femme": false,
+  "ident": {
+   "alpha": "Blairy",
+   "civ": "M.",
+   "nom": "Blairy",
+   "prenom": "Emmanuel",
+   "trigramme": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:nil": "true"
+   }
+  },
+  "nom": "Emmanuel Blairy"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA720668",
+  "civ": "M.",
+  "communes": [
+   "Annay (Pas-de-Calais) (62880)",
+   "Avion (62210)",
+   "Billy-Montigny (62420)",
+   "Estevelles (62880)",
+   "Fouquières-lès-Lens (62740)",
+   "Harnes (62440)",
+   "Lens (62300)",
+   "Loison-sous-Lens (62218)",
+   "Loos-en-Gohelle (62750)",
+   "Méricourt (62680)",
+   "Noyelles-sous-Lens (62221)",
+   "Pont-à-Vendin (62880)",
+   "Sallaumines (62430)"
+  ],
+  "departement": "Pas-de-calais",
+  "group": null,
+  "nom": "Blairy",
+  "numCirco": "3",
+  "numDepartement": "62",
+  "prenom": "Emmanuel"
+ },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Emmanuel-Blairy",
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720668",
+ "uid": "PA720668"
+}
