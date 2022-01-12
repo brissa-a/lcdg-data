@@ -7,12 +7,14 @@
    "civ": "M.",
    "nom": "Blairy",
    "prenom": "Emmanuel",
-   "trigramme": {
-    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "@xsi:nil": "true"
-   }
+   "trigramme": "EBLA"
   },
   "nom": "Emmanuel Blairy"
+ },
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720668.jpg",
+  "nosiege": "240"
  },
  "an_www_social": {},
  "circo": {
@@ -34,11 +36,28 @@
    "Sallaumines (62430)"
   ],
   "departement": "Pas-de-calais",
-  "group": null,
+  "group": "Non inscrit",
   "nom": "Blairy",
   "numCirco": "3",
   "numDepartement": "62",
   "prenom": "Emmanuel"
+ },
+ "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_emmanuel-blairy",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 23,
+   "curRadiusIndex": 11,
+   "id": "ai23ri11",
+   "no": 240,
+   "polar": {
+    "angle": 0.9146408991463956,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.6100751460105244,
+    "y": -0.7925002131609329
+   }
+  }
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Emmanuel-Blairy",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720668",
