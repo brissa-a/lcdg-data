@@ -62,5 +62,10 @@
  },
  "nosdeputes_link": "https://www.nosdeputes.fr/Emmanuel-Blairy",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720668",
+ "scrutins": {
+  "VTANR5L15V4299": "P",
+  "VTANR5L15V4300": "P",
+  "VTANR5L15V4301": "P"
+ },
  "uid": "PA720668"
 }
