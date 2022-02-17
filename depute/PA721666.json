@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721666.jpg",
-  "nosiege": "152"
+  "nosiege": "149"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/var-83/depute_edith-audibert",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
+   "curAngleIndex": 8,
    "curRadiusIndex": 11,
-   "id": "ai11ri11",
-   "no": 152,
+   "id": "ai8ri11",
+   "no": 149,
    "polar": {
-    "angle": 0.43743695176566744,
+    "angle": 0.3181359649204854,
     "radius": 1
    },
    "pos": {
-    "x": 0.905840393665523,
-    "y": -0.42370289985816695
+    "x": 0.9498201317277827,
+    "y": -0.3128584498239408
    }
   }
  },
@@ -155,7 +155,16 @@
   "VTANR5L15V4256": "P",
   "VTANR5L15V4257": "P",
   "VTANR5L15V4324": "C",
-  "VTANR5L15V4325": "C"
+  "VTANR5L15V4325": "C",
+  "VTANR5L15V4346": "P",
+  "VTANR5L15V4382": "C",
+  "VTANR5L15V4383": "C",
+  "VTANR5L15V4386": "C",
+  "VTANR5L15V4387": "P",
+  "VTANR5L15V4388": "P",
+  "VTANR5L15V4389": "P",
+  "VTANR5L15V4390": "P",
+  "VTANR5L15V4391": "P"
  },
  "uid": "PA721666"
 }

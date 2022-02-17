@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La République en Marche",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/343493.jpg",
-  "nosiege": "354"
+  "nosiege": "272"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/morbihan-56/depute_gwendal-rouillard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
+   "curAngleIndex": 24,
    "curRadiusIndex": 6,
-   "id": "ai33ri6",
-   "no": 354,
+   "id": "ai24ri6",
+   "no": 272,
    "polar": {
-    "angle": 1.9560859918577957,
+    "angle": 1.4226079940783969,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.25838146270353873,
-    "y": -0.6372250655346097
+    "x": 0.10150701275170587,
+    "y": -0.6800995642212256
    }
   }
  },

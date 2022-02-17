@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La République en Marche",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722312.jpg",
-  "nosiege": "268"
+  "nosiege": "354"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -343,16 +343,16 @@
  "datan": "https://datan.fr/deputes/haute-saone-70/depute_barbara-bessotballot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
+   "curAngleIndex": 33,
    "curRadiusIndex": 6,
-   "id": "ai20ri6",
-   "no": 268,
+   "id": "ai33ri6",
+   "no": 354,
    "polar": {
-    "angle": 1.1855066617319974,
+    "angle": 1.9560859918577957,
     "radius": 0.6875
    },
    "pos": {
-    "x": 0.2583814627035388,
+    "x": -0.25838146270353873,
     "y": -0.6372250655346097
    }
   }
@@ -957,6 +957,12 @@
   "VTANR5L15V4322": "P",
   "VTANR5L15V4329": "P",
   "VTANR5L15V433": "P",
+  "VTANR5L15V4347": "P",
+  "VTANR5L15V4348": "P",
+  "VTANR5L15V4383": "P",
+  "VTANR5L15V4384": "P",
+  "VTANR5L15V4385": "P",
+  "VTANR5L15V4407": "P",
   "VTANR5L15V477": "P",
   "VTANR5L15V483": "P",
   "VTANR5L15V49": "P",

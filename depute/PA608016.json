@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/608016.jpg",
-  "nosiege": "97"
+  "nosiege": "89"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -197,17 +197,17 @@
  "datan": "https://datan.fr/deputes/orne-61/depute_veronique-louwagie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 5,
-   "id": "ai9ri5",
-   "no": 97,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 4,
+   "id": "ai5ri4",
+   "no": 89,
    "polar": {
-    "angle": 0.601581571964003,
-    "radius": 0.625
+    "angle": 0.4027682889217683,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.5152759752136002,
-    "y": -0.35378686708798707
+    "x": 0.5174884370580887,
+    "y": -0.22052480923604012
    }
   }
  },
@@ -1185,6 +1185,8 @@
   "VTANR5L15V4320": "P",
   "VTANR5L15V4321": "P",
   "VTANR5L15V433": "A",
+  "VTANR5L15V4348": "P",
+  "VTANR5L15V4382": "P",
   "VTANR5L15V439": "C",
   "VTANR5L15V44": "P",
   "VTANR5L15V440": "C",
