@@ -11,12 +11,6 @@
   },
   "nom": "Clémentine Autain"
  },
- "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/588884.jpg",
-  "nosiege": "618"
- },
- "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/clementineautain/",
   "twitter_link": "https://twitter.com/@Clem_Autain/"
@@ -37,22 +31,6 @@
   "prenom": "Clémentine"
  },
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_clementine-autain",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 64,
-   "curRadiusIndex": 8,
-   "id": "ai64ri8",
-   "no": 618,
-   "polar": {
-    "angle": 3.000924325817116,
-    "radius": 0.8125
-   },
-   "pos": {
-    "x": -0.8044745430594039,
-    "y": -0.11393898107361952
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "Clem_Autain",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA588884"
