@@ -11,12 +11,6 @@
   },
   "nom": "Bertrand Bouyx"
  },
- "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719032.jpg",
-  "nosiege": "439"
- },
- "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/bertrandbouyx/"
  },
@@ -171,22 +165,6 @@
   "prenom": "Bertrand"
  },
  "datan": "https://datan.fr/deputes/calvados-14/depute_bertrand-bouyx",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 7,
-   "id": "ai37ri7",
-   "no": 439,
-   "polar": {
-    "angle": 2.1931873242041955,
-    "radius": 0.75
-   },
-   "pos": {
-    "x": -0.43723460933585423,
-    "y": -0.6094856356700056
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "BertrandBouyx",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719032"
