@@ -12,7 +12,7 @@
   "nom": "Nathalie Elimas"
  },
  "an_www_depute": {
-  "groupe": "",
+  "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720924.jpg",
   "nosiege": "198"
  },
@@ -32,7 +32,7 @@
    "Soisy-sous-Montmorency (95230)"
   ],
   "departement": "Val-d'oise",
-  "group": null,
+  "group": "Non inscrit",
   "nom": "Elimas",
   "numCirco": "6",
   "numDepartement": "95",
