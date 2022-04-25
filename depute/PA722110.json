@@ -11,12 +11,6 @@
   },
   "nom": "Hubert Wulfranc"
  },
- "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722110.jpg",
-  "nosiege": "584"
- },
- "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA722110",
@@ -37,22 +31,6 @@
   "prenom": "Hubert"
  },
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_hubert-wulfranc",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 3,
-   "id": "ai30ri3",
-   "no": 584,
-   "polar": {
-    "angle": 2.945243112740431,
-    "radius": 0.5
-   },
-   "pos": {
-    "x": -0.4903926402016152,
-    "y": -0.0975644465946561
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "HubertWulfranc",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722110"

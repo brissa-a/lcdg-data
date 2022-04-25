@@ -11,12 +11,6 @@
   },
   "nom": "Aurore Bergé"
  },
- "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722046.jpg",
-  "nosiege": "462"
- },
- "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/Aurore-Berg%C3%A9-39829403685/",
   "twitter_link": "https://twitter.com/@auroreberge/"
@@ -85,22 +79,6 @@
   "prenom": "Aurore"
  },
  "datan": "https://datan.fr/deputes/yvelines-78/depute_aurore-berge",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 51,
-   "curRadiusIndex": 9,
-   "id": "ai51ri9",
-   "no": 462,
-   "polar": {
-    "angle": 2.322046743957673,
-    "radius": 0.875
-   },
-   "pos": {
-    "x": -0.5972340003163221,
-    "y": -0.639607900184056
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "auroreberge",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA722046"
