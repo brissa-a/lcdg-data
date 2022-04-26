@@ -11,12 +11,6 @@
   },
   "nom": "Christian Hutin"
  },
- "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/333818.jpg",
-  "nosiege": "497"
- },
- "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA333818",
@@ -41,22 +35,6 @@
   "prenom": "Christian"
  },
  "datan": "https://datan.fr/deputes/nord-59/depute_christian-hutin",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 25,
-   "curRadiusIndex": 2,
-   "id": "ai25ri2",
-   "no": 497,
-   "polar": {
-    "angle": 2.7082695289567185,
-    "radius": 0.4375
-   },
-   "pos": {
-    "x": -0.39706424610604374,
-    "y": -0.1837378014260712
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "ChristianHutin",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA333818"

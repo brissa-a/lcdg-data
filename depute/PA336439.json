@@ -11,6 +11,12 @@
   },
   "nom": "Jean-Michel Clément"
  },
+ "an_www_depute": {
+  "groupe": "Libertés et Territoires",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/336439.jpg",
+  "nosiege": "209"
+ },
+ "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/jeanmichel.clement.3/",
   "twitter_link": "https://twitter.com/@jmclement86/"
@@ -144,6 +150,22 @@
   "prenom": "Jean-Michel"
  },
  "datan": "https://datan.fr/deputes/vienne-86/depute_jeanmichel-clement",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 21,
+   "curRadiusIndex": 8,
+   "id": "ai21ri8",
+   "no": 209,
+   "polar": {
+    "angle": 0.9846782944087411,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.44941906272672466,
+    "y": -0.6770228551386456
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "jmclement86",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA336439"
