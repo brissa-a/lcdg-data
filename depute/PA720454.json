@@ -11,6 +11,12 @@
   },
   "nom": "Dimitri Houbron"
  },
+ "an_www_depute": {
+  "groupe": "Agir ensemble",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720454.jpg",
+  "nosiege": "235"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA720454",
@@ -53,6 +59,22 @@
   "prenom": "Dimitri"
  },
  "datan": "https://datan.fr/deputes/nord-59/depute_dimitri-houbron",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 18,
+   "curRadiusIndex": 11,
+   "id": "ai18ri11",
+   "no": 235,
+   "polar": {
+    "angle": 0.7158059210710922,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.7545646201582301,
+    "y": -0.6563554912112421
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "dhoubron1759",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720454"

@@ -11,6 +11,12 @@
   },
   "nom": "Alexandre Holroyd"
  },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721150.jpg",
+  "nosiege": "298"
+ },
+ "an_www_pic": {},
  "an_www_social": {
   "twitter_link": "https://twitter.com/@alexIholroyd/"
  },
@@ -34,6 +40,22 @@
   "prenom": "Alexandre"
  },
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_alexandre-holroyd",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 30,
+   "curRadiusIndex": 9,
+   "id": "ai30ri9",
+   "no": 298,
+   "polar": {
+    "angle": 1.3659098493868664,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.1780240114210547,
+    "y": -0.8568679540075245
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "alexIholroyd",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721150"
