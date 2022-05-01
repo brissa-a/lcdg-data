@@ -11,12 +11,6 @@
   },
   "nom": "Catherine Fabre"
  },
- "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719570.jpg",
-  "nosiege": "406"
- },
- "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/CFABRE2017/",
   "twitter_link": "https://twitter.com/@cfabreAN/"
@@ -39,22 +33,6 @@
   "prenom": "Catherine"
  },
  "datan": "https://datan.fr/deputes/gironde-33/depute_catherine-fabre",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 49,
-   "curRadiusIndex": 11,
-   "id": "ai49ri11",
-   "no": 406,
-   "polar": {
-    "angle": 1.9485827851379731,
-    "radius": 1
-   },
-   "pos": {
-    "x": -0.3688639245240079,
-    "y": -0.9296671752216756
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "cfabreAN",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719570"
