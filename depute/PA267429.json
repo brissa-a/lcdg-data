@@ -11,12 +11,6 @@
   },
   "nom": "Dino Cinieri"
  },
- "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267429.jpg",
-  "nosiege": "100"
- },
- "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/dino.cinieri/",
   "twitter_link": "https://twitter.com/@DinoCinieri/"
@@ -107,22 +101,6 @@
   "prenom": "Dino"
  },
  "datan": "https://datan.fr/deputes/loire-42/depute_dino-cinieri",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 6,
-   "curRadiusIndex": 6,
-   "id": "ai6ri6",
-   "no": 100,
-   "polar": {
-    "angle": 0.3556519985195992,
-    "radius": 0.6875
-   },
-   "pos": {
-    "x": 0.6444760170297081,
-    "y": -0.2394359537211758
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "DinoCinieri",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267429"
