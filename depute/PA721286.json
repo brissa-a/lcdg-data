@@ -11,12 +11,6 @@
   },
   "nom": "Alain Ramadier"
  },
- "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721286.jpg",
-  "nosiege": "48"
- },
- "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA721286",
@@ -34,22 +28,6 @@
   "prenom": "Alain"
  },
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_alain-ramadier",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 9,
-   "id": "ai1ri9",
-   "no": 48,
-   "polar": {
-    "angle": 0.04553032831289555,
-    "radius": 0.875
-   },
-   "pos": {
-    "x": 0.8740932144408866,
-    "y": -0.039833148068880934
-   }
-  }
- },
  "nd_twitter": {
   "twitter": "alainramadier",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721286"
