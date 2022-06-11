@@ -11,6 +11,12 @@
   },
   "nom": "Hugues Renson"
  },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721824.jpg",
+  "nosiege": "416"
+ },
+ "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/HuguesRensonDepute/",
   "twitter_link": "https://twitter.com/@huguesrenson/"
@@ -30,6 +36,22 @@
   "prenom": "Hugues"
  },
  "datan": "https://datan.fr/deputes/paris-75/depute_hugues-renson",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 24,
+   "curRadiusIndex": 3,
+   "id": "ai24ri3",
+   "no": 416,
+   "polar": {
+    "angle": 2.356194490192345,
+    "radius": 0.5
+   },
+   "pos": {
+    "x": -0.35355339059327373,
+    "y": -0.3536232913905932
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "huguesrenson",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721824"

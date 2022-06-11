@@ -11,6 +11,12 @@
   },
   "nom": "Stéphanie Rist"
  },
+ "an_www_depute": {
+  "groupe": "La République en Marche",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720066.jpg",
+  "nosiege": "607"
+ },
+ "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/StephanieRistEnMarche/",
   "twitter_link": "https://twitter.com/@stephanie_rist/"
@@ -48,6 +54,22 @@
   "prenom": "Stéphanie"
  },
  "datan": "https://datan.fr/deputes/loiret-45/depute_stephanie-rist",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 49,
+   "curRadiusIndex": 7,
+   "id": "ai49ri7",
+   "no": 607,
+   "polar": {
+    "angle": 2.904491321243394,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": -0.729017185560308,
+    "y": -0.17619936370447548
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "stephanie_rist",
   "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066"
