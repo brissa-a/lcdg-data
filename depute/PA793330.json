@@ -1,0 +1,47 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793330.jpg",
+  "nosiege": "413"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@MassonBryan/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793330",
+  "civ": "M.",
+  "communes": [
+   "Cagnes-sur-Mer (06800)",
+   "La Colle-sur-Loup (06480)",
+   "Saint-Laurent-du-Var (06700)",
+   "Saint-Paul (Alpes-Maritimes) (06570)",
+   "Villeneuve-Loubet (06270)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Non inscrit",
+  "nom": "Masson",
+  "numCirco": "6",
+  "numDepartement": "06",
+  "prenom": "Bryan"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 21,
+   "curRadiusIndex": 3,
+   "id": "ai21ri3",
+   "no": 413,
+   "polar": {
+    "angle": 2.061670178918302,
+    "radius": 0.5
+   },
+   "pos": {
+    "x": -0.23569836841299885,
+    "y": -0.4410478141970219
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793330",
+ "uid": "PA793330"
+}

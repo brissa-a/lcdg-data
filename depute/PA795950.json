@@ -1,0 +1,42 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795950.jpg",
+  "nosiege": "14"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795950",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 15eme arrondissement (75015)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Amiel",
+  "numCirco": "13",
+  "numDepartement": "75",
+  "prenom": "David"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 2,
+   "curRadiusIndex": 4,
+   "id": "ai2ri4",
+   "no": 14,
+   "polar": {
+    "angle": 0.16110731556870733,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.5552157727338259,
+    "y": -0.09024918505965226
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795950",
+ "uid": "PA795950"
+}

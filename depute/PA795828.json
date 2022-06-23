@@ -1,0 +1,41 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795828.jpg",
+  "nosiege": "282"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795828",
+  "civ": "M.",
+  "communes": [
+   "Fort-de-France (97200)",
+   "Fort-de-France (97234)"
+  ],
+  "departement": "Martinique",
+  "group": "Non inscrit",
+  "nom": "Hajjar",
+  "numCirco": "3",
+  "numDepartement": "972",
+  "prenom": "Johnny"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 26,
+   "curRadiusIndex": 7,
+   "id": "ai26ri7",
+   "no": 282,
+   "polar": {
+    "angle": 1.5411586602515968,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.022224995866919752,
+    "y": -0.7498188442449469
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795828",
+ "uid": "PA795828"
+}

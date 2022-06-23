@@ -1,0 +1,50 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793940.jpg",
+  "nosiege": "126"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/t.cazenave33/",
+  "twitter_link": "https://twitter.com/@T_Cazenave/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793940",
+  "civ": "M.",
+  "communes": [
+   "Bordeaux (33000)",
+   "Bordeaux (33100)",
+   "Bordeaux (33200)",
+   "Bordeaux (33300)",
+   "Bordeaux (33800)",
+   "Bruges (33520)",
+   "Le Bouscat (33110)"
+  ],
+  "departement": "Gironde",
+  "group": "Non inscrit",
+  "nom": "Cazenave",
+  "numCirco": "1",
+  "numDepartement": "33",
+  "prenom": "Thomas"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 8,
+   "curRadiusIndex": 9,
+   "id": "ai8ri9",
+   "no": 126,
+   "polar": {
+    "angle": 0.3642426265031644,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.8175946075155872,
+    "y": -0.3117731259062249
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793940",
+ "uid": "PA793940"
+}

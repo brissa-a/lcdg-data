@@ -12,12 +12,15 @@
   "nom": "Thibault Bazin"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/642847.jpg",
-  "nosiege": "12"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642847.jpg",
+  "nosiege": "45"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/DeputeThibaultBAZIN/",
+  "twitter_link": "https://twitter.com/@thibault_bazin/"
+ },
  "circo": {
   "acteurId": "OMC_PA642847",
   "civ": "M.",
@@ -214,7 +217,7 @@
    "Xures (54370)"
   ],
   "departement": "Meurthe-et-moselle",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Bazin",
   "numCirco": "4",
   "numDepartement": "54",
@@ -223,17 +226,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_thibault-bazin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 4,
-   "id": "ai0ri4",
-   "no": 12,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 8,
+   "id": "ai6ri8",
+   "no": 45,
    "polar": {
-    "angle": 0,
-    "radius": 0.5625
+    "angle": 0.2813366555453546,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.5625,
-    "y": 0
+    "x": 0.7805567149061826,
+    "y": -0.22562710088825624
    }
   }
  },

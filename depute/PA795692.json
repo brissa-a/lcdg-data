@@ -1,0 +1,50 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795692.jpg",
+  "nosiege": "409"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/www.facebook.com/MartinetWilliam/",
+  "twitter_link": "https://twitter.com/@WilliamMartinet/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795692",
+  "civ": "M.",
+  "communes": [
+   "Bois-d'Arcy (Yvelines) (78390)",
+   "Elancourt (78990)",
+   "Fontenay-le-Fleury (78330)",
+   "La Verrière (78320)",
+   "Le Mesnil-Saint-Denis (78320)",
+   "Saint-Cyr-l'Ecole (78210)",
+   "Trappes (78190)"
+  ],
+  "departement": "Yvelines",
+  "group": "Non inscrit",
+  "nom": "Martinet",
+  "numCirco": "11",
+  "numDepartement": "78",
+  "prenom": "William"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 19,
+   "curRadiusIndex": 2,
+   "id": "ai19ri2",
+   "no": 409,
+   "polar": {
+    "angle": 2.058284842007106,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": -0.20492869280615814,
+    "y": -0.3866129413141402
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795692",
+ "uid": "PA795692"
+}

@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793756.jpg",
+  "nosiege": "494"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/francoispiquemal31/",
+  "twitter_link": "https://twitter.com/@FraPiquemal/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793756",
+  "civ": "M.",
+  "communes": [
+   "Toulouse (31000)",
+   "Toulouse (31100)",
+   "Toulouse (31200)",
+   "Toulouse (31300)",
+   "Toulouse (31400)",
+   "Toulouse (31500)"
+  ],
+  "departement": "Haute-garonne",
+  "group": "Non inscrit",
+  "nom": "Piquemal",
+  "numCirco": "4",
+  "numDepartement": "31",
+  "prenom": "François"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 20,
+   "curRadiusIndex": 1,
+   "id": "ai20ri1",
+   "no": 494,
+   "polar": {
+    "angle": 2.731819698773733,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": -0.34395423806454484,
+    "y": -0.14942994654423317
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793756",
+ "uid": "PA793756"
+}

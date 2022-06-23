@@ -12,12 +12,14 @@
   "nom": "Valérie Bazin-Malgras"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718884.jpg",
-  "nosiege": "119"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718884.jpg",
+  "nosiege": "47"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/VBazinMalgras/"
+ },
  "circo": {
   "acteurId": "OMC_PA718884",
   "civ": "Mme",
@@ -171,7 +173,7 @@
    "Vulaines (10160)"
   ],
   "departement": "Aube",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Bazin-Malgras",
   "numCirco": "2",
   "numDepartement": "10",
@@ -180,17 +182,17 @@
  "datan": "https://datan.fr/deputes/aube-10/depute_valerie-bazinmalgras",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 8,
-   "id": "ai10ri8",
-   "no": 119,
+   "curAngleIndex": 0,
+   "curRadiusIndex": 9,
+   "id": "ai0ri9",
+   "no": 47,
    "polar": {
-    "angle": 0.4688944259089244,
-    "radius": 0.8125
+    "angle": 0,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.7248056095778765,
-    "y": -0.367241597856036
+    "x": 0.875,
+    "y": 0
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Vincent Thiébaut"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722336.jpg",
-  "nosiege": "432"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722336.jpg",
+  "nosiege": "596"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -70,7 +70,7 @@
    "Wittersheim (67670)"
   ],
   "departement": "Bas-rhin",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Thiébaut",
   "numCirco": "9",
   "numDepartement": "67",
@@ -79,17 +79,17 @@
  "datan": "https://datan.fr/deputes/bas-rhin-67/depute_vincent-thiebaut",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
-   "curRadiusIndex": 6,
-   "id": "ai38ri6",
-   "no": 432,
+   "curAngleIndex": 46,
+   "curRadiusIndex": 5,
+   "id": "ai46ri5",
+   "no": 596,
    "polar": {
-    "angle": 2.252462657290795,
-    "radius": 0.6875
+    "angle": 3.074750256704904,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.4331853924624263,
-    "y": -0.5339657047422877
+    "x": -0.6236042991394707,
+    "y": -0.041753649544207065
    }
   }
  },

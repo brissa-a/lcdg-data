@@ -12,9 +12,9 @@
   "nom": "Lise Magnier"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720230.jpg",
-  "nosiege": "157"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720230.jpg",
+  "nosiege": "387"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -150,7 +150,7 @@
    "Wargemoulin-Hurlus (51800)"
   ],
   "departement": "Marne",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Magnier",
   "numCirco": "4",
   "numDepartement": "51",
@@ -159,17 +159,17 @@
  "datan": "https://datan.fr/deputes/marne-51/depute_lise-magnier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 11,
-   "id": "ai16ri11",
-   "no": 157,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 10,
+   "id": "ai44ri10",
+   "no": 387,
    "polar": {
-    "angle": 0.6362719298409708,
-    "radius": 1
+    "angle": 1.7065441575055667,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.8043165652707647,
-    "y": -0.5943185080478507
+    "x": -0.12687309351574785,
+    "y": -0.9290590254657289
    }
   }
  },

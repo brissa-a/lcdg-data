@@ -12,12 +12,13 @@
   "nom": "Anne Genetet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721024.jpg",
-  "nosiege": "351"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721024.jpg",
+  "nosiege": "242"
  },
  "an_www_pic": {},
  "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Anne%20Genetet%20-%20D%C3%A9put%C3%A9e/",
   "twitter_link": "https://twitter.com/@AGenetet/"
  },
  "circo": {
@@ -76,7 +77,7 @@
    "Vietnam"
   ],
   "departement": "Français établis hors de france",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Genetet",
   "numCirco": "11",
   "numDepartement": "099",
@@ -85,17 +86,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_anne-genetet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 6,
-   "id": "ai30ri6",
-   "no": 351,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 11,
+   "id": "ai25ri11",
+   "no": 242,
    "polar": {
-    "angle": 1.7782599925979963,
-    "radius": 0.6875
+    "angle": 0.9941748903765169,
+    "radius": 1
    },
    "pos": {
-    "x": -0.1416103003845052,
-    "y": -0.6728905988953134
+    "x": 0.5451947721626677,
+    "y": -0.8384751477055179
    }
   }
  },

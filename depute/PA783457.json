@@ -12,9 +12,9 @@
   "nom": "Victor Habert-Dassault"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/783457.jpg",
-  "nosiege": "64"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/783457.jpg",
+  "nosiege": "277"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -177,7 +177,7 @@
    "Welles-Pérennes (60420)"
   ],
   "departement": "Oise",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Habert-Dassault",
   "numCirco": "1",
   "numDepartement": "60",
@@ -186,17 +186,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_victor-habertdassault",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 10,
-   "id": "ai7ri10",
-   "no": 64,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 7,
+   "id": "ai21ri7",
+   "no": 277,
    "polar": {
-    "angle": 0.27149566142134013,
-    "radius": 0.9375
+    "angle": 1.2447819948185974,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.9031601987023877,
-    "y": -0.25146153092173446
+    "x": 0.24020239039712815,
+    "y": -0.7106352368213056
    }
   }
  },

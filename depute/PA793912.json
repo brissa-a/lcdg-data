@@ -1,0 +1,60 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793912.jpg",
+  "nosiege": "120"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@Sylv20CARRIERE/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793912",
+  "civ": "M.",
+  "communes": [
+   "Balaruc-le-Vieux (34540)",
+   "Balaruc-les-Bains (34540)",
+   "Cournonsec (34660)",
+   "Cournonterral (34660)",
+   "Fabrègues (34690)",
+   "Frontignan (34110)",
+   "Grabels (34790)",
+   "Juvignac (34990)",
+   "Mireval (34110)",
+   "Montpellier (34000)",
+   "Montpellier (34070)",
+   "Montpellier (34080)",
+   "Montpellier (34090)",
+   "Murviel-lès-Montpellier (34570)",
+   "Pignan (34570)",
+   "Saint-Georges-d'Orques (34680)",
+   "Saussan (34570)",
+   "Vic-la-Gardiole (34110)"
+  ],
+  "departement": "Hérault",
+  "group": "Non inscrit",
+  "nom": "Carrière",
+  "numCirco": "8",
+  "numDepartement": "34",
+  "prenom": "Sylvain"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 11,
+   "curRadiusIndex": 8,
+   "id": "ai11ri8",
+   "no": 120,
+   "polar": {
+    "angle": 0.5157838684998168,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7067989275821421,
+    "y": -0.4008179550943951
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793912",
+ "uid": "PA793912"
+}

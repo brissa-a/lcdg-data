@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795958.jpg",
+  "nosiege": "280"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@benjaminhaddad/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795958",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 16eme arrondissement (75016)",
+   "Paris 16eme arrondissement (75116)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Haddad",
+  "numCirco": "14",
+  "numDepartement": "75",
+  "prenom": "Benjamin"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 24,
+   "curRadiusIndex": 7,
+   "id": "ai24ri7",
+   "no": 280,
+   "polar": {
+    "angle": 1.4226079940783969,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.11073492300186095,
+    "y": -0.7419267973322461
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795958",
+ "uid": "PA795958"
+}

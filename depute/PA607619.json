@@ -12,9 +12,9 @@
   "nom": "Paul Molac"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/607619.jpg",
-  "nosiege": "215"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607619.jpg",
+  "nosiege": "441"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -116,7 +116,7 @@
    "Val d'Oust (56800)"
   ],
   "departement": "Morbihan",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "Molac",
   "numCirco": "4",
   "numDepartement": "56",
@@ -125,17 +125,17 @@
  "datan": "https://datan.fr/deputes/morbihan-56/depute_paul-molac",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 9,
-   "id": "ai19ri9",
-   "no": 215,
+   "curAngleIndex": 39,
+   "curRadiusIndex": 7,
+   "id": "ai39ri7",
+   "no": 441,
    "polar": {
-    "angle": 0.8650762379450154,
-    "radius": 0.875
+    "angle": 2.311737990377395,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.5675093282799115,
-    "y": -0.6661332980800424
+    "x": -0.5062372511386579,
+    "y": -0.5534843666633189
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Cécile Untermaier"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/608695.jpg",
-  "nosiege": "580"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608695.jpg",
+  "nosiege": "609"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -160,7 +160,7 @@
    "Vérissey (71440)"
   ],
   "departement": "Saône-et-loire",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Untermaier",
   "numCirco": "4",
   "numDepartement": "71",
@@ -169,17 +169,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_cecile-untermaier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
-   "curRadiusIndex": 2,
-   "id": "ai27ri2",
-   "no": 580,
+   "curAngleIndex": 50,
+   "curRadiusIndex": 7,
+   "id": "ai50ri7",
+   "no": 609,
    "polar": {
-    "angle": 2.9249310912732556,
-    "radius": 0.4375
+    "angle": 2.9637666543299934,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.4272714931231629,
-    "y": -0.0940681620675485
+    "x": -0.7381729334606977,
+    "y": -0.1326939359827665
    }
   }
  },

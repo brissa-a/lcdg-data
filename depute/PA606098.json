@@ -12,9 +12,9 @@
   "nom": "Olivier Marleix"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/606098.jpg",
-  "nosiege": "33"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/606098.jpg",
+  "nosiege": "401"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -114,7 +114,7 @@
    "Vert-en-Drouais (28500)"
   ],
   "departement": "Eure-et-loir",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Marleix",
   "numCirco": "2",
   "numDepartement": "28",
@@ -123,17 +123,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_olivier-marleix",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 7,
-   "id": "ai3ri7",
-   "no": 33,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 11,
+   "id": "ai44ri11",
+   "no": 401,
    "polar": {
-    "angle": 0.1778259992597996,
-    "radius": 0.75
+    "angle": 1.7497478070626697,
+    "radius": 1
    },
    "pos": {
-    "x": 0.7381729334606977,
-    "y": -0.13269393598276635
+    "x": -0.17799789567755034,
+    "y": -0.984225420043508
    }
   }
  },

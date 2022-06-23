@@ -12,13 +12,13 @@
   "nom": "Moetai Brotherson"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721118.jpg",
-  "nosiege": "582"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721118.jpg",
+  "nosiege": "104"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/moetai2017/",
+  "facebook_link": "https://fr-fr.facebook.com/moetai2022/",
   "twitter_link": "https://twitter.com/@Moetai1/"
  },
  "circo": {
@@ -39,7 +39,7 @@
    "Uturoa (98735)"
   ],
   "departement": "Polynésie française",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Brotherson",
   "numCirco": "3",
   "numDepartement": "987",
@@ -48,17 +48,17 @@
  "datan": "https://datan.fr/deputes/polynesie-francaise-987/depute_moetai-brotherson",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 2,
-   "id": "ai29ri2",
-   "no": 582,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 6,
+   "id": "ai10ri6",
+   "no": 104,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.4375
+    "angle": 0.5927533308659987,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.4375,
-    "y": -5.358889039098222e-17
+    "x": 0.5702164087470138,
+    "y": -0.3841455856362521
    }
   }
  },

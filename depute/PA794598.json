@@ -1,0 +1,73 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794598.jpg",
+  "nosiege": "300"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@ljacobelli/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794598",
+  "civ": "M.",
+  "communes": [
+   "Algrange (57440)",
+   "Angevillers (57440)",
+   "Audun-le-Tiche (57390)",
+   "Aumetz (57710)",
+   "Boulange (57655)",
+   "Clouange (57185)",
+   "Fameck (57290)",
+   "Florange (57190)",
+   "Fontoy (57650)",
+   "Gandrange (57175)",
+   "Havange (57650)",
+   "Hayange (57700)",
+   "Knutange (57240)",
+   "Lommerange (57650)",
+   "Mondelange (57300)",
+   "Moyeuvre-Grande (57250)",
+   "Moyeuvre-Petite (57250)",
+   "Neufchef (57700)",
+   "Nilvange (57240)",
+   "Ottange (57840)",
+   "Ranguevaux (57700)",
+   "Richemont (Moselle) (57270)",
+   "Rochonvillers (57840)",
+   "Rosselange (57780)",
+   "Russange (57390)",
+   "Rédange (57390)",
+   "Serémange-Erzange (57290)",
+   "Terville (57180)",
+   "Tressange (57710)",
+   "Uckange (57270)",
+   "Vitry-sur-Orne (57185)"
+  ],
+  "departement": "Moselle",
+  "group": "Non inscrit",
+  "nom": "Jacobelli",
+  "numCirco": "8",
+  "numDepartement": "57",
+  "prenom": "Laurent"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 31,
+   "curRadiusIndex": 9,
+   "id": "ai31ri9",
+   "no": 300,
+   "polar": {
+    "angle": 1.411440177699762,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.13884722814922,
+    "y": -0.8640842526589416
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794598",
+ "uid": "PA794598"
+}

@@ -12,13 +12,13 @@
   "nom": "Christelle Petex-Levet"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721442.jpg",
-  "nosiege": "21"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721442.jpg",
+  "nosiege": "483"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/ChristellePetex/"
+  "facebook_link": "https://fr-fr.facebook.com/ChristellePetex-Levet-D%C3%A9put%C3%A9e/"
  },
  "circo": {
   "acteurId": "OMC_PA721442",
@@ -82,7 +82,7 @@
    "Vovray-en-Bornes (74350)"
   ],
   "departement": "Haute-savoie",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Petex-Levet",
   "numCirco": "3",
   "numDepartement": "74",
@@ -91,17 +91,17 @@
  "datan": "https://datan.fr/deputes/haute-savoie-74/depute_christelle-petexlevet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 5,
-   "id": "ai4ri5",
-   "no": 21,
+   "curAngleIndex": 56,
+   "curRadiusIndex": 11,
+   "id": "ai56ri11",
+   "no": 483,
    "polar": {
-    "angle": 0.26736958753955686,
-    "radius": 0.625
+    "angle": 2.2269517544433977,
+    "radius": 1
    },
    "pos": {
-    "x": 0.6027932344089852,
-    "y": -0.1651547723513792
+    "x": -0.6100751460105244,
+    "y": -0.7925002131609329
    }
   }
  },

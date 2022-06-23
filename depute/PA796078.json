@@ -1,0 +1,53 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796078.jpg",
+  "nosiege": "644"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/www.facebook.com/EstelleYoussouffaDeputee/",
+  "twitter_link": "https://twitter.com/@EYoussouffa/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA796078",
+  "civ": "Mme",
+  "communes": [
+   "Acoua (97630)",
+   "Bandraboua (97650)",
+   "Dzaoudzi (97615)",
+   "Koungou (97600)",
+   "Mamoudzou (97600)",
+   "Mamoudzou (97605)",
+   "Mamoudzou (97650)",
+   "Mamoudzou (97680)",
+   "Mtsamboro (97630)",
+   "Pamandzi (97615)"
+  ],
+  "departement": "Mayotte",
+  "group": "Non inscrit",
+  "nom": "Youssouffa",
+  "numCirco": "1",
+  "numDepartement": "976",
+  "prenom": "Estelle"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 75,
+   "curRadiusIndex": 11,
+   "id": "ai75ri11",
+   "no": 644,
+   "polar": {
+    "angle": 2.9825246711295508,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.9873753419363335,
+    "y": -0.1584293411715125
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796078",
+ "uid": "PA796078"
+}

@@ -13,8 +13,8 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720468.jpg",
-  "nosiege": "57"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720468.jpg",
+  "nosiege": "136"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -72,17 +72,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_sebastien-chenu",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
+   "curAngleIndex": 8,
    "curRadiusIndex": 10,
-   "id": "ai1ri10",
-   "no": 57,
+   "id": "ai8ri10",
+   "no": 136,
    "polar": {
-    "angle": 0.038785094488762877,
+    "angle": 0.310280755910103,
     "radius": 0.9375
    },
    "pos": {
-    "x": 0.9367949554727156,
-    "y": -0.03635909766446121
+    "x": 0.8927323925047643,
+    "y": -0.2862997157698149
    }
   }
  },

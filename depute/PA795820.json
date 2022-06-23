@@ -1,0 +1,56 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795820.jpg",
+  "nosiege": "450"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795820",
+  "civ": "M.",
+  "communes": [
+   "Basse-Pointe (97218)",
+   "Bellefontaine (Martinique) (97222)",
+   "Case-Pilote (97222)",
+   "Fonds-Saint-Denis (97250)",
+   "Grand'Rivière (97218)",
+   "L'Ajoupa-Bouillon (97216)",
+   "Le Carbet (97221)",
+   "Le Lorrain (97214)",
+   "Le Marigot (97225)",
+   "Le Morne-Rouge (97260)",
+   "Le Morne-Vert (97226)",
+   "Le Prêcheur (97250)",
+   "Macouba (97218)",
+   "Saint-Joseph (Martinique) (97212)",
+   "Saint-Pierre (Martinique) (97250)",
+   "Sainte-Marie (Martinique) (97230)",
+   "Schoelcher (97233)"
+  ],
+  "departement": "Martinique",
+  "group": "Non inscrit",
+  "nom": "Nadeau",
+  "numCirco": "2",
+  "numDepartement": "972",
+  "prenom": "Marcellin"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 48,
+   "curRadiusIndex": 8,
+   "id": "ai48ri8",
+   "no": 450,
+   "polar": {
+    "angle": 2.2506932443628367,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.5108292041050938,
+    "y": -0.6319554136305944
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795820",
+ "uid": "PA795820"
+}

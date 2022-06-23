@@ -12,9 +12,9 @@
   "nom": "Pieyre-Alexandre Anglade"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721158.jpg",
-  "nosiege": "425"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721158.jpg",
+  "nosiege": "17"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -27,7 +27,7 @@
    "Pays-Bas"
   ],
   "departement": "Français établis hors de france",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Anglade",
   "numCirco": "4",
   "numDepartement": "099",
@@ -36,17 +36,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_pieyrealexandre-anglade",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
+   "curAngleIndex": 0,
    "curRadiusIndex": 5,
-   "id": "ai33ri5",
-   "no": 425,
+   "id": "ai0ri5",
+   "no": 17,
    "polar": {
-    "angle": 2.205799097201344,
+    "angle": 0,
     "radius": 0.625
    },
    "pos": {
-    "x": -0.37073734045584694,
-    "y": -0.5032682643582613
+    "x": 0.625,
+    "y": 0
    }
   }
  },

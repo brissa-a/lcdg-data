@@ -12,14 +12,14 @@
   "nom": "Jean-Louis Thiériot"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643089.jpg",
-  "nosiege": "129"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643089.jpg",
+  "nosiege": "597"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/JLTHIERIOT/",
-  "twitter_link": "https://twitter.com/@jlthieriot/"
+  "twitter_link": "https://twitter.com/@JL_Thieriot/"
  },
  "circo": {
   "acteurId": "OMC_PA643089",
@@ -86,7 +86,7 @@
    "Yèbles (77390)"
   ],
   "departement": "Seine-et-marne",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Thiériot",
   "numCirco": "3",
   "numDepartement": "77",
@@ -95,17 +95,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanlouis-thieriot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
-   "curRadiusIndex": 9,
-   "id": "ai11ri9",
-   "no": 129,
+   "curAngleIndex": 47,
+   "curRadiusIndex": 5,
+   "id": "ai47ri5",
+   "no": 597,
    "polar": {
-    "angle": 0.500833611441851,
-    "radius": 0.875
+    "angle": 3.141592653589793,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.7675347771022699,
-    "y": -0.42022038301490977
+    "x": -0.625,
+    "y": -7.655555770140317e-17
    }
   }
  },

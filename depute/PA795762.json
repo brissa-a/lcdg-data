@@ -1,0 +1,51 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795762.jpg",
+  "nosiege": "116"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795762",
+  "civ": "M.",
+  "communes": [
+   "Baillif (97123)",
+   "Basse-Terre (97100)",
+   "Bouillante (97125)",
+   "Capesterre-Belle-Eau (97130)",
+   "Gourbeyre (97113)",
+   "Saint-Claude (Guadeloupe) (97120)",
+   "Terre-de-Bas (97136)",
+   "Terre-de-Haut (97137)",
+   "Trois-Rivières (97114)",
+   "Vieux-Fort (97141)",
+   "Vieux-Habitants (97119)"
+  ],
+  "departement": "Guadeloupe",
+  "group": "Non inscrit",
+  "nom": "Califer",
+  "numCirco": "4",
+  "numDepartement": "971",
+  "prenom": "Elie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 7,
+   "curRadiusIndex": 8,
+   "id": "ai7ri8",
+   "no": 116,
+   "polar": {
+    "angle": 0.32822609813624704,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7691252361734778,
+    "y": -0.2619728049180221
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795762",
+ "uid": "PA795762"
+}

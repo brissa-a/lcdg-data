@@ -12,9 +12,9 @@
   "nom": "Yaël Braun-Pivet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721908.jpg",
-  "nosiege": "481"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721908.jpg",
+  "nosiege": "96"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -32,7 +32,7 @@
    "Sartrouville (78500)"
   ],
   "departement": "Yvelines",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Braun-Pivet",
   "numCirco": "5",
   "numDepartement": "78",
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_yael-braunpivet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 54,
-   "curRadiusIndex": 11,
-   "id": "ai54ri11",
-   "no": 481,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 5,
+   "id": "ai8ri5",
+   "no": 96,
    "polar": {
-    "angle": 2.1474177632132765,
-    "radius": 1
+    "angle": 0.5347391750791137,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.5451947721626677,
-    "y": -0.8384751477055178
+    "x": 0.5377509870375872,
+    "y": -0.31857337409205616
    }
   }
  },

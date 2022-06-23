@@ -1,0 +1,43 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795156.jpg",
+  "nosiege": "318"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795156",
+  "civ": "Mme",
+  "communes": [
+   "Gagny (93220)",
+   "Rosny-sous-Bois (93110)",
+   "Villemomble (93250)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Keloua Hachi",
+  "numCirco": "8",
+  "numDepartement": "93",
+  "prenom": "Fatiha"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 30,
+   "curRadiusIndex": 11,
+   "id": "ai30ri11",
+   "no": 318,
+   "polar": {
+    "angle": 1.1930098684518202,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.36886392452400785,
+    "y": -0.9296671752216756
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795156",
+ "uid": "PA795156"
+}

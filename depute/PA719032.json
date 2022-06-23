@@ -12,13 +12,13 @@
   "nom": "Bertrand Bouyx"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719032.jpg",
-  "nosiege": "439"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719032.jpg",
+  "nosiege": "92"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/bertrandbouyx/"
+  "facebook_link": "https://fr-fr.facebook.com/bertrandbouyx.fr/"
  },
  "circo": {
   "acteurId": "OMC_PA719032",
@@ -164,7 +164,7 @@
    "Villons-les-Buissons (14610)"
   ],
   "departement": "Calvados",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Bouyx",
   "numCirco": "5",
   "numDepartement": "14",
@@ -173,17 +173,17 @@
  "datan": "https://datan.fr/deputes/calvados-14/depute_bertrand-bouyx",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 7,
-   "id": "ai37ri7",
-   "no": 439,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 4,
+   "id": "ai8ri4",
+   "no": 92,
    "polar": {
-    "angle": 2.1931873242041955,
-    "radius": 0.75
+    "angle": 0.6444292622748293,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.43723460933585423,
-    "y": -0.6094856356700056
+    "x": 0.44968655441446936,
+    "y": -0.33798433307469616
    }
   }
  },

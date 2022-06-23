@@ -12,12 +12,14 @@
   "nom": "Boris Vallaud"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719930.jpg",
-  "nosiege": "504"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719930.jpg",
+  "nosiege": "612"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@borisvallaud/"
+ },
  "circo": {
   "acteurId": "OMC_PA719930",
   "civ": "M.",
@@ -208,7 +210,7 @@
    "Ygos-Saint-Saturnin (40110)"
   ],
   "departement": "Landes",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Vallaud",
   "numCirco": "3",
   "numDepartement": "40",
@@ -217,17 +219,17 @@
  "datan": "https://datan.fr/deputes/landes-40/depute_boris-vallaud",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
-   "curRadiusIndex": 4,
-   "id": "ai31ri4",
-   "no": 504,
+   "curAngleIndex": 53,
+   "curRadiusIndex": 7,
+   "id": "ai53ri7",
+   "no": 612,
    "polar": {
-    "angle": 2.4971633913149636,
-    "radius": 0.5625
+    "angle": 3.141592653589793,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.44968655441446925,
-    "y": -0.3379843330746964
+    "x": -0.75,
+    "y": -9.186666924168381e-17
    }
   }
  },

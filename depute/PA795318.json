@@ -1,0 +1,54 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795318.jpg",
+  "nosiege": "94"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/louis.boyard.79/",
+  "twitter_link": "https://twitter.com/@l_boyard/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795318",
+  "civ": "M.",
+  "communes": [
+   "Ablon-sur-Seine (94480)",
+   "Boissy-Saint-Léger (94470)",
+   "Limeil-Brévannes (94450)",
+   "Mandres-les-Roses (94520)",
+   "Marolles-en-Brie (Val-de-Marne) (94440)",
+   "Périgny-sur-Yerres (94520)",
+   "Santeny (94440)",
+   "Valenton (94460)",
+   "Villecresnes (94440)",
+   "Villeneuve-Saint-Georges (94190)",
+   "Villeneuve-le-Roi (94290)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Non inscrit",
+  "nom": "Boyard",
+  "numCirco": "3",
+  "numDepartement": "94",
+  "prenom": "Louis"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 6,
+   "curRadiusIndex": 5,
+   "id": "ai6ri5",
+   "no": 94,
+   "polar": {
+    "angle": 0.4010543813093353,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": 0.575406179172768,
+    "y": -0.24404153672386203
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795318",
+ "uid": "PA795318"
+}

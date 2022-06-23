@@ -12,9 +12,9 @@
   "nom": "Laurence Maillart-Méhaignerie"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719718.jpg",
-  "nosiege": "447"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719718.jpg",
+  "nosiege": "389"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -54,7 +54,7 @@
    "Vignoc (35630)"
   ],
   "departement": "Ille-et-vilaine",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Maillart-Méhaignerie",
   "numCirco": "2",
   "numDepartement": "35",
@@ -64,16 +64,16 @@
  "lcdg": {
   "siege": {
    "curAngleIndex": 46,
-   "curRadiusIndex": 8,
-   "id": "ai46ri8",
-   "no": 447,
+   "curRadiusIndex": 10,
+   "id": "ai46ri10",
+   "no": 389,
    "polar": {
-    "angle": 2.156914359181052,
-    "radius": 0.8125
+    "angle": 1.7841143464830924,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.4494190627267246,
-    "y": -0.6770228551386456
+    "x": -0.19847238021507255,
+    "y": -0.9164316433636337
    }
   }
  },

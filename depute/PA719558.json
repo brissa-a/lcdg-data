@@ -12,12 +12,15 @@
   "nom": "Erwan Balanant"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719558.jpg",
-  "nosiege": "162"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719558.jpg",
+  "nosiege": "28"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/erwanbalanant/",
+  "twitter_link": "https://twitter.com/@erwanbalanant/"
+ },
  "circo": {
   "acteurId": "OMC_PA719558",
   "civ": "M.",
@@ -49,7 +52,7 @@
    "Tréméven (Finistère) (29300)"
   ],
   "departement": "Finistère",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Balanant",
   "numCirco": "8",
   "numDepartement": "29",
@@ -58,17 +61,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_erwan-balanant",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 6,
-   "curRadiusIndex": 0,
-   "id": "ai6ri0",
-   "no": 162,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 6,
+   "id": "ai5ri6",
+   "no": 28,
    "polar": {
-    "angle": 0.7853981633974483,
-    "radius": 0.3125
+    "angle": 0.29637666543299934,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.2209708691207961,
-    "y": -0.22101455711912069
+    "x": 0.6575256766901092,
+    "y": -0.20082872767369758
    }
   }
  },

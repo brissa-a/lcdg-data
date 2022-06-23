@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795864.jpg",
+  "nosiege": "128"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@PierreCazeneuve/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795864",
+  "civ": "M.",
+  "communes": [
+   "Garches (92380)",
+   "Rueil-Malmaison (92500)",
+   "Saint-Cloud (92210)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Cazeneuve",
+  "numCirco": "7",
+  "numDepartement": "92",
+  "prenom": "Pierre"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 10,
+   "curRadiusIndex": 9,
+   "id": "ai10ri9",
+   "no": 128,
+   "polar": {
+    "angle": 0.4553032831289555,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.785861742193234,
+    "y": -0.38484395307286035
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795864",
+ "uid": "PA795864"
+}

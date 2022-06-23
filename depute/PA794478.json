@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794478.jpg",
+  "nosiege": "273"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/david.guiraud.50/",
+  "twitter_link": "https://twitter.com/@guiraudind/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794478",
+  "civ": "M.",
+  "communes": [
+   "Roubaix (59100)",
+   "Wattrelos (59150)"
+  ],
+  "departement": "Nord",
+  "group": "Non inscrit",
+  "nom": "Guiraud",
+  "numCirco": "8",
+  "numDepartement": "59",
+  "prenom": "David"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 25,
+   "curRadiusIndex": 6,
+   "id": "ai25ri6",
+   "no": 273,
+   "polar": {
+    "angle": 1.4818833271649967,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.06104717803451774,
+    "y": -0.6849196550236568
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794478",
+ "uid": "PA794478"
+}

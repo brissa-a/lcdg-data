@@ -12,12 +12,15 @@
   "nom": "Maud Gatel"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721760.jpg",
-  "nosiege": "257"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721760.jpg",
+  "nosiege": "240"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/gatelmaud/",
+  "twitter_link": "https://twitter.com/@maudgatel/"
+ },
  "circo": {
   "acteurId": "OMC_PA721760",
   "civ": "Mme",
@@ -27,7 +30,7 @@
    "Paris 6eme arrondissement (75006)"
   ],
   "departement": "Paris",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Gatel",
   "numCirco": "11",
   "numDepartement": "75",
@@ -36,17 +39,17 @@
  "datan": "https://datan.fr/deputes/paris-75/depute_maud-gatel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 4,
-   "id": "ai15ri4",
-   "no": 257,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 11,
+   "id": "ai23ri11",
+   "no": 240,
    "polar": {
-    "angle": 1.208304866765305,
-    "radius": 0.5625
+    "angle": 0.9146408991463956,
+    "radius": 1
    },
    "pos": {
-    "x": 0.19946524896142637,
-    "y": -0.5260506210577675
+    "x": 0.6100751460105244,
+    "y": -0.7925002131609329
    }
   }
  },

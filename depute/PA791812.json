@@ -1,0 +1,43 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/791812.jpg",
+  "nosiege": "137"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA791812",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 11eme arrondissement (75011)",
+   "Paris 20eme arrondissement (75020)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Chikirou",
+  "numCirco": "6",
+  "numDepartement": "75",
+  "prenom": "Sophia"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 9,
+   "curRadiusIndex": 10,
+   "id": "ai9ri10",
+   "no": 137,
+   "polar": {
+    "angle": 0.3490658503988659,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.8809618319867891,
+    "y": -0.3207072786493267
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA791812",
+ "uid": "PA791812"
+}

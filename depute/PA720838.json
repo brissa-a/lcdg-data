@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720838.jpg",
+  "nosiege": "91"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Soumya%20Bourouaha/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA720838",
+  "civ": "Mme",
+  "communes": [
+   "Dugny (93440)",
+   "La Courneuve (93120)",
+   "Le Blanc-Mesnil (93150)",
+   "Stains (93240)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Bourouaha",
+  "numCirco": "4",
+  "numDepartement": "93",
+  "prenom": "Soumya"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 7,
+   "curRadiusIndex": 4,
+   "id": "ai7ri4",
+   "no": 91,
+   "polar": {
+    "angle": 0.5638756044904757,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.47541942311838453,
+    "y": -0.3006964659364502
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720838",
+ "uid": "PA720838"
+}

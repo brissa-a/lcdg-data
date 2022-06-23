@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794130.jpg",
+  "nosiege": "319"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794130",
+  "civ": "M.",
+  "communes": [
+   "Nantes (44000)",
+   "Nantes (44100)",
+   "Nantes (44200)",
+   "Nantes (44300)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "Non inscrit",
+  "nom": "Kerbrat",
+  "numCirco": "2",
+  "numDepartement": "44",
+  "prenom": "Andy"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 31,
+   "curRadiusIndex": 11,
+   "id": "ai31ri11",
+   "no": 319,
+   "polar": {
+    "angle": 1.232776864066881,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.3316192785520677,
+    "y": -0.9435998213157802
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794130",
+ "uid": "PA794130"
+}

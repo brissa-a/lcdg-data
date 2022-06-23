@@ -12,13 +12,13 @@
   "nom": "Bertrand Sorre"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720190.jpg",
-  "nosiege": "559"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720190.jpg",
+  "nosiege": "573"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/bertrandsorrecandidat/",
+  "facebook_link": "https://fr-fr.facebook.com/Bertrand%20SORRE%20D%C3%A9put%C3%A9%20de%20la%20Manche/",
   "twitter_link": "https://twitter.com/@BertrandSorre/"
  },
  "circo": {
@@ -151,7 +151,7 @@
    "Yquelon (50400)"
   ],
   "departement": "Manche",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Sorre",
   "numCirco": "2",
   "numDepartement": "50",
@@ -161,16 +161,16 @@
  "lcdg": {
   "siege": {
    "curAngleIndex": 71,
-   "curRadiusIndex": 10,
-   "id": "ai71ri10",
-   "no": 559,
+   "curRadiusIndex": 11,
+   "id": "ai71ri11",
+   "no": 573,
    "polar": {
-    "angle": 2.7537417087021643,
-    "radius": 0.9375
+    "angle": 2.823456688669308,
+    "radius": 1
    },
    "pos": {
-    "x": -0.8678662211895847,
-    "y": -0.3546324673172718
+    "x": -0.9498201317277827,
+    "y": -0.3128584498239406
    }
   }
  },

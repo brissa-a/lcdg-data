@@ -12,12 +12,15 @@
   "nom": "Jean-Noël Barrot"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721836.jpg",
-  "nosiege": "167"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721836.jpg",
+  "nosiege": "33"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/jnbarrot78/",
+  "twitter_link": "https://twitter.com/@jnbarrot/"
+ },
  "circo": {
   "acteurId": "OMC_PA721836",
   "civ": "M.",
@@ -44,7 +47,7 @@
    "Vélizy-Villacoublay (78140)"
   ],
   "departement": "Yvelines",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Barrot",
   "numCirco": "2",
   "numDepartement": "78",
@@ -53,17 +56,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_jeannoel-barrot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 1,
-   "id": "ai8ri1",
-   "no": 167,
+   "curAngleIndex": 3,
+   "curRadiusIndex": 7,
+   "id": "ai3ri7",
+   "no": 33,
    "polar": {
-    "angle": 1.0927278795094932,
-    "radius": 0.375
+    "angle": 0.1778259992597996,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.17252438914918208,
-    "y": -0.333022785591492
+    "x": 0.7381729334606977,
+    "y": -0.13269393598276635
    }
   }
  },

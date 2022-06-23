@@ -1,0 +1,96 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794030.jpg",
+  "nosiege": "305"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/alexis%20jolly/",
+  "twitter_link": "https://twitter.com/@alexisjollyrn/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794030",
+  "civ": "M.",
+  "communes": [
+   "Annoisin-Chatelans (38460)",
+   "Anthon (38280)",
+   "Arandon-Passins (38510)",
+   "Bourgoin-Jallieu (38300)",
+   "Bouvesse-Quirieu (38390)",
+   "Brangues (38510)",
+   "Chamagnieu (38460)",
+   "Charette (38390)",
+   "Charvieu-Chavagneux (38230)",
+   "Chavanoz (38230)",
+   "Chozeau (38460)",
+   "Courtenay (Isère) (38510)",
+   "Creys-Mépieu (38510)",
+   "Crémieu (38460)",
+   "Dizimieu (38460)",
+   "Frontonas (38290)",
+   "Hières-sur-Amby (38118)",
+   "Janneyrias (38280)",
+   "La Balme-les-Grottes (38390)",
+   "Le Bouchage (Isère) (38510)",
+   "Les Avenières Veyrins-Thuellin (38630)",
+   "Leyrieu (38460)",
+   "Montalieu-Vercieu (38390)",
+   "Moras (38460)",
+   "Morestel (38510)",
+   "Optevoz (38460)",
+   "Panossas (38460)",
+   "Parmilieu (38390)",
+   "Pont-de-Chéruy (38230)",
+   "Porcieu-Amblagnieu (38390)",
+   "Ruy (38300)",
+   "Saint-Baudille-de-la-Tour (38118)",
+   "Saint-Chef (38890)",
+   "Saint-Hilaire-de-Brens (38460)",
+   "Saint-Marcel-Bel-Accueil (38080)",
+   "Saint-Romain-de-Jalionas (38460)",
+   "Saint-Savin (Isère) (38300)",
+   "Saint-Sorlin-de-Morestel (38510)",
+   "Saint-Victor-de-Morestel (38510)",
+   "Salagnon (38890)",
+   "Sermérieu (38510)",
+   "Siccieu-Saint-Julien-et-Carisieu (38460)",
+   "Soleymieu (38460)",
+   "Tignieu-Jameyzieu (38230)",
+   "Trept (38460)",
+   "Vasselin (38890)",
+   "Vernas (38460)",
+   "Vertrieu (38390)",
+   "Veyssilieu (38460)",
+   "Villemoirieu (38460)",
+   "Villette-d'Anthon (38280)",
+   "Vénérieu (38460)",
+   "Vézeronce-Curtin (38510)"
+  ],
+  "departement": "Isère",
+  "group": "Non inscrit",
+  "nom": "Jolly",
+  "numCirco": "6",
+  "numDepartement": "38",
+  "prenom": "Alexis"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 31,
+   "curRadiusIndex": 10,
+   "id": "ai31ri10",
+   "no": 305,
+   "polar": {
+    "angle": 1.2023379291516492,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.3376666170044161,
+    "y": -0.8747513854937563
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794030",
+ "uid": "PA794030"
+}

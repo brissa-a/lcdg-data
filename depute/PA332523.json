@@ -12,9 +12,9 @@
   "nom": "Marie-Christine Dalloz"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/332523.jpg",
-  "nosiege": "16"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/332523.jpg",
+  "nosiege": "168"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -181,7 +181,7 @@
    "Vulvoz (39360)"
   ],
   "departement": "Jura",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Dalloz",
   "numCirco": "2",
   "numDepartement": "39",
@@ -190,17 +190,17 @@
  "datan": "https://datan.fr/deputes/jura-39/depute_mariechristine-dalloz",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 4,
-   "id": "ai4ri4",
-   "no": 16,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 2,
+   "id": "ai7ri2",
+   "no": 168,
    "polar": {
-    "angle": 0.32221463113741466,
-    "radius": 0.5625
+    "angle": 0.7583154681078811,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.5335517485952693,
-    "y": -0.17816096363197473
+    "x": 0.3176230277163697,
+    "y": -0.30092799775488255
    }
   }
  },

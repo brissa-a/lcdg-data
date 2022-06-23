@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795596.jpg",
+  "nosiege": "615"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/paulvannier/",
+  "twitter_link": "https://twitter.com/@PaulVannierFI/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795596",
+  "civ": "M.",
+  "communes": [
+   "Argenteuil (95100)",
+   "Bezons (95870)"
+  ],
+  "departement": "Val-d'oise",
+  "group": "Non inscrit",
+  "nom": "Vannier",
+  "numCirco": "5",
+  "numDepartement": "95",
+  "prenom": "Paul"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 62,
+   "curRadiusIndex": 8,
+   "id": "ai62ri8",
+   "no": 615,
+   "polar": {
+    "angle": 2.907145440635331,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.7902723605764107,
+    "y": -0.1887854195232092
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795596",
+ "uid": "PA795596"
+}

@@ -1,0 +1,71 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793322.jpg",
+  "nosiege": "165"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793322",
+  "civ": "Mme",
+  "communes": [
+   "Aspremont (Alpes-Maritimes) (06790)",
+   "Belvédère (06450)",
+   "Castagniers (06670)",
+   "Clans (Alpes-Maritimes) (06420)",
+   "Colomars (06670)",
+   "Duranus (06670)",
+   "Ilonse (06420)",
+   "Isola (06420)",
+   "La Bollène-Vésubie (06450)",
+   "La Roquette-sur-Var (06670)",
+   "Lantosque (06450)",
+   "Levens (06670)",
+   "Marie (06420)",
+   "Nice (06000)",
+   "Nice (06100)",
+   "Nice (06200)",
+   "Nice (06300)",
+   "Rimplas (06420)",
+   "Roquebillière (06450)",
+   "Roubion (06420)",
+   "Roure (06420)",
+   "Saint-Blaise (Alpes-Maritimes) (06670)",
+   "Saint-Dalmas-le-Selvage (06660)",
+   "Saint-Etienne-de-Tinée (06660)",
+   "Saint-Martin-Vésubie (06450)",
+   "Saint-Martin-du-Var (06670)",
+   "Saint-Sauveur-sur-Tinée (06420)",
+   "Tourrette-Levens (06690)",
+   "Utelle (06450)",
+   "Valdeblore (06420)",
+   "Venanson (06450)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Non inscrit",
+  "nom": "D'Intorni",
+  "numCirco": "5",
+  "numDepartement": "06",
+  "prenom": "Christelle"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 6,
+   "curRadiusIndex": 1,
+   "id": "ai6ri1",
+   "no": 165,
+   "polar": {
+    "angle": 0.8195459096321199,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": 0.25595742870699534,
+    "y": -0.2741176715074525
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793322",
+ "uid": "PA793322"
+}

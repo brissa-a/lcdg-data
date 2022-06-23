@@ -1,0 +1,48 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795966.jpg",
+  "nosiege": "516"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@stephan1Rambaud/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795966",
+  "civ": "M.",
+  "communes": [
+   "Carqueiranne (83320)",
+   "Hyères (83400)",
+   "La Crau (83260)",
+   "La Garde (Var) (83130)",
+   "La Londe-les-Maures (83250)",
+   "Le Pradet (83220)"
+  ],
+  "departement": "Var",
+  "group": "Non inscrit",
+  "nom": "Rambaud",
+  "numCirco": "3",
+  "numDepartement": "83",
+  "prenom": "Stéphane"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 43,
+   "curRadiusIndex": 6,
+   "id": "ai43ri6",
+   "no": 516,
+   "polar": {
+    "angle": 2.5488393227237944,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": -0.5702164087470137,
+    "y": -0.3841455856362521
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795966",
+ "uid": "PA795966"
+}

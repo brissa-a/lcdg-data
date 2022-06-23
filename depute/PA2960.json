@@ -12,9 +12,9 @@
   "nom": "Éric Woerth"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/2960.jpg",
-  "nosiege": "268"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/2960.jpg",
+  "nosiege": "642"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -107,7 +107,7 @@
    "Vineuil-Saint-Firmin (60500)"
   ],
   "departement": "Oise",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Woerth",
   "numCirco": "4",
   "numDepartement": "60",
@@ -116,17 +116,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_eric-woerth",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
-   "curRadiusIndex": 6,
-   "id": "ai20ri6",
-   "no": 268,
+   "curAngleIndex": 73,
+   "curRadiusIndex": 11,
+   "id": "ai73ri11",
+   "no": 642,
    "polar": {
-    "angle": 1.1855066617319974,
-    "radius": 0.6875
+    "angle": 2.902990679899429,
+    "radius": 1
    },
    "pos": {
-    "x": 0.2583814627035388,
-    "y": -0.6372250655346097
+    "x": -0.9716693400404101,
+    "y": -0.23639116602904836
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Ian Boucard"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721816.jpg",
-  "nosiege": "39"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721816.jpg",
+  "nosiege": "85"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -88,7 +88,7 @@
    "Vézelois (90400)"
   ],
   "departement": "Territoire de belfort",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Boucard",
   "numCirco": "1",
   "numDepartement": "90",
@@ -97,17 +97,17 @@
  "datan": "https://datan.fr/deputes/territoire-de-belfort-90/depute_ian-boucard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 8,
-   "id": "ai1ri8",
-   "no": 39,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 3,
+   "id": "ai4ri3",
+   "no": 85,
    "polar": {
-    "angle": 0.046889442590892436,
-    "radius": 0.8125
+    "angle": 0.39269908169872414,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.8116069743321407,
-    "y": -0.038091242761541466
+    "x": 0.46193976625564337,
+    "y": -0.19137954622145123
    }
   }
  },

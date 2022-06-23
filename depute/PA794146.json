@@ -1,0 +1,55 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794146.jpg",
+  "nosiege": "327"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/JLaernoes/",
+  "twitter_link": "https://twitter.com/@laernoes/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794146",
+  "civ": "Mme",
+  "communes": [
+   "Bouaye (44830)",
+   "Bouguenais (44340)",
+   "Brains (44830)",
+   "Nantes (44000)",
+   "Nantes (44100)",
+   "Nantes (44200)",
+   "Nantes (44300)",
+   "Pont-Saint-Martin (44860)",
+   "Rezé (44400)",
+   "Saint-Aignan-Grandlieu (44860)",
+   "Saint-Léger-les-Vignes (44710)",
+   "Saint-Sébastien-sur-Loire (44230)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "Non inscrit",
+  "nom": "Laernoes",
+  "numCirco": "4",
+  "numDepartement": "44",
+  "prenom": "Julie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 39,
+   "curRadiusIndex": 11,
+   "id": "ai39ri11",
+   "no": 327,
+   "polar": {
+    "angle": 1.5509128289873664,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.019882187665070074,
+    "y": -1
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794146",
+ "uid": "PA794146"
+}

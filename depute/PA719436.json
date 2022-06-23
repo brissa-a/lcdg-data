@@ -13,11 +13,12 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719436.jpg",
-  "nosiege": "58"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719436.jpg",
+  "nosiege": "421"
  },
  "an_www_pic": {},
  "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/NMeizonnet/",
   "twitter_link": "https://twitter.com/@NMeizonnet/"
  },
  "circo": {
@@ -70,17 +71,17 @@
  "datan": "https://datan.fr/deputes/gard-30/depute_nicolas-meizonnet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 10,
-   "id": "ai2ri10",
-   "no": 58,
+   "curAngleIndex": 29,
+   "curRadiusIndex": 4,
+   "id": "ai29ri4",
+   "no": 421,
    "polar": {
-    "angle": 0.07757018897752575,
-    "radius": 0.9375
+    "angle": 2.3360560757462565,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.9346808823448051,
-    "y": -0.07266350779222838
+    "x": -0.3896574488491496,
+    "y": -0.4057565826278811
    }
   }
  },

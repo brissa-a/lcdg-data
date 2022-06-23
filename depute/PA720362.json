@@ -12,12 +12,15 @@
   "nom": "Belkhir Belhaddad"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720362.jpg",
-  "nosiege": "472"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720362.jpg",
+  "nosiege": "50"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/belhaddadbelkhir/",
+  "twitter_link": "https://twitter.com/@b_belhaddad/"
+ },
  "circo": {
   "acteurId": "OMC_PA720362",
   "civ": "M.",
@@ -54,7 +57,7 @@
    "Woippy (57140)"
   ],
   "departement": "Moselle",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Belhaddad",
   "numCirco": "1",
   "numDepartement": "57",
@@ -63,17 +66,17 @@
  "datan": "https://datan.fr/deputes/moselle-57/depute_belkhir-belhaddad",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 59,
-   "curRadiusIndex": 10,
-   "id": "ai59ri10",
-   "no": 472,
+   "curAngleIndex": 3,
+   "curRadiusIndex": 9,
+   "id": "ai3ri9",
+   "no": 50,
    "polar": {
-    "angle": 2.2883205748370097,
-    "radius": 0.9375
+    "angle": 0.13659098493868665,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.616426283033497,
-    "y": -0.7064858040185078
+    "x": 0.8668502027817894,
+    "y": -0.11916937419681439
    }
   }
  },

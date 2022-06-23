@@ -1,0 +1,40 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/757225.jpg",
+  "nosiege": "568"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA757225",
+  "civ": "M.",
+  "communes": [
+   "Wallis-Et-Futuna"
+  ],
+  "departement": "Wallis-et-futuna",
+  "group": "Non inscrit",
+  "nom": "Seo",
+  "numCirco": "1",
+  "numDepartement": "986",
+  "prenom": "Mikaele"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 66,
+   "curRadiusIndex": 11,
+   "id": "ai66ri11",
+   "no": 568,
+   "polar": {
+    "angle": 2.6246217105940044,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.8693202744395825,
+    "y": -0.49434690628335537
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA757225",
+ "uid": "PA757225"
+}

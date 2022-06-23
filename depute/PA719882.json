@@ -12,9 +12,9 @@
   "nom": "Marjolaine Meynier-Millefert"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719882.jpg",
-  "nosiege": "279"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719882.jpg",
+  "nosiege": "436"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -77,7 +77,7 @@
    "Villefontaine (38090)"
   ],
   "departement": "Isère",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Meynier-Millefert",
   "numCirco": "10",
   "numDepartement": "38",
@@ -86,17 +86,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_marjolaine-meyniermillefert",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
+   "curAngleIndex": 34,
    "curRadiusIndex": 7,
-   "id": "ai23ri7",
-   "no": 279,
+   "id": "ai34ri7",
+   "no": 436,
    "polar": {
-    "angle": 1.363332660991797,
+    "angle": 2.015361324944396,
     "radius": 0.75
    },
    "pos": {
-    "x": 0.1544839640558238,
-    "y": -0.73406247152216
+    "x": -0.3225489017073904,
+    "y": -0.6772322411271302
    }
   }
  },

@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794906.jpg",
+  "nosiege": "13"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/GabrielAmard/",
+  "twitter_link": "https://twitter.com/@gabrielamard/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794906",
+  "civ": "M.",
+  "communes": [
+   "Villeurbanne (69100)"
+  ],
+  "departement": "Rhône",
+  "group": "Non inscrit",
+  "nom": "Amard",
+  "numCirco": "6",
+  "numDepartement": "69",
+  "prenom": "Gabriel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 1,
+   "curRadiusIndex": 4,
+   "id": "ai1ri4",
+   "no": 13,
+   "polar": {
+    "angle": 0.08055365778435367,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.560675985825493,
+    "y": -0.04527139370996241
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794906",
+ "uid": "PA794906"
+}

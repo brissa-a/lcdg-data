@@ -12,14 +12,14 @@
   "nom": "Xavier Roseren"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721458.jpg",
-  "nosiege": "394"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721458.jpg",
+  "nosiege": "540"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/x.roseren/",
-  "twitter_link": "https://twitter.com/@roserenxavier/"
+  "twitter_link": "https://twitter.com/@XavierRoseren/"
  },
  "circo": {
   "acteurId": "OMC_PA721458",
@@ -60,7 +60,7 @@
    "Verchaix (74440)"
   ],
   "departement": "Haute-savoie",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Roseren",
   "numCirco": "6",
   "numDepartement": "74",
@@ -69,17 +69,17 @@
  "datan": "https://datan.fr/deputes/haute-savoie-74/depute_xavier-roseren",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 50,
-   "curRadiusIndex": 10,
-   "id": "ai50ri10",
-   "no": 394,
+   "curAngleIndex": 53,
+   "curRadiusIndex": 9,
+   "id": "ai53ri9",
+   "no": 540,
    "polar": {
-    "angle": 1.9392547244381437,
-    "radius": 0.9375
+    "angle": 2.4131074005834643,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.33766661700441575,
-    "y": -0.8747513854937565
+    "x": -0.6529107251167248,
+    "y": -0.5826377748781892
    }
   }
  },

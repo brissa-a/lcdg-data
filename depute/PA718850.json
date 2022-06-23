@@ -12,9 +12,9 @@
   "nom": "Pierre Cordier"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718850.jpg",
-  "nosiege": "9"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718850.jpg",
+  "nosiege": "150"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -99,7 +99,7 @@
    "Warnécourt (08090)"
   ],
   "departement": "Ardennes",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Cordier",
   "numCirco": "2",
   "numDepartement": "08",
@@ -108,17 +108,17 @@
  "datan": "https://datan.fr/deputes/ardennes-08/depute_pierre-cordier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 3,
-   "id": "ai1ri3",
-   "no": 9,
+   "curAngleIndex": 9,
+   "curRadiusIndex": 11,
+   "id": "ai9ri11",
+   "no": 150,
    "polar": {
-    "angle": 0.09817477042468103,
-    "radius": 0.5
+    "angle": 0.3579029605355461,
+    "radius": 1
    },
    "pos": {
-    "x": 0.49759236333609846,
-    "y": -0.04901825961542947
+    "x": 0.9366334982687279,
+    "y": -0.3503801072801948
    }
   }
  },

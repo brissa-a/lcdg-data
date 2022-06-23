@@ -12,9 +12,9 @@
   "nom": "Stéphane Viry"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721474.jpg",
-  "nosiege": "35"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721474.jpg",
+  "nosiege": "633"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -105,7 +105,7 @@
    "Zincourt (88330)"
   ],
   "departement": "Vosges",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Viry",
   "numCirco": "1",
   "numDepartement": "88",
@@ -114,17 +114,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_stephane-viry",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 7,
-   "id": "ai4ri7",
-   "no": 35,
+   "curAngleIndex": 75,
+   "curRadiusIndex": 10,
+   "id": "ai75ri10",
+   "no": 633,
    "polar": {
-    "angle": 0.2371013323463995,
-    "radius": 0.75
+    "angle": 2.908882086657216,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.729017185560308,
-    "y": -0.17619936370447553
+    "x": -0.9122295661685847,
+    "y": -0.21624512404442986
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Olivier Becht"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/642935.jpg",
-  "nosiege": "223"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642935.jpg",
+  "nosiege": "49"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -38,7 +38,7 @@
    "Zimmersheim (68440)"
   ],
   "departement": "Haut-rhin",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Becht",
   "numCirco": "5",
   "numDepartement": "68",
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/haut-rhin-68/depute_olivier-becht",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 10,
-   "id": "ai19ri10",
-   "no": 223,
+   "curAngleIndex": 2,
+   "curRadiusIndex": 9,
+   "id": "ai2ri9",
+   "no": 49,
    "polar": {
-    "angle": 0.7369167952864947,
-    "radius": 0.9375
+    "angle": 0.0910606566257911,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.6942600122896918,
-    "y": -0.6301319275938188
+    "x": 0.8713747372150898,
+    "y": -0.0795837358556067
    }
   }
  },

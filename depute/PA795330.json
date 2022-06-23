@@ -1,0 +1,69 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795330.jpg",
+  "nosiege": "118"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795330",
+  "civ": "Mme",
+  "communes": [
+   "Bahamas",
+   "Barbade",
+   "Belize",
+   "Chili",
+   "Colombie",
+   "Costa Rica",
+   "Cuba",
+   "Dominique",
+   "Equateur",
+   "Grenade",
+   "Guatemala",
+   "Guyana",
+   "Haïti",
+   "Honduras",
+   "Jamaïque",
+   "Mexique",
+   "Nicaragua",
+   "Panama",
+   "Paraguay",
+   "Pérou",
+   "République dominicaine",
+   "Saint-Christophe-et-Niévès",
+   "Saint-Vincent-et-les-Grenadines",
+   "Sainte-Lucie",
+   "Salvador ; Bolivie",
+   "Suriname ; Argentine",
+   "Trinité-et-Tobago",
+   "Uruguay ; Antigua-et-Barbuda",
+   "Venezuela ; Brésil"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Non inscrit",
+  "nom": "Caroit",
+  "numCirco": "2",
+  "numDepartement": "099",
+  "prenom": "Eléonore"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 9,
+   "curRadiusIndex": 8,
+   "id": "ai9ri8",
+   "no": 118,
+   "polar": {
+    "angle": 0.42200498331803193,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7412190115402286,
+    "y": -0.3328579638836678
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795330",
+ "uid": "PA795330"
+}

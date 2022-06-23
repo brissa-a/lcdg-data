@@ -12,9 +12,9 @@
   "nom": "Philippe Naillet"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643157.jpg",
-  "nosiege": "505"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643157.jpg",
+  "nosiege": "452"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -27,7 +27,7 @@
    "Saint-Denis (97490)"
   ],
   "departement": "La réunion",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Naillet",
   "numCirco": "1",
   "numDepartement": "974",
@@ -36,17 +36,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_philippe-naillet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 4,
-   "id": "ai32ri4",
-   "no": 505,
+   "curAngleIndex": 50,
+   "curRadiusIndex": 8,
+   "id": "ai50ri8",
+   "no": 452,
    "polar": {
-    "angle": 2.5777170490993173,
-    "radius": 0.5625
+    "angle": 2.344472129544622,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.4754194231183844,
-    "y": -0.30069646593645033
+    "x": -0.5677501600703089,
+    "y": -0.5813343252248397
    }
   }
  },

@@ -12,12 +12,15 @@
   "nom": "Jean-Luc Fugit"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722366.jpg",
-  "nosiege": "374"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722366.jpg",
+  "nosiege": "233"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/@jeanlucfugit/",
+  "twitter_link": "https://twitter.com/@Jean_LucFUGIT/"
+ },
  "circo": {
   "acteurId": "OMC_PA722366",
   "civ": "M.",
@@ -64,7 +67,7 @@
    "Tupin-et-Semons (69420)"
   ],
   "departement": "Rhône",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Fugit",
   "numCirco": "11",
   "numDepartement": "69",
@@ -73,17 +76,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_jeanluc-fugit",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 35,
-   "curRadiusIndex": 9,
-   "id": "ai35ri9",
-   "no": 374,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 10,
+   "id": "ai28ri10",
+   "no": 233,
    "polar": {
-    "angle": 1.5935614909513443,
-    "radius": 0.875
+    "angle": 1.0859826456853605,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.01991779812409234,
-    "y": -0.8749462250576678
+    "x": 0.43691579972113026,
+    "y": -0.8296281776457519
    }
   }
  },

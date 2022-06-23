@@ -1,0 +1,53 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794650.jpg",
+  "nosiege": "593"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794650",
+  "civ": "M.",
+  "communes": [
+   "Annay (Pas-de-Calais) (62880)",
+   "Avion (62210)",
+   "Billy-Montigny (62420)",
+   "Estevelles (62880)",
+   "Fouquières-lès-Lens (62740)",
+   "Harnes (62440)",
+   "Lens (62300)",
+   "Loison-sous-Lens (62218)",
+   "Loos-en-Gohelle (62750)",
+   "Méricourt (62680)",
+   "Noyelles-sous-Lens (62221)",
+   "Pont-à-Vendin (62880)",
+   "Sallaumines (62430)"
+  ],
+  "departement": "Pas-de-calais",
+  "group": "Non inscrit",
+  "nom": "Tellier",
+  "numCirco": "3",
+  "numDepartement": "62",
+  "prenom": "Jean-Marc"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 43,
+   "curRadiusIndex": 5,
+   "id": "ai43ri5",
+   "no": 593,
+   "polar": {
+    "angle": 2.874223066050236,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.6027932344089852,
+    "y": -0.16515477235137935
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794650",
+ "uid": "PA794650"
+}

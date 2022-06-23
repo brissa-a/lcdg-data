@@ -1,0 +1,42 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796018.jpg",
+  "nosiege": "571"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA796018",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 20eme arrondissement (75020)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Simonnet",
+  "numCirco": "15",
+  "numDepartement": "75",
+  "prenom": "Danielle"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 69,
+   "curRadiusIndex": 11,
+   "id": "ai69ri11",
+   "no": 571,
+   "polar": {
+    "angle": 2.743922697439187,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.9219658547282068,
+    "y": -0.3873477417678206
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796018",
+ "uid": "PA796018"
+}

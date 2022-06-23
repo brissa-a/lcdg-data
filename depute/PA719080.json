@@ -12,9 +12,9 @@
   "nom": "Sandra Marsaud"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719080.jpg",
-  "nosiege": "372"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719080.jpg",
+  "nosiege": "402"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -179,7 +179,7 @@
    "Yviers (16210)"
   ],
   "departement": "Charente",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Marsaud",
   "numCirco": "2",
   "numDepartement": "16",
@@ -188,17 +188,17 @@
  "datan": "https://datan.fr/deputes/charente-16/depute_sandra-marsaud",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 41,
-   "curRadiusIndex": 8,
-   "id": "ai41ri8",
-   "no": 372,
+   "curAngleIndex": 45,
+   "curRadiusIndex": 11,
+   "id": "ai45ri11",
+   "no": 402,
    "polar": {
-    "angle": 1.9224671462265899,
-    "radius": 0.8125
+    "angle": 1.7895148026777303,
+    "radius": 1
    },
    "pos": {
-    "x": -0.2798793158560205,
-    "y": -0.7629245737762349
+    "x": -0.21697880810631803,
+    "y": -0.9763693135657643
    }
   }
  },

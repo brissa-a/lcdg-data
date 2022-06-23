@@ -12,9 +12,9 @@
   "nom": "Cyrille Isaac-Sibille"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722374.jpg",
-  "nosiege": "183"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722374.jpg",
+  "nosiege": "297"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -35,7 +35,7 @@
    "Vernaison (69390)"
   ],
   "departement": "Rhône",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Isaac-Sibille",
   "numCirco": "12",
   "numDepartement": "69",
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_cyrille-isaacsibille",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
-   "curRadiusIndex": 5,
-   "id": "ai14ri5",
-   "no": 183,
+   "curAngleIndex": 29,
+   "curRadiusIndex": 9,
+   "id": "ai29ri9",
+   "no": 297,
    "polar": {
-    "angle": 0.935793556388449,
-    "radius": 0.625
+    "angle": 1.320379521073971,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.3707373404558471,
-    "y": -0.5032682643582611
+    "x": 0.21683181274378743,
+    "y": -0.8478756656720823
    }
   }
  },

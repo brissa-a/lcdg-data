@@ -1,0 +1,68 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793744.jpg",
+  "nosiege": "577"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793744",
+  "civ": "Mme",
+  "communes": [
+   "Azas (31380)",
+   "Bazus (31380)",
+   "Bessières (31660)",
+   "Buzet-sur-Tarn (31660)",
+   "Castelmaurou (31180)",
+   "Garidech (31380)",
+   "Gémil (31380)",
+   "L'Union (31240)",
+   "Lapeyrouse-Fossat (31180)",
+   "Montastruc-la-Conseillère (31380)",
+   "Montberon (31140)",
+   "Montjoire (31380)",
+   "Montpitol (31380)",
+   "Montrabé (31850)",
+   "Paulhac (Haute-Garonne) (31380)",
+   "Pechbonnieu (31140)",
+   "Roquesérière (31380)",
+   "Rouffiac-Tolosan (31180)",
+   "Saint-Geniès-Bellevue (31180)",
+   "Saint-Jean (31240)",
+   "Saint-Jean-Lherm (31380)",
+   "Saint-Loup-Cammas (31140)",
+   "Toulouse (31000)",
+   "Toulouse (31100)",
+   "Toulouse (31200)",
+   "Toulouse (31300)",
+   "Toulouse (31400)",
+   "Toulouse (31500)"
+  ],
+  "departement": "Haute-garonne",
+  "group": "Non inscrit",
+  "nom": "Stambach-Terrenoir",
+  "numCirco": "2",
+  "numDepartement": "31",
+  "prenom": "Anne"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 22,
+   "curRadiusIndex": 1,
+   "id": "ai22ri1",
+   "no": 577,
+   "polar": {
+    "angle": 3.0050016686511065,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": -0.37150722976362405,
+    "y": -0.05107258894149191
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793744",
+ "uid": "PA793744"
+}

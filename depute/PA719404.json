@@ -12,9 +12,9 @@
   "nom": "Didier Le Gac"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719404.jpg",
-  "nosiege": "333"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719404.jpg",
+  "nosiege": "342"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -59,7 +59,7 @@
    "Tréouergat (29290)"
   ],
   "departement": "Finistère",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Le Gac",
   "numCirco": "3",
   "numDepartement": "29",
@@ -68,17 +68,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_didier-legac",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 3,
-   "id": "ai17ri3",
-   "no": 333,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 5,
+   "id": "ai24ri5",
+   "no": 342,
    "polar": {
-    "angle": 1.6689710972195777,
-    "radius": 0.5
+    "angle": 1.6042175252373412,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.04900857016478032,
-    "y": -0.4976907419795018
+    "x": -0.020884360629796577,
+    "y": -0.6247744766458649
    }
   }
  },

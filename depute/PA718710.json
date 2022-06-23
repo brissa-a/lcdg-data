@@ -12,9 +12,9 @@
   "nom": "Pascale Boyer"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718710.jpg",
-  "nosiege": "315"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718710.jpg",
+  "nosiege": "95"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -105,7 +105,7 @@
    "Vitrolles (Hautes-Alpes) (05110)"
   ],
   "departement": "Hautes-alpes",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Boyer",
   "numCirco": "1",
   "numDepartement": "05",
@@ -114,17 +114,17 @@
  "datan": "https://datan.fr/deputes/hautes-alpes-05/depute_pascale-boyer",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 40,
-   "curRadiusIndex": 10,
-   "id": "ai40ri10",
-   "no": 315,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 5,
+   "id": "ai7ri5",
+   "no": 95,
    "polar": {
-    "angle": 1.5514037795505151,
-    "radius": 0.9375
+    "angle": 0.4678967781942245,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.018179373536085407,
-    "y": -0.9375090399229573
+    "x": 0.5578242724124258,
+    "y": -0.2819370550725669
    }
   }
  },

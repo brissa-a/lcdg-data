@@ -12,9 +12,9 @@
   "nom": "Sophie Panonacle"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719632.jpg",
-  "nosiege": "281"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719632.jpg",
+  "nosiege": "466"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -38,7 +38,7 @@
    "Mios (33380)"
   ],
   "departement": "Gironde",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Panonacle",
   "numCirco": "8",
   "numDepartement": "33",
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_sophie-panonacle",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 25,
-   "curRadiusIndex": 7,
-   "id": "ai25ri7",
-   "no": 281,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 10,
+   "id": "ai54ri10",
+   "no": 466,
    "polar": {
-    "angle": 1.4818833271649967,
-    "radius": 0.75
+    "angle": 2.0943951023931953,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.06659692149220117,
-    "y": -0.7471850782076256
+    "x": -0.4687499999999998,
+    "y": -0.8120593360035795
    }
   }
  },

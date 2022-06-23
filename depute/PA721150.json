@@ -12,12 +12,13 @@
   "nom": "Alexandre Holroyd"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721150.jpg",
-  "nosiege": "298"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721150.jpg",
+  "nosiege": "292"
  },
  "an_www_pic": {},
  "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/AlexandreHolroyd/",
   "twitter_link": "https://twitter.com/@alexIholroyd/"
  },
  "circo": {
@@ -33,7 +34,7 @@
    "Suède"
   ],
   "departement": "Français établis hors de france",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Holroyd",
   "numCirco": "3",
   "numDepartement": "099",
@@ -42,17 +43,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_alexandre-holroyd",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 9,
-   "id": "ai30ri9",
-   "no": 298,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 8,
+   "id": "ai32ri8",
+   "no": 292,
    "polar": {
-    "angle": 1.3659098493868664,
-    "radius": 0.875
+    "angle": 1.500462162908558,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.1780240114210547,
-    "y": -0.8568679540075245
+    "x": 0.05709940351805057,
+    "y": -0.8106513940469662
    }
   }
  },

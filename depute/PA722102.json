@@ -12,9 +12,9 @@
   "nom": "Annie Vidal"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722102.jpg",
-  "nosiege": "433"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722102.jpg",
+  "nosiege": "623"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -114,7 +114,7 @@
    "Ymare (76520)"
   ],
   "departement": "Seine-maritime",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Vidal",
   "numCirco": "2",
   "numDepartement": "76",
@@ -123,17 +123,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_annie-vidal",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 39,
-   "curRadiusIndex": 6,
-   "id": "ai39ri6",
-   "no": 433,
+   "curAngleIndex": 62,
+   "curRadiusIndex": 9,
+   "id": "ai62ri9",
+   "no": 623,
    "polar": {
-    "angle": 2.311737990377395,
-    "radius": 0.6875
+    "angle": 2.822880355399524,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.46405081354376976,
-    "y": -0.5073606694413756
+    "x": -0.8309347365377793,
+    "y": -0.27423017912933567
    }
   }
  },

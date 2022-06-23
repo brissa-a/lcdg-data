@@ -12,9 +12,9 @@
   "nom": "Fabienne Colboc"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719814.jpg",
-  "nosiege": "538"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719814.jpg",
+  "nosiege": "145"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -102,7 +102,7 @@
    "Villandry (37510)"
   ],
   "departement": "Indre-et-loire",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Colboc",
   "numCirco": "4",
   "numDepartement": "37",
@@ -111,17 +111,17 @@
  "datan": "https://datan.fr/deputes/indre-et-loire-37/depute_fabienne-colboc",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 59,
-   "curRadiusIndex": 8,
-   "id": "ai59ri8",
-   "no": 538,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 10,
+   "id": "ai16ri10",
+   "no": 145,
    "polar": {
-    "angle": 2.7664771128626535,
-    "radius": 0.8125
+    "angle": 0.620561511820206,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.7560030532495079,
-    "y": -0.2977426358669933
+    "x": 0.7627050658715321,
+    "y": -0.5452565978295911
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Robin Reda"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721678.jpg",
-  "nosiege": "51"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721678.jpg",
+  "nosiege": "526"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -33,7 +33,7 @@
    "Viry-Chatillon (91170)"
   ],
   "departement": "Essonne",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Reda",
   "numCirco": "7",
   "numDepartement": "91",
@@ -42,17 +42,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_robin-reda",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 9,
-   "id": "ai4ri9",
-   "no": 51,
+   "curAngleIndex": 45,
+   "curRadiusIndex": 7,
+   "id": "ai45ri7",
+   "no": 526,
    "polar": {
-    "angle": 0.1821213132515822,
-    "radius": 0.875
+    "angle": 2.667389988896994,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.8605289889295243,
-    "y": -0.15850801581205579
+    "x": -0.6672428182460604,
+    "y": -0.34253963793427705
    }
   }
  },

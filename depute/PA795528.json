@@ -1,0 +1,43 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795528.jpg",
+  "nosiege": "537"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795528",
+  "civ": "M.",
+  "communes": [
+   "Guyancourt (78280)",
+   "Montigny-le-Bretonneux (78180)",
+   "Versailles (78000)"
+  ],
+  "departement": "Yvelines",
+  "group": "Non inscrit",
+  "nom": "Rodwell",
+  "numCirco": "1",
+  "numDepartement": "78",
+  "prenom": "Charles"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 58,
+   "curRadiusIndex": 8,
+   "id": "ai58ri8",
+   "no": 537,
+   "polar": {
+    "angle": 2.7195876702717614,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.7412190115402287,
+    "y": -0.3328579638836678
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795528",
+ "uid": "PA795528"
+}

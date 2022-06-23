@@ -1,0 +1,71 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795974.jpg",
+  "nosiege": "381"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Ph%20Lottiaux/",
+  "twitter_link": "https://twitter.com/@phlottiaux/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795974",
+  "civ": "M.",
+  "communes": [
+   "Besse-sur-Issole (83890)",
+   "Bormes-les-Mimosas (83230)",
+   "Cabasse (83340)",
+   "Cavalaire-sur-Mer (83240)",
+   "Cogolin (83310)",
+   "Collobrières (83610)",
+   "Flassans-sur-Issole (83340)",
+   "Gassin (83580)",
+   "Gonfaron (83590)",
+   "Grimaud (83310)",
+   "La Croix-Valmer (83420)",
+   "La Garde-Freinet (83680)",
+   "La Môle (83310)",
+   "Le Cannet-des-Maures (83340)",
+   "Le Lavandou (83980)",
+   "Le Luc (83340)",
+   "Le Thoronet (83340)",
+   "Les Arcs (83460)",
+   "Les Mayons (83340)",
+   "Lorgues (83510)",
+   "Pignans (83790)",
+   "Plan-de-la-Tour (83120)",
+   "Ramatuelle (83350)",
+   "Rayol-Canadel-sur-Mer (83820)",
+   "Saint-Tropez (83990)",
+   "Sainte-Maxime (83120)",
+   "Taradeau (83460)",
+   "Vidauban (83550)"
+  ],
+  "departement": "Var",
+  "group": "Non inscrit",
+  "nom": "Lottiaux",
+  "numCirco": "4",
+  "numDepartement": "83",
+  "prenom": "Philippe"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 41,
+   "curRadiusIndex": 9,
+   "id": "ai41ri9",
+   "no": 381,
+   "polar": {
+    "angle": 1.8667434608287177,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": -0.2551901970229718,
+    "y": -0.8371260255433711
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795974",
+ "uid": "PA795974"
+}

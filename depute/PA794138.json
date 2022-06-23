@@ -1,0 +1,53 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794138.jpg",
+  "nosiege": "15"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@SegoleneAmiot/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794138",
+  "civ": "Mme",
+  "communes": [
+   "Cordemais (44360)",
+   "Couëron (44220)",
+   "Indre (44610)",
+   "Le Temple-de-Bretagne (44360)",
+   "Nantes (44000)",
+   "Nantes (44100)",
+   "Nantes (44200)",
+   "Nantes (44300)",
+   "Saint-Etienne-de-Montluc (44360)",
+   "Saint-Herblain (44800)",
+   "Vigneux-de-Bretagne (44360)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "Non inscrit",
+  "nom": "Amiot",
+  "numCirco": "3",
+  "numDepartement": "44",
+  "prenom": "Ségolène"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 3,
+   "curRadiusIndex": 4,
+   "id": "ai3ri4",
+   "no": 15,
+   "polar": {
+    "angle": 0.241660973353061,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.5461547723021543,
+    "y": -0.13464167581276787
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794138",
+ "uid": "PA794138"
+}

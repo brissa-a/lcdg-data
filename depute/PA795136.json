@@ -1,0 +1,89 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795136.jpg",
+  "nosiege": "155"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@jfcoulomme/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795136",
+  "civ": "M.",
+  "communes": [
+   "Aillon-le-Jeune (73340)",
+   "Aillon-le-Vieux (73340)",
+   "Arith (73340)",
+   "Barby (Savoie) (73230)",
+   "Bassens (Savoie) (73000)",
+   "Bellecombe-en-Bauges (73340)",
+   "Bonvillard (73460)",
+   "Chambéry (73000)",
+   "Cléry (Savoie) (73460)",
+   "Cognin (73160)",
+   "Cruet (73800)",
+   "Curienne (73190)",
+   "Doucy-en-Bauges (73630)",
+   "Ecole (73630)",
+   "Frontenex (73460)",
+   "Fréterive (73250)",
+   "Grésy-sur-Isère (73460)",
+   "Jacob-Bellecombette (73000)",
+   "Jarsy (73630)",
+   "La Compôte (73630)",
+   "La Motte-en-Bauges (73340)",
+   "La Thuile (73190)",
+   "Le Châtelard (73630)",
+   "Le Noyer (Savoie) (73340)",
+   "Les Déserts (73230)",
+   "Lescheraines (73340)",
+   "Montagnole (73000)",
+   "Montailleur (73460)",
+   "Notre-Dame-des-Millières (73460)",
+   "Plancherine (73200)",
+   "Puygros (73190)",
+   "Saint-Alban-Leysse (73230)",
+   "Saint-Cassin (73160)",
+   "Saint-François-de-Sales (73340)",
+   "Saint-Jean-d'Arvey (73230)",
+   "Saint-Jean-de-la-Porte (73250)",
+   "Saint-Pierre-d'Albigny (73250)",
+   "Saint-Sulpice (Savoie) (73160)",
+   "Saint-Vital (73460)",
+   "Sainte-Hélène-sur-Isère (73460)",
+   "Sainte-Reine (Savoie) (73630)",
+   "Sonnaz (73000)",
+   "Thoiry (Savoie) (73230)",
+   "Tournon (73460)",
+   "Verel-Pragondran (73230)",
+   "Verrens-Arvey (73460)",
+   "Vimines (73160)"
+  ],
+  "departement": "Savoie",
+  "group": "Non inscrit",
+  "nom": "Coulomme",
+  "numCirco": "4",
+  "numDepartement": "73",
+  "prenom": "Jean-François"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 14,
+   "curRadiusIndex": 11,
+   "id": "ai14ri11",
+   "no": 155,
+   "polar": {
+    "angle": 0.5567379386108494,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.8489833620913639,
+    "y": -0.5285240519234891
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795136",
+ "uid": "PA795136"
+}

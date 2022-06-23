@@ -13,8 +13,8 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720952.jpg",
-  "nosiege": "648"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720952.jpg",
+  "nosiege": "581"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -46,17 +46,17 @@
  "datan": "https://datan.fr/deputes/val-doise-95/depute_aurelien-tache",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 77,
-   "curRadiusIndex": 11,
-   "id": "ai77ri11",
-   "no": 648,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 2,
+   "id": "ai28ri2",
+   "no": 581,
    "polar": {
-    "angle": 3.062058662359672,
-    "radius": 1
+    "angle": 3.0332618724315243,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.9968388390146958,
-    "y": -0.07946587500949939
+    "x": -0.4349353562550323,
+    "y": -0.047311422620262465
    }
   }
  },

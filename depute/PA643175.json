@@ -12,9 +12,9 @@
   "nom": "Stella Dupont"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643175.jpg",
-  "nosiege": "527"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643175.jpg",
+  "nosiege": "197"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -55,7 +55,7 @@
    "Val-du-Layon (49750)"
   ],
   "departement": "Maine-et-loire",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Dupont",
   "numCirco": "2",
   "numDepartement": "49",
@@ -64,17 +64,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_stella-dupont",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 46,
+   "curAngleIndex": 15,
    "curRadiusIndex": 7,
-   "id": "ai46ri7",
-   "no": 527,
+   "id": "ai15ri7",
+   "no": 197,
    "polar": {
-    "angle": 2.726665321983594,
+    "angle": 0.8891299962989981,
     "radius": 0.75
    },
    "pos": {
-    "x": -0.6863592129322639,
-    "y": -0.3024023479076228
+    "x": 0.4725658826862833,
+    "y": -0.582508041537041
    }
   }
  },

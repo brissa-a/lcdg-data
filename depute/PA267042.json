@@ -12,9 +12,9 @@
   "nom": "Yannick Favennec-Bécot"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267042.jpg",
-  "nosiege": "187"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267042.jpg",
+  "nosiege": "214"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -125,7 +125,7 @@
    "Vieuvy (53120)"
   ],
   "departement": "Mayenne",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Favennec-Bécot",
   "numCirco": "3",
   "numDepartement": "53",
@@ -134,17 +134,17 @@
  "datan": "https://datan.fr/deputes/mayenne-53/depute_yannick-favennecbecot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 6,
-   "id": "ai13ri6",
-   "no": 187,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 9,
+   "id": "ai18ri9",
+   "no": 214,
    "polar": {
-    "angle": 0.7705793301257984,
-    "radius": 0.6875
+    "angle": 0.8195459096321199,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.4932862392179777,
-    "y": -0.4789735112849187
+    "x": 0.5972340003163223,
+    "y": -0.6396079001840557
    }
   }
  },

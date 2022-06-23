@@ -12,9 +12,9 @@
   "nom": "Guillaume Gouffier-Cha"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721296.jpg",
-  "nosiege": "420"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721296.jpg",
+  "nosiege": "259"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -30,7 +30,7 @@
    "Vincennes (94300)"
   ],
   "departement": "Val-de-marne",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Gouffier-Cha",
   "numCirco": "6",
   "numDepartement": "94",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_guillaume-gouffiercha",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
+   "curAngleIndex": 17,
    "curRadiusIndex": 4,
-   "id": "ai28ri4",
-   "no": 420,
+   "id": "ai17ri4",
+   "no": 259,
    "polar": {
-    "angle": 2.2555024179619028,
+    "angle": 1.3694121823340124,
     "radius": 0.5625
    },
    "pos": {
-    "x": -0.35575052377239963,
-    "y": -0.4358014359981152
+    "x": 0.11251445274902501,
+    "y": -0.5512412057496654
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Philippe Latombe"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721984.jpg",
-  "nosiege": "199"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721984.jpg",
+  "nosiege": "336"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -59,7 +59,7 @@
    "Venansault (85190)"
   ],
   "departement": "Vendée",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Latombe",
   "numCirco": "1",
   "numDepartement": "85",
@@ -68,17 +68,17 @@
  "datan": "https://datan.fr/deputes/vendee-85/depute_philippe-latombe",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 7,
-   "id": "ai17ri7",
-   "no": 199,
+   "curAngleIndex": 20,
+   "curRadiusIndex": 3,
+   "id": "ai20ri3",
+   "no": 336,
    "polar": {
-    "angle": 1.007680662472198,
-    "radius": 0.75
+    "angle": 1.9634954084936207,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.400367533473593,
-    "y": -0.6343223892789108
+    "x": -0.19134171618254486,
+    "y": -0.4620310960486361
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Mansour Kamardine"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267901.jpg",
-  "nosiege": "98"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267901.jpg",
+  "nosiege": "313"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,7 +40,7 @@
    "Tsingoni (97680)"
   ],
   "departement": "Mayotte",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Kamardine",
   "numCirco": "2",
   "numDepartement": "976",
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/mayotte-976/depute_mansour-kamardine",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 5,
-   "id": "ai10ri5",
-   "no": 98,
+   "curAngleIndex": 38,
+   "curRadiusIndex": 10,
+   "id": "ai38ri10",
+   "no": 313,
    "polar": {
-    "angle": 0.6684239688488922,
-    "radius": 0.625
+    "angle": 1.4738335905729893,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.49049961579916307,
-    "y": -0.3874202620524342
+    "x": 0.09076019128423046,
+    "y": -0.9332808528968785
    }
   }
  },

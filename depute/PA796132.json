@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796132.jpg",
+  "nosiege": "238"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Raquel%20Garrido/",
+  "twitter_link": "https://twitter.com/@RaquelGarridoFr/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA796132",
+  "civ": "Mme",
+  "communes": [
+   "Bobigny (93000)",
+   "Drancy (93700)",
+   "Le Bourget (93350)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Garrido",
+  "numCirco": "5",
+  "numDepartement": "93",
+  "prenom": "Raquel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 21,
+   "curRadiusIndex": 11,
+   "id": "ai21ri11",
+   "no": 238,
+   "polar": {
+    "angle": 0.8351069079162742,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.6710984283590368,
+    "y": -0.7415148371069689
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796132",
+ "uid": "PA796132"
+}

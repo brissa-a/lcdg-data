@@ -1,0 +1,47 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793306.jpg",
+  "nosiege": "511"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793306",
+  "civ": "M.",
+  "communes": [
+   "Falicon (06950)",
+   "La Trinité (Alpes-Maritimes) (06340)",
+   "Nice (06000)",
+   "Nice (06100)",
+   "Nice (06200)",
+   "Nice (06300)",
+   "Saint-André de la Roche (06730)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Non inscrit",
+  "nom": "Pradal",
+  "numCirco": "3",
+  "numDepartement": "06",
+  "prenom": "Philippe"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 39,
+   "curRadiusIndex": 5,
+   "id": "ai39ri5",
+   "no": 511,
+   "polar": {
+    "angle": 2.6068534785106796,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.5377509870375872,
+    "y": -0.31857337409205605
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793306",
+ "uid": "PA793306"
+}

@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795010.jpg",
+  "nosiege": "236"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795010",
+  "civ": "Mme",
+  "communes": [
+   "Lyon",
+   "Lyon 3eme arrondissement (69003)",
+   "Lyon 7eme arrondissement (69007)",
+   "Lyon 8eme arrondissement (69008)"
+  ],
+  "departement": "Rhône",
+  "group": "Non inscrit",
+  "nom": "Garin",
+  "numCirco": "3",
+  "numDepartement": "69",
+  "prenom": "Marie-Charlotte"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 19,
+   "curRadiusIndex": 11,
+   "id": "ai19ri11",
+   "no": 236,
+   "polar": {
+    "angle": 0.7555729166861528,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.7278788103694941,
+    "y": -0.6858413655068314
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795010",
+ "uid": "PA795010"
+}

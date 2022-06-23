@@ -12,9 +12,9 @@
   "nom": "Jean-François Portarrieu"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719528.jpg",
-  "nosiege": "616"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719528.jpg",
+  "nosiege": "503"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -71,7 +71,7 @@
    "Villeneuve-lès-Bouloc (31620)"
   ],
   "departement": "Haute-garonne",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Portarrieu",
   "numCirco": "5",
   "numDepartement": "31",
@@ -80,17 +80,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_jeanfrancois-portarrieu",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 63,
-   "curRadiusIndex": 8,
-   "id": "ai63ri8",
-   "no": 616,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 4,
+   "id": "ai30ri4",
+   "no": 503,
    "polar": {
-    "angle": 2.9540348832262233,
-    "radius": 0.8125
+    "angle": 2.41660973353061,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.7982508160864057,
-    "y": -0.1515287468342195
+    "x": -0.42103729584624416,
+    "y": -0.37308024211769086
    }
   }
  },

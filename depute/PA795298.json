@@ -1,0 +1,48 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795298.jpg",
+  "nosiege": "364"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@LegavreJerome/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795298",
+  "civ": "M.",
+  "communes": [
+   "Clichy-sous-Bois (93390)",
+   "Coubron (93470)",
+   "Le Raincy (93340)",
+   "Livry-Gargan (93190)",
+   "Montfermeil (93370)",
+   "Vaujours (93410)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Legavre",
+  "numCirco": "12",
+  "numDepartement": "93",
+  "prenom": "Jérôme"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 34,
+   "curRadiusIndex": 8,
+   "id": "ai34ri8",
+   "no": 364,
+   "polar": {
+    "angle": 1.5942410480903428,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.019047091052649113,
+    "y": -0.8124373075711203
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795298",
+ "uid": "PA795298"
+}

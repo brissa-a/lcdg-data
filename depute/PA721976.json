@@ -12,12 +12,15 @@
   "nom": "Bruno Millienne"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721976.jpg",
-  "nosiege": "178"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721976.jpg",
+  "nosiege": "438"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/bruno.millienne/",
+  "twitter_link": "https://twitter.com/@BrunoMillienne/"
+ },
  "circo": {
   "acteurId": "OMC_PA721976",
   "civ": "M.",
@@ -112,7 +115,7 @@
    "Villette (Yvelines) (78930)"
   ],
   "departement": "Yvelines",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Millienne",
   "numCirco": "9",
   "numDepartement": "78",
@@ -121,17 +124,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_bruno-millienne",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 4,
-   "id": "ai12ri4",
-   "no": 178,
+   "curAngleIndex": 36,
+   "curRadiusIndex": 7,
+   "id": "ai36ri7",
+   "no": 438,
    "polar": {
-    "angle": 0.966643893412244,
-    "radius": 0.5625
+    "angle": 2.1339119911175954,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.31953642003627514,
-    "y": -0.46301994982512784
+    "x": -0.40036753347359305,
+    "y": -0.6343223892789108
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Mireille Clapot"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719294.jpg",
-  "nosiege": "358"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719294.jpg",
+  "nosiege": "143"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -43,7 +43,7 @@
    "Valence (26000)"
   ],
   "departement": "Drôme",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Clapot",
   "numCirco": "1",
   "numDepartement": "26",
@@ -52,17 +52,17 @@
  "datan": "https://datan.fr/deputes/drome-26/depute_mireille-clapot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 7,
-   "id": "ai29ri7",
-   "no": 358,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 10,
+   "id": "ai14ri10",
+   "no": 143,
    "polar": {
-    "angle": 1.7189846595113962,
-    "radius": 0.75
+    "angle": 0.5429913228426803,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.11073492300186089,
-    "y": -0.7419267973322462
+    "x": 0.8026564683096248,
+    "y": -0.4845014319643313
    }
   }
  },

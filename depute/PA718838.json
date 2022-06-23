@@ -12,9 +12,9 @@
   "nom": "Fabrice Brun"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718838.jpg",
-  "nosiege": "137"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718838.jpg",
+  "nosiege": "109"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -177,7 +177,7 @@
    "Vogüé (07200)"
   ],
   "departement": "Ardèche",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Brun",
   "numCirco": "3",
   "numDepartement": "07",
@@ -186,17 +186,17 @@
  "datan": "https://datan.fr/deputes/ardeche-07/depute_fabrice-brun",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 10,
-   "id": "ai9ri10",
-   "no": 137,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 7,
+   "id": "ai7ri7",
+   "no": 109,
    "polar": {
-    "angle": 0.3490658503988659,
-    "radius": 0.9375
+    "angle": 0.4149273316061991,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.8809618319867891,
-    "y": -0.3207072786493267
+    "x": 0.6863592129322639,
+    "y": -0.3024023479076228
    }
   }
  },

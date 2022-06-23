@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795868.jpg",
+  "nosiege": "123"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795868",
+  "civ": "M.",
+  "communes": [
+   "Camopi (97330)",
+   "Cayenne (97300)",
+   "Matoury (97351)",
+   "Ouanary (97380)",
+   "Remire-Montjoly (97354)",
+   "Roura (97311)",
+   "Roura (97352)",
+   "Régina (97353)",
+   "Régina (97390)",
+   "Saint-Georges (Guyane) (97313)"
+  ],
+  "departement": "Guyane",
+  "group": "Non inscrit",
+  "nom": "Castor",
+  "numCirco": "1",
+  "numDepartement": "973",
+  "prenom": "Jean-Victor"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 13,
+   "curRadiusIndex": 8,
+   "id": "ai13ri8",
+   "no": 123,
+   "polar": {
+    "angle": 0.6095627536816016,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.6661674692346575,
+    "y": -0.4652555437038607
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795868",
+ "uid": "PA795868"
+}

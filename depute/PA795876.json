@@ -1,0 +1,54 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795876.jpg",
+  "nosiege": "531"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795876",
+  "civ": "M.",
+  "communes": [
+   "Apatou (97317)",
+   "Awala-Yalimapo (97319)",
+   "Grand-Santi (97340)",
+   "Iracoubo (97350)",
+   "Kourou (97310)",
+   "Macouria (97355)",
+   "Mana (97318)",
+   "Mana (97360)",
+   "Maripasoula (97370)",
+   "Montsinéry-Tonnegrande (97356)",
+   "Papaichton (97316)",
+   "Saint-Elie (97312)",
+   "Saint-Laurent-du-Maroni (97320)",
+   "Saül (97314)",
+   "Sinnamary (97315)"
+  ],
+  "departement": "Guyane",
+  "group": "Non inscrit",
+  "nom": "Rimane",
+  "numCirco": "2",
+  "numDepartement": "973",
+  "prenom": "Davy"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 53,
+   "curRadiusIndex": 8,
+   "id": "ai53ri8",
+   "no": 531,
+   "polar": {
+    "angle": 2.485140457317299,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.6436320096465425,
+    "y": -0.4959751272704055
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795876",
+ "uid": "PA795876"
+}

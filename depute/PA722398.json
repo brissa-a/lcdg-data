@@ -12,12 +12,14 @@
   "nom": "Rémy Rebeyrotte"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722398.jpg",
-  "nosiege": "332"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722398.jpg",
+  "nosiege": "525"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/remy.rebeyrotte/"
+ },
  "circo": {
   "acteurId": "OMC_PA722398",
   "civ": "M.",
@@ -151,7 +153,7 @@
    "Verjux (71590)"
   ],
   "departement": "Saône-et-loire",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Rebeyrotte",
   "numCirco": "3",
   "numDepartement": "71",
@@ -160,17 +162,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_remy-rebeyrotte",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 2,
-   "id": "ai18ri2",
-   "no": 332,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 7,
+   "id": "ai44ri7",
+   "no": 525,
    "polar": {
-    "angle": 1.9499540608488373,
-    "radius": 0.4375
+    "angle": 2.6081146558103945,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.16193544296121257,
-    "y": -0.4065076693843236
+    "x": -0.6457827088255167,
+    "y": -0.3814737449898014
    }
   }
  },

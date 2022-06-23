@@ -1,0 +1,62 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721722.jpg",
+  "nosiege": "249"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721722",
+  "civ": "M.",
+  "communes": [
+   "Bussy-Saint-Georges (77600)",
+   "Bussy-Saint-Martin (77600)",
+   "Carnetin (77400)",
+   "Chalifert (77144)",
+   "Chanteloup-en-Brie (77600)",
+   "Chessy (77700)",
+   "Collégien (77090)",
+   "Conches-sur-Gondoire (77600)",
+   "Coupvray (77700)",
+   "Croissy-Beaubourg (77183)",
+   "Dampmart (77400)",
+   "Ferrières-en-Brie (77164)",
+   "Guermantes (77600)",
+   "Jablines (77450)",
+   "Jossigny (77600)",
+   "Lesches (77450)",
+   "Montévrain (77144)",
+   "Ozoir-la-Ferrière (77330)",
+   "Pontcarré (77135)",
+   "Roissy-en-Brie (77680)",
+   "Thorigny-sur-Marne (77400)",
+   "Torcy (Seine-et-Marne) (77200)"
+  ],
+  "departement": "Seine-et-marne",
+  "group": "Non inscrit",
+  "nom": "Ghomi",
+  "numCirco": "8",
+  "numDepartement": "77",
+  "prenom": "Hadrien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 12,
+   "curRadiusIndex": 2,
+   "id": "ai12ri2",
+   "no": 249,
+   "polar": {
+    "angle": 1.2999693738992248,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": 0.11704364810653407,
+    "y": -0.4216364667044823
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721722",
+ "uid": "PA721722"
+}

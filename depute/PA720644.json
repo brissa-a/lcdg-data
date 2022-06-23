@@ -12,12 +12,15 @@
   "nom": "Jérôme Nury"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720644.jpg",
-  "nosiege": "32"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720644.jpg",
+  "nosiege": "455"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/jerome.nury1/",
+  "twitter_link": "https://twitter.com/@jeromenury/"
+ },
  "circo": {
   "acteurId": "OMC_PA720644",
   "civ": "M.",
@@ -150,7 +153,7 @@
    "Villedieu-lès-Bailleul (61160)"
   ],
   "departement": "Orne",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Nury",
   "numCirco": "3",
   "numDepartement": "61",
@@ -159,17 +162,17 @@
  "datan": "https://datan.fr/deputes/orne-61/depute_jerome-nury",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 7,
-   "id": "ai2ri7",
-   "no": 32,
+   "curAngleIndex": 45,
+   "curRadiusIndex": 9,
+   "id": "ai45ri9",
+   "no": 455,
    "polar": {
-    "angle": 0.11855066617319975,
-    "radius": 0.75
+    "angle": 2.0488647740803,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.7447358220101377,
-    "y": -0.08872241597138975
+    "x": -0.4025569080147581,
+    "y": -0.777053166380148
    }
   }
  },

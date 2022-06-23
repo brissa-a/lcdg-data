@@ -12,9 +12,9 @@
   "nom": "Claire Pitollat"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718910.jpg",
-  "nosiege": "524"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718910.jpg",
+  "nosiege": "497"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -30,7 +30,7 @@
    "Marseille 8eme arrondissement (13008)"
   ],
   "departement": "Bouches-du-rhône",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Pitollat",
   "numCirco": "2",
   "numDepartement": "13",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_claire-pitollat",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 43,
-   "curRadiusIndex": 7,
-   "id": "ai43ri7",
-   "no": 524,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 2,
+   "id": "ai25ri2",
+   "no": 497,
    "polar": {
-    "angle": 2.5488393227237944,
-    "radius": 0.75
+    "angle": 2.7082695289567185,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.6220542640876514,
-    "y": -0.41906791160318413
+    "x": -0.39706424610604374,
+    "y": -0.1837378014260712
    }
   }
  },

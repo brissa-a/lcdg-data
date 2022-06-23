@@ -1,0 +1,55 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794930.jpg",
+  "nosiege": "587"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Tanzilli2022/",
+  "twitter_link": "https://twitter.com/@sarah_tanzilli/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794930",
+  "civ": "Mme",
+  "communes": [
+   "Chassieu (69680)",
+   "Colombier-Saugnieu (69124)",
+   "Colombier-Saugnieu (69125)",
+   "Décines-Charpieu (69150)",
+   "Genas (69740)",
+   "Jonage (69330)",
+   "Jons (69330)",
+   "Meyzieu (69330)",
+   "Pusignan (69330)",
+   "Saint-Bonnet-de-Mure (69720)",
+   "Saint-Laurent-de-Mure (69720)",
+   "Saint-Priest (69800)"
+  ],
+  "departement": "Rhône",
+  "group": "Non inscrit",
+  "nom": "Tanzilli",
+  "numCirco": "13",
+  "numDepartement": "69",
+  "prenom": "Sarah"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 35,
+   "curRadiusIndex": 4,
+   "id": "ai35ri4",
+   "no": 587,
+   "polar": {
+    "angle": 2.819378022452378,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.5335517485952692,
+    "y": -0.178160963631975
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794930",
+ "uid": "PA794930"
+}

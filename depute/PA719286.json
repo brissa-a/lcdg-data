@@ -12,12 +12,15 @@
   "nom": "Paul-André Colombani"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719286.jpg",
-  "nosiege": "217"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719286.jpg",
+  "nosiege": "146"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/PAcolombani/",
+  "twitter_link": "https://twitter.com/@pacolombani/"
+ },
  "circo": {
   "acteurId": "OMC_PA719286",
   "civ": "M.",
@@ -106,7 +109,7 @@
    "Zévaco (20173)"
   ],
   "departement": "Corse-du-sud",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "Colombani",
   "numCirco": "2",
   "numDepartement": "2A",
@@ -115,17 +118,17 @@
  "datan": "https://datan.fr/deputes/corse-du-sud-2a/depute_paulandre-colombani",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 9,
-   "id": "ai21ri9",
-   "no": 217,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 10,
+   "id": "ai17ri10",
+   "no": 146,
    "polar": {
-    "angle": 0.9561368945708066,
-    "radius": 0.875
+    "angle": 0.6593466063089689,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5045952818505087,
-    "y": -0.714989988619588
+    "x": 0.7409931276738368,
+    "y": -0.5744265581484572
    }
   }
  },

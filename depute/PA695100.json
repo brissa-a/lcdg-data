@@ -12,9 +12,9 @@
   "nom": "Meyer Habib"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/695100.jpg",
-  "nosiege": "103"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/695100.jpg",
+  "nosiege": "279"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -31,7 +31,7 @@
    "Turquie"
   ],
   "departement": "Français établis hors de france",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Habib",
   "numCirco": "8",
   "numDepartement": "099",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_meyer-habib",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 6,
-   "id": "ai9ri6",
-   "no": 103,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 7,
+   "id": "ai23ri7",
+   "no": 279,
    "polar": {
-    "angle": 0.5334779977793989,
-    "radius": 0.6875
+    "angle": 1.363332660991797,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.591967483090057,
-    "y": -0.34968426624065135
+    "x": 0.1544839640558238,
+    "y": -0.73406247152216
    }
   }
  },

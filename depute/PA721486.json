@@ -12,14 +12,14 @@
   "nom": "Christophe Naegelen"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721486.jpg",
-  "nosiege": "135"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721486.jpg",
+  "nosiege": "451"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/ChristopheNaegelenVosges/",
-  "twitter_link": "https://twitter.com/@c_naegelen/"
+  "twitter_link": "https://twitter.com/@naegelenchris/"
  },
  "circo": {
   "acteurId": "OMC_PA721486",
@@ -68,7 +68,7 @@
    "Xonrupt-Longemer (88400)"
   ],
   "departement": "Vosges",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Naegelen",
   "numCirco": "3",
   "numDepartement": "88",
@@ -77,17 +77,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_christophe-naegelen",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 9,
-   "id": "ai16ri9",
-   "no": 135,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 8,
+   "id": "ai49ri8",
+   "no": 451,
    "polar": {
-    "angle": 0.7284852530063288,
-    "radius": 0.875
+    "angle": 2.2975826869537292,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.6529107251167248,
-    "y": -0.5826377748781891
+    "x": -0.5398830721690426,
+    "y": -0.6073123716262042
    }
   }
  },

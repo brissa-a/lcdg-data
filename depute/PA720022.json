@@ -12,9 +12,9 @@
   "nom": "Michel Lauzzana"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720022.jpg",
-  "nosiege": "400"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720022.jpg",
+  "nosiege": "337"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -93,7 +93,7 @@
    "Xaintrailles (47230)"
   ],
   "departement": "Lot-et-garonne",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Lauzzana",
   "numCirco": "1",
   "numDepartement": "47",
@@ -102,17 +102,17 @@
  "datan": "https://datan.fr/deputes/lot-et-garonne-47/depute_michel-lauzzana",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 43,
-   "curRadiusIndex": 11,
-   "id": "ai43ri11",
-   "no": 400,
+   "curAngleIndex": 20,
+   "curRadiusIndex": 4,
+   "id": "ai20ri4",
+   "no": 337,
    "polar": {
-    "angle": 1.709980811447609,
-    "radius": 1
+    "angle": 1.6110731556870732,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.13873553198906818,
-    "y": -0.9905252638291588
+    "x": -0.02264959131154588,
+    "y": -0.5621549327663267
    }
   }
  },

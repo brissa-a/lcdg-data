@@ -1,0 +1,52 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793736.jpg",
+  "nosiege": "144"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@HadrienClouet/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793736",
+  "civ": "M.",
+  "communes": [
+   "Beauzelle (31700)",
+   "Blagnac (31700)",
+   "Cornebarrieu (31700)",
+   "Mondonville (31700)",
+   "Toulouse (31000)",
+   "Toulouse (31100)",
+   "Toulouse (31200)",
+   "Toulouse (31300)",
+   "Toulouse (31400)",
+   "Toulouse (31500)"
+  ],
+  "departement": "Haute-garonne",
+  "group": "Non inscrit",
+  "nom": "Clouet",
+  "numCirco": "1",
+  "numDepartement": "31",
+  "prenom": "Hadrien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 15,
+   "curRadiusIndex": 10,
+   "id": "ai15ri10",
+   "no": 144,
+   "polar": {
+    "angle": 0.5817764173314431,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.783269823199628,
+    "y": -0.5152665197928256
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793736",
+ "uid": "PA793736"
+}

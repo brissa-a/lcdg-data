@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795990.jpg",
+  "nosiege": "97"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795990",
+  "civ": "Mme",
+  "communes": [
+   "Antony (92160)",
+   "Bourg-la-Reine (92340)",
+   "Châtenay-Malabry (92290)",
+   "Sceaux (Hauts-de-Seine) (92330)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Bregeon",
+  "numCirco": "13",
+  "numDepartement": "92",
+  "prenom": "Maud"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 9,
+   "curRadiusIndex": 5,
+   "id": "ai9ri5",
+   "no": 97,
+   "polar": {
+    "angle": 0.601581571964003,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": 0.5152759752136002,
+    "y": -0.35378686708798707
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795990",
+ "uid": "PA795990"
+}

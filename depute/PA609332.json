@@ -12,9 +12,9 @@
   "nom": "Olivier Faure"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/609332.jpg",
-  "nosiege": "503"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/609332.jpg",
+  "nosiege": "213"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -38,7 +38,7 @@
    "Vert-Saint-Denis (77240)"
   ],
   "departement": "Seine-et-marne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Faure",
   "numCirco": "11",
   "numDepartement": "77",
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_olivier-faure",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 4,
-   "id": "ai30ri4",
-   "no": 503,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 9,
+   "id": "ai17ri9",
+   "no": 213,
    "polar": {
-    "angle": 2.41660973353061,
-    "radius": 0.5625
+    "angle": 0.7740155813192244,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.42103729584624416,
-    "y": -0.37308024211769086
+    "x": 0.6257208136855369,
+    "y": -0.6117568172426251
    }
   }
  },

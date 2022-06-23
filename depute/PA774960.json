@@ -12,12 +12,15 @@
   "nom": "Isabelle Santiago"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774960.jpg",
-  "nosiege": "510"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774960.jpg",
+  "nosiege": "559"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/isabelle.santiago.7374/",
+  "twitter_link": "https://twitter.com/@isasantiago_94/"
+ },
  "circo": {
   "acteurId": "OMC_PA774960",
   "civ": "Mme",
@@ -26,7 +29,7 @@
    "Vitry-sur-Seine (94400)"
   ],
   "departement": "Val-de-marne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Santiago",
   "numCirco": "9",
   "numDepartement": "94",
@@ -35,17 +38,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_isabelle-santiago",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
-   "curRadiusIndex": 5,
-   "id": "ai38ri5",
-   "no": 510,
+   "curAngleIndex": 71,
+   "curRadiusIndex": 10,
+   "id": "ai71ri10",
+   "no": 559,
    "polar": {
-    "angle": 2.5400110816257904,
-    "radius": 0.625
+    "angle": 2.7537417087021643,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.5152759752136002,
-    "y": -0.353786867087987
+    "x": -0.8678662211895847,
+    "y": -0.3546324673172718
    }
   }
  },

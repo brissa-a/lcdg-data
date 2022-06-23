@@ -12,9 +12,9 @@
   "nom": "Nicolas Turquois"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722162.jpg",
-  "nosiege": "265"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722162.jpg",
+  "nosiege": "607"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -114,7 +114,7 @@
    "Vézières (86120)"
   ],
   "departement": "Vienne",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Turquois",
   "numCirco": "4",
   "numDepartement": "86",
@@ -123,17 +123,17 @@
  "datan": "https://datan.fr/deputes/vienne-86/depute_nicolas-turquois",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 5,
-   "id": "ai21ri5",
-   "no": 265,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 7,
+   "id": "ai49ri7",
+   "no": 607,
    "polar": {
-    "angle": 1.4036903345826734,
-    "radius": 0.625
+    "angle": 2.904491321243394,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.10395584661445635,
-    "y": -0.6164157557879497
+    "x": -0.729017185560308,
+    "y": -0.17619936370447548
    }
   }
  },

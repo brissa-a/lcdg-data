@@ -1,0 +1,53 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795664.jpg",
+  "nosiege": "437"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/midypaul/",
+  "twitter_link": "https://twitter.com/@midy_paul/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795664",
+  "civ": "M.",
+  "communes": [
+   "Bièvres (Essonne) (91570)",
+   "Bures-sur-Yvette (91440)",
+   "Gif-sur-Yvette (91190)",
+   "Les Ulis (91940)",
+   "Orsay (91400)",
+   "Saclay (91400)",
+   "Saint-Aubin (Essonne) (91190)",
+   "Vauhallan (91430)",
+   "Verrières-le-Buisson (91370)",
+   "Villiers-le-Bâcle (91190)"
+  ],
+  "departement": "Essonne",
+  "group": "Non inscrit",
+  "nom": "Midy",
+  "numCirco": "5",
+  "numDepartement": "91",
+  "prenom": "Paul"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 35,
+   "curRadiusIndex": 7,
+   "id": "ai35ri7",
+   "no": 437,
+   "polar": {
+    "angle": 2.0746366580309954,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": -0.36209415204805856,
+    "y": -0.6569310623608756
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795664",
+ "uid": "PA795664"
+}

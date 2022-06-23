@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795920.jpg",
+  "nosiege": "595"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@priscathevenot/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795920",
+  "civ": "Mme",
+  "communes": [
+   "Chaville (92370)",
+   "Marnes-la-Coquette (92430)",
+   "Meudon (92190)",
+   "Meudon (92360)",
+   "Sèvres (92310)",
+   "Vaucresson (92420)",
+   "Ville-d'Avray (92410)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Thevenot",
+  "numCirco": "8",
+  "numDepartement": "92",
+  "prenom": "Prisca"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 45,
+   "curRadiusIndex": 5,
+   "id": "ai45ri5",
+   "no": 595,
+   "polar": {
+    "angle": 3.0079078598200146,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.6194234300967375,
+    "y": -0.08332081715369698
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795920",
+ "uid": "PA795920"
+}

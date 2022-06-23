@@ -12,9 +12,9 @@
   "nom": "Hervé Berville"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719218.jpg",
-  "nosiege": "412"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719218.jpg",
+  "nosiege": "63"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -110,7 +110,7 @@
    "Yvignac-la-Tour (22350)"
   ],
   "departement": "Côtes-d'armor",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Berville",
   "numCirco": "2",
   "numDepartement": "22",
@@ -119,17 +119,17 @@
  "datan": "https://datan.fr/deputes/cotes-darmor-22/depute_herve-berville",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 22,
-   "curRadiusIndex": 2,
-   "id": "ai22ri2",
-   "no": 412,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 10,
+   "id": "ai6ri10",
+   "no": 63,
    "polar": {
-    "angle": 2.383277185481912,
-    "radius": 0.4375
+    "angle": 0.23271056693257725,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.3176230277163697,
-    "y": -0.3009279977548826
+    "x": 0.9122295661685847,
+    "y": -0.2162451240444297
    }
   }
  },

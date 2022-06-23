@@ -12,13 +12,14 @@
   "nom": "Caroline Fiat"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720286.jpg",
-  "nosiege": "602"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720286.jpg",
+  "nosiege": "221"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/kro.epousefiat/"
+  "facebook_link": "https://fr-fr.facebook.com/kro.epousefiat/",
+  "twitter_link": "https://twitter.com/@CarolineFiat54/"
  },
  "circo": {
   "acteurId": "OMC_PA720286",
@@ -134,7 +135,7 @@
    "Xonville (54800)"
   ],
   "departement": "Meurthe-et-moselle",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Fiat",
   "numCirco": "6",
   "numDepartement": "54",
@@ -143,17 +144,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_caroline-fiat",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 51,
-   "curRadiusIndex": 6,
-   "id": "ai51ri6",
-   "no": 602,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 9,
+   "id": "ai24ri9",
+   "no": 221,
    "polar": {
-    "angle": 3.0230419874165935,
-    "radius": 0.6875
+    "angle": 1.0927278795094932,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.6826745035092929,
-    "y": -0.08132888130710729
+    "x": 0.40255690801475813,
+    "y": -0.777053166380148
    }
   }
  },

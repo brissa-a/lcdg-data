@@ -12,12 +12,14 @@
   "nom": "Aude Luquet"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721530.jpg",
-  "nosiege": "254"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721530.jpg",
+  "nosiege": "386"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@AudeLuquet77/"
+ },
  "circo": {
   "acteurId": "OMC_PA721530",
   "civ": "Mme",
@@ -47,7 +49,7 @@
    "Voisenon (77950)"
   ],
   "departement": "Seine-et-marne",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Luquet",
   "numCirco": "1",
   "numDepartement": "77",
@@ -56,17 +58,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_aude-luquet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
-   "curRadiusIndex": 3,
-   "id": "ai14ri3",
-   "no": 254,
+   "curAngleIndex": 43,
+   "curRadiusIndex": 10,
+   "id": "ai43ri10",
+   "no": 386,
    "polar": {
-    "angle": 1.3744467859455345,
-    "radius": 0.5
+    "angle": 1.6677590630168038,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.09754516100806417,
-    "y": -0.49048959539271697
+    "x": -0.09076019128423037,
+    "y": -0.9332808528968785
    }
   }
  },

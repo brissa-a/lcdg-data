@@ -12,9 +12,9 @@
   "nom": "Marie Guévenoux"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721880.jpg",
-  "nosiege": "348"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721880.jpg",
+  "nosiege": "271"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,7 +40,7 @@
    "Varennes-Jarcy (91480)"
   ],
   "departement": "Essonne",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Guévenoux",
   "numCirco": "9",
   "numDepartement": "91",
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_marie-guevenoux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
+   "curAngleIndex": 23,
    "curRadiusIndex": 6,
-   "id": "ai27ri6",
-   "no": 348,
+   "id": "ai23ri6",
+   "no": 271,
    "polar": {
-    "angle": 1.6004339933381966,
+    "angle": 1.363332660991797,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.020372912878009842,
-    "y": -0.6873339405578679
+    "x": 0.14161030038450514,
+    "y": -0.6728905988953134
    }
   }
  },

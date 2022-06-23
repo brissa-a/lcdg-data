@@ -12,13 +12,13 @@
   "nom": "Amélia Lakrafi"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721004.jpg",
-  "nosiege": "555"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721004.jpg",
+  "nosiege": "330"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/FDEcirco10/",
+  "facebook_link": "https://fr-fr.facebook.com/Amal%20Am%C3%A9lia%20Lakrafi/",
   "twitter_link": "https://twitter.com/@amelia_lkf/"
  },
  "circo": {
@@ -75,7 +75,7 @@
    "Zimbabwe"
   ],
   "departement": "Français établis hors de france",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Lakrafi",
   "numCirco": "10",
   "numDepartement": "099",
@@ -84,17 +84,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_amelia-lakrafi",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 68,
-   "curRadiusIndex": 10,
-   "id": "ai68ri10",
-   "no": 555,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 2,
+   "id": "ai16ri2",
+   "no": 330,
    "polar": {
-    "angle": 2.6373864252358756,
-    "radius": 0.9375
+    "angle": 1.7332924985322997,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.82083584184571,
-    "y": -0.453007607958626
+    "x": -0.07077962349183456,
+    "y": -0.43182196195842876
    }
   }
  },

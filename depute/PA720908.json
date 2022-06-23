@@ -12,9 +12,9 @@
   "nom": "Naïma Moutchou"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720908.jpg",
-  "nosiege": "329"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720908.jpg",
+  "nosiege": "447"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -30,7 +30,7 @@
    "Saint-Prix (Val-d'Oise) (95390)"
   ],
   "departement": "Val-d'oise",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Moutchou",
   "numCirco": "4",
   "numDepartement": "95",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/val-doise-95/depute_naima-moutchou",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 2,
-   "id": "ai15ri2",
-   "no": 329,
+   "curAngleIndex": 46,
+   "curRadiusIndex": 8,
+   "id": "ai46ri8",
+   "no": 447,
    "polar": {
-    "angle": 1.624961717374031,
-    "radius": 0.4375
+    "angle": 2.156914359181052,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.023685772506120147,
-    "y": -0.4369447395269976
+    "x": -0.4494190627267246,
+    "y": -0.6770228551386456
    }
   }
  },

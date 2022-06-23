@@ -12,9 +12,9 @@
   "nom": "François Ruffin"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722142.jpg",
-  "nosiege": "627"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722142.jpg",
+  "nosiege": "549"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -110,7 +110,7 @@
    "Yzeux (80310)"
   ],
   "departement": "Somme",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Ruffin",
   "numCirco": "1",
   "numDepartement": "80",
@@ -119,17 +119,17 @@
  "datan": "https://datan.fr/deputes/somme-80/depute_francois-ruffin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 66,
+   "curAngleIndex": 61,
    "curRadiusIndex": 9,
-   "id": "ai66ri9",
-   "no": 627,
+   "id": "ai61ri9",
+   "no": 549,
    "polar": {
-    "angle": 3.0050016686511065,
+    "angle": 2.7773500270866287,
     "radius": 0.875
    },
    "pos": {
-    "x": -0.8668502027817894,
-    "y": -0.11916937419681443
+    "x": -0.8175946075155871,
+    "y": -0.3117731259062251
    }
   }
  },

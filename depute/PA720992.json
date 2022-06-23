@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720992.jpg",
+  "nosiege": "640"
+ },
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA720992",
+  "civ": "M.",
+  "communes": [
+   "Gros-Morne (97213)",
+   "La Trinité (Martinique) (97220)",
+   "Le François (97240)",
+   "Le Lamentin (97232)",
+   "Le Robert (97231)"
+  ],
+  "departement": "Martinique",
+  "group": "Non inscrit",
+  "nom": "William",
+  "numCirco": "1",
+  "numDepartement": "972",
+  "prenom": "Jiovanny"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 81,
+   "curRadiusIndex": 10,
+   "id": "ai81ri10",
+   "no": 640,
+   "polar": {
+    "angle": 3.141592653589793,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.9375,
+    "y": -1.1483333655210476e-16
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720992",
+ "uid": "PA720992"
+}

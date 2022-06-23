@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1567.jpg",
+  "nosiege": "268"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/jerome.guedj/",
+  "twitter_link": "https://twitter.com/@JeromeGuedj/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA1567",
+  "civ": "M.",
+  "communes": [
+   "Chilly-Mazarin (91380)",
+   "Igny (Essonne) (91430)",
+   "Massy (Essonne) (91300)",
+   "Morangis (Essonne) (91420)",
+   "Palaiseau (91120)",
+   "Wissous (91320)"
+  ],
+  "departement": "Essonne",
+  "group": "Non inscrit",
+  "nom": "Guedj",
+  "numCirco": "6",
+  "numDepartement": "91",
+  "prenom": "Jérôme"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 20,
+   "curRadiusIndex": 6,
+   "id": "ai20ri6",
+   "no": 268,
+   "polar": {
+    "angle": 1.1855066617319974,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.2583814627035388,
+    "y": -0.6372250655346097
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1567",
+ "uid": "PA1567"
+}

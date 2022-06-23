@@ -12,9 +12,9 @@
   "nom": "Annaïg Le Meur"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719388.jpg",
-  "nosiege": "318"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719388.jpg",
+  "nosiege": "348"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -40,7 +40,7 @@
    "Saint-Evarzec (29170)"
   ],
   "departement": "Finistère",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Le Meur",
   "numCirco": "1",
   "numDepartement": "29",
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_annaig-lemeur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 11,
-   "id": "ai30ri11",
-   "no": 318,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 6,
+   "id": "ai27ri6",
+   "no": 348,
    "polar": {
-    "angle": 1.1930098684518202,
-    "radius": 1
+    "angle": 1.6004339933381966,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.36886392452400785,
-    "y": -0.9296671752216756
+    "x": -0.020372912878009842,
+    "y": -0.6873339405578679
    }
   }
  },

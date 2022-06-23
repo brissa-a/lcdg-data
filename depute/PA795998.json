@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795998.jpg",
+  "nosiege": "312"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795998",
+  "civ": "Mme",
+  "communes": [
+   "Petite-Ile (97429)",
+   "Saint-Joseph (97480)",
+   "Saint-Pierre (97410)",
+   "Saint-Pierre (97432)"
+  ],
+  "departement": "La réunion",
+  "group": "Non inscrit",
+  "nom": "K/Bidi",
+  "numCirco": "4",
+  "numDepartement": "974",
+  "prenom": "Emeline"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 37,
+   "curRadiusIndex": 10,
+   "id": "ai37ri10",
+   "no": 312,
+   "polar": {
+    "angle": 1.4350484960842265,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.12687309351574796,
+    "y": -0.9290590254657289
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795998",
+ "uid": "PA795998"
+}

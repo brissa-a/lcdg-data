@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793342.jpg",
+  "nosiege": "403"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793342",
+  "civ": "Mme",
+  "communes": [
+   "Cannes (06150)",
+   "Cannes (06400)",
+   "Mandelieu-la-Napoule (06210)",
+   "Théoule-sur-Mer (06590)",
+   "Vallauris (06220)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Non inscrit",
+  "nom": "Martin",
+  "numCirco": "8",
+  "numDepartement": "06",
+  "prenom": "Alexandra"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 46,
+   "curRadiusIndex": 11,
+   "id": "ai46ri11",
+   "no": 403,
+   "polar": {
+    "angle": 1.8292817982927911,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.25561663244047483,
+    "y": -0.9669693665150556
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793342",
+ "uid": "PA793342"
+}

@@ -12,12 +12,14 @@
   "nom": "Marie-Noëlle Battistel"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/342415.jpg",
-  "nosiege": "513"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/342415.jpg",
+  "nosiege": "40"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/marienoelle.battistel/"
+ },
  "circo": {
   "acteurId": "OMC_PA342415",
   "civ": "Mme",
@@ -129,7 +131,7 @@
    "Villard-de-Lans (38250)"
   ],
   "departement": "Isère",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Battistel",
   "numCirco": "4",
   "numDepartement": "38",
@@ -138,17 +140,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_marienoelle-battistel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 41,
-   "curRadiusIndex": 5,
-   "id": "ai41ri5",
-   "no": 513,
+   "curAngleIndex": 2,
+   "curRadiusIndex": 8,
+   "id": "ai2ri8",
+   "no": 40,
    "polar": {
-    "angle": 2.7405382722804577,
-    "radius": 0.625
+    "angle": 0.09377888518178487,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.5754061791727679,
-    "y": -0.24404153672386217
+    "x": 0.8089298603927922,
+    "y": -0.07609875270460484
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Sylvain Maillard"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/717379.jpg",
-  "nosiege": "330"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/717379.jpg",
+  "nosiege": "388"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -32,7 +32,7 @@
    "Paris 9eme arrondissement (75009)"
   ],
   "departement": "Paris",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Maillard",
   "numCirco": "1",
   "numDepartement": "75",
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/paris-75/depute_sylvain-maillard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 2,
-   "id": "ai16ri2",
-   "no": 330,
+   "curAngleIndex": 45,
+   "curRadiusIndex": 10,
+   "id": "ai45ri10",
+   "no": 388,
    "polar": {
-    "angle": 1.7332924985322997,
-    "radius": 0.4375
+    "angle": 1.7453292519943295,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.07077962349183456,
-    "y": -0.43182196195842876
+    "x": -0.16279516656274717,
+    "y": -0.9234398050075314
    }
   }
  },

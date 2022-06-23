@@ -12,14 +12,14 @@
   "nom": "Sandrine Josso"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720038.jpg",
-  "nosiege": "201"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720038.jpg",
+  "nosiege": "306"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/Sandrinejosso2017/",
-  "twitter_link": "https://twitter.com/@Josso2017/"
+  "twitter_link": "https://twitter.com/@sandrinejossoan/"
  },
  "circo": {
   "acteurId": "OMC_PA720038",
@@ -53,7 +53,7 @@
    "Sévérac (44530)"
   ],
   "departement": "Loire-atlantique",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Josso",
   "numCirco": "7",
   "numDepartement": "44",
@@ -62,17 +62,17 @@
  "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_sandrine-josso",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 7,
-   "id": "ai19ri7",
-   "no": 201,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 10,
+   "id": "ai32ri10",
+   "no": 306,
    "polar": {
-    "angle": 1.1262313286453975,
-    "radius": 0.75
+    "angle": 1.241123023640412,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.32254890170739037,
-    "y": -0.6772322411271303
+    "x": 0.30350057067967606,
+    "y": -0.8871892679776124
    }
   }
  },

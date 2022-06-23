@@ -12,9 +12,9 @@
   "nom": "Michel Herbillon"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1630.jpg",
-  "nosiege": "11"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1630.jpg",
+  "nosiege": "288"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -30,7 +30,7 @@
    "Saint-Maurice (Val-de-Marne) (94410)"
   ],
   "departement": "Val-de-marne",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Herbillon",
   "numCirco": "8",
   "numDepartement": "94",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_michel-herbillon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 3,
-   "id": "ai3ri3",
-   "no": 11,
+   "curAngleIndex": 29,
+   "curRadiusIndex": 8,
+   "id": "ai29ri8",
+   "no": 288,
    "polar": {
-    "angle": 0.2945243112740431,
-    "radius": 0.5
+    "angle": 1.3597938351358807,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.4784701678661044,
-    "y": -0.14517103461902414
+    "x": 0.1701702134974923,
+    "y": -0.7946369993226385
    }
   }
  },

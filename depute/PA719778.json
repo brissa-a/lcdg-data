@@ -12,9 +12,9 @@
   "nom": "François Jolivet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719778.jpg",
-  "nosiege": "606"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719778.jpg",
+  "nosiege": "304"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -109,7 +109,7 @@
    "Villiers (Indre) (36290)"
   ],
   "departement": "Indre",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Jolivet",
   "numCirco": "1",
   "numDepartement": "36",
@@ -118,17 +118,17 @@
  "datan": "https://datan.fr/deputes/indre-36/depute_francois-jolivet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 48,
-   "curRadiusIndex": 7,
-   "id": "ai48ri7",
-   "no": 606,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 10,
+   "id": "ai30ri10",
+   "no": 304,
    "polar": {
-    "angle": 2.8452159881567938,
-    "radius": 0.75
+    "angle": 1.1635528346628863,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.7173007382073918,
-    "y": -0.21908588473494292
+    "x": 0.37132478066170954,
+    "y": -0.8609977938321367
    }
   }
  },

@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795982.jpg",
+  "nosiege": "554"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@A_Saintoul/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795982",
+  "civ": "M.",
+  "communes": [
+   "Bagneux (Hauts-de-Seine) (92220)",
+   "Malakoff (92240)",
+   "Montrouge (92120)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Saintoul",
+  "numCirco": "11",
+  "numDepartement": "92",
+  "prenom": "Aurélien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 67,
+   "curRadiusIndex": 10,
+   "id": "ai67ri10",
+   "no": 554,
+   "polar": {
+    "angle": 2.5986013307471127,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.8026564683096248,
+    "y": -0.4845014319643316
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795982",
+ "uid": "PA795982"
+}

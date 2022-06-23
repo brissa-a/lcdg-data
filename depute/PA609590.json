@@ -12,9 +12,9 @@
   "nom": "Valérie Rabault"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/609590.jpg",
-  "nosiege": "499"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/609590.jpg",
+  "nosiege": "515"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -87,7 +87,7 @@
    "Villemade (82130)"
   ],
   "departement": "Tarn-et-garonne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Rabault",
   "numCirco": "1",
   "numDepartement": "82",
@@ -96,17 +96,17 @@
  "datan": "https://datan.fr/deputes/tarn-et-garonne-82/depute_valerie-rabault",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 25,
-   "curRadiusIndex": 3,
-   "id": "ai25ri3",
-   "no": 499,
+   "curAngleIndex": 42,
+   "curRadiusIndex": 6,
+   "id": "ai42ri6",
+   "no": 515,
    "polar": {
-    "angle": 2.454369260617026,
-    "radius": 0.5
+    "angle": 2.489563989637195,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.3865052266813685,
-    "y": -0.31725935481143713
+    "x": -0.5464624284716805,
+    "y": -0.4172575796519945
    }
   }
  },

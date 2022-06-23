@@ -12,14 +12,14 @@
   "nom": "Christophe Blanchet"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719024.jpg",
-  "nosiege": "192"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719024.jpg",
+  "nosiege": "72"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/christopheblanchet2017/",
-  "twitter_link": "https://twitter.com/@blanchet2017/"
+  "facebook_link": "https://fr-fr.facebook.com/christopheblanchet/",
+  "twitter_link": "https://twitter.com/@christoblanchet/"
  },
  "circo": {
   "acteurId": "OMC_PA719024",
@@ -145,7 +145,7 @@
    "Villerville (14113)"
   ],
   "departement": "Calvados",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Blanchet",
   "numCirco": "4",
   "numDepartement": "14",
@@ -154,17 +154,17 @@
  "datan": "https://datan.fr/deputes/calvados-14/depute_christophe-blanchet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 6,
-   "id": "ai18ri6",
-   "no": 192,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 11,
+   "id": "ai5ri11",
+   "no": 72,
    "polar": {
-    "angle": 1.0669559955587977,
-    "radius": 0.6875
+    "angle": 0.19883497807530337,
+    "radius": 1
    },
    "pos": {
-    "x": 0.3319196393773871,
-    "y": -0.602186807164136
+    "x": 0.9802973668046362,
+    "y": -0.1975664501835878
    }
   }
  },

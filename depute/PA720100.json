@@ -12,9 +12,9 @@
   "nom": "Aurélien Pradié"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720100.jpg",
-  "nosiege": "38"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720100.jpg",
+  "nosiege": "512"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -182,7 +182,7 @@
    "Vire-sur-Lot (46700)"
   ],
   "departement": "Lot",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Pradié",
   "numCirco": "1",
   "numDepartement": "46",
@@ -191,17 +191,17 @@
  "datan": "https://datan.fr/deputes/lot-46/depute_aurelien-pradie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 8,
-   "id": "ai0ri8",
-   "no": 38,
+   "curAngleIndex": 40,
+   "curRadiusIndex": 5,
+   "id": "ai40ri5",
+   "no": 512,
    "polar": {
-    "angle": 0,
-    "radius": 0.8125
+    "angle": 2.673695875395569,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.8125,
-    "y": 0
+    "x": -0.5578242724124258,
+    "y": -0.2819370550725668
    }
   }
  },

@@ -1,0 +1,73 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794678.jpg",
+  "nosiege": "230"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794678",
+  "civ": "M.",
+  "communes": [
+   "Aix-Noulette (62160)",
+   "Barlin (62620)",
+   "Beugin (62150)",
+   "Beuvry (62660)",
+   "Bouvigny-Boyeffles (62172)",
+   "Bruay-la-Buissière (62700)",
+   "Calonne-Ricouart (62470)",
+   "Camblain-Châtelain (62470)",
+   "Caucourt (62150)",
+   "Divion (62460)",
+   "Drouvin-le-Marais (62131)",
+   "Estrée-Cauchy (62690)",
+   "Fresnicourt-le-Dolmen (62150)",
+   "Gauchin-Légal (62150)",
+   "Gosnay (62199)",
+   "Gouy-Servins (62530)",
+   "Haillicourt (62940)",
+   "Hermin (62150)",
+   "Hersin-Coupigny (62530)",
+   "Hesdigneul-lès-Béthune (62196)",
+   "Houchin (62620)",
+   "Houdain (62150)",
+   "Labourse (62113)",
+   "Maisnil-lès-Ruitz (62620)",
+   "Marles-les-Mines (62540)",
+   "Noeux-les-Mines (62290)",
+   "Ourton (62460)",
+   "Rebreuve-Ranchicourt (62150)",
+   "Ruitz (62620)",
+   "Sailly-Labourse (62113)",
+   "Sains-en-Gohelle (62114)",
+   "Servins (62530)",
+   "Vaudricourt (Pas-de-Calais) (62131)"
+  ],
+  "departement": "Pas-de-calais",
+  "group": "Non inscrit",
+  "nom": "Frappé",
+  "numCirco": "10",
+  "numDepartement": "62",
+  "prenom": "Thierry"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 25,
+   "curRadiusIndex": 10,
+   "id": "ai25ri10",
+   "no": 230,
+   "polar": {
+    "angle": 0.9696273622190719,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.53025644576863,
+    "y": -0.7732856719088587
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794678",
+ "uid": "PA794678"
+}

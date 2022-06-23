@@ -12,13 +12,13 @@
   "nom": "Raphaël Schellenberger"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721314.jpg",
-  "nosiege": "76"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721314.jpg",
+  "nosiege": "564"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/SchellenbergerR%20/",
+  "facebook_link": "https://fr-fr.facebook.com/SchellenbergerR/",
   "twitter_link": "https://twitter.com/@RSCactu/"
  },
  "circo": {
@@ -104,7 +104,7 @@
    "Wuenheim (68500)"
   ],
   "departement": "Haut-rhin",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Schellenberger",
   "numCirco": "4",
   "numDepartement": "68",
@@ -113,17 +113,17 @@
  "datan": "https://datan.fr/deputes/haut-rhin-68/depute_raphael-schellenberger",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 0,
-   "id": "ai4ri0",
-   "no": 76,
+   "curAngleIndex": 62,
+   "curRadiusIndex": 11,
+   "id": "ai62ri11",
+   "no": 564,
    "polar": {
-    "angle": 0.5235987755982988,
-    "radius": 0.3125
+    "angle": 2.465553728133762,
+    "radius": 1
    },
    "pos": {
-    "x": 0.2706329386826371,
-    "y": -0.15628089207987175
+    "x": -0.7800573081852124,
+    "y": -0.625831783973198
    }
   }
  },

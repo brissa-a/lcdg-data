@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793444.jpg",
+  "nosiege": "78"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/mbompard/",
+  "twitter_link": "https://twitter.com/@mbompard/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793444",
+  "civ": "M.",
+  "communes": [
+   "Marseille",
+   "Marseille 1er arrondissement (13001)",
+   "Marseille 2eme arrondissement (13002)",
+   "Marseille 3eme arrondissement (13003)",
+   "Marseille 5eme arrondissement (13005)",
+   "Marseille 6eme arrondissement (13006)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Bompard",
+  "numCirco": "4",
+  "numDepartement": "13",
+  "prenom": "Manuel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 3,
+   "curRadiusIndex": 1,
+   "id": "ai3ri1",
+   "no": 78,
+   "polar": {
+    "angle": 0.40977295481605996,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": 0.3439542380645449,
+    "y": -0.14942994654423303
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793444",
+ "uid": "PA793444"
+}

@@ -12,9 +12,9 @@
   "nom": "Chantal Jourdan"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643192.jpg",
-  "nosiege": "516"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643192.jpg",
+  "nosiege": "307"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -143,7 +143,7 @@
    "Valframbert (61250)"
   ],
   "departement": "Orne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Jourdan",
   "numCirco": "1",
   "numDepartement": "61",
@@ -152,17 +152,17 @@
  "datan": "https://datan.fr/deputes/orne-61/depute_chantal-jourdan",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 43,
-   "curRadiusIndex": 6,
-   "id": "ai43ri6",
-   "no": 516,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 10,
+   "id": "ai33ri10",
+   "no": 307,
    "polar": {
-    "angle": 2.5488393227237944,
-    "radius": 0.6875
+    "angle": 1.279908118129175,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.5702164087470137,
-    "y": -0.3841455856362521
+    "x": 0.26887803066664717,
+    "y": -0.8982927335269555
    }
   }
  },

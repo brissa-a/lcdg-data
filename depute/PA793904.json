@@ -1,0 +1,64 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793904.jpg",
+  "nosiege": "378"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@lopezliguori/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793904",
+  "civ": "M.",
+  "communes": [
+   "Abeilhan (34290)",
+   "Agde (34300)",
+   "Alignan-du-Vent (34290)",
+   "Bessan (34550)",
+   "Castelnau-de-Guers (34120)",
+   "Caux (34720)",
+   "Coulobres (34290)",
+   "Espondeilhan (34290)",
+   "Florensac (34510)",
+   "Marseillan (Hérault) (34340)",
+   "Montblanc (34290)",
+   "Nézignan-l'Evêque (34120)",
+   "Pinet (34850)",
+   "Pomérols (34810)",
+   "Puissalicon (34480)",
+   "Pézenas (34120)",
+   "Saint-Thibéry (34630)",
+   "Servian (34290)",
+   "Sète (34200)",
+   "Tourbes (34120)",
+   "Valros (34290)",
+   "Vias (34450)"
+  ],
+  "departement": "Hérault",
+  "group": "Non inscrit",
+  "nom": "Lopez-Liguori",
+  "numCirco": "7",
+  "numDepartement": "34",
+  "prenom": "Aurélien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 39,
+   "curRadiusIndex": 9,
+   "id": "ai39ri9",
+   "no": 378,
+   "polar": {
+    "angle": 1.7756828042029265,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": -0.17802401142105442,
+    "y": -0.8568679540075247
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793904",
+ "uid": "PA793904"
+}

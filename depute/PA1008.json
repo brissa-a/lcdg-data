@@ -12,9 +12,9 @@
   "nom": "Alain David"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1008.jpg",
-  "nosiege": "518"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1008.jpg",
+  "nosiege": "173"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -42,7 +42,7 @@
    "Yvrac (33370)"
   ],
   "departement": "Gironde",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "David",
   "numCirco": "4",
   "numDepartement": "33",
@@ -51,17 +51,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_alain-david",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
-   "curRadiusIndex": 6,
-   "id": "ai45ri6",
-   "no": 518,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 3,
+   "id": "ai10ri3",
+   "no": 173,
    "polar": {
-    "angle": 2.667389988896994,
-    "radius": 0.6875
+    "angle": 0.9817477042468103,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.6116392500588888,
-    "y": -0.3139946681064206
+    "x": 0.27778511650980114,
+    "y": -0.4158170007934301
    }
   }
  },

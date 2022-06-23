@@ -12,9 +12,9 @@
   "nom": "Thomas Gassilloud"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722358.jpg",
-  "nosiege": "145"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722358.jpg",
+  "nosiege": "239"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -68,7 +68,7 @@
    "Yzeron (69510)"
   ],
   "departement": "Rhône",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Gassilloud",
   "numCirco": "10",
   "numDepartement": "69",
@@ -77,17 +77,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_thomas-gassilloud",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 10,
-   "id": "ai16ri10",
-   "no": 145,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 11,
+   "id": "ai22ri11",
+   "no": 239,
    "polar": {
-    "angle": 0.620561511820206,
-    "radius": 0.9375
+    "angle": 0.8748739035313349,
+    "radius": 1
    },
    "pos": {
-    "x": 0.7627050658715321,
-    "y": -0.5452565978295911
+    "x": 0.6410936375922202,
+    "y": -0.7676144032094914
    }
   }
  },

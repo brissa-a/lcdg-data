@@ -12,9 +12,9 @@
   "nom": "Jean-Pierre Pont"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/2449.jpg",
-  "nosiege": "234"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/2449.jpg",
+  "nosiege": "502"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -55,7 +55,7 @@
    "Wimille (62126)"
   ],
   "departement": "Pas-de-calais",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Pont",
   "numCirco": "5",
   "numDepartement": "62",
@@ -64,17 +64,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_jeanpierre-pont",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 10,
-   "id": "ai29ri10",
-   "no": 234,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 3,
+   "id": "ai28ri3",
+   "no": 502,
    "polar": {
-    "angle": 1.1247677401741234,
-    "radius": 0.9375
+    "angle": 2.748893571891069,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.40442443657617516,
-    "y": -0.8459491797010872
+    "x": -0.46193976625564337,
+    "y": -0.1913795462214513
    }
   }
  },

@@ -12,12 +12,13 @@
   "nom": "Céline Calvez"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721750.jpg",
-  "nosiege": "418"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721750.jpg",
+  "nosiege": "117"
  },
  "an_www_pic": {},
  "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/CelineCalvez/",
   "twitter_link": "https://twitter.com/@celinecalvez/"
  },
  "circo": {
@@ -28,7 +29,7 @@
    "Levallois-Perret (92300)"
   ],
   "departement": "Hauts-de-seine",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Calvez",
   "numCirco": "5",
   "numDepartement": "92",
@@ -37,17 +38,17 @@
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_celine-calvez",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
-   "curRadiusIndex": 4,
-   "id": "ai26ri4",
-   "no": 418,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 8,
+   "id": "ai8ri8",
+   "no": 117,
    "polar": {
-    "angle": 2.0943951023931953,
-    "radius": 0.5625
+    "angle": 0.3751155407271395,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.28124999999999983,
-    "y": -0.4872356016021477
+    "x": 0.7560030532495079,
+    "y": -0.2977426358669931
    }
   }
  },

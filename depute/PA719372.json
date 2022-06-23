@@ -12,13 +12,13 @@
   "nom": "Guillaume Kasbarian"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719372.jpg",
-  "nosiege": "458"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719372.jpg",
+  "nosiege": "315"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/kasbarian2017/",
+  "facebook_link": "https://fr-fr.facebook.com/guillaumekasba/",
   "twitter_link": "https://twitter.com/@guillaumekasba/"
  },
  "circo": {
@@ -92,7 +92,7 @@
    "Ymeray (28320)"
   ],
   "departement": "Eure-et-loir",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Kasbarian",
   "numCirco": "1",
   "numDepartement": "28",
@@ -101,17 +101,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_guillaume-kasbarian",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 48,
-   "curRadiusIndex": 9,
-   "id": "ai48ri9",
-   "no": 458,
+   "curAngleIndex": 40,
+   "curRadiusIndex": 10,
+   "id": "ai40ri10",
+   "no": 315,
    "polar": {
-    "angle": 2.1854557590189865,
-    "radius": 0.875
+    "angle": 1.5514037795505151,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.5045952818505087,
-    "y": -0.7149899886195881
+    "x": 0.018179373536085407,
+    "y": -0.9375090399229573
    }
   }
  },

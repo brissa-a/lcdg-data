@@ -13,11 +13,14 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1206.jpg",
-  "nosiege": "241"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1206.jpg",
+  "nosiege": "198"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/nicolasdupontaignan/",
+  "twitter_link": "https://twitter.com/@dupontaignan/"
+ },
  "circo": {
   "acteurId": "OMC_PA1206",
   "civ": "M.",
@@ -38,17 +41,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_nicolas-dupontaignan",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 11,
-   "id": "ai24ri11",
-   "no": 241,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 7,
+   "id": "ai16ri7",
+   "no": 198,
    "polar": {
-    "angle": 0.9544078947614563,
-    "radius": 1
+    "angle": 0.948405329385598,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.5780920002248483,
-    "y": -0.8161329173805968
+    "x": 0.4372346093358541,
+    "y": -0.6094856356700057
    }
   }
  },

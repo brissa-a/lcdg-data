@@ -12,9 +12,9 @@
   "nom": "Emmanuel Maquet"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/346054.jpg",
-  "nosiege": "49"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/346054.jpg",
+  "nosiege": "393"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -218,7 +218,7 @@
    "Yzengremer (80520)"
   ],
   "departement": "Somme",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Maquet",
   "numCirco": "3",
   "numDepartement": "80",
@@ -227,17 +227,17 @@
  "datan": "https://datan.fr/deputes/somme-80/depute_emmanuel-maquet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 9,
-   "id": "ai2ri9",
-   "no": 49,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 10,
+   "id": "ai49ri10",
+   "no": 393,
    "polar": {
-    "angle": 0.0910606566257911,
-    "radius": 0.875
+    "angle": 1.9004696299493808,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.8713747372150898,
-    "y": -0.0795837358556067
+    "x": -0.30350057067967573,
+    "y": -0.8871892679776126
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Paul Christophe"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/642868.jpg",
-  "nosiege": "143"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642868.jpg",
+  "nosiege": "138"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -87,7 +87,7 @@
    "Zuydcoote (59123)"
   ],
   "departement": "Nord",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Christophe",
   "numCirco": "14",
   "numDepartement": "59",
@@ -96,17 +96,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_paul-christophe",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
+   "curAngleIndex": 10,
    "curRadiusIndex": 10,
-   "id": "ai14ri10",
-   "no": 143,
+   "id": "ai10ri10",
+   "no": 138,
    "polar": {
-    "angle": 0.5429913228426803,
+    "angle": 0.3878509448876288,
     "radius": 0.9375
    },
    "pos": {
-    "x": 0.8026564683096248,
-    "y": -0.4845014319643313
+    "x": 0.8678662211895848,
+    "y": -0.3546324673172716
    }
   }
  },

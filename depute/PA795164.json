@@ -1,0 +1,47 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795164.jpg",
+  "nosiege": "606"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@TrouveAurelie/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795164",
+  "civ": "Mme",
+  "communes": [
+   "Bondy (93140)",
+   "Le Pré-Saint-Gervais (93310)",
+   "Les Lilas (93260)",
+   "Noisy-le-Sec (93130)",
+   "Romainville (93230)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Trouvé",
+  "numCirco": "9",
+  "numDepartement": "93",
+  "prenom": "Aurélie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 48,
+   "curRadiusIndex": 7,
+   "id": "ai48ri7",
+   "no": 606,
+   "polar": {
+    "angle": 2.8452159881567938,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": -0.7173007382073918,
+    "y": -0.21908588473494292
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795164",
+ "uid": "PA795164"
+}

@@ -12,9 +12,9 @@
   "nom": "Pierre-Henri Dumont"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720684.jpg",
-  "nosiege": "50"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720684.jpg",
+  "nosiege": "195"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -52,7 +52,7 @@
    "Zutkerque (62370)"
   ],
   "departement": "Pas-de-calais",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Dumont",
   "numCirco": "7",
   "numDepartement": "62",
@@ -61,17 +61,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_pierrehenri-dumont",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 9,
-   "id": "ai3ri9",
-   "no": 50,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 7,
+   "id": "ai13ri7",
+   "no": 195,
    "polar": {
-    "angle": 0.13659098493868665,
-    "radius": 0.875
+    "angle": 0.7705793301257984,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.8668502027817894,
-    "y": -0.11916937419681439
+    "x": 0.5381304427832484,
+    "y": -0.5225165577653659
    }
   }
  },

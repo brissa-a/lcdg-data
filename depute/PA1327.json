@@ -12,9 +12,9 @@
   "nom": "Nicolas Forissier"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1327.jpg",
-  "nosiege": "92"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1327.jpg",
+  "nosiege": "225"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -188,7 +188,7 @@
    "Vouillon (36100)"
   ],
   "departement": "Indre",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Forissier",
   "numCirco": "2",
   "numDepartement": "36",
@@ -197,17 +197,17 @@
  "datan": "https://datan.fr/deputes/indre-36/depute_nicolas-forissier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 4,
-   "id": "ai8ri4",
-   "no": 92,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 10,
+   "id": "ai21ri10",
+   "no": 225,
    "polar": {
-    "angle": 0.6444292622748293,
-    "radius": 0.5625
+    "angle": 0.8144869842640204,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.44968655441446936,
-    "y": -0.33798433307469616
+    "x": 0.6433515355019378,
+    "y": -0.6820476094825257
    }
   }
  },

@@ -1,0 +1,71 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794582.jpg",
+  "nosiege": "492"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794582",
+  "civ": "M.",
+  "communes": [
+   "Alsting (57515)",
+   "Barst (57450)",
+   "Behren-lès-Forbach (57460)",
+   "Betting (57800)",
+   "Bousbach (57460)",
+   "Béning-lès-Saint-Avold (57800)",
+   "Cappel (57450)",
+   "Cocheren (57800)",
+   "Diebling (57980)",
+   "Etzling (57460)",
+   "Farschviller (57450)",
+   "Farébersviller (57450)",
+   "Folkling (57600)",
+   "Forbach (57600)",
+   "Freyming-Merlebach (57800)",
+   "Guenviller (57470)",
+   "Henriville (57450)",
+   "Hoste (57510)",
+   "Kerbach (57460)",
+   "Metzing (57980)",
+   "Morsbach (57600)",
+   "Nousseviller-Saint-Nabor (57990)",
+   "OEting (57600)",
+   "Petite-Rosselle (57540)",
+   "Rosbruck (57800)",
+   "Schoeneck (57350)",
+   "Seingbouse (57455)",
+   "Spicheren (57350)",
+   "Stiring-Wendel (57350)",
+   "Tenteling (57980)",
+   "Théding (57450)"
+  ],
+  "departement": "Moselle",
+  "group": "Non inscrit",
+  "nom": "Pfeffer",
+  "numCirco": "6",
+  "numDepartement": "57",
+  "prenom": "Kévin"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 18,
+   "curRadiusIndex": 1,
+   "id": "ai18ri1",
+   "no": 492,
+   "polar": {
+    "angle": 2.4586377288963597,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": -0.2908917340141574,
+    "y": -0.23670476860830728
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794582",
+ "uid": "PA794582"
+}

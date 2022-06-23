@@ -12,9 +12,9 @@
   "nom": "Fabrice Le Vigoureux"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719006.jpg",
-  "nosiege": "468"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719006.jpg",
+  "nosiege": "352"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -52,7 +52,7 @@
    "Vendes (14250)"
   ],
   "departement": "Calvados",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Le Vigoureux",
   "numCirco": "1",
   "numDepartement": "14",
@@ -61,17 +61,17 @@
  "datan": "https://datan.fr/deputes/calvados-14/depute_fabrice-levigoureux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 56,
-   "curRadiusIndex": 10,
-   "id": "ai56ri10",
-   "no": 468,
+   "curAngleIndex": 31,
+   "curRadiusIndex": 6,
+   "id": "ai31ri6",
+   "no": 352,
    "polar": {
-    "angle": 2.171965291370721,
-    "radius": 0.9375
+    "angle": 1.837535325684596,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.5302564457686297,
-    "y": -0.7732856719088589
+    "x": -0.18121617667248405,
+    "y": -0.6633180807995479
    }
   }
  },

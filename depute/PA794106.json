@@ -1,0 +1,43 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794106.jpg",
+  "nosiege": "590"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794106",
+  "civ": "Mme",
+  "communes": [
+   "Saint-Etienne (42000)",
+   "Saint-Etienne (42100)",
+   "Saint-Etienne (42230)"
+  ],
+  "departement": "Loire",
+  "group": "Non inscrit",
+  "nom": "Taurinya",
+  "numCirco": "2",
+  "numDepartement": "42",
+  "prenom": "Andrée"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 38,
+   "curRadiusIndex": 4,
+   "id": "ai38ri4",
+   "no": 590,
+   "polar": {
+    "angle": 3.0610389958054394,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.560675985825493,
+    "y": -0.04527139370996252
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794106",
+ "uid": "PA794106"
+}

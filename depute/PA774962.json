@@ -12,12 +12,15 @@
   "nom": "Karine Lebon"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774962.jpg",
-  "nosiege": "594"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774962.jpg",
+  "nosiege": "356"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Karine.Lebon974/",
+  "twitter_link": "https://twitter.com/@KarineLebon/"
+ },
  "circo": {
   "acteurId": "OMC_PA774962",
   "civ": "Mme",
@@ -32,7 +35,7 @@
    "Saint-Paul (97460)"
   ],
   "departement": "La réunion",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Lebon",
   "numCirco": "2",
   "numDepartement": "974",
@@ -41,17 +44,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_karine-lebon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 5,
-   "id": "ai44ri5",
-   "no": 594,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 7,
+   "id": "ai27ri7",
+   "no": 356,
    "polar": {
-    "angle": 2.9410654629351254,
-    "radius": 0.625
+    "angle": 1.6004339933381966,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.6124760656478667,
-    "y": -0.12451585376734234
+    "x": -0.02222499586691983,
+    "y": -0.7498188442449469
    }
   }
  },

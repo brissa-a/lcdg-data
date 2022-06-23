@@ -1,0 +1,42 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795244.jpg",
+  "nosiege": "368"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795244",
+  "civ": "M.",
+  "communes": [
+   "Miquelon-Langlade (97500)",
+   "Saint-Pierre (SAINT-PIERRE ET MIQUELON) (97500)"
+  ],
+  "departement": "Saint-pierre et miquelon",
+  "group": "Non inscrit",
+  "nom": "Lenormand",
+  "numCirco": "1",
+  "numDepartement": "975",
+  "prenom": "Stéphane"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 38,
+   "curRadiusIndex": 8,
+   "id": "ai38ri8",
+   "no": 368,
+   "polar": {
+    "angle": 1.7817988184539126,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.17017021349749237,
+    "y": -0.7946369993226385
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795244",
+ "uid": "PA795244"
+}

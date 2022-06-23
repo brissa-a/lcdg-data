@@ -13,8 +13,8 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720822.jpg",
-  "nosiege": "66"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720822.jpg",
+  "nosiege": "67"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -57,17 +57,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_bruno-bilde",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
+   "curAngleIndex": 1,
    "curRadiusIndex": 11,
-   "id": "ai0ri11",
-   "no": 66,
+   "id": "ai1ri11",
+   "no": 67,
    "polar": {
-    "angle": 0,
+    "angle": 0.039766995615060675,
     "radius": 1
    },
    "pos": {
-    "x": 1,
-    "y": 0
+    "x": 0.9992093972273018,
+    "y": -0.03976437533014034
    }
   }
  },

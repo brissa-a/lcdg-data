@@ -12,9 +12,9 @@
   "nom": "Brigitte Liso"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720446.jpg",
-  "nosiege": "424"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720446.jpg",
+  "nosiege": "376"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -45,7 +45,7 @@
    "Wervicq-Sud (59117)"
   ],
   "departement": "Nord",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Liso",
   "numCirco": "4",
   "numDepartement": "59",
@@ -54,17 +54,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_brigitte-liso",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 5,
-   "id": "ai32ri5",
-   "no": 424,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 9,
+   "id": "ai37ri9",
+   "no": 376,
    "polar": {
-    "angle": 2.138956700316455,
-    "radius": 0.625
+    "angle": 1.6846221475771355,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.33630147072710787,
-    "y": -0.5269118244169859
+    "x": -0.09938266279416544,
+    "y": -0.8695096047454024
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Bastien Lachaud"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720846.jpg",
-  "nosiege": "626"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720846.jpg",
+  "nosiege": "325"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -29,7 +29,7 @@
    "Pantin (93500)"
   ],
   "departement": "Seine-saint-denis",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Lachaud",
   "numCirco": "6",
   "numDepartement": "93",
@@ -38,17 +38,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_bastien-lachaud",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 65,
-   "curRadiusIndex": 9,
-   "id": "ai65ri9",
-   "no": 626,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 11,
+   "id": "ai37ri11",
+   "no": 325,
    "polar": {
-    "angle": 2.9594713403382107,
-    "radius": 0.875
+    "angle": 1.471378837757245,
+    "radius": 1
    },
    "pos": {
-    "x": -0.8605289889295242,
-    "y": -0.1585080158120561
+    "x": 0.09925379890806155,
+    "y": -0.9952588835747879
    }
   }
  },

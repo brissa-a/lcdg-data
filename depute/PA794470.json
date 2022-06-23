@@ -1,0 +1,48 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794470.jpg",
+  "nosiege": "244"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794470",
+  "civ": "Mme",
+  "communes": [
+   "Croix (Nord) (59170)",
+   "Hem (59510)",
+   "Lannoy (59390)",
+   "Leers (59115)",
+   "Lys-lez-Lannoy (59390)",
+   "Roubaix (59100)",
+   "Toufflers (59390)",
+   "Wasquehal (59290)"
+  ],
+  "departement": "Nord",
+  "group": "Non inscrit",
+  "nom": "Gérard",
+  "numCirco": "7",
+  "numDepartement": "59",
+  "prenom": "Félicie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 27,
+   "curRadiusIndex": 11,
+   "id": "ai27ri11",
+   "no": 244,
+   "polar": {
+    "angle": 1.0737088816066382,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.476867501428506,
+    "y": -0.8791489724019551
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794470",
+ "uid": "PA794470"
+}

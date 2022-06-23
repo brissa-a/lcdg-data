@@ -12,9 +12,9 @@
   "nom": "Stéphane Buchou"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722000.jpg",
-  "nosiege": "632"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722000.jpg",
+  "nosiege": "111"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -61,7 +61,7 @@
    "Vairé (Vendée) (85150)"
   ],
   "departement": "Vendée",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Buchou",
   "numCirco": "3",
   "numDepartement": "85",
@@ -70,17 +70,17 @@
  "datan": "https://datan.fr/deputes/vendee-85/depute_stephane-buchou",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 74,
-   "curRadiusIndex": 10,
-   "id": "ai74ri10",
-   "no": 632,
+   "curAngleIndex": 9,
+   "curRadiusIndex": 7,
+   "id": "ai9ri7",
+   "no": 111,
    "polar": {
-    "angle": 2.870096992168453,
-    "radius": 0.9375
+    "angle": 0.5334779977793989,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.9031601987023877,
-    "y": -0.2514615309217347
+    "x": 0.6457827088255167,
+    "y": -0.38147374498980147
    }
   }
  },

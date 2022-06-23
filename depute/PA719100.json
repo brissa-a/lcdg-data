@@ -12,13 +12,14 @@
   "nom": "Jean-Philippe Ardouin"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719100.jpg",
-  "nosiege": "526"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719100.jpg",
+  "nosiege": "19"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/jpardouin/"
+  "facebook_link": "https://fr-fr.facebook.com/jpardouin/",
+  "twitter_link": "https://twitter.com/@jean_ardouin/"
  },
  "circo": {
   "acteurId": "OMC_PA719100",
@@ -168,7 +169,7 @@
    "Vénérand (17100)"
   ],
   "departement": "Charente-maritime",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Ardouin",
   "numCirco": "3",
   "numDepartement": "17",
@@ -177,17 +178,17 @@
  "datan": "https://datan.fr/deputes/charente-maritime-17/depute_jeanphilippe-ardouin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
-   "curRadiusIndex": 7,
-   "id": "ai45ri7",
-   "no": 526,
+   "curAngleIndex": 2,
+   "curRadiusIndex": 5,
+   "id": "ai2ri5",
+   "no": 19,
    "polar": {
-    "angle": 2.667389988896994,
-    "radius": 0.75
+    "angle": 0.13368479376977843,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.6672428182460604,
-    "y": -0.34253963793427705
+    "x": 0.6194234300967375,
+    "y": -0.08332081715369685
    }
   }
  },

@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/736201.jpg",
+  "nosiege": "583"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA736201",
+  "civ": "Mme",
+  "communes": [
+   "Arcueil (94110)",
+   "Cachan (94230)",
+   "Gentilly (94250)",
+   "Villejuif (94800)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Non inscrit",
+  "nom": "Taillé-Polian",
+  "numCirco": "11",
+  "numDepartement": "94",
+  "prenom": "Sophie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 29,
+   "curRadiusIndex": 3,
+   "id": "ai29ri3",
+   "no": 583,
+   "polar": {
+    "angle": 2.84706834231575,
+    "radius": 0.5
+   },
+   "pos": {
+    "x": -0.4784701678661044,
+    "y": -0.14517103461902417
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA736201",
+ "uid": "PA736201"
+}

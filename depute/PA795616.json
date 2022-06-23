@@ -1,0 +1,48 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795616.jpg",
+  "nosiege": "68"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/carlos%20martens%20bilongo/",
+  "twitter_link": "https://twitter.com/@bilongocarlos/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795616",
+  "civ": "M.",
+  "communes": [
+   "Arnouville (95400)",
+   "Bonneuil-en-France (95500)",
+   "Garges-lès-Gonesse (95140)",
+   "Sarcelles (95200)",
+   "Villiers-le-Bel (95400)"
+  ],
+  "departement": "Val-d'oise",
+  "group": "Non inscrit",
+  "nom": "Bilongo",
+  "numCirco": "8",
+  "numDepartement": "95",
+  "prenom": "Carlos Martens"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 2,
+   "curRadiusIndex": 11,
+   "id": "ai2ri11",
+   "no": 68,
+   "polar": {
+    "angle": 0.07953399123012135,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.9968388390146958,
+    "y": -0.07946587500949945
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795616",
+ "uid": "PA795616"
+}

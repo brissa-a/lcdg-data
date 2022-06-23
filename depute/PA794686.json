@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794686.jpg",
+  "nosiege": "419"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794686",
+  "civ": "Mme",
+  "communes": [
+   "Aulnat (63510)",
+   "Blanzat (63112)",
+   "Clermont-Ferrand (63000)",
+   "Clermont-Ferrand (63100)",
+   "Cournon-d'Auvergne (63800)",
+   "Cébazat (63118)",
+   "Gerzat (63360)",
+   "Malintrat (63510)",
+   "Sayat (63530)"
+  ],
+  "departement": "Puy-de-dôme",
+  "group": "Non inscrit",
+  "nom": "Maximi",
+  "numCirco": "1",
+  "numDepartement": "63",
+  "prenom": "Marianne"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 27,
+   "curRadiusIndex": 4,
+   "id": "ai27ri4",
+   "no": 419,
+   "polar": {
+    "angle": 2.174948760177549,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.319536420036275,
+    "y": -0.4630199498251279
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794686",
+ "uid": "PA794686"
+}

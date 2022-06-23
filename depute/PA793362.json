@@ -1,0 +1,58 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793362.jpg",
+  "nosiege": "257"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Jos%C3%A9%20Gonzalez%20(conseiller%20regional)/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793362",
+  "civ": "M.",
+  "communes": [
+   "Allauch (13190)",
+   "Auriol (13390)",
+   "Belcodène (13720)",
+   "Bouc-Bel-Air (13320)",
+   "Cadolive (13950)",
+   "Gardanne (13120)",
+   "Gréasque (13850)",
+   "La Bouilladisse (13720)",
+   "La Destrousse (13112)",
+   "Meyreuil (13590)",
+   "Mimet (13105)",
+   "Peypin (13124)",
+   "Plan-de-Cuques (13380)",
+   "Roquevaire (13360)",
+   "Saint-Savournin (13119)",
+   "Simiane-Collongue (13109)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Gonzalez",
+  "numCirco": "10",
+  "numDepartement": "13",
+  "prenom": "José"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 15,
+   "curRadiusIndex": 4,
+   "id": "ai15ri4",
+   "no": 257,
+   "polar": {
+    "angle": 1.208304866765305,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.19946524896142637,
+    "y": -0.5260506210577675
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793362",
+ "uid": "PA793362"
+}

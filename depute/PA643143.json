@@ -1,0 +1,50 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643143.jpg",
+  "nosiege": "32"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@ChrisBapt/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA643143",
+  "civ": "M.",
+  "communes": [
+   "Anse-Bertrand (97121)",
+   "La Désirade (97127)",
+   "Le Gosier (97190)",
+   "Le Moule (97160)",
+   "Petit-Canal (97131)",
+   "Port-Louis (Guadeloupe) (97117)",
+   "Saint-François (97118)",
+   "Sainte-Anne (97180)"
+  ],
+  "departement": "Guadeloupe",
+  "group": "Non inscrit",
+  "nom": "Baptiste",
+  "numCirco": "2",
+  "numDepartement": "971",
+  "prenom": "Christian"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 2,
+   "curRadiusIndex": 7,
+   "id": "ai2ri7",
+   "no": 32,
+   "polar": {
+    "angle": 0.11855066617319975,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.7447358220101377,
+    "y": -0.08872241597138975
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643143",
+ "uid": "PA643143"
+}

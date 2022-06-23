@@ -12,9 +12,9 @@
   "nom": "Maxime Minot"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720630.jpg",
-  "nosiege": "17"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720630.jpg",
+  "nosiege": "439"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -87,7 +87,7 @@
    "Villers-Saint-Paul (60870)"
   ],
   "departement": "Oise",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Minot",
   "numCirco": "7",
   "numDepartement": "60",
@@ -96,17 +96,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_maxime-minot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 5,
-   "id": "ai0ri5",
-   "no": 17,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 7,
+   "id": "ai37ri7",
+   "no": 439,
    "polar": {
-    "angle": 0,
-    "radius": 0.625
+    "angle": 2.1931873242041955,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.625,
-    "y": 0
+    "x": -0.43723460933585423,
+    "y": -0.6094856356700056
    }
   }
  },

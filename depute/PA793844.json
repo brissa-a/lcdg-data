@@ -1,0 +1,90 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793844.jpg",
+  "nosiege": "82"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793844",
+  "civ": "Mme",
+  "communes": [
+   "Aramon (30390)",
+   "Argilliers (30210)",
+   "Bagnols-sur-Cèze (30200)",
+   "Castillon-du-Gard (30210)",
+   "Cavillargues (30330)",
+   "Chusclan (30200)",
+   "Codolet (30200)",
+   "Collias (30210)",
+   "Comps (Gard) (30300)",
+   "Connaux (30330)",
+   "Domazan (30390)",
+   "Estézargues (30390)",
+   "Fournès (30210)",
+   "Gaujac (Gard) (30330)",
+   "La Roque-sur-Cèze (30200)",
+   "Laudun-l'Ardoise (30290)",
+   "Le Pin (Gard) (30330)",
+   "Les Angles (Gard) (30133)",
+   "Lirac (30126)",
+   "Meynes (30840)",
+   "Montfaucon (Gard) (30150)",
+   "Montfrin (30490)",
+   "Orsan (30200)",
+   "Pouzilhac (30210)",
+   "Pujaut (30131)",
+   "Remoulins (30210)",
+   "Rochefort-du-Gard (30650)",
+   "Roquemaure (Gard) (30150)",
+   "Sabran (30200)",
+   "Saint-Bonnet-du-Gard (30210)",
+   "Saint-Etienne-des-Sorts (30200)",
+   "Saint-Geniès-de-Comolas (30150)",
+   "Saint-Gervais (Gard) (30200)",
+   "Saint-Hilaire-d'Ozilhan (30210)",
+   "Saint-Laurent-des-Arbres (30126)",
+   "Saint-Michel-d'Euzet (30200)",
+   "Saint-Nazaire (Gard) (30200)",
+   "Saint-Paul-les-Fonts (30330)",
+   "Saint-Pons-la-Calm (30330)",
+   "Saint-Victor-la-Coste (30290)",
+   "Sauveterre (Gard) (30150)",
+   "Saze (30650)",
+   "Sernhac (30210)",
+   "Tavel (30126)",
+   "Théziers (30390)",
+   "Tresques (30330)",
+   "Valliguières (30210)",
+   "Vers-Pont-du-Gard (30210)",
+   "Villeneuve-lès-Avignon (30400)",
+   "Vénéjan (30200)"
+  ],
+  "departement": "Gard",
+  "group": "Non inscrit",
+  "nom": "Bordes",
+  "numCirco": "3",
+  "numDepartement": "30",
+  "prenom": "Pascale"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 4,
+   "curRadiusIndex": 2,
+   "id": "ai4ri2",
+   "no": 82,
+   "polar": {
+    "angle": 0.43332312463307493,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": 0.3970642461060437,
+    "y": -0.1837378014260713
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793844",
+ "uid": "PA793844"
+}

@@ -12,9 +12,9 @@
   "nom": "Corinne Vignon"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719512.jpg",
-  "nosiege": "375"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719512.jpg",
+  "nosiege": "627"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -48,7 +48,7 @@
    "Verfeil (Haute-Garonne) (31590)"
   ],
   "departement": "Haute-garonne",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Vignon",
   "numCirco": "3",
   "numDepartement": "31",
@@ -57,17 +57,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_corinne-vignon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 36,
+   "curAngleIndex": 66,
    "curRadiusIndex": 9,
-   "id": "ai36ri9",
-   "no": 375,
+   "id": "ai66ri9",
+   "no": 627,
    "polar": {
-    "angle": 1.6390918192642399,
+    "angle": 3.0050016686511065,
     "radius": 0.875
    },
    "pos": {
-    "x": -0.059712111694087015,
-    "y": -0.8731327653962209
+    "x": -0.8668502027817894,
+    "y": -0.11916937419681443
    }
   }
  },

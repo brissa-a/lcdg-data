@@ -1,0 +1,74 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796034.jpg",
+  "nosiege": "250"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@FrankGiletti/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA796034",
+  "civ": "M.",
+  "communes": [
+   "Brignoles (83170)",
+   "Camps-la-Source (83170)",
+   "Carnoules (83660)",
+   "Cuers (83390)",
+   "Forcalqueiret (83136)",
+   "Garéoult (83136)",
+   "La Cadière-d'Azur (83740)",
+   "La Celle (Var) (83170)",
+   "La Roquebrussanne (83136)",
+   "Le Beausset (83330)",
+   "Le Castellet (Var) (83330)",
+   "Le Val (83143)",
+   "Mazaugues (83136)",
+   "Méounes-lès-Montrieux (83136)",
+   "Nans-les-Pins (83860)",
+   "Néoules (83136)",
+   "Ollières (83470)",
+   "Pierrefeu-du-Var (83390)",
+   "Plan-d'Aups-Sainte-Baume (83640)",
+   "Pourcieux (83470)",
+   "Pourrières (83910)",
+   "Puget-Ville (83390)",
+   "Riboux (13780)",
+   "Rocbaron (83136)",
+   "Rougiers (83170)",
+   "Saint-Cyr-sur-Mer (83270)",
+   "Saint-Maximin-la-Sainte-Baume (83470)",
+   "Saint-Zacharie (83640)",
+   "Sainte-Anastasie-sur-Issole (83136)",
+   "Signes (83870)",
+   "Tourves (83170)",
+   "Vins-sur-Caramy (83170)"
+  ],
+  "departement": "Var",
+  "group": "Non inscrit",
+  "nom": "Giletti",
+  "numCirco": "6",
+  "numDepartement": "83",
+  "prenom": "Frank"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 13,
+   "curRadiusIndex": 2,
+   "id": "ai13ri2",
+   "no": 250,
+   "polar": {
+    "angle": 1.4083001550574936,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": 0.07077962349183452,
+    "y": -0.43182196195842876
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796034",
+ "uid": "PA796034"
+}

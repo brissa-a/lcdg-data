@@ -12,9 +12,9 @@
   "nom": "Béatrice Piron"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721844.jpg",
-  "nosiege": "391"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721844.jpg",
+  "nosiege": "496"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,7 +40,7 @@
    "Villepreux (78450)"
   ],
   "departement": "Yvelines",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Piron",
   "numCirco": "3",
   "numDepartement": "78",
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_beatrice-piron",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 10,
-   "id": "ai47ri10",
-   "no": 391,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 2,
+   "id": "ai24ri2",
+   "no": 496,
    "polar": {
-    "angle": 1.8228994409718553,
-    "radius": 0.9375
+    "angle": 2.5999387477984497,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.23385107255435744,
-    "y": -0.9080450814748641
+    "x": -0.3748750145733203,
+    "y": -0.22559940680156249
    }
   }
  },

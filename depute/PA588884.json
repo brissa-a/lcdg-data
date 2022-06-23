@@ -12,9 +12,9 @@
   "nom": "Clémentine Autain"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/588884.jpg",
-  "nosiege": "618"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/588884.jpg",
+  "nosiege": "24"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -30,7 +30,7 @@
    "Villepinte (Seine-Saint-Denis) (93420)"
   ],
   "departement": "Seine-saint-denis",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Autain",
   "numCirco": "11",
   "numDepartement": "93",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_clementine-autain",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 64,
-   "curRadiusIndex": 8,
-   "id": "ai64ri8",
-   "no": 618,
+   "curAngleIndex": 1,
+   "curRadiusIndex": 6,
+   "id": "ai1ri6",
+   "no": 24,
    "polar": {
-    "angle": 3.000924325817116,
-    "radius": 0.8125
+    "angle": 0.05927533308659987,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.8044745430594039,
-    "y": -0.11393898107361952
+    "x": 0.6862925655879709,
+    "y": -0.04073598396824619
    }
   }
  },

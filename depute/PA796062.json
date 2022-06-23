@@ -1,0 +1,47 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796062.jpg",
+  "nosiege": "504"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/thomas%20portes/",
+  "twitter_link": "https://twitter.com/@Portes_Thomas/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA796062",
+  "civ": "M.",
+  "communes": [
+   "Gournay-sur-Marne (93460)",
+   "Neuilly-Plaisance (93360)",
+   "Neuilly-sur-Marne (93330)",
+   "Noisy-le-Grand (93160)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Portes",
+  "numCirco": "3",
+  "numDepartement": "93",
+  "prenom": "Thomas"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 31,
+   "curRadiusIndex": 4,
+   "id": "ai31ri4",
+   "no": 504,
+   "polar": {
+    "angle": 2.4971633913149636,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.44968655441446925,
+    "y": -0.3379843330746964
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796062",
+ "uid": "PA796062"
+}

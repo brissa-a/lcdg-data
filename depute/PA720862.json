@@ -12,9 +12,9 @@
   "nom": "Frédéric Descrozaille"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720862.jpg",
-  "nosiege": "467"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720862.jpg",
+  "nosiege": "181"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -32,7 +32,7 @@
    "Saint-Maur-des-Fossés (94210)"
   ],
   "departement": "Val-de-marne",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Descrozaille",
   "numCirco": "1",
   "numDepartement": "94",
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_frederic-descrozaille",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 55,
-   "curRadiusIndex": 10,
-   "id": "ai55ri10",
-   "no": 467,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 5,
+   "id": "ai12ri5",
+   "no": 181,
    "polar": {
-    "angle": 2.133180196881958,
-    "radius": 0.9375
+    "angle": 0.8021087626186706,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.49987915575158537,
-    "y": -0.7932690799812909
+    "x": 0.4344952672966514,
+    "y": -0.44935362625833014
    }
   }
  },

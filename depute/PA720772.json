@@ -12,9 +12,9 @@
   "nom": "Vincent Bru"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720772.jpg",
-  "nosiege": "168"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720772.jpg",
+  "nosiege": "105"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -53,7 +53,7 @@
    "Ustaritz (64480)"
   ],
   "departement": "Pyrénées-atlantiques",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Bru",
   "numCirco": "6",
   "numDepartement": "64",
@@ -62,17 +62,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_vincent-bru",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 2,
-   "id": "ai7ri2",
-   "no": 168,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 6,
+   "id": "ai11ri6",
+   "no": 105,
    "polar": {
-    "angle": 0.7583154681078811,
-    "radius": 0.4375
+    "angle": 0.6520286639525986,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.3176230277163697,
-    "y": -0.30092799775488255
+    "x": 0.5464624284716804,
+    "y": -0.4172575796519947
    }
   }
  },

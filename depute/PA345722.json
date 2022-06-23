@@ -12,9 +12,9 @@
   "nom": "Constance Le Grip"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/345722.jpg",
-  "nosiege": "102"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/345722.jpg",
+  "nosiege": "346"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -30,7 +30,7 @@
    "Puteaux (92800)"
   ],
   "departement": "Hauts-de-seine",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Le Grip",
   "numCirco": "6",
   "numDepartement": "92",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_constance-legrip",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 6,
-   "id": "ai8ri6",
-   "no": 102,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 5,
+   "id": "ai28ri5",
+   "no": 346,
    "polar": {
-    "angle": 0.474202664692799,
-    "radius": 0.6875
+    "angle": 1.871587112776898,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.6116392500588888,
-    "y": -0.3139946681064205
+    "x": -0.18517223805352115,
+    "y": -0.5970570811648381
    }
   }
  },

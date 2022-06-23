@@ -1,0 +1,47 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795516.jpg",
+  "nosiege": "329"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795516",
+  "civ": "M.",
+  "communes": [
+   "Brou-sur-Chantereine (77177)",
+   "Champs-sur-Marne (77420)",
+   "Chelles (Seine-et-Marne) (77500)",
+   "Emerainville (77184)",
+   "Lognes (77185)",
+   "Noisiel (77186)",
+   "Vaires-sur-Marne (77360)"
+  ],
+  "departement": "Seine-et-marne",
+  "group": "Non inscrit",
+  "nom": "Laisney",
+  "numCirco": "10",
+  "numDepartement": "77",
+  "prenom": "Maxime"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 15,
+   "curRadiusIndex": 2,
+   "id": "ai15ri2",
+   "no": 329,
+   "polar": {
+    "angle": 1.624961717374031,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": -0.023685772506120147,
+    "y": -0.4369447395269976
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795516",
+ "uid": "PA795516"
+}

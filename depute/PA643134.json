@@ -12,12 +12,14 @@
   "nom": "Isabelle Valentin"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/643134.jpg",
-  "nosiege": "19"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643134.jpg",
+  "nosiege": "611"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Isabelle%20Valentin%20-%20D%C3%A9put%C3%A9e/"
+ },
  "circo": {
   "acteurId": "OMC_PA643134",
   "civ": "Mme",
@@ -107,7 +109,7 @@
    "Yssingeaux (43200)"
   ],
   "departement": "Haute-loire",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Valentin",
   "numCirco": "1",
   "numDepartement": "43",
@@ -116,17 +118,17 @@
  "datan": "https://datan.fr/deputes/haute-loire-43/depute_isabelle-valentin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 5,
-   "id": "ai2ri5",
-   "no": 19,
+   "curAngleIndex": 52,
+   "curRadiusIndex": 7,
+   "id": "ai52ri7",
+   "no": 611,
    "polar": {
-    "angle": 0.13368479376977843,
-    "radius": 0.625
+    "angle": 3.0823173205031935,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.6194234300967375,
-    "y": -0.08332081715369685
+    "x": -0.7486827988232412,
+    "y": -0.04443925523808664
    }
   }
  },

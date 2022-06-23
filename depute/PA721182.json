@@ -12,9 +12,9 @@
   "nom": "Frédéric Petit"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721182.jpg",
-  "nosiege": "260"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721182.jpg",
+  "nosiege": "485"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -43,7 +43,7 @@
    "ancienne République yougoslave de Macédoine"
   ],
   "departement": "Français établis hors de france",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Petit",
   "numCirco": "7",
   "numDepartement": "099",
@@ -52,17 +52,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_frederic-petit",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 4,
-   "id": "ai18ri4",
-   "no": 260,
+   "curAngleIndex": 58,
+   "curRadiusIndex": 11,
+   "id": "ai58ri11",
+   "no": 485,
    "polar": {
-    "angle": 1.449965840118366,
-    "radius": 0.5625
+    "angle": 2.3064857456735193,
+    "radius": 1
    },
    "pos": {
-    "x": 0.06780188264361932,
-    "y": -0.5585091423107365
+    "x": -0.6710984283590369,
+    "y": -0.7415148371069687
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Isabelle Rauch"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720552.jpg",
-  "nosiege": "273"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720552.jpg",
+  "nosiege": "522"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -98,7 +98,7 @@
    "Zoufftgen (57330)"
   ],
   "departement": "Moselle",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Rauch",
   "numCirco": "9",
   "numDepartement": "57",
@@ -107,17 +107,17 @@
  "datan": "https://datan.fr/deputes/moselle-57/depute_isabelle-rauch",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 25,
-   "curRadiusIndex": 6,
-   "id": "ai25ri6",
-   "no": 273,
+   "curAngleIndex": 41,
+   "curRadiusIndex": 7,
+   "id": "ai41ri7",
+   "no": 522,
    "polar": {
-    "angle": 1.4818833271649967,
-    "radius": 0.6875
+    "angle": 2.430288656550595,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.06104717803451774,
-    "y": -0.6849196550236568
+    "x": -0.5681334316212151,
+    "y": -0.48971339040137385
    }
   }
  },

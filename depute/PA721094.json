@@ -12,9 +12,9 @@
   "nom": "Philippe Dunoyer"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721094.jpg",
-  "nosiege": "120"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721094.jpg",
+  "nosiege": "196"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -32,7 +32,7 @@
    "Ouvéa (98814)"
   ],
   "departement": "Nouvelle-calédonie",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Dunoyer",
   "numCirco": "1",
   "numDepartement": "988",
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/nouvelle-caledonie-988/depute_philippe-dunoyer",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
-   "curRadiusIndex": 8,
-   "id": "ai11ri8",
-   "no": 120,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 7,
+   "id": "ai14ri7",
+   "no": 196,
    "polar": {
-    "angle": 0.5157838684998168,
-    "radius": 0.8125
+    "angle": 0.8298546632123982,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.7067989275821421,
-    "y": -0.4008179550943951
+    "x": 0.5062372511386579,
+    "y": -0.5534843666633189
    }
   }
  },

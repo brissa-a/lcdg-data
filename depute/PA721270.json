@@ -12,9 +12,9 @@
   "nom": "Stéphane Peu"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721270.jpg",
-  "nosiege": "589"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721270.jpg",
+  "nosiege": "487"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -31,7 +31,7 @@
    "Villetaneuse (93430)"
   ],
   "departement": "Seine-saint-denis",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Peu",
   "numCirco": "2",
   "numDepartement": "93",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_stephane-peu",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 4,
-   "id": "ai37ri4",
-   "no": 589,
+   "curAngleIndex": 60,
+   "curRadiusIndex": 11,
+   "id": "ai60ri11",
+   "no": 487,
    "polar": {
-    "angle": 2.9804853380210856,
-    "radius": 0.5625
+    "angle": 2.3860197369036404,
+    "radius": 1
    },
    "pos": {
-    "x": -0.5552157727338259,
-    "y": -0.09024918505965242
+    "x": -0.7278788103694941,
+    "y": -0.6858413655068314
    }
   }
  },

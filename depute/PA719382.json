@@ -12,9 +12,9 @@
   "nom": "Luc Lamirault"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719382.jpg",
-  "nosiege": "156"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719382.jpg",
+  "nosiege": "331"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -121,7 +121,7 @@
    "Villebon (28190)"
   ],
   "departement": "Eure-et-loir",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Lamirault",
   "numCirco": "3",
   "numDepartement": "28",
@@ -130,17 +130,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_luc-lamirault",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 11,
-   "id": "ai15ri11",
-   "no": 156,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 2,
+   "id": "ai17ri2",
+   "no": 331,
    "polar": {
-    "angle": 0.5965049342259101,
-    "radius": 1
+    "angle": 1.8416232796905685,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.8273040325430572,
-    "y": -0.5618654924018461
+    "x": -0.11704364810653413,
+    "y": -0.42163646670448224
    }
   }
  },

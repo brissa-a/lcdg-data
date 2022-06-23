@@ -12,9 +12,9 @@
   "nom": "Jean-Paul Mattei"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720728.jpg",
-  "nosiege": "255"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720728.jpg",
+  "nosiege": "416"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -117,7 +117,7 @@
    "Urost (64160)"
   ],
   "departement": "Pyrénées-atlantiques",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Mattei",
   "numCirco": "2",
   "numDepartement": "64",
@@ -126,17 +126,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_jeanpaul-mattei",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
+   "curAngleIndex": 24,
    "curRadiusIndex": 3,
-   "id": "ai15ri3",
-   "no": 255,
+   "id": "ai24ri3",
+   "no": 416,
    "polar": {
-    "angle": 1.4726215563702154,
+    "angle": 2.356194490192345,
     "radius": 0.5
    },
    "pos": {
-    "x": 0.049008570164780385,
-    "y": -0.49769074197950175
+    "x": -0.35355339059327373,
+    "y": -0.3536232913905932
    }
   }
  },

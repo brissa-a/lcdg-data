@@ -12,12 +12,15 @@
   "nom": "Jean-Hugues Ratenon"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721062.jpg",
-  "nosiege": "619"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721062.jpg",
+  "nosiege": "520"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Depute.Ratenon/",
+  "twitter_link": "https://twitter.com/@DeputeRatenon/"
+ },
  "circo": {
   "acteurId": "OMC_PA721062",
   "civ": "M.",
@@ -32,7 +35,7 @@
    "Salazie (97433)"
   ],
   "departement": "La réunion",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Ratenon",
   "numCirco": "5",
   "numDepartement": "974",
@@ -41,17 +44,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_jeanhugues-ratenon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 65,
-   "curRadiusIndex": 8,
-   "id": "ai65ri8",
-   "no": 619,
+   "curAngleIndex": 47,
+   "curRadiusIndex": 6,
+   "id": "ai47ri6",
+   "no": 520,
    "polar": {
-    "angle": 3.0478137684080084,
-    "radius": 0.8125
+    "angle": 2.785940655070194,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.8089298603927922,
-    "y": -0.07609875270460478
+    "x": -0.6444760170297081,
+    "y": -0.2394359537211757
    }
   }
  },

@@ -12,14 +12,14 @@
   "nom": "Perrine Goulet"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720560.jpg",
-  "nosiege": "250"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720560.jpg",
+  "nosiege": "261"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/perrinegouletREM/",
-  "twitter_link": "https://twitter.com/@pgoulet58/"
+  "facebook_link": "https://fr-fr.facebook.com/perrinegouletDEM/",
+  "twitter_link": "https://twitter.com/@perrinegoulet/"
  },
  "circo": {
   "acteurId": "OMC_PA720560",
@@ -94,7 +94,7 @@
    "Ville-Langy (58270)"
   ],
   "departement": "Nièvre",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Goulet",
   "numCirco": "1",
   "numDepartement": "58",
@@ -103,17 +103,17 @@
  "datan": "https://datan.fr/deputes/nievre-58/depute_perrine-goulet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 2,
-   "id": "ai13ri2",
-   "no": 250,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 4,
+   "id": "ai19ri4",
+   "no": 261,
    "polar": {
-    "angle": 1.4083001550574936,
-    "radius": 0.4375
+    "angle": 1.5305194979027197,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.07077962349183452,
-    "y": -0.43182196195842876
+    "x": 0.022649591311546074,
+    "y": -0.5621549327663266
    }
   }
  },

@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/346782.jpg",
+  "nosiege": "311"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/philippe.juvin/",
+  "twitter_link": "https://twitter.com/@philippejuvin/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA346782",
+  "civ": "M.",
+  "communes": [
+   "Bois-Colombes (92270)",
+   "Courbevoie (92400)",
+   "La Garenne-Colombes (92250)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Juvin",
+  "numCirco": "3",
+  "numDepartement": "92",
+  "prenom": "Philippe"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 36,
+   "curRadiusIndex": 10,
+   "id": "ai36ri10",
+   "no": 311,
+   "polar": {
+    "angle": 1.3962634015954636,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.16279516656274726,
+    "y": -0.9234398050075314
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA346782",
+ "uid": "PA346782"
+}

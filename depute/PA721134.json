@@ -12,9 +12,9 @@
   "nom": "Roland Lescure"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721134.jpg",
-  "nosiege": "349"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721134.jpg",
+  "nosiege": "372"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -38,7 +38,7 @@
    "Washington. Etats-Unis : 2e circonscription : circonscription consulaire de Chicago. Etats-Unis : 3e circonscription : circonscriptions consulaires de Houston"
   ],
   "departement": "Français établis hors de france",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Lescure",
   "numCirco": "1",
   "numDepartement": "099",
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_roland-lescure",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 6,
-   "id": "ai28ri6",
-   "no": 349,
+   "curAngleIndex": 41,
+   "curRadiusIndex": 8,
+   "id": "ai41ri8",
+   "no": 372,
    "polar": {
-    "angle": 1.6597093264247964,
-    "radius": 0.6875
+    "angle": 1.9224671462265899,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.06104717803451766,
-    "y": -0.6849196550236568
+    "x": -0.2798793158560205,
+    "y": -0.7629245737762349
    }
   }
  },

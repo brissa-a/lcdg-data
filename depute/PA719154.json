@@ -12,9 +12,9 @@
   "nom": "Didier Martin"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719154.jpg",
-  "nosiege": "366"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719154.jpg",
+  "nosiege": "404"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -48,7 +48,7 @@
    "Velars-sur-Ouche (21370)"
   ],
   "departement": "Côte-d'or",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Martin",
   "numCirco": "1",
   "numDepartement": "21",
@@ -57,17 +57,17 @@
  "datan": "https://datan.fr/deputes/cote-dor-21/depute_didier-martin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 36,
-   "curRadiusIndex": 8,
-   "id": "ai36ri8",
-   "no": 366,
+   "curAngleIndex": 47,
+   "curRadiusIndex": 11,
+   "id": "ai47ri11",
+   "no": 404,
    "polar": {
-    "angle": 1.6880199332721277,
-    "radius": 0.8125
+    "angle": 1.8690487939078517,
+    "radius": 1
    },
    "pos": {
-    "x": -0.09502619910231701,
-    "y": -0.8070834928241782
+    "x": -0.29385027433792094,
+    "y": -0.9560404421397851
    }
   }
  },

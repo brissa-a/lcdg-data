@@ -12,9 +12,9 @@
   "nom": "Jean-Michel Jacques"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720354.jpg",
-  "nosiege": "404"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720354.jpg",
+  "nosiege": "301"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -72,7 +72,7 @@
    "Séglien (56160)"
   ],
   "departement": "Morbihan",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Jacques",
   "numCirco": "6",
   "numDepartement": "56",
@@ -81,17 +81,17 @@
  "datan": "https://datan.fr/deputes/morbihan-56/depute_jeanmichel-jacques",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 11,
-   "id": "ai47ri11",
-   "no": 404,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 9,
+   "id": "ai32ri9",
+   "no": 301,
    "polar": {
-    "angle": 1.8690487939078517,
-    "radius": 1
+    "angle": 1.4569705060126577,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.29385027433792094,
-    "y": -0.9560404421397851
+    "x": 0.09938266279416554,
+    "y": -0.8695096047454024
    }
   }
  },

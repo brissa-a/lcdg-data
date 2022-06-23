@@ -1,0 +1,41 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795926.jpg",
+  "nosiege": "479"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795926",
+  "civ": "M.",
+  "communes": [
+   "Boulogne-Billancourt (92100)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Pellerin",
+  "numCirco": "9",
+  "numDepartement": "92",
+  "prenom": "Emmanuel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 52,
+   "curRadiusIndex": 11,
+   "id": "ai52ri11",
+   "no": 479,
+   "polar": {
+    "angle": 2.0678837719831553,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.47686750142850626,
+    "y": -0.879148972401955
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795926",
+ "uid": "PA795926"
+}

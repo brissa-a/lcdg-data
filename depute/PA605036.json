@@ -13,8 +13,8 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/605036.jpg",
-  "nosiege": "85"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605036.jpg",
+  "nosiege": "1"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -146,17 +146,17 @@
  "datan": "https://datan.fr/deputes/ain-01/depute_damien-abad",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 3,
-   "id": "ai4ri3",
-   "no": 85,
+   "curAngleIndex": 0,
+   "curRadiusIndex": 1,
+   "id": "ai0ri1",
+   "no": 1,
    "polar": {
-    "angle": 0.39269908169872414,
-    "radius": 0.5
+    "angle": 0,
+    "radius": 0.375
    },
    "pos": {
-    "x": 0.46193976625564337,
-    "y": -0.19137954622145123
+    "x": 0.375,
+    "y": 0
    }
   }
  },

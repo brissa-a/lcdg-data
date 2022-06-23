@@ -1,0 +1,54 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796070.jpg",
+  "nosiege": "234"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA796070",
+  "civ": "M.",
+  "communes": [
+   "L'Etang-Salé (97427)",
+   "Les Avirons (97425)",
+   "Les Trois-Bassins (97426)",
+   "Saint-Leu (97416)",
+   "Saint-Leu (97424)",
+   "Saint-Leu (97436)",
+   "Saint-Louis (97421)",
+   "Saint-Louis (97450)",
+   "Saint-Paul (97411)",
+   "Saint-Paul (97422)",
+   "Saint-Paul (97423)",
+   "Saint-Paul (97434)",
+   "Saint-Paul (97435)",
+   "Saint-Paul (97460)"
+  ],
+  "departement": "La réunion",
+  "group": "Non inscrit",
+  "nom": "Gaillard",
+  "numCirco": "7",
+  "numDepartement": "974",
+  "prenom": "Perceval"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 29,
+   "curRadiusIndex": 10,
+   "id": "ai29ri10",
+   "no": 234,
+   "polar": {
+    "angle": 1.1247677401741234,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.40442443657617516,
+    "y": -0.8459491797010872
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796070",
+ "uid": "PA796070"
+}

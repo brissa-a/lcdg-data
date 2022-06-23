@@ -12,9 +12,9 @@
   "nom": "Christine Cloarec-Le Nabour"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719756.jpg",
-  "nosiege": "301"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719756.jpg",
+  "nosiege": "349"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -96,8 +96,8 @@
    "Vitré (35500)"
   ],
   "departement": "Ille-et-vilaine",
-  "group": "La République en Marche",
-  "nom": "Cloarec-Le Nabour",
+  "group": "Non inscrit",
+  "nom": "Le Nabour",
   "numCirco": "5",
   "numDepartement": "35",
   "prenom": "Christine"
@@ -105,17 +105,17 @@
  "datan": "https://datan.fr/deputes/ille-et-vilaine-35/depute_christine-cloareclenabour",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 9,
-   "id": "ai32ri9",
-   "no": 301,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 6,
+   "id": "ai28ri6",
+   "no": 349,
    "polar": {
-    "angle": 1.4569705060126577,
-    "radius": 0.875
+    "angle": 1.6597093264247964,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.09938266279416554,
-    "y": -0.8695096047454024
+    "x": -0.06104717803451766,
+    "y": -0.6849196550236568
    }
   }
  },

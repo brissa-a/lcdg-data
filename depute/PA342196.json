@@ -12,9 +12,9 @@
   "nom": "Claudia Rouaux"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/342196.jpg",
-  "nosiege": "511"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/342196.jpg",
+  "nosiege": "541"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -90,7 +90,7 @@
    "Trévérien (35190)"
   ],
   "departement": "Ille-et-vilaine",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Rouaux",
   "numCirco": "3",
   "numDepartement": "35",
@@ -99,17 +99,17 @@
  "datan": "https://datan.fr/deputes/ille-et-vilaine-35/depute_claudia-rouaux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 39,
-   "curRadiusIndex": 5,
-   "id": "ai39ri5",
-   "no": 511,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 9,
+   "id": "ai54ri9",
+   "no": 541,
    "polar": {
-    "angle": 2.6068534785106796,
-    "radius": 0.625
+    "angle": 2.4586377288963597,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.5377509870375872,
-    "y": -0.31857337409205605
+    "x": -0.6787473793663672,
+    "y": -0.5523111267527169
    }
   }
  },

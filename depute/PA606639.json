@@ -12,9 +12,9 @@
   "nom": "Patrick Vignal"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/606639.jpg",
-  "nosiege": "389"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/606639.jpg",
+  "nosiege": "626"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -41,7 +41,7 @@
    "Valergues (34130)"
   ],
   "departement": "Hérault",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Vignal",
   "numCirco": "9",
   "numDepartement": "34",
@@ -50,17 +50,17 @@
  "datan": "https://datan.fr/deputes/herault-34/depute_patrick-vignal",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 46,
-   "curRadiusIndex": 10,
-   "id": "ai46ri10",
-   "no": 389,
+   "curAngleIndex": 65,
+   "curRadiusIndex": 9,
+   "id": "ai65ri9",
+   "no": 626,
    "polar": {
-    "angle": 1.7841143464830924,
-    "radius": 0.9375
+    "angle": 2.9594713403382107,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.19847238021507255,
-    "y": -0.9164316433636337
+    "x": -0.8605289889295242,
+    "y": -0.1585080158120561
    }
   }
  },

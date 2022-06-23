@@ -12,9 +12,9 @@
   "nom": "Stéphanie Rist"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720066.jpg",
-  "nosiege": "607"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720066.jpg",
+  "nosiege": "533"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -47,7 +47,7 @@
    "Villorceau (45190)"
   ],
   "departement": "Loiret",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Rist",
   "numCirco": "1",
   "numDepartement": "45",
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/loiret-45/depute_stephanie-rist",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 49,
-   "curRadiusIndex": 7,
-   "id": "ai49ri7",
-   "no": 607,
+   "curAngleIndex": 55,
+   "curRadiusIndex": 8,
+   "id": "ai55ri8",
+   "no": 533,
    "polar": {
-    "angle": 2.904491321243394,
-    "radius": 0.75
+    "angle": 2.578919342499084,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.729017185560308,
-    "y": -0.17619936370447548
+    "x": -0.6872385481480168,
+    "y": -0.4335132274785061
    }
   }
  },

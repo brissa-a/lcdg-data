@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795228.jpg",
+  "nosiege": "3"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@abomangoli/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795228",
+  "civ": "Mme",
+  "communes": [
+   "Aulnay-sous-Bois (93600)",
+   "Bondy (93140)",
+   "Les Pavillons-sous-Bois (93320)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "Non inscrit",
+  "nom": "Abomangoli",
+  "numCirco": "10",
+  "numDepartement": "93",
+  "prenom": "Nadège"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 2,
+   "curRadiusIndex": 1,
+   "id": "ai2ri1",
+   "no": 3,
+   "polar": {
+    "angle": 0.2731819698773733,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": 0.3610939827554248,
+    "y": -0.10119379218405307
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795228",
+ "uid": "PA795228"
+}

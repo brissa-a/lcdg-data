@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796090.jpg",
+  "nosiege": "119"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/aymeric.caron.5/",
+  "twitter_link": "https://twitter.com/@CaronAymericoff/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA796090",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 18eme arrondissement (75018)",
+   "Paris 9eme arrondissement (75009)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Caron",
+  "numCirco": "18",
+  "numDepartement": "75",
+  "prenom": "Aymeric"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 10,
+   "curRadiusIndex": 8,
+   "id": "ai10ri8",
+   "no": 119,
+   "polar": {
+    "angle": 0.4688944259089244,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7248056095778765,
+    "y": -0.367241597856036
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796090",
+ "uid": "PA796090"
+}

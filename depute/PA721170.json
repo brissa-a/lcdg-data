@@ -12,12 +12,15 @@
   "nom": "Stéphane Vojetta"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721170.jpg",
-  "nosiege": "399"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721170.jpg",
+  "nosiege": "634"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/stephanevojettaofficiel/",
+  "twitter_link": "https://twitter.com/@StephaneVojetta/"
+ },
  "circo": {
   "acteurId": "OMC_PA721170",
   "civ": "M.",
@@ -28,7 +31,7 @@
    "Portugal"
   ],
   "departement": "Français établis hors de france",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Vojetta",
   "numCirco": "5",
   "numDepartement": "099",
@@ -37,17 +40,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_stephane-vojetta",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 42,
-   "curRadiusIndex": 11,
-   "id": "ai42ri11",
-   "no": 399,
+   "curAngleIndex": 76,
+   "curRadiusIndex": 10,
+   "id": "ai76ri10",
+   "no": 634,
    "polar": {
-    "angle": 1.6702138158325484,
-    "radius": 1
+    "angle": 2.9476671811459787,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.09925379890806164,
-    "y": -0.9952588835747879
+    "x": -0.9199268537131732,
+    "y": -0.18070346395910494
    }
   }
  },

@@ -1,0 +1,42 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795794.jpg",
+  "nosiege": "474"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795794",
+  "civ": "Mme",
+  "communes": [
+   "Asnières-sur-Seine (92600)",
+   "Colombes (92700)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Pasquini",
+  "numCirco": "2",
+  "numDepartement": "92",
+  "prenom": "Francesca"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 61,
+   "curRadiusIndex": 10,
+   "id": "ai61ri10",
+   "no": 474,
+   "polar": {
+    "angle": 2.3658907638145354,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.6693091261480302,
+    "y": -0.6565835505531296
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795794",
+ "uid": "PA795794"
+}

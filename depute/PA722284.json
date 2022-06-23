@@ -12,9 +12,9 @@
   "nom": "Bruno Fuchs"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722284.jpg",
-  "nosiege": "181"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722284.jpg",
+  "nosiege": "232"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -67,7 +67,7 @@
    "Zaessingue (68130)"
   ],
   "departement": "Haut-rhin",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Fuchs",
   "numCirco": "6",
   "numDepartement": "68",
@@ -76,17 +76,17 @@
  "datan": "https://datan.fr/deputes/haut-rhin-68/depute_bruno-fuchs",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 5,
-   "id": "ai12ri5",
-   "no": 181,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 10,
+   "id": "ai27ri10",
+   "no": 232,
    "polar": {
-    "angle": 0.8021087626186706,
-    "radius": 0.625
+    "angle": 1.0471975511965976,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.4344952672966514,
-    "y": -0.44935362625833014
+    "x": 0.4687500000000001,
+    "y": -0.8120593360035794
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Thierry Benoit"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/332228.jpg",
-  "nosiege": "114"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/332228.jpg",
+  "nosiege": "56"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -107,7 +107,7 @@
    "Villamée (35420)"
   ],
   "departement": "Ille-et-vilaine",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Benoit",
   "numCirco": "6",
   "numDepartement": "35",
@@ -116,17 +116,17 @@
  "datan": "https://datan.fr/deputes/ille-et-vilaine-35/depute_thierry-benoit",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 7,
-   "id": "ai12ri7",
-   "no": 114,
+   "curAngleIndex": 0,
+   "curRadiusIndex": 10,
+   "id": "ai0ri10",
+   "no": 56,
    "polar": {
-    "angle": 0.7113039970391984,
-    "radius": 0.75
+    "angle": 0,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5681334316212151,
-    "y": -0.48971339040137385
+    "x": 0.9375,
+    "y": 0
    }
   }
  },

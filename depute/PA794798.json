@@ -1,0 +1,87 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794798.jpg",
+  "nosiege": "112"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794798",
+  "civ": "Mme",
+  "communes": [
+   "Achenheim (67204)",
+   "Berstett (67370)",
+   "Blaesheim (67113)",
+   "Breuschwickersheim (67112)",
+   "Dingsheim (67370)",
+   "Dossenheim-Kochersberg (67117)",
+   "Duppigheim (67120)",
+   "Durningen (67270)",
+   "Eckbolsheim (67201)",
+   "Entzheim (67960)",
+   "Eschau (67114)",
+   "Fegersheim (67640)",
+   "Fessenheim-le-Bas (67117)",
+   "Furdenheim (67117)",
+   "Geispolsheim (67118)",
+   "Gougenheim (67270)",
+   "Griesheim-sur-Souffel (67370)",
+   "Handschuheim (67117)",
+   "Hangenbieten (67980)",
+   "Holtzheim (67810)",
+   "Hurtigheim (67117)",
+   "Ittenheim (67117)",
+   "Kienheim (67270)",
+   "Kolbsheim (67120)",
+   "Kuttolsheim (67520)",
+   "Lampertheim (67450)",
+   "Lingolsheim (67380)",
+   "Lipsheim (67640)",
+   "Mittelhausbergen (67206)",
+   "Mundolsheim (67450)",
+   "Neugartheim-Ittlenheim (67370)",
+   "Niederhausbergen (67207)",
+   "Oberhausbergen (67205)",
+   "Oberschaeffolsheim (67203)",
+   "Osthoffen (67990)",
+   "Ostwald (67540)",
+   "Pfulgriesheim (67370)",
+   "Plobsheim (67115)",
+   "Quatzenheim (67117)",
+   "Rohr (67270)",
+   "Schnersheim (67370)",
+   "Stutzheim-Offenheim (67370)",
+   "Truchtersheim (67370)",
+   "Willgottheim (67370)",
+   "Wintzenheim-Kochersberg (67370)",
+   "Wiwersheim (67370)",
+   "Wolfisheim (67202)"
+  ],
+  "departement": "Bas-rhin",
+  "group": "Non inscrit",
+  "nom": "Buffet",
+  "numCirco": "4",
+  "numDepartement": "67",
+  "prenom": "Françoise"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 10,
+   "curRadiusIndex": 7,
+   "id": "ai10ri7",
+   "no": 112,
+   "polar": {
+    "angle": 0.5927533308659987,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.6220542640876514,
+    "y": -0.41906791160318413
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794798",
+ "uid": "PA794798"
+}

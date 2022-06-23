@@ -12,9 +12,9 @@
   "nom": "Olga Givernet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718674.jpg",
-  "nosiege": "572"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718674.jpg",
+  "nosiege": "256"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -97,7 +97,7 @@
    "Virignin (01300)"
   ],
   "departement": "Ain",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Givernet",
   "numCirco": "3",
   "numDepartement": "01",
@@ -106,17 +106,17 @@
  "datan": "https://datan.fr/deputes/ain-01/depute_olga-givernet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 70,
-   "curRadiusIndex": 11,
-   "id": "ai70ri11",
-   "no": 572,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 3,
+   "id": "ai16ri3",
+   "no": 256,
    "polar": {
-    "angle": 2.783689693054247,
-    "radius": 1
+    "angle": 1.5707963267948966,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.9366334982687279,
-    "y": -0.3503801072801948
+    "x": 3.061616997868383e-17,
+    "y": -0.5000988546555897
    }
   }
  },

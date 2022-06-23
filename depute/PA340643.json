@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/340643.jpg",
+  "nosiege": "547"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/lrp.marseille/",
+  "twitter_link": "https://twitter.com/@RoyerPerreaut/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA340643",
+  "civ": "M.",
+  "communes": [
+   "Marseille",
+   "Marseille 10eme arrondissement (13010)",
+   "Marseille 9eme arrondissement (13009)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Royer-Perreaut",
+  "numCirco": "6",
+  "numDepartement": "13",
+  "prenom": "Lionel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 59,
+   "curRadiusIndex": 9,
+   "id": "ai59ri9",
+   "no": 547,
+   "polar": {
+    "angle": 2.6862893704608375,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": -0.7858617421932339,
+    "y": -0.3848439530728605
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA340643",
+ "uid": "PA340643"
+}

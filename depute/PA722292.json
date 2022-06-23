@@ -12,9 +12,9 @@
   "nom": "Thomas Rudigoz"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722292.jpg",
-  "nosiege": "546"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722292.jpg",
+  "nosiege": "548"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -33,7 +33,7 @@
    "Lyon 9eme arrondissement (69009)"
   ],
   "departement": "Rhône",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Rudigoz",
   "numCirco": "1",
   "numDepartement": "69",
@@ -42,17 +42,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_thomas-rudigoz",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 58,
+   "curAngleIndex": 60,
    "curRadiusIndex": 9,
-   "id": "ai58ri9",
-   "no": 546,
+   "id": "ai60ri9",
+   "no": 548,
    "polar": {
-    "angle": 2.640759042147942,
+    "angle": 2.731819698773733,
     "radius": 0.875
    },
    "pos": {
-    "x": -0.7675347771022699,
-    "y": -0.4202203830149099
+    "x": -0.8025598888172712,
+    "y": -0.34866987526987736
    }
   }
  },

@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795258.jpg",
+  "nosiege": "276"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/frantz.gumbs/",
+  "twitter_link": "https://twitter.com/@frantzgumbs1/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795258",
+  "civ": "M.",
+  "communes": [
+   "Saint-Barthélémy (Saint-Barthélemy et Saint-Martin) (97133)",
+   "Saint-Martin (Saint-Barthélemy et Saint-Martin) (97133)"
+  ],
+  "departement": "Saint-barthélemy et saint-martin",
+  "group": "Non inscrit",
+  "nom": "Gumbs",
+  "numCirco": "1",
+  "numDepartement": "977",
+  "prenom": "Frantz"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 20,
+   "curRadiusIndex": 7,
+   "id": "ai20ri7",
+   "no": 276,
+   "polar": {
+    "angle": 1.1855066617319974,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.28187068658567865,
+    "y": -0.6951546169468469
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795258",
+ "uid": "PA795258"
+}

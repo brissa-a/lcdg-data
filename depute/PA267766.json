@@ -12,9 +12,9 @@
   "nom": "Guy Bricout"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267766.jpg",
-  "nosiege": "132"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267766.jpg",
+  "nosiege": "99"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -110,7 +110,7 @@
    "Walincourt-Selvigny (59127)"
   ],
   "departement": "Nord",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Bricout",
   "numCirco": "18",
   "numDepartement": "59",
@@ -119,17 +119,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_guy-bricout",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 9,
-   "id": "ai13ri9",
-   "no": 132,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 5,
+   "id": "ai11ri5",
+   "no": 99,
    "polar": {
-    "angle": 0.5918942680676422,
-    "radius": 0.875
+    "angle": 0.7352663657337813,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.7261496304991469,
-    "y": -0.4882888123233605
+    "x": 0.46353256602997345,
+    "y": -0.4193233440788556
    }
   }
  },

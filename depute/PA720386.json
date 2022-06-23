@@ -12,9 +12,9 @@
   "nom": "Fabien Di Filippo"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720386.jpg",
-  "nosiege": "13"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720386.jpg",
+  "nosiege": "184"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -285,7 +285,7 @@
    "Zommange (57260)"
   ],
   "departement": "Moselle",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Di Filippo",
   "numCirco": "4",
   "numDepartement": "57",
@@ -294,17 +294,17 @@
  "datan": "https://datan.fr/deputes/moselle-57/depute_fabien-difilippo",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 4,
-   "id": "ai1ri4",
-   "no": 13,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 5,
+   "id": "ai15ri5",
+   "no": 184,
    "polar": {
-    "angle": 0.08055365778435367,
-    "radius": 0.5625
+    "angle": 1.0026359532733382,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.560675985825493,
-    "y": -0.04527139370996241
+    "x": 0.3363014707271079,
+    "y": -0.5269118244169858
    }
   }
  },

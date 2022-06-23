@@ -12,9 +12,9 @@
   "nom": "Caroline Abadie"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719866.jpg",
-  "nosiege": "346"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719866.jpg",
+  "nosiege": "2"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -62,7 +62,7 @@
    "Villette-de-Vienne (38200)"
   ],
   "departement": "Isère",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Abadie",
   "numCirco": "8",
   "numDepartement": "38",
@@ -71,17 +71,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_caroline-abadie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 5,
-   "id": "ai28ri5",
-   "no": 346,
+   "curAngleIndex": 1,
+   "curRadiusIndex": 1,
+   "id": "ai1ri1",
+   "no": 2,
    "polar": {
-    "angle": 1.871587112776898,
-    "radius": 0.625
+    "angle": 0.13659098493868665,
+    "radius": 0.375
    },
    "pos": {
-    "x": -0.18517223805352115,
-    "y": -0.5970570811648381
+    "x": 0.37150722976362405,
+    "y": -0.05107258894149189
    }
   }
  },

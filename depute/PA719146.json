@@ -12,9 +12,9 @@
   "nom": "Jean-Félix Acquaviva"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719146.jpg",
-  "nosiege": "205"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719146.jpg",
+  "nosiege": "5"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -221,7 +221,7 @@
    "Zuani (20272)"
   ],
   "departement": "Haute-corse",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "Acquaviva",
   "numCirco": "2",
   "numDepartement": "2B",
@@ -230,17 +230,17 @@
  "datan": "https://datan.fr/deputes/haute-corse-2b/depute_jeanfelix-acquaviva",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 8,
-   "id": "ai18ri8",
-   "no": 205,
+   "curAngleIndex": 0,
+   "curRadiusIndex": 2,
+   "id": "ai0ri2",
+   "no": 5,
    "polar": {
-    "angle": 0.8440099666360639,
-    "radius": 0.8125
+    "angle": 0,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.5398830721690427,
-    "y": -0.6073123716262041
+    "x": 0.4375,
+    "y": 0
    }
   }
  },

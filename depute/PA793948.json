@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793948.jpg",
+  "nosiege": "599"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793948",
+  "civ": "M.",
+  "communes": [
+   "Bordeaux (33000)",
+   "Bordeaux (33100)",
+   "Bordeaux (33200)",
+   "Bordeaux (33300)",
+   "Bordeaux (33800)"
+  ],
+  "departement": "Gironde",
+  "group": "Non inscrit",
+  "nom": "Thierry",
+  "numCirco": "2",
+  "numDepartement": "33",
+  "prenom": "Nicolas"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 48,
+   "curRadiusIndex": 6,
+   "id": "ai48ri6",
+   "no": 599,
+   "polar": {
+    "angle": 2.8452159881567938,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": -0.6575256766901092,
+    "y": -0.20082872767369767
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793948",
+ "uid": "PA793948"
+}

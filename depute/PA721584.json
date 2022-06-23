@@ -12,9 +12,9 @@
   "nom": "Jean Terlier"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721584.jpg",
-  "nosiege": "457"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721584.jpg",
+  "nosiege": "594"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -135,7 +135,7 @@
    "Vénès (81440)"
   ],
   "departement": "Tarn",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Terlier",
   "numCirco": "3",
   "numDepartement": "81",
@@ -144,17 +144,17 @@
  "datan": "https://datan.fr/deputes/tarn-81/depute_jean-terlier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 9,
-   "id": "ai47ri9",
-   "no": 457,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 5,
+   "id": "ai44ri5",
+   "no": 594,
    "polar": {
-    "angle": 2.139925430706091,
-    "radius": 0.875
+    "angle": 2.9410654629351254,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.47153630642612854,
-    "y": -0.7372200183112669
+    "x": -0.6124760656478667,
+    "y": -0.12451585376734234
    }
   }
  },

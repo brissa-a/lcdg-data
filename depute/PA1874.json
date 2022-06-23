@@ -12,9 +12,9 @@
   "nom": "Marc Le Fur"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1874.jpg",
-  "nosiege": "96"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1874.jpg",
+  "nosiege": "341"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -109,7 +109,7 @@
    "Uzel (22460)"
   ],
   "departement": "Côtes-d'armor",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Le Fur",
   "numCirco": "3",
   "numDepartement": "22",
@@ -118,17 +118,17 @@
  "datan": "https://datan.fr/deputes/cotes-darmor-22/depute_marc-lefur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 5,
-   "id": "ai8ri5",
-   "no": 96,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 4,
+   "id": "ai24ri4",
+   "no": 341,
    "polar": {
-    "angle": 0.5347391750791137,
-    "radius": 0.625
+    "angle": 1.933287786824488,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.5377509870375872,
-    "y": -0.31857337409205616
+    "x": -0.1994652489614262,
+    "y": -0.5260506210577675
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "André Chassaigne"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267306.jpg",
-  "nosiege": "587"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267306.jpg",
+  "nosiege": "132"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -156,7 +156,7 @@
    "Vollore-Ville (63120)"
   ],
   "departement": "Puy-de-dôme",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Chassaigne",
   "numCirco": "5",
   "numDepartement": "63",
@@ -165,17 +165,17 @@
  "datan": "https://datan.fr/deputes/puy-de-dome-63/depute_andre-chassaigne",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 35,
-   "curRadiusIndex": 4,
-   "id": "ai35ri4",
-   "no": 587,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 9,
+   "id": "ai13ri9",
+   "no": 132,
    "polar": {
-    "angle": 2.819378022452378,
-    "radius": 0.5625
+    "angle": 0.5918942680676422,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.5335517485952692,
-    "y": -0.178160963631975
+    "x": 0.7261496304991469,
+    "y": -0.4882888123233605
    }
   }
  },

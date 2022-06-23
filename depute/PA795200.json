@@ -1,0 +1,63 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795200.jpg",
+  "nosiege": "193"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@alma_dufour/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795200",
+  "civ": "Mme",
+  "communes": [
+   "Canteleu (76380)",
+   "Caudebec-lès-Elbeuf (76320)",
+   "Cléon (76410)",
+   "Elbeuf (76500)",
+   "Freneuse (Seine-Maritime) (76410)",
+   "Grand-Couronne (76530)",
+   "Hautot-sur-Seine (76113)",
+   "La Bouille (76530)",
+   "La Londe (76500)",
+   "Le Grand-Quevilly (76120)",
+   "Maromme (76150)",
+   "Moulineaux (76530)",
+   "Orival (Seine-Maritime) (76500)",
+   "Petit-Couronne (76650)",
+   "Sahurs (76113)",
+   "Saint-Aubin-lès-Elbeuf (76410)",
+   "Saint-Pierre-de-Manneville (76113)",
+   "Saint-Pierre-lès-Elbeuf (76320)",
+   "Sotteville-sous-le-Val (76410)",
+   "Tourville-la-Rivière (76410)",
+   "Val-de-la-Haye (76380)"
+  ],
+  "departement": "Seine-maritime",
+  "group": "Non inscrit",
+  "nom": "Dufour",
+  "numCirco": "4",
+  "numDepartement": "76",
+  "prenom": "Alma"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 19,
+   "curRadiusIndex": 6,
+   "id": "ai19ri6",
+   "no": 193,
+   "polar": {
+    "angle": 1.1262313286453975,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.2956698265651078,
+    "y": -0.6207962210332028
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795200",
+ "uid": "PA795200"
+}

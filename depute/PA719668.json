@@ -12,9 +12,9 @@
   "nom": "Patricia Mirallès"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719668.jpg",
-  "nosiege": "340"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719668.jpg",
+  "nosiege": "440"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -37,7 +37,7 @@
    "Villeneuve-lès-Maguelone (34750)"
   ],
   "departement": "Hérault",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Mirallès",
   "numCirco": "1",
   "numDepartement": "34",
@@ -46,17 +46,17 @@
  "datan": "https://datan.fr/deputes/herault-34/depute_patricia-miralles",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
-   "curRadiusIndex": 4,
-   "id": "ai23ri4",
-   "no": 340,
+   "curAngleIndex": 38,
+   "curRadiusIndex": 7,
+   "id": "ai38ri7",
+   "no": 440,
    "polar": {
-    "angle": 1.8527341290401342,
-    "radius": 0.5625
+    "angle": 2.252462657290795,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.1564973234530045,
-    "y": -0.540398258440649
+    "x": -0.4725658826862833,
+    "y": -0.582508041537041
    }
   }
  },

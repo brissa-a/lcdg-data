@@ -12,9 +12,9 @@
   "nom": "Pierre Dharréville"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718926.jpg",
-  "nosiege": "592"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718926.jpg",
+  "nosiege": "183"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -32,7 +32,7 @@
    "Saint-Mitre-les-Remparts (13920)"
   ],
   "departement": "Bouches-du-rhône",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Dharréville",
   "numCirco": "13",
   "numDepartement": "13",
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_pierre-dharreville",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 42,
+   "curAngleIndex": 14,
    "curRadiusIndex": 5,
-   "id": "ai42ri5",
-   "no": 592,
+   "id": "ai14ri5",
+   "no": 183,
    "polar": {
-    "angle": 2.807380669165347,
+    "angle": 0.935793556388449,
     "radius": 0.625
    },
    "pos": {
-    "x": -0.5904181822549491,
-    "y": -0.2050560696301641
+    "x": 0.3707373404558471,
+    "y": -0.5032682643582611
    }
   }
  },

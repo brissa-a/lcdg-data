@@ -12,13 +12,13 @@
   "nom": "Damien Adam"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722038.jpg",
-  "nosiege": "319"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722038.jpg",
+  "nosiege": "6"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/damienadam76/",
+  "facebook_link": "https://fr-fr.facebook.com/damienadamdepute/",
   "twitter_link": "https://twitter.com/@damienadam76/"
  },
  "circo": {
@@ -31,7 +31,7 @@
    "Rouen (76100)"
   ],
   "departement": "Seine-maritime",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Adam",
   "numCirco": "1",
   "numDepartement": "76",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_damien-adam",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
-   "curRadiusIndex": 11,
-   "id": "ai31ri11",
-   "no": 319,
+   "curAngleIndex": 1,
+   "curRadiusIndex": 2,
+   "id": "ai1ri2",
+   "no": 6,
    "polar": {
-    "angle": 1.232776864066881,
-    "radius": 1
+    "angle": 0.10833078115826873,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.3316192785520677,
-    "y": -0.9435998213157802
+    "x": 0.4349353562550323,
+    "y": -0.047311422620262396
    }
   }
  },

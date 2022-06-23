@@ -12,12 +12,14 @@
   "nom": "Bénédicte Taurine"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718860.jpg",
-  "nosiege": "609"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718860.jpg",
+  "nosiege": "589"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/TaurineBenedicte/"
+ },
  "circo": {
   "acteurId": "OMC_PA718860",
   "civ": "Mme",
@@ -216,7 +218,7 @@
    "Vèbre (09310)"
   ],
   "departement": "Ariège",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Taurine",
   "numCirco": "1",
   "numDepartement": "09",
@@ -225,17 +227,17 @@
  "datan": "https://datan.fr/deputes/ariege-09/depute_benedicte-taurine",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 50,
-   "curRadiusIndex": 7,
-   "id": "ai50ri7",
-   "no": 609,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 4,
+   "id": "ai37ri4",
+   "no": 589,
    "polar": {
-    "angle": 2.9637666543299934,
-    "radius": 0.75
+    "angle": 2.9804853380210856,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.7381729334606977,
-    "y": -0.1326939359827665
+    "x": -0.5552157727338259,
+    "y": -0.09024918505965242
    }
   }
  },

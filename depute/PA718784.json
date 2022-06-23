@@ -12,9 +12,9 @@
   "nom": "Éric Pauget"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718784.jpg",
-  "nosiege": "97"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718784.jpg",
+  "nosiege": "478"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,7 +41,7 @@
    "Vallauris (06220)"
   ],
   "departement": "Alpes-maritimes",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Pauget",
   "numCirco": "7",
   "numDepartement": "06",
@@ -50,17 +50,17 @@
  "datan": "https://datan.fr/deputes/alpes-maritimes-06/depute_eric-pauget",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 5,
-   "id": "ai9ri5",
-   "no": 97,
+   "curAngleIndex": 51,
+   "curRadiusIndex": 11,
+   "id": "ai51ri11",
+   "no": 478,
    "polar": {
-    "angle": 0.601581571964003,
-    "radius": 0.625
+    "angle": 2.0281167763680945,
+    "radius": 1
    },
    "pos": {
-    "x": 0.5152759752136002,
-    "y": -0.35378686708798707
+    "x": -0.44154549821591194,
+    "y": -0.8974162530963087
    }
   }
  },

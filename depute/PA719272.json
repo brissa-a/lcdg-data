@@ -12,9 +12,9 @@
   "nom": "Frédérique Meunier"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719272.jpg",
-  "nosiege": "5"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719272.jpg",
+  "nosiege": "432"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -130,7 +130,7 @@
    "Yssandon (19310)"
   ],
   "departement": "Corrèze",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Meunier",
   "numCirco": "2",
   "numDepartement": "19",
@@ -139,17 +139,17 @@
  "datan": "https://datan.fr/deputes/correze-19/depute_frederique-meunier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 2,
-   "id": "ai0ri2",
-   "no": 5,
+   "curAngleIndex": 38,
+   "curRadiusIndex": 6,
+   "id": "ai38ri6",
+   "no": 432,
    "polar": {
-    "angle": 0,
-    "radius": 0.4375
+    "angle": 2.252462657290795,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.4375,
-    "y": 0
+    "x": -0.4331853924624263,
+    "y": -0.5339657047422877
    }
   }
  },

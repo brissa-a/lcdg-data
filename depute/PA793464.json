@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793464.jpg",
+  "nosiege": "177"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@sebastiendelogu/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793464",
+  "civ": "M.",
+  "communes": [
+   "Marseille",
+   "Marseille 14eme arrondissement (13014)",
+   "Marseille 15eme arrondissement (13015)",
+   "Marseille 16eme arrondissement (13016)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Delogu",
+  "numCirco": "7",
+  "numDepartement": "13",
+  "prenom": "Sébastien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 11,
+   "curRadiusIndex": 4,
+   "id": "ai11ri4",
+   "no": 177,
+   "polar": {
+    "angle": 0.8860902356278904,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.3557505237723997,
+    "y": -0.4358014359981152
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793464",
+ "uid": "PA793464"
+}

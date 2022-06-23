@@ -12,12 +12,14 @@
   "nom": "Josy Poueyto"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720720.jpg",
-  "nosiege": "263"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720720.jpg",
+  "nosiege": "507"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@josypoueyto/"
+ },
  "circo": {
   "acteurId": "OMC_PA720720",
   "civ": "Mme",
@@ -45,7 +47,7 @@
    "Uzos (64110)"
   ],
   "departement": "Pyrénées-atlantiques",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Poueyto",
   "numCirco": "1",
   "numDepartement": "64",
@@ -54,17 +56,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_josy-poueyto",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 5,
-   "id": "ai19ri5",
-   "no": 263,
+   "curAngleIndex": 34,
+   "curRadiusIndex": 4,
+   "id": "ai34ri4",
+   "no": 507,
    "polar": {
-    "angle": 1.2700055408128952,
-    "radius": 0.625
+    "angle": 2.738824364668025,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.1851722380535212,
-    "y": -0.5970570811648381
+    "x": -0.5174884370580887,
+    "y": -0.22052480923604018
    }
   }
  },

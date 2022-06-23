@@ -1,0 +1,48 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795746.jpg",
+  "nosiege": "353"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/lebonsens/",
+  "twitter_link": "https://twitter.com/@ALeaument/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795746",
+  "civ": "M.",
+  "communes": [
+   "Fleury-Mérogis (91700)",
+   "Grigny (Essonne) (91350)",
+   "Morsang-sur-Orge (91390)",
+   "Saint-Michel-sur-Orge (91240)",
+   "Sainte-Geneviève-des-Bois (Essonne) (91700)"
+  ],
+  "departement": "Essonne",
+  "group": "Non inscrit",
+  "nom": "Léaument",
+  "numCirco": "10",
+  "numDepartement": "91",
+  "prenom": "Antoine"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 32,
+   "curRadiusIndex": 6,
+   "id": "ai32ri6",
+   "no": 353,
+   "polar": {
+    "angle": 1.896810658771196,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": -0.22018552453070087,
+    "y": -0.6514156337528634
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795746",
+ "uid": "PA795746"
+}

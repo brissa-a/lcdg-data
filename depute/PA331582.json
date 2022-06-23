@@ -12,9 +12,9 @@
   "nom": "Philippe Vigier"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/331582.jpg",
-  "nosiege": "186"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/331582.jpg",
+  "nosiege": "625"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -152,7 +152,7 @@
    "Yèvres (28160)"
   ],
   "departement": "Eure-et-loir",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Vigier",
   "numCirco": "4",
   "numDepartement": "28",
@@ -161,17 +161,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_philippe-vigier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 5,
-   "id": "ai17ri5",
-   "no": 186,
+   "curAngleIndex": 64,
+   "curRadiusIndex": 9,
+   "id": "ai64ri9",
+   "no": 625,
    "polar": {
-    "angle": 1.1363207470431167,
-    "radius": 0.625
+    "angle": 2.9139410120253153,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.26308422651770935,
-    "y": -0.5670439087837952
+    "x": -0.8524241973392941,
+    "y": -0.19751812535931543
    }
   }
  },

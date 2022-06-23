@@ -12,9 +12,9 @@
   "nom": "Jean-Luc Bourgeaux"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/342240.jpg",
-  "nosiege": "8"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/342240.jpg",
+  "nosiege": "89"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -56,7 +56,7 @@
    "Saint-Suliac (35430)"
   ],
   "departement": "Ille-et-vilaine",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Bourgeaux",
   "numCirco": "7",
   "numDepartement": "35",
@@ -65,17 +65,17 @@
  "datan": "https://datan.fr/deputes/ille-et-vilaine-35/depute_jeanluc-bourgeaux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 3,
-   "id": "ai0ri3",
-   "no": 8,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 4,
+   "id": "ai5ri4",
+   "no": 89,
    "polar": {
-    "angle": 0,
-    "radius": 0.5
+    "angle": 0.4027682889217683,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.5,
-    "y": 0
+    "x": 0.5174884370580887,
+    "y": -0.22052480923604012
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Mohamed Laqhila"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/718978.jpg",
-  "nosiege": "172"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718978.jpg",
+  "nosiege": "333"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -36,7 +36,7 @@
    "Septèmes-les-Vallons (13240)"
   ],
   "departement": "Bouches-du-rhône",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Laqhila",
   "numCirco": "11",
   "numDepartement": "13",
@@ -45,17 +45,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_mohamed-laqhila",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
+   "curAngleIndex": 17,
    "curRadiusIndex": 3,
-   "id": "ai9ri3",
-   "no": 172,
+   "id": "ai17ri3",
+   "no": 333,
    "polar": {
-    "angle": 0.8835729338221293,
+    "angle": 1.6689710972195777,
     "radius": 0.5
    },
    "pos": {
-    "x": 0.31719664208182274,
-    "y": -0.38658164236350284
+    "x": -0.04900857016478032,
+    "y": -0.4976907419795018
    }
   }
  },

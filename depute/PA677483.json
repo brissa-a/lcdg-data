@@ -12,9 +12,9 @@
   "nom": "Stéphane Mazars"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/677483.jpg",
-  "nosiege": "407"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/677483.jpg",
+  "nosiege": "420"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -102,7 +102,7 @@
    "Vimenet (12310)"
   ],
   "departement": "Aveyron",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Mazars",
   "numCirco": "1",
   "numDepartement": "12",
@@ -111,17 +111,17 @@
  "datan": "https://datan.fr/deputes/aveyron-12/depute_stephane-mazars",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 50,
-   "curRadiusIndex": 11,
-   "id": "ai50ri11",
-   "no": 407,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 4,
+   "id": "ai28ri4",
+   "no": 420,
    "polar": {
-    "angle": 1.9883497807530337,
-    "radius": 1
+    "angle": 2.2555024179619028,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.4055253208129939,
-    "y": -0.9142645342347377
+    "x": -0.35575052377239963,
+    "y": -0.4358014359981152
    }
   }
  },

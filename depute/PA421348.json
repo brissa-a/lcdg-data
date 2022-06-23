@@ -12,9 +12,9 @@
   "nom": "André Villiers"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/421348.jpg",
-  "nosiege": "112"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/421348.jpg",
+  "nosiege": "629"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -249,7 +249,7 @@
    "Yrouerre (89700)"
   ],
   "departement": "Yonne",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Villiers",
   "numCirco": "2",
   "numDepartement": "89",
@@ -258,17 +258,17 @@
  "datan": "https://datan.fr/deputes/yonne-89/depute_andre-villiers",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 7,
-   "id": "ai10ri7",
-   "no": 112,
+   "curAngleIndex": 68,
+   "curRadiusIndex": 9,
+   "id": "ai68ri9",
+   "no": 629,
    "polar": {
-    "angle": 0.5927533308659987,
-    "radius": 0.75
+    "angle": 3.0960623252768977,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.6220542640876514,
-    "y": -0.41906791160318413
+    "x": -0.8740932144408866,
+    "y": -0.03983314806888089
    }
   }
  },

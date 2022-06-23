@@ -12,12 +12,14 @@
   "nom": "Philippe Berta"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719488.jpg",
-  "nosiege": "164"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719488.jpg",
+  "nosiege": "60"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@PBertaGard/"
+ },
  "circo": {
   "acteurId": "OMC_PA719488",
   "civ": "M.",
@@ -49,7 +51,7 @@
    "Vallabrix (30700)"
   ],
   "departement": "Gard",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Berta",
   "numCirco": "6",
   "numDepartement": "30",
@@ -58,17 +60,17 @@
  "datan": "https://datan.fr/deputes/gard-30/depute_philippe-berta",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 0,
-   "id": "ai8ri0",
-   "no": 164,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 10,
+   "id": "ai4ri10",
+   "no": 60,
    "polar": {
-    "angle": 1.0471975511965976,
-    "radius": 0.3125
+    "angle": 0.1551403779550515,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.15625000000000003,
-    "y": -0.27068644533452646
+    "x": 0.9262404838845084,
+    "y": -0.1448900086986851
    }
   }
  },

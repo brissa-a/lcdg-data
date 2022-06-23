@@ -1,0 +1,52 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793432.jpg",
+  "nosiege": "12"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@franckallisio/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793432",
+  "civ": "M.",
+  "communes": [
+   "Carry-le-Rouet (13620)",
+   "Châteauneuf-les-Martigues (13220)",
+   "Ensuès-la-Redonne (13820)",
+   "Gignac-la-Nerthe (13180)",
+   "Le Rove (13740)",
+   "Marignane (13700)",
+   "Saint-Victoret (13700)",
+   "Saint-Victoret (13730)",
+   "Sausset-les-Pins (13960)",
+   "Vitrolles (Bouches-du-Rhône) (13127)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Allisio",
+  "numCirco": "12",
+  "numDepartement": "13",
+  "prenom": "Franck"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 0,
+   "curRadiusIndex": 4,
+   "id": "ai0ri4",
+   "no": 12,
+   "polar": {
+    "angle": 0,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.5625,
+    "y": 0
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793432",
+ "uid": "PA793432"
+}

@@ -12,9 +12,9 @@
   "nom": "Jean-Yves Bony"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/266793.jpg",
-  "nosiege": "2"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/266793.jpg",
+  "nosiege": "80"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -177,7 +177,7 @@
    "Ydes (15210)"
   ],
   "departement": "Cantal",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Bony",
   "numCirco": "2",
   "numDepartement": "15",
@@ -186,17 +186,17 @@
  "datan": "https://datan.fr/deputes/cantal-15/depute_jeanyves-bony",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
+   "curAngleIndex": 5,
    "curRadiusIndex": 1,
-   "id": "ai1ri1",
-   "no": 2,
+   "id": "ai5ri1",
+   "no": 80,
    "polar": {
-    "angle": 0.13659098493868665,
+    "angle": 0.6829549246934332,
     "radius": 0.375
    },
    "pos": {
-    "x": 0.37150722976362405,
-    "y": -0.05107258894149189
+    "x": 0.2908917340141575,
+    "y": -0.23670476860830716
    }
   }
  },

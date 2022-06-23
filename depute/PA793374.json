@@ -1,0 +1,72 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793374.jpg",
+  "nosiege": "43"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793374",
+  "civ": "M.",
+  "communes": [
+   "Alleins (13980)",
+   "Aureille (13930)",
+   "Barbentane (13570)",
+   "Cabannes (13440)",
+   "Charleval (Bouches-du-Rhône) (13350)",
+   "Châteaurenard (13160)",
+   "Eygalières (13810)",
+   "Eyguières (13430)",
+   "Eyragues (13630)",
+   "Graveson (13690)",
+   "La Roque-d'Anthéron (13640)",
+   "Lamanon (13113)",
+   "Lambesc (13410)",
+   "Les Baux-de-Provence (13520)",
+   "Maillane (13910)",
+   "Mallemort (13370)",
+   "Maussane-les-Alpilles (13520)",
+   "Mollégès (13940)",
+   "Mouriès (13890)",
+   "Noves (13550)",
+   "Orgon (13660)",
+   "Paradou (13520)",
+   "Plan-d'Orgon (13750)",
+   "Rognes (13840)",
+   "Rognonas (13870)",
+   "Saint-Andiol (13670)",
+   "Saint-Cannat (13760)",
+   "Saint-Estève-Janson (13610)",
+   "Saint-Rémy-de-Provence (13210)",
+   "Sénas (13560)",
+   "Vernègues (13116)",
+   "Verquières (13670)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Baubry",
+  "numCirco": "15",
+  "numDepartement": "13",
+  "prenom": "Romain"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 4,
+   "curRadiusIndex": 8,
+   "id": "ai4ri8",
+   "no": 43,
+   "polar": {
+    "angle": 0.18755777036356974,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7982508160864057,
+    "y": -0.15152874683421935
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793374",
+ "uid": "PA793374"
+}

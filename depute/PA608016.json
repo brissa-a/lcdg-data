@@ -12,12 +12,13 @@
   "nom": "Véronique Louwagie"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/608016.jpg",
-  "nosiege": "89"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608016.jpg",
+  "nosiege": "383"
  },
  "an_www_pic": {},
  "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/V%C3%A9ronique%20Louwagie/",
   "twitter_link": "https://twitter.com/@VeroLouwagie/"
  },
  "circo": {
@@ -188,7 +189,7 @@
    "Vitrai-sous-Laigle (61300)"
   ],
   "departement": "Orne",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Louwagie",
   "numCirco": "2",
   "numDepartement": "61",
@@ -197,17 +198,17 @@
  "datan": "https://datan.fr/deputes/orne-61/depute_veronique-louwagie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 4,
-   "id": "ai5ri4",
-   "no": 89,
+   "curAngleIndex": 43,
+   "curRadiusIndex": 9,
+   "id": "ai43ri9",
+   "no": 383,
    "polar": {
-    "angle": 0.4027682889217683,
-    "radius": 0.5625
+    "angle": 1.9578041174545087,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.5174884370580887,
-    "y": -0.22052480923604012
+    "x": -0.3302417962835375,
+    "y": -0.8104474071896585
    }
   }
  },

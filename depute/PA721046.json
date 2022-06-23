@@ -12,9 +12,9 @@
   "nom": "Nathalie Bassire"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721046.jpg",
-  "nosiege": "109"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721046.jpg",
+  "nosiege": "36"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -33,7 +33,7 @@
    "Saint-Louis (97450)"
   ],
   "departement": "La réunion",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Bassire",
   "numCirco": "3",
   "numDepartement": "974",
@@ -42,17 +42,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_nathalie-bassire",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
+   "curAngleIndex": 5,
    "curRadiusIndex": 7,
-   "id": "ai7ri7",
-   "no": 109,
+   "id": "ai5ri7",
+   "no": 36,
    "polar": {
-    "angle": 0.4149273316061991,
+    "angle": 0.29637666543299934,
     "radius": 0.75
    },
    "pos": {
-    "x": 0.6863592129322639,
-    "y": -0.3024023479076228
+    "x": 0.7173007382073918,
+    "y": -0.2190858847349428
    }
   }
  },

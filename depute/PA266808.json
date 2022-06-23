@@ -12,9 +12,9 @@
   "nom": "Vincent Rolland"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/266808.jpg",
-  "nosiege": "128"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/266808.jpg",
+  "nosiege": "538"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -89,7 +89,7 @@
    "Villaroger (73640)"
   ],
   "departement": "Savoie",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Rolland",
   "numCirco": "2",
   "numDepartement": "73",
@@ -98,17 +98,17 @@
  "datan": "https://datan.fr/deputes/savoie-73/depute_vincent-rolland",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 9,
-   "id": "ai10ri9",
-   "no": 128,
+   "curAngleIndex": 59,
+   "curRadiusIndex": 8,
+   "id": "ai59ri8",
+   "no": 538,
    "polar": {
-    "angle": 0.4553032831289555,
-    "radius": 0.875
+    "angle": 2.7664771128626535,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.785861742193234,
-    "y": -0.38484395307286035
+    "x": -0.7560030532495079,
+    "y": -0.2977426358669933
    }
   }
  },

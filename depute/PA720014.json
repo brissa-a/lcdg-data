@@ -12,14 +12,14 @@
   "nom": "Huguette Tiegna"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720014.jpg",
-  "nosiege": "455"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720014.jpg",
+  "nosiege": "602"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/HuguetteTiegnaLREM46LOT2/",
-  "twitter_link": "https://twitter.com/@HuguetteLREM46/"
+  "facebook_link": "https://fr-fr.facebook.com/huguette.tiegna.lot/",
+  "twitter_link": "https://twitter.com/@Huguette_Tiegna/"
  },
  "circo": {
   "acteurId": "OMC_PA720014",
@@ -194,7 +194,7 @@
    "Vidaillac (46260)"
   ],
   "departement": "Lot",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Tiegna",
   "numCirco": "2",
   "numDepartement": "46",
@@ -203,17 +203,17 @@
  "datan": "https://datan.fr/deputes/lot-46/depute_huguette-tiegna",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
-   "curRadiusIndex": 9,
-   "id": "ai45ri9",
-   "no": 455,
+   "curAngleIndex": 51,
+   "curRadiusIndex": 6,
+   "id": "ai51ri6",
+   "no": 602,
    "polar": {
-    "angle": 2.0488647740803,
-    "radius": 0.875
+    "angle": 3.0230419874165935,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.4025569080147581,
-    "y": -0.777053166380148
+    "x": -0.6826745035092929,
+    "y": -0.08132888130710729
    }
   }
  },

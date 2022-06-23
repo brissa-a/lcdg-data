@@ -1,0 +1,64 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794008.jpg",
+  "nosiege": "133"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794008",
+  "civ": "Mme",
+  "communes": [
+   "Bresson (38320)",
+   "Brié-et-Angonnes (38320)",
+   "Champ-sur-Drac (38560)",
+   "Champagnier (38800)",
+   "Echirolles (38130)",
+   "Eybens (38320)",
+   "Gières (38610)",
+   "Herbeys (38320)",
+   "Jarrie (38560)",
+   "Laffrey (38220)",
+   "Montchaboud (38220)",
+   "Notre-Dame-de-Commiers (38450)",
+   "Notre-Dame-de-Mésage (38220)",
+   "Poisat (38320)",
+   "Saint-Barthélemy-de-Séchilienne (38220)",
+   "Saint-Georges-de-Commiers (38450)",
+   "Saint-Jean-de-Vaulx (38220)",
+   "Saint-Martin-d'Hères (38400)",
+   "Saint-Pierre-de-Mésage (38220)",
+   "Séchilienne (38220)",
+   "Vaulnaveys-le-Bas (38410)",
+   "Vaulnaveys-le-Haut (38410)",
+   "Venon (Isère) (38610)",
+   "Vizille (38220)"
+  ],
+  "departement": "Isère",
+  "group": "Non inscrit",
+  "nom": "Chatelain",
+  "numCirco": "2",
+  "numDepartement": "38",
+  "prenom": "Cyrielle"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 14,
+   "curRadiusIndex": 9,
+   "id": "ai14ri9",
+   "no": 133,
+   "polar": {
+    "angle": 0.6374245963805377,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.703177226023106,
+    "y": -0.5208397294755254
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794008",
+ "uid": "PA794008"
+}

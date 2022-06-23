@@ -12,9 +12,9 @@
   "nom": "Denis Masséglia"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720146.jpg",
-  "nosiege": "377"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720146.jpg",
+  "nosiege": "411"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -45,7 +45,7 @@
    "Yzernay (49360)"
   ],
   "departement": "Maine-et-loire",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Masséglia",
   "numCirco": "5",
   "numDepartement": "49",
@@ -54,17 +54,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_denis-masseglia",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
-   "curRadiusIndex": 9,
-   "id": "ai38ri9",
-   "no": 377,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 2,
+   "id": "ai21ri2",
+   "no": 411,
    "polar": {
-    "angle": 1.7301524758900308,
-    "radius": 0.875
+    "angle": 2.2749464043236434,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.1388472281492197,
-    "y": -0.8640842526589416
+    "x": -0.2832314995920495,
+    "y": -0.3335118244773712
    }
   }
  },

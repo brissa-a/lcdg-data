@@ -12,9 +12,9 @@
   "nom": "Xavier Batut"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721522.jpg",
-  "nosiege": "625"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721522.jpg",
+  "nosiege": "41"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -258,7 +258,7 @@
    "Yvetot (76190)"
   ],
   "departement": "Seine-maritime",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Batut",
   "numCirco": "10",
   "numDepartement": "76",
@@ -267,17 +267,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_xavier-batut",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 64,
-   "curRadiusIndex": 9,
-   "id": "ai64ri9",
-   "no": 625,
+   "curAngleIndex": 3,
+   "curRadiusIndex": 8,
+   "id": "ai3ri8",
+   "no": 41,
    "polar": {
-    "angle": 2.9139410120253153,
-    "radius": 0.875
+    "angle": 0.1406683277726773,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.8524241973392941,
-    "y": -0.19751812535931543
+    "x": 0.8044745430594039,
+    "y": -0.11393898107361947
    }
   }
  },

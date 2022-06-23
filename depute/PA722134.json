@@ -12,9 +12,9 @@
   "nom": "Jean-Marie Fiévet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722134.jpg",
-  "nosiege": "560"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722134.jpg",
+  "nosiege": "222"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -104,7 +104,7 @@
    "Voulmentin (79150)"
   ],
   "departement": "Deux-sèvres",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Fiévet",
   "numCirco": "3",
   "numDepartement": "79",
@@ -113,17 +113,17 @@
  "datan": "https://datan.fr/deputes/deux-sevres-79/depute_jeanmarie-fievet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 72,
-   "curRadiusIndex": 10,
-   "id": "ai72ri10",
-   "no": 560,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 9,
+   "id": "ai25ri9",
+   "no": 222,
    "polar": {
-    "angle": 2.792526803190927,
-    "radius": 0.9375
+    "angle": 1.1382582078223888,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.880961831986789,
-    "y": -0.3207072786493268
+    "x": 0.3667794553645811,
+    "y": -0.7945737244751946
    }
   }
  },

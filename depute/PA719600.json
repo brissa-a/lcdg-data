@@ -12,9 +12,9 @@
   "nom": "Éric Poulliat"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719600.jpg",
-  "nosiege": "367"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719600.jpg",
+  "nosiege": "508"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -34,7 +34,7 @@
    "Saint-Médard-en-Jalles (33160)"
   ],
   "departement": "Gironde",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Poulliat",
   "numCirco": "6",
   "numDepartement": "33",
@@ -43,17 +43,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_eric-poulliat",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 8,
-   "id": "ai37ri8",
-   "no": 367,
+   "curAngleIndex": 36,
+   "curRadiusIndex": 5,
+   "id": "ai36ri5",
+   "no": 508,
    "polar": {
-    "angle": 1.73490937586302,
-    "radius": 0.8125
+    "angle": 2.406326287856012,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.13274410647755572,
-    "y": -0.8017414469239805
+    "x": -0.46353256602997345,
+    "y": -0.4193233440788556
    }
   }
  },

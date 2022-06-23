@@ -1,0 +1,49 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793354.jpg",
+  "nosiege": "423"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793354",
+  "civ": "Mme",
+  "communes": [
+   "Aubagne (13400)",
+   "Carnoux-en-Provence (13470)",
+   "Cassis (13260)",
+   "Ceyreste (13600)",
+   "Cuges-les-Pins (13780)",
+   "Gémenos (13420)",
+   "La Ciotat (13600)",
+   "La Penne-sur-Huveaune (13821)",
+   "Roquefort-la-Bédoule (13830)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Mélin",
+  "numCirco": "9",
+  "numDepartement": "13",
+  "prenom": "Joëlle"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 31,
+   "curRadiusIndex": 5,
+   "id": "ai31ri5",
+   "no": 423,
+   "polar": {
+    "angle": 2.0721143034315657,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": -0.3003635969916773,
+    "y": -0.5482020683580726
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793354",
+ "uid": "PA793354"
+}

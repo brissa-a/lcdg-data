@@ -12,9 +12,9 @@
   "nom": "Loïc Kervran"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719052.jpg",
-  "nosiege": "228"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719052.jpg",
+  "nosiege": "320"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -193,7 +193,7 @@
    "Vornay (18130)"
   ],
   "departement": "Cher",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Kervran",
   "numCirco": "3",
   "numDepartement": "18",
@@ -202,17 +202,17 @@
  "datan": "https://datan.fr/deputes/cher-18/depute_loic-kervran",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 10,
-   "id": "ai24ri10",
-   "no": 228,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 11,
+   "id": "ai32ri11",
+   "no": 320,
    "polar": {
-    "angle": 0.930842267730309,
-    "radius": 0.9375
+    "angle": 1.2725438596819416,
+    "radius": 1
    },
    "pos": {
-    "x": 0.5598361797213621,
-    "y": -0.7521391687302791
+    "x": 0.2938502743379209,
+    "y": -0.9560404421397851
    }
   }
  },

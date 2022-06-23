@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795058.jpg",
+  "nosiege": "44"
+ },
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/BayouJulien/",
+  "twitter_link": "https://twitter.com/@JulienBayou/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795058",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 10eme arrondissement (75010)",
+   "Paris 3eme arrondissement (75003)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Bayou",
+  "numCirco": "5",
+  "numDepartement": "75",
+  "prenom": "Julien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 5,
+   "curRadiusIndex": 8,
+   "id": "ai5ri8",
+   "no": 44,
+   "polar": {
+    "angle": 0.2344472129544622,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.7902723605764106,
+    "y": -0.18878541952320932
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795058",
+ "uid": "PA795058"
+}

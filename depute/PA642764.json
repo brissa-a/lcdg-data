@@ -12,9 +12,9 @@
   "nom": "Joël Aviragnet"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/642764.jpg",
-  "nosiege": "519"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642764.jpg",
+  "nosiege": "26"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -311,7 +311,7 @@
    "Villeneuve-de-Rivière (31800)"
   ],
   "departement": "Haute-garonne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Aviragnet",
   "numCirco": "8",
   "numDepartement": "31",
@@ -320,17 +320,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_joel-aviragnet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 46,
+   "curAngleIndex": 3,
    "curRadiusIndex": 6,
-   "id": "ai46ri6",
-   "no": 519,
+   "id": "ai3ri6",
+   "no": 26,
    "polar": {
-    "angle": 2.726665321983594,
+    "angle": 0.1778259992597996,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.6291626118545751,
-    "y": -0.27720215224865424
+    "x": 0.6766585223389728,
+    "y": -0.12163610798420248
    }
   }
  },

@@ -12,14 +12,14 @@
   "nom": "Bérangère Couillard"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719624.jpg",
-  "nosiege": "322"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719624.jpg",
+  "nosiege": "154"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/BerangereCouillard33/",
-  "twitter_link": "https://twitter.com/BCouillard33/"
+  "twitter_link": "https://twitter.com/@BCouillard33/"
  },
  "circo": {
   "acteurId": "OMC_PA719624",
@@ -31,7 +31,7 @@
    "Pessac (33600)"
   ],
   "departement": "Gironde",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Couillard",
   "numCirco": "7",
   "numDepartement": "33",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_berangere-couillard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
+   "curAngleIndex": 13,
    "curRadiusIndex": 11,
-   "id": "ai34ri11",
-   "no": 322,
+   "id": "ai13ri11",
+   "no": 154,
    "polar": {
-    "angle": 1.352077850912063,
+    "angle": 0.5169709429957888,
     "radius": 1
    },
    "pos": {
-    "x": 0.21697880810631798,
-    "y": -0.9763693135657643
+    "x": 0.8693202744395825,
+    "y": -0.49434690628335537
    }
   }
  },

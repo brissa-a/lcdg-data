@@ -12,9 +12,9 @@
   "nom": "Jean-Pierre Cubertafon"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719266.jpg",
-  "nosiege": "169"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719266.jpg",
+  "nosiege": "164"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -182,7 +182,7 @@
    "Villetoureix (24600)"
   ],
   "departement": "Dordogne",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Cubertafon",
   "numCirco": "3",
   "numDepartement": "24",
@@ -192,16 +192,16 @@
  "lcdg": {
   "siege": {
    "curAngleIndex": 8,
-   "curRadiusIndex": 2,
-   "id": "ai8ri2",
-   "no": 169,
+   "curRadiusIndex": 0,
+   "id": "ai8ri0",
+   "no": 164,
    "polar": {
-    "angle": 0.8666462492661499,
-    "radius": 0.4375
+    "angle": 1.0471975511965976,
+    "radius": 0.3125
    },
    "pos": {
-    "x": 0.2832314995920496,
-    "y": -0.3335118244773712
+    "x": 0.15625000000000003,
+    "y": -0.27068644533452646
    }
   }
  },

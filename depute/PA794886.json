@@ -1,0 +1,50 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794886.jpg",
+  "nosiege": "71"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/sophie.blanc/",
+  "twitter_link": "https://twitter.com/@sblanc66000/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794886",
+  "civ": "Mme",
+  "communes": [
+   "Bompas (Pyrénées-Orientales) (66430)",
+   "Cabestany (66330)",
+   "Canohès (66680)",
+   "Perpignan (66000)",
+   "Perpignan (66100)",
+   "Pollestres (66450)",
+   "Toulouges (66350)"
+  ],
+  "departement": "Pyrénées-orientales",
+  "group": "Non inscrit",
+  "nom": "Blanc",
+  "numCirco": "1",
+  "numDepartement": "66",
+  "prenom": "Sophie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 4,
+   "curRadiusIndex": 11,
+   "id": "ai4ri11",
+   "no": 71,
+   "polar": {
+    "angle": 0.1590679824602427,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.9873753419363334,
+    "y": -0.15842934117151272
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794886",
+ "uid": "PA794886"
+}

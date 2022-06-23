@@ -12,9 +12,9 @@
   "nom": "Patrick Hetzel"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/608416.jpg",
-  "nosiege": "80"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608416.jpg",
+  "nosiege": "290"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -179,7 +179,7 @@
    "Zoebersdorf (67270)"
   ],
   "departement": "Bas-rhin",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Hetzel",
   "numCirco": "7",
   "numDepartement": "67",
@@ -188,17 +188,17 @@
  "datan": "https://datan.fr/deputes/bas-rhin-67/depute_patrick-hetzel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 1,
-   "id": "ai5ri1",
-   "no": 80,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 8,
+   "id": "ai30ri8",
+   "no": 290,
    "polar": {
-    "angle": 0.6829549246934332,
-    "radius": 0.375
+    "angle": 1.406683277726773,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.2908917340141575,
-    "y": -0.23670476860830716
+    "x": 0.13274410647755583,
+    "y": -0.8017414469239805
    }
   }
  },

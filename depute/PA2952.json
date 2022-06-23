@@ -12,9 +12,9 @@
   "nom": "Jean-Luc Warsmann"
  },
  "an_www_depute": {
-  "groupe": "UDI et Indépendants",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/2952.jpg",
-  "nosiege": "106"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/2952.jpg",
+  "nosiege": "639"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -217,7 +217,7 @@
    "Yoncq (08210)"
   ],
   "departement": "Ardennes",
-  "group": "UDI et Indépendants",
+  "group": "Non inscrit",
   "nom": "Warsmann",
   "numCirco": "3",
   "numDepartement": "08",
@@ -226,17 +226,17 @@
  "datan": "https://datan.fr/deputes/ardennes-08/depute_jeanluc-warsmann",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 6,
-   "id": "ai12ri6",
-   "no": 106,
+   "curAngleIndex": 80,
+   "curRadiusIndex": 10,
+   "id": "ai80ri10",
+   "no": 639,
    "polar": {
-    "angle": 0.7113039970391984,
-    "radius": 0.6875
+    "angle": 3.1028075591010302,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5207889789861139,
-    "y": -0.4489039412012593
+    "x": -0.9367949554727156,
+    "y": -0.03635909766446132
    }
   }
  },

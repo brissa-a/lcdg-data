@@ -12,9 +12,9 @@
   "nom": "Stéphane Travert"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/607395.jpg",
-  "nosiege": "434"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607395.jpg",
+  "nosiege": "604"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -209,7 +209,7 @@
    "Yvetot-Bocage (50700)"
   ],
   "departement": "Manche",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Travert",
   "numCirco": "3",
   "numDepartement": "50",
@@ -218,17 +218,17 @@
  "datan": "https://datan.fr/deputes/manche-50/depute_stephane-travert",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 40,
+   "curAngleIndex": 53,
    "curRadiusIndex": 6,
-   "id": "ai40ri6",
-   "no": 434,
+   "id": "ai53ri6",
+   "no": 604,
    "polar": {
-    "angle": 2.3710133234639947,
+    "angle": 3.141592653589793,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.4932862392179776,
-    "y": -0.4789735112849188
+    "x": -0.6875,
+    "y": -8.421111347154349e-17
    }
   }
  },

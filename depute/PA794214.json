@@ -1,0 +1,50 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794214.jpg",
+  "nosiege": "38"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@qbataillon/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794214",
+  "civ": "M.",
+  "communes": [
+   "Roche-la-Molière (42230)",
+   "Saint-Etienne (42000)",
+   "Saint-Etienne (42100)",
+   "Saint-Etienne (42230)",
+   "Saint-Genest-Lerpt (42530)",
+   "Saint-Jean-Bonnefonds (42650)",
+   "Saint-Priest-en-Jarez (42270)",
+   "Villars (Loire) (42390)"
+  ],
+  "departement": "Loire",
+  "group": "Non inscrit",
+  "nom": "Bataillon",
+  "numCirco": "1",
+  "numDepartement": "42",
+  "prenom": "Quentin"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 0,
+   "curRadiusIndex": 8,
+   "id": "ai0ri8",
+   "no": 38,
+   "polar": {
+    "angle": 0,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.8125,
+    "y": 0
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794214",
+ "uid": "PA794214"
+}

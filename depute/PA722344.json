@@ -13,11 +13,14 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722344.jpg",
-  "nosiege": "643"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722344.jpg",
+  "nosiege": "308"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/hjulienlaferriere/",
+  "twitter_link": "https://twitter.com/@hub_laferriere/"
+ },
  "circo": {
   "acteurId": "OMC_PA722344",
   "civ": "M.",
@@ -38,17 +41,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_hubert-julienlaferriere",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 74,
-   "curRadiusIndex": 11,
-   "id": "ai74ri11",
-   "no": 643,
+   "curAngleIndex": 34,
+   "curRadiusIndex": 10,
+   "id": "ai34ri10",
+   "no": 308,
    "polar": {
-    "angle": 2.94275767551449,
-    "radius": 1
+    "angle": 1.3186932126179378,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.9802973668046362,
-    "y": -0.19756645018358768
+    "x": 0.23385107255435753,
+    "y": -0.9080450814748641
    }
   }
  },

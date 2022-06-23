@@ -12,9 +12,9 @@
   "nom": "Dominique Potier"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/607553.jpg",
-  "nosiege": "495"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607553.jpg",
+  "nosiege": "506"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -208,7 +208,7 @@
    "Xirocourt (54740)"
   ],
   "departement": "Meurthe-et-moselle",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Potier",
   "numCirco": "5",
   "numDepartement": "54",
@@ -217,17 +217,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_dominique-potier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
-   "curRadiusIndex": 2,
-   "id": "ai23ri2",
-   "no": 495,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 4,
+   "id": "ai33ri4",
+   "no": 506,
    "polar": {
-    "angle": 2.491607966640181,
-    "radius": 0.4375
+    "angle": 2.658270706883671,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.3482907162462191,
-    "y": -0.2648160653998102
+    "x": -0.4980690144299305,
+    "y": -0.26145846682987645
    }
   }
  },

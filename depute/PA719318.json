@@ -12,9 +12,9 @@
   "nom": "Emmanuelle Anthoine"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719318.jpg",
-  "nosiege": "63"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719318.jpg",
+  "nosiege": "18"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -97,7 +97,7 @@
    "Triors (26750)"
   ],
   "departement": "Drôme",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Anthoine",
   "numCirco": "4",
   "numDepartement": "26",
@@ -106,17 +106,17 @@
  "datan": "https://datan.fr/deputes/drome-26/depute_emmanuelle-anthoine",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 6,
-   "curRadiusIndex": 10,
-   "id": "ai6ri10",
-   "no": 63,
+   "curAngleIndex": 1,
+   "curRadiusIndex": 5,
+   "id": "ai1ri5",
+   "no": 18,
    "polar": {
-    "angle": 0.23271056693257725,
-    "radius": 0.9375
+    "angle": 0.06684239688488922,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.9122295661685847,
-    "y": -0.2162451240444297
+    "x": 0.6236042991394707,
+    "y": -0.041753649544206975
    }
   }
  },

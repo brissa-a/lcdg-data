@@ -1,0 +1,47 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793290.jpg",
+  "nosiege": "366"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/gisele.lelouis/",
+  "twitter_link": "https://twitter.com/@gisele_lelouis/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793290",
+  "civ": "Mme",
+  "communes": [
+   "Marseille",
+   "Marseille 12eme arrondissement (13012)",
+   "Marseille 13eme arrondissement (13013)",
+   "Marseille 14eme arrondissement (13014)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Non inscrit",
+  "nom": "Lelouis",
+  "numCirco": "3",
+  "numDepartement": "13",
+  "prenom": "Gisèle"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 36,
+   "curRadiusIndex": 8,
+   "id": "ai36ri8",
+   "no": 366,
+   "polar": {
+    "angle": 1.6880199332721277,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.09502619910231701,
+    "y": -0.8070834928241782
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793290",
+ "uid": "PA793290"
+}

@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793980.jpg",
+  "nosiege": "227"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/CharlesFournierTours/",
+  "twitter_link": "https://twitter.com/@cfourniereelv/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793980",
+  "civ": "M.",
+  "communes": [
+   "Tours (37000)",
+   "Tours (37100)",
+   "Tours (37200)"
+  ],
+  "departement": "Indre-et-loire",
+  "group": "Non inscrit",
+  "nom": "Fournier",
+  "numCirco": "1",
+  "numDepartement": "37",
+  "prenom": "Charles"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 23,
+   "curRadiusIndex": 10,
+   "id": "ai23ri10",
+   "no": 227,
+   "polar": {
+    "angle": 0.8920571732415462,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": 0.5885738668800924,
+    "y": -0.7298613767950713
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793980",
+ "uid": "PA793980"
+}

@@ -12,9 +12,9 @@
   "nom": "Charlotte Parmentier-Lecocq"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720480.jpg",
-  "nosiege": "393"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720480.jpg",
+  "nosiege": "473"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -70,7 +70,7 @@
    "Willems (59780)"
   ],
   "departement": "Nord",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Parmentier-Lecocq",
   "numCirco": "6",
   "numDepartement": "59",
@@ -79,17 +79,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_charlotte-parmentierlecocq",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 49,
+   "curAngleIndex": 60,
    "curRadiusIndex": 10,
-   "id": "ai49ri10",
-   "no": 393,
+   "id": "ai60ri10",
+   "no": 473,
    "polar": {
-    "angle": 1.9004696299493808,
+    "angle": 2.3271056693257726,
     "radius": 0.9375
    },
    "pos": {
-    "x": -0.30350057067967573,
-    "y": -0.8871892679776126
+    "x": -0.6433515355019376,
+    "y": -0.6820476094825259
    }
   }
  },

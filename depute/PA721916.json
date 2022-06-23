@@ -12,12 +12,14 @@
   "nom": "Natalia Pouzyreff"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721916.jpg",
-  "nosiege": "388"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721916.jpg",
+  "nosiege": "510"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@npouzyreff78/"
+ },
  "circo": {
   "acteurId": "OMC_PA721916",
   "civ": "Mme",
@@ -34,7 +36,7 @@
    "Villennes-sur-Seine (78670)"
   ],
   "departement": "Yvelines",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Pouzyreff",
   "numCirco": "6",
   "numDepartement": "78",
@@ -43,17 +45,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_natalia-pouzyreff",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
-   "curRadiusIndex": 10,
-   "id": "ai45ri10",
-   "no": 388,
+   "curAngleIndex": 38,
+   "curRadiusIndex": 5,
+   "id": "ai38ri5",
+   "no": 510,
    "polar": {
-    "angle": 1.7453292519943295,
-    "radius": 0.9375
+    "angle": 2.5400110816257904,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.16279516656274717,
-    "y": -0.9234398050075314
+    "x": -0.5152759752136002,
+    "y": -0.353786867087987
    }
   }
  },

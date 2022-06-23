@@ -12,9 +12,9 @@
   "nom": "Julien Dive"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/712015.jpg",
-  "nosiege": "53"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/712015.jpg",
+  "nosiege": "187"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -124,7 +124,7 @@
    "Villers-Saint-Christophe (02590)"
   ],
   "departement": "Aisne",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Dive",
   "numCirco": "2",
   "numDepartement": "02",
@@ -133,17 +133,17 @@
  "datan": "https://datan.fr/deputes/aisne-02/depute_julien-dive",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 6,
-   "curRadiusIndex": 9,
-   "id": "ai6ri9",
-   "no": 53,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 6,
+   "id": "ai13ri6",
+   "no": 187,
    "polar": {
-    "angle": 0.2731819698773733,
-    "radius": 0.875
+    "angle": 0.7705793301257984,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.8425526264293244,
-    "y": -0.23611884842945713
+    "x": 0.4932862392179777,
+    "y": -0.4789735112849187
    }
   }
  },

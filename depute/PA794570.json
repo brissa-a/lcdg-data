@@ -1,0 +1,86 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794570.jpg",
+  "nosiege": "551"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@ASabatou/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794570",
+  "civ": "M.",
+  "communes": [
+   "Amblainville (60110)",
+   "Andeville (60570)",
+   "Balagny-sur-Thérain (60250)",
+   "Belle-Eglise (60540)",
+   "Blaincourt-lès-Précy (60460)",
+   "Boran-sur-Oise (60820)",
+   "Bornel (60540)",
+   "Chambly (60230)",
+   "Chavençon (60240)",
+   "Cires-lès-Mello (60660)",
+   "Corbeil-Cerf (60110)",
+   "Cramoisy (60660)",
+   "Creil (60100)",
+   "Crouy-en-Thelle (60530)",
+   "Dieudonné (60530)",
+   "Ercuis (60530)",
+   "Esches (60110)",
+   "Foulangues (60250)",
+   "Fresneaux-Montchevreuil (60240)",
+   "Fresnoy-en-Thelle (60530)",
+   "Hénonville (60119)",
+   "Ivry-le-Temple (60173)",
+   "La Drenne (60790)",
+   "Le Mesnil-en-Thelle (60530)",
+   "Lormaison (60110)",
+   "Maysel (60660)",
+   "Mello (60660)",
+   "Montataire (60160)",
+   "Monts (Oise) (60119)",
+   "Morangles (60530)",
+   "Méru (60110)",
+   "Neuilly-en-Thelle (60530)",
+   "Neuville-Bosc (60119)",
+   "Pouilly (Oise) (60790)",
+   "Précy-sur-Oise (60460)",
+   "Puiseux-le-Hauberger (60540)",
+   "Saint-Crépin-Ibouvillers (60149)",
+   "Saint-Crépin-Ibouvillers (60790)",
+   "Saint-Leu-d'Esserent (60340)",
+   "Saint-Vaast-lès-Mello (60660)",
+   "Thiverny (60160)",
+   "Ully-Saint-Georges (60730)",
+   "Villeneuve-les-Sablons (60175)",
+   "Villers-sous-Saint-Leu (60340)"
+  ],
+  "departement": "Oise",
+  "group": "Non inscrit",
+  "nom": "Sabatou",
+  "numCirco": "3",
+  "numDepartement": "60",
+  "prenom": "Alexandre"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 64,
+   "curRadiusIndex": 10,
+   "id": "ai64ri10",
+   "no": 551,
+   "polar": {
+    "angle": 2.482246047280824,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.7409931276738367,
+    "y": -0.5744265581484573
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794570",
+ "uid": "PA794570"
+}

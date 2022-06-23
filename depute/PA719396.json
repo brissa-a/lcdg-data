@@ -12,9 +12,9 @@
   "nom": "Jean-Charles Larsonneur"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719396.jpg",
-  "nosiege": "146"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719396.jpg",
+  "nosiege": "334"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -31,7 +31,7 @@
    "Guilers (29820)"
   ],
   "departement": "Finistère",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Larsonneur",
   "numCirco": "2",
   "numDepartement": "29",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_jeancharles-larsonneur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 10,
-   "id": "ai17ri10",
-   "no": 146,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 3,
+   "id": "ai18ri3",
+   "no": 334,
    "polar": {
-    "angle": 0.6593466063089689,
-    "radius": 0.9375
+    "angle": 1.7671458676442586,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.7409931276738368,
-    "y": -0.5744265581484572
+    "x": -0.0975451610080641,
+    "y": -0.49048959539271697
    }
   }
  },

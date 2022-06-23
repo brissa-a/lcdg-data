@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795084.jpg",
+  "nosiege": "20"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@arenasrodrigo_/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795084",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 13eme arrondissement (75013)",
+   "Paris 14eme arrondissement (75014)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Arenas",
+  "numCirco": "10",
+  "numDepartement": "75",
+  "prenom": "Rodrigo"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 3,
+   "curRadiusIndex": 5,
+   "id": "ai3ri5",
+   "no": 20,
+   "polar": {
+    "angle": 0.20052719065466765,
+    "radius": 0.625
+   },
+   "pos": {
+    "x": 0.6124760656478668,
+    "y": -0.12451585376734223
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795084",
+ "uid": "PA795084"
+}

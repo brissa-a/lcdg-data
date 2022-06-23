@@ -12,9 +12,9 @@
   "nom": "Graziella Melchior"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719338.jpg",
-  "nosiege": "231"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719338.jpg",
+  "nosiege": "422"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -66,7 +66,7 @@
    "Trémaouézan (29800)"
   ],
   "departement": "Finistère",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Melchior",
   "numCirco": "5",
   "numDepartement": "29",
@@ -75,17 +75,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_graziella-melchior",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
-   "curRadiusIndex": 10,
-   "id": "ai26ri10",
-   "no": 231,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 5,
+   "id": "ai30ri5",
+   "no": 422,
    "polar": {
-    "angle": 1.0084124567078347,
-    "radius": 0.9375
+    "angle": 2.0052719065466764,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.4998791557515857,
-    "y": -0.7932690799812906
+    "x": -0.2630842265177093,
+    "y": -0.5670439087837952
    }
   }
  },

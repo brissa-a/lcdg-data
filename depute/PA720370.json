@@ -12,12 +12,13 @@
   "nom": "Ludovic Mendes"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720370.jpg",
-  "nosiege": "450"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720370.jpg",
+  "nosiege": "427"
  },
  "an_www_pic": {},
  "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Ludovic%20Mendes%20D%C3%A9put%C3%A9/",
   "twitter_link": "https://twitter.com/@LudovicMDS/"
  },
  "circo": {
@@ -84,7 +85,7 @@
    "Vulmont (57420)"
   ],
   "departement": "Moselle",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Mendes",
   "numCirco": "2",
   "numDepartement": "57",
@@ -93,17 +94,17 @@
  "datan": "https://datan.fr/deputes/moselle-57/depute_ludovic-mendes",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 48,
-   "curRadiusIndex": 8,
-   "id": "ai48ri8",
-   "no": 450,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 5,
+   "id": "ai35ri5",
+   "no": 427,
    "polar": {
-    "angle": 2.2506932443628367,
-    "radius": 0.8125
+    "angle": 2.3394838909711226,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.5108292041050938,
-    "y": -0.6319554136305944
+    "x": -0.4344952672966514,
+    "y": -0.4493536262583302
    }
   }
  },

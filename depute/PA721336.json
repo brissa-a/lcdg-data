@@ -12,12 +12,15 @@
   "nom": "Blandine Brocard"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721336.jpg",
-  "nosiege": "176"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721336.jpg",
+  "nosiege": "102"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/bbrocard/",
+  "twitter_link": "https://twitter.com/@bbrocard/"
+ },
  "circo": {
   "acteurId": "OMC_PA721336",
   "civ": "Mme",
@@ -49,7 +52,7 @@
    "Saint-Romain-au-Mont-d'Or (69270)"
   ],
   "departement": "Rhône",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Brocard",
   "numCirco": "5",
   "numDepartement": "69",
@@ -58,17 +61,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_blandine-brocard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 4,
-   "id": "ai10ri4",
-   "no": 176,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 6,
+   "id": "ai8ri6",
+   "no": 102,
    "polar": {
-    "angle": 0.8055365778435366,
-    "radius": 0.5625
+    "angle": 0.474202664692799,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.38965744884914966,
-    "y": -0.40575658262788106
+    "x": 0.6116392500588888,
+    "y": -0.3139946681064205
    }
   }
  },

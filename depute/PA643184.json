@@ -1,0 +1,75 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643184.jpg",
+  "nosiege": "322"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA643184",
+  "civ": "Mme",
+  "communes": [
+   "Algolsheim (68600)",
+   "Andolsheim (68280)",
+   "Appenwihr (68280)",
+   "Artzenheim (68320)",
+   "Balgau (68740)",
+   "Baltzenheim (68320)",
+   "Biesheim (68600)",
+   "Bischwihr (68320)",
+   "Colmar (68000)",
+   "Dessenheim (68600)",
+   "Durrenentzen (68320)",
+   "Fortschwihr (68320)",
+   "Geiswasser (68600)",
+   "Grussenheim (68320)",
+   "Heiteren (68600)",
+   "Hettenschlag (68600)",
+   "Horbourg-Wihr (68180)",
+   "Houssen (68125)",
+   "Jebsheim (68320)",
+   "Kunheim (68320)",
+   "Logelheim (68280)",
+   "Muntzenheim (68320)",
+   "Nambsheim (68740)",
+   "Neuf-Brisach (68600)",
+   "Obersaasheim (68600)",
+   "Porte du Ried (68320)",
+   "Sainte-Croix-en-Plaine (68127)",
+   "Sundhoffen (68280)",
+   "Urschenheim (68320)",
+   "Vogelgrun (68600)",
+   "Volgelsheim (68600)",
+   "Weckolsheim (68600)",
+   "Wickerschwihr (68320)",
+   "Widensolen (68320)",
+   "Wolfgantzen (68600)"
+  ],
+  "departement": "Haut-rhin",
+  "group": "Non inscrit",
+  "nom": "Klinkert",
+  "numCirco": "1",
+  "numDepartement": "68",
+  "prenom": "Brigitte"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 34,
+   "curRadiusIndex": 11,
+   "id": "ai34ri11",
+   "no": 322,
+   "polar": {
+    "angle": 1.352077850912063,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.21697880810631798,
+    "y": -0.9763693135657643
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643184",
+ "uid": "PA643184"
+}

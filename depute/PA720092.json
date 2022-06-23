@@ -12,9 +12,9 @@
   "nom": "Richard Ramos"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720092.jpg",
-  "nosiege": "264"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720092.jpg",
+  "nosiege": "517"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -60,7 +60,7 @@
    "Vitry-aux-Loges (45530)"
   ],
   "departement": "Loiret",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Ramos",
   "numCirco": "6",
   "numDepartement": "45",
@@ -69,17 +69,17 @@
  "datan": "https://datan.fr/deputes/loiret-45/depute_richard-ramos",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
-   "curRadiusIndex": 5,
-   "id": "ai20ri5",
-   "no": 264,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 6,
+   "id": "ai44ri6",
+   "no": 517,
    "polar": {
-    "angle": 1.3368479376977844,
-    "radius": 0.625
+    "angle": 2.6081146558103945,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.14488759391720513,
-    "y": -0.6080943670064962
+    "x": -0.591967483090057,
+    "y": -0.34968426624065124
    }
   }
  },

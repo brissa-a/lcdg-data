@@ -12,12 +12,14 @@
   "nom": "Loïc Prud'homme"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719578.jpg",
-  "nosiege": "621"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719578.jpg",
+  "nosiege": "513"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@PrudhommeLoic/"
+ },
  "circo": {
   "acteurId": "OMC_PA719578",
   "civ": "M.",
@@ -32,7 +34,7 @@
    "Villenave-d'Ornon (33140)"
   ],
   "departement": "Gironde",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Prud'homme",
   "numCirco": "3",
   "numDepartement": "33",
@@ -41,17 +43,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_loic-prudhomme",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 67,
-   "curRadiusIndex": 8,
-   "id": "ai67ri8",
-   "no": 621,
+   "curAngleIndex": 41,
+   "curRadiusIndex": 5,
+   "id": "ai41ri5",
+   "no": 513,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.8125
+    "angle": 2.7405382722804577,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.8125,
-    "y": -9.952222501182412e-17
+    "x": -0.5754061791727679,
+    "y": -0.24404153672386217
    }
   }
  },

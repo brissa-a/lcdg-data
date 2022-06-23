@@ -12,14 +12,14 @@
   "nom": "Jacqueline Maquet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/334116.jpg",
-  "nosiege": "442"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/334116.jpg",
+  "nosiege": "394"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/jacqueline.maquet.5/",
-  "twitter_link": "https://twitter.com/@JMaquetDeputee/"
+  "twitter_link": "https://twitter.com/@J_Maquet2022/"
  },
  "circo": {
   "acteurId": "OMC_PA334116",
@@ -69,7 +69,7 @@
    "Willerval (62580)"
   ],
   "departement": "Pas-de-calais",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Maquet",
   "numCirco": "2",
   "numDepartement": "62",
@@ -78,17 +78,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_jacqueline-maquet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 40,
-   "curRadiusIndex": 7,
-   "id": "ai40ri7",
-   "no": 442,
+   "curAngleIndex": 50,
+   "curRadiusIndex": 10,
+   "id": "ai50ri10",
+   "no": 394,
    "polar": {
-    "angle": 2.3710133234639947,
-    "radius": 0.75
+    "angle": 1.9392547244381437,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.5381304427832483,
-    "y": -0.5225165577653659
+    "x": -0.33766661700441575,
+    "y": -0.8747513854937565
    }
   }
  },

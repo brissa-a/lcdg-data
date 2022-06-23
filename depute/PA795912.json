@@ -1,0 +1,52 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795912.jpg",
+  "nosiege": "338"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795912",
+  "civ": "Mme",
+  "communes": [
+   "Belgentier (83210)",
+   "Evenos (83330)",
+   "La Farlède (83210)",
+   "La Valette-du-Var (83160)",
+   "Le Revest-les-Eaux (83200)",
+   "Ollioules (83190)",
+   "Solliès-Pont (83210)",
+   "Solliès-Toucas (83210)",
+   "Solliès-Ville (83210)",
+   "Toulon (83000)",
+   "Toulon (83100)",
+   "Toulon (83200)"
+  ],
+  "departement": "Var",
+  "group": "Non inscrit",
+  "nom": "Lavalette",
+  "numCirco": "2",
+  "numDepartement": "83",
+  "prenom": "Laure"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 21,
+   "curRadiusIndex": 4,
+   "id": "ai21ri4",
+   "no": 338,
+   "polar": {
+    "angle": 1.691626813471427,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.06780188264361911,
+    "y": -0.5585091423107365
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795912",
+ "uid": "PA795912"
+}

@@ -12,13 +12,13 @@
   "nom": "Éric Alauzet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/605963.jpg",
-  "nosiege": "464"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605963.jpg",
+  "nosiege": "8"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/ericalauzet/",
+  "facebook_link": "https://fr-fr.facebook.com/@ericalauzet/",
   "twitter_link": "https://twitter.com/@ericalauzet/"
  },
  "circo": {
@@ -125,7 +125,7 @@
    "Vuillafans (25840)"
   ],
   "departement": "Doubs",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Alauzet",
   "numCirco": "2",
   "numDepartement": "25",
@@ -134,17 +134,17 @@
  "datan": "https://datan.fr/deputes/doubs-25/depute_eric-alauzet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 52,
-   "curRadiusIndex": 10,
-   "id": "ai52ri10",
-   "no": 464,
+   "curAngleIndex": 0,
+   "curRadiusIndex": 3,
+   "id": "ai0ri3",
+   "no": 8,
    "polar": {
-    "angle": 2.0168249134156695,
-    "radius": 0.9375
+    "angle": 0,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.4044244365761749,
-    "y": -0.8459491797010873
+    "x": 0.5,
+    "y": 0
    }
   }
  },

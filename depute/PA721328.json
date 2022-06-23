@@ -12,9 +12,9 @@
   "nom": "Anne Brugnera"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721328.jpg",
-  "nosiege": "453"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721328.jpg",
+  "nosiege": "106"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -31,7 +31,7 @@
    "Lyon 8eme arrondissement (69008)"
   ],
   "departement": "Rhône",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Brugnera",
   "numCirco": "4",
   "numDepartement": "69",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_anne-brugnera",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 51,
-   "curRadiusIndex": 8,
-   "id": "ai51ri8",
-   "no": 453,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 6,
+   "id": "ai12ri6",
+   "no": 106,
    "polar": {
-    "angle": 2.3913615721355144,
-    "radius": 0.8125
+    "angle": 0.7113039970391984,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.5943692099017311,
-    "y": -0.5540783798104695
+    "x": 0.5207889789861139,
+    "y": -0.4489039412012593
    }
   }
  },

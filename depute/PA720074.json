@@ -12,12 +12,15 @@
   "nom": "Caroline Janvier"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720074.jpg",
-  "nosiege": "277"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720074.jpg",
+  "nosiege": "303"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/CarolineJanvierDeputee/",
+  "twitter_link": "https://twitter.com/@CarolineJanvier/"
+ },
  "circo": {
   "acteurId": "OMC_PA720074",
   "civ": "Mme",
@@ -64,7 +67,7 @@
    "Villeneuve-sur-Conie (45310)"
   ],
   "departement": "Loiret",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Janvier",
   "numCirco": "2",
   "numDepartement": "45",
@@ -73,17 +76,17 @@
  "datan": "https://datan.fr/deputes/loiret-45/depute_caroline-janvier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 7,
-   "id": "ai21ri7",
-   "no": 277,
+   "curAngleIndex": 34,
+   "curRadiusIndex": 9,
+   "id": "ai34ri9",
+   "no": 303,
    "polar": {
-    "angle": 1.2447819948185974,
-    "radius": 0.75
+    "angle": 1.5480311626384489,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.24020239039712815,
-    "y": -0.7106352368213056
+    "x": 0.019917798124092456,
+    "y": -0.8749462250576678
    }
   }
  },

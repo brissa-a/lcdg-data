@@ -12,9 +12,9 @@
   "nom": "Christine Pires Beaune"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/608172.jpg",
-  "nosiege": "507"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608172.jpg",
+  "nosiege": "495"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -165,7 +165,7 @@
    "Yssac-la-Tourette (63200)"
   ],
   "departement": "Puy-de-dôme",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Pires Beaune",
   "numCirco": "2",
   "numDepartement": "63",
@@ -174,17 +174,17 @@
  "datan": "https://datan.fr/deputes/puy-de-dome-63/depute_christine-piresbeaune",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
-   "curRadiusIndex": 4,
-   "id": "ai34ri4",
-   "no": 507,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 2,
+   "id": "ai23ri2",
+   "no": 495,
    "polar": {
-    "angle": 2.738824364668025,
-    "radius": 0.5625
+    "angle": 2.491607966640181,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.5174884370580887,
-    "y": -0.22052480923604018
+    "x": -0.3482907162462191,
+    "y": -0.2648160653998102
    }
   }
  },

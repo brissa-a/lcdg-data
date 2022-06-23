@@ -12,9 +12,9 @@
   "nom": "Jean-Louis Bricout"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/605069.jpg",
-  "nosiege": "498"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605069.jpg",
+  "nosiege": "100"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -207,7 +207,7 @@
    "Wiège-Faty (02120)"
   ],
   "departement": "Aisne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Bricout",
   "numCirco": "3",
   "numDepartement": "02",
@@ -216,17 +216,17 @@
  "datan": "https://datan.fr/deputes/aisne-02/depute_jeanlouis-bricout",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
-   "curRadiusIndex": 2,
-   "id": "ai26ri2",
-   "no": 498,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 6,
+   "id": "ai6ri6",
+   "no": 100,
    "polar": {
-    "angle": 2.8166003101149872,
-    "radius": 0.4375
+    "angle": 0.3556519985195992,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.41459826239247605,
-    "y": -0.13972203832193314
+    "x": 0.6444760170297081,
+    "y": -0.2394359537211758
    }
   }
  },

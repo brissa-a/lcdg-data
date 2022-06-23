@@ -12,9 +12,9 @@
   "nom": "Jean-Philippe Nilor"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/610654.jpg",
-  "nosiege": "595"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/610654.jpg",
+  "nosiege": "454"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -35,7 +35,7 @@
    "Sainte-Luce (Martinique) (97228)"
   ],
   "departement": "Martinique",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Nilor",
   "numCirco": "4",
   "numDepartement": "972",
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/martinique-972/depute_jeanphilippe-nilor",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
-   "curRadiusIndex": 5,
-   "id": "ai45ri5",
-   "no": 595,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 9,
+   "id": "ai44ri9",
+   "no": 454,
    "polar": {
-    "angle": 3.0079078598200146,
-    "radius": 0.625
+    "angle": 2.003334445767404,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.6194234300967375,
-    "y": -0.08332081715369698
+    "x": -0.36677945536458084,
+    "y": -0.7945737244751949
    }
   }
  },

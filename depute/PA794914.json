@@ -1,0 +1,48 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794914.jpg",
+  "nosiege": "630"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Alexvincendet/",
+  "twitter_link": "https://twitter.com/@AlexVincendet/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794914",
+  "civ": "M.",
+  "communes": [
+   "Bron (69500)",
+   "Rillieux-la-Pape (69140)",
+   "Sathonay-Camp (69580)",
+   "Sathonay-Village (69580)",
+   "Vaulx-en-Velin (69120)"
+  ],
+  "departement": "Rhône",
+  "group": "Non inscrit",
+  "nom": "Vincendet",
+  "numCirco": "7",
+  "numDepartement": "69",
+  "prenom": "Alexandre"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 69,
+   "curRadiusIndex": 9,
+   "id": "ai69ri9",
+   "no": 630,
+   "polar": {
+    "angle": 3.141592653589793,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": -0.875,
+    "y": -1.0717778078196444e-16
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794914",
+ "uid": "PA794914"
+}

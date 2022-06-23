@@ -12,9 +12,9 @@
   "nom": "Émilie Bonnivard"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721410.jpg",
-  "nosiege": "10"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721410.jpg",
+  "nosiege": "79"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -127,7 +127,7 @@
    "Villaroux (73110)"
   ],
   "departement": "Savoie",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Bonnivard",
   "numCirco": "3",
   "numDepartement": "73",
@@ -136,17 +136,17 @@
  "datan": "https://datan.fr/deputes/savoie-73/depute_emilie-bonnivard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 3,
-   "id": "ai2ri3",
-   "no": 10,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 1,
+   "id": "ai4ri1",
+   "no": 79,
    "polar": {
-    "angle": 0.19634954084936207,
-    "radius": 0.5
+    "angle": 0.5463639397547466,
+    "radius": 0.375
    },
    "pos": {
-    "x": 0.4903926402016152,
-    "y": -0.09756444659465592
+    "x": 0.32040727670493324,
+    "y": -0.19488250373261062
    }
   }
  },

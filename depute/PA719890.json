@@ -12,13 +12,14 @@
   "nom": "Danielle Brulebois"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719890.jpg",
-  "nosiege": "411"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719890.jpg",
+  "nosiege": "108"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/daniellebrulebois/"
+  "facebook_link": "https://fr-fr.facebook.com/daniellebrulebois/",
+  "twitter_link": "https://twitter.com/@dbrulebois/"
  },
  "circo": {
   "acteurId": "OMC_PA719890",
@@ -230,7 +231,7 @@
    "Véria (39160)"
   ],
   "departement": "Jura",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Brulebois",
   "numCirco": "1",
   "numDepartement": "39",
@@ -239,17 +240,17 @@
  "datan": "https://datan.fr/deputes/jura-39/depute_danielle-brulebois",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 2,
-   "id": "ai21ri2",
-   "no": 411,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 7,
+   "id": "ai6ri7",
+   "no": 108,
    "polar": {
-    "angle": 2.2749464043236434,
-    "radius": 0.4375
+    "angle": 0.3556519985195992,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.2832314995920495,
-    "y": -0.3335118244773712
+    "x": 0.7030647458505906,
+    "y": -0.26120285860491904
    }
   }
  },

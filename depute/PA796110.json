@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796110.jpg",
+  "nosiege": "286"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA796110",
+  "civ": "M.",
+  "communes": [
+   "Avignon (84000)",
+   "Avignon (84140)",
+   "Le Pontet (Vaucluse) (84130)",
+   "Morières-lès-Avignon (84310)"
+  ],
+  "departement": "Vaucluse",
+  "group": "Non inscrit",
+  "nom": "Hébrard",
+  "numCirco": "1",
+  "numDepartement": "84",
+  "prenom": "Joris"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 27,
+   "curRadiusIndex": 8,
+   "id": "ai27ri8",
+   "no": 286,
+   "polar": {
+    "angle": 1.2660149499540958,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.2438187659377768,
+    "y": -0.7752072072989217
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796110",
+ "uid": "PA796110"
+}

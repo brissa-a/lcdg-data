@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794778.jpg",
+  "nosiege": "527"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Sandra.Regol/",
+  "twitter_link": "https://twitter.com/@sandraregol/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794778",
+  "civ": "Mme",
+  "communes": [
+   "Strasbourg (67000)",
+   "Strasbourg (67100)",
+   "Strasbourg (67200)"
+  ],
+  "departement": "Bas-rhin",
+  "group": "Non inscrit",
+  "nom": "Regol",
+  "numCirco": "1",
+  "numDepartement": "67",
+  "prenom": "Sandra"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 46,
+   "curRadiusIndex": 7,
+   "id": "ai46ri7",
+   "no": 527,
+   "polar": {
+    "angle": 2.726665321983594,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": -0.6863592129322639,
+    "y": -0.3024023479076228
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794778",
+ "uid": "PA794778"
+}

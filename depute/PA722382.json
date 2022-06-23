@@ -12,9 +12,9 @@
   "nom": "Benjamin Dirx"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722382.jpg",
-  "nosiege": "359"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722382.jpg",
+  "nosiege": "186"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -134,7 +134,7 @@
    "Viré (71260)"
   ],
   "departement": "Saône-et-loire",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Dirx",
   "numCirco": "1",
   "numDepartement": "71",
@@ -143,17 +143,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_benjamin-dirx",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 7,
-   "id": "ai30ri7",
-   "no": 359,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 5,
+   "id": "ai17ri5",
+   "no": 186,
    "polar": {
-    "angle": 1.7782599925979963,
-    "radius": 0.75
+    "angle": 1.1363207470431167,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.15448396405582387,
-    "y": -0.73406247152216
+    "x": 0.26308422651770935,
+    "y": -0.5670439087837952
    }
   }
  },

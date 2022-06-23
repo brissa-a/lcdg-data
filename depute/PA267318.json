@@ -12,9 +12,9 @@
   "nom": "Jean-Carles Grelier"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267318.jpg",
-  "nosiege": "71"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267318.jpg",
+  "nosiege": "265"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -134,7 +134,7 @@
    "Vouvray-sur-Huisne (72160)"
   ],
   "departement": "Sarthe",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Grelier",
   "numCirco": "5",
   "numDepartement": "72",
@@ -143,17 +143,17 @@
  "datan": "https://datan.fr/deputes/sarthe-72/depute_jeancarles-grelier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 11,
-   "id": "ai4ri11",
-   "no": 71,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 5,
+   "id": "ai21ri5",
+   "no": 265,
    "polar": {
-    "angle": 0.1590679824602427,
-    "radius": 1
+    "angle": 1.4036903345826734,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.9873753419363334,
-    "y": -0.15842934117151272
+    "x": 0.10395584661445635,
+    "y": -0.6164157557879497
    }
   }
  },

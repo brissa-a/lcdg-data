@@ -12,13 +12,14 @@
   "nom": "Pierre Vatin"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720586.jpg",
-  "nosiege": "31"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720586.jpg",
+  "nosiege": "616"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/pierrevatin/"
+  "facebook_link": "https://fr-fr.facebook.com/pierrevatin/",
+  "twitter_link": "https://twitter.com/@pierrevatinoff/"
  },
  "circo": {
   "acteurId": "OMC_PA720586",
@@ -96,7 +97,7 @@
    "Vieux-Moulin (Oise) (60350)"
   ],
   "departement": "Oise",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Vatin",
   "numCirco": "5",
   "numDepartement": "60",
@@ -105,17 +106,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_pierre-vatin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 7,
-   "id": "ai1ri7",
-   "no": 31,
+   "curAngleIndex": 63,
+   "curRadiusIndex": 8,
+   "id": "ai63ri8",
+   "no": 616,
    "polar": {
-    "angle": 0.05927533308659987,
-    "radius": 0.75
+    "angle": 2.9540348832262233,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.7486827988232412,
-    "y": -0.04443925523808674
+    "x": -0.7982508160864057,
+    "y": -0.1515287468342195
    }
   }
  },

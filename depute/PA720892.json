@@ -12,9 +12,9 @@
   "nom": "Mathilde Panot"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720892.jpg",
-  "nosiege": "604"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720892.jpg",
+  "nosiege": "468"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -31,7 +31,7 @@
    "Vitry-sur-Seine (94400)"
   ],
   "departement": "Val-de-marne",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Panot",
   "numCirco": "10",
   "numDepartement": "94",
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_mathilde-panot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 53,
-   "curRadiusIndex": 6,
-   "id": "ai53ri6",
-   "no": 604,
+   "curAngleIndex": 56,
+   "curRadiusIndex": 10,
+   "id": "ai56ri10",
+   "no": 468,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.6875
+    "angle": 2.171965291370721,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.6875,
-    "y": -8.421111347154349e-17
+    "x": -0.5302564457686297,
+    "y": -0.7732856719088589
    }
   }
  },

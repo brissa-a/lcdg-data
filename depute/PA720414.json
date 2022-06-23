@@ -12,9 +12,9 @@
   "nom": "Patrice Perrot"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720414.jpg",
-  "nosiege": "547"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720414.jpg",
+  "nosiege": "481"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -268,7 +268,7 @@
    "Vitry-Laché (58420)"
   ],
   "departement": "Nièvre",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Perrot",
   "numCirco": "2",
   "numDepartement": "58",
@@ -277,17 +277,17 @@
  "datan": "https://datan.fr/deputes/nievre-58/depute_patrice-perrot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 59,
-   "curRadiusIndex": 9,
-   "id": "ai59ri9",
-   "no": 547,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 11,
+   "id": "ai54ri11",
+   "no": 481,
    "polar": {
-    "angle": 2.6862893704608375,
-    "radius": 0.875
+    "angle": 2.1474177632132765,
+    "radius": 1
    },
    "pos": {
-    "x": -0.7858617421932339,
-    "y": -0.3848439530728605
+    "x": -0.5451947721626677,
+    "y": -0.8384751477055178
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Charles de Courson"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/942.jpg",
-  "nosiege": "213"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/942.jpg",
+  "nosiege": "156"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -280,7 +280,7 @@
    "Vésigneul-sur-Marne (51240)"
   ],
   "departement": "Marne",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "de Courson",
   "numCirco": "5",
   "numDepartement": "51",
@@ -289,17 +289,17 @@
  "datan": "https://datan.fr/deputes/marne-51/depute_charles-decourson",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 9,
-   "id": "ai17ri9",
-   "no": 213,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 11,
+   "id": "ai15ri11",
+   "no": 156,
    "polar": {
-    "angle": 0.7740155813192244,
-    "radius": 0.875
+    "angle": 0.5965049342259101,
+    "radius": 1
    },
    "pos": {
-    "x": 0.6257208136855369,
-    "y": -0.6117568172426251
+    "x": 0.8273040325430572,
+    "y": -0.5618654924018461
    }
   }
  },

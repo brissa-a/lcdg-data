@@ -12,9 +12,9 @@
   "nom": "Véronique Riotton"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721426.jpg",
-  "nosiege": "431"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721426.jpg",
+  "nosiege": "532"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -71,7 +71,7 @@
    "Villy-le-Pelloux (74350)"
   ],
   "departement": "Haute-savoie",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Riotton",
   "numCirco": "1",
   "numDepartement": "74",
@@ -80,17 +80,17 @@
  "datan": "https://datan.fr/deputes/haute-savoie-74/depute_veronique-riotton",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 6,
-   "id": "ai37ri6",
-   "no": 431,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 8,
+   "id": "ai54ri8",
+   "no": 532,
    "polar": {
-    "angle": 2.1931873242041955,
-    "radius": 0.6875
+    "angle": 2.5320298999081916,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.40079839189119965,
-    "y": -0.5586951660308385
+    "x": -0.6661674692346575,
+    "y": -0.4652555437038607
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Daniel Labaronne"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719798.jpg",
-  "nosiege": "342"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719798.jpg",
+  "nosiege": "324"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -86,7 +86,7 @@
    "Véretz (37270)"
   ],
   "departement": "Indre-et-loire",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Labaronne",
   "numCirco": "2",
   "numDepartement": "37",
@@ -95,17 +95,17 @@
  "datan": "https://datan.fr/deputes/indre-et-loire-37/depute_daniel-labaronne",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 5,
-   "id": "ai24ri5",
-   "no": 342,
+   "curAngleIndex": 36,
+   "curRadiusIndex": 11,
+   "id": "ai36ri11",
+   "no": 324,
    "polar": {
-    "angle": 1.6042175252373412,
-    "radius": 0.625
+    "angle": 1.4316118421421844,
+    "radius": 1
    },
    "pos": {
-    "x": -0.020884360629796577,
-    "y": -0.6247744766458649
+    "x": 0.1387355319890681,
+    "y": -0.9905252638291588
    }
   }
  },

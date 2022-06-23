@@ -12,9 +12,9 @@
   "nom": "Sébastien Jumel"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722202.jpg",
-  "nosiege": "583"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722202.jpg",
+  "nosiege": "309"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -184,7 +184,7 @@
    "Wanchy-Capval (76660)"
   ],
   "departement": "Seine-maritime",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Jumel",
   "numCirco": "6",
   "numDepartement": "76",
@@ -193,17 +193,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_sebastien-jumel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 3,
-   "id": "ai29ri3",
-   "no": 583,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 10,
+   "id": "ai35ri10",
+   "no": 309,
    "polar": {
-    "angle": 2.84706834231575,
-    "radius": 0.5
+    "angle": 1.3574783071067007,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.4784701678661044,
-    "y": -0.14517103461902417
+    "x": 0.19847238021507266,
+    "y": -0.9164316433636336
    }
   }
  },

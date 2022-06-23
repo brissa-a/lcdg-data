@@ -12,13 +12,13 @@
   "nom": "Liliana Tanguy"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719550.jpg",
-  "nosiege": "398"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719550.jpg",
+  "nosiege": "586"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "twitter_link": "https://twitter.com/@LilianeTanguyAN/"
+  "twitter_link": "https://twitter.com/@lilianatanguy/"
  },
  "circo": {
   "acteurId": "OMC_PA719550",
@@ -66,7 +66,7 @@
    "Tréogat (29720)"
   ],
   "departement": "Finistère",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Tanguy",
   "numCirco": "7",
   "numDepartement": "29",
@@ -75,17 +75,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_liliana-tanguy",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 41,
-   "curRadiusIndex": 11,
-   "id": "ai41ri11",
-   "no": 398,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 3,
+   "id": "ai32ri3",
+   "no": 586,
    "polar": {
-    "angle": 1.6304468202174878,
-    "radius": 1
+    "angle": 3.141592653589793,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.05961512516982003,
-    "y": -0.9984187944546037
+    "x": -0.5,
+    "y": -6.124444616112254e-17
    }
   }
  },

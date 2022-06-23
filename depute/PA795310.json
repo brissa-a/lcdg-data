@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795310.jpg",
+  "nosiege": "270"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/GuetteClemence/",
+  "twitter_link": "https://twitter.com/@Clemence_Guette/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795310",
+  "civ": "Mme",
+  "communes": [
+   "Choisy-le-Roi (94600)",
+   "Créteil (94000)",
+   "Orly (94310)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Non inscrit",
+  "nom": "Guetté",
+  "numCirco": "2",
+  "numDepartement": "94",
+  "prenom": "Clémence"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 22,
+   "curRadiusIndex": 6,
+   "id": "ai22ri6",
+   "no": 270,
+   "polar": {
+    "angle": 1.3040573279051972,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.181216176672484,
+    "y": -0.663318080799548
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795310",
+ "uid": "PA795310"
+}

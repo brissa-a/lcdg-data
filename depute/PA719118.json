@@ -12,13 +12,14 @@
   "nom": "François Cormier-Bouligeon"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719118.jpg",
-  "nosiege": "300"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719118.jpg",
+  "nosiege": "151"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/francoiscormierbouligeon2017/"
+  "facebook_link": "https://fr-fr.facebook.com/@francoiscormierbouligeonmajoritepresidentielle/",
+  "twitter_link": "https://twitter.com/@FCBDeputeduCher/"
  },
  "circo": {
   "acteurId": "OMC_PA719118",
@@ -106,7 +107,7 @@
    "Vinon (18300)"
   ],
   "departement": "Cher",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Cormier-Bouligeon",
   "numCirco": "1",
   "numDepartement": "18",
@@ -115,17 +116,17 @@
  "datan": "https://datan.fr/deputes/cher-18/depute_francois-cormierbouligeon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
-   "curRadiusIndex": 9,
-   "id": "ai31ri9",
-   "no": 300,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 11,
+   "id": "ai10ri11",
+   "no": 151,
    "polar": {
-    "angle": 1.411440177699762,
-    "radius": 0.875
+    "angle": 0.39766995615060674,
+    "radius": 1
    },
    "pos": {
-    "x": 0.13884722814922,
-    "y": -0.8640842526589416
+    "x": 0.9219658547282067,
+    "y": -0.3873477417678209
    }
   }
  },

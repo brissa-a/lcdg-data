@@ -12,9 +12,9 @@
   "nom": "Laurence Vichnievsky"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720704.jpg",
-  "nosiege": "261"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720704.jpg",
+  "nosiege": "620"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -120,7 +120,7 @@
    "Verrières (Puy-de-Dôme) (63320)"
   ],
   "departement": "Puy-de-dôme",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Vichnievsky",
   "numCirco": "3",
   "numDepartement": "63",
@@ -129,17 +129,17 @@
  "datan": "https://datan.fr/deputes/puy-de-dome-63/depute_laurence-vichnievsky",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 4,
-   "id": "ai19ri4",
-   "no": 261,
+   "curAngleIndex": 66,
+   "curRadiusIndex": 8,
+   "id": "ai66ri8",
+   "no": 620,
    "polar": {
-    "angle": 1.5305194979027197,
-    "radius": 0.5625
+    "angle": 3.0947032109989006,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.022649591311546074,
-    "y": -0.5621549327663266
+    "x": -0.8116069743321406,
+    "y": -0.03809124276154166
    }
   }
  },

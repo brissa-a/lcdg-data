@@ -12,14 +12,14 @@
   "nom": "Thomas Mesnier"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719072.jpg",
-  "nosiege": "353"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719072.jpg",
+  "nosiege": "428"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/thomasmesnier.fr/",
-  "twitter_link": "https://twitter.com/@MESNIERThomas/"
+  "twitter_link": "https://twitter.com/@TMesnier/"
  },
  "circo": {
   "acteurId": "OMC_PA719072",
@@ -49,7 +49,7 @@
    "Vouzan (16410)"
   ],
   "departement": "Charente",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Mesnier",
   "numCirco": "1",
   "numDepartement": "16",
@@ -58,17 +58,17 @@
  "datan": "https://datan.fr/deputes/charente-16/depute_thomas-mesnier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
+   "curAngleIndex": 34,
    "curRadiusIndex": 6,
-   "id": "ai32ri6",
-   "no": 353,
+   "id": "ai34ri6",
+   "no": 428,
    "polar": {
-    "angle": 1.896810658771196,
+    "angle": 2.015361324944396,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.22018552453070087,
-    "y": -0.6514156337528634
+    "x": -0.29566982656510793,
+    "y": -0.6207962210332028
    }
   }
  },

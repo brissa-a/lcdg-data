@@ -1,0 +1,60 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793520.jpg",
+  "nosiege": "153"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793520",
+  "civ": "M.",
+  "communes": [
+   "Boqueho (22170)",
+   "Châtelaudren (22170)",
+   "Cohiniac (22800)",
+   "Hillion (22120)",
+   "La Méaugon (22440)",
+   "Langueux (22360)",
+   "Plerneuf (22170)",
+   "Ploufragan (22440)",
+   "Plouvara (22170)",
+   "Plédran (22960)",
+   "Plélo (22170)",
+   "Plérin (22190)",
+   "Pordic (22590)",
+   "Saint-Brieuc (22000)",
+   "Saint-Donan (22800)",
+   "Saint-Julien (Côtes-d'Armor) (22940)",
+   "Trégomeur (22590)",
+   "Trégueux (22950)",
+   "Trémuson (22440)",
+   "Yffiniac (22120)"
+  ],
+  "departement": "Côtes-d'armor",
+  "group": "Non inscrit",
+  "nom": "Cosson",
+  "numCirco": "1",
+  "numDepartement": "22",
+  "prenom": "Mickaël"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 12,
+   "curRadiusIndex": 11,
+   "id": "ai12ri11",
+   "no": 153,
+   "polar": {
+    "angle": 0.47720394738072813,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.8882826127491319,
+    "y": -0.4593880965736568
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793520",
+ "uid": "PA793520"
+}

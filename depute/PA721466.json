@@ -12,9 +12,9 @@
   "nom": "Gilles Le Gendre"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721466.jpg",
-  "nosiege": "428"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721466.jpg",
+  "nosiege": "345"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -30,7 +30,7 @@
    "Paris 7eme arrondissement (75007)"
   ],
   "departement": "Paris",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Le Gendre",
   "numCirco": "2",
   "numDepartement": "75",
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/paris-75/depute_gilles-legendre",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
-   "curRadiusIndex": 6,
-   "id": "ai34ri6",
-   "no": 428,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 5,
+   "id": "ai27ri5",
+   "no": 345,
    "polar": {
-    "angle": 2.015361324944396,
-    "radius": 0.6875
+    "angle": 1.804744715892009,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.29566982656510793,
-    "y": -0.6207962210332028
+    "x": -0.14488759391720518,
+    "y": -0.6080943670064962
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Jean-Louis Bourlanges"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721608.jpg",
-  "nosiege": "165"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721608.jpg",
+  "nosiege": "90"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -28,7 +28,7 @@
    "Le Plessis-Robinson (92350)"
   ],
   "departement": "Hauts-de-seine",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Bourlanges",
   "numCirco": "12",
   "numDepartement": "92",
@@ -38,16 +38,16 @@
  "lcdg": {
   "siege": {
    "curAngleIndex": 6,
-   "curRadiusIndex": 1,
-   "id": "ai6ri1",
-   "no": 165,
+   "curRadiusIndex": 4,
+   "id": "ai6ri4",
+   "no": 90,
    "polar": {
-    "angle": 0.8195459096321199,
-    "radius": 0.375
+    "angle": 0.483321946706122,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.25595742870699534,
-    "y": -0.2741176715074525
+    "x": 0.49806901442993057,
+    "y": -0.26145846682987633
    }
   }
  },

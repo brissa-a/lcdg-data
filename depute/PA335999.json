@@ -13,8 +13,8 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/335999.jpg",
-  "nosiege": "636"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/335999.jpg",
+  "nosiege": "39"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -190,17 +190,17 @@
  "datan": "https://datan.fr/deputes/deux-sevres-79/depute_delphine-batho",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 77,
-   "curRadiusIndex": 10,
-   "id": "ai77ri10",
-   "no": 636,
+   "curAngleIndex": 1,
+   "curRadiusIndex": 8,
+   "id": "ai1ri8",
+   "no": 39,
    "polar": {
-    "angle": 2.9864522756347416,
-    "radius": 0.9375
+    "angle": 0.046889442590892436,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.9262404838845083,
-    "y": -0.14489000869868526
+    "x": 0.8116069743321407,
+    "y": -0.038091242761541466
    }
   }
  },

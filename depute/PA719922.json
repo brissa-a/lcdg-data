@@ -12,14 +12,14 @@
   "nom": "Lionel Causse"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719922.jpg",
-  "nosiege": "362"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719922.jpg",
+  "nosiege": "125"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/lionelcausse2017/",
-  "twitter_link": "https://twitter.com/DeputeCausse/"
+  "twitter_link": "https://twitter.com/@DeputeCausse/"
  },
  "circo": {
   "acteurId": "OMC_PA719922",
@@ -78,7 +78,7 @@
    "Yzosse (40180)"
   ],
   "departement": "Landes",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Causse",
   "numCirco": "2",
   "numDepartement": "40",
@@ -87,17 +87,17 @@
  "datan": "https://datan.fr/deputes/landes-40/depute_lionel-causse",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 7,
-   "id": "ai33ri7",
-   "no": 362,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 8,
+   "id": "ai15ri8",
+   "no": 125,
    "polar": {
-    "angle": 1.9560859918577957,
-    "radius": 0.75
+    "angle": 0.7033416388633865,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.2818706865856786,
-    "y": -0.6951546169468471
+    "x": 0.6196817072146854,
+    "y": -0.5256044498664336
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Vincent Descoeur"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/330909.jpg",
-  "nosiege": "3"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/330909.jpg",
+  "nosiege": "180"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -121,7 +121,7 @@
    "Ytrac (15130)"
   ],
   "departement": "Cantal",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Descoeur",
   "numCirco": "1",
   "numDepartement": "15",
@@ -130,17 +130,17 @@
  "datan": "https://datan.fr/deputes/cantal-15/depute_vincent-descoeur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 1,
-   "id": "ai2ri1",
-   "no": 3,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 4,
+   "id": "ai14ri4",
+   "no": 180,
    "polar": {
-    "angle": 0.2731819698773733,
-    "radius": 0.375
+    "angle": 1.1277512089809514,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.3610939827554248,
-    "y": -0.10119379218405307
+    "x": 0.241139565789218,
+    "y": -0.5082913435350902
    }
   }
  },

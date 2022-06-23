@@ -12,9 +12,9 @@
   "nom": "Xavier Breton"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/330008.jpg",
-  "nosiege": "41"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/330008.jpg",
+  "nosiege": "98"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -111,7 +111,7 @@
    "Viriat (01440)"
   ],
   "departement": "Ain",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Breton",
   "numCirco": "1",
   "numDepartement": "01",
@@ -120,17 +120,17 @@
  "datan": "https://datan.fr/deputes/ain-01/depute_xavier-breton",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 8,
-   "id": "ai3ri8",
-   "no": 41,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 5,
+   "id": "ai10ri5",
+   "no": 98,
    "polar": {
-    "angle": 0.1406683277726773,
-    "radius": 0.8125
+    "angle": 0.6684239688488922,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.8044745430594039,
-    "y": -0.11393898107361947
+    "x": 0.49049961579916307,
+    "y": -0.3874202620524342
    }
   }
  },

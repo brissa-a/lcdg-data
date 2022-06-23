@@ -12,9 +12,9 @@
   "nom": "Philippe Gosselin"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/266797.jpg",
-  "nosiege": "27"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/266797.jpg",
+  "nosiege": "258"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -167,7 +167,7 @@
    "Villiers-Fossard (50680)"
   ],
   "departement": "Manche",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Gosselin",
   "numCirco": "1",
   "numDepartement": "50",
@@ -176,17 +176,17 @@
  "datan": "https://datan.fr/deputes/manche-50/depute_philippe-gosselin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 6,
-   "id": "ai4ri6",
-   "no": 27,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 4,
+   "id": "ai16ri4",
+   "no": 258,
    "polar": {
-    "angle": 0.2371013323463995,
-    "radius": 0.6875
+    "angle": 1.2888585245496587,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.6682657534302825,
-    "y": -0.16151608339576926
+    "x": 0.15649732345300466,
+    "y": -0.5403982584406489
    }
   }
  },

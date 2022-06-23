@@ -12,12 +12,15 @@
   "nom": "Gérard Leseul"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774958.jpg",
-  "nosiege": "520"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774958.jpg",
+  "nosiege": "373"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/gerard.leseul.1/",
+  "twitter_link": "https://twitter.com/@LeseulG/"
+ },
  "circo": {
   "acteurId": "OMC_PA774958",
   "civ": "M.",
@@ -94,7 +97,7 @@
    "Yville-sur-Seine (76530)"
   ],
   "departement": "Seine-maritime",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Leseul",
   "numCirco": "5",
   "numDepartement": "76",
@@ -103,17 +106,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_gerard-leseul",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 6,
-   "id": "ai47ri6",
-   "no": 520,
+   "curAngleIndex": 42,
+   "curRadiusIndex": 8,
+   "id": "ai42ri8",
+   "no": 373,
    "polar": {
-    "angle": 2.785940655070194,
-    "radius": 0.6875
+    "angle": 1.9693565888174822,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.6444760170297081,
-    "y": -0.2394359537211757
+    "x": -0.31532463029620283,
+    "y": -0.7489648664639534
    }
   }
  },

@@ -12,9 +12,9 @@
   "nom": "Marietta Karamanli"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/335054.jpg",
-  "nosiege": "502"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/335054.jpg",
+  "nosiege": "314"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -60,7 +60,7 @@
    "Yvré-l'Evêque (72530)"
   ],
   "departement": "Sarthe",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Karamanli",
   "numCirco": "2",
   "numDepartement": "72",
@@ -69,17 +69,17 @@
  "datan": "https://datan.fr/deputes/sarthe-72/depute_marietta-karamanli",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 3,
-   "id": "ai28ri3",
-   "no": 502,
+   "curAngleIndex": 39,
+   "curRadiusIndex": 10,
+   "id": "ai39ri10",
+   "no": 314,
    "polar": {
-    "angle": 2.748893571891069,
-    "radius": 0.5
+    "angle": 1.5126186850617522,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.46193976625564337,
-    "y": -0.1913795462214513
+    "x": 0.054510777103571155,
+    "y": -0.9360989372714857
    }
   }
  },

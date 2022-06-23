@@ -12,13 +12,13 @@
   "nom": "Aurore Bergé"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722046.jpg",
-  "nosiege": "462"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722046.jpg",
+  "nosiege": "58"
  },
  "an_www_pic": {},
  "an_www_social": {
-  "facebook_link": "https://fr-fr.facebook.com/Aurore-Berg%C3%A9-39829403685/",
+  "facebook_link": "https://fr-fr.facebook.com/AuroreBerg%C3%A9/",
   "twitter_link": "https://twitter.com/@auroreberge/"
  },
  "circo": {
@@ -78,7 +78,7 @@
    "Vieille-Eglise-en-Yvelines (78125)"
   ],
   "departement": "Yvelines",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Bergé",
   "numCirco": "10",
   "numDepartement": "78",
@@ -87,17 +87,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_aurore-berge",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 51,
-   "curRadiusIndex": 9,
-   "id": "ai51ri9",
-   "no": 462,
+   "curAngleIndex": 2,
+   "curRadiusIndex": 10,
+   "id": "ai2ri10",
+   "no": 58,
    "polar": {
-    "angle": 2.322046743957673,
-    "radius": 0.875
+    "angle": 0.07757018897752575,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.5972340003163221,
-    "y": -0.639607900184056
+    "x": 0.9346808823448051,
+    "y": -0.07266350779222838
    }
   }
  },

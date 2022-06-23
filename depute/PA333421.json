@@ -12,9 +12,9 @@
   "nom": "Bertrand Pancher"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/333421.jpg",
-  "nosiege": "203"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/333421.jpg",
+  "nosiege": "464"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -273,7 +273,7 @@
    "Xivray-et-Marvoisin (55300)"
   ],
   "departement": "Meuse",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "Pancher",
   "numCirco": "1",
   "numDepartement": "55",
@@ -282,17 +282,17 @@
  "datan": "https://datan.fr/deputes/meuse-55/depute_bertrand-pancher",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 8,
-   "id": "ai16ri8",
-   "no": 203,
+   "curAngleIndex": 52,
+   "curRadiusIndex": 10,
+   "id": "ai52ri10",
+   "no": 464,
    "polar": {
-    "angle": 0.750231081454279,
-    "radius": 0.8125
+    "angle": 2.0168249134156695,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.594369209901731,
-    "y": -0.5540783798104696
+    "x": -0.4044244365761749,
+    "y": -0.8459491797010873
    }
   }
  },

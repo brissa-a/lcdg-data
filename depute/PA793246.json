@@ -1,0 +1,68 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793246.jpg",
+  "nosiege": "209"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793246",
+  "civ": "M.",
+  "communes": [
+   "Armissan (11110)",
+   "Bages (Aude) (11100)",
+   "Bizanet (11200)",
+   "Canet (Aude) (11200)",
+   "Caves (11510)",
+   "Coursan (11110)",
+   "Cuxac-d'Aude (11590)",
+   "Feuilla (11510)",
+   "Fitou (11510)",
+   "Fleury (Aude) (11560)",
+   "Gruissan (11430)",
+   "La Palme (11480)",
+   "Leucate (11370)",
+   "Marcorignan (11120)",
+   "Montredon-des-Corbières (11100)",
+   "Moussan (11120)",
+   "Narbonne (11100)",
+   "Névian (11200)",
+   "Peyriac-de-Mer (11440)",
+   "Port-la-Nouvelle (11210)",
+   "Portel-des-Corbières (11490)",
+   "Raissac-d'Aude (11200)",
+   "Roquefort-des-Corbières (11540)",
+   "Salles-d'Aude (11110)",
+   "Sigean (11130)",
+   "Treilles (11510)",
+   "Villedaigne (11200)",
+   "Vinassan (11110)"
+  ],
+  "departement": "Aude",
+  "group": "Non inscrit",
+  "nom": "Falcon",
+  "numCirco": "2",
+  "numDepartement": "11",
+  "prenom": "Frédéric"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 21,
+   "curRadiusIndex": 8,
+   "id": "ai21ri8",
+   "no": 209,
+   "polar": {
+    "angle": 0.9846782944087411,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.44941906272672466,
+    "y": -0.6770228551386456
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793246",
+ "uid": "PA793246"
+}

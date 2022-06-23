@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607846.jpg",
+  "nosiege": "169"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA607846",
+  "civ": "M.",
+  "communes": [
+   "Bousbecque (59166)",
+   "Halluin (59250)",
+   "Linselles (59126)",
+   "Neuville-en-Ferrain (59960)",
+   "Roncq (59223)",
+   "Tourcoing (59200)"
+  ],
+  "departement": "Nord",
+  "group": "Non inscrit",
+  "nom": "Darmanin",
+  "numCirco": "10",
+  "numDepartement": "59",
+  "prenom": "Gérald"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 8,
+   "curRadiusIndex": 2,
+   "id": "ai8ri2",
+   "no": 169,
+   "polar": {
+    "angle": 0.8666462492661499,
+    "radius": 0.4375
+   },
+   "pos": {
+    "x": 0.2832314995920496,
+    "y": -0.3335118244773712
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA607846",
+ "uid": "PA607846"
+}

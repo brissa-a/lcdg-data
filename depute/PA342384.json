@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/342384.jpg",
+  "nosiege": "405"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA342384",
+  "civ": "Mme",
+  "communes": [
+   "Fontaine (38600)",
+   "Grenoble (38000)",
+   "Grenoble (38100)",
+   "Noyarey (38360)",
+   "Sassenage (38360)",
+   "Veurey-Voroize (38113)"
+  ],
+  "departement": "Isère",
+  "group": "Non inscrit",
+  "nom": "Martin",
+  "numCirco": "3",
+  "numDepartement": "38",
+  "prenom": "Élisa"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 48,
+   "curRadiusIndex": 11,
+   "id": "ai48ri11",
+   "no": 405,
+   "polar": {
+    "angle": 1.9088157895229125,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.33161927855206796,
+    "y": -0.94359982131578
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342384",
+ "uid": "PA342384"
+}

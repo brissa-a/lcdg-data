@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795438.jpg",
+  "nosiege": "317"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795438",
+  "civ": "Mme",
+  "communes": [
+   "Chevilly-Larue (94550)",
+   "Fresnes (Val-de-Marne) (94260)",
+   "L'Hay-les-Roses (94240)",
+   "Rungis (94150)",
+   "Thiais (94320)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Non inscrit",
+  "nom": "Keke",
+  "numCirco": "7",
+  "numDepartement": "94",
+  "prenom": "Rachel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 29,
+   "curRadiusIndex": 11,
+   "id": "ai29ri11",
+   "no": 317,
+   "polar": {
+    "angle": 1.1532428728367596,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.4055253208129938,
+    "y": -0.9142645342347377
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795438",
+ "uid": "PA795438"
+}

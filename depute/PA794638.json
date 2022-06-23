@@ -1,0 +1,75 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794638.jpg",
+  "nosiege": "124"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/victorcatteau1/",
+  "twitter_link": "https://twitter.com/@victorcatteau/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794638",
+  "civ": "M.",
+  "communes": [
+   "Allennes-les-Marais (59251)",
+   "Annoeullin (59112)",
+   "Aubers (59249)",
+   "Bauvin (59221)",
+   "Camphin-en-Carembault (59133)",
+   "Carnin (59112)",
+   "Chemy (59147)",
+   "Don (59272)",
+   "Emmerin (59320)",
+   "Fournes-en-Weppes (59134)",
+   "Fromelles (59249)",
+   "Gondecourt (59147)",
+   "Hantay (59496)",
+   "Haubourdin (59320)",
+   "Herlies (59134)",
+   "Herrin (59147)",
+   "Houplin-Ancoisne (59263)",
+   "Illies (59480)",
+   "La Bassée (59480)",
+   "Lesquin (59810)",
+   "Marquillies (59274)",
+   "Noyelles-lès-Seclin (59139)",
+   "Provin (59185)",
+   "Sainghin-en-Weppes (59184)",
+   "Salomé (59496)",
+   "Santes (59211)",
+   "Seclin (59113)",
+   "Templemars (59175)",
+   "Vendeville (59175)",
+   "Wattignies (59139)",
+   "Wavrin (59136)",
+   "Wicres (59134)"
+  ],
+  "departement": "Nord",
+  "group": "Non inscrit",
+  "nom": "Catteau",
+  "numCirco": "5",
+  "numDepartement": "59",
+  "prenom": "Victor"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 14,
+   "curRadiusIndex": 8,
+   "id": "ai14ri8",
+   "no": 124,
+   "polar": {
+    "angle": 0.6564521962724941,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": 0.6436320096465425,
+    "y": -0.49597512727040544
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794638",
+ "uid": "PA794638"
+}

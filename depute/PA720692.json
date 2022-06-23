@@ -12,14 +12,14 @@
   "nom": "Fabien Roussel"
  },
  "an_www_depute": {
-  "groupe": "Gauche démocrate et républicaine",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720692.jpg",
-  "nosiege": "590"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720692.jpg",
+  "nosiege": "544"
  },
  "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/Roussel2015/",
-  "twitter_link": "https://twitter.com/@Fabien_Rssl/"
+  "twitter_link": "https://twitter.com/@Fabien_Roussel/"
  },
  "circo": {
   "acteurId": "OMC_PA720692",
@@ -53,7 +53,7 @@
    "Vieux-Condé (59690)"
   ],
   "departement": "Nord",
-  "group": "Gauche démocrate et républicaine",
+  "group": "Non inscrit",
   "nom": "Roussel",
   "numCirco": "20",
   "numDepartement": "59",
@@ -62,17 +62,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_fabien-roussel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
-   "curRadiusIndex": 4,
-   "id": "ai38ri4",
-   "no": 590,
+   "curAngleIndex": 57,
+   "curRadiusIndex": 9,
+   "id": "ai57ri9",
+   "no": 544,
    "polar": {
-    "angle": 3.0610389958054394,
-    "radius": 0.5625
+    "angle": 2.5952287138350463,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.560675985825493,
-    "y": -0.04527139370996252
+    "x": -0.7476169789781772,
+    "y": -0.45472584204275834
    }
   }
  },

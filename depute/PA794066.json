@@ -1,0 +1,52 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794066.jpg",
+  "nosiege": "415"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794066",
+  "civ": "M.",
+  "communes": [
+   "Bourgbarré (35230)",
+   "Bruz (35170)",
+   "Chantepie (35135)",
+   "Chartres-de-Bretagne (35131)",
+   "Noyal-Châtillon-sur-Seiche (35230)",
+   "Orgères (Ille-et-Vilaine) (35230)",
+   "Pont-Péan (35131)",
+   "Rennes (35000)",
+   "Rennes (35200)",
+   "Rennes (35700)",
+   "Saint-Erblon (Ille-et-Vilaine) (35230)",
+   "Vern-sur-Seiche (35770)"
+  ],
+  "departement": "Ille-et-vilaine",
+  "group": "Non inscrit",
+  "nom": "Mathieu",
+  "numCirco": "1",
+  "numDepartement": "35",
+  "prenom": "Frédéric"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 23,
+   "curRadiusIndex": 3,
+   "id": "ai23ri3",
+   "no": 415,
+   "polar": {
+    "angle": 2.2580197197676637,
+    "radius": 0.5
+   },
+   "pos": {
+    "x": -0.3171966420818227,
+    "y": -0.386581642363503
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794066",
+ "uid": "PA794066"
+}

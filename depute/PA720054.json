@@ -12,9 +12,9 @@
   "nom": "Yannick Haury"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720054.jpg",
-  "nosiege": "566"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720054.jpg",
+  "nosiege": "285"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -65,7 +65,7 @@
    "Vue (44640)"
   ],
   "departement": "Loire-atlantique",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Haury",
   "numCirco": "9",
   "numDepartement": "44",
@@ -74,17 +74,17 @@
  "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_yannick-haury",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 64,
-   "curRadiusIndex": 11,
-   "id": "ai64ri11",
-   "no": 566,
+   "curAngleIndex": 26,
+   "curRadiusIndex": 8,
+   "id": "ai26ri8",
+   "no": 285,
    "polar": {
-    "angle": 2.5450877193638832,
-    "radius": 1
+    "angle": 1.2191255073632032,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.8273040325430573,
-    "y": -0.561865492401846
+    "x": 0.27987931585602055,
+    "y": -0.7629245737762349
    }
   }
  },

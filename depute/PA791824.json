@@ -1,0 +1,42 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/791824.jpg",
+  "nosiege": "365"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA791824",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 19eme arrondissement (75019)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Legrain",
+  "numCirco": "16",
+  "numDepartement": "75",
+  "prenom": "Sarah"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 35,
+   "curRadiusIndex": 8,
+   "id": "ai35ri8",
+   "no": 365,
+   "polar": {
+    "angle": 1.6411304906812352,
+    "radius": 0.8125
+   },
+   "pos": {
+    "x": -0.057099403518050464,
+    "y": -0.8106513940469662
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA791824",
+ "uid": "PA791824"
+}

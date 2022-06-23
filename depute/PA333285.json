@@ -12,9 +12,9 @@
   "nom": "Guillaume Garot"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/333285.jpg",
-  "nosiege": "500"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/333285.jpg",
+  "nosiege": "237"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -85,7 +85,7 @@
    "Voutré (53600)"
   ],
   "departement": "Mayenne",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Garot",
   "numCirco": "1",
   "numDepartement": "53",
@@ -94,17 +94,17 @@
  "datan": "https://datan.fr/deputes/mayenne-53/depute_guillaume-garot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
-   "curRadiusIndex": 3,
-   "id": "ai26ri3",
-   "no": 500,
+   "curAngleIndex": 20,
+   "curRadiusIndex": 11,
+   "id": "ai20ri11",
+   "no": 237,
    "polar": {
-    "angle": 2.552544031041707,
-    "radius": 0.5
+    "angle": 0.7953399123012135,
+    "radius": 1
    },
    "pos": {
-    "x": -0.4157348061512727,
-    "y": -0.27784003721384215
+    "x": 0.7000420745694255,
+    "y": -0.7142427836320193
    }
   }
  },

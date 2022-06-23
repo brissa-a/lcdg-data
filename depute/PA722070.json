@@ -12,9 +12,9 @@
   "nom": "Pierre Henriet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722070.jpg",
-  "nosiege": "466"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722070.jpg",
+  "nosiege": "287"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -118,7 +118,7 @@
    "Xanton-Chassenon (85240)"
   ],
   "departement": "Vendée",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Henriet",
   "numCirco": "5",
   "numDepartement": "85",
@@ -127,17 +127,17 @@
  "datan": "https://datan.fr/deputes/vendee-85/depute_pierre-henriet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 54,
-   "curRadiusIndex": 10,
-   "id": "ai54ri10",
-   "no": 466,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 8,
+   "id": "ai28ri8",
+   "no": 287,
    "polar": {
-    "angle": 2.0943951023931953,
-    "radius": 0.9375
+    "angle": 1.3129043925449881,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.4687499999999998,
-    "y": -0.8120593360035795
+    "x": 0.2072222494563622,
+    "y": -0.7857857671378481
    }
   }
  },

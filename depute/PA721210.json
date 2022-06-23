@@ -12,9 +12,9 @@
   "nom": "Alexis Corbière"
  },
  "an_www_depute": {
-  "groupe": "La France insoumise",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721210.jpg",
-  "nosiege": "603"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721210.jpg",
+  "nosiege": "149"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -29,7 +29,7 @@
    "Montreuil (93100)"
   ],
   "departement": "Seine-saint-denis",
-  "group": "La France insoumise",
+  "group": "Non inscrit",
   "nom": "Corbière",
   "numCirco": "7",
   "numDepartement": "93",
@@ -38,17 +38,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_alexis-corbiere",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 52,
-   "curRadiusIndex": 6,
-   "id": "ai52ri6",
-   "no": 603,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 11,
+   "id": "ai8ri11",
+   "no": 149,
    "polar": {
-    "angle": 3.0823173205031935,
-    "radius": 0.6875
+    "angle": 0.3181359649204854,
+    "radius": 1
    },
    "pos": {
-    "x": -0.6862925655879709,
-    "y": -0.040735983968246084
+    "x": 0.9498201317277827,
+    "y": -0.3128584498239408
    }
   }
  },

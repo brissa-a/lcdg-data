@@ -1,0 +1,66 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795192.jpg",
+  "nosiege": "129"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Steve%20Chailloux/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795192",
+  "civ": "M.",
+  "communes": [
+   "Hitiaa O Te Ra (98705)",
+   "Hitiaa O Te Ra (98706)",
+   "Hitiaa O Te Ra (98707)",
+   "Hitiaa O Te Ra (98708)",
+   "Mahina (98709)",
+   "Mahina (98710)",
+   "Paea (98711)",
+   "Papara (98712)",
+   "Raivavae (98750)",
+   "Rapa (98751)",
+   "Rapa (98794)",
+   "Rimatara (98752)",
+   "Rimatara (98795)",
+   "Rurutu (98753)",
+   "Taiarapu-Est (98719)",
+   "Taiarapu-Est (98720)",
+   "Taiarapu-Est (98721)",
+   "Taiarapu-Est (98722)",
+   "Taiarapu-Ouest (98723)",
+   "Taiarapu-Ouest (98724)",
+   "Taiarapu-Ouest (98725)",
+   "Teva I Uta (98726)",
+   "Teva I Uta (98727)",
+   "Tubuai (98754)"
+  ],
+  "departement": "Polynésie française",
+  "group": "Non inscrit",
+  "nom": "Chailloux",
+  "numCirco": "2",
+  "numDepartement": "987",
+  "prenom": "Steve"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 11,
+   "curRadiusIndex": 9,
+   "id": "ai11ri9",
+   "no": 129,
+   "polar": {
+    "angle": 0.500833611441851,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.7675347771022699,
+    "y": -0.42022038301490977
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795192",
+ "uid": "PA795192"
+}

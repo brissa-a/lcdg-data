@@ -1,0 +1,53 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795454.jpg",
+  "nosiege": "54"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795454",
+  "civ": "M.",
+  "communes": [
+   "Algérie. Maroc. Libye",
+   "Cap-Vert",
+   "Côte d''Ivoire",
+   "Gambie",
+   "Guinée",
+   "Guinée-Bissau",
+   "Liberia",
+   "Mali",
+   "Mauritanie",
+   "Niger",
+   "Sierra Leone",
+   "Sénégal",
+   "Tunisie. Burkina"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Non inscrit",
+  "nom": "Ben Cheikh",
+  "numCirco": "9",
+  "numDepartement": "099",
+  "prenom": "Karim"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 7,
+   "curRadiusIndex": 9,
+   "id": "ai7ri9",
+   "no": 54,
+   "polar": {
+    "angle": 0.31871229819026886,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.8309347365377794,
+    "y": -0.2742301791293354
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795454",
+ "uid": "PA795454"
+}

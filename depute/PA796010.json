@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796010.jpg",
+  "nosiege": "391"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA796010",
+  "civ": "M.",
+  "communes": [
+   "Saint-André (97440)",
+   "Saint-Denis (97400)",
+   "Saint-Denis (97417)",
+   "Saint-Denis (97490)",
+   "Sainte-Marie (La Réunion) (97438)",
+   "Sainte-Suzanne (La Réunion) (97441)"
+  ],
+  "departement": "La réunion",
+  "group": "Non inscrit",
+  "nom": "Maillot",
+  "numCirco": "6",
+  "numDepartement": "974",
+  "prenom": "Frédéric"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 47,
+   "curRadiusIndex": 10,
+   "id": "ai47ri10",
+   "no": 391,
+   "polar": {
+    "angle": 1.8228994409718553,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.23385107255435744,
+    "y": -0.9080450814748641
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796010",
+ "uid": "PA796010"
+}

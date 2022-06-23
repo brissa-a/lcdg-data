@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795050.jpg",
+  "nosiege": "467"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795050",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 16eme arrondissement (75016)",
+   "Paris 16eme arrondissement (75116)",
+   "Paris 17eme arrondissement (75017)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Panosyan-Bouvet",
+  "numCirco": "4",
+  "numDepartement": "75",
+  "prenom": "Astrid"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 55,
+   "curRadiusIndex": 10,
+   "id": "ai55ri10",
+   "no": 467,
+   "polar": {
+    "angle": 2.133180196881958,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.49987915575158537,
+    "y": -0.7932690799812909
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795050",
+ "uid": "PA795050"
+}

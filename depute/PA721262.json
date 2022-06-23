@@ -12,9 +12,9 @@
   "nom": "Guillaume Vuilletet"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721262.jpg",
-  "nosiege": "373"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721262.jpg",
+  "nosiege": "637"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -49,7 +49,7 @@
    "Villiers-Adam (95840)"
   ],
   "departement": "Val-d'oise",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Vuilletet",
   "numCirco": "2",
   "numDepartement": "95",
@@ -58,17 +58,17 @@
  "datan": "https://datan.fr/deputes/val-doise-95/depute_guillaume-vuilletet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 42,
-   "curRadiusIndex": 8,
-   "id": "ai42ri8",
-   "no": 373,
+   "curAngleIndex": 78,
+   "curRadiusIndex": 10,
+   "id": "ai78ri10",
+   "no": 637,
    "polar": {
-    "angle": 1.9693565888174822,
-    "radius": 0.8125
+    "angle": 3.0252373701235045,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.31532463029620283,
-    "y": -0.7489648664639534
+    "x": -0.9311609603830716,
+    "y": -0.10885862510185769
    }
   }
  },

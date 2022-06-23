@@ -12,12 +12,15 @@
   "nom": "Anne-Laure Blin"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/774954.jpg",
-  "nosiege": "36"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774954.jpg",
+  "nosiege": "73"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/annelaureblin49/",
+  "twitter_link": "https://twitter.com/@annelaureblin/"
+ },
  "circo": {
   "acteurId": "OMC_PA774954",
   "civ": "Mme",
@@ -70,7 +73,7 @@
    "Vivy (49680)"
   ],
   "departement": "Maine-et-loire",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Blin",
   "numCirco": "3",
   "numDepartement": "49",
@@ -79,17 +82,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_annelaure-blin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 7,
-   "id": "ai5ri7",
-   "no": 36,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 11,
+   "id": "ai6ri11",
+   "no": 73,
    "polar": {
-    "angle": 0.29637666543299934,
-    "radius": 0.75
+    "angle": 0.23860197369036407,
+    "radius": 1
    },
    "pos": {
-    "x": 0.7173007382073918,
-    "y": -0.2190858847349428
+    "x": 0.9716693400404101,
+    "y": -0.23639116602904833
    }
   }
  },

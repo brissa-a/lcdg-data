@@ -13,8 +13,8 @@
  },
  "an_www_depute": {
   "groupe": "Non inscrit",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720614.jpg",
-  "nosiege": "60"
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720614.jpg",
+  "nosiege": "351"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -50,17 +50,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_marine-lepen",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 10,
-   "id": "ai4ri10",
-   "no": 60,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 6,
+   "id": "ai30ri6",
+   "no": 351,
    "polar": {
-    "angle": 0.1551403779550515,
-    "radius": 0.9375
+    "angle": 1.7782599925979963,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.9262404838845084,
-    "y": -0.1448900086986851
+    "x": -0.1416103003845052,
+    "y": -0.6728905988953134
    }
   }
  },

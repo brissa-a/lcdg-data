@@ -12,9 +12,9 @@
   "nom": "Josiane Corneloup"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722390.jpg",
-  "nosiege": "6"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722390.jpg",
+  "nosiege": "152"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -169,7 +169,7 @@
    "Volesvres (71600)"
   ],
   "departement": "Saône-et-loire",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Corneloup",
   "numCirco": "2",
   "numDepartement": "71",
@@ -178,17 +178,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_josiane-corneloup",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 2,
-   "id": "ai1ri2",
-   "no": 6,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 11,
+   "id": "ai11ri11",
+   "no": 152,
    "polar": {
-    "angle": 0.10833078115826873,
-    "radius": 0.4375
+    "angle": 0.43743695176566744,
+    "radius": 1
    },
    "pos": {
-    "x": 0.4349353562550323,
-    "y": -0.047311422620262396
+    "x": 0.905840393665523,
+    "y": -0.42370289985816695
    }
   }
  },

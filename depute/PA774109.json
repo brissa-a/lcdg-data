@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774109.jpg",
+  "nosiege": "48"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA774109",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 11eme arrondissement (75011)",
+   "Paris 12eme arrondissement (75012)",
+   "Paris 4eme arrondissement (75004)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Beaune",
+  "numCirco": "7",
+  "numDepartement": "75",
+  "prenom": "Clément"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 1,
+   "curRadiusIndex": 9,
+   "id": "ai1ri9",
+   "no": 48,
+   "polar": {
+    "angle": 0.04553032831289555,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.8740932144408866,
+    "y": -0.039833148068880934
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA774109",
+ "uid": "PA774109"
+}

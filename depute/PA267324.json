@@ -12,9 +12,9 @@
   "nom": "Jean-Jacques Gaultier"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267324.jpg",
-  "nosiege": "126"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267324.jpg",
+  "nosiege": "241"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -297,7 +297,7 @@
    "Xaronval (88130)"
   ],
   "departement": "Vosges",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Gaultier",
   "numCirco": "4",
   "numDepartement": "88",
@@ -306,17 +306,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_jeanjacques-gaultier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 9,
-   "id": "ai8ri9",
-   "no": 126,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 11,
+   "id": "ai24ri11",
+   "no": 241,
    "polar": {
-    "angle": 0.3642426265031644,
-    "radius": 0.875
+    "angle": 0.9544078947614563,
+    "radius": 1
    },
    "pos": {
-    "x": 0.8175946075155872,
-    "y": -0.3117731259062249
+    "x": 0.5780920002248483,
+    "y": -0.8161329173805968
    }
   }
  },

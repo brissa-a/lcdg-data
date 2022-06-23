@@ -12,9 +12,9 @@
   "nom": "David Habib"
  },
  "an_www_depute": {
-  "groupe": "Socialistes et apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/1592.jpg",
-  "nosiege": "506"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1592.jpg",
+  "nosiege": "278"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -200,7 +200,7 @@
    "Viven (64450)"
   ],
   "departement": "Pyrénées-atlantiques",
-  "group": "Socialistes et apparentés",
+  "group": "Non inscrit",
   "nom": "Habib",
   "numCirco": "3",
   "numDepartement": "64",
@@ -209,17 +209,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_david-habib",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 4,
-   "id": "ai33ri4",
-   "no": 506,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 7,
+   "id": "ai22ri7",
+   "no": 278,
    "polar": {
-    "angle": 2.658270706883671,
-    "radius": 0.5625
+    "angle": 1.3040573279051972,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.4980690144299305,
-    "y": -0.26145846682987645
+    "x": 0.19769037455180075,
+    "y": -0.7236197245085977
    }
   }
  },

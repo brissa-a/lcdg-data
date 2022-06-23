@@ -12,9 +12,9 @@
   "nom": "Élodie Jacquier-Laforge"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719874.jpg",
-  "nosiege": "184"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719874.jpg",
+  "nosiege": "302"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -94,7 +94,7 @@
    "Vourey (38210)"
   ],
   "departement": "Isère",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Jacquier-Laforge",
   "numCirco": "9",
   "numDepartement": "38",
@@ -103,17 +103,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_elodie-jacquierlaforge",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 5,
-   "id": "ai15ri5",
-   "no": 184,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 9,
+   "id": "ai33ri9",
+   "no": 302,
    "polar": {
-    "angle": 1.0026359532733382,
-    "radius": 0.625
+    "angle": 1.5025008343255533,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.3363014707271079,
-    "y": -0.5269118244169858
+    "x": 0.059712111694087126,
+    "y": -0.8731327653962209
    }
   }
  },

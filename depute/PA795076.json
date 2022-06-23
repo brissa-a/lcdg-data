@@ -1,0 +1,44 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795076.jpg",
+  "nosiege": "543"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@sandrousseau/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795076",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 13eme arrondissement (75013)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Rousseau",
+  "numCirco": "9",
+  "numDepartement": "75",
+  "prenom": "Sandrine"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 56,
+   "curRadiusIndex": 9,
+   "id": "ai56ri9",
+   "no": 543,
+   "polar": {
+    "angle": 2.549698385522151,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": -0.7261496304991468,
+    "y": -0.4882888123233606
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795076",
+ "uid": "PA795076"
+}

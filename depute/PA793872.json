@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793872.jpg",
+  "nosiege": "461"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@NathalieOziol/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA793872",
+  "civ": "Mme",
+  "communes": [
+   "Montpellier (34000)",
+   "Montpellier (34070)",
+   "Montpellier (34080)",
+   "Montpellier (34090)"
+  ],
+  "departement": "Hérault",
+  "group": "Non inscrit",
+  "nom": "Oziol",
+  "numCirco": "2",
+  "numDepartement": "34",
+  "prenom": "Nathalie"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 50,
+   "curRadiusIndex": 9,
+   "id": "ai50ri9",
+   "no": 461,
+   "polar": {
+    "angle": 2.2765164156447777,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": -0.5675093282799115,
+    "y": -0.6661332980800426
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793872",
+ "uid": "PA793872"
+}

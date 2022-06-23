@@ -12,9 +12,9 @@
   "nom": "Nathalie Serre"
  },
  "an_www_depute": {
-  "groupe": "Les Républicains",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/722308.jpg",
-  "nosiege": "127"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722308.jpg",
+  "nosiege": "569"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -95,7 +95,7 @@
    "Ville-sur-Jarnioux (69640)"
   ],
   "departement": "Rhône",
-  "group": "Les Républicains",
+  "group": "Non inscrit",
   "nom": "Serre",
   "numCirco": "8",
   "numDepartement": "69",
@@ -104,17 +104,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_nathalie-serre",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 9,
-   "id": "ai9ri9",
-   "no": 127,
+   "curAngleIndex": 67,
+   "curRadiusIndex": 11,
+   "id": "ai67ri11",
+   "no": 569,
    "polar": {
-    "angle": 0.40977295481605996,
-    "radius": 0.875
+    "angle": 2.664388706209065,
+    "radius": 1
    },
    "pos": {
-    "x": 0.8025598888172714,
-    "y": -0.348669875269877
+    "x": -0.8882826127491319,
+    "y": -0.4593880965736567
    }
   }
  },

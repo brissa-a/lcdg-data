@@ -1,0 +1,90 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795422.jpg",
+  "nosiege": "417"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/@damienmaudt/",
+  "twitter_link": "https://twitter.com/@damienmaudt/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA795422",
+  "civ": "M.",
+  "communes": [
+   "Ambazac (87240)",
+   "Augne (87120)",
+   "Aureil (87220)",
+   "Beaumont-du-Lac (87120)",
+   "Bonnac-la-Côte (87270)",
+   "Bujaleuf (87460)",
+   "Champnétery (87400)",
+   "Cheissoux (87460)",
+   "Châteauneuf-la-Forêt (87130)",
+   "Domps (87120)",
+   "Eybouleuf (87400)",
+   "Eymoutiers (87120)",
+   "Feytiat (87220)",
+   "La Croisille-sur-Briance (87130)",
+   "La Geneytouse (87400)",
+   "Le Châtenet-en-Dognon (87400)",
+   "Le Palais-sur-Vienne (87410)",
+   "Les Billanges (87340)",
+   "Limoges (87000)",
+   "Limoges (87100)",
+   "Limoges (87280)",
+   "Linards (87130)",
+   "Masléon (87130)",
+   "Moissannes (87400)",
+   "Nedde (87120)",
+   "Neuvic-Entier (87130)",
+   "Panazol (87350)",
+   "Peyrat-le-Château (87470)",
+   "Rempnat (87120)",
+   "Rilhac-Rancon (87570)",
+   "Royères (87400)",
+   "Roziers-Saint-Georges (87130)",
+   "Saint-Amand-le-Petit (87120)",
+   "Saint-Denis-des-Murs (87400)",
+   "Saint-Gilles-les-Forêts (87130)",
+   "Saint-Julien-le-Petit (87460)",
+   "Saint-Just-le-Martel (87590)",
+   "Saint-Laurent-les-Eglises (87240)",
+   "Saint-Léonard-de-Noblat (87400)",
+   "Saint-Martin-Terressus (87400)",
+   "Saint-Méard (87130)",
+   "Saint-Priest-Taurion (87480)",
+   "Saint-Sylvestre (Haute-Vienne) (87240)",
+   "Sainte-Anne-Saint-Priest (87120)",
+   "Sauviat-sur-Vige (87400)",
+   "Surdoux (87130)",
+   "Sussac (87130)"
+  ],
+  "departement": "Haute-vienne",
+  "group": "Non inscrit",
+  "nom": "Maudet",
+  "numCirco": "1",
+  "numDepartement": "87",
+  "prenom": "Damien"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 25,
+   "curRadiusIndex": 4,
+   "id": "ai25ri4",
+   "no": 417,
+   "polar": {
+    "angle": 2.0138414446088415,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": -0.2411395657892178,
+    "y": -0.5082913435350903
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795422",
+ "uid": "PA795422"
+}

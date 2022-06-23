@@ -1,0 +1,46 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795588.jpg",
+  "nosiege": "16"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795588",
+  "civ": "Mme",
+  "communes": [
+   "Bondoufle (91070)",
+   "Corbeil-Essonnes (91100)",
+   "Courcouronnes (91080)",
+   "Evry (Essonne) (91000)",
+   "Lisses (91090)",
+   "Villabé (91100)"
+  ],
+  "departement": "Essonne",
+  "group": "Non inscrit",
+  "nom": "Amrani",
+  "numCirco": "1",
+  "numDepartement": "91",
+  "prenom": "Farida"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 4,
+   "curRadiusIndex": 4,
+   "id": "ai4ri4",
+   "no": 16,
+   "polar": {
+    "angle": 0.32221463113741466,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.5335517485952693,
+    "y": -0.17816096363197473
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795588",
+ "uid": "PA795588"
+}

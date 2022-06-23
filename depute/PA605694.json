@@ -12,9 +12,9 @@
   "nom": "Olivier Falorni"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/605694.jpg",
-  "nosiege": "207"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605694.jpg",
+  "nosiege": "210"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -47,7 +47,7 @@
    "Sainte-Marie-de-Ré (17740)"
   ],
   "departement": "Charente-maritime",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "Falorni",
   "numCirco": "1",
   "numDepartement": "17",
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/charente-maritime-17/depute_olivier-falorni",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
+   "curAngleIndex": 22,
    "curRadiusIndex": 8,
-   "id": "ai20ri8",
-   "no": 207,
+   "id": "ai22ri8",
+   "no": 210,
    "polar": {
-    "angle": 0.9377888518178488,
+    "angle": 1.0315677369996337,
     "radius": 0.8125
    },
    "pos": {
-    "x": 0.48065242258598695,
-    "y": -0.6552092804834402
+    "x": 0.41719778223080906,
+    "y": -0.6973481866249494
    }
   }
  },

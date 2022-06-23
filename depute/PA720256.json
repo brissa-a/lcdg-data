@@ -12,9 +12,9 @@
   "nom": "Géraldine Bannier"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720256.jpg",
-  "nosiege": "163"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720256.jpg",
+  "nosiege": "31"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -126,7 +126,7 @@
    "Villiers-Charlemagne (53170)"
   ],
   "departement": "Mayenne",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Bannier",
   "numCirco": "2",
   "numDepartement": "53",
@@ -135,17 +135,17 @@
  "datan": "https://datan.fr/deputes/mayenne-53/depute_geraldine-bannier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 0,
-   "id": "ai7ri0",
-   "no": 163,
+   "curAngleIndex": 1,
+   "curRadiusIndex": 7,
+   "id": "ai1ri7",
+   "no": 31,
    "polar": {
-    "angle": 0.916297857297023,
-    "radius": 0.3125
+    "angle": 0.05927533308659987,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.1902379465652252,
-    "y": -0.24797193551052063
+    "x": 0.7486827988232412,
+    "y": -0.04443925523808674
    }
   }
  },

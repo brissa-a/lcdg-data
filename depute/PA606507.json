@@ -12,9 +12,9 @@
   "nom": "Florent Boudié"
  },
  "an_www_depute": {
-  "groupe": "La République en Marche",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/606507.jpg",
-  "nosiege": "448"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/606507.jpg",
+  "nosiege": "86"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -130,7 +130,7 @@
    "Vérac (33240)"
   ],
   "departement": "Gironde",
-  "group": "La République en Marche",
+  "group": "Non inscrit",
   "nom": "Boudié",
   "numCirco": "10",
   "numDepartement": "33",
@@ -139,17 +139,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_florent-boudie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 8,
-   "id": "ai47ri8",
-   "no": 448,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 3,
+   "id": "ai5ri3",
+   "no": 86,
    "polar": {
-    "angle": 2.2038038017719446,
-    "radius": 0.8125
+    "angle": 0.4908738521234052,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.480652422585987,
-    "y": -0.6552092804834402
+    "x": 0.44096063217417747,
+    "y": -0.23574496817506388
    }
   }
  },

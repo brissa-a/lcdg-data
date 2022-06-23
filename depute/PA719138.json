@@ -12,9 +12,9 @@
   "nom": "Michel Castellani"
  },
  "an_www_depute": {
-  "groupe": "Libertés et Territoires",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719138.jpg",
-  "nosiege": "196"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719138.jpg",
+  "nosiege": "122"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -74,7 +74,7 @@
    "Ville-di-Pietrabugno (20200)"
   ],
   "departement": "Haute-corse",
-  "group": "Libertés et Territoires",
+  "group": "Non inscrit",
   "nom": "Castellani",
   "numCirco": "1",
   "numDepartement": "2B",
@@ -83,17 +83,17 @@
  "datan": "https://datan.fr/deputes/haute-corse-2b/depute_michel-castellani",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
-   "curRadiusIndex": 7,
-   "id": "ai14ri7",
-   "no": 196,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 8,
+   "id": "ai12ri8",
+   "no": 122,
    "polar": {
-    "angle": 0.8298546632123982,
-    "radius": 0.75
+    "angle": 0.5626733110907092,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.5062372511386579,
-    "y": -0.5534843666633189
+    "x": 0.6872385481480168,
+    "y": -0.43351322747850624
    }
   }
  },

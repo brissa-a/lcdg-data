@@ -1,0 +1,51 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794450.jpg",
+  "nosiege": "326"
+ },
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Lacresse.Emmanuel/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA794450",
+  "civ": "M.",
+  "communes": [
+   "Heillecourt (54180)",
+   "Houdemont (54180)",
+   "Jarville-la-Malgrange (54140)",
+   "Laxou (54520)",
+   "Ludres (54710)",
+   "Nancy (54000)",
+   "Nancy (54100)",
+   "Vandoeuvre-lès-Nancy (54500)",
+   "Villers-lès-Nancy (54600)"
+  ],
+  "departement": "Meurthe-et-moselle",
+  "group": "Non inscrit",
+  "nom": "Lacresse",
+  "numCirco": "2",
+  "numDepartement": "54",
+  "prenom": "Emmanuel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 38,
+   "curRadiusIndex": 11,
+   "id": "ai38ri11",
+   "no": 326,
+   "polar": {
+    "angle": 1.5111458333723056,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.05961512516981993,
+    "y": -0.9984187944546037
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794450",
+ "uid": "PA794450"
+}

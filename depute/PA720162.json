@@ -12,9 +12,9 @@
   "nom": "Philippe Bolo"
  },
  "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720162.jpg",
-  "nosiege": "253"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720162.jpg",
+  "nosiege": "77"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -58,7 +58,7 @@
    "Val-d'Erdre-Auxence (49370)"
   ],
   "departement": "Maine-et-loire",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Non inscrit",
   "nom": "Bolo",
   "numCirco": "7",
   "numDepartement": "49",
@@ -67,17 +67,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_philippe-bolo",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 3,
-   "id": "ai13ri3",
-   "no": 253,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 0,
+   "id": "ai5ri0",
+   "no": 77,
    "polar": {
-    "angle": 1.2762720155208536,
-    "radius": 0.5
+    "angle": 0.6544984694978735,
+    "radius": 0.3125
    },
    "pos": {
-    "x": 0.14514233862723117,
-    "y": -0.4785647658734132
+    "x": 0.24792291884101098,
+    "y": -0.19027555837860077
    }
   }
  },

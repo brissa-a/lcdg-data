@@ -1,0 +1,45 @@
+{
+ "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794386.jpg",
+  "nosiege": "429"
+ },
+ "an_www_pic": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794386",
+  "civ": "Mme",
+  "communes": [
+   "Groix (56590)",
+   "Lanester (56600)",
+   "Larmor-Plage (56260)",
+   "Lorient (56100)",
+   "Ploemeur (56270)"
+  ],
+  "departement": "Morbihan",
+  "group": "Non inscrit",
+  "nom": "Métayer",
+  "numCirco": "5",
+  "numDepartement": "56",
+  "prenom": "Lysiane"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 35,
+   "curRadiusIndex": 6,
+   "id": "ai35ri6",
+   "no": 429,
+   "polar": {
+    "angle": 2.0746366580309954,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": -0.33191963937738705,
+    "y": -0.602186807164136
+   }
+  }
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794386",
+ "uid": "PA794386"
+}

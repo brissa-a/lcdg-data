@@ -12,12 +12,15 @@
   "nom": "Agnès Firmin Le Bodo"
  },
  "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/267780.jpg",
-  "nosiege": "158"
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267780.jpg",
+  "nosiege": "223"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/agnesfirminlebodo/",
+  "twitter_link": "https://twitter.com/@agnesfirmin/"
+ },
  "circo": {
   "acteurId": "OMC_PA267780",
   "civ": "Mme",
@@ -39,7 +42,7 @@
    "Sainte-Adresse (76310)"
   ],
   "departement": "Seine-maritime",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Firmin Le Bodo",
   "numCirco": "7",
   "numDepartement": "76",
@@ -48,17 +51,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_agnes-firminlebodo",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 11,
-   "id": "ai17ri11",
-   "no": 158,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 10,
+   "id": "ai19ri10",
+   "no": 223,
    "polar": {
-    "angle": 0.6760389254560315,
-    "radius": 1
+    "angle": 0.7369167952864947,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.780057308185212,
-    "y": -0.6258317839731983
+    "x": 0.6942600122896918,
+    "y": -0.6301319275938188
    }
   }
  },
