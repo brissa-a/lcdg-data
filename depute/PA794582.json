@@ -6,7 +6,10 @@
   "nosiege": "492"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Kevin.Pfeffer57/",
+  "twitter_link": "https://twitter.com/@k_pfeffer/"
+ },
  "circo": {
   "acteurId": "OMC_PA794582",
   "civ": "M.",

@@ -17,7 +17,9 @@
   "nosiege": "336"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@platombe/"
+ },
  "circo": {
   "acteurId": "OMC_PA721984",
   "civ": "M.",

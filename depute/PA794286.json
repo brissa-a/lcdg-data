@@ -5,7 +5,11 @@
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794286.jpg",
   "nosiege": "231"
  },
- "an_www_social": {},
+ "an_www_pic": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/ASFrigout/",
+  "twitter_link": "https://twitter.com/@asfrigout/"
+ },
  "circo": {
   "acteurId": "OMC_PA794286",
   "civ": "Mme",

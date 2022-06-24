@@ -17,7 +17,10 @@
   "nosiege": "179"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/bddeputee2159/",
+  "twitter_link": "https://twitter.com/@beadescamps/"
+ },
  "circo": {
   "acteurId": "OMC_PA720696",
   "civ": "Mme",
