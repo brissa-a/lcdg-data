@@ -41,6 +41,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "oliviagregoire",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721764"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721764",
  "scrutins": {
   "VTANR5L15V1": "P",

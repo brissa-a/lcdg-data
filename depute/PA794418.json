@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794418.jpg",
+  "nosiege": "260"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA794418",
@@ -261,6 +267,26 @@
   "numCirco": "2",
   "numDepartement": "55",
   "prenom": "Florence"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 18,
+   "curRadiusIndex": 4,
+   "id": "ai18ri4",
+   "no": 260,
+   "polar": {
+    "angle": 1.449965840118366,
+    "radius": 0.5625
+   },
+   "pos": {
+    "x": 0.06780188264361932,
+    "y": -0.5585091423107365
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "FlorenceGoulet4",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794418"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794418",
  "uid": "PA794418"

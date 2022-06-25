@@ -6,7 +6,9 @@
   "nosiege": "10"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@LauAlexandre12/"
+ },
  "circo": {
   "acteurId": "OMC_PA793262",
   "civ": "M.",
@@ -132,6 +134,10 @@
     "y": -0.09756444659465592
    }
   }
+ },
+ "nd_twitter": {
+  "twitter": "LauAlexandre12",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793262"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793262",
  "uid": "PA793262"

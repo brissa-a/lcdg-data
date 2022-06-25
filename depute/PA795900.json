@@ -167,6 +167,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "marine_hamelet",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795900"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795900",
  "uid": "PA795900"
 }

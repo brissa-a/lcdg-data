@@ -41,6 +41,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "frdric_maillot",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796010"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796010",
  "uid": "PA796010"
 }

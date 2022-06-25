@@ -61,6 +61,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "karlolive",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795722"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795722",
  "uid": "PA795722"
 }

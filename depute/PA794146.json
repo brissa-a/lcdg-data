@@ -50,6 +50,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "laernoes",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794146"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794146",
  "uid": "PA794146"
 }

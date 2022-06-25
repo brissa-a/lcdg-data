@@ -121,6 +121,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "JoelGiraud05",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267336"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA267336",
  "scrutins": {
   "VTANR5L15V1": "P",

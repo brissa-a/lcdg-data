@@ -6,7 +6,10 @@
   "nosiege": "552"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/bsainthuile/",
+  "twitter_link": "https://twitter.com/@BSaintHuile/"
+ },
  "circo": {
   "acteurId": "OMC_PA794626",
   "civ": "M.",
@@ -115,6 +118,10 @@
     "y": -0.5452565978295913
    }
   }
+ },
+ "nd_twitter": {
+  "twitter": "BSaintHuile",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794626"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794626",
  "uid": "PA794626"

@@ -162,6 +162,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "mapoussier",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795270"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795270",
  "uid": "PA795270"
 }

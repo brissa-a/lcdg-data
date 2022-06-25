@@ -39,6 +39,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "sandrousseau",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795076"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795076",
  "uid": "PA795076"
 }

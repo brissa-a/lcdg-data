@@ -57,6 +57,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "rvicot",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794494"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794494",
  "uid": "PA794494"
 }

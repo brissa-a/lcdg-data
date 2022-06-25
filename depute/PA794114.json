@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794114.jpg",
+  "nosiege": "392"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA794114",
@@ -43,6 +49,26 @@
   "numCirco": "3",
   "numDepartement": "42",
   "prenom": "Emmanuel"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 48,
+   "curRadiusIndex": 10,
+   "id": "ai48ri10",
+   "no": 392,
+   "polar": {
+    "angle": 1.861684535460618,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.26887803066664684,
+    "y": -0.8982927335269555
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "EmmanuelMandon",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794114"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794114",
  "uid": "PA794114"

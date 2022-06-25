@@ -86,6 +86,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "sebchenu",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720468"
+ },
  "nosdeputes_link": "https://www.nosdeputes.fr/Sébastien-Chenu",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720468",
  "scrutins": {

@@ -283,6 +283,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "YaelMenache",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795786"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795786",
  "uid": "PA795786"
 }

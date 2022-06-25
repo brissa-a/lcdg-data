@@ -153,6 +153,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "plecamp",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795374"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795374",
  "uid": "PA795374"
 }

@@ -44,6 +44,10 @@
    }
   }
  },
+ "nd_twitter": {
+  "twitter": "MounirBelhamiti",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719910"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719910",
  "scrutins": {
   "VTANR5L15V1197": "A",

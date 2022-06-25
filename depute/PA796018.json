@@ -6,7 +6,9 @@
   "nosiege": "571"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "twitter_link": "https://twitter.com/@SimonnetDeputee/"
+ },
  "circo": {
   "acteurId": "OMC_PA796018",
   "civ": "Mme",
@@ -36,6 +38,10 @@
     "y": -0.3873477417678206
    }
   }
+ },
+ "nd_twitter": {
+  "twitter": "SimonnetDeputee",
+  "url_an": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796018"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA796018",
  "uid": "PA796018"
