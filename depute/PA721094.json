@@ -17,7 +17,10 @@
   "nosiege": "196"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/philippe.dunoyer/",
+  "twitter_link": "https://twitter.com/@DunoyerPhilippe/"
+ },
  "circo": {
   "acteurId": "OMC_PA721094",
   "civ": "M.",

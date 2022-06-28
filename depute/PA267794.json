@@ -17,7 +17,10 @@
   "nosiege": "580"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/MTabarot/",
+  "twitter_link": "https://twitter.com/@MTabarot/"
+ },
  "circo": {
   "acteurId": "OMC_PA267794",
   "civ": "Mme",

@@ -6,7 +6,10 @@
   "nosiege": "431"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Nicolas%20Metzdorf/",
+  "twitter_link": "https://twitter.com/@NicolasMetzdorf/"
+ },
  "circo": {
   "acteurId": "OMC_PA795176",
   "civ": "M.",
