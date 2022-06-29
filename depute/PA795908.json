@@ -1,7 +1,7 @@
 {
  "an_data_depute": {},
  "an_www_depute": {
-  "groupe": "Non inscrit",
+  "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795908.jpg",
   "nosiege": "135"
  },
@@ -16,7 +16,7 @@
    "Toulon (83200)"
   ],
   "departement": "Var",
-  "group": "Non inscrit",
+  "group": "Renaissance",
   "nom": "Chenevard",
   "numCirco": "1",
   "numDepartement": "83",
@@ -39,7 +39,7 @@
   }
  },
  "nd_twitter": {
-  "twitter": "chenevard2022",
+  "twitter": "ychenevard83",
   "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795908"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795908",
