@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267901.jpg",
-  "nosiege": "313"
+  "nosiege": "94"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/mayotte-976/depute_mansour-kamardine",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
-   "curRadiusIndex": 10,
-   "id": "ai38ri10",
-   "no": 313,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 5,
+   "id": "ai6ri5",
+   "no": 94,
    "polar": {
-    "angle": 1.4738335905729893,
-    "radius": 0.9375
+    "angle": 0.4010543813093353,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.09076019128423046,
-    "y": -0.9332808528968785
+    "x": 0.575406179172768,
+    "y": -0.24404153672386203
    }
   }
  },

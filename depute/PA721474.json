@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721474.jpg",
-  "nosiege": "633"
+  "nosiege": "135"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -114,17 +114,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_stephane-viry",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 75,
-   "curRadiusIndex": 10,
-   "id": "ai75ri10",
-   "no": 633,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 9,
+   "id": "ai16ri9",
+   "no": 135,
    "polar": {
-    "angle": 2.908882086657216,
-    "radius": 0.9375
+    "angle": 0.7284852530063288,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.9122295661685847,
-    "y": -0.21624512404442986
+    "x": 0.6529107251167248,
+    "y": -0.5826377748781891
    }
   }
  },

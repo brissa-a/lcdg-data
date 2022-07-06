@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720414.jpg",
-  "nosiege": "481"
+  "nosiege": "437"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -277,17 +277,17 @@
  "datan": "https://datan.fr/deputes/nievre-58/depute_patrice-perrot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 54,
-   "curRadiusIndex": 11,
-   "id": "ai54ri11",
-   "no": 481,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 7,
+   "id": "ai35ri7",
+   "no": 437,
    "polar": {
-    "angle": 2.1474177632132765,
-    "radius": 1
+    "angle": 2.0746366580309954,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.5451947721626677,
-    "y": -0.8384751477055178
+    "x": -0.36209415204805856,
+    "y": -0.6569310623608756
    }
   }
  },

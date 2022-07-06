@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720100.jpg",
-  "nosiege": "512"
+  "nosiege": "82"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -191,17 +191,17 @@
  "datan": "https://datan.fr/deputes/lot-46/depute_aurelien-pradie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 40,
-   "curRadiusIndex": 5,
-   "id": "ai40ri5",
-   "no": 512,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 2,
+   "id": "ai4ri2",
+   "no": 82,
    "polar": {
-    "angle": 2.673695875395569,
-    "radius": 0.625
+    "angle": 0.43332312463307493,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.5578242724124258,
-    "y": -0.2819370550725668
+    "x": 0.3970642461060437,
+    "y": -0.1837378014260713
    }
   }
  },

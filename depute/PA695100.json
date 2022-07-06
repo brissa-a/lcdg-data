@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/695100.jpg",
-  "nosiege": "279"
+  "nosiege": "112"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_meyer-habib",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
+   "curAngleIndex": 10,
    "curRadiusIndex": 7,
-   "id": "ai23ri7",
-   "no": 279,
+   "id": "ai10ri7",
+   "no": 112,
    "polar": {
-    "angle": 1.363332660991797,
+    "angle": 0.5927533308659987,
     "radius": 0.75
    },
    "pos": {
-    "x": 0.1544839640558238,
-    "y": -0.73406247152216
+    "x": 0.6220542640876514,
+    "y": -0.41906791160318413
    }
   }
  },

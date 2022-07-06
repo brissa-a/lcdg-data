@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721816.jpg",
-  "nosiege": "85"
+  "nosiege": "123"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -97,17 +97,17 @@
  "datan": "https://datan.fr/deputes/territoire-de-belfort-90/depute_ian-boucard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 3,
-   "id": "ai4ri3",
-   "no": 85,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 8,
+   "id": "ai13ri8",
+   "no": 123,
    "polar": {
-    "angle": 0.39269908169872414,
-    "radius": 0.5
+    "angle": 0.6095627536816016,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.46193976625564337,
-    "y": -0.19137954622145123
+    "x": 0.6661674692346575,
+    "y": -0.4652555437038607
    }
   }
  },

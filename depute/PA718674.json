@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718674.jpg",
-  "nosiege": "256"
+  "nosiege": "427"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -106,17 +106,17 @@
  "datan": "https://datan.fr/deputes/ain-01/depute_olga-givernet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 3,
-   "id": "ai16ri3",
-   "no": 256,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 5,
+   "id": "ai35ri5",
+   "no": 427,
    "polar": {
-    "angle": 1.5707963267948966,
-    "radius": 0.5
+    "angle": 2.3394838909711226,
+    "radius": 0.625
    },
    "pos": {
-    "x": 3.061616997868383e-17,
-    "y": -0.5000988546555897
+    "x": -0.4344952672966514,
+    "y": -0.4493536262583302
    }
   }
  },

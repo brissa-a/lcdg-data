@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722142.jpg",
-  "nosiege": "549"
+  "nosiege": "637"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -119,17 +119,17 @@
  "datan": "https://datan.fr/deputes/somme-80/depute_francois-ruffin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 61,
-   "curRadiusIndex": 9,
-   "id": "ai61ri9",
-   "no": 549,
+   "curAngleIndex": 78,
+   "curRadiusIndex": 10,
+   "id": "ai78ri10",
+   "no": 637,
    "polar": {
-    "angle": 2.7773500270866287,
-    "radius": 0.875
+    "angle": 3.0252373701235045,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.8175946075155871,
-    "y": -0.3117731259062251
+    "x": -0.9311609603830716,
+    "y": -0.10885862510185769
    }
   }
  },

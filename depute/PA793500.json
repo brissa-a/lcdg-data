@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793500.jpg",
-  "nosiege": "81"
+  "nosiege": "405"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -99,17 +99,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 2,
-   "id": "ai3ri2",
-   "no": 81,
+   "curAngleIndex": 48,
+   "curRadiusIndex": 11,
+   "id": "ai48ri11",
+   "no": 405,
    "polar": {
-    "angle": 0.3249923434748062,
-    "radius": 0.4375
+    "angle": 1.9088157895229125,
+    "radius": 1
    },
    "pos": {
-    "x": 0.41459826239247605,
-    "y": -0.13972203832193325
+    "x": -0.33161927855206796,
+    "y": -0.94359982131578
    }
   }
  },

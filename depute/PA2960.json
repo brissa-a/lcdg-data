@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/2960.jpg",
-  "nosiege": "642"
+  "nosiege": "250"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -116,17 +116,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_eric-woerth",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 73,
-   "curRadiusIndex": 11,
-   "id": "ai73ri11",
-   "no": 642,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 2,
+   "id": "ai13ri2",
+   "no": 250,
    "polar": {
-    "angle": 2.902990679899429,
-    "radius": 1
+    "angle": 1.4083001550574936,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.9716693400404101,
-    "y": -0.23639116602904836
+    "x": 0.07077962349183452,
+    "y": -0.43182196195842876
    }
   }
  },

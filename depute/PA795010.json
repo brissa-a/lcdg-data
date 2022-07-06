@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Écologiste - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795010.jpg",
-  "nosiege": "236"
+  "nosiege": "502"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -25,17 +25,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 11,
-   "id": "ai19ri11",
-   "no": 236,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 3,
+   "id": "ai28ri3",
+   "no": 502,
    "polar": {
-    "angle": 0.7555729166861528,
-    "radius": 1
+    "angle": 2.748893571891069,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.7278788103694941,
-    "y": -0.6858413655068314
+    "x": -0.46193976625564337,
+    "y": -0.1913795462214513
    }
   }
  },

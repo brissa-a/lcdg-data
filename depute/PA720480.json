@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720480.jpg",
-  "nosiege": "473"
+  "nosiege": "334"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -79,17 +79,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_charlotte-parmentierlecocq",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 60,
-   "curRadiusIndex": 10,
-   "id": "ai60ri10",
-   "no": 473,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 3,
+   "id": "ai18ri3",
+   "no": 334,
    "polar": {
-    "angle": 2.3271056693257726,
-    "radius": 0.9375
+    "angle": 1.7671458676442586,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.6433515355019376,
-    "y": -0.6820476094825259
+    "x": -0.0975451610080641,
+    "y": -0.49048959539271697
    }
   }
  },

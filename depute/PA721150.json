@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721150.jpg",
-  "nosiege": "292"
+  "nosiege": "339"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -43,17 +43,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_alexandre-holroyd",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 8,
-   "id": "ai32ri8",
-   "no": 292,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 4,
+   "id": "ai22ri4",
+   "no": 339,
    "polar": {
-    "angle": 1.500462162908558,
-    "radius": 0.8125
+    "angle": 1.7721804712557807,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.05709940351805057,
-    "y": -0.8106513940469662
+    "x": -0.11251445274902494,
+    "y": -0.5512412057496654
    }
   }
  },

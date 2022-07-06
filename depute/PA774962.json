@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774962.jpg",
-  "nosiege": "356"
+  "nosiege": "576"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_karine-lebon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
-   "curRadiusIndex": 7,
-   "id": "ai27ri7",
-   "no": 356,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 1,
+   "id": "ai21ri1",
+   "no": 576,
    "polar": {
-    "angle": 1.6004339933381966,
-    "radius": 0.75
+    "angle": 2.86841068371242,
+    "radius": 0.375
    },
    "pos": {
-    "x": -0.02222499586691983,
-    "y": -0.7498188442449469
+    "x": -0.3610939827554248,
+    "y": -0.10119379218405307
    }
   }
  },

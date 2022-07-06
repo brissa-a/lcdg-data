@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Rassemblement National",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719436.jpg",
-  "nosiege": "421"
+  "nosiege": "33"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -71,17 +71,17 @@
  "datan": "https://datan.fr/deputes/gard-30/depute_nicolas-meizonnet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 4,
-   "id": "ai29ri4",
-   "no": 421,
+   "curAngleIndex": 3,
+   "curRadiusIndex": 7,
+   "id": "ai3ri7",
+   "no": 33,
    "polar": {
-    "angle": 2.3360560757462565,
-    "radius": 0.5625
+    "angle": 0.1778259992597996,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.3896574488491496,
-    "y": -0.4057565826278811
+    "x": 0.7381729334606977,
+    "y": -0.13269393598276635
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720066.jpg",
-  "nosiege": "533"
+  "nosiege": "260"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/loiret-45/depute_stephanie-rist",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 55,
-   "curRadiusIndex": 8,
-   "id": "ai55ri8",
-   "no": 533,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 4,
+   "id": "ai18ri4",
+   "no": 260,
    "polar": {
-    "angle": 2.578919342499084,
-    "radius": 0.8125
+    "angle": 1.449965840118366,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.6872385481480168,
-    "y": -0.4335132274785061
+    "x": 0.06780188264361932,
+    "y": -0.5585091423107365
    }
   }
  },

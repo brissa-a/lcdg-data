@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/677483.jpg",
-  "nosiege": "420"
+  "nosiege": "387"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -111,17 +111,17 @@
  "datan": "https://datan.fr/deputes/aveyron-12/depute_stephane-mazars",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 4,
-   "id": "ai28ri4",
-   "no": 420,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 10,
+   "id": "ai44ri10",
+   "no": 387,
    "polar": {
-    "angle": 2.2555024179619028,
-    "radius": 0.5625
+    "angle": 1.7065441575055667,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.35575052377239963,
-    "y": -0.4358014359981152
+    "x": -0.12687309351574785,
+    "y": -0.9290590254657289
    }
   }
  },

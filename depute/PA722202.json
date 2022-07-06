@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722202.jpg",
-  "nosiege": "309"
+  "nosiege": "583"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -193,17 +193,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_sebastien-jumel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 35,
-   "curRadiusIndex": 10,
-   "id": "ai35ri10",
-   "no": 309,
+   "curAngleIndex": 29,
+   "curRadiusIndex": 3,
+   "id": "ai29ri3",
+   "no": 583,
    "polar": {
-    "angle": 1.3574783071067007,
-    "radius": 0.9375
+    "angle": 2.84706834231575,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.19847238021507266,
-    "y": -0.9164316433636336
+    "x": -0.4784701678661044,
+    "y": -0.14517103461902417
    }
   }
  },

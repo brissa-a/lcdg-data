@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/606507.jpg",
-  "nosiege": "86"
+  "nosiege": "354"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -139,17 +139,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_florent-boudie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 3,
-   "id": "ai5ri3",
-   "no": 86,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 6,
+   "id": "ai33ri6",
+   "no": 354,
    "polar": {
-    "angle": 0.4908738521234052,
-    "radius": 0.5
+    "angle": 1.9560859918577957,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.44096063217417747,
-    "y": -0.23574496817506388
+    "x": -0.25838146270353873,
+    "y": -0.6372250655346097
    }
   }
  },

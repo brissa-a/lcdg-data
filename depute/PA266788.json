@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/266788.jpg",
-  "nosiege": "445"
+  "nosiege": "244"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -195,17 +195,17 @@
  "datan": "https://datan.fr/deputes/lozere-48/depute_pierre-morelalhuissier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 8,
-   "id": "ai44ri8",
-   "no": 445,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 11,
+   "id": "ai27ri11",
+   "no": 244,
    "polar": {
-    "angle": 2.0631354739992673,
-    "radius": 0.8125
+    "angle": 1.0737088816066382,
+    "radius": 1
    },
    "pos": {
-    "x": -0.38405941046570935,
-    "y": -0.7161405954525666
+    "x": 0.476867501428506,
+    "y": -0.8791489724019551
    }
   }
  },

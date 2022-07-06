@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721024.jpg",
-  "nosiege": "242"
+  "nosiege": "346"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -86,17 +86,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_anne-genetet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 25,
-   "curRadiusIndex": 11,
-   "id": "ai25ri11",
-   "no": 242,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 5,
+   "id": "ai28ri5",
+   "no": 346,
    "polar": {
-    "angle": 0.9941748903765169,
-    "radius": 1
+    "angle": 1.871587112776898,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.5451947721626677,
-    "y": -0.8384751477055179
+    "x": -0.18517223805352115,
+    "y": -0.5970570811648381
    }
   }
  },

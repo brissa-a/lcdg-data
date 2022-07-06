@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721522.jpg",
-  "nosiege": "41"
+  "nosiege": "313"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -267,17 +267,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_xavier-batut",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 8,
-   "id": "ai3ri8",
-   "no": 41,
+   "curAngleIndex": 38,
+   "curRadiusIndex": 10,
+   "id": "ai38ri10",
+   "no": 313,
    "polar": {
-    "angle": 0.1406683277726773,
-    "radius": 0.8125
+    "angle": 1.4738335905729893,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.8044745430594039,
-    "y": -0.11393898107361947
+    "x": 0.09076019128423046,
+    "y": -0.9332808528968785
    }
   }
  },

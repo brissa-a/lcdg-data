@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722162.jpg",
-  "nosiege": "607"
+  "nosiege": "284"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -123,17 +123,17 @@
  "datan": "https://datan.fr/deputes/vienne-86/depute_nicolas-turquois",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 49,
-   "curRadiusIndex": 7,
-   "id": "ai49ri7",
-   "no": 607,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 8,
+   "id": "ai25ri8",
+   "no": 284,
    "polar": {
-    "angle": 2.904491321243394,
-    "radius": 0.75
+    "angle": 1.172236064772311,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.729017185560308,
-    "y": -0.17619936370447548
+    "x": 0.3153246302962029,
+    "y": -0.7489648664639534
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722102.jpg",
-  "nosiege": "623"
+  "nosiege": "439"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -123,17 +123,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_annie-vidal",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 62,
-   "curRadiusIndex": 9,
-   "id": "ai62ri9",
-   "no": 623,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 7,
+   "id": "ai37ri7",
+   "no": 439,
    "polar": {
-    "angle": 2.822880355399524,
-    "radius": 0.875
+    "angle": 2.1931873242041955,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.8309347365377793,
-    "y": -0.27423017912933567
+    "x": -0.43723460933585423,
+    "y": -0.6094856356700056
    }
   }
  },

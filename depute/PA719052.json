@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719052.jpg",
-  "nosiege": "320"
+  "nosiege": "183"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -202,17 +202,17 @@
  "datan": "https://datan.fr/deputes/cher-18/depute_loic-kervran",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 11,
-   "id": "ai32ri11",
-   "no": 320,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 5,
+   "id": "ai14ri5",
+   "no": 183,
    "polar": {
-    "angle": 1.2725438596819416,
-    "radius": 1
+    "angle": 0.935793556388449,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.2938502743379209,
-    "y": -0.9560404421397851
+    "x": 0.3707373404558471,
+    "y": -0.5032682643582611
    }
   }
  },

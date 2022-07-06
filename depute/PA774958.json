@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774958.jpg",
-  "nosiege": "373"
+  "nosiege": "540"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -106,17 +106,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_gerard-leseul",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 42,
-   "curRadiusIndex": 8,
-   "id": "ai42ri8",
-   "no": 373,
+   "curAngleIndex": 53,
+   "curRadiusIndex": 9,
+   "id": "ai53ri9",
+   "no": 540,
    "polar": {
-    "angle": 1.9693565888174822,
-    "radius": 0.8125
+    "angle": 2.4131074005834643,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.31532463029620283,
-    "y": -0.7489648664639534
+    "x": -0.6529107251167248,
+    "y": -0.5826377748781892
    }
   }
  },

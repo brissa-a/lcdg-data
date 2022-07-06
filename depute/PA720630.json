@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720630.jpg",
-  "nosiege": "439"
+  "nosiege": "104"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -96,17 +96,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_maxime-minot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 7,
-   "id": "ai37ri7",
-   "no": 439,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 6,
+   "id": "ai10ri6",
+   "no": 104,
    "polar": {
-    "angle": 2.1931873242041955,
-    "radius": 0.75
+    "angle": 0.5927533308659987,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.43723460933585423,
-    "y": -0.6094856356700056
+    "x": 0.5702164087470138,
+    "y": -0.3841455856362521
    }
   }
  },

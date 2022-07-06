@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721896.jpg",
-  "nosiege": "211"
+  "nosiege": "593"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_elsa-faucillon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
-   "curRadiusIndex": 8,
-   "id": "ai23ri8",
-   "no": 211,
+   "curAngleIndex": 43,
+   "curRadiusIndex": 5,
+   "id": "ai43ri5",
+   "no": 593,
    "polar": {
-    "angle": 1.078457179590526,
-    "radius": 0.8125
+    "angle": 2.874223066050236,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.3840594104657093,
-    "y": -0.7161405954525667
+    "x": -0.6027932344089852,
+    "y": -0.16515477235137935
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719550.jpg",
-  "nosiege": "586"
+  "nosiege": "385"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -75,17 +75,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_liliana-tanguy",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 3,
-   "id": "ai32ri3",
-   "no": 586,
+   "curAngleIndex": 42,
+   "curRadiusIndex": 10,
+   "id": "ai42ri10",
+   "no": 385,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.5
+    "angle": 1.6289739685280409,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.5,
-    "y": -6.124444616112254e-17
+    "x": -0.05451077710357104,
+    "y": -0.9360989372714857
    }
   }
  },

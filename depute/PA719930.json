@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719930.jpg",
-  "nosiege": "612"
+  "nosiege": "514"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -219,17 +219,17 @@
  "datan": "https://datan.fr/deputes/landes-40/depute_boris-vallaud",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 53,
-   "curRadiusIndex": 7,
-   "id": "ai53ri7",
-   "no": 612,
+   "curAngleIndex": 41,
+   "curRadiusIndex": 6,
+   "id": "ai41ri6",
+   "no": 514,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.75
+    "angle": 2.430288656550595,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.75,
-    "y": -9.186666924168381e-17
+    "x": -0.5207889789861139,
+    "y": -0.4489039412012593
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719138.jpg",
-  "nosiege": "122"
+  "nosiege": "231"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -83,17 +83,17 @@
  "datan": "https://datan.fr/deputes/haute-corse-2b/depute_michel-castellani",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 8,
-   "id": "ai12ri8",
-   "no": 122,
+   "curAngleIndex": 26,
+   "curRadiusIndex": 10,
+   "id": "ai26ri10",
+   "no": 231,
    "polar": {
-    "angle": 0.5626733110907092,
-    "radius": 0.8125
+    "angle": 1.0084124567078347,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.6872385481480168,
-    "y": -0.43351322747850624
+    "x": 0.4998791557515857,
+    "y": -0.7932690799812906
    }
   }
  },

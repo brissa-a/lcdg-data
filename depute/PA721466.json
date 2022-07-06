@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721466.jpg",
-  "nosiege": "345"
+  "nosiege": "330"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/paris-75/depute_gilles-legendre",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
-   "curRadiusIndex": 5,
-   "id": "ai27ri5",
-   "no": 345,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 2,
+   "id": "ai16ri2",
+   "no": 330,
    "polar": {
-    "angle": 1.804744715892009,
-    "radius": 0.625
+    "angle": 1.7332924985322997,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.14488759391720518,
-    "y": -0.6080943670064962
+    "x": -0.07077962349183456,
+    "y": -0.43182196195842876
    }
   }
  },

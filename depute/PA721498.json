@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721498.jpg",
-  "nosiege": "269"
+  "nosiege": "483"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/paris-75/depute_stanislas-guerini",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 6,
-   "id": "ai21ri6",
-   "no": 269,
+   "curAngleIndex": 56,
+   "curRadiusIndex": 11,
+   "id": "ai56ri11",
+   "no": 483,
    "polar": {
-    "angle": 1.2447819948185974,
-    "radius": 0.6875
+    "angle": 2.2269517544433977,
+    "radius": 1
    },
    "pos": {
-    "x": 0.2201855245307008,
-    "y": -0.6514156337528634
+    "x": -0.6100751460105244,
+    "y": -0.7925002131609329
    }
   }
  },

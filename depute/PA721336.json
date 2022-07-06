@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721336.jpg",
-  "nosiege": "102"
+  "nosiege": "254"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -61,17 +61,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_blandine-brocard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 6,
-   "id": "ai8ri6",
-   "no": 102,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 3,
+   "id": "ai14ri3",
+   "no": 254,
    "polar": {
-    "angle": 0.474202664692799,
-    "radius": 0.6875
+    "angle": 1.3744467859455345,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.6116392500588888,
-    "y": -0.3139946681064205
+    "x": 0.09754516100806417,
+    "y": -0.49048959539271697
    }
   }
  },

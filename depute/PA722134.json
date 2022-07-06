@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722134.jpg",
-  "nosiege": "222"
+  "nosiege": "465"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -113,17 +113,17 @@
  "datan": "https://datan.fr/deputes/deux-sevres-79/depute_jeanmarie-fievet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 25,
-   "curRadiusIndex": 9,
-   "id": "ai25ri9",
-   "no": 222,
+   "curAngleIndex": 53,
+   "curRadiusIndex": 10,
+   "id": "ai53ri10",
+   "no": 465,
    "polar": {
-    "angle": 1.1382582078223888,
-    "radius": 0.875
+    "angle": 2.0556100079044324,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.3667794553645811,
-    "y": -0.7945737244751946
+    "x": -0.4369157997211299,
+    "y": -0.829628177645752
    }
   }
  },

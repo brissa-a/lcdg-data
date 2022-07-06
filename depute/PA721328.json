@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721328.jpg",
-  "nosiege": "106"
+  "nosiege": "384"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_anne-brugnera",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 6,
-   "id": "ai12ri6",
-   "no": 106,
+   "curAngleIndex": 41,
+   "curRadiusIndex": 10,
+   "id": "ai41ri10",
+   "no": 384,
    "polar": {
-    "angle": 0.7113039970391984,
-    "radius": 0.6875
+    "angle": 1.590188874039278,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5207889789861139,
-    "y": -0.4489039412012593
+    "x": -0.018179373536085296,
+    "y": -0.9375090399229573
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720720.jpg",
-  "nosiege": "507"
+  "nosiege": "263"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_josy-poueyto",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
-   "curRadiusIndex": 4,
-   "id": "ai34ri4",
-   "no": 507,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 5,
+   "id": "ai19ri5",
+   "no": 263,
    "polar": {
-    "angle": 2.738824364668025,
-    "radius": 0.5625
+    "angle": 1.2700055408128952,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.5174884370580887,
-    "y": -0.22052480923604018
+    "x": 0.1851722380535212,
+    "y": -0.5970570811648381
    }
   }
  },

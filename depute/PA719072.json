@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719072.jpg",
-  "nosiege": "428"
+  "nosiege": "189"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -58,17 +58,17 @@
  "datan": "https://datan.fr/deputes/charente-16/depute_thomas-mesnier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
+   "curAngleIndex": 15,
    "curRadiusIndex": 6,
-   "id": "ai34ri6",
-   "no": 428,
+   "id": "ai15ri6",
+   "no": 189,
    "polar": {
-    "angle": 2.015361324944396,
+    "angle": 0.8891299962989981,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.29566982656510793,
-    "y": -0.6207962210332028
+    "x": 0.4331853924624263,
+    "y": -0.5339657047422877
    }
   }
  },

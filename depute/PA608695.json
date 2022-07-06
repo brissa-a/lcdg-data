@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608695.jpg",
-  "nosiege": "609"
+  "nosiege": "451"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -169,17 +169,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_cecile-untermaier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 50,
-   "curRadiusIndex": 7,
-   "id": "ai50ri7",
-   "no": 609,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 8,
+   "id": "ai49ri8",
+   "no": 451,
    "polar": {
-    "angle": 2.9637666543299934,
-    "radius": 0.75
+    "angle": 2.2975826869537292,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.7381729334606977,
-    "y": -0.1326939359827665
+    "x": -0.5398830721690426,
+    "y": -0.6073123716262042
    }
   }
  },

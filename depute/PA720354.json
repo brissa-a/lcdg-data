@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720354.jpg",
-  "nosiege": "301"
+  "nosiege": "466"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -81,17 +81,17 @@
  "datan": "https://datan.fr/deputes/morbihan-56/depute_jeanmichel-jacques",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 9,
-   "id": "ai32ri9",
-   "no": 301,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 10,
+   "id": "ai54ri10",
+   "no": 466,
    "polar": {
-    "angle": 1.4569705060126577,
-    "radius": 0.875
+    "angle": 2.0943951023931953,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.09938266279416554,
-    "y": -0.8695096047454024
+    "x": -0.4687499999999998,
+    "y": -0.8120593360035795
    }
   }
  },

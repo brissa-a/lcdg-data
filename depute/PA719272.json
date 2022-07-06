@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719272.jpg",
-  "nosiege": "432"
+  "nosiege": "103"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -139,17 +139,17 @@
  "datan": "https://datan.fr/deputes/correze-19/depute_frederique-meunier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
+   "curAngleIndex": 9,
    "curRadiusIndex": 6,
-   "id": "ai38ri6",
-   "no": 432,
+   "id": "ai9ri6",
+   "no": 103,
    "polar": {
-    "angle": 2.252462657290795,
+    "angle": 0.5334779977793989,
     "radius": 0.6875
    },
    "pos": {
-    "x": -0.4331853924624263,
-    "y": -0.5339657047422877
+    "x": 0.591967483090057,
+    "y": -0.34968426624065135
    }
   }
  },

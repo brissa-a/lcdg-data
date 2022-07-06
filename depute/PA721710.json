@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721710.jpg",
-  "nosiege": "488"
+  "nosiege": "425"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_michele-peyron",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 61,
-   "curRadiusIndex": 11,
-   "id": "ai61ri11",
-   "no": 488,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 5,
+   "id": "ai33ri5",
+   "no": 425,
    "polar": {
-    "angle": 2.4257867325187012,
-    "radius": 1
+    "angle": 2.205799097201344,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.7545646201582302,
-    "y": -0.6563554912112419
+    "x": -0.37073734045584694,
+    "y": -0.5032682643582613
    }
   }
  },

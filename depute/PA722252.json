@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722252.jpg",
-  "nosiege": "534"
+  "nosiege": "333"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -66,17 +66,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_mariepierre-rixain",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 56,
-   "curRadiusIndex": 8,
-   "id": "ai56ri8",
-   "no": 534,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 3,
+   "id": "ai17ri3",
+   "no": 333,
    "polar": {
-    "angle": 2.6258087850899763,
-    "radius": 0.8125
+    "angle": 1.6689710972195777,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.706798927582142,
-    "y": -0.4008179550943952
+    "x": -0.04900857016478032,
+    "y": -0.4976907419795018
    }
   }
  },

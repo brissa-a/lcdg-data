@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720430.jpg",
-  "nosiege": "59"
+  "nosiege": "601"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_ugo-bernalicis",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 10,
-   "id": "ai3ri10",
-   "no": 59,
+   "curAngleIndex": 50,
+   "curRadiusIndex": 6,
+   "id": "ai50ri6",
+   "no": 601,
    "polar": {
-    "angle": 0.11635528346628862,
-    "radius": 0.9375
+    "angle": 2.9637666543299934,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.9311609603830716,
-    "y": -0.10885862510185755
+    "x": -0.6766585223389728,
+    "y": -0.12163610798420262
    }
   }
  },

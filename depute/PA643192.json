@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643192.jpg",
-  "nosiege": "307"
+  "nosiege": "452"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -152,17 +152,17 @@
  "datan": "https://datan.fr/deputes/orne-61/depute_chantal-jourdan",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 10,
-   "id": "ai33ri10",
-   "no": 307,
+   "curAngleIndex": 50,
+   "curRadiusIndex": 8,
+   "id": "ai50ri8",
+   "no": 452,
    "polar": {
-    "angle": 1.279908118129175,
-    "radius": 0.9375
+    "angle": 2.344472129544622,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.26887803066664717,
-    "y": -0.8982927335269555
+    "x": -0.5677501600703089,
+    "y": -0.5813343252248397
    }
   }
  },

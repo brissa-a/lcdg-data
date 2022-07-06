@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719202.jpg",
-  "nosiege": "469"
+  "nosiege": "298"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -260,17 +260,17 @@
  "datan": "https://datan.fr/deputes/cote-dor-21/depute_didier-paris",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 57,
-   "curRadiusIndex": 10,
-   "id": "ai57ri10",
-   "no": 469,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 9,
+   "id": "ai30ri9",
+   "no": 298,
    "polar": {
-    "angle": 2.210750385859484,
-    "radius": 0.9375
+    "angle": 1.3659098493868664,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.5598361797213618,
-    "y": -0.7521391687302793
+    "x": 0.1780240114210547,
+    "y": -0.8568679540075245
    }
   }
  },

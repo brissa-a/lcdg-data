@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720334.jpg",
-  "nosiege": "463"
+  "nosiege": "176"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -74,17 +74,17 @@
  "datan": "https://datan.fr/deputes/morbihan-56/depute_jimmy-pahun",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 52,
-   "curRadiusIndex": 9,
-   "id": "ai52ri9",
-   "no": 463,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 4,
+   "id": "ai10ri4",
+   "no": 176,
    "polar": {
-    "angle": 2.367577072270569,
-    "radius": 0.875
+    "angle": 0.8055365778435366,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.6257208136855371,
-    "y": -0.6117568172426251
+    "x": 0.38965744884914966,
+    "y": -0.40575658262788106
    }
   }
  },

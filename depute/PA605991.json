@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605991.jpg",
-  "nosiege": "243"
+  "nosiege": "97"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -200,17 +200,17 @@
  "datan": "https://datan.fr/deputes/doubs-25/depute_annie-genevard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
-   "curRadiusIndex": 11,
-   "id": "ai26ri11",
-   "no": 243,
+   "curAngleIndex": 9,
+   "curRadiusIndex": 5,
+   "id": "ai9ri5",
+   "no": 97,
    "polar": {
-    "angle": 1.0339418859915777,
-    "radius": 1
+    "angle": 0.601581571964003,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.511435479103422,
-    "y": -0.85949157647721
+    "x": 0.5152759752136002,
+    "y": -0.35378686708798707
    }
   }
  },

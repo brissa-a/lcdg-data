@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719032.jpg",
-  "nosiege": "92"
+  "nosiege": "444"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -173,17 +173,17 @@
  "datan": "https://datan.fr/deputes/calvados-14/depute_bertrand-bouyx",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 4,
-   "id": "ai8ri4",
-   "no": 92,
+   "curAngleIndex": 43,
+   "curRadiusIndex": 8,
+   "id": "ai43ri8",
+   "no": 444,
    "polar": {
-    "angle": 0.6444292622748293,
-    "radius": 0.5625
+    "angle": 2.0162460314083748,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.44968655441446936,
-    "y": -0.33798433307469616
+    "x": -0.3500767927645384,
+    "y": -0.7333587718284049
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267766.jpg",
-  "nosiege": "99"
+  "nosiege": "241"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -119,17 +119,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_guy-bricout",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
-   "curRadiusIndex": 5,
-   "id": "ai11ri5",
-   "no": 99,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 11,
+   "id": "ai24ri11",
+   "no": 241,
    "polar": {
-    "angle": 0.7352663657337813,
-    "radius": 0.625
+    "angle": 0.9544078947614563,
+    "radius": 1
    },
    "pos": {
-    "x": 0.46353256602997345,
-    "y": -0.4193233440788556
+    "x": 0.5780920002248483,
+    "y": -0.8161329173805968
    }
   }
  },

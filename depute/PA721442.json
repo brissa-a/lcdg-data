@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721442.jpg",
-  "nosiege": "483"
+  "nosiege": "134"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -91,17 +91,17 @@
  "datan": "https://datan.fr/deputes/haute-savoie-74/depute_christelle-petexlevet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 56,
-   "curRadiusIndex": 11,
-   "id": "ai56ri11",
-   "no": 483,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 9,
+   "id": "ai15ri9",
+   "no": 134,
    "polar": {
-    "angle": 2.2269517544433977,
-    "radius": 1
+    "angle": 0.6829549246934332,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.6100751460105244,
-    "y": -0.7925002131609329
+    "x": 0.6787473793663673,
+    "y": -0.5523111267527167
    }
   }
  },

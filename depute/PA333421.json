@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/333421.jpg",
-  "nosiege": "464"
+  "nosiege": "234"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -282,17 +282,17 @@
  "datan": "https://datan.fr/deputes/meuse-55/depute_bertrand-pancher",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 52,
+   "curAngleIndex": 29,
    "curRadiusIndex": 10,
-   "id": "ai52ri10",
-   "no": 464,
+   "id": "ai29ri10",
+   "no": 234,
    "polar": {
-    "angle": 2.0168249134156695,
+    "angle": 1.1247677401741234,
     "radius": 0.9375
    },
    "pos": {
-    "x": -0.4044244365761749,
-    "y": -0.8459491797010873
+    "x": 0.40442443657617516,
+    "y": -0.8459491797010872
    }
   }
  },

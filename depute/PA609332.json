@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/609332.jpg",
-  "nosiege": "213"
+  "nosiege": "508"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_olivier-faure",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 9,
-   "id": "ai17ri9",
-   "no": 213,
+   "curAngleIndex": 36,
+   "curRadiusIndex": 5,
+   "id": "ai36ri5",
+   "no": 508,
    "polar": {
-    "angle": 0.7740155813192244,
-    "radius": 0.875
+    "angle": 2.406326287856012,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.6257208136855369,
-    "y": -0.6117568172426251
+    "x": -0.46353256602997345,
+    "y": -0.4193233440788556
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/606098.jpg",
-  "nosiege": "401"
+  "nosiege": "98"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -123,17 +123,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_olivier-marleix",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 11,
-   "id": "ai44ri11",
-   "no": 401,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 5,
+   "id": "ai10ri5",
+   "no": 98,
    "polar": {
-    "angle": 1.7497478070626697,
-    "radius": 1
+    "angle": 0.6684239688488922,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.17799789567755034,
-    "y": -0.984225420043508
+    "x": 0.49049961579916307,
+    "y": -0.3874202620524342
    }
   }
  },

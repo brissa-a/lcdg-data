@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719388.jpg",
-  "nosiege": "348"
+  "nosiege": "380"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_annaig-lemeur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
-   "curRadiusIndex": 6,
-   "id": "ai27ri6",
-   "no": 348,
+   "curAngleIndex": 40,
+   "curRadiusIndex": 9,
+   "id": "ai40ri9",
+   "no": 380,
    "polar": {
-    "angle": 1.6004339933381966,
-    "radius": 0.6875
+    "angle": 1.821213132515822,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.020372912878009842,
-    "y": -0.6873339405578679
+    "x": -0.21683181274378735,
+    "y": -0.8478756656720823
    }
   }
  },

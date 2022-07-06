@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794702.jpg",
-  "nosiege": "375"
+  "nosiege": "286"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -124,17 +124,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 36,
-   "curRadiusIndex": 9,
-   "id": "ai36ri9",
-   "no": 375,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 8,
+   "id": "ai27ri8",
+   "no": 286,
    "polar": {
-    "angle": 1.6390918192642399,
-    "radius": 0.875
+    "angle": 1.2660149499540958,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.059712111694087015,
-    "y": -0.8731327653962209
+    "x": 0.2438187659377768,
+    "y": -0.7752072072989217
    }
   }
  },

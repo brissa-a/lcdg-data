@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643175.jpg",
-  "nosiege": "197"
+  "nosiege": "417"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -64,17 +64,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_stella-dupont",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 7,
-   "id": "ai15ri7",
-   "no": 197,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 4,
+   "id": "ai25ri4",
+   "no": 417,
    "polar": {
-    "angle": 0.8891299962989981,
-    "radius": 0.75
+    "angle": 2.0138414446088415,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.4725658826862833,
-    "y": -0.582508041537041
+    "x": -0.2411395657892178,
+    "y": -0.5082913435350903
    }
   }
  },

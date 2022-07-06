@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/783457.jpg",
-  "nosiege": "277"
+  "nosiege": "110"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -186,17 +186,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_victor-habertdassault",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
+   "curAngleIndex": 8,
    "curRadiusIndex": 7,
-   "id": "ai21ri7",
-   "no": 277,
+   "id": "ai8ri7",
+   "no": 110,
    "polar": {
-    "angle": 1.2447819948185974,
+    "angle": 0.474202664692799,
     "radius": 0.75
    },
    "pos": {
-    "x": 0.24020239039712815,
-    "y": -0.7106352368213056
+    "x": 0.6672428182460605,
+    "y": -0.34253963793427694
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1327.jpg",
-  "nosiege": "225"
+  "nosiege": "90"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -197,17 +197,17 @@
  "datan": "https://datan.fr/deputes/indre-36/depute_nicolas-forissier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 10,
-   "id": "ai21ri10",
-   "no": 225,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 4,
+   "id": "ai6ri4",
+   "no": 90,
    "polar": {
-    "angle": 0.8144869842640204,
-    "radius": 0.9375
+    "angle": 0.483321946706122,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.6433515355019378,
-    "y": -0.6820476094825257
+    "x": 0.49806901442993057,
+    "y": -0.26145846682987633
    }
   }
  },

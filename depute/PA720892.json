@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720892.jpg",
-  "nosiege": "468"
+  "nosiege": "614"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_mathilde-panot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 56,
-   "curRadiusIndex": 10,
-   "id": "ai56ri10",
-   "no": 468,
+   "curAngleIndex": 61,
+   "curRadiusIndex": 8,
+   "id": "ai61ri8",
+   "no": 614,
    "polar": {
-    "angle": 2.171965291370721,
-    "radius": 0.9375
+    "angle": 2.8602559980444386,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.5302564457686297,
-    "y": -0.7732856719088589
+    "x": -0.7805567149061826,
+    "y": -0.22562710088825624
    }
   }
  },

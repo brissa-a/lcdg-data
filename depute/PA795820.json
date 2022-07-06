@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795820.jpg",
-  "nosiege": "450"
+  "nosiege": "596"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -38,17 +38,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 48,
-   "curRadiusIndex": 8,
-   "id": "ai48ri8",
-   "no": 450,
+   "curAngleIndex": 46,
+   "curRadiusIndex": 5,
+   "id": "ai46ri5",
+   "no": 596,
    "polar": {
-    "angle": 2.2506932443628367,
-    "radius": 0.8125
+    "angle": 3.074750256704904,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.5108292041050938,
-    "y": -0.6319554136305944
+    "x": -0.6236042991394707,
+    "y": -0.041753649544207065
    }
   }
  },

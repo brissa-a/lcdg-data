@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1874.jpg",
-  "nosiege": "341"
+  "nosiege": "96"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -118,17 +118,17 @@
  "datan": "https://datan.fr/deputes/cotes-darmor-22/depute_marc-lefur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 4,
-   "id": "ai24ri4",
-   "no": 341,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 5,
+   "id": "ai8ri5",
+   "no": 96,
    "polar": {
-    "angle": 1.933287786824488,
-    "radius": 0.5625
+    "angle": 0.5347391750791137,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.1994652489614262,
-    "y": -0.5260506210577675
+    "x": 0.5377509870375872,
+    "y": -0.31857337409205616
    }
   }
  },

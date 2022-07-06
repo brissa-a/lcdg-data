@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720684.jpg",
-  "nosiege": "195"
+  "nosiege": "125"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -61,17 +61,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_pierrehenri-dumont",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 7,
-   "id": "ai13ri7",
-   "no": 195,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 8,
+   "id": "ai15ri8",
+   "no": 125,
    "polar": {
-    "angle": 0.7705793301257984,
-    "radius": 0.75
+    "angle": 0.7033416388633865,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.5381304427832484,
-    "y": -0.5225165577653659
+    "x": 0.6196817072146854,
+    "y": -0.5256044498664336
    }
   }
  },

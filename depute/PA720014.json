@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720014.jpg",
-  "nosiege": "602"
+  "nosiege": "391"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -203,17 +203,17 @@
  "datan": "https://datan.fr/deputes/lot-46/depute_huguette-tiegna",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 51,
-   "curRadiusIndex": 6,
-   "id": "ai51ri6",
-   "no": 602,
+   "curAngleIndex": 47,
+   "curRadiusIndex": 10,
+   "id": "ai47ri10",
+   "no": 391,
    "polar": {
-    "angle": 3.0230419874165935,
-    "radius": 0.6875
+    "angle": 1.8228994409718553,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.6826745035092929,
-    "y": -0.08132888130710729
+    "x": -0.23385107255435744,
+    "y": -0.9080450814748641
    }
   }
  },

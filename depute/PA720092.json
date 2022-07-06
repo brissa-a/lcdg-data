@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720092.jpg",
-  "nosiege": "517"
+  "nosiege": "165"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -69,17 +69,17 @@
  "datan": "https://datan.fr/deputes/loiret-45/depute_richard-ramos",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 6,
-   "id": "ai44ri6",
-   "no": 517,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 1,
+   "id": "ai6ri1",
+   "no": 165,
    "polar": {
-    "angle": 2.6081146558103945,
-    "radius": 0.6875
+    "angle": 0.8195459096321199,
+    "radius": 0.375
    },
    "pos": {
-    "x": -0.591967483090057,
-    "y": -0.34968426624065124
+    "x": 0.25595742870699534,
+    "y": -0.2741176715074525
    }
   }
  },

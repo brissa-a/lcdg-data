@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720190.jpg",
-  "nosiege": "573"
+  "nosiege": "447"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -160,17 +160,17 @@
  "datan": "https://datan.fr/deputes/manche-50/depute_bertrand-sorre",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 71,
-   "curRadiusIndex": 11,
-   "id": "ai71ri11",
-   "no": 573,
+   "curAngleIndex": 46,
+   "curRadiusIndex": 8,
+   "id": "ai46ri8",
+   "no": 447,
    "polar": {
-    "angle": 2.823456688669308,
-    "radius": 1
+    "angle": 2.156914359181052,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.9498201317277827,
-    "y": -0.3128584498239406
+    "x": -0.4494190627267246,
+    "y": -0.6770228551386456
    }
   }
  },

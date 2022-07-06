@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718860.jpg",
-  "nosiege": "589"
+  "nosiege": "520"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -227,17 +227,17 @@
  "datan": "https://datan.fr/deputes/ariege-09/depute_benedicte-taurine",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 4,
-   "id": "ai37ri4",
-   "no": 589,
+   "curAngleIndex": 47,
+   "curRadiusIndex": 6,
+   "id": "ai47ri6",
+   "no": 520,
    "polar": {
-    "angle": 2.9804853380210856,
-    "radius": 0.5625
+    "angle": 2.785940655070194,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.5552157727338259,
-    "y": -0.09024918505965242
+    "x": -0.6444760170297081,
+    "y": -0.2394359537211757
    }
   }
  },

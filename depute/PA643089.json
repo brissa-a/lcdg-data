@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643089.jpg",
-  "nosiege": "597"
+  "nosiege": "223"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -95,17 +95,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanlouis-thieriot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 5,
-   "id": "ai47ri5",
-   "no": 597,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 10,
+   "id": "ai19ri10",
+   "no": 223,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.625
+    "angle": 0.7369167952864947,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.625,
-    "y": -7.655555770140317e-17
+    "x": 0.6942600122896918,
+    "y": -0.6301319275938188
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/342240.jpg",
-  "nosiege": "89"
+  "nosiege": "145"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -65,17 +65,17 @@
  "datan": "https://datan.fr/deputes/ille-et-vilaine-35/depute_jeanluc-bourgeaux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 4,
-   "id": "ai5ri4",
-   "no": 89,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 10,
+   "id": "ai16ri10",
+   "no": 145,
    "polar": {
-    "angle": 0.4027682889217683,
-    "radius": 0.5625
+    "angle": 0.620561511820206,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5174884370580887,
-    "y": -0.22052480923604012
+    "x": 0.7627050658715321,
+    "y": -0.5452565978295911
    }
   }
  },

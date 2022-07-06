@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267794.jpg",
-  "nosiege": "580"
+  "nosiege": "99"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/alpes-maritimes-06/depute_michele-tabarot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
-   "curRadiusIndex": 2,
-   "id": "ai27ri2",
-   "no": 580,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 5,
+   "id": "ai11ri5",
+   "no": 99,
    "polar": {
-    "angle": 2.9249310912732556,
-    "radius": 0.4375
+    "angle": 0.7352663657337813,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.4272714931231629,
-    "y": -0.0940681620675485
+    "x": 0.46353256602997345,
+    "y": -0.4193233440788556
    }
   }
  },

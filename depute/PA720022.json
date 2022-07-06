@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720022.jpg",
-  "nosiege": "337"
+  "nosiege": "394"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -102,17 +102,17 @@
  "datan": "https://datan.fr/deputes/lot-et-garonne-47/depute_michel-lauzzana",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
-   "curRadiusIndex": 4,
-   "id": "ai20ri4",
-   "no": 337,
+   "curAngleIndex": 50,
+   "curRadiusIndex": 10,
+   "id": "ai50ri10",
+   "no": 394,
    "polar": {
-    "angle": 1.6110731556870732,
-    "radius": 0.5625
+    "angle": 1.9392547244381437,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.02264959131154588,
-    "y": -0.5621549327663267
+    "x": -0.33766661700441575,
+    "y": -0.8747513854937565
    }
   }
  },

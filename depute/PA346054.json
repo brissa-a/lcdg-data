@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/346054.jpg",
-  "nosiege": "393"
+  "nosiege": "147"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -227,17 +227,17 @@
  "datan": "https://datan.fr/deputes/somme-80/depute_emmanuel-maquet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 49,
+   "curAngleIndex": 18,
    "curRadiusIndex": 10,
-   "id": "ai49ri10",
-   "no": 393,
+   "id": "ai18ri10",
+   "no": 147,
    "polar": {
-    "angle": 1.9004696299493808,
+    "angle": 0.6981317007977318,
     "radius": 0.9375
    },
    "pos": {
-    "x": -0.30350057067967573,
-    "y": -0.8871892679776126
+    "x": 0.7181666654240418,
+    "y": -0.6027325263582047
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722292.jpg",
-  "nosiege": "548"
+  "nosiege": "420"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -42,17 +42,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_thomas-rudigoz",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 60,
-   "curRadiusIndex": 9,
-   "id": "ai60ri9",
-   "no": 548,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 4,
+   "id": "ai28ri4",
+   "no": 420,
    "polar": {
-    "angle": 2.731819698773733,
-    "radius": 0.875
+    "angle": 2.2555024179619028,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.8025598888172712,
-    "y": -0.34866987526987736
+    "x": -0.35575052377239963,
+    "y": -0.4358014359981152
    }
   }
  },

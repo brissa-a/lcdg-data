@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718926.jpg",
-  "nosiege": "183"
+  "nosiege": "592"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_pierre-dharreville",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
+   "curAngleIndex": 42,
    "curRadiusIndex": 5,
-   "id": "ai14ri5",
-   "no": 183,
+   "id": "ai42ri5",
+   "no": 592,
    "polar": {
-    "angle": 0.935793556388449,
+    "angle": 2.807380669165347,
     "radius": 0.625
    },
    "pos": {
-    "x": 0.3707373404558471,
-    "y": -0.5032682643582611
+    "x": -0.5904181822549491,
+    "y": -0.2050560696301641
    }
   }
  },

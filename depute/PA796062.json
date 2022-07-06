@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/796062.jpg",
-  "nosiege": "504"
+  "nosiege": "633"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -28,17 +28,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
-   "curRadiusIndex": 4,
-   "id": "ai31ri4",
-   "no": 504,
+   "curAngleIndex": 75,
+   "curRadiusIndex": 10,
+   "id": "ai75ri10",
+   "no": 633,
    "polar": {
-    "angle": 2.4971633913149636,
-    "radius": 0.5625
+    "angle": 2.908882086657216,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.44968655441446925,
-    "y": -0.3379843330746964
+    "x": -0.9122295661685847,
+    "y": -0.21624512404442986
    }
   }
  },

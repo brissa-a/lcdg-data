@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721004.jpg",
-  "nosiege": "330"
+  "nosiege": "280"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -84,17 +84,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_amelia-lakrafi",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 2,
-   "id": "ai16ri2",
-   "no": 330,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 7,
+   "id": "ai24ri7",
+   "no": 280,
    "polar": {
-    "angle": 1.7332924985322997,
-    "radius": 0.4375
+    "angle": 1.4226079940783969,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.07077962349183456,
-    "y": -0.43182196195842876
+    "x": 0.11073492300186095,
+    "y": -0.7419267973322461
    }
   }
  },

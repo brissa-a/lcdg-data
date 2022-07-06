@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720976.jpg",
-  "nosiege": "414"
+  "nosiege": "227"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/guadeloupe-971/depute_max-mathiasin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 22,
-   "curRadiusIndex": 3,
-   "id": "ai22ri3",
-   "no": 414,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 10,
+   "id": "ai23ri10",
+   "no": 227,
    "polar": {
-    "angle": 2.1598449493429825,
-    "radius": 0.5
+    "angle": 0.8920571732415462,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.277785116509801,
-    "y": -0.41581700079343015
+    "x": 0.5885738668800924,
+    "y": -0.7298613767950713
    }
   }
  },

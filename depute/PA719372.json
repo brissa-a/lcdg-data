@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719372.jpg",
-  "nosiege": "315"
+  "nosiege": "343"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -101,17 +101,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_guillaume-kasbarian",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 40,
-   "curRadiusIndex": 10,
-   "id": "ai40ri10",
-   "no": 315,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 5,
+   "id": "ai25ri5",
+   "no": 343,
    "polar": {
-    "angle": 1.5514037795505151,
-    "radius": 0.9375
+    "angle": 1.6710599221222304,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.018179373536085407,
-    "y": -0.9375090399229573
+    "x": -0.06255980726506145,
+    "y": -0.6219840821668525
    }
   }
  },

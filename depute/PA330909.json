@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/330909.jpg",
-  "nosiege": "180"
+  "nosiege": "83"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -130,17 +130,17 @@
  "datan": "https://datan.fr/deputes/cantal-15/depute_vincent-descoeur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
-   "curRadiusIndex": 4,
-   "id": "ai14ri4",
-   "no": 180,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 2,
+   "id": "ai5ri2",
+   "no": 83,
    "polar": {
-    "angle": 1.1277512089809514,
-    "radius": 0.5625
+    "angle": 0.5416539057913436,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.241139565789218,
-    "y": -0.5082913435350902
+    "x": 0.3748750145733203,
+    "y": -0.2255994068015625
    }
   }
  },

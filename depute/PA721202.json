@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721202.jpg",
-  "nosiege": "148"
+  "nosiege": "620"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_eric-coquerel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 11,
-   "id": "ai7ri11",
-   "no": 148,
+   "curAngleIndex": 66,
+   "curRadiusIndex": 8,
+   "id": "ai66ri8",
+   "no": 620,
    "polar": {
-    "angle": 0.2783689693054247,
-    "radius": 1
+    "angle": 3.0947032109989006,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.9615049043274204,
-    "y": -0.27484209885190103
+    "x": -0.8116069743321406,
+    "y": -0.03809124276154166
    }
   }
  },

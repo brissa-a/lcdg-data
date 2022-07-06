@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267318.jpg",
-  "nosiege": "265"
+  "nosiege": "464"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -143,17 +143,17 @@
  "datan": "https://datan.fr/deputes/sarthe-72/depute_jeancarles-grelier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 21,
-   "curRadiusIndex": 5,
-   "id": "ai21ri5",
-   "no": 265,
+   "curAngleIndex": 52,
+   "curRadiusIndex": 10,
+   "id": "ai52ri10",
+   "no": 464,
    "polar": {
-    "angle": 1.4036903345826734,
-    "radius": 0.625
+    "angle": 2.0168249134156695,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.10395584661445635,
-    "y": -0.6164157557879497
+    "x": -0.4044244365761749,
+    "y": -0.8459491797010873
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721170.jpg",
-  "nosiege": "634"
+  "nosiege": "314"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_stephane-vojetta",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 76,
+   "curAngleIndex": 39,
    "curRadiusIndex": 10,
-   "id": "ai76ri10",
-   "no": 634,
+   "id": "ai39ri10",
+   "no": 314,
    "polar": {
-    "angle": 2.9476671811459787,
+    "angle": 1.5126186850617522,
     "radius": 0.9375
    },
    "pos": {
-    "x": -0.9199268537131732,
-    "y": -0.18070346395910494
+    "x": 0.054510777103571155,
+    "y": -0.9360989372714857
    }
   }
  },

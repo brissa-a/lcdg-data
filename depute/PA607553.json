@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607553.jpg",
-  "nosiege": "506"
+  "nosiege": "434"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -217,17 +217,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_dominique-potier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 4,
-   "id": "ai33ri4",
-   "no": 506,
+   "curAngleIndex": 40,
+   "curRadiusIndex": 6,
+   "id": "ai40ri6",
+   "no": 434,
    "polar": {
-    "angle": 2.658270706883671,
-    "radius": 0.5625
+    "angle": 2.3710133234639947,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.4980690144299305,
-    "y": -0.26145846682987645
+    "x": -0.4932862392179776,
+    "y": -0.4789735112849188
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719874.jpg",
-  "nosiege": "302"
+  "nosiege": "178"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -103,17 +103,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_elodie-jacquierlaforge",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 9,
-   "id": "ai33ri9",
-   "no": 302,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 4,
+   "id": "ai12ri4",
+   "no": 178,
    "polar": {
-    "angle": 1.5025008343255533,
-    "radius": 0.875
+    "angle": 0.966643893412244,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.059712111694087126,
-    "y": -0.8731327653962209
+    "x": 0.31953642003627514,
+    "y": -0.46301994982512784
    }
   }
  },

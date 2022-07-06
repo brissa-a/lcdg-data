@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720286.jpg",
-  "nosiege": "221"
+  "nosiege": "607"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -144,17 +144,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_caroline-fiat",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 9,
-   "id": "ai24ri9",
-   "no": 221,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 7,
+   "id": "ai49ri7",
+   "no": 607,
    "polar": {
-    "angle": 1.0927278795094932,
-    "radius": 0.875
+    "angle": 2.904491321243394,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.40255690801475813,
-    "y": -0.777053166380148
+    "x": -0.729017185560308,
+    "y": -0.17619936370447548
    }
   }
  },

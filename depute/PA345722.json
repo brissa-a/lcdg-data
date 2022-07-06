@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/345722.jpg",
-  "nosiege": "346"
+  "nosiege": "272"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_constance-legrip",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 5,
-   "id": "ai28ri5",
-   "no": 346,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 6,
+   "id": "ai24ri6",
+   "no": 272,
    "polar": {
-    "angle": 1.871587112776898,
-    "radius": 0.625
+    "angle": 1.4226079940783969,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.18517223805352115,
-    "y": -0.5970570811648381
+    "x": 0.10150701275170587,
+    "y": -0.6800995642212256
    }
   }
  },

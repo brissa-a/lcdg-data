@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Écologiste - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/335999.jpg",
-  "nosiege": "39"
+  "nosiege": "497"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -190,17 +190,17 @@
  "datan": "https://datan.fr/deputes/deux-sevres-79/depute_delphine-batho",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 8,
-   "id": "ai1ri8",
-   "no": 39,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 2,
+   "id": "ai25ri2",
+   "no": 497,
    "polar": {
-    "angle": 0.046889442590892436,
-    "radius": 0.8125
+    "angle": 2.7082695289567185,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.8116069743321407,
-    "y": -0.038091242761541466
+    "x": -0.39706424610604374,
+    "y": -0.1837378014260712
    }
   }
  },

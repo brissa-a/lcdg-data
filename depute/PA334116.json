@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/334116.jpg",
-  "nosiege": "394"
+  "nosiege": "430"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -78,17 +78,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_jacqueline-maquet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 50,
-   "curRadiusIndex": 10,
-   "id": "ai50ri10",
-   "no": 394,
+   "curAngleIndex": 36,
+   "curRadiusIndex": 6,
+   "id": "ai36ri6",
+   "no": 430,
    "polar": {
-    "angle": 1.9392547244381437,
-    "radius": 0.9375
+    "angle": 2.1339119911175954,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.33766661700441575,
-    "y": -0.8747513854937565
+    "x": -0.3670035723507936,
+    "y": -0.581462190172335
    }
   }
  },

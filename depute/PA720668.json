@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Rassemblement National",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720668.jpg",
-  "nosiege": "70"
+  "nosiege": "67"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -330,17 +330,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_emmanuel-blairy",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
+   "curAngleIndex": 1,
    "curRadiusIndex": 11,
-   "id": "ai3ri11",
-   "no": 70,
+   "id": "ai1ri11",
+   "no": 67,
    "polar": {
-    "angle": 0.11930098684518203,
+    "angle": 0.039766995615060675,
     "radius": 1
    },
    "pos": {
-    "x": 0.9928920737019734,
-    "y": -0.11904172280662376
+    "x": 0.9992093972273018,
+    "y": -0.03976437533014034
    }
   }
  },

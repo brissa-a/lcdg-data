@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718962.jpg",
-  "nosiege": "645"
+  "nosiege": "374"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -50,17 +50,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_jeanmarc-zulesi",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 76,
-   "curRadiusIndex": 11,
-   "id": "ai76ri11",
-   "no": 645,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 9,
+   "id": "ai35ri9",
+   "no": 374,
    "polar": {
-    "angle": 3.022291666744611,
-    "radius": 1
+    "angle": 1.5935614909513443,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.9928920737019734,
-    "y": -0.11904172280662384
+    "x": -0.01991779812409234,
+    "y": -0.8749462250576678
    }
   }
  },

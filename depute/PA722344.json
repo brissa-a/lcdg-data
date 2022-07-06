@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Écologiste - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722344.jpg",
-  "nosiege": "308"
+  "nosiege": "505"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_hubert-julienlaferriere",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
-   "curRadiusIndex": 10,
-   "id": "ai34ri10",
-   "no": 308,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 4,
+   "id": "ai32ri4",
+   "no": 505,
    "polar": {
-    "angle": 1.3186932126179378,
-    "radius": 0.9375
+    "angle": 2.5777170490993173,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.23385107255435753,
-    "y": -0.9080450814748641
+    "x": -0.4754194231183844,
+    "y": -0.30069646593645033
    }
   }
  },

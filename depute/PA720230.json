@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720230.jpg",
-  "nosiege": "387"
+  "nosiege": "196"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -159,17 +159,17 @@
  "datan": "https://datan.fr/deputes/marne-51/depute_lise-magnier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 10,
-   "id": "ai44ri10",
-   "no": 387,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 7,
+   "id": "ai14ri7",
+   "no": 196,
    "polar": {
-    "angle": 1.7065441575055667,
-    "radius": 0.9375
+    "angle": 0.8298546632123982,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.12687309351574785,
-    "y": -0.9290590254657289
+    "x": 0.5062372511386579,
+    "y": -0.5534843666633189
    }
   }
  },

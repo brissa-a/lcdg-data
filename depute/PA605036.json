@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605036.jpg",
-  "nosiege": "1"
+  "nosiege": "412"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -146,17 +146,17 @@
  "datan": "https://datan.fr/deputes/ain-01/depute_damien-abad",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 1,
-   "id": "ai0ri1",
-   "no": 1,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 2,
+   "id": "ai22ri2",
+   "no": 412,
    "polar": {
-    "angle": 0,
-    "radius": 0.375
+    "angle": 2.383277185481912,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.375,
-    "y": 0
+    "x": -0.3176230277163697,
+    "y": -0.3009279977548826
    }
   }
  },

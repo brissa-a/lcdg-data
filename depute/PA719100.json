@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719100.jpg",
-  "nosiege": "19"
+  "nosiege": "292"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -178,17 +178,17 @@
  "datan": "https://datan.fr/deputes/charente-maritime-17/depute_jeanphilippe-ardouin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 5,
-   "id": "ai2ri5",
-   "no": 19,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 8,
+   "id": "ai32ri8",
+   "no": 292,
    "polar": {
-    "angle": 0.13368479376977843,
-    "radius": 0.625
+    "angle": 1.500462162908558,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.6194234300967375,
-    "y": -0.08332081715369685
+    "x": 0.05709940351805057,
+    "y": -0.8106513940469662
    }
   }
  },

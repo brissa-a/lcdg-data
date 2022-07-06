@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/342415.jpg",
-  "nosiege": "40"
+  "nosiege": "541"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -140,17 +140,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_marienoelle-battistel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 8,
-   "id": "ai2ri8",
-   "no": 40,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 9,
+   "id": "ai54ri9",
+   "no": 541,
    "polar": {
-    "angle": 0.09377888518178487,
-    "radius": 0.8125
+    "angle": 2.4586377288963597,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.8089298603927922,
-    "y": -0.07609875270460484
+    "x": -0.6787473793663672,
+    "y": -0.5523111267527169
    }
   }
  },

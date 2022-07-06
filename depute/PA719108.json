@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719108.jpg",
-  "nosiege": "245"
+  "nosiege": "326"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -201,17 +201,17 @@
  "datan": "https://datan.fr/deputes/charente-maritime-17/depute_raphael-gerard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
+   "curAngleIndex": 38,
    "curRadiusIndex": 11,
-   "id": "ai28ri11",
-   "no": 245,
+   "id": "ai38ri11",
+   "no": 326,
    "polar": {
-    "angle": 1.1134758772216988,
+    "angle": 1.5111458333723056,
     "radius": 1
    },
    "pos": {
-    "x": 0.4415454982159119,
-    "y": -0.8974162530963087
+    "x": 0.05961512516981993,
+    "y": -0.9984187944546037
    }
   }
  },

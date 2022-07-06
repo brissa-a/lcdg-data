@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721210.jpg",
-  "nosiege": "149"
+  "nosiege": "599"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -38,17 +38,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_alexis-corbiere",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 11,
-   "id": "ai8ri11",
-   "no": 149,
+   "curAngleIndex": 48,
+   "curRadiusIndex": 6,
+   "id": "ai48ri6",
+   "no": 599,
    "polar": {
-    "angle": 0.3181359649204854,
-    "radius": 1
+    "angle": 2.8452159881567938,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.9498201317277827,
-    "y": -0.3128584498239408
+    "x": -0.6575256766901092,
+    "y": -0.20082872767369767
    }
   }
  },

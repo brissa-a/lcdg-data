@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719512.jpg",
-  "nosiege": "627"
+  "nosiege": "386"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -57,17 +57,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_corinne-vignon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 66,
-   "curRadiusIndex": 9,
-   "id": "ai66ri9",
-   "no": 627,
+   "curAngleIndex": 43,
+   "curRadiusIndex": 10,
+   "id": "ai43ri10",
+   "no": 386,
    "polar": {
-    "angle": 3.0050016686511065,
-    "radius": 0.875
+    "angle": 1.6677590630168038,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.8668502027817894,
-    "y": -0.11916937419681443
+    "x": -0.09076019128423037,
+    "y": -0.9332808528968785
    }
   }
  },

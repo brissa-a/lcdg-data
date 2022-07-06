@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1592.jpg",
-  "nosiege": "278"
+  "nosiege": "319"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -209,17 +209,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_david-habib",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 22,
-   "curRadiusIndex": 7,
-   "id": "ai22ri7",
-   "no": 278,
+   "curAngleIndex": 31,
+   "curRadiusIndex": 11,
+   "id": "ai31ri11",
+   "no": 319,
    "polar": {
-    "angle": 1.3040573279051972,
-    "radius": 0.75
+    "angle": 1.232776864066881,
+    "radius": 1
    },
    "pos": {
-    "x": 0.19769037455180075,
-    "y": -0.7236197245085977
+    "x": 0.3316192785520677,
+    "y": -0.9435998213157802
    }
   }
  },

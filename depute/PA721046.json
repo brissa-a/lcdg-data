@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721046.jpg",
-  "nosiege": "36"
+  "nosiege": "239"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -42,17 +42,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_nathalie-bassire",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 7,
-   "id": "ai5ri7",
-   "no": 36,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 11,
+   "id": "ai22ri11",
+   "no": 239,
    "polar": {
-    "angle": 0.29637666543299934,
-    "radius": 0.75
+    "angle": 0.8748739035313349,
+    "radius": 1
    },
    "pos": {
-    "x": 0.7173007382073918,
-    "y": -0.2190858847349428
+    "x": 0.6410936375922202,
+    "y": -0.7676144032094914
    }
   }
  },

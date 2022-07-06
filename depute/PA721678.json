@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721678.jpg",
-  "nosiege": "526"
+  "nosiege": "271"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -42,17 +42,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_robin-reda",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
-   "curRadiusIndex": 7,
-   "id": "ai45ri7",
-   "no": 526,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 6,
+   "id": "ai23ri6",
+   "no": 271,
    "polar": {
-    "angle": 2.667389988896994,
-    "radius": 0.75
+    "angle": 1.363332660991797,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.6672428182460604,
-    "y": -0.34253963793427705
+    "x": 0.14161030038450514,
+    "y": -0.6728905988953134
    }
   }
  },

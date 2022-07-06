@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719286.jpg",
-  "nosiege": "146"
+  "nosiege": "228"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -118,17 +118,17 @@
  "datan": "https://datan.fr/deputes/corse-du-sud-2a/depute_paulandre-colombani",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
+   "curAngleIndex": 24,
    "curRadiusIndex": 10,
-   "id": "ai17ri10",
-   "no": 146,
+   "id": "ai24ri10",
+   "no": 228,
    "polar": {
-    "angle": 0.6593466063089689,
+    "angle": 0.930842267730309,
     "radius": 0.9375
    },
    "pos": {
-    "x": 0.7409931276738368,
-    "y": -0.5744265581484572
+    "x": 0.5598361797213621,
+    "y": -0.7521391687302791
    }
   }
  },

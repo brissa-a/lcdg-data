@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/335612.jpg",
-  "nosiege": "360"
+  "nosiege": "586"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_jeanpaul-lecoq",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
-   "curRadiusIndex": 7,
-   "id": "ai31ri7",
-   "no": 360,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 3,
+   "id": "ai32ri3",
+   "no": 586,
    "polar": {
-    "angle": 1.837535325684596,
-    "radius": 0.75
+    "angle": 3.141592653589793,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.19769037455180077,
-    "y": -0.7236197245085977
+    "x": -0.5,
+    "y": -6.124444616112254e-17
    }
   }
  },

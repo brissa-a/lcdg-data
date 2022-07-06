@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720560.jpg",
-  "nosiege": "261"
+  "nosiege": "179"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -103,17 +103,17 @@
  "datan": "https://datan.fr/deputes/nievre-58/depute_perrine-goulet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
+   "curAngleIndex": 13,
    "curRadiusIndex": 4,
-   "id": "ai19ri4",
-   "no": 261,
+   "id": "ai13ri4",
+   "no": 179,
    "polar": {
-    "angle": 1.5305194979027197,
+    "angle": 1.0471975511965976,
     "radius": 0.5625
    },
    "pos": {
-    "x": 0.022649591311546074,
-    "y": -0.5621549327663266
+    "x": 0.28125000000000006,
+    "y": -0.4872356016021476
    }
   }
  },

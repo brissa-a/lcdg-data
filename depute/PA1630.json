@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1630.jpg",
-  "nosiege": "288"
+  "nosiege": "88"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_michel-herbillon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 8,
-   "id": "ai29ri8",
-   "no": 288,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 3,
+   "id": "ai7ri3",
+   "no": 88,
    "polar": {
-    "angle": 1.3597938351358807,
-    "radius": 0.8125
+    "angle": 0.6872233929727672,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.1701702134974923,
-    "y": -0.7946369993226385
+    "x": 0.3865052266813685,
+    "y": -0.31725935481143713
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719382.jpg",
-  "nosiege": "331"
+  "nosiege": "184"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -130,17 +130,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_luc-lamirault",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 2,
-   "id": "ai17ri2",
-   "no": 331,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 5,
+   "id": "ai15ri5",
+   "no": 184,
    "polar": {
-    "angle": 1.8416232796905685,
-    "radius": 0.4375
+    "angle": 1.0026359532733382,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.11704364810653413,
-    "y": -0.42163646670448224
+    "x": 0.3363014707271079,
+    "y": -0.5269118244169858
    }
   }
  },

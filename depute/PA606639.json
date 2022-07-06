@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/606639.jpg",
-  "nosiege": "626"
+  "nosiege": "300"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -50,17 +50,17 @@
  "datan": "https://datan.fr/deputes/herault-34/depute_patrick-vignal",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 65,
+   "curAngleIndex": 31,
    "curRadiusIndex": 9,
-   "id": "ai65ri9",
-   "no": 626,
+   "id": "ai31ri9",
+   "no": 300,
    "polar": {
-    "angle": 2.9594713403382107,
+    "angle": 1.411440177699762,
     "radius": 0.875
    },
    "pos": {
-    "x": -0.8605289889295242,
-    "y": -0.1585080158120561
+    "x": 0.13884722814922,
+    "y": -0.8640842526589416
    }
   }
  },

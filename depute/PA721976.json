@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721976.jpg",
-  "nosiege": "438"
+  "nosiege": "186"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -124,17 +124,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_bruno-millienne",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 36,
-   "curRadiusIndex": 7,
-   "id": "ai36ri7",
-   "no": 438,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 5,
+   "id": "ai17ri5",
+   "no": 186,
    "polar": {
-    "angle": 2.1339119911175954,
-    "radius": 0.75
+    "angle": 1.1363207470431167,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.40036753347359305,
-    "y": -0.6343223892789108
+    "x": 0.26308422651770935,
+    "y": -0.5670439087837952
    }
   }
  },

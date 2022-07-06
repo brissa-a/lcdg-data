@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/610654.jpg",
-  "nosiege": "454"
+  "nosiege": "632"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/martinique-972/depute_jeanphilippe-nilor",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 9,
-   "id": "ai44ri9",
-   "no": 454,
+   "curAngleIndex": 74,
+   "curRadiusIndex": 10,
+   "id": "ai74ri10",
+   "no": 632,
    "polar": {
-    "angle": 2.003334445767404,
-    "radius": 0.875
+    "angle": 2.870096992168453,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.36677945536458084,
-    "y": -0.7945737244751949
+    "x": -0.9031601987023877,
+    "y": -0.2514615309217347
    }
   }
  },

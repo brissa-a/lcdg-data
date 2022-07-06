@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721094.jpg",
-  "nosiege": "196"
+  "nosiege": "357"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/nouvelle-caledonie-988/depute_philippe-dunoyer",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
+   "curAngleIndex": 28,
    "curRadiusIndex": 7,
-   "id": "ai14ri7",
-   "no": 196,
+   "id": "ai28ri7",
+   "no": 357,
    "polar": {
-    "angle": 0.8298546632123982,
+    "angle": 1.6597093264247964,
     "radius": 0.75
    },
    "pos": {
-    "x": 0.5062372511386579,
-    "y": -0.5534843666633189
+    "x": -0.06659692149220109,
+    "y": -0.7471850782076256
    }
   }
  },

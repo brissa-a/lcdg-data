@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720900.jpg",
-  "nosiege": "530"
+  "nosiege": "372"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/val-doise-95/depute_cecile-rilhac",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 52,
+   "curAngleIndex": 41,
    "curRadiusIndex": 8,
-   "id": "ai52ri8",
-   "no": 530,
+   "id": "ai41ri8",
+   "no": 372,
    "polar": {
-    "angle": 2.4382510147264065,
+    "angle": 1.9224671462265899,
     "radius": 0.8125
    },
    "pos": {
-    "x": -0.6196817072146853,
-    "y": -0.5256044498664337
+    "x": -0.2798793158560205,
+    "y": -0.7629245737762349
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721270.jpg",
-  "nosiege": "487"
+  "nosiege": "589"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_stephane-peu",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 60,
-   "curRadiusIndex": 11,
-   "id": "ai60ri11",
-   "no": 487,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 4,
+   "id": "ai37ri4",
+   "no": 589,
    "polar": {
-    "angle": 2.3860197369036404,
-    "radius": 1
+    "angle": 2.9804853380210856,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.7278788103694941,
-    "y": -0.6858413655068314
+    "x": -0.5552157727338259,
+    "y": -0.09024918505965242
    }
   }
  },

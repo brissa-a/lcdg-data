@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/330008.jpg",
-  "nosiege": "98"
+  "nosiege": "85"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -120,17 +120,17 @@
  "datan": "https://datan.fr/deputes/ain-01/depute_xavier-breton",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 5,
-   "id": "ai10ri5",
-   "no": 98,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 3,
+   "id": "ai4ri3",
+   "no": 85,
    "polar": {
-    "angle": 0.6684239688488922,
-    "radius": 0.625
+    "angle": 0.39269908169872414,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.49049961579916307,
-    "y": -0.3874202620524342
+    "x": 0.46193976625564337,
+    "y": -0.19137954622145123
    }
   }
  },

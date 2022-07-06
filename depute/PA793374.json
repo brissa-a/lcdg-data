@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Rassemblement National",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793374.jpg",
-  "nosiege": "43"
+  "nosiege": "68"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -53,17 +53,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 8,
-   "id": "ai4ri8",
-   "no": 43,
+   "curAngleIndex": 2,
+   "curRadiusIndex": 11,
+   "id": "ai2ri11",
+   "no": 68,
    "polar": {
-    "angle": 0.18755777036356974,
-    "radius": 0.8125
+    "angle": 0.07953399123012135,
+    "radius": 1
    },
    "pos": {
-    "x": 0.7982508160864057,
-    "y": -0.15152874683421935
+    "x": 0.9968388390146958,
+    "y": -0.07946587500949945
    }
   }
  },

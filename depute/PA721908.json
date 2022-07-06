@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721908.jpg",
-  "nosiege": "96"
+  "nosiege": "481"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_yael-braunpivet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 5,
-   "id": "ai8ri5",
-   "no": 96,
+   "curAngleIndex": 54,
+   "curRadiusIndex": 11,
+   "id": "ai54ri11",
+   "no": 481,
    "polar": {
-    "angle": 0.5347391750791137,
-    "radius": 0.625
+    "angle": 2.1474177632132765,
+    "radius": 1
    },
    "pos": {
-    "x": 0.5377509870375872,
-    "y": -0.31857337409205616
+    "x": -0.5451947721626677,
+    "y": -0.8384751477055178
    }
   }
  },

@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793398.jpg",
-  "nosiege": "475"
+  "nosiege": "222"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -154,17 +154,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 62,
-   "curRadiusIndex": 10,
-   "id": "ai62ri10",
-   "no": 475,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 9,
+   "id": "ai25ri9",
+   "no": 222,
    "polar": {
-    "angle": 2.4046758583032983,
-    "radius": 0.9375
+    "angle": 1.1382582078223888,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.6942600122896916,
-    "y": -0.6301319275938189
+    "x": 0.3667794553645811,
+    "y": -0.7945737244751946
    }
   }
  },

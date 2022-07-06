@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719472.jpg",
-  "nosiege": "127"
+  "nosiege": "421"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -300,17 +300,17 @@
  "datan": "https://datan.fr/deputes/gers-32/depute_jeanrene-cazeneuve",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 9,
-   "id": "ai9ri9",
-   "no": 127,
+   "curAngleIndex": 29,
+   "curRadiusIndex": 4,
+   "id": "ai29ri4",
+   "no": 421,
    "polar": {
-    "angle": 0.40977295481605996,
-    "radius": 0.875
+    "angle": 2.3360560757462565,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.8025598888172714,
-    "y": -0.348669875269877
+    "x": -0.3896574488491496,
+    "y": -0.4057565826278811
    }
   }
  },

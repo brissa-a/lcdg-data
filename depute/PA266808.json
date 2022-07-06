@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/266808.jpg",
-  "nosiege": "538"
+  "nosiege": "214"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -98,17 +98,17 @@
  "datan": "https://datan.fr/deputes/savoie-73/depute_vincent-rolland",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 59,
-   "curRadiusIndex": 8,
-   "id": "ai59ri8",
-   "no": 538,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 9,
+   "id": "ai18ri9",
+   "no": 214,
    "polar": {
-    "angle": 2.7664771128626535,
-    "radius": 0.8125
+    "angle": 0.8195459096321199,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.7560030532495079,
-    "y": -0.2977426358669933
+    "x": 0.5972340003163223,
+    "y": -0.6396079001840557
    }
   }
  },

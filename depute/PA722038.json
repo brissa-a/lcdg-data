@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722038.jpg",
-  "nosiege": "6"
+  "nosiege": "378"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_damien-adam",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 2,
-   "id": "ai1ri2",
-   "no": 6,
+   "curAngleIndex": 39,
+   "curRadiusIndex": 9,
+   "id": "ai39ri9",
+   "no": 378,
    "polar": {
-    "angle": 0.10833078115826873,
-    "radius": 0.4375
+    "angle": 1.7756828042029265,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.4349353562550323,
-    "y": -0.047311422620262396
+    "x": -0.17802401142105442,
+    "y": -0.8568679540075247
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718884.jpg",
-  "nosiege": "47"
+  "nosiege": "122"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -182,17 +182,17 @@
  "datan": "https://datan.fr/deputes/aube-10/depute_valerie-bazinmalgras",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 9,
-   "id": "ai0ri9",
-   "no": 47,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 8,
+   "id": "ai12ri8",
+   "no": 122,
    "polar": {
-    "angle": 0,
-    "radius": 0.875
+    "angle": 0.5626733110907092,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.875,
-    "y": 0
+    "x": 0.6872385481480168,
+    "y": -0.43351322747850624
    }
   }
  },

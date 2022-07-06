@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719882.jpg",
-  "nosiege": "436"
+  "nosiege": "359"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -86,17 +86,17 @@
  "datan": "https://datan.fr/deputes/isere-38/depute_marjolaine-meyniermillefert",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
+   "curAngleIndex": 30,
    "curRadiusIndex": 7,
-   "id": "ai34ri7",
-   "no": 436,
+   "id": "ai30ri7",
+   "no": 359,
    "polar": {
-    "angle": 2.015361324944396,
+    "angle": 1.7782599925979963,
     "radius": 0.75
    },
    "pos": {
-    "x": -0.3225489017073904,
-    "y": -0.6772322411271302
+    "x": -0.15448396405582387,
+    "y": -0.73406247152216
    }
   }
  },

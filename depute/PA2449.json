@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/2449.jpg",
-  "nosiege": "502"
+  "nosiege": "429"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -64,17 +64,17 @@
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_jeanpierre-pont",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 3,
-   "id": "ai28ri3",
-   "no": 502,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 6,
+   "id": "ai35ri6",
+   "no": 429,
    "polar": {
-    "angle": 2.748893571891069,
-    "radius": 0.5
+    "angle": 2.0746366580309954,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.46193976625564337,
-    "y": -0.1913795462214513
+    "x": -0.33191963937738705,
+    "y": -0.602186807164136
    }
   }
  },

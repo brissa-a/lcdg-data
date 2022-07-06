@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722366.jpg",
-  "nosiege": "233"
+  "nosiege": "383"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -76,17 +76,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_jeanluc-fugit",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 10,
-   "id": "ai28ri10",
-   "no": 233,
+   "curAngleIndex": 43,
+   "curRadiusIndex": 9,
+   "id": "ai43ri9",
+   "no": 383,
    "polar": {
-    "angle": 1.0859826456853605,
-    "radius": 0.9375
+    "angle": 1.9578041174545087,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.43691579972113026,
-    "y": -0.8296281776457519
+    "x": -0.3302417962835375,
+    "y": -0.8104474071896585
    }
   }
  },

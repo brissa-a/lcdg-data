@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/774960.jpg",
-  "nosiege": "559"
+  "nosiege": "433"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -38,17 +38,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_isabelle-santiago",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 71,
-   "curRadiusIndex": 10,
-   "id": "ai71ri10",
-   "no": 559,
+   "curAngleIndex": 39,
+   "curRadiusIndex": 6,
+   "id": "ai39ri6",
+   "no": 433,
    "polar": {
-    "angle": 2.7537417087021643,
-    "radius": 0.9375
+    "angle": 2.311737990377395,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.8678662211895847,
-    "y": -0.3546324673172718
+    "x": -0.46405081354376976,
+    "y": -0.5073606694413756
    }
   }
  },

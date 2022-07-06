@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608172.jpg",
-  "nosiege": "495"
+  "nosiege": "530"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -174,17 +174,17 @@
  "datan": "https://datan.fr/deputes/puy-de-dome-63/depute_christine-piresbeaune",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
-   "curRadiusIndex": 2,
-   "id": "ai23ri2",
-   "no": 495,
+   "curAngleIndex": 52,
+   "curRadiusIndex": 8,
+   "id": "ai52ri8",
+   "no": 530,
    "polar": {
-    "angle": 2.491607966640181,
-    "radius": 0.4375
+    "angle": 2.4382510147264065,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.3482907162462191,
-    "y": -0.2648160653998102
+    "x": -0.6196817072146853,
+    "y": -0.5256044498664337
    }
   }
  },

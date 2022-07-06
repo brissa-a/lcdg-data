@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/588884.jpg",
-  "nosiege": "24"
+  "nosiege": "561"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_clementine-autain",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 6,
-   "id": "ai1ri6",
-   "no": 24,
+   "curAngleIndex": 73,
+   "curRadiusIndex": 10,
+   "id": "ai73ri10",
+   "no": 561,
    "polar": {
-    "angle": 0.05927533308659987,
-    "radius": 0.6875
+    "angle": 2.83131189767969,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.6862925655879709,
-    "y": -0.04073598396824619
+    "x": -0.8927323925047643,
+    "y": -0.28629971576981506
    }
   }
  },

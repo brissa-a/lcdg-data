@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719006.jpg",
-  "nosiege": "352"
+  "nosiege": "376"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -61,17 +61,17 @@
  "datan": "https://datan.fr/deputes/calvados-14/depute_fabrice-levigoureux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
-   "curRadiusIndex": 6,
-   "id": "ai31ri6",
-   "no": 352,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 9,
+   "id": "ai37ri9",
+   "no": 376,
    "polar": {
-    "angle": 1.837535325684596,
-    "radius": 0.6875
+    "angle": 1.6846221475771355,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.18121617667248405,
-    "y": -0.6633180807995479
+    "x": -0.09938266279416544,
+    "y": -0.8695096047454024
    }
   }
  },

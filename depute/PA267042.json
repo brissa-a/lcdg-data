@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267042.jpg",
-  "nosiege": "214"
+  "nosiege": "203"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -134,17 +134,17 @@
  "datan": "https://datan.fr/deputes/mayenne-53/depute_yannick-favennecbecot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 9,
-   "id": "ai18ri9",
-   "no": 214,
+   "curAngleIndex": 16,
+   "curRadiusIndex": 8,
+   "id": "ai16ri8",
+   "no": 203,
    "polar": {
-    "angle": 0.8195459096321199,
-    "radius": 0.875
+    "angle": 0.750231081454279,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.5972340003163223,
-    "y": -0.6396079001840557
+    "x": 0.594369209901731,
+    "y": -0.5540783798104696
    }
   }
  },

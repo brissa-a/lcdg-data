@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720370.jpg",
-  "nosiege": "427"
+  "nosiege": "455"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -94,17 +94,17 @@
  "datan": "https://datan.fr/deputes/moselle-57/depute_ludovic-mendes",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 35,
-   "curRadiusIndex": 5,
-   "id": "ai35ri5",
-   "no": 427,
+   "curAngleIndex": 45,
+   "curRadiusIndex": 9,
+   "id": "ai45ri9",
+   "no": 455,
    "polar": {
-    "angle": 2.3394838909711226,
-    "radius": 0.625
+    "angle": 2.0488647740803,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.4344952672966514,
-    "y": -0.4493536262583302
+    "x": -0.4025569080147581,
+    "y": -0.777053166380148
    }
   }
  },

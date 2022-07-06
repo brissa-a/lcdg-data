@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608416.jpg",
-  "nosiege": "290"
+  "nosiege": "77"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -188,17 +188,17 @@
  "datan": "https://datan.fr/deputes/bas-rhin-67/depute_patrick-hetzel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 8,
-   "id": "ai30ri8",
-   "no": 290,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 0,
+   "id": "ai5ri0",
+   "no": 77,
    "polar": {
-    "angle": 1.406683277726773,
-    "radius": 0.8125
+    "angle": 0.6544984694978735,
+    "radius": 0.3125
    },
    "pos": {
-    "x": 0.13274410647755583,
-    "y": -0.8017414469239805
+    "x": 0.24792291884101098,
+    "y": -0.19027555837860077
    }
   }
  },

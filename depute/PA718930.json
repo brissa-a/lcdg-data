@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718930.jpg",
-  "nosiege": "482"
+  "nosiege": "340"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -58,17 +58,17 @@
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_annelaurence-petel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 55,
-   "curRadiusIndex": 11,
-   "id": "ai55ri11",
-   "no": 482,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 4,
+   "id": "ai23ri4",
+   "no": 340,
    "polar": {
-    "angle": 2.1871847588283373,
-    "radius": 1
+    "angle": 1.8527341290401342,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.5780920002248485,
-    "y": -0.8161329173805966
+    "x": -0.1564973234530045,
+    "y": -0.540398258440649
    }
   }
  },

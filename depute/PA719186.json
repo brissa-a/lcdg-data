@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719186.jpg",
-  "nosiege": "321"
+  "nosiege": "303"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -78,17 +78,17 @@
  "datan": "https://datan.fr/deputes/cote-dor-21/depute_fadila-khattabi",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 11,
-   "id": "ai33ri11",
-   "no": 321,
+   "curAngleIndex": 34,
+   "curRadiusIndex": 9,
+   "id": "ai34ri9",
+   "no": 303,
    "polar": {
-    "angle": 1.3123108552970022,
-    "radius": 1
+    "angle": 1.5480311626384489,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.2556166324404747,
-    "y": -0.9669693665150557
+    "x": 0.019917798124092456,
+    "y": -0.8749462250576678
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719640.jpg",
-  "nosiege": "430"
+  "nosiege": "278"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -121,17 +121,17 @@
  "datan": "https://datan.fr/deputes/gironde-33/depute_sophie-mette",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 36,
-   "curRadiusIndex": 6,
-   "id": "ai36ri6",
-   "no": 430,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 7,
+   "id": "ai22ri7",
+   "no": 278,
    "polar": {
-    "angle": 2.1339119911175954,
-    "radius": 0.6875
+    "angle": 1.3040573279051972,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.3670035723507936,
-    "y": -0.581462190172335
+    "x": 0.19769037455180075,
+    "y": -0.7236197245085977
    }
   }
  },

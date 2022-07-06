@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719266.jpg",
-  "nosiege": "164"
+  "nosiege": "172"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -191,17 +191,17 @@
  "datan": "https://datan.fr/deputes/dordogne-24/depute_jeanpierre-cubertafon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 0,
-   "id": "ai8ri0",
-   "no": 164,
+   "curAngleIndex": 9,
+   "curRadiusIndex": 3,
+   "id": "ai9ri3",
+   "no": 172,
    "polar": {
-    "angle": 1.0471975511965976,
-    "radius": 0.3125
+    "angle": 0.8835729338221293,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.15625000000000003,
-    "y": -0.27068644533452646
+    "x": 0.31719664208182274,
+    "y": -0.38658164236350284
    }
   }
  },

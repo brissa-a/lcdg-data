@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/2952.jpg",
-  "nosiege": "639"
+  "nosiege": "243"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -226,17 +226,17 @@
  "datan": "https://datan.fr/deputes/ardennes-08/depute_jeanluc-warsmann",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 80,
-   "curRadiusIndex": 10,
-   "id": "ai80ri10",
-   "no": 639,
+   "curAngleIndex": 26,
+   "curRadiusIndex": 11,
+   "id": "ai26ri11",
+   "no": 243,
    "polar": {
-    "angle": 3.1028075591010302,
-    "radius": 0.9375
+    "angle": 1.0339418859915777,
+    "radius": 1
    },
    "pos": {
-    "x": -0.9367949554727156,
-    "y": -0.03635909766446132
+    "x": 0.511435479103422,
+    "y": -0.85949157647721
    }
   }
  },

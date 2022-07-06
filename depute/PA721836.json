@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721836.jpg",
-  "nosiege": "33"
+  "nosiege": "166"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_jeannoel-barrot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
-   "curRadiusIndex": 7,
-   "id": "ai3ri7",
-   "no": 33,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 1,
+   "id": "ai7ri1",
+   "no": 166,
    "polar": {
-    "angle": 0.1778259992597996,
-    "radius": 0.75
+    "angle": 0.9561368945708066,
+    "radius": 0.375
    },
    "pos": {
-    "x": 0.7381729334606977,
-    "y": -0.13269393598276635
+    "x": 0.21625512079307518,
+    "y": -0.3064242808369663
    }
   }
  },

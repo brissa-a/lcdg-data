@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/330240.jpg",
-  "nosiege": "141"
+  "nosiege": "93"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -40,17 +40,17 @@
  "datan": "https://datan.fr/deputes/alpes-maritimes-06/depute_eric-ciotti",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 10,
-   "id": "ai13ri10",
-   "no": 141,
+   "curAngleIndex": 9,
+   "curRadiusIndex": 4,
+   "id": "ai9ri4",
+   "no": 93,
    "polar": {
-    "angle": 0.5042062283539174,
-    "radius": 0.9375
+    "angle": 0.724982920059183,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.8208358418457101,
-    "y": -0.4530076079586257
+    "x": 0.4210372958462444,
+    "y": -0.3730802421176906
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722336.jpg",
-  "nosiege": "596"
+  "nosiege": "205"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -79,17 +79,17 @@
  "datan": "https://datan.fr/deputes/bas-rhin-67/depute_vincent-thiebaut",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 46,
-   "curRadiusIndex": 5,
-   "id": "ai46ri5",
-   "no": 596,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 8,
+   "id": "ai18ri8",
+   "no": 205,
    "polar": {
-    "angle": 3.074750256704904,
-    "radius": 0.625
+    "angle": 0.8440099666360639,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.6236042991394707,
-    "y": -0.041753649544207065
+    "x": 0.5398830721690427,
+    "y": -0.6073123716262041
    }
   }
  },

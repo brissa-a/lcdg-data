@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/333285.jpg",
-  "nosiege": "237"
+  "nosiege": "522"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -94,17 +94,17 @@
  "datan": "https://datan.fr/deputes/mayenne-53/depute_guillaume-garot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
-   "curRadiusIndex": 11,
-   "id": "ai20ri11",
-   "no": 237,
+   "curAngleIndex": 41,
+   "curRadiusIndex": 7,
+   "id": "ai41ri7",
+   "no": 522,
    "polar": {
-    "angle": 0.7953399123012135,
-    "radius": 1
+    "angle": 2.430288656550595,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.7000420745694255,
-    "y": -0.7142427836320193
+    "x": -0.5681334316212151,
+    "y": -0.48971339040137385
    }
   }
  },

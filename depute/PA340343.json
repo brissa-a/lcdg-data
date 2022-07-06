@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/340343.jpg",
-  "nosiege": "561"
+  "nosiege": "442"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -138,17 +138,17 @@
  "datan": "https://datan.fr/deputes/ardeche-07/depute_herve-saulignac",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 73,
-   "curRadiusIndex": 10,
-   "id": "ai73ri10",
-   "no": 561,
+   "curAngleIndex": 40,
+   "curRadiusIndex": 7,
+   "id": "ai40ri7",
+   "no": 442,
    "polar": {
-    "angle": 2.83131189767969,
-    "radius": 0.9375
+    "angle": 2.3710133234639947,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.8927323925047643,
-    "y": -0.28629971576981506
+    "x": -0.5381304427832483,
+    "y": -0.5225165577653659
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719154.jpg",
-  "nosiege": "404"
+  "nosiege": "302"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -57,17 +57,17 @@
  "datan": "https://datan.fr/deputes/cote-dor-21/depute_didier-martin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 11,
-   "id": "ai47ri11",
-   "no": 404,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 9,
+   "id": "ai33ri9",
+   "no": 302,
    "polar": {
-    "angle": 1.8690487939078517,
-    "radius": 1
+    "angle": 1.5025008343255533,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.29385027433792094,
-    "y": -0.9560404421397851
+    "x": 0.059712111694087126,
+    "y": -0.8731327653962209
    }
   }
  },

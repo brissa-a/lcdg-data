@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/1206.jpg",
-  "nosiege": "198"
+  "nosiege": "154"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_nicolas-dupontaignan",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 7,
-   "id": "ai16ri7",
-   "no": 198,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 11,
+   "id": "ai13ri11",
+   "no": 154,
    "polar": {
-    "angle": 0.948405329385598,
-    "radius": 0.75
+    "angle": 0.5169709429957888,
+    "radius": 1
    },
    "pos": {
-    "x": 0.4372346093358541,
-    "y": -0.6094856356700057
+    "x": 0.8693202744395825,
+    "y": -0.49434690628335537
    }
   }
  },

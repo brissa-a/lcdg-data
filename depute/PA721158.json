@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721158.jpg",
-  "nosiege": "17"
+  "nosiege": "335"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -36,17 +36,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_pieyrealexandre-anglade",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 5,
-   "id": "ai0ri5",
-   "no": 17,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 3,
+   "id": "ai19ri3",
+   "no": 335,
    "polar": {
-    "angle": 0,
-    "radius": 0.625
+    "angle": 1.8653206380689396,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.625,
-    "y": 0
+    "x": -0.14514233862723108,
+    "y": -0.4785647658734132
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/331582.jpg",
-  "nosiege": "625"
+  "nosiege": "257"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -161,17 +161,17 @@
  "datan": "https://datan.fr/deputes/eure-et-loir-28/depute_philippe-vigier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 64,
-   "curRadiusIndex": 9,
-   "id": "ai64ri9",
-   "no": 625,
+   "curAngleIndex": 15,
+   "curRadiusIndex": 4,
+   "id": "ai15ri4",
+   "no": 257,
    "polar": {
-    "angle": 2.9139410120253153,
-    "radius": 0.875
+    "angle": 1.208304866765305,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.8524241973392941,
-    "y": -0.19751812535931543
+    "x": 0.19946524896142637,
+    "y": -0.5260506210577675
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/608826.jpg",
-  "nosiege": "192"
+  "nosiege": "95"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -89,17 +89,17 @@
  "datan": "https://datan.fr/deputes/haute-savoie-74/depute_virginie-dubymuller",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 6,
-   "id": "ai18ri6",
-   "no": 192,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 5,
+   "id": "ai7ri5",
+   "no": 95,
    "polar": {
-    "angle": 1.0669559955587977,
-    "radius": 0.6875
+    "angle": 0.4678967781942245,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.3319196393773871,
-    "y": -0.602186807164136
+    "x": 0.5578242724124258,
+    "y": -0.2819370550725669
    }
   }
  },

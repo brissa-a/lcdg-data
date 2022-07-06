@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720552.jpg",
-  "nosiege": "522"
+  "nosiege": "181"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -107,17 +107,17 @@
  "datan": "https://datan.fr/deputes/moselle-57/depute_isabelle-rauch",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 41,
-   "curRadiusIndex": 7,
-   "id": "ai41ri7",
-   "no": 522,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 5,
+   "id": "ai12ri5",
+   "no": 181,
    "polar": {
-    "angle": 2.430288656550595,
-    "radius": 0.75
+    "angle": 0.8021087626186706,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.5681334316212151,
-    "y": -0.48971339040137385
+    "x": 0.4344952672966514,
+    "y": -0.44935362625833014
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/266797.jpg",
-  "nosiege": "258"
+  "nosiege": "86"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -176,17 +176,17 @@
  "datan": "https://datan.fr/deputes/manche-50/depute_philippe-gosselin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 16,
-   "curRadiusIndex": 4,
-   "id": "ai16ri4",
-   "no": 258,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 3,
+   "id": "ai5ri3",
+   "no": 86,
    "polar": {
-    "angle": 1.2888585245496587,
-    "radius": 0.5625
+    "angle": 0.4908738521234052,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.15649732345300466,
-    "y": -0.5403982584406489
+    "x": 0.44096063217417747,
+    "y": -0.23574496817506388
    }
   }
  },

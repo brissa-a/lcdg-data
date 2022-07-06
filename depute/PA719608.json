@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719608.jpg",
-  "nosiege": "426"
+  "nosiege": "237"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -54,17 +54,17 @@
  "datan": "https://datan.fr/deputes/herault-34/depute_emmanuelle-menard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
-   "curRadiusIndex": 5,
-   "id": "ai34ri5",
-   "no": 426,
+   "curAngleIndex": 20,
+   "curRadiusIndex": 11,
+   "id": "ai20ri11",
+   "no": 237,
    "polar": {
-    "angle": 2.2726414940862334,
-    "radius": 0.625
+    "angle": 0.7953399123012135,
+    "radius": 1
    },
    "pos": {
-    "x": -0.4035174072242515,
-    "y": -0.4773769860606825
+    "x": 0.7000420745694255,
+    "y": -0.7142427836320193
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720692.jpg",
-  "nosiege": "544"
+  "nosiege": "588"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -62,17 +62,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_fabien-roussel",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 57,
-   "curRadiusIndex": 9,
-   "id": "ai57ri9",
-   "no": 544,
+   "curAngleIndex": 36,
+   "curRadiusIndex": 4,
+   "id": "ai36ri4",
+   "no": 588,
    "polar": {
-    "angle": 2.5952287138350463,
-    "radius": 0.875
+    "angle": 2.899931680236732,
+    "radius": 0.5625
    },
    "pos": {
-    "x": -0.7476169789781772,
-    "y": -0.45472584204275834
+    "x": -0.5461547723021541,
+    "y": -0.1346416758127681
    }
   }
  },

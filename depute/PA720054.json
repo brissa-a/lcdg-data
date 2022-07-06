@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720054.jpg",
-  "nosiege": "285"
+  "nosiege": "392"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -74,17 +74,17 @@
  "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_yannick-haury",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
-   "curRadiusIndex": 8,
-   "id": "ai26ri8",
-   "no": 285,
+   "curAngleIndex": 48,
+   "curRadiusIndex": 10,
+   "id": "ai48ri10",
+   "no": 392,
    "polar": {
-    "angle": 1.2191255073632032,
-    "radius": 0.8125
+    "angle": 1.861684535460618,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.27987931585602055,
-    "y": -0.7629245737762349
+    "x": -0.26887803066664684,
+    "y": -0.8982927335269555
    }
   }
  },

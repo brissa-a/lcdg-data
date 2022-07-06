@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719778.jpg",
-  "nosiege": "304"
+  "nosiege": "182"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -118,17 +118,17 @@
  "datan": "https://datan.fr/deputes/indre-36/depute_francois-jolivet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 10,
-   "id": "ai30ri10",
-   "no": 304,
+   "curAngleIndex": 13,
+   "curRadiusIndex": 5,
+   "id": "ai13ri5",
+   "no": 182,
    "polar": {
-    "angle": 1.1635528346628863,
-    "radius": 0.9375
+    "angle": 0.8689511595035598,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.37132478066170954,
-    "y": -0.8609977938321367
+    "x": 0.4035174072242515,
+    "y": -0.4773769860606825
    }
   }
  },

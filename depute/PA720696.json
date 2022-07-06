@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720696.jpg",
-  "nosiege": "179"
+  "nosiege": "242"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_beatrice-descamps",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 4,
-   "id": "ai13ri4",
-   "no": 179,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 11,
+   "id": "ai25ri11",
+   "no": 242,
    "polar": {
-    "angle": 1.0471975511965976,
-    "radius": 0.5625
+    "angle": 0.9941748903765169,
+    "radius": 1
    },
    "pos": {
-    "x": 0.28125000000000006,
-    "y": -0.4872356016021476
+    "x": 0.5451947721626677,
+    "y": -0.8384751477055179
    }
   }
  },

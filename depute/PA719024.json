@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719024.jpg",
-  "nosiege": "72"
+  "nosiege": "268"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -154,17 +154,17 @@
  "datan": "https://datan.fr/deputes/calvados-14/depute_christophe-blanchet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 11,
-   "id": "ai5ri11",
-   "no": 72,
+   "curAngleIndex": 20,
+   "curRadiusIndex": 6,
+   "id": "ai20ri6",
+   "no": 268,
    "polar": {
-    "angle": 0.19883497807530337,
-    "radius": 1
+    "angle": 1.1855066617319974,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.9802973668046362,
-    "y": -0.1975664501835878
+    "x": 0.2583814627035388,
+    "y": -0.6372250655346097
    }
   }
  },

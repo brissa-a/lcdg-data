@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720764.jpg",
-  "nosiege": "335"
+  "nosiege": "248"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -53,17 +53,17 @@
  "datan": "https://datan.fr/deputes/pyrenees-atlantiques-64/depute_florence-lasserre",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 3,
-   "id": "ai19ri3",
-   "no": 335,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 2,
+   "id": "ai11ri2",
+   "no": 248,
    "polar": {
-    "angle": 1.8653206380689396,
-    "radius": 0.5
+    "angle": 1.191638592740956,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.14514233862723108,
-    "y": -0.4785647658734132
+    "x": 0.1619354429612125,
+    "y": -0.4065076693843236
    }
   }
  },

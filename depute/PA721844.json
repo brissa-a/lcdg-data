@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721844.jpg",
-  "nosiege": "496"
+  "nosiege": "371"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_beatrice-piron",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 2,
-   "id": "ai24ri2",
-   "no": 496,
+   "curAngleIndex": 40,
+   "curRadiusIndex": 8,
+   "id": "ai40ri8",
+   "no": 371,
    "polar": {
-    "angle": 2.5999387477984497,
-    "radius": 0.4375
+    "angle": 1.8755777036356975,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.3748750145733203,
-    "y": -0.22559940680156249
+    "x": -0.2438187659377769,
+    "y": -0.7752072072989217
    }
   }
  },

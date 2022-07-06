@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721486.jpg",
-  "nosiege": "451"
+  "nosiege": "245"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -77,17 +77,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_christophe-naegelen",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 49,
-   "curRadiusIndex": 8,
-   "id": "ai49ri8",
-   "no": 451,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 11,
+   "id": "ai28ri11",
+   "no": 245,
    "polar": {
-    "angle": 2.2975826869537292,
-    "radius": 0.8125
+    "angle": 1.1134758772216988,
+    "radius": 1
    },
    "pos": {
-    "x": -0.5398830721690426,
-    "y": -0.6073123716262042
+    "x": 0.4415454982159119,
+    "y": -0.8974162530963087
    }
   }
  },

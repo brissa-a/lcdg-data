@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720074.jpg",
-  "nosiege": "303"
+  "nosiege": "353"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -76,17 +76,17 @@
  "datan": "https://datan.fr/deputes/loiret-45/depute_caroline-janvier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 34,
-   "curRadiusIndex": 9,
-   "id": "ai34ri9",
-   "no": 303,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 6,
+   "id": "ai32ri6",
+   "no": 353,
    "polar": {
-    "angle": 1.5480311626384489,
-    "radius": 0.875
+    "angle": 1.896810658771196,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.019917798124092456,
-    "y": -0.8749462250576678
+    "x": -0.22018552453070087,
+    "y": -0.6514156337528634
    }
   }
  },

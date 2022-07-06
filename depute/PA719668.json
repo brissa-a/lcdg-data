@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719668.jpg",
-  "nosiege": "440"
+  "nosiege": "475"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -46,17 +46,17 @@
  "datan": "https://datan.fr/deputes/herault-34/depute_patricia-miralles",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 38,
-   "curRadiusIndex": 7,
-   "id": "ai38ri7",
-   "no": 440,
+   "curAngleIndex": 62,
+   "curRadiusIndex": 10,
+   "id": "ai62ri10",
+   "no": 475,
    "polar": {
-    "angle": 2.252462657290795,
-    "radius": 0.75
+    "angle": 2.4046758583032983,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.4725658826862833,
-    "y": -0.582508041537041
+    "x": -0.6942600122896916,
+    "y": -0.6301319275938189
    }
   }
  },

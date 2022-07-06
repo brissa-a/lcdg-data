@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720586.jpg",
-  "nosiege": "616"
+  "nosiege": "102"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -106,17 +106,17 @@
  "datan": "https://datan.fr/deputes/oise-60/depute_pierre-vatin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 63,
-   "curRadiusIndex": 8,
-   "id": "ai63ri8",
-   "no": 616,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 6,
+   "id": "ai8ri6",
+   "no": 102,
    "polar": {
-    "angle": 2.9540348832262233,
-    "radius": 0.8125
+    "angle": 0.474202664692799,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.7982508160864057,
-    "y": -0.1515287468342195
+    "x": 0.6116392500588888,
+    "y": -0.3139946681064205
    }
   }
  },

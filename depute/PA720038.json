@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720038.jpg",
-  "nosiege": "306"
+  "nosiege": "295"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -62,17 +62,17 @@
  "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_sandrine-josso",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 32,
-   "curRadiusIndex": 10,
-   "id": "ai32ri10",
-   "no": 306,
+   "curAngleIndex": 27,
+   "curRadiusIndex": 9,
+   "id": "ai27ri9",
+   "no": 295,
    "polar": {
-    "angle": 1.241123023640412,
-    "radius": 0.9375
+    "angle": 1.2293188644481798,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.30350057067967606,
-    "y": -0.8871892679776124
+    "x": 0.29301966064961293,
+    "y": -0.8246413138920984
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721118.jpg",
-  "nosiege": "104"
+  "nosiege": "582"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -48,17 +48,17 @@
  "datan": "https://datan.fr/deputes/polynesie-francaise-987/depute_moetai-brotherson",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 10,
-   "curRadiusIndex": 6,
-   "id": "ai10ri6",
-   "no": 104,
+   "curAngleIndex": 29,
+   "curRadiusIndex": 2,
+   "id": "ai29ri2",
+   "no": 582,
    "polar": {
-    "angle": 0.5927533308659987,
-    "radius": 0.6875
+    "angle": 3.141592653589793,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.5702164087470138,
-    "y": -0.3841455856362521
+    "x": -0.4375,
+    "y": -5.358889039098222e-17
    }
   }
  },

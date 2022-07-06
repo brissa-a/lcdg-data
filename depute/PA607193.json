@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607193.jpg",
-  "nosiege": "205"
+  "nosiege": "411"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -66,17 +66,17 @@
  "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_sophie-errante",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 8,
-   "id": "ai18ri8",
-   "no": 205,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 2,
+   "id": "ai21ri2",
+   "no": 411,
    "polar": {
-    "angle": 0.8440099666360639,
-    "radius": 0.8125
+    "angle": 2.2749464043236434,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.5398830721690427,
-    "y": -0.6073123716262041
+    "x": -0.2832314995920495,
+    "y": -0.3335118244773712
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720222.jpg",
-  "nosiege": "254"
+  "nosiege": "370"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -167,17 +167,17 @@
  "datan": "https://datan.fr/deputes/marne-51/depute_eric-girardin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
-   "curRadiusIndex": 3,
-   "id": "ai14ri3",
-   "no": 254,
+   "curAngleIndex": 39,
+   "curRadiusIndex": 8,
+   "id": "ai39ri8",
+   "no": 370,
    "polar": {
-    "angle": 1.3744467859455345,
-    "radius": 0.5
+    "angle": 1.828688261044805,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.09754516100806417,
-    "y": -0.49048959539271697
+    "x": -0.20722224945636208,
+    "y": -0.7857857671378481
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720170.jpg",
-  "nosiege": "262"
+  "nosiege": "474"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -61,17 +61,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_carole-grandjean",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 5,
-   "id": "ai18ri5",
-   "no": 262,
+   "curAngleIndex": 61,
+   "curRadiusIndex": 10,
+   "id": "ai61ri10",
+   "no": 474,
    "polar": {
-    "angle": 1.203163143928006,
-    "radius": 0.625
+    "angle": 2.3658907638145354,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.22462985802344548,
-    "y": -0.583353193460886
+    "x": -0.6693091261480302,
+    "y": -0.6565835505531296
    }
   }
  },

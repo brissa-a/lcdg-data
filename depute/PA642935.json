@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642935.jpg",
-  "nosiege": "49"
+  "nosiege": "281"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/haut-rhin-68/depute_olivier-becht",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 9,
-   "id": "ai2ri9",
-   "no": 49,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 7,
+   "id": "ai25ri7",
+   "no": 281,
    "polar": {
-    "angle": 0.0910606566257911,
-    "radius": 0.875
+    "angle": 1.4818833271649967,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.8713747372150898,
-    "y": -0.0795837358556067
+    "x": 0.06659692149220117,
+    "y": -0.7471850782076256
    }
   }
  },

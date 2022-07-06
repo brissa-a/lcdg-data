@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605963.jpg",
-  "nosiege": "8"
+  "nosiege": "468"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -134,17 +134,17 @@
  "datan": "https://datan.fr/deputes/doubs-25/depute_eric-alauzet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 3,
-   "id": "ai0ri3",
-   "no": 8,
+   "curAngleIndex": 56,
+   "curRadiusIndex": 10,
+   "id": "ai56ri10",
+   "no": 468,
    "polar": {
-    "angle": 0,
-    "radius": 0.5
+    "angle": 2.171965291370721,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5,
-    "y": 0
+    "x": -0.5302564457686297,
+    "y": -0.7732856719088589
    }
   }
  },

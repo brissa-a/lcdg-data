@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267780.jpg",
-  "nosiege": "223"
+  "nosiege": "220"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -51,17 +51,17 @@
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_agnes-firminlebodo",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 19,
-   "curRadiusIndex": 10,
-   "id": "ai19ri10",
-   "no": 223,
+   "curAngleIndex": 23,
+   "curRadiusIndex": 9,
+   "id": "ai23ri9",
+   "no": 220,
    "polar": {
-    "angle": 0.7369167952864947,
-    "radius": 0.9375
+    "angle": 1.0471975511965976,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.6942600122896918,
-    "y": -0.6301319275938188
+    "x": 0.4375000000000001,
+    "y": -0.7579220469366741
    }
   }
  },

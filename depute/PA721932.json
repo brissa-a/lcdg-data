@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Rassemblement National",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721932.jpg",
-  "nosiege": "380"
+  "nosiege": "54"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -84,17 +84,17 @@
  "datan": "https://datan.fr/deputes/vaucluse-84/depute_mariefrance-lorho",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 40,
+   "curAngleIndex": 7,
    "curRadiusIndex": 9,
-   "id": "ai40ri9",
-   "no": 380,
+   "id": "ai7ri9",
+   "no": 54,
    "polar": {
-    "angle": 1.821213132515822,
+    "angle": 0.31871229819026886,
     "radius": 0.875
    },
    "pos": {
-    "x": -0.21683181274378735,
-    "y": -0.8478756656720823
+    "x": 0.8309347365377794,
+    "y": -0.2742301791293354
    }
   }
  },

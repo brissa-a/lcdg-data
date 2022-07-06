@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719318.jpg",
-  "nosiege": "18"
+  "nosiege": "124"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -106,17 +106,17 @@
  "datan": "https://datan.fr/deputes/drome-26/depute_emmanuelle-anthoine",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 5,
-   "id": "ai1ri5",
-   "no": 18,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 8,
+   "id": "ai14ri8",
+   "no": 124,
    "polar": {
-    "angle": 0.06684239688488922,
-    "radius": 0.625
+    "angle": 0.6564521962724941,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.6236042991394707,
-    "y": -0.041753649544206975
+    "x": 0.6436320096465425,
+    "y": -0.49597512727040544
    }
   }
  },

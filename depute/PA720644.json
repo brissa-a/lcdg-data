@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720644.jpg",
-  "nosiege": "455"
+  "nosiege": "215"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -162,17 +162,17 @@
  "datan": "https://datan.fr/deputes/orne-61/depute_jerome-nury",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 45,
+   "curAngleIndex": 19,
    "curRadiusIndex": 9,
-   "id": "ai45ri9",
-   "no": 455,
+   "id": "ai19ri9",
+   "no": 215,
    "polar": {
-    "angle": 2.0488647740803,
+    "angle": 0.8650762379450154,
     "radius": 0.875
    },
    "pos": {
-    "x": -0.4025569080147581,
-    "y": -0.777053166380148
+    "x": 0.5675093282799115,
+    "y": -0.6661332980800424
    }
   }
  },

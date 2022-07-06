@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719294.jpg",
-  "nosiege": "143"
+  "nosiege": "291"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -52,17 +52,17 @@
  "datan": "https://datan.fr/deputes/drome-26/depute_mireille-clapot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 14,
-   "curRadiusIndex": 10,
-   "id": "ai14ri10",
-   "no": 143,
+   "curAngleIndex": 31,
+   "curRadiusIndex": 8,
+   "id": "ai31ri8",
+   "no": 291,
    "polar": {
-    "angle": 0.5429913228426803,
-    "radius": 0.9375
+    "angle": 1.4535727203176656,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.8026564683096248,
-    "y": -0.4845014319643313
+    "x": 0.09502619910231692,
+    "y": -0.8070834928241782
    }
   }
  },

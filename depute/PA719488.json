@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719488.jpg",
-  "nosiege": "60"
+  "nosiege": "249"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -60,17 +60,17 @@
  "datan": "https://datan.fr/deputes/gard-30/depute_philippe-berta",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 4,
-   "curRadiusIndex": 10,
-   "id": "ai4ri10",
-   "no": 60,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 2,
+   "id": "ai12ri2",
+   "no": 249,
    "polar": {
-    "angle": 0.1551403779550515,
-    "radius": 0.9375
+    "angle": 1.2999693738992248,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.9262404838845084,
-    "y": -0.1448900086986851
+    "x": 0.11704364810653407,
+    "y": -0.4216364667044823
    }
   }
  },

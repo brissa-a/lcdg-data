@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Horizons et apparentés",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/421348.jpg",
-  "nosiege": "629"
+  "nosiege": "193"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -258,17 +258,17 @@
  "datan": "https://datan.fr/deputes/yonne-89/depute_andre-villiers",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 68,
-   "curRadiusIndex": 9,
-   "id": "ai68ri9",
-   "no": 629,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 6,
+   "id": "ai19ri6",
+   "no": 193,
    "polar": {
-    "angle": 3.0960623252768977,
-    "radius": 0.875
+    "angle": 1.1262313286453975,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.8740932144408866,
-    "y": -0.03983314806888089
+    "x": 0.2956698265651078,
+    "y": -0.6207962210332028
    }
   }
  },

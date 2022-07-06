@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719922.jpg",
-  "nosiege": "125"
+  "nosiege": "361"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -87,17 +87,17 @@
  "datan": "https://datan.fr/deputes/landes-40/depute_lionel-causse",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 8,
-   "id": "ai15ri8",
-   "no": 125,
+   "curAngleIndex": 32,
+   "curRadiusIndex": 7,
+   "id": "ai32ri7",
+   "no": 361,
    "polar": {
-    "angle": 0.7033416388633865,
-    "radius": 0.8125
+    "angle": 1.896810658771196,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.6196817072146854,
-    "y": -0.5256044498664336
+    "x": -0.24020239039712823,
+    "y": -0.7106352368213056
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/607395.jpg",
-  "nosiege": "604"
+  "nosiege": "409"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -218,17 +218,17 @@
  "datan": "https://datan.fr/deputes/manche-50/depute_stephane-travert",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 53,
-   "curRadiusIndex": 6,
-   "id": "ai53ri6",
-   "no": 604,
+   "curAngleIndex": 19,
+   "curRadiusIndex": 2,
+   "id": "ai19ri2",
+   "no": 409,
    "polar": {
-    "angle": 3.141592653589793,
-    "radius": 0.6875
+    "angle": 2.058284842007106,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.6875,
-    "y": -8.421111347154349e-17
+    "x": -0.20492869280615814,
+    "y": -0.3866129413141402
    }
   }
  },

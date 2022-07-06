@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/712015.jpg",
-  "nosiege": "187"
+  "nosiege": "81"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -133,17 +133,17 @@
  "datan": "https://datan.fr/deputes/aisne-02/depute_julien-dive",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 6,
-   "id": "ai13ri6",
-   "no": 187,
+   "curAngleIndex": 3,
+   "curRadiusIndex": 2,
+   "id": "ai3ri2",
+   "no": 81,
    "polar": {
-    "angle": 0.7705793301257984,
-    "radius": 0.6875
+    "angle": 0.3249923434748062,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.4932862392179777,
-    "y": -0.4789735112849187
+    "x": 0.41459826239247605,
+    "y": -0.13972203832193325
    }
   }
  },

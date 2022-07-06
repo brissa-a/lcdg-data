@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719404.jpg",
-  "nosiege": "342"
+  "nosiege": "312"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -68,17 +68,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_didier-legac",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 5,
-   "id": "ai24ri5",
-   "no": 342,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 10,
+   "id": "ai37ri10",
+   "no": 312,
    "polar": {
-    "angle": 1.6042175252373412,
-    "radius": 0.625
+    "angle": 1.4350484960842265,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.020884360629796577,
-    "y": -0.6247744766458649
+    "x": 0.12687309351574796,
+    "y": -0.9290590254657289
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721314.jpg",
-  "nosiege": "564"
+  "nosiege": "79"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -113,17 +113,17 @@
  "datan": "https://datan.fr/deputes/haut-rhin-68/depute_raphael-schellenberger",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 62,
-   "curRadiusIndex": 11,
-   "id": "ai62ri11",
-   "no": 564,
+   "curAngleIndex": 4,
+   "curRadiusIndex": 1,
+   "id": "ai4ri1",
+   "no": 79,
    "polar": {
-    "angle": 2.465553728133762,
-    "radius": 1
+    "angle": 0.5463639397547466,
+    "radius": 0.375
    },
    "pos": {
-    "x": -0.7800573081852124,
-    "y": -0.625831783973198
+    "x": 0.32040727670493324,
+    "y": -0.19488250373261062
    }
   }
  },

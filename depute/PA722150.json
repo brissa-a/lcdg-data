@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722150.jpg",
-  "nosiege": "293"
+  "nosiege": "341"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -74,17 +74,17 @@
  "datan": "https://datan.fr/deputes/vienne-86/depute_sacha-houlie",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
-   "curRadiusIndex": 8,
-   "id": "ai33ri8",
-   "no": 293,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 4,
+   "id": "ai24ri4",
+   "no": 341,
    "polar": {
-    "angle": 1.5473516054994503,
-    "radius": 0.8125
+    "angle": 1.933287786824488,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.01904709105264921,
-    "y": -0.8124373075711203
+    "x": -0.1994652489614262,
+    "y": -0.5260506210577675
    }
   }
  },

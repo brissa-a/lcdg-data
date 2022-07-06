@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Gauche démocrate et républicaine - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267306.jpg",
-  "nosiege": "132"
+  "nosiege": "587"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -165,17 +165,17 @@
  "datan": "https://datan.fr/deputes/puy-de-dome-63/depute_andre-chassaigne",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 13,
-   "curRadiusIndex": 9,
-   "id": "ai13ri9",
-   "no": 132,
+   "curAngleIndex": 35,
+   "curRadiusIndex": 4,
+   "id": "ai35ri4",
+   "no": 587,
    "polar": {
-    "angle": 0.5918942680676422,
-    "radius": 0.875
+    "angle": 2.819378022452378,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.7261496304991469,
-    "y": -0.4882888123233605
+    "x": -0.5335517485952692,
+    "y": -0.178160963631975
    }
   }
  },

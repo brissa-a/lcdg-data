@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719146.jpg",
-  "nosiege": "5"
+  "nosiege": "230"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -230,17 +230,17 @@
  "datan": "https://datan.fr/deputes/haute-corse-2b/depute_jeanfelix-acquaviva",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 0,
-   "curRadiusIndex": 2,
-   "id": "ai0ri2",
-   "no": 5,
+   "curAngleIndex": 25,
+   "curRadiusIndex": 10,
+   "id": "ai25ri10",
+   "no": 230,
    "polar": {
-    "angle": 0,
-    "radius": 0.4375
+    "angle": 0.9696273622190719,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.4375,
-    "y": 0
+    "x": 0.53025644576863,
+    "y": -0.7732856719088587
    }
   }
  },

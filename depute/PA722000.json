@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722000.jpg",
-  "nosiege": "111"
+  "nosiege": "395"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -70,17 +70,17 @@
  "datan": "https://datan.fr/deputes/vendee-85/depute_stephane-buchou",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 9,
-   "curRadiusIndex": 7,
-   "id": "ai9ri7",
-   "no": 111,
+   "curAngleIndex": 51,
+   "curRadiusIndex": 10,
+   "id": "ai51ri10",
+   "no": 395,
    "polar": {
-    "angle": 0.5334779977793989,
-    "radius": 0.75
+    "angle": 1.9780398189269066,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.6457827088255167,
-    "y": -0.38147374498980147
+    "x": -0.3713247806617093,
+    "y": -0.8609977938321368
    }
   }
  },

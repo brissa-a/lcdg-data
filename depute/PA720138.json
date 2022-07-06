@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720138.jpg",
-  "nosiege": "553"
+  "nosiege": "265"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -91,17 +91,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_laetitia-saintpaul",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 66,
-   "curRadiusIndex": 10,
-   "id": "ai66ri10",
-   "no": 553,
+   "curAngleIndex": 21,
+   "curRadiusIndex": 5,
+   "id": "ai21ri5",
+   "no": 265,
    "polar": {
-    "angle": 2.55981623625835,
-    "radius": 0.9375
+    "angle": 1.4036903345826734,
+    "radius": 0.625
    },
    "pos": {
-    "x": -0.7832698231996277,
-    "y": -0.5152665197928258
+    "x": 0.10395584661445635,
+    "y": -0.6164157557879497
    }
   }
  },

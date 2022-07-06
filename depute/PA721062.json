@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721062.jpg",
-  "nosiege": "520"
+  "nosiege": "615"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_jeanhugues-ratenon",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 6,
-   "id": "ai47ri6",
-   "no": 520,
+   "curAngleIndex": 62,
+   "curRadiusIndex": 8,
+   "id": "ai62ri8",
+   "no": 615,
    "polar": {
-    "angle": 2.785940655070194,
-    "radius": 0.6875
+    "angle": 2.907145440635331,
+    "radius": 0.8125
    },
    "pos": {
-    "x": -0.6444760170297081,
-    "y": -0.2394359537211757
+    "x": -0.7902723605764107,
+    "y": -0.1887854195232092
    }
   }
  },

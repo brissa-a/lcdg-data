@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267324.jpg",
-  "nosiege": "241"
+  "nosiege": "213"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -306,17 +306,17 @@
  "datan": "https://datan.fr/deputes/vosges-88/depute_jeanjacques-gaultier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 24,
-   "curRadiusIndex": 11,
-   "id": "ai24ri11",
-   "no": 241,
+   "curAngleIndex": 17,
+   "curRadiusIndex": 9,
+   "id": "ai17ri9",
+   "no": 213,
    "polar": {
-    "angle": 0.9544078947614563,
-    "radius": 1
+    "angle": 0.7740155813192244,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.5780920002248483,
-    "y": -0.8161329173805968
+    "x": 0.6257208136855369,
+    "y": -0.6117568172426251
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Écologiste - NUPES",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720952.jpg",
-  "nosiege": "581"
+  "nosiege": "525"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -46,17 +46,17 @@
  "datan": "https://datan.fr/deputes/val-doise-95/depute_aurelien-tache",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 28,
-   "curRadiusIndex": 2,
-   "id": "ai28ri2",
-   "no": 581,
+   "curAngleIndex": 44,
+   "curRadiusIndex": 7,
+   "id": "ai44ri7",
+   "no": 525,
    "polar": {
-    "angle": 3.0332618724315243,
-    "radius": 0.4375
+    "angle": 2.6081146558103945,
+    "radius": 0.75
    },
    "pos": {
-    "x": -0.4349353562550323,
-    "y": -0.047311422620262465
+    "x": -0.6457827088255167,
+    "y": -0.3814737449898014
    }
   }
  },

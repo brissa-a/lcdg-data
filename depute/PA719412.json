@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719412.jpg",
-  "nosiege": "340"
+  "nosiege": "388"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -86,17 +86,17 @@
  "datan": "https://datan.fr/deputes/finistere-29/depute_sandrine-lefeur",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
-   "curRadiusIndex": 4,
-   "id": "ai23ri4",
-   "no": 340,
+   "curAngleIndex": 45,
+   "curRadiusIndex": 10,
+   "id": "ai45ri10",
+   "no": 388,
    "polar": {
-    "angle": 1.8527341290401342,
-    "radius": 0.5625
+    "angle": 1.7453292519943295,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.1564973234530045,
-    "y": -0.540398258440649
+    "x": -0.16279516656274717,
+    "y": -0.9234398050075314
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721984.jpg",
-  "nosiege": "336"
+  "nosiege": "304"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -70,17 +70,17 @@
  "datan": "https://datan.fr/deputes/vendee-85/depute_philippe-latombe",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
-   "curRadiusIndex": 3,
-   "id": "ai20ri3",
-   "no": 336,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 10,
+   "id": "ai30ri10",
+   "no": 304,
    "polar": {
-    "angle": 1.9634954084936207,
-    "radius": 0.5
+    "angle": 1.1635528346628863,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.19134171618254486,
-    "y": -0.4620310960486361
+    "x": 0.37132478066170954,
+    "y": -0.8609977938321367
    }
   }
  },

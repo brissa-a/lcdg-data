@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720932.jpg",
-  "nosiege": "167"
+  "nosiege": "367"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -48,17 +48,17 @@
  "datan": "https://datan.fr/deputes/val-doise-95/depute_dominique-dasilva",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 8,
-   "curRadiusIndex": 1,
-   "id": "ai8ri1",
-   "no": 167,
+   "curAngleIndex": 37,
+   "curRadiusIndex": 8,
+   "id": "ai37ri8",
+   "no": 367,
    "polar": {
-    "angle": 1.0927278795094932,
-    "radius": 0.375
+    "angle": 1.73490937586302,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.17252438914918208,
-    "y": -0.333022785591492
+    "x": -0.13274410647755572,
+    "y": -0.8017414469239805
    }
   }
  },

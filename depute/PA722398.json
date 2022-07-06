@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722398.jpg",
-  "nosiege": "525"
+  "nosiege": "332"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -162,17 +162,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_remy-rebeyrotte",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 7,
-   "id": "ai44ri7",
-   "no": 525,
+   "curAngleIndex": 18,
+   "curRadiusIndex": 2,
+   "id": "ai18ri2",
+   "no": 332,
    "polar": {
-    "angle": 2.6081146558103945,
-    "radius": 0.75
+    "angle": 1.9499540608488373,
+    "radius": 0.4375
    },
    "pos": {
-    "x": -0.6457827088255167,
-    "y": -0.3814737449898014
+    "x": -0.16193544296121257,
+    "y": -0.4065076693843236
    }
   }
  },

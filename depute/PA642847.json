@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642847.jpg",
-  "nosiege": "45"
+  "nosiege": "109"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -226,17 +226,17 @@
  "datan": "https://datan.fr/deputes/meurthe-et-moselle-54/depute_thibault-bazin",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 6,
-   "curRadiusIndex": 8,
-   "id": "ai6ri8",
-   "no": 45,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 7,
+   "id": "ai7ri7",
+   "no": 109,
    "polar": {
-    "angle": 0.2813366555453546,
-    "radius": 0.8125
+    "angle": 0.4149273316061991,
+    "radius": 0.75
    },
    "pos": {
-    "x": 0.7805567149061826,
-    "y": -0.22562710088825624
+    "x": 0.6863592129322639,
+    "y": -0.3024023479076228
    }
   }
  },

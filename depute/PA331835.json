@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/331835.jpg",
-  "nosiege": "295"
+  "nosiege": "381"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -75,17 +75,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_monique-iborra",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 27,
+   "curAngleIndex": 41,
    "curRadiusIndex": 9,
-   "id": "ai27ri9",
-   "no": 295,
+   "id": "ai41ri9",
+   "no": 381,
    "polar": {
-    "angle": 1.2293188644481798,
+    "angle": 1.8667434608287177,
     "radius": 0.875
    },
    "pos": {
-    "x": 0.29301966064961293,
-    "y": -0.8246413138920984
+    "x": -0.2551901970229718,
+    "y": -0.8371260255433711
    }
   }
  },

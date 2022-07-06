@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722046.jpg",
-  "nosiege": "58"
+  "nosiege": "342"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -87,17 +87,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_aurore-berge",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 2,
-   "curRadiusIndex": 10,
-   "id": "ai2ri10",
-   "no": 58,
+   "curAngleIndex": 24,
+   "curRadiusIndex": 5,
+   "id": "ai24ri5",
+   "no": 342,
    "polar": {
-    "angle": 0.07757018897752575,
-    "radius": 0.9375
+    "angle": 1.6042175252373412,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.9346808823448051,
-    "y": -0.07266350779222838
+    "x": -0.020884360629796577,
+    "y": -0.6247744766458649
    }
   }
  },

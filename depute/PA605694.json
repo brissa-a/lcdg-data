@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Non inscrit",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605694.jpg",
-  "nosiege": "210"
+  "nosiege": "318"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/charente-maritime-17/depute_olivier-falorni",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 22,
-   "curRadiusIndex": 8,
-   "id": "ai22ri8",
-   "no": 210,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 11,
+   "id": "ai30ri11",
+   "no": 318,
    "polar": {
-    "angle": 1.0315677369996337,
-    "radius": 0.8125
+    "angle": 1.1930098684518202,
+    "radius": 1
    },
    "pos": {
-    "x": 0.41719778223080906,
-    "y": -0.6973481866249494
+    "x": 0.36886392452400785,
+    "y": -0.9296671752216756
    }
   }
  },

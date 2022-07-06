@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/643157.jpg",
-  "nosiege": "452"
+  "nosiege": "450"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -36,17 +36,17 @@
  "datan": "https://datan.fr/deputes/reunion-974/depute_philippe-naillet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 50,
+   "curAngleIndex": 48,
    "curRadiusIndex": 8,
-   "id": "ai50ri8",
-   "no": 452,
+   "id": "ai48ri8",
+   "no": 450,
    "polar": {
-    "angle": 2.344472129544622,
+    "angle": 2.2506932443628367,
     "radius": 0.8125
    },
    "pos": {
-    "x": -0.5677501600703089,
-    "y": -0.5813343252248397
+    "x": -0.5108292041050938,
+    "y": -0.6319554136305944
    }
   }
  },

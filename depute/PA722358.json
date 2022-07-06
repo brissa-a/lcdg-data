@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722358.jpg",
-  "nosiege": "239"
+  "nosiege": "373"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -77,17 +77,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_thomas-gassilloud",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 22,
-   "curRadiusIndex": 11,
-   "id": "ai22ri11",
-   "no": 239,
+   "curAngleIndex": 42,
+   "curRadiusIndex": 8,
+   "id": "ai42ri8",
+   "no": 373,
    "polar": {
-    "angle": 0.8748739035313349,
-    "radius": 1
+    "angle": 1.9693565888174822,
+    "radius": 0.8125
    },
    "pos": {
-    "x": 0.6410936375922202,
-    "y": -0.7676144032094914
+    "x": -0.31532463029620283,
+    "y": -0.7489648664639534
    }
   }
  },

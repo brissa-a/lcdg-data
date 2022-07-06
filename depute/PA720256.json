@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720256.jpg",
-  "nosiege": "31"
+  "nosiege": "163"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -135,17 +135,17 @@
  "datan": "https://datan.fr/deputes/mayenne-53/depute_geraldine-bannier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 1,
-   "curRadiusIndex": 7,
-   "id": "ai1ri7",
-   "no": 31,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 0,
+   "id": "ai7ri0",
+   "no": 163,
    "polar": {
-    "angle": 0.05927533308659987,
-    "radius": 0.75
+    "angle": 0.916297857297023,
+    "radius": 0.3125
    },
    "pos": {
-    "x": 0.7486827988232412,
-    "y": -0.04443925523808674
+    "x": 0.1902379465652252,
+    "y": -0.24797193551052063
    }
   }
  },

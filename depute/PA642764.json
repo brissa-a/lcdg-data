@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/642764.jpg",
-  "nosiege": "26"
+  "nosiege": "432"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -320,17 +320,17 @@
  "datan": "https://datan.fr/deputes/haute-garonne-31/depute_joel-aviragnet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 3,
+   "curAngleIndex": 38,
    "curRadiusIndex": 6,
-   "id": "ai3ri6",
-   "no": 26,
+   "id": "ai38ri6",
+   "no": 432,
    "polar": {
-    "angle": 0.1778259992597996,
+    "angle": 2.252462657290795,
     "radius": 0.6875
    },
    "pos": {
-    "x": 0.6766585223389728,
-    "y": -0.12163610798420248
+    "x": -0.4331853924624263,
+    "y": -0.5339657047422877
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721960.jpg",
-  "nosiege": "456"
+  "nosiege": "600"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/paris-75/depute_daniele-obono",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 46,
-   "curRadiusIndex": 9,
-   "id": "ai46ri9",
-   "no": 456,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 6,
+   "id": "ai49ri6",
+   "no": 600,
    "polar": {
-    "angle": 2.0943951023931953,
-    "radius": 0.875
+    "angle": 2.904491321243394,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.4374999999999998,
-    "y": -0.7579220469366742
+    "x": -0.6682657534302825,
+    "y": -0.16151608339576917
    }
   }
  },

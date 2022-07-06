@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722374.jpg",
-  "nosiege": "297"
+  "nosiege": "177"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -44,17 +44,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_cyrille-isaacsibille",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 29,
-   "curRadiusIndex": 9,
-   "id": "ai29ri9",
-   "no": 297,
+   "curAngleIndex": 11,
+   "curRadiusIndex": 4,
+   "id": "ai11ri4",
+   "no": 177,
    "polar": {
-    "angle": 1.320379521073971,
-    "radius": 0.875
+    "angle": 0.8860902356278904,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.21683181274378743,
-    "y": -0.8478756656720823
+    "x": 0.3557505237723997,
+    "y": -0.4358014359981152
    }
   }
  },

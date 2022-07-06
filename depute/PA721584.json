@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721584.jpg",
-  "nosiege": "594"
+  "nosiege": "352"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -144,17 +144,17 @@
  "datan": "https://datan.fr/deputes/tarn-81/depute_jean-terlier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 44,
-   "curRadiusIndex": 5,
-   "id": "ai44ri5",
-   "no": 594,
+   "curAngleIndex": 31,
+   "curRadiusIndex": 6,
+   "id": "ai31ri6",
+   "no": 352,
    "polar": {
-    "angle": 2.9410654629351254,
-    "radius": 0.625
+    "angle": 1.837535325684596,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.6124760656478667,
-    "y": -0.12451585376734234
+    "x": -0.18121617667248405,
+    "y": -0.6633180807995479
    }
   }
  },

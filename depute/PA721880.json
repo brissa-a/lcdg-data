@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721880.jpg",
-  "nosiege": "271"
+  "nosiege": "251"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -49,17 +49,17 @@
  "datan": "https://datan.fr/deputes/essonne-91/depute_marie-guevenoux",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 23,
-   "curRadiusIndex": 6,
-   "id": "ai23ri6",
-   "no": 271,
+   "curAngleIndex": 14,
+   "curRadiusIndex": 2,
+   "id": "ai14ri2",
+   "no": 251,
    "polar": {
-    "angle": 1.363332660991797,
-    "radius": 0.6875
+    "angle": 1.5166309362157622,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.14161030038450514,
-    "y": -0.6728905988953134
+    "x": 0.023685772506120206,
+    "y": -0.4369447395269976
    }
   }
  },

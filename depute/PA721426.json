@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721426.jpg",
-  "nosiege": "532"
+  "nosiege": "456"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -80,17 +80,17 @@
  "datan": "https://datan.fr/deputes/haute-savoie-74/depute_veronique-riotton",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 54,
-   "curRadiusIndex": 8,
-   "id": "ai54ri8",
-   "no": 532,
+   "curAngleIndex": 46,
+   "curRadiusIndex": 9,
+   "id": "ai46ri9",
+   "no": 456,
    "polar": {
-    "angle": 2.5320298999081916,
-    "radius": 0.8125
+    "angle": 2.0943951023931953,
+    "radius": 0.875
    },
    "pos": {
-    "x": -0.6661674692346575,
-    "y": -0.4652555437038607
+    "x": -0.4374999999999998,
+    "y": -0.7579220469366742
    }
   }
  },

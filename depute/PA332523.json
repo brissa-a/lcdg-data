@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/332523.jpg",
-  "nosiege": "168"
+  "nosiege": "89"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -190,17 +190,17 @@
  "datan": "https://datan.fr/deputes/jura-39/depute_mariechristine-dalloz",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 2,
-   "id": "ai7ri2",
-   "no": 168,
+   "curAngleIndex": 5,
+   "curRadiusIndex": 4,
+   "id": "ai5ri4",
+   "no": 89,
    "polar": {
-    "angle": 0.7583154681078811,
-    "radius": 0.4375
+    "angle": 0.4027682889217683,
+    "radius": 0.5625
    },
    "pos": {
-    "x": 0.3176230277163697,
-    "y": -0.30092799775488255
+    "x": 0.5174884370580887,
+    "y": -0.22052480923604012
    }
   }
  },

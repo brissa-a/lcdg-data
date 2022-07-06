@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721530.jpg",
-  "nosiege": "386"
+  "nosiege": "175"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -58,17 +58,17 @@
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_aude-luquet",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 43,
-   "curRadiusIndex": 10,
-   "id": "ai43ri10",
-   "no": 386,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 3,
+   "id": "ai12ri3",
+   "no": 175,
    "polar": {
-    "angle": 1.6677590630168038,
-    "radius": 0.9375
+    "angle": 1.1780972450961724,
+    "radius": 0.5
    },
    "pos": {
-    "x": -0.09076019128423037,
-    "y": -0.9332808528968785
+    "x": 0.19134171618254492,
+    "y": -0.4620310960486361
    }
   }
  },

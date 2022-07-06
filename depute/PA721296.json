@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721296.jpg",
-  "nosiege": "259"
+  "nosiege": "422"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -39,17 +39,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_guillaume-gouffiercha",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 17,
-   "curRadiusIndex": 4,
-   "id": "ai17ri4",
-   "no": 259,
+   "curAngleIndex": 30,
+   "curRadiusIndex": 5,
+   "id": "ai30ri5",
+   "no": 422,
    "polar": {
-    "angle": 1.3694121823340124,
-    "radius": 0.5625
+    "angle": 2.0052719065466764,
+    "radius": 0.625
    },
    "pos": {
-    "x": 0.11251445274902501,
-    "y": -0.5512412057496654
+    "x": -0.2630842265177093,
+    "y": -0.5670439087837952
    }
   }
  },

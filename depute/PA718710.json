@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718710.jpg",
-  "nosiege": "95"
+  "nosiege": "389"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -114,17 +114,17 @@
  "datan": "https://datan.fr/deputes/hautes-alpes-05/depute_pascale-boyer",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 5,
-   "id": "ai7ri5",
-   "no": 95,
+   "curAngleIndex": 46,
+   "curRadiusIndex": 10,
+   "id": "ai46ri10",
+   "no": 389,
    "polar": {
-    "angle": 0.4678967781942245,
-    "radius": 0.625
+    "angle": 1.7841143464830924,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.5578242724124258,
-    "y": -0.2819370550725669
+    "x": -0.19847238021507255,
+    "y": -0.9164316433636337
    }
   }
  },

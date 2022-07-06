@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722308.jpg",
-  "nosiege": "569"
+  "nosiege": "101"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -104,17 +104,17 @@
  "datan": "https://datan.fr/deputes/rhone-69/depute_nathalie-serre",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 67,
-   "curRadiusIndex": 11,
-   "id": "ai67ri11",
-   "no": 569,
+   "curAngleIndex": 7,
+   "curRadiusIndex": 6,
+   "id": "ai7ri6",
+   "no": 101,
    "polar": {
-    "angle": 2.664388706209065,
-    "radius": 1
+    "angle": 0.4149273316061991,
+    "radius": 0.6875
    },
    "pos": {
-    "x": -0.8882826127491319,
-    "y": -0.4593880965736567
+    "x": 0.6291626118545751,
+    "y": -0.27720215224865424
    }
   }
  },

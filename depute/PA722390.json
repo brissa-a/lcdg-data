@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/722390.jpg",
-  "nosiege": "152"
+  "nosiege": "87"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -178,17 +178,17 @@
  "datan": "https://datan.fr/deputes/saone-et-loire-71/depute_josiane-corneloup",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
-   "curRadiusIndex": 11,
-   "id": "ai11ri11",
-   "no": 152,
+   "curAngleIndex": 6,
+   "curRadiusIndex": 3,
+   "id": "ai6ri3",
+   "no": 87,
    "polar": {
-    "angle": 0.43743695176566744,
-    "radius": 1
+    "angle": 0.5890486225480862,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.905840393665523,
-    "y": -0.42370289985816695
+    "x": 0.41573480615127256,
+    "y": -0.27784003721384215
    }
   }
  },

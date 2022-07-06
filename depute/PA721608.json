@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721608.jpg",
-  "nosiege": "90"
+  "nosiege": "171"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -37,17 +37,17 @@
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_jeanlouis-bourlanges",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 6,
-   "curRadiusIndex": 4,
-   "id": "ai6ri4",
-   "no": 90,
+   "curAngleIndex": 10,
+   "curRadiusIndex": 2,
+   "id": "ai10ri2",
+   "no": 171,
    "polar": {
-    "angle": 0.483321946706122,
-    "radius": 0.5625
+    "angle": 1.0833078115826873,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.49806901442993057,
-    "y": -0.26145846682987633
+    "x": 0.20492869280615816,
+    "y": -0.3866129413141402
    }
   }
  },

@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/942.jpg",
-  "nosiege": "156"
+  "nosiege": "233"
  },
  "an_www_pic": {},
  "an_www_social": {},
@@ -289,17 +289,17 @@
  "datan": "https://datan.fr/deputes/marne-51/depute_charles-decourson",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 11,
-   "id": "ai15ri11",
-   "no": 156,
+   "curAngleIndex": 28,
+   "curRadiusIndex": 10,
+   "id": "ai28ri10",
+   "no": 233,
    "polar": {
-    "angle": 0.5965049342259101,
-    "radius": 1
+    "angle": 1.0859826456853605,
+    "radius": 0.9375
    },
    "pos": {
-    "x": 0.8273040325430572,
-    "y": -0.5618654924018461
+    "x": 0.43691579972113026,
+    "y": -0.8296281776457519
    }
   }
  },

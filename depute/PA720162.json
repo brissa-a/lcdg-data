@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720162.jpg",
-  "nosiege": "77"
+  "nosiege": "270"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -67,17 +67,17 @@
  "datan": "https://datan.fr/deputes/maine-et-loire-49/depute_philippe-bolo",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 5,
-   "curRadiusIndex": 0,
-   "id": "ai5ri0",
-   "no": 77,
+   "curAngleIndex": 22,
+   "curRadiusIndex": 6,
+   "id": "ai22ri6",
+   "no": 270,
    "polar": {
-    "angle": 0.6544984694978735,
-    "radius": 0.3125
+    "angle": 1.3040573279051972,
+    "radius": 0.6875
    },
    "pos": {
-    "x": 0.24792291884101098,
-    "y": -0.19027555837860077
+    "x": 0.181216176672484,
+    "y": -0.663318080799548
    }
   }
  },

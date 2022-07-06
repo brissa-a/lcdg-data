@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720862.jpg",
-  "nosiege": "181"
+  "nosiege": "424"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -41,17 +41,17 @@
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_frederic-descrozaille",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
+   "curAngleIndex": 32,
    "curRadiusIndex": 5,
-   "id": "ai12ri5",
-   "no": 181,
+   "id": "ai32ri5",
+   "no": 424,
    "polar": {
-    "angle": 0.8021087626186706,
+    "angle": 2.138956700316455,
     "radius": 0.625
    },
    "pos": {
-    "x": 0.4344952672966514,
-    "y": -0.44935362625833014
+    "x": -0.33630147072710787,
+    "y": -0.5269118244169859
    }
   }
  },
