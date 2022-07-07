@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721134.jpg",
-  "nosiege": "448"
+  "nosiege": "393"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -47,17 +47,17 @@
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_roland-lescure",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 47,
-   "curRadiusIndex": 8,
-   "id": "ai47ri8",
-   "no": 448,
+   "curAngleIndex": 49,
+   "curRadiusIndex": 10,
+   "id": "ai49ri10",
+   "no": 393,
    "polar": {
-    "angle": 2.2038038017719446,
-    "radius": 0.8125
+    "angle": 1.9004696299493808,
+    "radius": 0.9375
    },
    "pos": {
-    "x": -0.480652422585987,
-    "y": -0.6552092804834402
+    "x": -0.30350057067967573,
+    "y": -0.8871892679776126
    }
   }
  },
