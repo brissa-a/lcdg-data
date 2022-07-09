@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721410.jpg",
-  "nosiege": "105"
+  "nosiege": "106"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -136,17 +136,17 @@
  "datan": "https://datan.fr/deputes/savoie-73/depute_emilie-bonnivard",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
+   "curAngleIndex": 12,
    "curRadiusIndex": 6,
-   "id": "ai11ri6",
-   "no": 105,
+   "id": "ai12ri6",
+   "no": 106,
    "polar": {
-    "angle": 0.6520286639525986,
+    "angle": 0.7113039970391984,
     "radius": 0.6875
    },
    "pos": {
-    "x": 0.5464624284716804,
-    "y": -0.4172575796519947
+    "x": 0.5207889789861139,
+    "y": -0.4489039412012593
    }
   }
  },

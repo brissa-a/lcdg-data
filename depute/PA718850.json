@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Les Républicains",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/718850.jpg",
-  "nosiege": "106"
+  "nosiege": "104"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -108,17 +108,17 @@
  "datan": "https://datan.fr/deputes/ardennes-08/depute_pierre-cordier",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 12,
+   "curAngleIndex": 10,
    "curRadiusIndex": 6,
-   "id": "ai12ri6",
-   "no": 106,
+   "id": "ai10ri6",
+   "no": 104,
    "polar": {
-    "angle": 0.7113039970391984,
+    "angle": 0.5927533308659987,
     "radius": 0.6875
    },
    "pos": {
-    "x": 0.5207889789861139,
-    "y": -0.4489039412012593
+    "x": 0.5702164087470138,
+    "y": -0.3841455856362521
    }
   }
  },
