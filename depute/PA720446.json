@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720446.jpg",
-  "nosiege": "344"
+  "nosiege": "424"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -54,17 +54,17 @@
  "datan": "https://datan.fr/deputes/nord-59/depute_brigitte-liso",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 26,
+   "curAngleIndex": 32,
    "curRadiusIndex": 5,
-   "id": "ai26ri5",
-   "no": 344,
+   "id": "ai32ri5",
+   "no": 424,
    "polar": {
-    "angle": 1.7379023190071197,
+    "angle": 2.138956700316455,
     "radius": 0.625
    },
    "pos": {
-    "x": -0.10395584661445627,
-    "y": -0.6164157557879497
+    "x": -0.33630147072710787,
+    "y": -0.5269118244169859
    }
   }
  },
