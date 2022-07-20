@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719798.jpg",
-  "nosiege": "360"
+  "nosiege": "356"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -95,17 +95,17 @@
  "datan": "https://datan.fr/deputes/indre-et-loire-37/depute_daniel-labaronne",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 31,
+   "curAngleIndex": 27,
    "curRadiusIndex": 7,
-   "id": "ai31ri7",
-   "no": 360,
+   "id": "ai27ri7",
+   "no": 356,
    "polar": {
-    "angle": 1.837535325684596,
+    "angle": 1.6004339933381966,
     "radius": 0.75
    },
    "pos": {
-    "x": -0.19769037455180077,
-    "y": -0.7236197245085977
+    "x": -0.02222499586691983,
+    "y": -0.7498188442449469
    }
   }
  },
