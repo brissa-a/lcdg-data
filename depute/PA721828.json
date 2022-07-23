@@ -1,0 +1,24 @@
+{
+ "an_data_depute": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/Fanta%20BERETE/",
+  "twitter_link": "https://twitter.com/@Fanta_B/"
+ },
+ "circo": {
+  "acteurId": "OMC_PA721828",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 15eme arrondissement (75015)",
+   "Paris 7eme arrondissement (75007)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Berete",
+  "numCirco": "12",
+  "numDepartement": "75",
+  "prenom": "Fanta"
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721828",
+ "uid": "PA721828"
+}

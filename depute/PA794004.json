@@ -1,0 +1,29 @@
+{
+ "an_data_depute": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794004",
+  "civ": "Mme",
+  "communes": [
+   "Bernin (38190)",
+   "Biviers (38330)",
+   "Corenc (38700)",
+   "Grenoble (38000)",
+   "Grenoble (38100)",
+   "La Tronche (38700)",
+   "Le Sappey-en-Chartreuse (38700)",
+   "Meylan (38240)",
+   "Montbonnot-Saint-Martin (38330)",
+   "Saint-Ismier (38330)",
+   "Saint-Nazaire-les-Eymes (38330)"
+  ],
+  "departement": "Isère",
+  "group": "Non inscrit",
+  "nom": "Hugues",
+  "numCirco": "1",
+  "numDepartement": "38",
+  "prenom": "Servane"
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794004",
+ "uid": "PA794004"
+}

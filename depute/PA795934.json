@@ -1,0 +1,23 @@
+{
+ "an_data_depute": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795934",
+  "civ": "Mme",
+  "communes": [
+   "Boulogne-Billancourt (92100)",
+   "Issy-les-Moulineaux (92130)",
+   "Meudon (92190)",
+   "Meudon (92360)",
+   "Vanves (92170)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Non inscrit",
+  "nom": "Guichard",
+  "numCirco": "10",
+  "numDepartement": "92",
+  "prenom": "Claire"
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795934",
+ "uid": "PA795934"
+}

@@ -1,0 +1,22 @@
+{
+ "an_data_depute": {},
+ "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795068",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 11eme arrondissement (75011)",
+   "Paris 12eme arrondissement (75012)",
+   "Paris 4eme arrondissement (75004)"
+  ],
+  "departement": "Paris",
+  "group": "Non inscrit",
+  "nom": "Chassaniol",
+  "numCirco": "7",
+  "numDepartement": "75",
+  "prenom": "Clara"
+ },
+ "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795068",
+ "uid": "PA795068"
+}

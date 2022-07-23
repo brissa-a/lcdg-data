@@ -11,12 +11,6 @@
   },
   "nom": "Patricia Lemoine"
  },
- "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/721632.jpg",
-  "nosiege": "147"
- },
- "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA721632",
@@ -79,29 +73,13 @@
    "Voulangis (77580)"
   ],
   "departement": "Seine-et-marne",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Lemoine",
   "numCirco": "5",
   "numDepartement": "77",
   "prenom": "Patricia"
  },
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_patricia-lemoine",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 18,
-   "curRadiusIndex": 10,
-   "id": "ai18ri10",
-   "no": 147,
-   "polar": {
-    "angle": 0.6981317007977318,
-    "radius": 0.9375
-   },
-   "pos": {
-    "x": 0.7181666654240418,
-    "y": -0.6027325263582047
-   }
-  }
- },
  "nosdeputes_link": "https://www.nosdeputes.fr/Patricia-Lemoine",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721632",
  "scrutins": {

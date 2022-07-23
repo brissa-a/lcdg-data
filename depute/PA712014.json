@@ -11,12 +11,6 @@
   },
   "nom": "Vincent Ledoux"
  },
- "an_www_depute": {
-  "groupe": "Agir ensemble",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/712014.jpg",
-  "nosiege": "226"
- },
- "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/vincent.ledoux.313/",
   "twitter_link": "https://twitter.com/@VincentLedoux59/"
@@ -33,29 +27,13 @@
    "Tourcoing (59200)"
   ],
   "departement": "Nord",
-  "group": "Agir ensemble",
+  "group": "Non inscrit",
   "nom": "Ledoux",
   "numCirco": "10",
   "numDepartement": "59",
   "prenom": "Vincent"
  },
  "datan": "https://datan.fr/deputes/nord-59/depute_vincent-ledoux",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 22,
-   "curRadiusIndex": 10,
-   "id": "ai22ri10",
-   "no": 226,
-   "polar": {
-    "angle": 0.8532720787527833,
-    "radius": 0.9375
-   },
-   "pos": {
-    "x": 0.6164262830334971,
-    "y": -0.7064858040185076
-   }
-  }
- },
  "nosdeputes_link": "https://www.nosdeputes.fr/Vincent-Ledoux",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA712014",
  "scrutins": {
