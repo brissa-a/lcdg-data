@@ -11,6 +11,12 @@
   },
   "nom": "Patricia Lemoine"
  },
+ "an_www_depute": {
+  "groupe": "Non inscrit",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721632.jpg",
+  "nosiege": "487"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA721632",
@@ -80,6 +86,26 @@
   "prenom": "Patricia"
  },
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_patricia-lemoine",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 60,
+   "curRadiusIndex": 11,
+   "id": "ai60ri11",
+   "no": 487,
+   "polar": {
+    "angle": 2.3860197369036404,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.7278788103694941,
+    "y": -0.6858413655068314
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "P_Lemoine",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721632"
+ },
  "nosdeputes_link": "https://www.nosdeputes.fr/Patricia-Lemoine",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721632",
  "scrutins": {

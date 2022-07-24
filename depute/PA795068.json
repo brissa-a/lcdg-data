@@ -17,6 +17,10 @@
   "numDepartement": "75",
   "prenom": "Clara"
  },
+ "nd_twitter": {
+  "twitter": "Cl_Chassaniol",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795068"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795068",
  "uid": "PA795068"
 }

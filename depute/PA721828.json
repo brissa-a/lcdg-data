@@ -19,6 +19,10 @@
   "numDepartement": "75",
   "prenom": "Fanta"
  },
+ "nd_twitter": {
+  "twitter": "Fanta_B",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721828"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721828",
  "uid": "PA721828"
 }

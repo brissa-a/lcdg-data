@@ -24,6 +24,10 @@
   "numDepartement": "38",
   "prenom": "Servane"
  },
+ "nd_twitter": {
+  "twitter": "ServaneHugues",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794004"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794004",
  "uid": "PA794004"
 }

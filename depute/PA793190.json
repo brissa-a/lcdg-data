@@ -105,6 +105,10 @@
   "numDepartement": "07",
   "prenom": "Laurence"
  },
+ "nd_twitter": {
+  "twitter": "LHeydelGrillere",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793190"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793190",
  "uid": "PA793190"
 }

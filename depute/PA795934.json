@@ -18,6 +18,10 @@
   "numDepartement": "92",
   "prenom": "Claire"
  },
+ "nd_twitter": {
+  "twitter": "guichard_claire",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795934"
+ },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795934",
  "uid": "PA795934"
 }
