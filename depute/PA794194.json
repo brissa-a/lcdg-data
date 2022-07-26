@@ -1,6 +1,9 @@
 {
  "an_data_depute": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/mathilde%20desjonqu%C3%A8res/",
+  "twitter_link": "https://twitter.com/@mathilde%20desjonqR/"
+ },
  "circo": {
   "acteurId": "OMC_PA794194",
   "civ": "Mme",
@@ -52,7 +55,7 @@
    "Vineuil (Loir-et-Cher) (41350)"
   ],
   "departement": "Loir-et-cher",
-  "group": "Non inscrit",
+  "group": null,
   "nom": "Desjonquères",
   "numCirco": "1",
   "numDepartement": "41",
