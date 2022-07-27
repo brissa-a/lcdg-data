@@ -1,5 +1,10 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795046.jpg",
+  "nosiege": "483"
+ },
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA795046",
@@ -15,6 +20,22 @@
   "numCirco": "3",
   "numDepartement": "75",
   "prenom": "Caroline"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 56,
+   "curRadiusIndex": 11,
+   "id": "ai56ri11",
+   "no": 483,
+   "polar": {
+    "angle": 2.2269517544433977,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.6100751460105244,
+    "y": -0.7925002131609329
+   }
+  }
  },
  "nd_twitter": {
   "twitter": "CarolineYADAN",

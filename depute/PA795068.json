@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795068.jpg",
+  "nosiege": "400"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA795068",
@@ -16,6 +22,22 @@
   "numCirco": "7",
   "numDepartement": "75",
   "prenom": "Clara"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 43,
+   "curRadiusIndex": 11,
+   "id": "ai43ri11",
+   "no": 400,
+   "polar": {
+    "angle": 1.709980811447609,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.13873553198906818,
+    "y": -0.9905252638291588
+   }
+  }
  },
  "nd_twitter": {
   "twitter": "Cl_Chassaniol",

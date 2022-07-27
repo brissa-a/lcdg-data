@@ -1,5 +1,10 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793190.jpg",
+  "nosiege": "398"
+ },
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA793190",
@@ -104,6 +109,22 @@
   "numCirco": "2",
   "numDepartement": "07",
   "prenom": "Laurence"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 41,
+   "curRadiusIndex": 11,
+   "id": "ai41ri11",
+   "no": 398,
+   "polar": {
+    "angle": 1.6304468202174878,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.05961512516982003,
+    "y": -0.9984187944546037
+   }
+  }
  },
  "nd_twitter": {
   "twitter": "LHeydelGrillere",

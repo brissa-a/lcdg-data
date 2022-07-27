@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793416.jpg",
+  "nosiege": "407"
+ },
+ "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/freddy.sertin/",
   "twitter_link": "https://twitter.com/@SertinFreddy/"
@@ -127,6 +133,22 @@
   "numCirco": "6",
   "numDepartement": "14",
   "prenom": "Freddy"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 50,
+   "curRadiusIndex": 11,
+   "id": "ai50ri11",
+   "no": 407,
+   "polar": {
+    "angle": 1.9883497807530337,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.4055253208129939,
+    "y": -0.9142645342347377
+   }
+  }
  },
  "nd_twitter": {
   "twitter": "SertinFreddy",

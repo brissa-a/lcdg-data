@@ -1,5 +1,10 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Démocrate (MoDem et Indépendants)",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794194.jpg",
+  "nosiege": "165"
+ },
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/mathilde%20desjonqu%C3%A8res/",
   "twitter_link": "https://twitter.com/@mathilde%20desjonqR/"
@@ -55,11 +60,27 @@
    "Vineuil (Loir-et-Cher) (41350)"
   ],
   "departement": "Loir-et-cher",
-  "group": null,
+  "group": "Démocrate (MoDem et Indépendants)",
   "nom": "Desjonquères",
   "numCirco": "1",
   "numDepartement": "41",
   "prenom": "Mathilde"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 6,
+   "curRadiusIndex": 1,
+   "id": "ai6ri1",
+   "no": 165,
+   "polar": {
+    "angle": 0.8195459096321199,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": 0.25595742870699534,
+    "y": -0.2741176715074525
+   }
+  }
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794194",
  "uid": "PA794194"

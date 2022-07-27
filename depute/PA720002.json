@@ -1,7 +1,7 @@
 {
  "an_data_depute": {},
  "an_www_depute": {
-  "groupe": "Démocrate (MoDem et Indépendants)",
+  "groupe": "",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720002.jpg",
   "nosiege": "306"
  },
@@ -38,7 +38,7 @@
    "Treillières (44119)"
   ],
   "departement": "Loire-atlantique",
-  "group": "Démocrate (MoDem et Indépendants)",
+  "group": null,
   "nom": "El Haïry",
   "numCirco": "5",
   "numDepartement": "44",

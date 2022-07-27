@@ -1,5 +1,10 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721828.jpg",
+  "nosiege": "324"
+ },
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/Fanta%20BERETE/",
   "twitter_link": "https://twitter.com/@Fanta_B/"
@@ -18,6 +23,22 @@
   "numCirco": "12",
   "numDepartement": "75",
   "prenom": "Fanta"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 36,
+   "curRadiusIndex": 11,
+   "id": "ai36ri11",
+   "no": 324,
+   "polar": {
+    "angle": 1.4316118421421844,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.1387355319890681,
+    "y": -0.9905252638291588
+   }
+  }
  },
  "nd_twitter": {
   "twitter": "Fanta_B",

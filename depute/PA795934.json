@@ -1,5 +1,10 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795934.jpg",
+  "nosiege": "484"
+ },
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA795934",
@@ -17,6 +22,22 @@
   "numCirco": "10",
   "numDepartement": "92",
   "prenom": "Claire"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 57,
+   "curRadiusIndex": 11,
+   "id": "ai57ri11",
+   "no": 484,
+   "polar": {
+    "angle": 2.2667187500584585,
+    "radius": 1
+   },
+   "pos": {
+    "x": -0.6410936375922202,
+    "y": -0.7676144032094913
+   }
+  }
  },
  "nd_twitter": {
   "twitter": "guichard_claire",
