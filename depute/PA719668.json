@@ -12,7 +12,7 @@
   "nom": "Patricia Mirallès"
  },
  "an_www_depute": {
-  "groupe": "Renaissance",
+  "groupe": "",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719668.jpg",
   "nosiege": "475"
  },
@@ -37,7 +37,7 @@
    "Villeneuve-lès-Maguelone (34750)"
   ],
   "departement": "Hérault",
-  "group": "Renaissance",
+  "group": null,
   "nom": "Mirallès",
   "numCirco": "1",
   "numDepartement": "34",

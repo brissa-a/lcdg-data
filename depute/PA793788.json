@@ -1,7 +1,7 @@
 {
  "an_data_depute": {},
  "an_www_depute": {
-  "groupe": "Renaissance",
+  "groupe": "",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793788.jpg",
   "nosiege": "486"
  },
@@ -124,7 +124,7 @@
    "Villenouvelle (31290)"
   ],
   "departement": "Haute-garonne",
-  "group": "Renaissance",
+  "group": null,
   "nom": "Faure",
   "numCirco": "10",
   "numDepartement": "31",

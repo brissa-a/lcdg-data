@@ -12,7 +12,7 @@
   "nom": "Bérangère Couillard"
  },
  "an_www_depute": {
-  "groupe": "Renaissance",
+  "groupe": "",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719624.jpg",
   "nosiege": "323"
  },
@@ -31,7 +31,7 @@
    "Pessac (33600)"
   ],
   "departement": "Gironde",
-  "group": "Renaissance",
+  "group": null,
   "nom": "Couillard",
   "numCirco": "7",
   "numDepartement": "33",

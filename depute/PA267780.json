@@ -12,7 +12,7 @@
   "nom": "Agnès Firmin Le Bodo"
  },
  "an_www_depute": {
-  "groupe": "Horizons et apparentés",
+  "groupe": "",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/267780.jpg",
   "nosiege": "220"
  },
@@ -42,7 +42,7 @@
    "Sainte-Adresse (76310)"
   ],
   "departement": "Seine-maritime",
-  "group": "Horizons et apparentés",
+  "group": null,
   "nom": "Firmin Le Bodo",
   "numCirco": "7",
   "numDepartement": "76",

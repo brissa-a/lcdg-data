@@ -1,7 +1,7 @@
 {
  "an_data_depute": {},
  "an_www_depute": {
-  "groupe": "Démocrate (MoDem et Indépendants)",
+  "groupe": "",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719914.jpg",
   "nosiege": "269"
  },
@@ -111,7 +111,7 @@
    "Ychoux (40160)"
   ],
   "departement": "Landes",
-  "group": "Démocrate (MoDem et Indépendants)",
+  "group": null,
   "nom": "Darrieussecq",
   "numCirco": "1",
   "numDepartement": "40",
