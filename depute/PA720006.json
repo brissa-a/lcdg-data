@@ -11,12 +11,6 @@
   },
   "nom": "Luc Geismar"
  },
- "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/720006.jpg",
-  "nosiege": "189"
- },
- "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA720006",
@@ -46,29 +40,13 @@
    "Treillières (44119)"
   ],
   "departement": "Loire-atlantique",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Démocrate (MoDem et Indépendants)",
   "nom": "Geismar",
   "numCirco": "5",
   "numDepartement": "44",
   "prenom": "Luc"
  },
  "datan": "https://datan.fr/deputes/loire-atlantique-44/depute_luc-geismar",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 15,
-   "curRadiusIndex": 6,
-   "id": "ai15ri6",
-   "no": 189,
-   "polar": {
-    "angle": 0.8891299962989981,
-    "radius": 0.6875
-   },
-   "pos": {
-    "x": 0.4331853924624263,
-    "y": -0.5339657047422877
-   }
-  }
- },
  "nosdeputes_link": "https://www.nosdeputes.fr/Luc-Geismar",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720006",
  "scrutins": {

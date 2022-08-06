@@ -11,13 +11,10 @@
   },
   "nom": "Fabien Lainé"
  },
- "an_www_depute": {
-  "groupe": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
-  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/15/photos/719918.jpg",
-  "nosiege": "249"
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/fabienlainesanguinet/",
+  "twitter_link": "https://twitter.com/@fabien_laine/"
  },
- "an_www_pic": {},
- "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA719918",
   "civ": "M.",
@@ -119,29 +116,13 @@
    "Ychoux (40160)"
   ],
   "departement": "Landes",
-  "group": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+  "group": "Démocrate (MoDem et Indépendants)",
   "nom": "Lainé",
   "numCirco": "1",
   "numDepartement": "40",
   "prenom": "Fabien"
  },
  "datan": "https://datan.fr/deputes/landes-40/depute_fabien-laine",
- "lcdg": {
-  "siege": {
-   "curAngleIndex": 12,
-   "curRadiusIndex": 2,
-   "id": "ai12ri2",
-   "no": 249,
-   "polar": {
-    "angle": 1.2999693738992248,
-    "radius": 0.4375
-   },
-   "pos": {
-    "x": 0.11704364810653407,
-    "y": -0.4216364667044823
-   }
-  }
- },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabien-Lainé",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719918",
  "scrutins": {
