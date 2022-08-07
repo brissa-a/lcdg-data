@@ -123,6 +123,10 @@
   "prenom": "Fabien"
  },
  "datan": "https://datan.fr/deputes/landes-40/depute_fabien-laine",
+ "nd_twitter": {
+  "twitter": "fabien_laine",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719918"
+ },
  "nosdeputes_link": "https://www.nosdeputes.fr/Fabien-Lainé",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719918",
  "scrutins": {
