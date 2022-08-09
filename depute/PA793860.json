@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Démocrate (MoDem et Indépendants)",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793860.jpg",
+  "nosiege": "323"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA793860",
@@ -16,6 +22,26 @@
   "numCirco": "7",
   "numDepartement": "33",
   "prenom": "Frédéric"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 35,
+   "curRadiusIndex": 11,
+   "id": "ai35ri11",
+   "no": 323,
+   "polar": {
+    "angle": 1.3918448465271236,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.17799789567755026,
+    "y": -0.984225420043508
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "FZ_Cestas",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793860"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793860",
  "uid": "PA793860"

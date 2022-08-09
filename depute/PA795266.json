@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Horizons et apparentés",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795266.jpg",
+  "nosiege": "220"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA795266",
@@ -27,6 +33,26 @@
   "numCirco": "7",
   "numDepartement": "76",
   "prenom": "Agnès"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 23,
+   "curRadiusIndex": 9,
+   "id": "ai23ri9",
+   "no": 220,
+   "polar": {
+    "angle": 1.0471975511965976,
+    "radius": 0.875
+   },
+   "pos": {
+    "x": 0.4375000000000001,
+    "y": -0.7579220469366741
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "AgnesCarel76",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795266"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795266",
  "uid": "PA795266"

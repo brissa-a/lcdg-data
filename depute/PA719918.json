@@ -11,6 +11,12 @@
   },
   "nom": "Fabien Lainé"
  },
+ "an_www_depute": {
+  "groupe": "Démocrate (MoDem et Indépendants)",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719918.jpg",
+  "nosiege": "269"
+ },
+ "an_www_pic": {},
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/fabienlainesanguinet/",
   "twitter_link": "https://twitter.com/@fabien_laine/"
@@ -123,6 +129,22 @@
   "prenom": "Fabien"
  },
  "datan": "https://datan.fr/deputes/landes-40/depute_fabien-laine",
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 21,
+   "curRadiusIndex": 6,
+   "id": "ai21ri6",
+   "no": 269,
+   "polar": {
+    "angle": 1.2447819948185974,
+    "radius": 0.6875
+   },
+   "pos": {
+    "x": 0.2201855245307008,
+    "y": -0.6514156337528634
+   }
+  }
+ },
  "nd_twitter": {
   "twitter": "fabien_laine",
   "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719918"

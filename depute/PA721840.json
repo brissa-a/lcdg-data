@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Démocrate (MoDem et Indépendants)",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721840.jpg",
+  "nosiege": "166"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA721840",
@@ -32,6 +38,26 @@
   "numCirco": "2",
   "numDepartement": "78",
   "prenom": "Anne"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 7,
+   "curRadiusIndex": 1,
+   "id": "ai7ri1",
+   "no": 166,
+   "polar": {
+    "angle": 0.9561368945708066,
+    "radius": 0.375
+   },
+   "pos": {
+    "x": 0.21625512079307518,
+    "y": -0.3064242808369663
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "anne_grignon",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721840"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA721840",
  "uid": "PA721840"

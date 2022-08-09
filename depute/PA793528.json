@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/793528.jpg",
+  "nosiege": "325"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA793528",
@@ -95,6 +101,22 @@
   "numCirco": "2",
   "numDepartement": "22",
   "prenom": "Chantal"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 37,
+   "curRadiusIndex": 11,
+   "id": "ai37ri11",
+   "no": 325,
+   "polar": {
+    "angle": 1.471378837757245,
+    "radius": 1
+   },
+   "pos": {
+    "x": 0.09925379890806155,
+    "y": -0.9952588835747879
+   }
+  }
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA793528",
  "uid": "PA793528"

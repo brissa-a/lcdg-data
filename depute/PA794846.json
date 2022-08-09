@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794846.jpg",
+  "nosiege": "281"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA794846",
@@ -26,6 +32,26 @@
   "numCirco": "5",
   "numDepartement": "68",
   "prenom": "Charlotte"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 25,
+   "curRadiusIndex": 7,
+   "id": "ai25ri7",
+   "no": 281,
+   "polar": {
+    "angle": 1.4818833271649967,
+    "radius": 0.75
+   },
+   "pos": {
+    "x": 0.06659692149220117,
+    "y": -0.7471850782076256
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "C_GoetschyB",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794846"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA794846",
  "uid": "PA794846"

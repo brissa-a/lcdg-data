@@ -1,5 +1,10 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720174.jpg",
+  "nosiege": "474"
+ },
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA720174",
@@ -37,6 +42,26 @@
   "numCirco": "1",
   "numDepartement": "54",
   "prenom": "Philippe"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 61,
+   "curRadiusIndex": 10,
+   "id": "ai61ri10",
+   "no": 474,
+   "polar": {
+    "angle": 2.3658907638145354,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.6693091261480302,
+    "y": -0.6565835505531296
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "P_Guillemard",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720174"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720174",
  "uid": "PA720174"

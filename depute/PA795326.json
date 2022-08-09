@@ -1,5 +1,11 @@
 {
  "an_data_depute": {},
+ "an_www_depute": {
+  "groupe": "Renaissance",
+  "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/795326.jpg",
+  "nosiege": "393"
+ },
+ "an_www_pic": {},
  "an_www_social": {},
  "circo": {
   "acteurId": "OMC_PA795326",
@@ -23,6 +29,26 @@
   "numCirco": "1",
   "numDepartement": "099",
   "prenom": "Christopher"
+ },
+ "lcdg": {
+  "siege": {
+   "curAngleIndex": 49,
+   "curRadiusIndex": 10,
+   "id": "ai49ri10",
+   "no": 393,
+   "polar": {
+    "angle": 1.9004696299493808,
+    "radius": 0.9375
+   },
+   "pos": {
+    "x": -0.30350057067967573,
+    "y": -0.8871892679776126
+   }
+  }
+ },
+ "nd_twitter": {
+  "twitter": "cjweissberg",
+  "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795326"
  },
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795326",
  "uid": "PA795326"
