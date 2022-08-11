@@ -6,7 +6,10 @@
   "nosiege": "602"
  },
  "an_www_pic": {},
- "an_www_social": {},
+ "an_www_social": {
+  "facebook_link": "https://fr-fr.facebook.com/LegrainSarah/",
+  "twitter_link": "https://twitter.com/S_Legrain/"
+ },
  "circo": {
   "acteurId": "OMC_PA791824",
   "civ": "Mme",
