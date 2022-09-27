@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794094.jpg",
-  "nosiege": "325"
+  "nosiege": "542"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -35,17 +35,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 37,
-   "curRadiusIndex": 11,
-   "id": "ai37ri11",
-   "no": 325,
+   "curAngleIndex": 55,
+   "curRadiusIndex": 9,
+   "id": "ai55ri9",
+   "no": 542,
    "polar": {
-    "angle": 1.471378837757245,
-    "radius": 1
+    "angle": 2.5041680572092555,
+    "radius": 0.875
    },
    "pos": {
-    "x": 0.09925379890806155,
-    "y": -0.9952588835747879
+    "x": -0.703177226023106,
+    "y": -0.5208397294755254
    }
   }
  },
