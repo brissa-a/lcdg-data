@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/605694.jpg",
-  "nosiege": "318"
+  "nosiege": "175"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/charente-maritime-17/depute_olivier-falorni",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 30,
-   "curRadiusIndex": 11,
-   "id": "ai30ri11",
-   "no": 318,
+   "curAngleIndex": 12,
+   "curRadiusIndex": 3,
+   "id": "ai12ri3",
+   "no": 175,
    "polar": {
-    "angle": 1.1930098684518202,
-    "radius": 1
+    "angle": 1.1780972450961724,
+    "radius": 0.5
    },
    "pos": {
-    "x": 0.36886392452400785,
-    "y": -0.9296671752216756
+    "x": 0.19134171618254492,
+    "y": -0.4620310960486361
    }
   }
  },

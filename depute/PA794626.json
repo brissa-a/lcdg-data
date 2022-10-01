@@ -3,7 +3,7 @@
  "an_www_depute": {
   "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/794626.jpg",
-  "nosiege": "321"
+  "nosiege": "318"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -105,17 +105,17 @@
  },
  "lcdg": {
   "siege": {
-   "curAngleIndex": 33,
+   "curAngleIndex": 30,
    "curRadiusIndex": 11,
-   "id": "ai33ri11",
-   "no": 321,
+   "id": "ai30ri11",
+   "no": 318,
    "polar": {
-    "angle": 1.3123108552970022,
+    "angle": 1.1930098684518202,
     "radius": 1
    },
    "pos": {
-    "x": 0.2556166324404747,
-    "y": -0.9669693665150557
+    "x": 0.36886392452400785,
+    "y": -0.9296671752216756
    }
   }
  },
