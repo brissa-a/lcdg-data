@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/720704.jpg",
-  "nosiege": "248"
+  "nosiege": "249"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -129,17 +129,17 @@
  "datan": "https://datan.fr/deputes/puy-de-dome-63/depute_laurence-vichnievsky",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 11,
+   "curAngleIndex": 12,
    "curRadiusIndex": 2,
-   "id": "ai11ri2",
-   "no": 248,
+   "id": "ai12ri2",
+   "no": 249,
    "polar": {
-    "angle": 1.191638592740956,
+    "angle": 1.2999693738992248,
     "radius": 0.4375
    },
    "pos": {
-    "x": 0.1619354429612125,
-    "y": -0.4065076693843236
+    "x": 0.11704364810653407,
+    "y": -0.4216364667044823
    }
   }
  },
