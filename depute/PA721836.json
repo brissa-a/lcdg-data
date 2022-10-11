@@ -12,9 +12,9 @@
   "nom": "Jean-Noël Barrot"
  },
  "an_www_depute": {
-  "groupe": "",
+  "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/721836.jpg",
-  "nosiege": "166"
+  "nosiege": "321"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -47,7 +47,7 @@
    "Vélizy-Villacoublay (78140)"
   ],
   "departement": "Yvelines",
-  "group": null,
+  "group": "Démocrate (MoDem et Indépendants)",
   "nom": "Barrot",
   "numCirco": "2",
   "numDepartement": "78",
@@ -56,17 +56,17 @@
  "datan": "https://datan.fr/deputes/yvelines-78/depute_jeannoel-barrot",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 7,
-   "curRadiusIndex": 1,
-   "id": "ai7ri1",
-   "no": 166,
+   "curAngleIndex": 33,
+   "curRadiusIndex": 11,
+   "id": "ai33ri11",
+   "no": 321,
    "polar": {
-    "angle": 0.9561368945708066,
-    "radius": 0.375
+    "angle": 1.3123108552970022,
+    "radius": 1
    },
    "pos": {
-    "x": 0.21625512079307518,
-    "y": -0.3064242808369663
+    "x": 0.2556166324404747,
+    "y": -0.9669693665150557
    }
   }
  },
