@@ -14,7 +14,7 @@
  "an_www_depute": {
   "groupe": "Démocrate (MoDem et Indépendants)",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719822.jpg",
-  "nosiege": "264"
+  "nosiege": "169"
  },
  "an_www_pic": {},
  "an_www_social": {
@@ -93,17 +93,17 @@
  "datan": "https://datan.fr/deputes/indre-et-loire-37/depute_sabine-thillaye",
  "lcdg": {
   "siege": {
-   "curAngleIndex": 20,
-   "curRadiusIndex": 5,
-   "id": "ai20ri5",
-   "no": 264,
+   "curAngleIndex": 8,
+   "curRadiusIndex": 2,
+   "id": "ai8ri2",
+   "no": 169,
    "polar": {
-    "angle": 1.3368479376977844,
-    "radius": 0.625
+    "angle": 0.8666462492661499,
+    "radius": 0.4375
    },
    "pos": {
-    "x": 0.14488759391720513,
-    "y": -0.6080943670064962
+    "x": 0.2832314995920496,
+    "y": -0.3335118244773712
    }
   }
  },
