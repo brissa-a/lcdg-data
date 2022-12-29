@@ -7,24 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA794938",
-  "civ": "M.",
-  "communes": [
-   "Corbas (69960)",
-   "Feyzin (69320)",
-   "Saint-Fons (69190)",
-   "Saint-Priest (69800)",
-   "Solaize (69360)",
-   "Vénissieux (69200)"
-  ],
-  "departement": "Rhône",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Boumertit",
-  "numCirco": "14",
-  "numDepartement": "69",
-  "prenom": "Idir"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 65,

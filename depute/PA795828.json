@@ -7,20 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA795828",
-  "civ": "M.",
-  "communes": [
-   "Fort-de-France (97200)",
-   "Fort-de-France (97234)"
-  ],
-  "departement": "Martinique",
-  "group": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
-  "nom": "Hajjar",
-  "numCirco": "3",
-  "numDepartement": "972",
-  "prenom": "Johnny"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 49,

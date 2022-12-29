@@ -10,28 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/midypaul/",
   "twitter_link": "https://twitter.com/@midy_paul/"
  },
- "circo": {
-  "acteurId": "OMC_PA795664",
-  "civ": "M.",
-  "communes": [
-   "Bièvres (Essonne) (91570)",
-   "Bures-sur-Yvette (91440)",
-   "Gif-sur-Yvette (91190)",
-   "Les Ulis (91940)",
-   "Orsay (91400)",
-   "Saclay (91400)",
-   "Saint-Aubin (Essonne) (91190)",
-   "Vauhallan (91430)",
-   "Verrières-le-Buisson (91370)",
-   "Villiers-le-Bâcle (91190)"
-  ],
-  "departement": "Essonne",
-  "group": "Renaissance",
-  "nom": "Midy",
-  "numCirco": "5",
-  "numDepartement": "91",
-  "prenom": "Paul"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 39,

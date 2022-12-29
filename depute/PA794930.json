@@ -10,30 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/Tanzilli2022/",
   "twitter_link": "https://twitter.com/@sarah_tanzilli/"
  },
- "circo": {
-  "acteurId": "OMC_PA794930",
-  "civ": "Mme",
-  "communes": [
-   "Chassieu (69680)",
-   "Colombier-Saugnieu (69124)",
-   "Colombier-Saugnieu (69125)",
-   "Décines-Charpieu (69150)",
-   "Genas (69740)",
-   "Jonage (69330)",
-   "Jons (69330)",
-   "Meyzieu (69330)",
-   "Pusignan (69330)",
-   "Saint-Bonnet-de-Mure (69720)",
-   "Saint-Laurent-de-Mure (69720)",
-   "Saint-Priest (69800)"
-  ],
-  "departement": "Rhône",
-  "group": "Renaissance",
-  "nom": "Tanzilli",
-  "numCirco": "13",
-  "numDepartement": "69",
-  "prenom": "Sarah"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 52,

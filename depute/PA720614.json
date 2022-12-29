@@ -21,32 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/MarineLePen/",
   "twitter_link": "https://twitter.com/@MLP_officiel/"
  },
- "circo": {
-  "acteurId": "OMC_PA720614",
-  "civ": "Mme",
-  "communes": [
-   "Carvin (62220)",
-   "Courcelles-lès-Lens (62970)",
-   "Courrières (62710)",
-   "Dourges (62119)",
-   "Drocourt (Pas-de-Calais) (62320)",
-   "Evin-Malmaison (62141)",
-   "Hénin-Beaumont (62110)",
-   "Leforest (62790)",
-   "Libercourt (62820)",
-   "Montigny-en-Gohelle (62640)",
-   "Méricourt (62680)",
-   "Noyelles-Godault (62950)",
-   "Oignies (62590)",
-   "Rouvroy (Pas-de-Calais) (62320)"
-  ],
-  "departement": "Pas-de-calais",
-  "group": "Rassemblement National",
-  "nom": "Le Pen",
-  "numCirco": "11",
-  "numDepartement": "62",
-  "prenom": "Marine"
- },
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_marine-lepen",
  "lcdg": {
   "siege": {

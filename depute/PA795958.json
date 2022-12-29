@@ -9,21 +9,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@benjaminhaddad/"
  },
- "circo": {
-  "acteurId": "OMC_PA795958",
-  "civ": "M.",
-  "communes": [
-   "Paris",
-   "Paris 16eme arrondissement (75016)",
-   "Paris 16eme arrondissement (75116)"
-  ],
-  "departement": "Paris",
-  "group": "Renaissance",
-  "nom": "Haddad",
-  "numCirco": "14",
-  "numDepartement": "75",
-  "prenom": "Benjamin"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 19,

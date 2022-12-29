@@ -7,28 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA719672",
-  "civ": "M.",
-  "communes": [
-   "Lattes (34970)",
-   "Lavérune (34880)",
-   "Montpellier (34000)",
-   "Montpellier (34070)",
-   "Montpellier (34080)",
-   "Montpellier (34090)",
-   "Palavas-les-Flots (34250)",
-   "Pérols (34470)",
-   "Saint-Jean-de-Védas (34430)",
-   "Villeneuve-lès-Maguelone (34750)"
-  ],
-  "departement": "Hérault",
-  "group": "Renaissance",
-  "nom": "Sorez",
-  "numCirco": "1",
-  "numDepartement": "34",
-  "prenom": "Philippe"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 62,

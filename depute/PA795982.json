@@ -9,21 +9,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@A_Saintoul/"
  },
- "circo": {
-  "acteurId": "OMC_PA795982",
-  "civ": "M.",
-  "communes": [
-   "Bagneux (Hauts-de-Seine) (92220)",
-   "Malakoff (92240)",
-   "Montrouge (92120)"
-  ],
-  "departement": "Hauts-de-seine",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Saintoul",
-  "numCirco": "11",
-  "numDepartement": "92",
-  "prenom": "Aurélien"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 70,

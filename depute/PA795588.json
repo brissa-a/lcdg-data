@@ -7,24 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA795588",
-  "civ": "Mme",
-  "communes": [
-   "Bondoufle (91070)",
-   "Corbeil-Essonnes (91100)",
-   "Courcouronnes (91080)",
-   "Evry (Essonne) (91000)",
-   "Lisses (91090)",
-   "Villabé (91100)"
-  ],
-  "departement": "Essonne",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Amrani",
-  "numCirco": "1",
-  "numDepartement": "91",
-  "prenom": "Farida"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 74,

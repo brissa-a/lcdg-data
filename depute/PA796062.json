@@ -10,22 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/thomas%20portes/",
   "twitter_link": "https://twitter.com/@Portes_Thomas/"
  },
- "circo": {
-  "acteurId": "OMC_PA796062",
-  "civ": "M.",
-  "communes": [
-   "Gournay-sur-Marne (93460)",
-   "Neuilly-Plaisance (93360)",
-   "Neuilly-sur-Marne (93330)",
-   "Noisy-le-Grand (93160)"
-  ],
-  "departement": "Seine-saint-denis",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Portes",
-  "numCirco": "3",
-  "numDepartement": "93",
-  "prenom": "Thomas"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 75,

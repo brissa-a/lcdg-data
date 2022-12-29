@@ -9,21 +9,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@arenasrodrigo_/"
  },
- "circo": {
-  "acteurId": "OMC_PA795084",
-  "civ": "M.",
-  "communes": [
-   "Paris",
-   "Paris 13eme arrondissement (75013)",
-   "Paris 14eme arrondissement (75014)"
-  ],
-  "departement": "Paris",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Arenas",
-  "numCirco": "10",
-  "numDepartement": "75",
-  "prenom": "Rodrigo"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 51,

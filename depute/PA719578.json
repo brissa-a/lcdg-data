@@ -20,26 +20,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@PrudhommeLoic/"
  },
- "circo": {
-  "acteurId": "OMC_PA719578",
-  "civ": "M.",
-  "communes": [
-   "Bordeaux (33000)",
-   "Bordeaux (33100)",
-   "Bordeaux (33200)",
-   "Bordeaux (33300)",
-   "Bordeaux (33800)",
-   "Bègles (33130)",
-   "Talence (33400)",
-   "Villenave-d'Ornon (33140)"
-  ],
-  "departement": "Gironde",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Prud'homme",
-  "numCirco": "3",
-  "numDepartement": "33",
-  "prenom": "Loïc"
- },
  "datan": "https://datan.fr/deputes/gironde-33/depute_loic-prudhomme",
  "lcdg": {
   "siege": {

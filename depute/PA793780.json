@@ -7,35 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA793780",
-  "civ": "Mme",
-  "communes": [
-   "Eaunes (31600)",
-   "Labarthe-sur-Lèze (31860)",
-   "Lagardelle-sur-Lèze (31870)",
-   "Pins-Justaret (31860)",
-   "Pinsaguel (31120)",
-   "Portet-sur-Garonne (31120)",
-   "Ramonville-Saint-Agne (31520)",
-   "Roques (Haute-Garonne) (31120)",
-   "Roquettes (31120)",
-   "Saubens (31600)",
-   "Toulouse (31000)",
-   "Toulouse (31100)",
-   "Toulouse (31200)",
-   "Toulouse (31300)",
-   "Toulouse (31400)",
-   "Toulouse (31500)",
-   "Villate (31860)"
-  ],
-  "departement": "Haute-garonne",
-  "group": "Écologiste - NUPES",
-  "nom": "Arrighi",
-  "numCirco": "9",
-  "numDepartement": "31",
-  "prenom": "Christine"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 45,

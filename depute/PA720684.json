@@ -21,43 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/pierrehenri.dumont/",
   "twitter_link": "https://twitter.com/@phdumont/"
  },
- "circo": {
-  "acteurId": "OMC_PA720684",
-  "civ": "M.",
-  "communes": [
-   "Audruicq (62370)",
-   "Bonningues-lès-Calais (62340)",
-   "Calais (62100)",
-   "Coquelles (62231)",
-   "Coulogne (62137)",
-   "Escalles (62179)",
-   "Fréthun (62185)",
-   "Guemps (62370)",
-   "Les Attaques (62730)",
-   "Marck (62730)",
-   "Nielles-lès-Calais (62185)",
-   "Nortkerque (62370)",
-   "Nouvelle-Eglise (62370)",
-   "Offekerque (62370)",
-   "Oye-Plage (62215)",
-   "Peuplingues (62231)",
-   "Polincove (62370)",
-   "Ruminghem (62370)",
-   "Saint-Folquin (62370)",
-   "Saint-Omer-Capelle (62162)",
-   "Saint-Tricat (62185)",
-   "Sainte-Marie-Kerque (62370)",
-   "Sangatte (62231)",
-   "Vieille-Eglise (62162)",
-   "Zutkerque (62370)"
-  ],
-  "departement": "Pas-de-calais",
-  "group": "Les Républicains",
-  "nom": "Dumont",
-  "numCirco": "7",
-  "numDepartement": "62",
-  "prenom": "Pierre-Henri"
- },
  "datan": "https://datan.fr/deputes/pas-de-calais-62/depute_pierrehenri-dumont",
  "lcdg": {
   "siege": {

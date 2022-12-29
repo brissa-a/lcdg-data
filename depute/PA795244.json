@@ -7,20 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA795244",
-  "civ": "M.",
-  "communes": [
-   "Miquelon-Langlade (97500)",
-   "Saint-Pierre (SAINT-PIERRE ET MIQUELON) (97500)"
-  ],
-  "departement": "Saint-pierre et miquelon",
-  "group": "Libertés, Indépendants, Outre-mer et Territoires",
-  "nom": "Lenormand",
-  "numCirco": "1",
-  "numDepartement": "975",
-  "prenom": "Stéphane"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 23,

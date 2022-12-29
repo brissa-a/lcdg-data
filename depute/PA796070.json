@@ -7,32 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA796070",
-  "civ": "M.",
-  "communes": [
-   "L'Etang-Salé (97427)",
-   "Les Avirons (97425)",
-   "Les Trois-Bassins (97426)",
-   "Saint-Leu (97416)",
-   "Saint-Leu (97424)",
-   "Saint-Leu (97436)",
-   "Saint-Louis (97421)",
-   "Saint-Louis (97450)",
-   "Saint-Paul (97411)",
-   "Saint-Paul (97422)",
-   "Saint-Paul (97423)",
-   "Saint-Paul (97434)",
-   "Saint-Paul (97435)",
-   "Saint-Paul (97460)"
-  ],
-  "departement": "La réunion",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Gaillard",
-  "numCirco": "7",
-  "numDepartement": "974",
-  "prenom": "Perceval"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 79,

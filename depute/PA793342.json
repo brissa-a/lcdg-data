@@ -7,23 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA793342",
-  "civ": "Mme",
-  "communes": [
-   "Cannes (06150)",
-   "Cannes (06400)",
-   "Mandelieu-la-Napoule (06210)",
-   "Théoule-sur-Mer (06590)",
-   "Vallauris (06220)"
-  ],
-  "departement": "Alpes-maritimes",
-  "group": "Les Républicains",
-  "nom": "Martin",
-  "numCirco": "8",
-  "numDepartement": "06",
-  "prenom": "Alexandra"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 15,

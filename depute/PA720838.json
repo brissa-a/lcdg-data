@@ -9,22 +9,6 @@
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/Soumya%20Bourouaha/"
  },
- "circo": {
-  "acteurId": "OMC_PA720838",
-  "civ": "Mme",
-  "communes": [
-   "Dugny (93440)",
-   "La Courneuve (93120)",
-   "Le Blanc-Mesnil (93150)",
-   "Stains (93240)"
-  ],
-  "departement": "Seine-saint-denis",
-  "group": "Gauche démocrate et républicaine - NUPES",
-  "nom": "Bourouaha",
-  "numCirco": "4",
-  "numDepartement": "93",
-  "prenom": "Soumya"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 38,

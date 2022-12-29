@@ -10,30 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/YoannGillet30/",
   "twitter_link": "https://twitter.com/@YoannGillet30/"
  },
- "circo": {
-  "acteurId": "OMC_PA793832",
-  "civ": "M.",
-  "communes": [
-   "Beaucaire (Gard) (30300)",
-   "Bellegarde (Gard) (30127)",
-   "Bouillargues (30230)",
-   "Caissargues (30132)",
-   "Fourques (Gard) (30300)",
-   "Garons (30128)",
-   "Jonquières-Saint-Vincent (30300)",
-   "Milhaud (30540)",
-   "Nîmes (30000)",
-   "Nîmes (30900)",
-   "Rodilhan (30230)",
-   "Vallabrègues (30300)"
-  ],
-  "departement": "Gard",
-  "group": "Rassemblement National",
-  "nom": "Gillet",
-  "numCirco": "1",
-  "numDepartement": "30",
-  "prenom": "Yoann"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 0,

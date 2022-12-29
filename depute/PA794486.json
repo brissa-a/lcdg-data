@@ -10,27 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/Vspillebout/",
   "twitter_link": "https://twitter.com/@Vspillebout/"
  },
- "circo": {
-  "acteurId": "OMC_PA794486",
-  "civ": "Mme",
-  "communes": [
-   "Bondues (59910)",
-   "Lille (59000)",
-   "Lille (59160)",
-   "Lille (59260)",
-   "Lille (59777)",
-   "Lille (59800)",
-   "Marcq-en-Baroeul (59700)",
-   "Mouvaux (59420)",
-   "Tourcoing (59200)"
-  ],
-  "departement": "Nord",
-  "group": "Renaissance",
-  "nom": "Spillebout",
-  "numCirco": "9",
-  "numDepartement": "59",
-  "prenom": "Violette"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 21,

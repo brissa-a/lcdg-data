@@ -21,25 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/ericpoulliat/",
   "twitter_link": "https://twitter.com/@EPoulliat/"
  },
- "circo": {
-  "acteurId": "OMC_PA719600",
-  "civ": "M.",
-  "communes": [
-   "Le Haillan (33185)",
-   "Le Taillan-Médoc (33320)",
-   "Martignas-sur-Jalle (33127)",
-   "Mérignac (33700)",
-   "Saint-Aubin-de-Médoc (33160)",
-   "Saint-Jean-d'Illac (33127)",
-   "Saint-Médard-en-Jalles (33160)"
-  ],
-  "departement": "Gironde",
-  "group": "Renaissance",
-  "nom": "Poulliat",
-  "numCirco": "6",
-  "numDepartement": "33",
-  "prenom": "Éric"
- },
  "datan": "https://datan.fr/deputes/gironde-33/depute_eric-poulliat",
  "lcdg": {
   "siege": {

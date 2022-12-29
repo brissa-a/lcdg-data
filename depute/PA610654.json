@@ -18,29 +18,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA610654",
-  "civ": "M.",
-  "communes": [
-   "Ducos (97224)",
-   "Le Diamant (97223)",
-   "Le Marin (97290)",
-   "Le Vauclin (97280)",
-   "Les Anses-d'Arlet (97217)",
-   "Les Trois-Ilets (97229)",
-   "Rivière-Pilote (97211)",
-   "Rivière-Salée (97215)",
-   "Saint-Esprit (97270)",
-   "Sainte-Anne (Martinique) (97227)",
-   "Sainte-Luce (Martinique) (97228)"
-  ],
-  "departement": "Martinique",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Nilor",
-  "numCirco": "4",
-  "numDepartement": "972",
-  "prenom": "Jean-Philippe"
- },
  "datan": "https://datan.fr/deputes/martinique-972/depute_jeanphilippe-nilor",
  "lcdg": {
   "siege": {

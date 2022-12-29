@@ -21,36 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/emenard34/",
   "twitter_link": "https://twitter.com/@emenard34/"
  },
- "circo": {
-  "acteurId": "OMC_PA719608",
-  "civ": "Mme",
-  "communes": [
-   "Bassan (34290)",
-   "Boujan-sur-Libron (34760)",
-   "Béziers (34500)",
-   "Cazouls-lès-Béziers (34370)",
-   "Cers (34420)",
-   "Colombiers (Hérault) (34440)",
-   "Corneilhan (34490)",
-   "Lespignan (34710)",
-   "Lieuran-lès-Béziers (34290)",
-   "Lignan-sur-Orb (34490)",
-   "Maraussan (34370)",
-   "Portiragnes (34420)",
-   "Sauvian (34410)",
-   "Sérignan (34410)",
-   "Valras-Plage (34350)",
-   "Vendres (34350)",
-   "Villeneuve-lès-Béziers (34420)",
-   "Villeneuve-lès-Béziers (34500)"
-  ],
-  "departement": "Hérault",
-  "group": "Non inscrit",
-  "nom": "Ménard",
-  "numCirco": "6",
-  "numDepartement": "34",
-  "prenom": "Emmanuelle"
- },
  "datan": "https://datan.fr/deputes/herault-34/depute_emmanuelle-menard",
  "lcdg": {
   "siege": {

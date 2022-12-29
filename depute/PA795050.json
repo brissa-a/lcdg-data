@@ -7,22 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA795050",
-  "civ": "Mme",
-  "communes": [
-   "Paris",
-   "Paris 16eme arrondissement (75016)",
-   "Paris 16eme arrondissement (75116)",
-   "Paris 17eme arrondissement (75017)"
-  ],
-  "departement": "Paris",
-  "group": "Renaissance",
-  "nom": "Panosyan-Bouvet",
-  "numCirco": "4",
-  "numDepartement": "75",
-  "prenom": "Astrid"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 37,

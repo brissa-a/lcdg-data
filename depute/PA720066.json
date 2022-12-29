@@ -21,38 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/StephanieRistDeputee/",
   "twitter_link": "https://twitter.com/@stephanie_rist/"
  },
- "circo": {
-  "acteurId": "OMC_PA720066",
-  "civ": "Mme",
-  "communes": [
-   "Baule (45130)",
-   "Beaugency (45190)",
-   "Cléry-Saint-André (45370)",
-   "Cravant (45190)",
-   "Dry (45370)",
-   "Jouy-le-Potier (45370)",
-   "Lailly-en-Val (45740)",
-   "Mareau-aux-Prés (45370)",
-   "Messas (45190)",
-   "Mézières-lez-Cléry (45370)",
-   "Olivet (Loiret) (45160)",
-   "Orléans (45000)",
-   "Orléans (45100)",
-   "Saint-Cyr-en-Val (45590)",
-   "Saint-Denis-en-Val (45560)",
-   "Saint-Hilaire-Saint-Mesmin (45160)",
-   "Saint-Jean-le-Blanc (45650)",
-   "Saint-Pryvé-Saint-Mesmin (45750)",
-   "Tavers (45190)",
-   "Villorceau (45190)"
-  ],
-  "departement": "Loiret",
-  "group": "Renaissance",
-  "nom": "Rist",
-  "numCirco": "1",
-  "numDepartement": "45",
-  "prenom": "Stéphanie"
- },
  "datan": "https://datan.fr/deputes/loiret-45/depute_stephanie-rist",
  "lcdg": {
   "siege": {

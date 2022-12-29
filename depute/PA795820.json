@@ -7,35 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA795820",
-  "civ": "M.",
-  "communes": [
-   "Basse-Pointe (97218)",
-   "Bellefontaine (Martinique) (97222)",
-   "Case-Pilote (97222)",
-   "Fonds-Saint-Denis (97250)",
-   "Grand'Rivière (97218)",
-   "L'Ajoupa-Bouillon (97216)",
-   "Le Carbet (97221)",
-   "Le Lorrain (97214)",
-   "Le Marigot (97225)",
-   "Le Morne-Rouge (97260)",
-   "Le Morne-Vert (97226)",
-   "Le Prêcheur (97250)",
-   "Macouba (97218)",
-   "Saint-Joseph (Martinique) (97212)",
-   "Saint-Pierre (Martinique) (97250)",
-   "Sainte-Marie (Martinique) (97230)",
-   "Schoelcher (97233)"
-  ],
-  "departement": "Martinique",
-  "group": "Gauche démocrate et républicaine - NUPES",
-  "nom": "Nadeau",
-  "numCirco": "2",
-  "numDepartement": "972",
-  "prenom": "Marcellin"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 46,

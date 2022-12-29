@@ -20,22 +20,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@GillesLeGendre/"
  },
- "circo": {
-  "acteurId": "OMC_PA721466",
-  "civ": "M.",
-  "communes": [
-   "Paris",
-   "Paris 5eme arrondissement (75005)",
-   "Paris 6eme arrondissement (75006)",
-   "Paris 7eme arrondissement (75007)"
-  ],
-  "departement": "Paris",
-  "group": "Renaissance",
-  "nom": "Le Gendre",
-  "numCirco": "2",
-  "numDepartement": "75",
-  "prenom": "Gilles"
- },
  "datan": "https://datan.fr/deputes/paris-75/depute_gilles-legendre",
  "lcdg": {
   "siege": {

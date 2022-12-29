@@ -21,25 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/AQuatennens/",
   "twitter_link": "https://twitter.com/@AQuatennens/"
  },
- "circo": {
-  "acteurId": "OMC_PA720422",
-  "civ": "M.",
-  "communes": [
-   "Faches-Thumesnil (59155)",
-   "Lille (59000)",
-   "Lille (59160)",
-   "Lille (59260)",
-   "Lille (59777)",
-   "Lille (59800)",
-   "Loos (59120)"
-  ],
-  "departement": "Nord",
-  "group": "Non inscrit",
-  "nom": "Quatennens",
-  "numCirco": "1",
-  "numDepartement": "59",
-  "prenom": "Adrien"
- },
  "datan": "https://datan.fr/deputes/nord-59/depute_adrien-quatennens",
  "lcdg": {
   "siege": {

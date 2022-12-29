@@ -10,23 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/carlos%20martens%20bilongo/",
   "twitter_link": "https://twitter.com/@bilongocarlos/"
  },
- "circo": {
-  "acteurId": "OMC_PA795616",
-  "civ": "M.",
-  "communes": [
-   "Arnouville (95400)",
-   "Bonneuil-en-France (95500)",
-   "Garges-lès-Gonesse (95140)",
-   "Sarcelles (95200)",
-   "Villiers-le-Bel (95400)"
-  ],
-  "departement": "Val-d'oise",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Bilongo",
-  "numCirco": "8",
-  "numDepartement": "95",
-  "prenom": "Carlos Martens"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 53,

@@ -10,21 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/Sandra.Regol/",
   "twitter_link": "https://twitter.com/@sandraregol/"
  },
- "circo": {
-  "acteurId": "OMC_PA794778",
-  "civ": "Mme",
-  "communes": [
-   "Strasbourg (67000)",
-   "Strasbourg (67100)",
-   "Strasbourg (67200)"
-  ],
-  "departement": "Bas-rhin",
-  "group": "Écologiste - NUPES",
-  "nom": "Regol",
-  "numCirco": "1",
-  "numDepartement": "67",
-  "prenom": "Sandra"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 26,

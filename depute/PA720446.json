@@ -21,36 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/brigitteliso/",
   "twitter_link": "https://twitter.com/@brigitte_liso/"
  },
- "circo": {
-  "acteurId": "OMC_PA720446",
-  "civ": "Mme",
-  "communes": [
-   "Comines (59560)",
-   "Deûlémont (59890)",
-   "La Madeleine (59110)",
-   "Lambersart (59130)",
-   "Lille (59000)",
-   "Lille (59160)",
-   "Lille (59260)",
-   "Lille (59777)",
-   "Lille (59800)",
-   "Lompret (59840)",
-   "Marquette-lez-Lille (59520)",
-   "Pérenchies (59840)",
-   "Quesnoy-sur-Deûle (59890)",
-   "Saint-André-lez-Lille (59350)",
-   "Verlinghem (59237)",
-   "Wambrechies (59118)",
-   "Warneton (59560)",
-   "Wervicq-Sud (59117)"
-  ],
-  "departement": "Nord",
-  "group": "Renaissance",
-  "nom": "Liso",
-  "numCirco": "4",
-  "numDepartement": "59",
-  "prenom": "Brigitte"
- },
  "datan": "https://datan.fr/deputes/nord-59/depute_brigitte-liso",
  "lcdg": {
   "siege": {

@@ -7,22 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA795010",
-  "civ": "Mme",
-  "communes": [
-   "Lyon",
-   "Lyon 3eme arrondissement (69003)",
-   "Lyon 7eme arrondissement (69007)",
-   "Lyon 8eme arrondissement (69008)"
-  ],
-  "departement": "Rhône",
-  "group": "Écologiste - NUPES",
-  "nom": "Garin",
-  "numCirco": "3",
-  "numDepartement": "69",
-  "prenom": "Marie-Charlotte"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 28,

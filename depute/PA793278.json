@@ -10,22 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/sabrinaagrestiroubache/",
   "twitter_link": "https://twitter.com/@sabrinaroubache/"
  },
- "circo": {
-  "acteurId": "OMC_PA793278",
-  "civ": "Mme",
-  "communes": [
-   "Marseille",
-   "Marseille 10eme arrondissement (13010)",
-   "Marseille 11eme arrondissement (13011)",
-   "Marseille 12eme arrondissement (13012)"
-  ],
-  "departement": "Bouches-du-rhône",
-  "group": "Renaissance",
-  "nom": "Agresti-Roubache",
-  "numCirco": "1",
-  "numDepartement": "13",
-  "prenom": "Sabrina"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 29,

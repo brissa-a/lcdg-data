@@ -21,21 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/GouffierChaLegislatives/",
   "twitter_link": "https://twitter.com/@g_gouffiercha/"
  },
- "circo": {
-  "acteurId": "OMC_PA721296",
-  "civ": "M.",
-  "communes": [
-   "Fontenay-sous-Bois (94120)",
-   "Saint-Mandé (94160)",
-   "Vincennes (94300)"
-  ],
-  "departement": "Val-de-marne",
-  "group": "Renaissance",
-  "nom": "Gouffier Valente",
-  "numCirco": "6",
-  "numDepartement": "94",
-  "prenom": "Guillaume"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 30,

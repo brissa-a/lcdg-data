@@ -10,21 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/BayouJulien/",
   "twitter_link": "https://twitter.com/@JulienBayou/"
  },
- "circo": {
-  "acteurId": "OMC_PA795058",
-  "civ": "M.",
-  "communes": [
-   "Paris",
-   "Paris 10eme arrondissement (75010)",
-   "Paris 3eme arrondissement (75003)"
-  ],
-  "departement": "Paris",
-  "group": "Écologiste - NUPES",
-  "nom": "Bayou",
-  "numCirco": "5",
-  "numDepartement": "75",
-  "prenom": "Julien"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 25,

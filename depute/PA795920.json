@@ -9,25 +9,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@priscathevenot/"
  },
- "circo": {
-  "acteurId": "OMC_PA795920",
-  "civ": "Mme",
-  "communes": [
-   "Chaville (92370)",
-   "Marnes-la-Coquette (92430)",
-   "Meudon (92190)",
-   "Meudon (92360)",
-   "Sèvres (92310)",
-   "Vaucresson (92420)",
-   "Ville-d'Avray (92410)"
-  ],
-  "departement": "Hauts-de-seine",
-  "group": "Renaissance",
-  "nom": "Thevenot",
-  "numCirco": "8",
-  "numDepartement": "92",
-  "prenom": "Prisca"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 30,

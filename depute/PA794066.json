@@ -7,30 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA794066",
-  "civ": "M.",
-  "communes": [
-   "Bourgbarré (35230)",
-   "Bruz (35170)",
-   "Chantepie (35135)",
-   "Chartres-de-Bretagne (35131)",
-   "Noyal-Châtillon-sur-Seiche (35230)",
-   "Orgères (Ille-et-Vilaine) (35230)",
-   "Pont-Péan (35131)",
-   "Rennes (35000)",
-   "Rennes (35200)",
-   "Rennes (35700)",
-   "Saint-Erblon (Ille-et-Vilaine) (35230)",
-   "Vern-sur-Seiche (35770)"
-  ],
-  "departement": "Ille-et-vilaine",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Mathieu",
-  "numCirco": "1",
-  "numDepartement": "35",
-  "prenom": "Frédéric"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 68,

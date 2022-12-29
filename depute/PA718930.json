@@ -21,40 +21,6 @@
   "facebook_link": "https://fr-fr.facebook.com/petelannelaurence/",
   "twitter_link": "https://twitter.com/@al_petel/"
  },
- "circo": {
-  "acteurId": "OMC_PA718930",
-  "civ": "Mme",
-  "communes": [
-   "Aix-en-Provence (13080)",
-   "Aix-en-Provence (13090)",
-   "Aix-en-Provence (13100)",
-   "Aix-en-Provence (13290)",
-   "Aix-en-Provence (13540)",
-   "Beaurecueil (13100)",
-   "Châteauneuf-le-Rouge (13790)",
-   "Fuveau (13710)",
-   "Jouques (13490)",
-   "Le Puy-Sainte-Réparade (13610)",
-   "Le Tholonet (13100)",
-   "Meyrargues (13650)",
-   "Peynier (13790)",
-   "Peyrolles-en-Provence (13860)",
-   "Puyloubier (13114)",
-   "Rousset (Bouches-du-Rhône) (13790)",
-   "Saint-Antonin-sur-Bayon (13100)",
-   "Saint-Marc-Jaumegarde (13100)",
-   "Saint-Paul-lès-Durance (13115)",
-   "Trets (13530)",
-   "Vauvenargues (13126)",
-   "Venelles (13770)"
-  ],
-  "departement": "Bouches-du-rhône",
-  "group": "Renaissance",
-  "nom": "Petel",
-  "numCirco": "14",
-  "numDepartement": "13",
-  "prenom": "Anne-Laurence"
- },
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_annelaurence-petel",
  "lcdg": {
   "siege": {

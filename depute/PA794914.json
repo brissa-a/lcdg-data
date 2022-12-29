@@ -10,23 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/Alexvincendet/",
   "twitter_link": "https://twitter.com/@AlexVincendet/"
  },
- "circo": {
-  "acteurId": "OMC_PA794914",
-  "civ": "M.",
-  "communes": [
-   "Bron (69500)",
-   "Rillieux-la-Pape (69140)",
-   "Sathonay-Camp (69580)",
-   "Sathonay-Village (69580)",
-   "Vaulx-en-Velin (69120)"
-  ],
-  "departement": "Rhône",
-  "group": "Les Républicains",
-  "nom": "Vincendet",
-  "numCirco": "7",
-  "numDepartement": "69",
-  "prenom": "Alexandre"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 17,

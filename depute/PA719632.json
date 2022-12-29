@@ -18,32 +18,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA719632",
-  "civ": "Mme",
-  "communes": [
-   "Andernos-les-Bains (33510)",
-   "Arcachon (33120)",
-   "Arès (33740)",
-   "Audenge (33980)",
-   "Biganos (33380)",
-   "Gujan-Mestras (33470)",
-   "La Teste-de-Buch (33115)",
-   "La Teste-de-Buch (33260)",
-   "Lanton (33138)",
-   "Le Teich (33470)",
-   "Lège-Cap-Ferret (33950)",
-   "Lège-Cap-Ferret (33970)",
-   "Marcheprime (33380)",
-   "Mios (33380)"
-  ],
-  "departement": "Gironde",
-  "group": "Renaissance",
-  "nom": "Panonacle",
-  "numCirco": "8",
-  "numDepartement": "33",
-  "prenom": "Sophie"
- },
  "datan": "https://datan.fr/deputes/gironde-33/depute_sophie-panonacle",
  "lcdg": {
   "siege": {

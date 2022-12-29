@@ -9,23 +9,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@TrouveAurelie/"
  },
- "circo": {
-  "acteurId": "OMC_PA795164",
-  "civ": "Mme",
-  "communes": [
-   "Bondy (93140)",
-   "Le Pré-Saint-Gervais (93310)",
-   "Les Lilas (93260)",
-   "Noisy-le-Sec (93130)",
-   "Romainville (93230)"
-  ],
-  "departement": "Seine-saint-denis",
-  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
-  "nom": "Trouvé",
-  "numCirco": "9",
-  "numDepartement": "93",
-  "prenom": "Aurélie"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 64,

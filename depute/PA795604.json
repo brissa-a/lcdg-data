@@ -9,26 +9,6 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@efolest/"
  },
- "circo": {
-  "acteurId": "OMC_PA795604",
-  "civ": "Mme",
-  "communes": [
-   "Andilly (Val-d'Oise) (95580)",
-   "Deuil-la-Barre (95170)",
-   "Enghien-les-Bains (95880)",
-   "Margency (95580)",
-   "Montmagny (95360)",
-   "Saint-Gratien (Val-d'Oise) (95210)",
-   "Sannois (95110)",
-   "Soisy-sous-Montmorency (95230)"
-  ],
-  "departement": "Val-d'oise",
-  "group": "Démocrate (MoDem et Indépendants)",
-  "nom": "Folest",
-  "numCirco": "6",
-  "numDepartement": "95",
-  "prenom": "Estelle"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 9,

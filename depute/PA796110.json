@@ -7,22 +7,6 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
- "circo": {
-  "acteurId": "OMC_PA796110",
-  "civ": "M.",
-  "communes": [
-   "Avignon (84000)",
-   "Avignon (84140)",
-   "Le Pontet (Vaucluse) (84130)",
-   "Morières-lès-Avignon (84310)"
-  ],
-  "departement": "Vaucluse",
-  "group": "Rassemblement National",
-  "nom": "Hébrard",
-  "numCirco": "1",
-  "numDepartement": "84",
-  "prenom": "Joris"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 4,

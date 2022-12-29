@@ -10,21 +10,6 @@
   "facebook_link": "https://fr-fr.facebook.com/lrp.marseille/",
   "twitter_link": "https://twitter.com/@RoyerPerreaut/"
  },
- "circo": {
-  "acteurId": "OMC_PA340643",
-  "civ": "M.",
-  "communes": [
-   "Marseille",
-   "Marseille 10eme arrondissement (13010)",
-   "Marseille 9eme arrondissement (13009)"
-  ],
-  "departement": "Bouches-du-rhône",
-  "group": "Renaissance",
-  "nom": "Royer-Perreaut",
-  "numCirco": "6",
-  "numDepartement": "13",
-  "prenom": "Lionel"
- },
  "lcdg": {
   "siege": {
    "curAngleIndex": 29,
