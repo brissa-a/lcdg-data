@@ -21,6 +21,27 @@
   "facebook_link": "https://fr-fr.facebook.com/laqhila11/",
   "twitter_link": "https://twitter.com/@laqhila/"
  },
+ "circo": {
+  "acteurId": "OMC_PA718978",
+  "civ": "M.",
+  "communes": [
+   "Aix-en-Provence (13080)",
+   "Aix-en-Provence (13090)",
+   "Aix-en-Provence (13100)",
+   "Aix-en-Provence (13290)",
+   "Aix-en-Provence (13540)",
+   "Cabriès (13480)",
+   "Eguilles (13510)",
+   "Les Pennes-Mirabeau (13170)",
+   "Septèmes-les-Vallons (13240)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Laqhila",
+  "numCirco": "11",
+  "numDepartement": "13",
+  "prenom": "Mohamed"
+ },
  "datan": "https://datan.fr/deputes/bouches-du-rhone-13/depute_mohamed-laqhila",
  "lcdg": {
   "siege": {

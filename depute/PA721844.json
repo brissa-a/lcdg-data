@@ -21,6 +21,31 @@
   "facebook_link": "https://fr-fr.facebook.com/BPiron78/",
   "twitter_link": "https://twitter.com/@beatricepiron/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721844",
+  "civ": "Mme",
+  "communes": [
+   "Bailly (Yvelines) (78870)",
+   "Bougival (78380)",
+   "Chavenay (78450)",
+   "Feucherolles (78810)",
+   "L'Etang-la-Ville (78620)",
+   "La Celle-Saint-Cloud (78170)",
+   "Le Chesnay (78150)",
+   "Les Clayes-sous-Bois (78340)",
+   "Noisy-le-Roi (78590)",
+   "Rennemoulin (78590)",
+   "Rocquencourt (Yvelines) (78150)",
+   "Saint-Nom-la-Bretèche (78860)",
+   "Villepreux (78450)"
+  ],
+  "departement": "Yvelines",
+  "group": "Renaissance",
+  "nom": "Piron",
+  "numCirco": "3",
+  "numDepartement": "78",
+  "prenom": "Béatrice"
+ },
  "datan": "https://datan.fr/deputes/yvelines-78/depute_beatrice-piron",
  "lcdg": {
   "siege": {

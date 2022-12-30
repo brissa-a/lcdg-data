@@ -21,6 +21,31 @@
   "facebook_link": "https://fr-fr.facebook.com/GuevenouxMarie/",
   "twitter_link": "https://twitter.com/@mguevenoux/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721880",
+  "civ": "Mme",
+  "communes": [
+   "Boussy-Saint-Antoine (91800)",
+   "Draveil (91210)",
+   "Epinay-sous-Sénart (91860)",
+   "Etiolles (91450)",
+   "Morsang-sur-Seine (91250)",
+   "Quincy-sous-Sénart (91480)",
+   "Ris-Orangis (91130)",
+   "Saint-Germain-lès-Corbeil (91250)",
+   "Saint-Pierre-du-Perray (91280)",
+   "Saintry-sur-Seine (91250)",
+   "Soisy-sur-Seine (91450)",
+   "Tigery (91250)",
+   "Varennes-Jarcy (91480)"
+  ],
+  "departement": "Essonne",
+  "group": "Renaissance",
+  "nom": "Guévenoux",
+  "numCirco": "9",
+  "numDepartement": "91",
+  "prenom": "Marie"
+ },
  "datan": "https://datan.fr/deputes/essonne-91/depute_marie-guevenoux",
  "lcdg": {
   "siege": {

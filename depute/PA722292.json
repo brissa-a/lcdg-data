@@ -21,6 +21,24 @@
   "facebook_link": "https://fr-fr.facebook.com/thomas.rudigoz/",
   "twitter_link": "https://twitter.com/@trudigoz/"
  },
+ "circo": {
+  "acteurId": "OMC_PA722292",
+  "civ": "M.",
+  "communes": [
+   "Lyon",
+   "Lyon 2eme arrondissement (69002)",
+   "Lyon 5eme arrondissement (69005)",
+   "Lyon 7eme arrondissement (69007)",
+   "Lyon 8eme arrondissement (69008)",
+   "Lyon 9eme arrondissement (69009)"
+  ],
+  "departement": "Rhône",
+  "group": "Renaissance",
+  "nom": "Rudigoz",
+  "numCirco": "1",
+  "numDepartement": "69",
+  "prenom": "Thomas"
+ },
  "datan": "https://datan.fr/deputes/rhone-69/depute_thomas-rudigoz",
  "lcdg": {
   "siege": {

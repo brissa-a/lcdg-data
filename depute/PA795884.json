@@ -9,6 +9,20 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@FerracciMarc/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795884",
+  "civ": "M.",
+  "communes": [
+   "Liechtenstein",
+   "Suisse"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Renaissance",
+  "nom": "Ferracci",
+  "numCirco": "6",
+  "numDepartement": "099",
+  "prenom": "Marc"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 22,

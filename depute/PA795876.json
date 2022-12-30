@@ -7,6 +7,33 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795876",
+  "civ": "M.",
+  "communes": [
+   "Apatou (97317)",
+   "Awala-Yalimapo (97319)",
+   "Grand-Santi (97340)",
+   "Iracoubo (97350)",
+   "Kourou (97310)",
+   "Macouria (97355)",
+   "Mana (97318)",
+   "Mana (97360)",
+   "Maripasoula (97370)",
+   "Montsinéry-Tonnegrande (97356)",
+   "Papaichton (97316)",
+   "Saint-Elie (97312)",
+   "Saint-Laurent-du-Maroni (97320)",
+   "Saül (97314)",
+   "Sinnamary (97315)"
+  ],
+  "departement": "Guyane",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "Rimane",
+  "numCirco": "2",
+  "numDepartement": "973",
+  "prenom": "Davy"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 45,

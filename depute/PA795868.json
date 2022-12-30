@@ -7,6 +7,28 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795868",
+  "civ": "M.",
+  "communes": [
+   "Camopi (97330)",
+   "Cayenne (97300)",
+   "Matoury (97351)",
+   "Ouanary (97380)",
+   "Remire-Montjoly (97354)",
+   "Roura (97311)",
+   "Roura (97352)",
+   "Régina (97353)",
+   "Régina (97390)",
+   "Saint-Georges (Guyane) (97313)"
+  ],
+  "departement": "Guyane",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "Castor",
+  "numCirco": "1",
+  "numDepartement": "973",
+  "prenom": "Jean-Victor"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 44,

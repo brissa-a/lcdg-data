@@ -10,6 +10,20 @@
   "facebook_link": "https://fr-fr.facebook.com/fgumbs/",
   "twitter_link": "https://twitter.com/@frantzgumbs/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795258",
+  "civ": "M.",
+  "communes": [
+   "Saint-Barthélémy (Saint-Barthélemy et Saint-Martin) (97133)",
+   "Saint-Martin (Saint-Barthélemy et Saint-Martin) (97133)"
+  ],
+  "departement": "Saint-barthélemy et saint-martin",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Gumbs",
+  "numCirco": "1",
+  "numDepartement": "977",
+  "prenom": "Frantz"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 28,

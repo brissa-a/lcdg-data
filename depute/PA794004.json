@@ -7,6 +7,29 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794004",
+  "civ": "Mme",
+  "communes": [
+   "Bernin (38190)",
+   "Biviers (38330)",
+   "Corenc (38700)",
+   "Grenoble (38000)",
+   "Grenoble (38100)",
+   "La Tronche (38700)",
+   "Le Sappey-en-Chartreuse (38700)",
+   "Meylan (38240)",
+   "Montbonnot-Saint-Martin (38330)",
+   "Saint-Ismier (38330)",
+   "Saint-Nazaire-les-Eymes (38330)"
+  ],
+  "departement": "Isère",
+  "group": "Renaissance",
+  "nom": "Hugues",
+  "numCirco": "1",
+  "numDepartement": "38",
+  "prenom": "Servane"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 43,

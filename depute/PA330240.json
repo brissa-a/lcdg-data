@@ -21,6 +21,22 @@
   "facebook_link": "https://fr-fr.facebook.com/ECIOTTI/",
   "twitter_link": "https://twitter.com/@ECiotti/"
  },
+ "circo": {
+  "acteurId": "OMC_PA330240",
+  "civ": "M.",
+  "communes": [
+   "Nice (06000)",
+   "Nice (06100)",
+   "Nice (06200)",
+   "Nice (06300)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Les Républicains",
+  "nom": "Ciotti",
+  "numCirco": "1",
+  "numDepartement": "06",
+  "prenom": "Éric"
+ },
  "datan": "https://datan.fr/deputes/alpes-maritimes-06/depute_eric-ciotti",
  "lcdg": {
   "siege": {

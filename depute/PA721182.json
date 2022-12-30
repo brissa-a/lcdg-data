@@ -18,6 +18,37 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721182",
+  "civ": "M.",
+  "communes": [
+   "Allemagne : 1re circonscription : circonscriptions consulaires de Berlin",
+   "Autriche",
+   "Bonn",
+   "Bosnie-Herzégovine",
+   "Bulgarie",
+   "Croatie",
+   "Düsseldorf",
+   "Francfort",
+   "Hambourg. Allemagne : 2e circonscription : circonscriptions consulaires de Munich",
+   "Hongrie",
+   "Pologne",
+   "Roumanie",
+   "République tchèque",
+   "Sarrebruck",
+   "Serbie-et-Monténégro",
+   "Slovaquie",
+   "Slovénie",
+   "Stuttgart. Albanie",
+   "ancienne République yougoslave de Macédoine"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Petit",
+  "numCirco": "7",
+  "numDepartement": "099",
+  "prenom": "Frédéric"
+ },
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_frederic-petit",
  "lcdg": {
   "siege": {

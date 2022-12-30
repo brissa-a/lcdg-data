@@ -7,6 +7,27 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793354",
+  "civ": "Mme",
+  "communes": [
+   "Aubagne (13400)",
+   "Carnoux-en-Provence (13470)",
+   "Cassis (13260)",
+   "Ceyreste (13600)",
+   "Cuges-les-Pins (13780)",
+   "Gémenos (13420)",
+   "La Ciotat (13600)",
+   "La Penne-sur-Huveaune (13821)",
+   "Roquefort-la-Bédoule (13830)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Rassemblement National",
+  "nom": "Mélin",
+  "numCirco": "9",
+  "numDepartement": "13",
+  "prenom": "Joëlle"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 0,

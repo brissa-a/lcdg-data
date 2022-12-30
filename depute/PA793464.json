@@ -9,6 +9,22 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@sebastiendelogu/"
  },
+ "circo": {
+  "acteurId": "OMC_PA793464",
+  "civ": "M.",
+  "communes": [
+   "Marseille",
+   "Marseille 14eme arrondissement (13014)",
+   "Marseille 15eme arrondissement (13015)",
+   "Marseille 16eme arrondissement (13016)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Delogu",
+  "numCirco": "7",
+  "numDepartement": "13",
+  "prenom": "Sébastien"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 48,

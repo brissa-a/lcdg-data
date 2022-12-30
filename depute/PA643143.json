@@ -9,6 +9,26 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@ChrisBapt/"
  },
+ "circo": {
+  "acteurId": "OMC_PA643143",
+  "civ": "M.",
+  "communes": [
+   "Anse-Bertrand (97121)",
+   "La Désirade (97127)",
+   "Le Gosier (97190)",
+   "Le Moule (97160)",
+   "Petit-Canal (97131)",
+   "Port-Louis (Guadeloupe) (97117)",
+   "Saint-François (97118)",
+   "Sainte-Anne (97180)"
+  ],
+  "departement": "Guadeloupe",
+  "group": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+  "nom": "Baptiste",
+  "numCirco": "2",
+  "numDepartement": "971",
+  "prenom": "Christian"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 38,

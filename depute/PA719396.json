@@ -21,6 +21,22 @@
   "facebook_link": "https://fr-fr.facebook.com/jeancharleslarsonneur/",
   "twitter_link": "https://twitter.com/@JCLarsonneur/"
  },
+ "circo": {
+  "acteurId": "OMC_PA719396",
+  "civ": "M.",
+  "communes": [
+   "Bohars (29820)",
+   "Brest (29200)",
+   "Gouesnou (29850)",
+   "Guilers (29820)"
+  ],
+  "departement": "Finistère",
+  "group": "Horizons et apparentés",
+  "nom": "Larsonneur",
+  "numCirco": "2",
+  "numDepartement": "29",
+  "prenom": "Jean-Charles"
+ },
  "datan": "https://datan.fr/deputes/finistere-29/depute_jeancharles-larsonneur",
  "lcdg": {
   "siege": {

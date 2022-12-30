@@ -7,6 +7,19 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795926",
+  "civ": "M.",
+  "communes": [
+   "Boulogne-Billancourt (92100)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Renaissance",
+  "nom": "Pellerin",
+  "numCirco": "9",
+  "numDepartement": "92",
+  "prenom": "Emmanuel"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 61,

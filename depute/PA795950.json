@@ -9,6 +9,20 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@Amiel_David_/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795950",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 15eme arrondissement (75015)"
+  ],
+  "departement": "Paris",
+  "group": "Renaissance",
+  "nom": "Amiel",
+  "numCirco": "13",
+  "numDepartement": "75",
+  "prenom": "David"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 17,

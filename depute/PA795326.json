@@ -7,6 +7,29 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795326",
+  "civ": "M.",
+  "communes": [
+   "Boston",
+   "Canada : 1re circonscription : circonscriptions consulaires d''Ottawa",
+   "La Nouvelle-Orléans. Etats-Unis : 4e circonscription : circonscriptions consulaires de Los Angeles",
+   "Miami",
+   "Montréal",
+   "New York",
+   "Québec. Etats-Unis : 1re circonscription : circonscriptions consulaires d''Atlanta",
+   "San Francisco",
+   "Toronto",
+   "Vancouver. Canada : 2e circonscription : circonscriptions consulaires de Moncton et Halifax",
+   "Washington. Etats-Unis : 2e circonscription : circonscription consulaire de Chicago. Etats-Unis : 3e circonscription : circonscriptions consulaires de Houston"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Renaissance",
+  "nom": "Weissberg",
+  "numCirco": "1",
+  "numDepartement": "099",
+  "prenom": "Christopher"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 49,

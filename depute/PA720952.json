@@ -21,6 +21,28 @@
   "facebook_link": "https://fr-fr.facebook.com/Aurelien%20Tach%C3%A9-D%C3%A9put%C3%A9%20de%20la%2010e%20circonscription%20du%20Val%20d'Oise/",
   "twitter_link": "https://twitter.com/@Aurelientache/"
  },
+ "circo": {
+  "acteurId": "OMC_PA720952",
+  "civ": "M.",
+  "communes": [
+   "Boisemont (Val-d'Oise) (95000)",
+   "Boissy-l'Aillerie (95650)",
+   "Cergy (95000)",
+   "Cergy (95800)",
+   "Courdimanche (95800)",
+   "Jouy-le-Moutier (95280)",
+   "Menucourt (95180)",
+   "Osny (95520)",
+   "Puiseux-Pontoise (95650)",
+   "Vauréal (95490)"
+  ],
+  "departement": "Val-d'oise",
+  "group": "Écologiste - NUPES",
+  "nom": "Taché",
+  "numCirco": "10",
+  "numDepartement": "95",
+  "prenom": "Aurélien"
+ },
  "datan": "https://datan.fr/deputes/val-doise-95/depute_aurelien-tache",
  "lcdg": {
   "siege": {

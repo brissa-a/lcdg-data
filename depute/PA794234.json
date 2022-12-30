@@ -10,6 +10,42 @@
   "facebook_link": "https://fr-fr.facebook.com/FrGernigon/",
   "twitter_link": "https://twitter.com/@F_Gernigon/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794234",
+  "civ": "M.",
+  "communes": [
+   "Angers (49000)",
+   "Angers (49100)",
+   "Briollay (49125)",
+   "Cheffes (49125)",
+   "Chenillé-Champteussé (49220)",
+   "Châteauneuf-sur-Sarthe (49330)",
+   "Ecouflant (49000)",
+   "Ecuillé (49460)",
+   "Feneu (49460)",
+   "Juvardeil (49330)",
+   "Le Plessis-Grammoire (49124)",
+   "Les Hauts-d'Anjou (49330)",
+   "Miré (49330)",
+   "Montreuil-sur-Loir (49140)",
+   "Morannes-sur-Sarthe-Daumeray (49640)",
+   "Saint-Barthélemy-d'Anjou (49124)",
+   "Sceaux-d'Anjou (49330)",
+   "Soucelles (49140)",
+   "Soulaire-et-Bourg (49460)",
+   "Thorigné-d'Anjou (49220)",
+   "Tiercé (49125)",
+   "Verrière-en-Anjou (49112)",
+   "Verrière-en-Anjou (49480)",
+   "Villevêque (49140)"
+  ],
+  "departement": "Maine-et-loire",
+  "group": "Horizons et apparentés",
+  "nom": "Gernigon",
+  "numCirco": "1",
+  "numDepartement": "49",
+  "prenom": "François"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 19,

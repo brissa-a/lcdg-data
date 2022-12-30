@@ -21,6 +21,25 @@
   "facebook_link": "https://fr-fr.facebook.com/AlexandreHolroyd/",
   "twitter_link": "https://twitter.com/@alexIholroyd/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721150",
+  "civ": "M.",
+  "communes": [
+   "Estonie",
+   "Finlande",
+   "Irlande. Royaume-Uni. Danemark",
+   "Islande",
+   "Lettonie. Lituanie",
+   "Norvège",
+   "Suède"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Renaissance",
+  "nom": "Holroyd",
+  "numCirco": "3",
+  "numDepartement": "099",
+  "prenom": "Alexandre"
+ },
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_alexandre-holroyd",
  "lcdg": {
   "siege": {

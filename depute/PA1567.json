@@ -10,6 +10,24 @@
   "facebook_link": "https://fr-fr.facebook.com/jerome.guedj/",
   "twitter_link": "https://twitter.com/@JeromeGuedj/"
  },
+ "circo": {
+  "acteurId": "OMC_PA1567",
+  "civ": "M.",
+  "communes": [
+   "Chilly-Mazarin (91380)",
+   "Igny (Essonne) (91430)",
+   "Massy (Essonne) (91300)",
+   "Morangis (Essonne) (91420)",
+   "Palaiseau (91120)",
+   "Wissous (91320)"
+  ],
+  "departement": "Essonne",
+  "group": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+  "nom": "Guedj",
+  "numCirco": "6",
+  "numDepartement": "91",
+  "prenom": "Jérôme"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 37,

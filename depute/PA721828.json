@@ -10,6 +10,21 @@
   "facebook_link": "https://fr-fr.facebook.com/Fanta%20BERETE/",
   "twitter_link": "https://twitter.com/@Fanta_B/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721828",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 15eme arrondissement (75015)",
+   "Paris 7eme arrondissement (75007)"
+  ],
+  "departement": "Paris",
+  "group": "Renaissance",
+  "nom": "Berete",
+  "numCirco": "12",
+  "numDepartement": "75",
+  "prenom": "Fanta"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 37,

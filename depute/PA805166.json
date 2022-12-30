@@ -7,6 +7,38 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA805166",
+  "civ": "Mme",
+  "communes": [
+   "Buc (Yvelines) (78530)",
+   "Cernay-la-Ville (78720)",
+   "Chevreuse (78460)",
+   "Choisel (78460)",
+   "Châteaufort (Yvelines) (78117)",
+   "Dampierre-en-Yvelines (78720)",
+   "Jouy-en-Josas (78350)",
+   "Les Loges-en-Josas (78350)",
+   "Lévis-Saint-Nom (78320)",
+   "Magny-les-Hameaux (78114)",
+   "Milon-la-Chapelle (78470)",
+   "Saint-Forget (78720)",
+   "Saint-Lambert (Yvelines) (78470)",
+   "Saint-Rémy-lès-Chevreuse (78470)",
+   "Senlisse (78720)",
+   "Toussus-le-Noble (78117)",
+   "Versailles (78000)",
+   "Viroflay (78220)",
+   "Voisins-le-Bretonneux (78960)",
+   "Vélizy-Villacoublay (78140)"
+  ],
+  "departement": "Yvelines",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Bergantz",
+  "numCirco": "2",
+  "numDepartement": "78",
+  "prenom": "Anne"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 34,

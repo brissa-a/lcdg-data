@@ -9,6 +9,26 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@qbataillon/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794214",
+  "civ": "M.",
+  "communes": [
+   "Roche-la-Molière (42230)",
+   "Saint-Etienne (42000)",
+   "Saint-Etienne (42100)",
+   "Saint-Etienne (42230)",
+   "Saint-Genest-Lerpt (42530)",
+   "Saint-Jean-Bonnefonds (42650)",
+   "Saint-Priest-en-Jarez (42270)",
+   "Villars (Loire) (42390)"
+  ],
+  "departement": "Loire",
+  "group": "Renaissance",
+  "nom": "Bataillon",
+  "numCirco": "1",
+  "numDepartement": "42",
+  "prenom": "Quentin"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 33,

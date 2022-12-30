@@ -7,6 +7,22 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795386",
+  "civ": "M.",
+  "communes": [
+   "Bry-sur-Marne (94360)",
+   "Champigny-sur-Marne (94500)",
+   "Le Perreux-sur-Marne (94170)",
+   "Nogent-sur-Marne (94130)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Renaissance",
+  "nom": "Lefèvre",
+  "numCirco": "5",
+  "numDepartement": "94",
+  "prenom": "Mathieu"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 34,

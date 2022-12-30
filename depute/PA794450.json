@@ -9,6 +9,27 @@
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/Lacresse.Emmanuel/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794450",
+  "civ": "M.",
+  "communes": [
+   "Heillecourt (54180)",
+   "Houdemont (54180)",
+   "Jarville-la-Malgrange (54140)",
+   "Laxou (54520)",
+   "Ludres (54710)",
+   "Nancy (54000)",
+   "Nancy (54100)",
+   "Vandoeuvre-lès-Nancy (54500)",
+   "Villers-lès-Nancy (54600)"
+  ],
+  "departement": "Meurthe-et-moselle",
+  "group": "Renaissance",
+  "nom": "Lacresse",
+  "numCirco": "2",
+  "numDepartement": "54",
+  "prenom": "Emmanuel"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 29,

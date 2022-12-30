@@ -1,4 +1,16 @@
 {
+ "an_data_depute": {
+  "dateNais": "1976-09-07",
+  "femme": true,
+  "ident": {
+   "alpha": "Abadie",
+   "civ": "Mme",
+   "nom": "Abadie",
+   "prenom": "Caroline",
+   "trigramme": "CAB"
+  },
+  "nom": "Caroline Abadie"
+ },
  "an_www_depute": {
   "groupe": "Renaissance",
   "imgurl": "https://www2.assemblee-nationale.fr/static/tribun/16/photos/719866.jpg",
@@ -9,6 +21,54 @@
   "facebook_link": "https://fr-fr.facebook.com/caroline.abadie.16/",
   "twitter_link": "https://twitter.com/@AbadieCaroline/"
  },
+ "circo": {
+  "acteurId": "OMC_PA719866",
+  "civ": "Mme",
+  "communes": [
+   "Assieu (38150)",
+   "Auberives-sur-Varèze (38550)",
+   "Charantonnay (38790)",
+   "Chasse-sur-Rhône (38670)",
+   "Cheyssieu (38550)",
+   "Chonas-l'Amballan (38121)",
+   "Chuzelles (38200)",
+   "Clonas-sur-Varèze (38550)",
+   "Diémoz (38790)",
+   "Estrablin (38780)",
+   "Eyzin-Pinet (38780)",
+   "Grenay (Isère) (38540)",
+   "Heyrieux (38540)",
+   "Jardin (38200)",
+   "Les Côtes-d'Arey (38138)",
+   "Les Roches-de-Condrieu (38370)",
+   "Luzinay (38200)",
+   "Moidieu-Détourbe (38440)",
+   "Oytier-Saint-Oblas (38780)",
+   "Pont-Evêque (38780)",
+   "Reventin-Vaugris (38121)",
+   "Saint-Alban-du-Rhône (38370)",
+   "Saint-Clair-du-Rhône (38370)",
+   "Saint-Georges-d'Espéranche (38790)",
+   "Saint-Just-Chaleyssin (38540)",
+   "Saint-Maurice-l'Exil (38550)",
+   "Saint-Prim (38370)",
+   "Saint-Sorlin-de-Vienne (38200)",
+   "Septème (38780)",
+   "Serpaize (38200)",
+   "Seyssuel (38200)",
+   "Valencin (38540)",
+   "Vernioz (38150)",
+   "Vienne (38200)",
+   "Villette-de-Vienne (38200)"
+  ],
+  "departement": "Isère",
+  "group": "Renaissance",
+  "nom": "Abadie",
+  "numCirco": "8",
+  "numDepartement": "38",
+  "prenom": "Caroline"
+ },
+ "datan": "https://datan.fr/deputes/isere-38/depute_caroline-abadie",
  "lcdg": {
   "siege": {
    "curAngleIndex": 21,
@@ -29,6 +89,7 @@
   "twitter": "AbadieCaroline",
   "url_an": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719866"
  },
+ "nosdeputes_link": "https://www.nosdeputes.fr/Caroline-Abadie",
  "official_link": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA719866",
  "scrutins": {
   "VTANR5L15V1": "P",

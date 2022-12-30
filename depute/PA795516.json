@@ -7,6 +7,25 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795516",
+  "civ": "M.",
+  "communes": [
+   "Brou-sur-Chantereine (77177)",
+   "Champs-sur-Marne (77420)",
+   "Chelles (Seine-et-Marne) (77500)",
+   "Emerainville (77184)",
+   "Lognes (77185)",
+   "Noisiel (77186)",
+   "Vaires-sur-Marne (77360)"
+  ],
+  "departement": "Seine-et-marne",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Laisney",
+  "numCirco": "10",
+  "numDepartement": "77",
+  "prenom": "Maxime"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 66,

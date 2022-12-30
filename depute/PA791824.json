@@ -10,6 +10,20 @@
   "facebook_link": "https://fr-fr.facebook.com/LegrainSarah/",
   "twitter_link": "https://twitter.com/S_Legrain/"
  },
+ "circo": {
+  "acteurId": "OMC_PA791824",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 19eme arrondissement (75019)"
+  ],
+  "departement": "Paris",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Legrain",
+  "numCirco": "16",
+  "numDepartement": "75",
+  "prenom": "Sarah"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 51,

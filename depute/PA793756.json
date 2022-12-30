@@ -10,6 +10,24 @@
   "facebook_link": "https://fr-fr.facebook.com/francoispiquemal31/",
   "twitter_link": "https://twitter.com/@FraPiquemal/"
  },
+ "circo": {
+  "acteurId": "OMC_PA793756",
+  "civ": "M.",
+  "communes": [
+   "Toulouse (31000)",
+   "Toulouse (31100)",
+   "Toulouse (31200)",
+   "Toulouse (31300)",
+   "Toulouse (31400)",
+   "Toulouse (31500)"
+  ],
+  "departement": "Haute-garonne",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Piquemal",
+  "numCirco": "4",
+  "numDepartement": "31",
+  "prenom": "François"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 68,

@@ -7,6 +7,22 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794130",
+  "civ": "M.",
+  "communes": [
+   "Nantes (44000)",
+   "Nantes (44100)",
+   "Nantes (44200)",
+   "Nantes (44300)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Kerbrat",
+  "numCirco": "2",
+  "numDepartement": "44",
+  "prenom": "Andy"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 58,

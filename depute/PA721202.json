@@ -21,6 +21,23 @@
   "facebook_link": "https://fr-fr.facebook.com/eric.coquerel.1/",
   "twitter_link": "https://twitter.com/@ericcoquerel/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721202",
+  "civ": "M.",
+  "communes": [
+   "Epinay-sur-Seine (93800)",
+   "L'Ile-Saint-Denis (93450)",
+   "Saint-Denis (93200)",
+   "Saint-Denis (93210)",
+   "Saint-Ouen (Seine-Saint-Denis) (93400)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Coquerel",
+  "numCirco": "1",
+  "numDepartement": "93",
+  "prenom": "Éric"
+ },
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_eric-coquerel",
  "lcdg": {
   "siege": {

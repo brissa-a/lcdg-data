@@ -7,6 +7,34 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793382",
+  "civ": "M.",
+  "communes": [
+   "Arles (13104)",
+   "Arles (13123)",
+   "Arles (13129)",
+   "Arles (13200)",
+   "Arles (13280)",
+   "Boulbon (13150)",
+   "Fontvieille (13990)",
+   "Istres (13118)",
+   "Istres (13800)",
+   "Mas-Blanc-des-Alpilles (13103)",
+   "Miramas (13140)",
+   "Saint-Etienne-du-Grès (13103)",
+   "Saint-Martin-de-Crau (13310)",
+   "Saint-Pierre-de-Mézoargues (13150)",
+   "Saintes-Maries-de-la-Mer (13460)",
+   "Tarascon (13150)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Rassemblement National",
+  "nom": "Taché de la Pagerie",
+  "numCirco": "16",
+  "numDepartement": "13",
+  "prenom": "Emmanuel"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 9,

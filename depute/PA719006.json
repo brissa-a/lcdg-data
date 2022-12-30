@@ -20,6 +20,44 @@
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/LeVigoureuxF/"
  },
+ "circo": {
+  "acteurId": "OMC_PA719006",
+  "civ": "M.",
+  "communes": [
+   "Audrieu (14250)",
+   "Authie (Calvados) (14280)",
+   "Bretteville-sur-Odon (14760)",
+   "Caen (14000)",
+   "Carcagny (14740)",
+   "Carpiquet (14650)",
+   "Cristot (14250)",
+   "Ducy-Sainte-Marguerite (14250)",
+   "Fleury-sur-Orne (14123)",
+   "Fontenay-le-Pesnel (14250)",
+   "Grainville-sur-Odon (14210)",
+   "Juvigny-sur-Seulles (14250)",
+   "Loucelles (14250)",
+   "Louvigny (Calvados) (14111)",
+   "Mondrainville (14210)",
+   "Mouen (14790)",
+   "Rots (14740)",
+   "Rots (14980)",
+   "Saint-Contest (14280)",
+   "Saint-Germain-la-Blanche-Herbe (14280)",
+   "Saint-Manvieu-Norrey (14740)",
+   "Saint-Vaast-sur-Seulles (14250)",
+   "Tessel (14250)",
+   "Thue-et-Mue (14740)",
+   "Tilly-sur-Seulles (14250)",
+   "Vendes (14250)"
+  ],
+  "departement": "Calvados",
+  "group": "Renaissance",
+  "nom": "Le Vigoureux",
+  "numCirco": "1",
+  "numDepartement": "14",
+  "prenom": "Fabrice"
+ },
  "datan": "https://datan.fr/deputes/calvados-14/depute_fabrice-levigoureux",
  "lcdg": {
   "siege": {

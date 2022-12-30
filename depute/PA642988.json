@@ -9,6 +9,33 @@
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/CarpentrasBM/"
  },
+ "circo": {
+  "acteurId": "OMC_PA642988",
+  "civ": "M.",
+  "communes": [
+   "Althen-des-Paluds (84210)",
+   "Bédarrides (84370)",
+   "Carpentras (84200)",
+   "Courthézon (84350)",
+   "Entraigues-sur-la-Sorgue (84320)",
+   "La Roque-sur-Pernes (84210)",
+   "Le Beaucet (84210)",
+   "Mazan (84380)",
+   "Monteux (84170)",
+   "Pernes-les-Fontaines (84210)",
+   "Saint-Didier (Vaucluse) (84210)",
+   "Sorgues (84700)",
+   "Vedène (84270)",
+   "Velleron (84740)",
+   "Venasque (84210)"
+  ],
+  "departement": "Vaucluse",
+  "group": "Rassemblement National",
+  "nom": "de Lépinau",
+  "numCirco": "3",
+  "numDepartement": "84",
+  "prenom": "Hervé"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 5,

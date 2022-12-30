@@ -9,6 +9,43 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@ALehenanff/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794426",
+  "civ": "Mme",
+  "communes": [
+   "Ambon (56190)",
+   "Arradon (56610)",
+   "Arzal (56190)",
+   "Arzon (56640)",
+   "Baden (56870)",
+   "Billiers (56190)",
+   "Damgan (56750)",
+   "Ile-aux-Moines (56780)",
+   "Ile-d'Arz (56840)",
+   "La Trinité-Surzur (56190)",
+   "Larmor-Baden (56870)",
+   "Le Guerno (56190)",
+   "Le Hézo (56450)",
+   "Le Tour-du-Parc (56370)",
+   "Muzillac (56190)",
+   "Noyal-Muzillac (56190)",
+   "Ploeren (56880)",
+   "Saint-Armel (Morbihan) (56450)",
+   "Saint-Avé (56890)",
+   "Saint-Gildas-de-Rhuys (56730)",
+   "Sarzeau (56370)",
+   "Surzur (56450)",
+   "Séné (56860)",
+   "Theix-Noyalo (56450)",
+   "Vannes (56000)"
+  ],
+  "departement": "Morbihan",
+  "group": "Horizons et apparentés",
+  "nom": "Le Hénanff",
+  "numCirco": "1",
+  "numDepartement": "56",
+  "prenom": "Anne"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 23,

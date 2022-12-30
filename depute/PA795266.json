@@ -7,6 +7,33 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795266",
+  "civ": "Mme",
+  "communes": [
+   "Cauville-sur-Mer (76930)",
+   "Epouville (76133)",
+   "Fontaine-la-Mallet (76290)",
+   "Fontenay (Seine-Maritime) (76290)",
+   "Le Havre (76600)",
+   "Le Havre (76610)",
+   "Le Havre (76620)",
+   "Mannevillette (76290)",
+   "Manéglise (76133)",
+   "Montivilliers (76290)",
+   "Notre-Dame-du-Bec (76133)",
+   "Octeville-sur-Mer (76930)",
+   "Rolleville (76133)",
+   "Saint-Martin-du-Manoir (76290)",
+   "Sainte-Adresse (76310)"
+  ],
+  "departement": "Seine-maritime",
+  "group": "Horizons et apparentés",
+  "nom": "Carel",
+  "numCirco": "7",
+  "numDepartement": "76",
+  "prenom": "Agnès"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 23,

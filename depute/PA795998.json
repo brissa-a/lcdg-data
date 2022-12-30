@@ -7,6 +7,22 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795998",
+  "civ": "Mme",
+  "communes": [
+   "Petite-Ile (97429)",
+   "Saint-Joseph (97480)",
+   "Saint-Pierre (97410)",
+   "Saint-Pierre (97432)"
+  ],
+  "departement": "La réunion",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "K/Bidi",
+  "numCirco": "4",
+  "numDepartement": "974",
+  "prenom": "Emeline"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 23,

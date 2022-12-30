@@ -7,6 +7,24 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA342384",
+  "civ": "Mme",
+  "communes": [
+   "Fontaine (38600)",
+   "Grenoble (38000)",
+   "Grenoble (38100)",
+   "Noyarey (38360)",
+   "Sassenage (38360)",
+   "Veurey-Voroize (38113)"
+  ],
+  "departement": "Isère",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Martin",
+  "numCirco": "3",
+  "numDepartement": "38",
+  "prenom": "Élisa"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 67,

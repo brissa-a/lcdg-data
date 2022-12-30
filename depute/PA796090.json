@@ -10,6 +10,21 @@
   "facebook_link": "https://fr-fr.facebook.com/aymeric.caron.5/",
   "twitter_link": "https://twitter.com/@CaronAymericoff/"
  },
+ "circo": {
+  "acteurId": "OMC_PA796090",
+  "civ": "M.",
+  "communes": [
+   "Paris",
+   "Paris 18eme arrondissement (75018)",
+   "Paris 9eme arrondissement (75009)"
+  ],
+  "departement": "Paris",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Caron",
+  "numCirco": "18",
+  "numDepartement": "75",
+  "prenom": "Aymeric"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 47,

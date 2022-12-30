@@ -21,6 +21,22 @@
   "facebook_link": "https://fr-fr.facebook.com/michel.herbillon.94/",
   "twitter_link": "https://twitter.com/@Michelherbillon/"
  },
+ "circo": {
+  "acteurId": "OMC_PA1630",
+  "civ": "M.",
+  "communes": [
+   "Charenton-le-Pont (94220)",
+   "Joinville-le-Pont (94340)",
+   "Maisons-Alfort (94700)",
+   "Saint-Maurice (Val-de-Marne) (94410)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Les Républicains",
+  "nom": "Herbillon",
+  "numCirco": "8",
+  "numDepartement": "94",
+  "prenom": "Michel"
+ },
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_michel-herbillon",
  "lcdg": {
   "siege": {

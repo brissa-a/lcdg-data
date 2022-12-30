@@ -21,6 +21,39 @@
   "facebook_link": "https://fr-fr.facebook.com/didier.martin.enmarche/",
   "twitter_link": "https://twitter.com/@dmartindijon/"
  },
+ "circo": {
+  "acteurId": "OMC_PA719154",
+  "civ": "M.",
+  "communes": [
+   "Ahuy (21121)",
+   "Asnières-lès-Dijon (21380)",
+   "Bellefond (Côte-d'Or) (21490)",
+   "Corcelles-les-Monts (21160)",
+   "Daix (21121)",
+   "Darois (21121)",
+   "Dijon (21000)",
+   "Etaules (Côte-d'Or) (21121)",
+   "Flavignerot (21160)",
+   "Fleurey-sur-Ouche (21410)",
+   "Fontaine-lès-Dijon (21121)",
+   "Hauteville-lès-Dijon (21121)",
+   "Lantenay (Côte-d'Or) (21370)",
+   "Messigny-et-Vantoux (21380)",
+   "Norges-la-Ville (21490)",
+   "Pasques (21370)",
+   "Plombières-lès-Dijon (21370)",
+   "Prenois (21370)",
+   "Savigny-le-Sec (21380)",
+   "Talant (21240)",
+   "Velars-sur-Ouche (21370)"
+  ],
+  "departement": "Côte-d'or",
+  "group": "Renaissance",
+  "nom": "Martin",
+  "numCirco": "1",
+  "numDepartement": "21",
+  "prenom": "Didier"
+ },
  "datan": "https://datan.fr/deputes/cote-dor-21/depute_didier-martin",
  "lcdg": {
   "siege": {

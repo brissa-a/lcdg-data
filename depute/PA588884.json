@@ -21,6 +21,21 @@
   "facebook_link": "https://fr-fr.facebook.com/clementineautain/",
   "twitter_link": "https://twitter.com/@Clem_Autain/"
  },
+ "circo": {
+  "acteurId": "OMC_PA588884",
+  "civ": "Mme",
+  "communes": [
+   "Sevran (93270)",
+   "Tremblay-en-France (93290)",
+   "Villepinte (Seine-Saint-Denis) (93420)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Autain",
+  "numCirco": "11",
+  "numDepartement": "93",
+  "prenom": "Clémentine"
+ },
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_clementine-autain",
  "lcdg": {
   "siege": {

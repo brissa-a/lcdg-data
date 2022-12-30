@@ -7,6 +7,31 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795454",
+  "civ": "M.",
+  "communes": [
+   "Algérie. Maroc. Libye",
+   "Cap-Vert",
+   "Côte d''Ivoire",
+   "Gambie",
+   "Guinée",
+   "Guinée-Bissau",
+   "Liberia",
+   "Mali",
+   "Mauritanie",
+   "Niger",
+   "Sierra Leone",
+   "Sénégal",
+   "Tunisie. Burkina"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Écologiste - NUPES",
+  "nom": "Ben Cheikh",
+  "numCirco": "9",
+  "numDepartement": "099",
+  "prenom": "Karim"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 45,

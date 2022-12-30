@@ -7,6 +7,21 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795908",
+  "civ": "M.",
+  "communes": [
+   "Toulon (83000)",
+   "Toulon (83100)",
+   "Toulon (83200)"
+  ],
+  "departement": "Var",
+  "group": "Renaissance",
+  "nom": "Chenevard",
+  "numCirco": "1",
+  "numDepartement": "83",
+  "prenom": "Yannick"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 48,

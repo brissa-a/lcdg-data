@@ -10,6 +10,21 @@
   "facebook_link": "https://fr-fr.facebook.com/CharlesFournierTours/",
   "twitter_link": "https://twitter.com/@cfourniereelv/"
  },
+ "circo": {
+  "acteurId": "OMC_PA793980",
+  "civ": "M.",
+  "communes": [
+   "Tours (37000)",
+   "Tours (37100)",
+   "Tours (37200)"
+  ],
+  "departement": "Indre-et-loire",
+  "group": "Écologiste - NUPES",
+  "nom": "Fournier",
+  "numCirco": "1",
+  "numDepartement": "37",
+  "prenom": "Charles"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 43,

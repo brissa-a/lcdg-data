@@ -18,6 +18,21 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA643157",
+  "civ": "M.",
+  "communes": [
+   "Saint-Denis (97400)",
+   "Saint-Denis (97417)",
+   "Saint-Denis (97490)"
+  ],
+  "departement": "La réunion",
+  "group": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+  "nom": "Naillet",
+  "numCirco": "1",
+  "numDepartement": "974",
+  "prenom": "Philippe"
+ },
  "datan": "https://datan.fr/deputes/reunion-974/depute_philippe-naillet",
  "lcdg": {
   "siege": {

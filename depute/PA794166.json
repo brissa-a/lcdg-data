@@ -10,6 +10,31 @@
   "facebook_link": "https://fr-fr.facebook.com/MatthiasTavelfr/",
   "twitter_link": "https://twitter.com/@MatthiasTavel/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794166",
+  "civ": "M.",
+  "communes": [
+   "Bouée (44260)",
+   "Campbon (44750)",
+   "Donges (44480)",
+   "La Chapelle-Launay (44260)",
+   "Lavau-sur-Loire (44260)",
+   "Malville (44260)",
+   "Montoir-de-Bretagne (44550)",
+   "Prinquiau (44260)",
+   "Quilly (Loire-Atlantique) (44750)",
+   "Saint-Malo-de-Guersac (44550)",
+   "Saint-Nazaire (44600)",
+   "Savenay (44260)",
+   "Trignac (44570)"
+  ],
+  "departement": "Loire-atlantique",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Tavel",
+  "numCirco": "8",
+  "numDepartement": "44",
+  "prenom": "Matthias"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 52,

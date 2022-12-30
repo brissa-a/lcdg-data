@@ -7,6 +7,21 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794106",
+  "civ": "Mme",
+  "communes": [
+   "Saint-Etienne (42000)",
+   "Saint-Etienne (42100)",
+   "Saint-Etienne (42230)"
+  ],
+  "departement": "Loire",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Taurinya",
+  "numCirco": "2",
+  "numDepartement": "42",
+  "prenom": "Andrée"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 63,

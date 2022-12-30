@@ -18,6 +18,25 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA695100",
+  "civ": "M.",
+  "communes": [
+   "Grèce",
+   "Israël",
+   "Italie",
+   "Malte",
+   "Saint-Marin",
+   "Saint-Siège. Chypre",
+   "Turquie"
+  ],
+  "departement": "Français établis hors de france",
+  "group": "Les Républicains",
+  "nom": "Habib",
+  "numCirco": "8",
+  "numDepartement": "099",
+  "prenom": "Meyer"
+ },
  "datan": "https://datan.fr/deputes/francais-de-letranger/depute_meyer-habib",
  "lcdg": {
   "siege": {

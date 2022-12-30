@@ -9,6 +9,22 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@NathalieOziol/"
  },
+ "circo": {
+  "acteurId": "OMC_PA793872",
+  "civ": "Mme",
+  "communes": [
+   "Montpellier (34000)",
+   "Montpellier (34070)",
+   "Montpellier (34080)",
+   "Montpellier (34090)"
+  ],
+  "departement": "Hérault",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Oziol",
+  "numCirco": "2",
+  "numDepartement": "34",
+  "prenom": "Nathalie"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 65,

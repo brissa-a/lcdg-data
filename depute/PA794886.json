@@ -10,6 +10,25 @@
   "facebook_link": "https://fr-fr.facebook.com/id=100086482959837/",
   "twitter_link": "https://twitter.com/@sblanc66000/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794886",
+  "civ": "Mme",
+  "communes": [
+   "Bompas (Pyrénées-Orientales) (66430)",
+   "Cabestany (66330)",
+   "Canohès (66680)",
+   "Perpignan (66000)",
+   "Perpignan (66100)",
+   "Pollestres (66450)",
+   "Toulouges (66350)"
+  ],
+  "departement": "Pyrénées-orientales",
+  "group": "Rassemblement National",
+  "nom": "Blanc",
+  "numCirco": "1",
+  "numDepartement": "66",
+  "prenom": "Sophie"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 2,

@@ -10,6 +10,41 @@
   "facebook_link": "https://fr-fr.facebook.com/karlolive/",
   "twitter_link": "https://twitter.com/@karlolive/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795722",
+  "civ": "M.",
+  "communes": [
+   "Auteuil (Yvelines) (78770)",
+   "Autouillet (78770)",
+   "Beynes (Yvelines) (78650)",
+   "Boissy-sans-Avoir (78490)",
+   "Crespières (78121)",
+   "Davron (78810)",
+   "Flexanville (78910)",
+   "Goupillières (Yvelines) (78770)",
+   "Les Alluets-le-Roi (78580)",
+   "Marcq (Yvelines) (78770)",
+   "Morainvilliers (78630)",
+   "Neauphle-le-Château (78640)",
+   "Neauphle-le-Vieux (78640)",
+   "Orgeval (Yvelines) (78630)",
+   "Plaisir (78370)",
+   "Poissy (78300)",
+   "Saint-Germain-de-la-Grange (78640)",
+   "Saulx-Marchais (78650)",
+   "Thiverval-Grignon (78850)",
+   "Thoiry (Yvelines) (78770)",
+   "Vicq (Yvelines) (78490)",
+   "Villiers-Saint-Fréderic (78640)",
+   "Villiers-le-Mahieu (78770)"
+  ],
+  "departement": "Yvelines",
+  "group": "Renaissance",
+  "nom": "Olive",
+  "numCirco": "12",
+  "numDepartement": "78",
+  "prenom": "Karl"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 40,

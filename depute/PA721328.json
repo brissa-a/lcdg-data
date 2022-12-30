@@ -21,6 +21,22 @@
   "facebook_link": "https://fr-fr.facebook.com/Anne-Brugnera/",
   "twitter_link": "https://twitter.com/@AnneBrugnera/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721328",
+  "civ": "Mme",
+  "communes": [
+   "Lyon",
+   "Lyon 3eme arrondissement (69003)",
+   "Lyon 6eme arrondissement (69006)",
+   "Lyon 8eme arrondissement (69008)"
+  ],
+  "departement": "Rhône",
+  "group": "Renaissance",
+  "nom": "Brugnera",
+  "numCirco": "4",
+  "numDepartement": "69",
+  "prenom": "Anne"
+ },
  "datan": "https://datan.fr/deputes/rhone-69/depute_anne-brugnera",
  "lcdg": {
   "siege": {

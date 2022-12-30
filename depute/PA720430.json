@@ -21,6 +21,29 @@
   "facebook_link": "https://fr-fr.facebook.com/ugobernalicis/",
   "twitter_link": "https://twitter.com/@ugobernalicis/"
  },
+ "circo": {
+  "acteurId": "OMC_PA720430",
+  "civ": "M.",
+  "communes": [
+   "Lezennes (59260)",
+   "Lille (59000)",
+   "Lille (59160)",
+   "Lille (59260)",
+   "Lille (59777)",
+   "Lille (59800)",
+   "Mons-en-Baroeul (59370)",
+   "Ronchin (59790)",
+   "Villeneuve-d'Ascq (59491)",
+   "Villeneuve-d'Ascq (59493)",
+   "Villeneuve-d'Ascq (59650)"
+  ],
+  "departement": "Nord",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Bernalicis",
+  "numCirco": "2",
+  "numDepartement": "59",
+  "prenom": "Ugo"
+ },
  "datan": "https://datan.fr/deputes/nord-59/depute_ugo-bernalicis",
  "lcdg": {
   "siege": {

@@ -21,6 +21,26 @@
   "facebook_link": "https://fr-fr.facebook.com/MTabarot/",
   "twitter_link": "https://twitter.com/@MTabarot/"
  },
+ "circo": {
+  "acteurId": "OMC_PA267794",
+  "civ": "Mme",
+  "communes": [
+   "Auribeau-sur-Siagne (06810)",
+   "Grasse (06130)",
+   "Grasse (06520)",
+   "La Roquette-sur-Siagne (06550)",
+   "Le Cannet (06110)",
+   "Mouans-Sartoux (06370)",
+   "Mougins (06250)",
+   "Pégomas (06580)"
+  ],
+  "departement": "Alpes-maritimes",
+  "group": "Les Républicains",
+  "nom": "Tabarot",
+  "numCirco": "9",
+  "numDepartement": "06",
+  "prenom": "Michèle"
+ },
  "datan": "https://datan.fr/deputes/alpes-maritimes-06/depute_michele-tabarot",
  "lcdg": {
   "siege": {

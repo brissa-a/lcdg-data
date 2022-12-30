@@ -10,6 +10,25 @@
   "facebook_link": "https://fr-fr.facebook.com/www.facebook.com/MartinetWilliam/",
   "twitter_link": "https://twitter.com/@WilliamMartinet/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795692",
+  "civ": "M.",
+  "communes": [
+   "Bois-d'Arcy (Yvelines) (78390)",
+   "Elancourt (78990)",
+   "Fontenay-le-Fleury (78330)",
+   "La Verrière (78320)",
+   "Le Mesnil-Saint-Denis (78320)",
+   "Saint-Cyr-l'Ecole (78210)",
+   "Trappes (78190)"
+  ],
+  "departement": "Yvelines",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Martinet",
+  "numCirco": "11",
+  "numDepartement": "78",
+  "prenom": "William"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 67,

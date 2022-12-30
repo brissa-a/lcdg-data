@@ -21,6 +21,21 @@
   "facebook_link": "https://fr-fr.facebook.com/@DeputeeObono/",
   "twitter_link": "https://twitter.com/@Deputee_Obono/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721960",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 18eme arrondissement (75018)",
+   "Paris 19eme arrondissement (75019)"
+  ],
+  "departement": "Paris",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Obono",
+  "numCirco": "17",
+  "numDepartement": "75",
+  "prenom": "Danièle"
+ },
  "datan": "https://datan.fr/deputes/paris-75/depute_daniele-obono",
  "lcdg": {
   "siege": {

@@ -7,6 +7,21 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795528",
+  "civ": "M.",
+  "communes": [
+   "Guyancourt (78280)",
+   "Montigny-le-Bretonneux (78180)",
+   "Versailles (78000)"
+  ],
+  "departement": "Yvelines",
+  "group": "Renaissance",
+  "nom": "Rodwell",
+  "numCirco": "1",
+  "numDepartement": "78",
+  "prenom": "Charles"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 32,

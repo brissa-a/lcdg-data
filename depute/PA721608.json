@@ -18,6 +18,22 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA721608",
+  "civ": "M.",
+  "communes": [
+   "Châtillon (Hauts-de-Seine) (92320)",
+   "Clamart (92140)",
+   "Fontenay-aux-Roses (92260)",
+   "Le Plessis-Robinson (92350)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Bourlanges",
+  "numCirco": "12",
+  "numDepartement": "92",
+  "prenom": "Jean-Louis"
+ },
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_jeanlouis-bourlanges",
  "lcdg": {
   "siege": {

@@ -7,6 +7,31 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794650",
+  "civ": "M.",
+  "communes": [
+   "Annay (Pas-de-Calais) (62880)",
+   "Avion (62210)",
+   "Billy-Montigny (62420)",
+   "Estevelles (62880)",
+   "Fouquières-lès-Lens (62740)",
+   "Harnes (62440)",
+   "Lens (62300)",
+   "Loison-sous-Lens (62218)",
+   "Loos-en-Gohelle (62750)",
+   "Méricourt (62680)",
+   "Noyelles-sous-Lens (62221)",
+   "Pont-à-Vendin (62880)",
+   "Sallaumines (62430)"
+  ],
+  "departement": "Pas-de-calais",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "Tellier",
+  "numCirco": "3",
+  "numDepartement": "62",
+  "prenom": "Jean-Marc"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 31,

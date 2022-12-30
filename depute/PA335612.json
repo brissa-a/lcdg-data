@@ -20,6 +20,24 @@
  "an_www_social": {
   "facebook_link": "https://fr-fr.facebook.com/jplecoq76/"
  },
+ "circo": {
+  "acteurId": "OMC_PA335612",
+  "civ": "M.",
+  "communes": [
+   "Gainneville (76700)",
+   "Gonfreville-l'Orcher (76700)",
+   "Harfleur (76700)",
+   "Le Havre (76600)",
+   "Le Havre (76610)",
+   "Le Havre (76620)"
+  ],
+  "departement": "Seine-maritime",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "Lecoq",
+  "numCirco": "8",
+  "numDepartement": "76",
+  "prenom": "Jean-Paul"
+ },
  "datan": "https://datan.fr/deputes/seine-maritime-76/depute_jeanpaul-lecoq",
  "lcdg": {
   "siege": {

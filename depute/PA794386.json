@@ -7,6 +7,23 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA794386",
+  "civ": "Mme",
+  "communes": [
+   "Groix (56590)",
+   "Lanester (56600)",
+   "Larmor-Plage (56260)",
+   "Lorient (56100)",
+   "Ploemeur (56270)"
+  ],
+  "departement": "Morbihan",
+  "group": "Renaissance",
+  "nom": "Métayer",
+  "numCirco": "5",
+  "numDepartement": "56",
+  "prenom": "Lysiane"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 55,

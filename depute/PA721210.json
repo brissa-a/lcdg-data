@@ -21,6 +21,20 @@
   "facebook_link": "https://fr-fr.facebook.com/Alexiscorbiere/",
   "twitter_link": "https://twitter.com/@alexiscorbiere/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721210",
+  "civ": "M.",
+  "communes": [
+   "Bagnolet (93170)",
+   "Montreuil (93100)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Corbière",
+  "numCirco": "7",
+  "numDepartement": "93",
+  "prenom": "Alexis"
+ },
  "datan": "https://datan.fr/deputes/seine-saint-denis-93/depute_alexis-corbiere",
  "lcdg": {
   "siege": {

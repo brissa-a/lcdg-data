@@ -7,6 +7,24 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA796010",
+  "civ": "M.",
+  "communes": [
+   "Saint-André (97440)",
+   "Saint-Denis (97400)",
+   "Saint-Denis (97417)",
+   "Saint-Denis (97490)",
+   "Sainte-Marie (La Réunion) (97438)",
+   "Sainte-Suzanne (La Réunion) (97441)"
+  ],
+  "departement": "La réunion",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "Maillot",
+  "numCirco": "6",
+  "numDepartement": "974",
+  "prenom": "Frédéric"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 22,

@@ -21,6 +21,25 @@
   "facebook_link": "https://fr-fr.facebook.com/marielebec2017/",
   "twitter_link": "https://twitter.com/@marielebec78/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721852",
+  "civ": "Mme",
+  "communes": [
+   "Carrières-sur-Seine (78420)",
+   "Chatou (78400)",
+   "Croissy-sur-Seine (78290)",
+   "Houilles (78800)",
+   "Le Port-Marly (78560)",
+   "Louveciennes (78430)",
+   "Marly-le-Roi (78160)"
+  ],
+  "departement": "Yvelines",
+  "group": "Renaissance",
+  "nom": "Lebec",
+  "numCirco": "4",
+  "numDepartement": "78",
+  "prenom": "Marie"
+ },
  "datan": "https://datan.fr/deputes/yvelines-78/depute_marie-lebec",
  "lcdg": {
   "siege": {

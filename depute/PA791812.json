@@ -7,6 +7,21 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA791812",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 11eme arrondissement (75011)",
+   "Paris 20eme arrondissement (75020)"
+  ],
+  "departement": "Paris",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Chikirou",
+  "numCirco": "6",
+  "numDepartement": "75",
+  "prenom": "Sophia"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 46,

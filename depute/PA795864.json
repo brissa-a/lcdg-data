@@ -9,6 +9,21 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@PierreCazeneuve/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795864",
+  "civ": "M.",
+  "communes": [
+   "Garches (92380)",
+   "Rueil-Malmaison (92500)",
+   "Saint-Cloud (92210)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Renaissance",
+  "nom": "Cazeneuve",
+  "numCirco": "7",
+  "numDepartement": "92",
+  "prenom": "Pierre"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 27,

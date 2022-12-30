@@ -21,6 +21,40 @@
   "facebook_link": "https://fr-fr.facebook.com/guillaume.vuilletet/",
   "twitter_link": "https://twitter.com/@g_vuilletet/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721262",
+  "civ": "M.",
+  "communes": [
+   "Asnières-sur-Oise (95270)",
+   "Baillet-en-France (95560)",
+   "Belloy-en-France (95270)",
+   "Cergy (95000)",
+   "Cergy (95800)",
+   "Eragny (95610)",
+   "L'Isle-Adam (95290)",
+   "Maffliers (95560)",
+   "Montsoult (95560)",
+   "Mériel (95630)",
+   "Méry-sur-Oise (95540)",
+   "Nerville-la-Forêt (95590)",
+   "Neuville-sur-Oise (95000)",
+   "Noisy-sur-Oise (95270)",
+   "Parmain (95620)",
+   "Presles (Val-d'Oise) (95590)",
+   "Saint-Martin-du-Tertre (Val-d'Oise) (95270)",
+   "Saint-Ouen-l'Aumône (95310)",
+   "Seugy (95270)",
+   "Viarmes (95270)",
+   "Villaines-sous-Bois (95570)",
+   "Villiers-Adam (95840)"
+  ],
+  "departement": "Val-d'oise",
+  "group": "Renaissance",
+  "nom": "Vuilletet",
+  "numCirco": "2",
+  "numDepartement": "95",
+  "prenom": "Guillaume"
+ },
  "datan": "https://datan.fr/deputes/val-doise-95/depute_guillaume-vuilletet",
  "lcdg": {
   "siege": {

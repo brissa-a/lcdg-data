@@ -21,6 +21,25 @@
   "facebook_link": "https://fr-fr.facebook.com/Maud.Petit.off/",
   "twitter_link": "https://twitter.com/@MaudPetit_AN94/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721234",
+  "civ": "Mme",
+  "communes": [
+   "Chennevières-sur-Marne (94430)",
+   "La Queue-en-Brie (94510)",
+   "Le Plessis-Trévise (94420)",
+   "Noiseau (94880)",
+   "Ormesson-sur-Marne (94490)",
+   "Sucy-en-Brie (94370)",
+   "Villiers-sur-Marne (94350)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Petit",
+  "numCirco": "4",
+  "numDepartement": "94",
+  "prenom": "Maud"
+ },
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_maud-petit",
  "lcdg": {
   "siege": {

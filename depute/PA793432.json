@@ -9,6 +9,28 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@franckallisio/"
  },
+ "circo": {
+  "acteurId": "OMC_PA793432",
+  "civ": "M.",
+  "communes": [
+   "Carry-le-Rouet (13620)",
+   "Châteauneuf-les-Martigues (13220)",
+   "Ensuès-la-Redonne (13820)",
+   "Gignac-la-Nerthe (13180)",
+   "Le Rove (13740)",
+   "Marignane (13700)",
+   "Saint-Victoret (13700)",
+   "Saint-Victoret (13730)",
+   "Sausset-les-Pins (13960)",
+   "Vitrolles (Bouches-du-Rhône) (13127)"
+  ],
+  "departement": "Bouches-du-rhône",
+  "group": "Rassemblement National",
+  "nom": "Allisio",
+  "numCirco": "12",
+  "numDepartement": "13",
+  "prenom": "Franck"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 2,

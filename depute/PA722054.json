@@ -10,6 +10,32 @@
   "facebook_link": "https://fr-fr.facebook.com/NadiaHai7811/",
   "twitter_link": "https://twitter.com/@NadiaHai78/"
  },
+ "circo": {
+  "acteurId": "OMC_PA722054",
+  "civ": "Mme",
+  "communes": [
+   "Andrésy (78570)",
+   "Chanteloup-les-Vignes (78570)",
+   "Conflans-Sainte-Honorine (78700)",
+   "Evecquemont (78740)",
+   "Gaillon-sur-Montcient (78250)",
+   "Hardricourt (78250)",
+   "Maurecourt (78780)",
+   "Meulan-en-Yvelines (78250)",
+   "Mézy-sur-Seine (78250)",
+   "Tessancourt-sur-Aubette (78250)",
+   "Triel-sur-Seine (78510)",
+   "Vaux-sur-Seine (78740)",
+   "Verneuil-sur-Seine (78480)",
+   "Vernouillet (Yvelines) (78540)"
+  ],
+  "departement": "Yvelines",
+  "group": "Renaissance",
+  "nom": "Hai",
+  "numCirco": "7",
+  "numDepartement": "78",
+  "prenom": "Nadia"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 20,

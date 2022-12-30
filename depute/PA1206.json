@@ -21,6 +21,23 @@
   "facebook_link": "https://fr-fr.facebook.com/nicolasdupontaignan/",
   "twitter_link": "https://twitter.com/@dupontaignan/"
  },
+ "circo": {
+  "acteurId": "OMC_PA1206",
+  "civ": "M.",
+  "communes": [
+   "Brunoy (91800)",
+   "Crosne (91560)",
+   "Montgeron (91230)",
+   "Vigneux-sur-Seine (91270)",
+   "Yerres (91330)"
+  ],
+  "departement": "Essonne",
+  "group": "Non inscrit",
+  "nom": "Dupont-Aignan",
+  "numCirco": "8",
+  "numDepartement": "91",
+  "prenom": "Nicolas"
+ },
  "datan": "https://datan.fr/deputes/essonne-91/depute_nicolas-dupontaignan",
  "lcdg": {
   "siege": {

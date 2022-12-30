@@ -21,6 +21,21 @@
   "facebook_link": "https://fr-fr.facebook.com/gatelmaud/",
   "twitter_link": "https://twitter.com/@maudgatel/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721760",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 14eme arrondissement (75014)",
+   "Paris 6eme arrondissement (75006)"
+  ],
+  "departement": "Paris",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Gatel",
+  "numCirco": "11",
+  "numDepartement": "75",
+  "prenom": "Maud"
+ },
  "datan": "https://datan.fr/deputes/paris-75/depute_maud-gatel",
  "lcdg": {
   "siege": {

@@ -21,6 +21,23 @@
   "facebook_link": "https://fr-fr.facebook.com/hjulienlaferriere/",
   "twitter_link": "https://twitter.com/@hub_laferriere/"
  },
+ "circo": {
+  "acteurId": "OMC_PA722344",
+  "civ": "M.",
+  "communes": [
+   "Lyon",
+   "Lyon 1er arrondissement (69001)",
+   "Lyon 2eme arrondissement (69002)",
+   "Lyon 4eme arrondissement (69004)",
+   "Lyon 9eme arrondissement (69009)"
+  ],
+  "departement": "Rhône",
+  "group": "Écologiste - NUPES",
+  "nom": "Julien-Laferrière",
+  "numCirco": "2",
+  "numDepartement": "69",
+  "prenom": "Hubert"
+ },
  "datan": "https://datan.fr/deputes/rhone-69/depute_hubert-julienlaferriere",
  "lcdg": {
   "siege": {

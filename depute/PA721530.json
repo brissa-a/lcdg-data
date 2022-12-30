@@ -20,6 +20,41 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@AudeLuquet77/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721530",
+  "civ": "Mme",
+  "communes": [
+   "Arbonne-la-Forêt (77630)",
+   "Barbizon (77630)",
+   "Boissise-le-Roi (77310)",
+   "Chailly-en-Bière (77930)",
+   "Cély (77930)",
+   "Dammarie-les-Lys (77190)",
+   "Fleury-en-Bière (77930)",
+   "La Rochette (Seine-et-Marne) (77000)",
+   "Livry-sur-Seine (77000)",
+   "Maincy (77950)",
+   "Melun (77000)",
+   "Montereau-sur-le-Jard (77950)",
+   "Perthes (Seine-et-Marne) (77930)",
+   "Pringy (Seine-et-Marne) (77310)",
+   "Rubelles (77950)",
+   "Saint-Fargeau-Ponthierry (77310)",
+   "Saint-Germain-Laxis (77950)",
+   "Saint-Germain-sur-Ecole (77930)",
+   "Saint-Martin-en-Bière (77630)",
+   "Saint-Sauveur-sur-Ecole (77930)",
+   "Vaux-le-Pénil (77000)",
+   "Villiers-en-Bière (77190)",
+   "Voisenon (77950)"
+  ],
+  "departement": "Seine-et-marne",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Luquet",
+  "numCirco": "1",
+  "numDepartement": "77",
+  "prenom": "Aude"
+ },
  "datan": "https://datan.fr/deputes/seine-et-marne-77/depute_aude-luquet",
  "lcdg": {
   "siege": {

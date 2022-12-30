@@ -10,6 +10,20 @@
   "facebook_link": "https://fr-fr.facebook.com/paulvannier/",
   "twitter_link": "https://twitter.com/@PaulVannierFI/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795596",
+  "civ": "M.",
+  "communes": [
+   "Argenteuil (95100)",
+   "Bezons (95870)"
+  ],
+  "departement": "Val-d'oise",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Vannier",
+  "numCirco": "5",
+  "numDepartement": "95",
+  "prenom": "Paul"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 71,

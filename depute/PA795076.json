@@ -9,6 +9,20 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@sandrousseau/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795076",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 13eme arrondissement (75013)"
+  ],
+  "departement": "Paris",
+  "group": "Écologiste - NUPES",
+  "nom": "Rousseau",
+  "numCirco": "9",
+  "numDepartement": "75",
+  "prenom": "Sandrine"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 33,

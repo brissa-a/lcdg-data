@@ -10,6 +10,20 @@
   "facebook_link": "https://fr-fr.facebook.com/david.guiraud.50/",
   "twitter_link": "https://twitter.com/@guiraudind/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794478",
+  "civ": "M.",
+  "communes": [
+   "Roubaix (59100)",
+   "Wattrelos (59150)"
+  ],
+  "departement": "Nord",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Guiraud",
+  "numCirco": "8",
+  "numDepartement": "59",
+  "prenom": "David"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 64,

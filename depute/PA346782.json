@@ -10,6 +10,21 @@
   "facebook_link": "https://fr-fr.facebook.com/philippe.juvin/",
   "twitter_link": "https://twitter.com/@philippejuvin/"
  },
+ "circo": {
+  "acteurId": "OMC_PA346782",
+  "civ": "M.",
+  "communes": [
+   "Bois-Colombes (92270)",
+   "Courbevoie (92400)",
+   "La Garenne-Colombes (92250)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Les Républicains",
+  "nom": "Juvin",
+  "numCirco": "3",
+  "numDepartement": "92",
+  "prenom": "Philippe"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 11,

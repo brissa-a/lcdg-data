@@ -10,6 +10,29 @@
   "facebook_link": "https://fr-fr.facebook.com/mickael.bouloux/",
   "twitter_link": "https://twitter.com/@MickaelBouloux/"
  },
+ "circo": {
+  "acteurId": "OMC_PA794094",
+  "civ": "M.",
+  "communes": [
+   "Chavagne (35310)",
+   "Cintré (35310)",
+   "L'Hermitage (35590)",
+   "Le Rheu (35650)",
+   "Mordelles (35310)",
+   "Rennes (35000)",
+   "Rennes (35200)",
+   "Rennes (35700)",
+   "Saint-Gilles (Ille-et-Vilaine) (35590)",
+   "Saint-Jacques-de-la-Lande (35136)",
+   "Vezin-le-Coquet (35132)"
+  ],
+  "departement": "Ille-et-vilaine",
+  "group": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+  "nom": "Bouloux",
+  "numCirco": "8",
+  "numDepartement": "35",
+  "prenom": "Mickaël"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 55,

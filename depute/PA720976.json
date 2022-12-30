@@ -18,6 +18,25 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA720976",
+  "civ": "M.",
+  "communes": [
+   "Baie-Mahault (97122)",
+   "Deshaies (97126)",
+   "Goyave (97128)",
+   "Lamentin (97129)",
+   "Petit-Bourg (97170)",
+   "Pointe-Noire (Guadeloupe) (97116)",
+   "Sainte-Rose (97115)"
+  ],
+  "departement": "Guadeloupe",
+  "group": "Libertés, Indépendants, Outre-mer et Territoires",
+  "nom": "Mathiasin",
+  "numCirco": "3",
+  "numDepartement": "971",
+  "prenom": "Max"
+ },
  "datan": "https://datan.fr/deputes/guadeloupe-971/depute_max-mathiasin",
  "lcdg": {
   "siege": {

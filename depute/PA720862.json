@@ -21,6 +21,23 @@
   "facebook_link": "https://fr-fr.facebook.com/fdescrozaille9401/",
   "twitter_link": "https://twitter.com/@fdescrozaille/"
  },
+ "circo": {
+  "acteurId": "OMC_PA720862",
+  "civ": "M.",
+  "communes": [
+   "Bonneuil-sur-Marne (94380)",
+   "Champigny-sur-Marne (94500)",
+   "Créteil (94000)",
+   "Saint-Maur-des-Fossés (94100)",
+   "Saint-Maur-des-Fossés (94210)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Renaissance",
+  "nom": "Descrozaille",
+  "numCirco": "1",
+  "numDepartement": "94",
+  "prenom": "Frédéric"
+ },
  "datan": "https://datan.fr/deputes/val-de-marne-94/depute_frederic-descrozaille",
  "lcdg": {
   "siege": {

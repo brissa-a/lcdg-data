@@ -7,6 +7,22 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA793860",
+  "civ": "M.",
+  "communes": [
+   "Canéjan (33610)",
+   "Cestas (33610)",
+   "Gradignan (33170)",
+   "Pessac (33600)"
+  ],
+  "departement": "Gironde",
+  "group": "Démocrate (MoDem et Indépendants)",
+  "nom": "Zgainski",
+  "numCirco": "7",
+  "numDepartement": "33",
+  "prenom": "Frédéric"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 36,

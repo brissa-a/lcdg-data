@@ -9,6 +9,21 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@_EvaSas/"
  },
+ "circo": {
+  "acteurId": "OMC_PA610002",
+  "civ": "Mme",
+  "communes": [
+   "Paris",
+   "Paris 12eme arrondissement (75012)",
+   "Paris 20eme arrondissement (75020)"
+  ],
+  "departement": "Paris",
+  "group": "Écologiste - NUPES",
+  "nom": "Sas",
+  "numCirco": "8",
+  "numDepartement": "75",
+  "prenom": "Eva"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 31,

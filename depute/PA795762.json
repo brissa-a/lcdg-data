@@ -7,6 +7,29 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA795762",
+  "civ": "M.",
+  "communes": [
+   "Baillif (97123)",
+   "Basse-Terre (97100)",
+   "Bouillante (97125)",
+   "Capesterre-Belle-Eau (97130)",
+   "Gourbeyre (97113)",
+   "Saint-Claude (Guadeloupe) (97120)",
+   "Terre-de-Bas (97136)",
+   "Terre-de-Haut (97137)",
+   "Trois-Rivières (97114)",
+   "Vieux-Fort (97141)",
+   "Vieux-Habitants (97119)"
+  ],
+  "departement": "Guadeloupe",
+  "group": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+  "nom": "Califer",
+  "numCirco": "4",
+  "numDepartement": "971",
+  "prenom": "Elie"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 39,

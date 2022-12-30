@@ -21,6 +21,20 @@
   "facebook_link": "https://fr-fr.facebook.com/CelineCalvez/",
   "twitter_link": "https://twitter.com/@celinecalvez/"
  },
+ "circo": {
+  "acteurId": "OMC_PA721750",
+  "civ": "Mme",
+  "communes": [
+   "Clichy (92110)",
+   "Levallois-Perret (92300)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Renaissance",
+  "nom": "Calvez",
+  "numCirco": "5",
+  "numDepartement": "92",
+  "prenom": "Céline"
+ },
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_celine-calvez",
  "lcdg": {
   "siege": {

@@ -18,6 +18,35 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA606639",
+  "civ": "M.",
+  "communes": [
+   "Candillargues (34130)",
+   "La Grande-Motte (34280)",
+   "Lansargues (34130)",
+   "Lunel (34400)",
+   "Lunel-Viel (34400)",
+   "Marsillargues (34590)",
+   "Mauguio (34130)",
+   "Mauguio (34280)",
+   "Montpellier (34000)",
+   "Montpellier (34070)",
+   "Montpellier (34080)",
+   "Montpellier (34090)",
+   "Mudaison (34130)",
+   "Saint-Aunès (34130)",
+   "Saint-Just (Hérault) (34400)",
+   "Saint-Nazaire-de-Pézan (34400)",
+   "Valergues (34130)"
+  ],
+  "departement": "Hérault",
+  "group": "Renaissance",
+  "nom": "Vignal",
+  "numCirco": "9",
+  "numDepartement": "34",
+  "prenom": "Patrick"
+ },
  "datan": "https://datan.fr/deputes/herault-34/depute_patrick-vignal",
  "lcdg": {
   "siege": {

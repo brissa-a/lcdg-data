@@ -21,6 +21,21 @@
   "facebook_link": "https://fr-fr.facebook.com/Deputee.ConstanceLeGrip/",
   "twitter_link": "https://twitter.com/@ConstanceLeGrip/"
  },
+ "circo": {
+  "acteurId": "OMC_PA345722",
+  "civ": "Mme",
+  "communes": [
+   "Courbevoie (92400)",
+   "Neuilly-sur-Seine (92200)",
+   "Puteaux (92800)"
+  ],
+  "departement": "Hauts-de-seine",
+  "group": "Renaissance",
+  "nom": "Le Grip",
+  "numCirco": "6",
+  "numDepartement": "92",
+  "prenom": "Constance"
+ },
  "datan": "https://datan.fr/deputes/hauts-de-seine-92/depute_constance-legrip",
  "lcdg": {
   "siege": {

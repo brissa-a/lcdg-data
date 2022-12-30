@@ -9,6 +9,24 @@
  "an_www_social": {
   "twitter_link": "https://twitter.com/@LegavreJerome/"
  },
+ "circo": {
+  "acteurId": "OMC_PA795298",
+  "civ": "M.",
+  "communes": [
+   "Clichy-sous-Bois (93390)",
+   "Coubron (93470)",
+   "Le Raincy (93340)",
+   "Livry-Gargan (93190)",
+   "Montfermeil (93370)",
+   "Vaujours (93410)"
+  ],
+  "departement": "Seine-saint-denis",
+  "group": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+  "nom": "Legavre",
+  "numCirco": "12",
+  "numDepartement": "93",
+  "prenom": "Jérôme"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 78,

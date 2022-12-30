@@ -7,6 +7,22 @@
  },
  "an_www_pic": {},
  "an_www_social": {},
+ "circo": {
+  "acteurId": "OMC_PA736201",
+  "civ": "Mme",
+  "communes": [
+   "Arcueil (94110)",
+   "Cachan (94230)",
+   "Gentilly (94250)",
+   "Villejuif (94800)"
+  ],
+  "departement": "Val-de-marne",
+  "group": "Écologiste - NUPES",
+  "nom": "Taillé-Polian",
+  "numCirco": "11",
+  "numDepartement": "94",
+  "prenom": "Sophie"
+ },
  "lcdg": {
   "siege": {
    "curAngleIndex": 20,

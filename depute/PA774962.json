@@ -21,6 +21,26 @@
   "facebook_link": "https://fr-fr.facebook.com/Karine.Lebon974/",
   "twitter_link": "https://twitter.com/@KarineLebon/"
  },
+ "circo": {
+  "acteurId": "OMC_PA774962",
+  "civ": "Mme",
+  "communes": [
+   "La Possession (97419)",
+   "Le Port (La Réunion) (97420)",
+   "Saint-Paul (97411)",
+   "Saint-Paul (97422)",
+   "Saint-Paul (97423)",
+   "Saint-Paul (97434)",
+   "Saint-Paul (97435)",
+   "Saint-Paul (97460)"
+  ],
+  "departement": "La réunion",
+  "group": "Gauche démocrate et républicaine - NUPES",
+  "nom": "Lebon",
+  "numCirco": "2",
+  "numDepartement": "974",
+  "prenom": "Karine"
+ },
  "datan": "https://datan.fr/deputes/reunion-974/depute_karine-lebon",
  "lcdg": {
   "siege": {
