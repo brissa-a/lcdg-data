@@ -25,21 +25,9 @@
   "acteurId": "OMC_PA720900",
   "civ": "Mme",
   "communes": [
-   "Beauchamp (95250)",
-   "Bessancourt (95550)",
-   "Béthemont-la-Forêt (95840)",
-   "Chauvry (95560)",
-   "Cormeilles-en-Parisis (95240)",
-   "Frépillon (95740)",
-   "Herblay (95220)",
-   "La Frette-sur-Seine (95530)",
-   "Le Plessis-Bouchard (95130)",
-   "Montigny-lès-Cormeilles (95370)",
-   "Pierrelaye (95220)",
-   "Pierrelaye (95480)",
-   "Taverny (95150)"
+   ""
   ],
-  "departement": "Val-d'oise",
+  "departement": "Val-d'Oise",
   "group": "Renaissance",
   "nom": "Rilhac",
   "numCirco": "3",

@@ -14,11 +14,10 @@
   "acteurId": "OMC_PA340643",
   "civ": "M.",
   "communes": [
-   "Marseille",
    "Marseille 10eme arrondissement (13010)",
    "Marseille 9eme arrondissement (13009)"
   ],
-  "departement": "Bouches-du-rhône",
+  "departement": "Bouches-du-Rhône",
   "group": "Renaissance",
   "nom": "Royer-Perreaut",
   "numCirco": "6",

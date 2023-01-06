@@ -25,11 +25,10 @@
   "acteurId": "OMC_PA718910",
   "civ": "Mme",
   "communes": [
-   "Marseille",
    "Marseille 7eme arrondissement (13007)",
    "Marseille 8eme arrondissement (13008)"
   ],
-  "departement": "Bouches-du-rhône",
+  "departement": "Bouches-du-Rhône",
   "group": "Renaissance",
   "nom": "Pitollat",
   "numCirco": "2",

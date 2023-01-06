@@ -14,12 +14,11 @@
   "acteurId": "OMC_PA793278",
   "civ": "Mme",
   "communes": [
-   "Marseille",
    "Marseille 10eme arrondissement (13010)",
    "Marseille 11eme arrondissement (13011)",
    "Marseille 12eme arrondissement (13012)"
   ],
-  "departement": "Bouches-du-rhône",
+  "departement": "Bouches-du-Rhône",
   "group": "Renaissance",
   "nom": "Agresti-Roubache",
   "numCirco": "1",
