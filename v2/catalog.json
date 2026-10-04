@@ -6,8 +6,8 @@
    "entity": "deputy",
    "key": "deputy_id",
    "rows": 649,
-   "size": 136284,
-   "gzipSize": 24188,
+   "size": 133479,
+   "gzipSize": 24071,
    "features": [
     {
      "title": "Photo",
@@ -27,14 +27,7 @@
     {
      "title": "Civilité",
      "type": "category",
-     "values": [
-      "M.",
-      "Mme"
-     ],
-     "colors": {
-      "M.": "#4a86a8",
-      "Mme": "#b0549a"
-     },
+     "values": "deputies/values/civility.csv",
      "column": "civility"
     },
     {
@@ -45,23 +38,12 @@
     {
      "title": "Âge",
      "type": "number",
-     "gradient": [
-      "#fde0c5",
-      "#7a2e0e"
-     ],
      "column": "age"
     },
     {
      "title": "En exercice",
      "type": "category",
-     "values": [
-      "yes",
-      "no"
-     ],
-     "colors": {
-      "yes": "#2e7d32",
-      "no": "#bdbdbd"
-     },
+     "values": "deputies/values/yes_no.csv",
      "column": "in_office"
     },
     {
@@ -72,58 +54,7 @@
     {
      "title": "Région",
      "type": "category",
-     "values": [
-      "Auvergne-Rhône-Alpes",
-      "Bourgogne-Franche-Comté",
-      "Bretagne",
-      "Centre-Val de Loire",
-      "Corse",
-      "Grand Est",
-      "Hauts-de-France",
-      "Ile-de-France",
-      "Normandie",
-      "Nouvelle-Aquitaine",
-      "Occitanie",
-      "Pays de la Loire",
-      "Provence-Alpes-Côte d'Azur",
-      "Guadeloupe",
-      "Guyane",
-      "Martinique",
-      "Mayotte",
-      "Réunion",
-      "Nouvelle-Calédonie",
-      "Polynésie française",
-      "Saint-Barthélemy et Saint-Martin",
-      "Saint-Pierre-et-Miquelon",
-      "Wallis-et-Futuna",
-      "Français établis hors de France"
-     ],
-     "colors": {
-      "Auvergne-Rhône-Alpes": "#1f77b4",
-      "Bourgogne-Franche-Comté": "#8c564b",
-      "Bretagne": "#2ca02c",
-      "Centre-Val de Loire": "#bcbd22",
-      "Corse": "#9467bd",
-      "Grand Est": "#ff7f0e",
-      "Hauts-de-France": "#d62728",
-      "Ile-de-France": "#e377c2",
-      "Normandie": "#17becf",
-      "Nouvelle-Aquitaine": "#aec7e8",
-      "Occitanie": "#ffbb78",
-      "Pays de la Loire": "#98df8a",
-      "Provence-Alpes-Côte d'Azur": "#c5b0d5",
-      "Guadeloupe": "#00796b",
-      "Guyane": "#00897b",
-      "Martinique": "#009688",
-      "Mayotte": "#26a69a",
-      "Réunion": "#4db6ac",
-      "Nouvelle-Calédonie": "#0277bd",
-      "Polynésie française": "#0288d1",
-      "Saint-Barthélemy et Saint-Martin": "#80cbc4",
-      "Saint-Pierre-et-Miquelon": "#4fc3f7",
-      "Wallis-et-Futuna": "#29b6f6",
-      "Français établis hors de France": "#757575"
-     },
+     "values": "deputies/values/region.csv",
      "column": "region"
     },
     {
@@ -149,42 +80,8 @@
     {
      "title": "Groupe politique",
      "type": "category",
-     "column": "group",
-     "colors": {
-      "Socialistes et apparentés": "#F5B4CE",
-      "Droite Républicaine": "#8CB0DC",
-      "Libertés, Indépendants, Outre-mer et Territoires": "#FFD96F",
-      "Ensemble pour la République": "#7B4591",
-      "Gauche Démocrate et Républicaine": "#830E21",
-      "Les Démocrates": "#F07E26",
-      "UDR": "#3367A7",
-      "Horizons & Indépendants": "#B5E2F9",
-      "Écologiste et Social": "#77AA79",
-      "Non inscrit": "#8D949A",
-      "Union des droites pour la République": "#3367A7",
-      "La France insoumise - Nouveau Front Populaire": "#C00D0D",
-      "Rassemblement National": "#313567"
-     }
-    },
-    {
-     "title": "Groupe (sigle)",
-     "type": "category",
-     "column": "group_short",
-     "colors": {
-      "SOC": "#F5B4CE",
-      "DR": "#8CB0DC",
-      "LIOT": "#FFD96F",
-      "EPR": "#7B4591",
-      "GDR": "#830E21",
-      "DEM": "#F07E26",
-      "UDR": "#3367A7",
-      "HOR": "#B5E2F9",
-      "ECOS": "#77AA79",
-      "NI": "#8D949A",
-      "UDDPLR": "#3367A7",
-      "LFI-NFP": "#C00D0D",
-      "RN": "#313567"
-     }
+     "values": "deputies/values/group.csv",
+     "column": "group"
     }
    ]
   },
@@ -252,8 +149,8 @@
    "entity": "vote",
    "key": "vote_id",
    "rows": 8509,
-   "size": 3450052,
-   "gzipSize": 175750,
+   "size": 3795162,
+   "gzipSize": 203773,
    "features": [
     {
      "title": "Numéro",
@@ -273,42 +170,19 @@
     {
      "title": "Type de scrutin",
      "type": "category",
-     "values": [
-      "scrutin public ordinaire",
-      "scrutin public solennel",
-      "motion de censure"
-     ],
-     "colors": {
-      "scrutin public ordinaire": "#90a4ae",
-      "scrutin public solennel": "#3949ab",
-      "motion de censure": "#c62828"
-     },
+     "values": "votes/values/kind.csv",
      "column": "kind"
     },
     {
      "title": "Résultat",
      "type": "category",
-     "values": [
-      "adopté",
-      "rejeté"
-     ],
-     "colors": {
-      "adopté": "#2e7d32",
-      "rejeté": "#c62828"
-     },
+     "values": "votes/values/result.csv",
      "column": "result"
     },
     {
      "title": "Vote majeur",
      "type": "category",
-     "values": [
-      "yes",
-      "no"
-     ],
-     "colors": {
-      "yes": "#2e7d32",
-      "no": "#bdbdbd"
-     },
+     "values": "votes/values/yes_no.csv",
      "column": "major"
     },
     {
@@ -320,6 +194,11 @@
      "title": "Fichier des positions",
      "type": "code",
      "column": "file"
+    },
+    {
+     "title": "Scrutin sur le site de l'Assemblée",
+     "type": "link",
+     "column": "url"
     }
    ]
   },
@@ -336,20 +215,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -366,20 +232,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -396,20 +249,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -426,20 +266,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -456,20 +283,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -486,20 +300,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -516,20 +317,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -546,20 +334,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -576,20 +351,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -606,20 +368,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -636,20 +385,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -666,20 +402,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -696,20 +419,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -726,20 +436,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -756,20 +453,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -786,20 +470,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -816,20 +487,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -846,20 +504,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -876,20 +521,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -906,20 +538,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -936,20 +555,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -966,20 +572,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -996,20 +589,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1026,20 +606,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1056,20 +623,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1086,20 +640,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1116,20 +657,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1146,20 +674,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1176,20 +691,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1206,20 +708,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1236,20 +725,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1266,20 +742,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1296,20 +759,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1326,20 +776,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1356,20 +793,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1386,20 +810,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1416,20 +827,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1446,20 +844,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1476,20 +861,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1506,20 +878,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1536,20 +895,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1566,20 +912,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1596,20 +929,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1626,20 +946,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1656,20 +963,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1686,20 +980,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1716,20 +997,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1746,20 +1014,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1776,20 +1031,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1806,20 +1048,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1836,20 +1065,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1866,20 +1082,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1896,20 +1099,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1926,20 +1116,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1956,20 +1133,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -1986,20 +1150,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2016,20 +1167,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2046,20 +1184,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2076,20 +1201,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2106,20 +1218,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2136,20 +1235,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2166,20 +1252,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2196,20 +1269,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2226,20 +1286,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2256,20 +1303,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2286,20 +1320,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2316,20 +1337,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2346,20 +1354,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2376,20 +1371,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2406,20 +1388,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2436,20 +1405,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2466,20 +1422,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2496,20 +1439,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2526,20 +1456,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2556,20 +1473,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2586,20 +1490,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2616,20 +1507,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2646,20 +1524,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2676,20 +1541,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2706,20 +1558,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2736,20 +1575,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2766,20 +1592,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2796,20 +1609,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2826,20 +1626,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2856,20 +1643,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2886,20 +1660,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2916,20 +1677,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2946,20 +1694,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -2976,20 +1711,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3006,20 +1728,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3036,20 +1745,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3066,20 +1762,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3096,20 +1779,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3126,20 +1796,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3156,20 +1813,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3186,20 +1830,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3216,20 +1847,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3246,20 +1864,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3276,20 +1881,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3306,20 +1898,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3336,20 +1915,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3366,20 +1932,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3396,20 +1949,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3426,20 +1966,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3456,20 +1983,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3486,20 +2000,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3516,20 +2017,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3546,20 +2034,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3576,20 +2051,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3606,20 +2068,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3636,20 +2085,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3666,20 +2102,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3696,20 +2119,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3726,20 +2136,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3756,20 +2153,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3786,20 +2170,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3816,20 +2187,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3846,20 +2204,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3876,20 +2221,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3906,20 +2238,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3936,20 +2255,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3966,20 +2272,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -3996,20 +2289,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -4026,20 +2306,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -4056,20 +2323,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -4086,20 +2340,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -4116,20 +2357,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -4146,20 +2374,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   },
@@ -4176,20 +2391,7 @@
     "feature": {
      "title": "Position de vote",
      "type": "category",
-     "values": [
-      "for",
-      "against",
-      "abstain",
-      "not_voting",
-      "absent"
-     ],
-     "colors": {
-      "for": "#2e7d32",
-      "against": "#c62828",
-      "abstain": "#f9a825",
-      "not_voting": "#9e9e9e",
-      "absent": "#e0e0e0"
-     }
+     "values": "deputies/values/vote_position.csv"
     }
    }
   }
