@@ -160,7 +160,7 @@ PA720480,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72048
 PA720552,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720552.webp,Rauch,Isabelle,Mme,1968-08-10,58,yes,57-9,Grand Est,Moselle,57,9,2024-07-07/,Horizons & Indépendants,HOR
 PA720560,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720560.webp,Goulet,Perrine,Mme,1978-03-19,48,yes,58-1,Bourgogne-Franche-Comté,Nièvre,58,1,2024-07-07/,Les Démocrates,DEM
 PA720614,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720614.webp,Le Pen,Marine,Mme,1968-08-05,58,yes,62-11,Hauts-de-France,Pas-de-Calais,62,11,2024-06-30/,Rassemblement National,RN
-PA720644,,Nury,Jérôme,M.,1972-08-25,54,no,61-3,Normandie,Orne,61,3,2024-07-07/2026-04-14,Droite Républicaine,DR
+PA720644,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720644.webp,Nury,Jérôme,M.,1972-08-25,54,no,61-3,Normandie,Orne,61,3,2024-07-07/2026-04-14,Droite Républicaine,DR
 PA720668,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720668.webp,Blairy,Emmanuel,M.,1986-03-14,40,yes,62-1,Hauts-de-France,Pas-de-Calais,62,1,2024-06-30/,Rassemblement National,RN
 PA720720,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720720.webp,Poueyto,Josy,Mme,1954-01-13,72,yes,64-1,Nouvelle-Aquitaine,Pyrénées-Atlantiques,64,1,2024-07-07/,Les Démocrates,DEM
 PA720728,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720728.webp,Mattei,Jean-Paul,M.,1954-03-21,72,yes,64-2,Nouvelle-Aquitaine,Pyrénées-Atlantiques,64,2,2024-07-07/,Les Démocrates,DEM
@@ -168,7 +168,7 @@ PA720822,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72082
 PA720838,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720838.webp,Bourouaha,Soumya,Mme,1964-03-16,62,yes,93-4,Ile-de-France,Seine-Saint-Denis,93,4,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA720846,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720846.webp,Lachaud,Bastien,M.,1980-08-05,46,yes,93-6,Ile-de-France,Seine-Saint-Denis,93,6,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA720892,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720892.webp,Panot,Mathilde,Mme,1989-01-15,37,yes,94-10,Ile-de-France,Val-de-Marne,94,10,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA720908,,Moutchou,Naïma,Mme,1980-11-04,45,no,95-4,Ile-de-France,Val-d'Oise,95,4,2024-07-07/2025-11-12,Horizons & Indépendants,HOR
+PA720908,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720908.webp,Moutchou,Naïma,Mme,1980-11-04,45,no,95-4,Ile-de-France,Val-d'Oise,95,4,2024-07-07/2025-11-12,Horizons & Indépendants,HOR
 PA720952,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720952.webp,Taché,Aurélien,M.,1984-05-26,42,yes,95-10,Ile-de-France,Val-d'Oise,95,10,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA720960,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720960.webp,Serva,Olivier,M.,1974-06-21,52,yes,971-1,Guadeloupe,Guadeloupe,971,1,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA720976,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA720976.webp,Mathiasin,Max,M.,1956-02-24,70,yes,971-3,Guadeloupe,Guadeloupe,971,3,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
@@ -177,9 +177,9 @@ PA721004,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72100
 PA721024,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721024.webp,Genetet,Anne,Mme,1963-04-20,63,yes,099-11,Français établis hors de France,Français établis hors de France,099,11,2024-07-07/|2024-07-07/2024-10-21,Ensemble pour la République,EPR
 PA721062,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721062.webp,Ratenon,Jean-Hugues,M.,1967-06-25,59,yes,974-5,Réunion,Réunion,974,5,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA721110,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721110.webp,Sanquer,Nicole,Mme,1972-06-16,54,yes,987-2,Polynésie française,Polynésie Française,987,2,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
-PA721134,,Lescure,Roland,M.,1966-11-26,59,no,099-1,Français établis hors de France,Français établis hors de France,099,1,2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA721134,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721134.webp,Lescure,Roland,M.,1966-11-26,59,no,099-1,Français établis hors de France,Français établis hors de France,099,1,2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA721158,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721158.webp,Anglade,Pieyre-Alexandre,M.,1986-11-02,39,yes,099-4,Français établis hors de France,Français établis hors de France,099,4,2024-07-07/,Ensemble pour la République,EPR
-PA721170,,Vojetta,Stéphane,M.,1974-07-19,52,no,099-5,Français établis hors de France,Français établis hors de France,099,5,2024-07-07/2025-07-11,Ensemble pour la République,EPR
+PA721170,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721170.webp,Vojetta,Stéphane,M.,1974-07-19,52,no,099-5,Français établis hors de France,Français établis hors de France,099,5,2024-07-07/2025-07-11,Ensemble pour la République,EPR
 PA721182,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721182.webp,Petit,Frédéric,M.,1961-02-10,65,yes,099-7,Français établis hors de France,Français établis hors de France,099,7,2024-07-07/,Les Démocrates,DEM
 PA721202,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721202.webp,Coquerel,Éric,M.,1958-12-30,67,yes,93-1,Ile-de-France,Seine-Saint-Denis,93,1,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA721210,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721210.webp,Corbière,Alexis,M.,1968-08-17,58,yes,93-7,Ile-de-France,Seine-Saint-Denis,93,7,2024-07-07/,Écologiste et Social,ECOS
@@ -190,7 +190,7 @@ PA721314,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72131
 PA721336,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721336.webp,Brocard,Blandine,Mme,1981-11-03,44,yes,69-5,Auvergne-Rhône-Alpes,Rhône,69,5,2024-07-07/,Les Démocrates,DEM
 PA721410,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721410.webp,Bonnivard,Émilie,Mme,1980-08-02,46,yes,73-3,Auvergne-Rhône-Alpes,Savoie,73,3,2024-07-07/,Droite Républicaine,DR
 PA721426,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721426.webp,Riotton,Véronique,Mme,1969-11-02,56,yes,74-1,Auvergne-Rhône-Alpes,Haute-Savoie,74,1,2024-07-07/,Ensemble pour la République,EPR
-PA721442,,Petex,Christelle,Mme,1980-09-02,46,no,74-3,Auvergne-Rhône-Alpes,Haute-Savoie,74,3,2024-07-07/2025-11-06,Droite Républicaine,DR
+PA721442,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721442.webp,Petex,Christelle,Mme,1980-09-02,46,no,74-3,Auvergne-Rhône-Alpes,Haute-Savoie,74,3,2024-07-07/2025-11-06,Droite Républicaine,DR
 PA721458,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721458.webp,Roseren,Xavier,M.,1970-01-12,56,yes,74-6,Auvergne-Rhône-Alpes,Haute-Savoie,74,6,2024-07-07/,Horizons & Indépendants,HOR
 PA721474,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721474.webp,Viry,Stéphane,M.,1969-10-14,56,yes,88-1,Grand Est,Vosges,88,1,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA721486,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721486.webp,Naegelen,Christophe,M.,1983-12-30,42,yes,88-3,Grand Est,Vosges,88,3,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
@@ -200,7 +200,7 @@ PA721632,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72163
 PA721750,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721750.webp,Calvez,Céline,Mme,1979-07-24,47,yes,92-5,Ile-de-France,Hauts-de-Seine,92,5,2024-07-07/,Ensemble pour la République,EPR
 PA721764,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721764.webp,Grégoire,Olivia,Mme,1978-09-30,48,yes,75-12,Ile-de-France,Paris,75,12,2024-07-07/,Ensemble pour la République,EPR
 PA721816,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721816.webp,Boucard,Ian,M.,1988-05-05,38,yes,90-1,Bourgogne-Franche-Comté,Territoire de Belfort,90,1,2024-07-07/,Droite Républicaine,DR
-PA721836,,Barrot,Jean-Noël,M.,1983-05-13,43,no,78-2,Ile-de-France,Yvelines,78,2,2024-07-07/2024-10-21,Les Démocrates,DEM
+PA721836,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721836.webp,Barrot,Jean-Noël,M.,1983-05-13,43,no,78-2,Ile-de-France,Yvelines,78,2,2024-07-07/2024-10-21,Les Démocrates,DEM
 PA721844,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721844.webp,Piron,Béatrice,Mme,1965-08-30,61,yes,78-3,Ile-de-France,Yvelines,78,3,2024-07-07/,Horizons & Indépendants,HOR
 PA721852,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721852.webp,Lebec,Marie,Mme,1990-12-17,35,yes,78-4,Ile-de-France,Yvelines,78,4,2024-07-07/,Ensemble pour la République,EPR
 PA721896,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721896.webp,Faucillon,Elsa,Mme,1981-08-06,45,yes,92-1,Ile-de-France,Hauts-de-Seine,92,1,2024-06-30/,Gauche Démocrate et Républicaine,GDR
@@ -210,7 +210,7 @@ PA721932,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72193
 PA721960,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721960.webp,Obono,Danièle,Mme,1980-07-12,46,yes,75-17,Ile-de-France,Paris,75,17,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA721984,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA721984.webp,Latombe,Philippe,M.,1975-04-21,51,yes,85-1,Pays de la Loire,Vendée,85,1,2024-07-07/,Les Démocrates,DEM
 PA722000,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722000.webp,Buchou,Stéphane,M.,1974-03-14,52,yes,85-3,Pays de la Loire,Vendée,85,3,2024-07-07/,Ensemble pour la République,EPR
-PA722046,,Bergé,Aurore,Mme,1986-11-13,39,no,78-10,Ile-de-France,Yvelines,78,10,2024-07-07/2025-01-23,Ensemble pour la République,EPR
+PA722046,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722046.webp,Bergé,Aurore,Mme,1986-11-13,39,no,78-10,Ile-de-France,Yvelines,78,10,2024-07-07/2025-01-23,Ensemble pour la République,EPR
 PA722070,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722070.webp,Henriet,Pierre,M.,1991-11-26,34,yes,85-5,Pays de la Loire,Vendée,85,5,2024-07-07/,Horizons & Indépendants,HOR
 PA722102,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722102.webp,Vidal,Annie,Mme,1956-09-17,70,yes,76-2,Normandie,Seine-Maritime,76,2,2024-07-07/,Ensemble pour la République,EPR
 PA722134,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722134.webp,Fiévet,Jean-Marie,M.,1964-06-19,62,yes,79-3,Nouvelle-Aquitaine,Deux-Sèvres,79,3,2024-07-07/,Ensemble pour la République,EPR
@@ -220,7 +220,7 @@ PA722162,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA72216
 PA722190,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722190.webp,Attal,Gabriel,M.,1989-03-16,37,yes,92-10,Ile-de-France,Hauts-de-Seine,92,10,2024-07-07/,Ensemble pour la République,EPR
 PA722252,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722252.webp,Rixain,Marie-Pierre,Mme,1977-01-18,49,yes,91-4,Ile-de-France,Essonne,91,4,2024-07-07/,Ensemble pour la République,EPR
 PA722284,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722284.webp,Fuchs,Bruno,M.,1959-04-07,67,yes,68-6,Grand Est,Haut-Rhin,68,6,2024-07-07/,Les Démocrates,DEM
-PA722328,,Kremer,Eliane,Mme,1956-03-12,70,no,67-7,Grand Est,Bas-Rhin,67,7,2024-07-07/2025-01-23,Droite Républicaine,DR
+PA722328,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722328.webp,Kremer,Eliane,Mme,1956-03-12,70,no,67-7,Grand Est,Bas-Rhin,67,7,2024-07-07/2025-01-23,Droite Républicaine,DR
 PA722336,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722336.webp,Thiébaut,Vincent,M.,1972-05-23,54,yes,67-9,Grand Est,Bas-Rhin,67,9,2024-07-07/,Horizons & Indépendants,HOR
 PA722358,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722358.webp,Gassilloud,Thomas,M.,1981-05-21,45,yes,69-10,Auvergne-Rhône-Alpes,Rhône,69,10,2024-07-07/,Ensemble pour la République,EPR
 PA722366,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA722366.webp,Fugit,Jean-Luc,M.,1969-11-27,56,yes,69-11,Auvergne-Rhône-Alpes,Rhône,69,11,2024-07-07/,Ensemble pour la République,EPR
@@ -246,20 +246,20 @@ PA793166,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79316
 PA793174,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793174.webp,Monnet,Yannick,M.,1975-10-07,50,yes,03-1,Auvergne-Rhône-Alpes,Allier,03,1,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA793182,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793182.webp,Bovet,Jorys,M.,1993-03-30,33,yes,03-2,Auvergne-Rhône-Alpes,Allier,03,2,2024-07-07/,Rassemblement National,RN
 PA793194,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793194.webp,Vuibert,Lionel,M.,1968-08-31,58,yes,08-1,Grand Est,Ardennes,08,1,2024-12-08/,Non inscrit,NI
-PA793210,,Panifous,Laurent,M.,1976-12-21,49,no,09-2,Occitanie,Ariège,09,2,2024-07-07/2025-11-12,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
+PA793210,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793210.webp,Panifous,Laurent,M.,1976-12-21,49,no,09-2,Occitanie,Ariège,09,2,2024-07-07/2025-11-12,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA793214,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793214.webp,Abadie-Amiel,Audrey,Mme,1974-11-16,51,yes,09-2,Occitanie,Ariège,09,2,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA793218,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793218.webp,Guitton,Jordan,M.,1995-01-30,31,yes,10-1,Grand Est,Aube,10,1,2024-06-30/,Rassemblement National,RN
 PA793230,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793230.webp,Ranc,Angélique,Mme,1988-03-16,38,yes,10-3,Grand Est,Aube,10,3,2024-07-07/,Rassemblement National,RN
-PA793238,,Barthès,Christophe,M.,1966-10-12,59,no,11-1,Occitanie,Aude,11,1,2024-07-07/2026-04-20,Rassemblement National,RN
+PA793238,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793238.webp,Barthès,Christophe,M.,1966-10-12,59,no,11-1,Occitanie,Aude,11,1,2024-07-07/2026-04-20,Rassemblement National,RN
 PA793246,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793246.webp,Falcon,Frédéric,M.,1985-11-23,40,yes,11-2,Occitanie,Aude,11,2,2024-07-07/,Rassemblement National,RN
 PA793254,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793254.webp,Rancoule,Julien,M.,1993-07-31,33,yes,11-3,Occitanie,Aude,11,3,2024-07-07/,Rassemblement National,RN
 PA793262,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793262.webp,Alexandre,Laurent,M.,1973-06-09,53,yes,12-2,Occitanie,Aveyron,12,2,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA793270,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793270.webp,Rousset,Jean-François,M.,1952-09-09,74,yes,12-3,Occitanie,Aveyron,12,3,2024-07-07/,Ensemble pour la République,EPR
 PA793290,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793290.webp,Lelouis,Gisèle,Mme,1952-03-10,74,yes,13-3,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,3,2024-07-07/,Rassemblement National,RN
 PA793298,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793298.webp,Tivoli,Lionel,M.,1988-02-29,38,yes,06-2,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,2,2024-07-07/,Rassemblement National,RN
-PA793314,,Masson,Alexandra,Mme,1971-07-02,55,no,06-4,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,4,2024-06-30/2026-04-21,Rassemblement National,RN
+PA793314,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793314.webp,Masson,Alexandra,Mme,1971-07-02,55,no,06-4,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,4,2024-06-30/2026-04-21,Rassemblement National,RN
 PA793322,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793322.webp,D'Intorni,Christelle,Mme,1985-05-02,41,yes,06-5,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,5,2024-06-30/,Union des droites pour la République,UDDPLR
-PA793330,,Masson,Bryan,M.,1996-12-21,29,no,06-6,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,6,2024-06-30/2026-04-01,Rassemblement National,RN
+PA793330,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793330.webp,Masson,Bryan,M.,1996-12-21,29,no,06-6,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,6,2024-06-30/2026-04-01,Rassemblement National,RN
 PA793334,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793334.webp,Tribuiani,Cyril,M.,1981-07-25,45,yes,06-6,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,6,2024-06-30/,Rassemblement National,RN
 PA793342,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793342.webp,Martin (Alpes-Maritimes),Alexandra,Mme,1968-10-25,57,yes,06-8,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,8,2024-07-07/,Droite Républicaine,DR
 PA793354,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793354.webp,Mélin,Joëlle,Mme,1950-03-26,76,yes,13-9,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,9,2024-07-07/,Rassemblement National,RN
@@ -268,7 +268,7 @@ PA793374,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79337
 PA793382,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793382.webp,Taché,Emmanuel,M.,1975-02-20,51,yes,13-16,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,16,2024-07-07/,Rassemblement National,RN
 PA793394,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793394.webp,Delaporte,Arthur,M.,1991-10-07,34,yes,14-2,Normandie,Calvados,14,2,2024-07-07/,Socialistes et apparentés,SOC
 PA793398,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793398.webp,Patrier-Leitus,Jérémie,M.,1989-03-07,37,yes,14-3,Normandie,Calvados,14,3,2024-07-07/,Horizons & Indépendants,HOR
-PA793416,,Sertin,Freddy,M.,1980-02-07,46,no,14-6,Normandie,Calvados,14,6,2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA793416,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793416.webp,Sertin,Freddy,M.,1980-02-07,46,no,14-6,Normandie,Calvados,14,6,2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA793432,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793432.webp,Allisio,Franck,M.,1980-08-04,46,yes,13-12,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,12,2024-06-30/,Rassemblement National,RN
 PA793444,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793444.webp,Bompard,Manuel,M.,1986-03-30,40,yes,13-4,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,4,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA793452,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793452.webp,Davi,Hendrik,M.,1977-12-21,48,yes,13-5,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,5,2024-07-07/,Écologiste et Social,ECOS
@@ -279,7 +279,7 @@ PA793528,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79352
 PA793532,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793532.webp,Lepvraud,Murielle,Mme,1974-07-15,52,yes,22-4,Bretagne,Côtes-d'Armor,22,4,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA793548,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793548.webp,Colombier,Caroline,Mme,1957-08-22,69,yes,16-3,Nouvelle-Aquitaine,Charente,16,3,2024-07-07/,Rassemblement National,RN
 PA793556,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793556.webp,Gervais,Sabine,Mme,1970-05-20,56,yes,17-1,Nouvelle-Aquitaine,Charente-Maritime,17,1,2024-07-07/,Les Démocrates,DEM
-PA793572,,Plassard,Christophe,M.,1967-11-19,58,no,17-5,Nouvelle-Aquitaine,Charente-Maritime,17,5,2024-07-07/2026-09-30,Horizons & Indépendants,HOR
+PA793572,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793572.webp,Plassard,Christophe,M.,1967-11-19,58,no,17-5,Nouvelle-Aquitaine,Charente-Maritime,17,5,2024-07-07/2026-09-30,Horizons & Indépendants,HOR
 PA793592,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793592.webp,Grangier,Géraldine,Mme,1975-02-13,51,yes,25-4,Bourgogne-Franche-Comté,Doubs,25,4,2024-07-07/,Rassemblement National,RN
 PA793608,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793608.webp,Levavasseur,Katiana,Mme,1970-12-09,55,yes,27-2,Normandie,Eure,27,2,2024-07-07/,Rassemblement National,RN
 PA793616,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793616.webp,Mauvieux,Kévin,M.,1991-09-09,35,yes,27-3,Normandie,Eure,27,3,2024-07-07/,Rassemblement National,RN
@@ -299,15 +299,15 @@ PA793780,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79378
 PA793796,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793796.webp,Taupiac,David,M.,1975-05-13,51,yes,32-2,Occitanie,Gers,32,2,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA793816,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793816.webp,Thomin,Mélanie,Mme,1984-06-04,42,yes,29-6,Bretagne,Finistère,29,6,2024-07-07/,Socialistes et apparentés,SOC
 PA793832,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793832.webp,Gillet,Yoann,M.,1986-08-29,40,yes,30-1,Occitanie,Gard,30,1,2024-07-07/,Rassemblement National,RN
-PA793844,,Bordes,Pascale,Mme,1961-10-15,64,no,30-3,Occitanie,Gard,30,3,2024-07-07/2026-04-13,Rassemblement National,RN
+PA793844,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793844.webp,Bordes,Pascale,Mme,1961-10-15,64,no,30-3,Occitanie,Gard,30,3,2024-07-07/2026-04-13,Rassemblement National,RN
 PA793852,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793852.webp,Meurin,Pierre,M.,1989-11-30,36,yes,30-4,Occitanie,Gard,30,4,2024-07-07/,Rassemblement National,RN
 PA793872,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793872.webp,Oziol,Nathalie,Mme,1990-02-18,36,yes,34-2,Occitanie,Hérault,34,2,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA793892,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793892.webp,Galzy,Stéphanie,Mme,1981-10-20,44,yes,34-5,Occitanie,Hérault,34,5,2024-07-07/,Rassemblement National,RN
-PA793904,,Lopez-Liguori,Aurélien,M.,1993-05-17,33,no,34-7,Occitanie,Hérault,34,7,2024-06-30/2026-04-25,Rassemblement National,RN
+PA793904,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793904.webp,Lopez-Liguori,Aurélien,M.,1993-05-17,33,no,34-7,Occitanie,Hérault,34,7,2024-06-30/2026-04-25,Rassemblement National,RN
 PA793912,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793912.webp,Carrière,Sylvain,M.,1991-05-21,35,yes,34-8,Occitanie,Hérault,34,8,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA793924,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793924.webp,Bernadeau,Marie-Sophie,Mme,1980-07-08,46,yes,33-10,Nouvelle-Aquitaine,Gironde,33,10,2024-07-07/,Ensemble pour la République,EPR
-PA793928,,Diaz,Edwige,Mme,1987-10-15,38,no,33-11,Nouvelle-Aquitaine,Gironde,33,11,2024-06-30/2026-09-30,Rassemblement National,RN
-PA793940,,Cazenave,Thomas,M.,1978-03-06,48,no,33-1,Nouvelle-Aquitaine,Gironde,33,1,2024-07-07/2026-04-26,Ensemble pour la République,EPR
+PA793928,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793928.webp,Diaz,Edwige,Mme,1987-10-15,38,no,33-11,Nouvelle-Aquitaine,Gironde,33,11,2024-06-30/2026-09-30,Rassemblement National,RN
+PA793940,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793940.webp,Cazenave,Thomas,M.,1978-03-06,48,no,33-1,Nouvelle-Aquitaine,Gironde,33,1,2024-07-07/2026-04-26,Ensemble pour la République,EPR
 PA793944,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793944.webp,Martin (Gironde),Alexandra,Mme,1976-07-28,50,yes,33-1,Nouvelle-Aquitaine,Gironde,33,1,2024-07-07/,Ensemble pour la République,EPR
 PA793948,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793948.webp,Thierry,Nicolas,M.,1975-12-08,50,yes,33-2,Nouvelle-Aquitaine,Gironde,33,2,2024-07-07/,Écologiste et Social,ECOS
 PA793980,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA793980.webp,Fournier,Charles,M.,1968-03-10,58,yes,37-1,Centre-Val de Loire,Indre-et-Loire,37,1,2024-07-07/,Écologiste et Social,ECOS
@@ -316,7 +316,7 @@ PA794008,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79400
 PA794022,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794022.webp,Iordanoff,Jérémie,M.,1983-02-02,43,yes,38-5,Auvergne-Rhône-Alpes,Isère,38,5,2024-07-07/,Écologiste et Social,ECOS
 PA794030,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794030.webp,Jolly,Alexis,M.,1990-12-22,35,yes,38-6,Auvergne-Rhône-Alpes,Isère,38,6,2024-07-07/,Rassemblement National,RN
 PA794038,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794038.webp,Neuder,Yannick,M.,1969-03-15,57,yes,38-7,Auvergne-Rhône-Alpes,Isère,38,7,2024-07-07/2025-01-23|2024-07-07/,Droite Républicaine,DR
-PA794042,,Dezarnaud,Sylvie,Mme,1964-02-23,62,no,38-7,Auvergne-Rhône-Alpes,Isère,38,7,2024-07-07/2025-11-05,Droite Républicaine,DR
+PA794042,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794042.webp,Dezarnaud,Sylvie,Mme,1964-02-23,62,no,38-7,Auvergne-Rhône-Alpes,Isère,38,7,2024-07-07/2025-11-05,Droite Républicaine,DR
 PA794058,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794058.webp,Gruet,Justine,Mme,1989-10-23,36,yes,39-3,Bourgogne-Franche-Comté,Jura,39,3,2024-07-07/,Droite Républicaine,DR
 PA794082,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794082.webp,Hignet,Mathilde,Mme,1993-06-10,33,yes,35-4,Bretagne,Ille-et-Vilaine,35,4,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA794094,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794094.webp,Bouloux,Mickaël,M.,1972-08-16,54,yes,35-8,Bretagne,Ille-et-Vilaine,35,8,2024-06-30/,Socialistes et apparentés,SOC
@@ -328,7 +328,7 @@ PA794138,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79413
 PA794146,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794146.webp,Laernoes,Julie,Mme,1982-07-03,44,yes,44-4,Pays de la Loire,Loire-Atlantique,44,4,2024-07-07/,Écologiste et Social,ECOS
 PA794154,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794154.webp,Raux,Jean-Claude,M.,1967-01-18,59,yes,44-6,Pays de la Loire,Loire-Atlantique,44,6,2024-07-07/,Écologiste et Social,ECOS
 PA794166,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794166.webp,Tavel,Matthias,M.,1987-07-06,39,yes,44-8,Pays de la Loire,Loire-Atlantique,44,8,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA794178,,Taite,Jean-Pierre,M.,1962-03-14,64,no,42-6,Auvergne-Rhône-Alpes,Loire,42,6,2024-07-07/2026-07-08,Droite Républicaine,DR
+PA794178,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794178.webp,Taite,Jean-Pierre,M.,1962-03-14,64,no,42-6,Auvergne-Rhône-Alpes,Loire,42,6,2024-07-07/2026-07-08,Droite Républicaine,DR
 PA794182,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794182.webp,Bonnefoy,Jean-Yves,M.,1959-03-31,67,yes,42-6,Auvergne-Rhône-Alpes,Loire,42,6,2024-07-07/,Droite Républicaine,DR
 PA794198,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794198.webp,Chudeau,Roger,M.,1949-09-28,77,yes,41-2,Centre-Val de Loire,Loir-et-Cher,41,2,2024-07-07/,Rassemblement National,RN
 PA794206,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794206.webp,Marion,Christophe,M.,1973-04-25,53,yes,41-3,Centre-Val de Loire,Loir-et-Cher,41,3,2024-07-07/,Ensemble pour la République,EPR
@@ -340,19 +340,19 @@ PA794322,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79432
 PA794330,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794330.webp,Brosse,Anthony,M.,1980-11-04,45,yes,45-5,Centre-Val de Loire,Loiret,45,5,2024-07-07/,Ensemble pour la République,EPR
 PA794354,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794354.webp,Laporte,Hélène,Mme,1978-12-29,47,yes,47-2,Nouvelle-Aquitaine,Lot-et-Garonne,47,2,2024-07-07/,Rassemblement National,RN
 PA794418,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794418.webp,Goulet,Florence,Mme,1961-06-30,65,yes,55-2,Grand Est,Meuse,55,2,2024-06-30/,Rassemblement National,RN
-PA794426,,Le Hénanff,Anne,Mme,1969-07-22,57,no,56-1,Bretagne,Morbihan,56,1,2024-07-07/2025-11-12,Horizons & Indépendants,HOR
+PA794426,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794426.webp,Le Hénanff,Anne,Mme,1969-07-22,57,no,56-1,Bretagne,Morbihan,56,1,2024-07-07/2025-11-12,Horizons & Indépendants,HOR
 PA794430,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794430.webp,Criaud,Michel,M.,1962-08-03,64,yes,56-1,Bretagne,Morbihan,56,1,2024-07-07/,Horizons & Indépendants,HOR
 PA794434,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794434.webp,Bentz,Christophe,M.,1987-07-04,39,yes,52-1,Grand Est,Haute-Marne,52,1,2024-07-07/,Rassemblement National,RN
 PA794442,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794442.webp,Robert-Dehault,Laurence,Mme,1964-01-17,62,yes,52-2,Grand Est,Haute-Marne,52,2,2024-06-30/,Rassemblement National,RN
-PA794466,,Moulliere,Jean,M.,1994-03-29,32,no,59-6,Hauts-de-France,Nord,59,6,2024-07-07/2026-03-26,Horizons & Indépendants,HOR
+PA794466,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794466.webp,Moulliere,Jean,M.,1994-03-29,32,no,59-6,Hauts-de-France,Nord,59,6,2024-07-07/2026-03-26,Horizons & Indépendants,HOR
 PA794470,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794470.webp,Gérard,Félicie,Mme,1974-01-28,52,yes,59-7,Hauts-de-France,Nord,59,7,2024-07-07/,Horizons & Indépendants,HOR
-PA794478,,Guiraud,David,M.,1992-11-18,33,no,59-8,Hauts-de-France,Nord,59,8,2024-07-07/2026-04-07,La France insoumise - Nouveau Front Populaire,LFI-NFP
+PA794478,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794478.webp,Guiraud,David,M.,1992-11-18,33,no,59-8,Hauts-de-France,Nord,59,8,2024-07-07/2026-04-07,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA794486,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794486.webp,Spillebout,Violette,Mme,1972-09-02,54,yes,59-9,Hauts-de-France,Nord,59,9,2024-07-07/,Ensemble pour la République,EPR
 PA794494,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794494.webp,Vicot,Roger,M.,1963-06-01,63,yes,59-11,Hauts-de-France,Nord,59,11,2024-07-07/,Socialistes et apparentés,SOC
 PA794502,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794502.webp,Taverne,Michaël,M.,1979-03-10,47,yes,59-12,Hauts-de-France,Nord,59,12,2024-06-30/,Rassemblement National,RN
 PA794518,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794518.webp,Marle,Pierre,M.,1954-02-19,72,yes,59-14,Hauts-de-France,Nord,59,14,2024-07-07/|2024-07-07/2025-01-23,Horizons & Indépendants,HOR
 PA794530,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794530.webp,Marchio,Matthieu,M.,1993-06-08,33,yes,59-16,Hauts-de-France,Nord,59,16,2024-06-30/,Rassemblement National,RN
-PA794554,,Castiglione,Salvatore,M.,1970-02-18,56,no,59-21,Hauts-de-France,Nord,59,21,2024-07-07/2025-11-05,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
+PA794554,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794554.webp,Castiglione,Salvatore,M.,1970-02-18,56,no,59-21,Hauts-de-France,Nord,59,21,2024-07-07/2025-11-05,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA794562,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794562.webp,Ballard,Philippe,M.,1960-11-24,65,yes,60-2,Hauts-de-France,Oise,60,2,2024-06-30/,Rassemblement National,RN
 PA794570,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794570.webp,Sabatou,Alexandre,M.,1993-02-18,33,yes,60-3,Hauts-de-France,Oise,60,3,2024-07-07/,Rassemblement National,RN
 PA794578,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794578.webp,Ludmann,Véronique,Mme,1963-03-17,63,yes,60-4,Hauts-de-France,Oise,60,4,2024-07-07/,Horizons & Indépendants,HOR
@@ -381,7 +381,7 @@ PA794854,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79485
 PA794870,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794870.webp,Ferrer,Sylvie,Mme,1967-11-06,58,yes,65-1,Occitanie,Hautes-Pyrénées,65,1,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA794886,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794886.webp,Blanc,Sophie,Mme,1968-02-20,58,yes,66-1,Occitanie,Pyrénées-Orientales,66,1,2024-07-07/,Rassemblement National,RN
 PA794894,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794894.webp,Sabatini,Anaïs,Mme,1990-03-10,36,yes,66-2,Occitanie,Pyrénées-Orientales,66,2,2024-06-30/,Rassemblement National,RN
-PA794906,,Amard,Gabriel,M.,1967-05-05,59,no,69-6,Auvergne-Rhône-Alpes,Rhône,69,6,2024-07-07/2026-09-30,La France insoumise - Nouveau Front Populaire,LFI-NFP
+PA794906,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794906.webp,Amard,Gabriel,M.,1967-05-05,59,no,69-6,Auvergne-Rhône-Alpes,Rhône,69,6,2024-07-07/2026-09-30,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA794938,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794938.webp,Boumertit,Idir,M.,1974-10-04,52,yes,69-14,Auvergne-Rhône-Alpes,Rhône,69,14,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA794946,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794946.webp,Villedieu,Antoine,M.,1989-03-08,37,yes,70-1,Bourgogne-Franche-Comté,Haute-Saône,70,1,2024-07-07/,Rassemblement National,RN
 PA794954,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA794954.webp,Salmon,Emeric,M.,1973-11-26,52,yes,70-2,Bourgogne-Franche-Comté,Haute-Saône,70,2,2024-06-30/,Rassemblement National,RN
@@ -390,15 +390,15 @@ PA794994,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79499
 PA795010,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795010.webp,Garin,Marie-Charlotte,Mme,1995-09-02,31,yes,69-3,Auvergne-Rhône-Alpes,Rhône,69,3,2024-06-30/,Écologiste et Social,ECOS
 PA795026,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795026.webp,Violland,Anne-Cécile,Mme,1973-06-10,53,yes,74-5,Auvergne-Rhône-Alpes,Haute-Savoie,74,5,2024-07-07/,Horizons & Indépendants,HOR
 PA795046,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795046.webp,Yadan,Caroline,Mme,1968-08-14,58,yes,099-8,Français établis hors de France,Français établis hors de France,099,8,2024-07-07/,Ensemble pour la République,EPR
-PA795050,,Panosyan-Bouvet,Astrid,Mme,1971-08-13,55,no,75-4,Ile-de-France,Paris,75,4,2024-07-07/2024-10-21|2024-07-07/2026-08-04,Ensemble pour la République,EPR
+PA795050,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795050.webp,Panosyan-Bouvet,Astrid,Mme,1971-08-13,55,no,75-4,Ile-de-France,Paris,75,4,2024-07-07/2024-10-21|2024-07-07/2026-08-04,Ensemble pour la République,EPR
 PA795076,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795076.webp,Rousseau,Sandrine,Mme,1972-03-08,54,yes,75-9,Ile-de-France,Paris,75,9,2024-06-30/,Écologiste et Social,ECOS
 PA795084,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795084.webp,Arenas,Rodrigo,M.,1974-04-24,52,yes,75-10,Ile-de-France,Paris,75,10,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA795100,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795100.webp,Martineau,Éric,M.,1968-05-08,58,yes,72-3,Pays de la Loire,Sarthe,72,3,2024-07-07/,Les Démocrates,DEM
 PA795108,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795108.webp,Leboucher,Élise,Mme,1982-10-09,43,yes,72-4,Pays de la Loire,Sarthe,72,4,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA795120,,Ferrari,Marina,Mme,1973-10-10,52,no,73-1,Auvergne-Rhône-Alpes,Savoie,73,1,2024-07-07/2025-11-12|2024-07-07/2024-10-21,Les Démocrates,DEM
+PA795120,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795120.webp,Ferrari,Marina,Mme,1973-10-10,52,no,73-1,Auvergne-Rhône-Alpes,Savoie,73,1,2024-07-07/2025-11-12|2024-07-07/2024-10-21,Les Démocrates,DEM
 PA795124,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795124.webp,Padey,Didier,M.,1965-11-09,60,yes,73-1,Auvergne-Rhône-Alpes,Savoie,73,1,2024-07-07/2025-01-23|2024-07-07/,Les Démocrates,DEM
 PA795136,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795136.webp,Coulomme,Jean-François,M.,1966-04-01,60,yes,73-4,Auvergne-Rhône-Alpes,Savoie,73,4,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA795144,,Armand,Antoine,M.,1991-09-10,35,no,74-2,Auvergne-Rhône-Alpes,Haute-Savoie,74,2,2024-07-07/2024-10-21|2024-07-07/2026-04-27,Ensemble pour la République,EPR
+PA795144,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795144.webp,Armand,Antoine,M.,1991-09-10,35,no,74-2,Auvergne-Rhône-Alpes,Haute-Savoie,74,2,2024-07-07/2024-10-21|2024-07-07/2026-04-27,Ensemble pour la République,EPR
 PA795156,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795156.webp,Keloua Hachi,Fatiha,Mme,1971-06-05,55,yes,93-8,Ile-de-France,Seine-Saint-Denis,93,8,2024-07-07/,Socialistes et apparentés,SOC
 PA795164,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795164.webp,Trouvé,Aurélie,Mme,1979-09-20,47,yes,93-9,Ile-de-France,Seine-Saint-Denis,93,9,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA795176,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795176.webp,Metzdorf,Nicolas,M.,1988-05-20,38,yes,988-1,Nouvelle-Calédonie,Nouvelle-Calédonie,988,1,2024-07-07/,Ensemble pour la République,EPR
@@ -408,17 +408,17 @@ PA795240,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79524
 PA795244,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795244.webp,Lenormand,Stéphane,M.,1964-08-13,62,yes,975-1,Saint-Pierre-et-Miquelon,Saint-Pierre-et-Miquelon,975,1,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA795258,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795258.webp,Gumbs,Frantz,M.,1954-01-21,72,yes,977-1,Saint-Barthélemy et Saint-Martin,Saint-Barthélemy et Saint-Martin,977,1,2024-07-07/,Les Démocrates,DEM
 PA795270,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795270.webp,Poussier-Winsback,Marie-Agnès,Mme,1967-03-25,59,yes,76-9,Normandie,Seine-Maritime,76,9,2024-07-07/|2024-07-07/2024-10-21,Horizons & Indépendants,HOR
-PA795278,,Bellamy,Béatrice,Mme,1966-10-20,59,no,85-2,Pays de la Loire,Vendée,85,2,2024-07-07/2026-05-24,Horizons & Indépendants,HOR
+PA795278,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795278.webp,Bellamy,Béatrice,Mme,1966-10-20,59,no,85-2,Pays de la Loire,Vendée,85,2,2024-07-07/2026-05-24,Horizons & Indépendants,HOR
 PA795298,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795298.webp,Legavre,Jérôme,M.,1972-08-20,54,yes,93-12,Ile-de-France,Seine-Saint-Denis,93,12,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA795310,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795310.webp,Guetté,Clémence,Mme,1991-03-15,35,yes,94-2,Ile-de-France,Val-de-Marne,94,2,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA795318,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795318.webp,Boyard,Louis,M.,2000-08-26,26,yes,94-3,Ile-de-France,Val-de-Marne,94,3,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA795326,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795326.webp,Weissberg,Christopher,M.,1985-11-26,40,yes,099-1,Français établis hors de France,Français établis hors de France,099,1,2024-07-07/,Ensemble pour la République,EPR
-PA795330,,Caroit,Eléonore,Mme,1985-07-08,41,no,099-2,Français établis hors de France,Français établis hors de France,099,2,2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA795330,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795330.webp,Caroit,Eléonore,Mme,1985-07-08,41,no,099-2,Français établis hors de France,Français établis hors de France,099,2,2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA795334,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795334.webp,Larrouquis,Benoît,M.,1969-11-18,56,yes,099-2,Français établis hors de France,Français établis hors de France,099,2,2024-07-07/,Ensemble pour la République,EPR
 PA795350,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795350.webp,Valletoux,Frédéric,M.,1966-08-23,60,yes,77-2,Ile-de-France,Seine-et-Marne,77,2,2024-07-07/,Horizons & Indépendants,HOR
 PA795362,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795362.webp,Belluco,Lisa,Mme,1988-07-20,38,yes,86-1,Nouvelle-Aquitaine,Vienne,86,1,2024-07-07/,Écologiste et Social,ECOS
 PA795374,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795374.webp,Lecamp,Pascal,M.,1958-04-06,68,yes,86-3,Nouvelle-Aquitaine,Vienne,86,3,2024-07-07/,Les Démocrates,DEM
-PA795386,,Lefèvre,Mathieu,M.,1986-10-27,39,no,94-5,Ile-de-France,Val-de-Marne,94,5,2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA795386,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795386.webp,Lefèvre,Mathieu,M.,1986-10-27,39,no,94-5,Ile-de-France,Val-de-Marne,94,5,2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA795390,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795390.webp,Lalanne,Sandrine,Mme,1973-02-16,53,yes,94-5,Ile-de-France,Val-de-Marne,94,5,2024-07-07/,Ensemble pour la République,EPR
 PA795402,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795402.webp,Coggia,Nathalie,Mme,1977-07-16,49,yes,099-5,Français établis hors de France,Français établis hors de France,099,5,2025-10-12/,Ensemble pour la République,EPR
 PA795410,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795410.webp,Roullaud,Béatrice,Mme,1960-06-09,66,yes,77-6,Ile-de-France,Seine-et-Marne,77,6,2024-07-07/,Rassemblement National,RN
@@ -451,24 +451,24 @@ PA795864,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA79586
 PA795868,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795868.webp,Castor,Jean-Victor,M.,1962-04-21,64,yes,973-1,Guyane,Guyane,973,1,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA795876,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795876.webp,Rimane,Davy,M.,1979-12-15,46,yes,973-2,Guyane,Guyane,973,2,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA795884,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795884.webp,Ferracci,Marc,M.,1977-12-19,48,yes,099-6,Français établis hors de France,Français établis hors de France,099,6,2024-07-07/2024-10-21|2024-07-07/,Ensemble pour la République,EPR
-PA795888,,Rousselot,Marie-Ange,Mme,1987-09-09,39,no,099-6,Français établis hors de France,Français établis hors de France,099,6,2024-07-07/2025-11-05,Ensemble pour la République,EPR
+PA795888,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795888.webp,Rousselot,Marie-Ange,Mme,1987-09-09,39,no,099-6,Français établis hors de France,Français établis hors de France,099,6,2024-07-07/2025-11-05,Ensemble pour la République,EPR
 PA795900,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795900.webp,Hamelet,Marine,Mme,1967-07-13,59,yes,82-2,Occitanie,Tarn-et-Garonne,82,2,2024-07-07/,Rassemblement National,RN
 PA795908,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795908.webp,Chenevard,Yannick,M.,1959-11-27,66,yes,83-1,Provence-Alpes-Côte d'Azur,Var,83,1,2024-07-07/,Ensemble pour la République,EPR
 PA795912,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795912.webp,Lavalette,Laure,Mme,1976-04-16,50,yes,83-2,Provence-Alpes-Côte d'Azur,Var,83,2,2024-06-30/,Rassemblement National,RN
 PA795920,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795920.webp,Thevenot,Prisca,Mme,1985-03-01,41,yes,92-8,Ile-de-France,Hauts-de-Seine,92,8,2024-07-07/,Ensemble pour la République,EPR
-PA795950,,Amiel,David,M.,1992-11-28,33,no,75-13,Ile-de-France,Paris,75,13,2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA795950,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795950.webp,Amiel,David,M.,1992-11-28,33,no,75-13,Ile-de-France,Paris,75,13,2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA795954,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795954.webp,Ibled,Catherine,Mme,1975-05-25,51,yes,75-13,Ile-de-France,Paris,75,13,2024-07-07/,Ensemble pour la République,EPR
-PA795958,,Haddad,Benjamin,M.,1985-10-23,40,no,75-14,Ile-de-France,Paris,75,14,2024-07-07/2024-10-21,Ensemble pour la République,EPR
+PA795958,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795958.webp,Haddad,Benjamin,M.,1985-10-23,40,no,75-14,Ile-de-France,Paris,75,14,2024-07-07/2024-10-21,Ensemble pour la République,EPR
 PA795962,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795962.webp,Missoffe,Joséphine,Mme,1973-09-24,53,yes,75-14,Ile-de-France,Paris,75,14,2024-07-07/,Ensemble pour la République,EPR
 PA795966,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795966.webp,Rambaud,Stéphane,M.,1960-04-05,66,yes,83-3,Provence-Alpes-Côte d'Azur,Var,83,3,2024-07-07/,Rassemblement National,RN
 PA795974,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795974.webp,Lottiaux,Philippe,M.,1966-08-14,60,yes,83-4,Provence-Alpes-Côte d'Azur,Var,83,4,2024-06-30/,Rassemblement National,RN
 PA795982,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795982.webp,Saintoul,Aurélien,M.,1988-05-26,38,yes,92-11,Ile-de-France,Hauts-de-Seine,92,11,2024-06-30/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA795990,,Bregeon,Maud,Mme,1991-02-11,35,no,92-13,Ile-de-France,Hauts-de-Seine,92,13,2024-07-07/2024-10-21|2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA795990,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795990.webp,Bregeon,Maud,Mme,1991-02-11,35,no,92-13,Ile-de-France,Hauts-de-Seine,92,13,2024-07-07/2024-10-21|2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA795998,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA795998.webp,K/Bidi,Émeline,Mme,1987-05-13,39,yes,974-4,Réunion,Réunion,974,4,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA796010,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796010.webp,Maillot,Frédéric,M.,1986-11-15,39,yes,974-6,Réunion,Réunion,974,6,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA796018,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796018.webp,Simonnet,Danielle,Mme,1971-07-02,55,yes,75-15,Ile-de-France,Paris,75,15,2024-07-07/,Écologiste et Social,ECOS
 PA796026,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796026.webp,Lechanteux,Julie,Mme,1977-12-22,48,yes,83-5,Provence-Alpes-Côte d'Azur,Var,83,5,2024-06-30/,Rassemblement National,RN
-PA796034,,Giletti,Frank,M.,1973-03-01,53,no,83-6,Provence-Alpes-Côte d'Azur,Var,83,6,2024-06-30/2026-09-30,Rassemblement National,RN
+PA796034,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796034.webp,Giletti,Frank,M.,1973-03-01,53,no,83-6,Provence-Alpes-Côte d'Azur,Var,83,6,2024-06-30/2026-09-30,Rassemblement National,RN
 PA796042,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796042.webp,Boccaletti,Frédéric,M.,1973-11-23,52,yes,83-7,Provence-Alpes-Côte d'Azur,Var,83,7,2024-07-07/,Rassemblement National,RN
 PA796050,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796050.webp,Schreck,Philippe,M.,1972-02-02,54,yes,83-8,Provence-Alpes-Côte d'Azur,Var,83,8,2024-06-30/,Rassemblement National,RN
 PA796062,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA796062.webp,Portes,Thomas,M.,1985-11-18,40,yes,93-3,Ile-de-France,Seine-Saint-Denis,93,3,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
@@ -489,7 +489,7 @@ PA840119,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84011
 PA840135,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840135.webp,Dufosset,Alexandre,M.,1998-08-24,28,yes,59-18,Hauts-de-France,Nord,59,18,2024-06-30/,Rassemblement National,RN
 PA840143,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840143.webp,Florquin,Guillaume,M.,1993-05-04,33,yes,59-20,Hauts-de-France,Nord,59,20,2024-06-30/,Rassemblement National,RN
 PA840159,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840159.webp,Clavet,Bruno,M.,1989-05-06,37,yes,62-3,Hauts-de-France,Pas-de-Calais,62,3,2024-06-30/,Rassemblement National,RN
-PA840171,,Grégoire,Emmanuel,M.,1977-12-24,48,no,75-7,Ile-de-France,Paris,75,7,2024-06-30/2026-04-09,Socialistes et apparentés,SOC
+PA840171,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840171.webp,Grégoire,Emmanuel,M.,1977-12-24,48,no,75-7,Ile-de-France,Paris,75,7,2024-06-30/2026-04-09,Socialistes et apparentés,SOC
 PA840175,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840175.webp,Bregman,Dorine,Mme,1962-03-04,64,yes,75-7,Ile-de-France,Paris,75,7,2024-06-30/,Socialistes et apparentés,SOC
 PA840235,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840235.webp,Frébault,Moerani,M.,1988-08-22,38,yes,987-1,Polynésie française,Polynésie Française,987,1,2024-06-30/,Ensemble pour la République,EPR
 PA840657,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840657.webp,Ricourt Vaginay,Sophie,Mme,1969-12-18,56,yes,04-2,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,04,2,2024-07-07/,Union des droites pour la République,UDDPLR
@@ -497,9 +497,9 @@ PA840665,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84066
 PA840673,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840673.webp,Rossi,Valérie,Mme,1964-06-05,62,yes,05-2,Provence-Alpes-Côte d'Azur,Hautes-Alpes,05,2,2024-07-07/,Socialistes et apparentés,SOC
 PA840685,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840685.webp,Trébuchet,Vincent,M.,1988-07-05,38,yes,07-2,Auvergne-Rhône-Alpes,Ardèche,07,2,2024-07-07/,Union des droites pour la République,UDDPLR
 PA840701,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840701.webp,Chaix,Bernard,M.,1965-01-06,61,yes,06-3,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,06,3,2024-07-07/,Union des droites pour la République,UDDPLR
-PA840713,,Delorme Duret,Sophie,Mme,1971-03-29,55,no,01-3,Auvergne-Rhône-Alpes,Ain,01,3,2024-07-07/2025-01-23,Ensemble pour la République,EPR
+PA840713,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840713.webp,Delorme Duret,Sophie,Mme,1971-03-29,55,no,01-3,Auvergne-Rhône-Alpes,Ain,01,3,2024-07-07/2025-01-23,Ensemble pour la République,EPR
 PA840721,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840721.webp,Chavent,Marc,M.,1968-06-28,58,yes,01-5,Auvergne-Rhône-Alpes,Ain,01,5,2024-07-07/,Union des droites pour la République,UDDPLR
-PA840737,,Termet,Flavien,M.,2002-01-29,24,no,08-1,Grand Est,Ardennes,08,1,2024-07-07/2024-10-04,Rassemblement National,RN
+PA840737,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840737.webp,Termet,Flavien,M.,2002-01-29,24,no,08-1,Grand Est,Ardennes,08,1,2024-07-07/2024-10-04,Rassemblement National,RN
 PA840745,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840745.webp,Jordan,Édouard,M.,1987-11-06,38,yes,11-1,Occitanie,Aude,11,1,2024-07-07/,Rassemblement National,RN
 PA840757,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840757.webp,Griseti,Monique,Mme,1960-07-23,66,yes,13-1,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,1,2024-07-07/,Rassemblement National,RN
 PA840765,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840765.webp,Lhardit,Laurent,M.,1963-04-20,63,yes,13-2,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,2,2024-07-07/,Socialistes et apparentés,SOC
@@ -523,19 +523,19 @@ PA840967,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84096
 PA840979,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840979.webp,Le Fur,Corentin,M.,1989-12-13,36,yes,22-3,Bretagne,Côtes-d'Armor,22,3,2024-07-07/,Droite Républicaine,DR
 PA840983,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840983.webp,Lenoir,Bartolomé,M.,1991-09-04,35,yes,23-1,Nouvelle-Aquitaine,Creuse,23,1,2024-07-07/,Union des droites pour la République,UDDPLR
 PA840997,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA840997.webp,Biteau,Benoît,M.,1967-04-07,59,yes,17-2,Nouvelle-Aquitaine,Charente-Maritime,17,2,2024-07-07/,Écologiste et Social,ECOS
-PA841013,,Mesnard,Isabelle,Mme,1967-10-30,58,no,28-1,Centre-Val de Loire,Eure-et-Loir,28,1,2024-07-07/2025-01-23,Horizons & Indépendants,HOR
-PA841017,,Huwart,Harold,M.,1982-01-03,44,no,28-3,Centre-Val de Loire,Eure-et-Loir,28,3,2024-07-07/2026-07-25,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
+PA841013,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841013.webp,Mesnard,Isabelle,Mme,1967-10-30,58,no,28-1,Centre-Val de Loire,Eure-et-Loir,28,1,2024-07-07/2025-01-23,Horizons & Indépendants,HOR
+PA841017,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841017.webp,Huwart,Harold,M.,1982-01-03,44,no,28-3,Centre-Val de Loire,Eure-et-Loir,28,3,2024-07-07/2026-07-25,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA841023,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841023.webp,Cadalen,Pierre-Yves,M.,1992-07-09,34,yes,29-2,Bretagne,Finistère,29,2,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA841047,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841047.webp,Ceccoli,François-Xavier,M.,1968-10-27,57,yes,2B-2,Corse,Haute-Corse,2B,2,2024-07-07/,Droite Républicaine,DR
 PA841059,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841059.webp,Dellong Meng,Catherine,Mme,1960-05-04,66,yes,30-3,Occitanie,Gard,30,3,2024-07-07/,Rassemblement National,RN
 PA841067,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841067.webp,Allegret-Pilot,Alexandre,M.,1989-01-11,37,yes,30-5,Occitanie,Gard,30,5,2024-07-07/,Union des droites pour la République,UDDPLR
-PA841075,,Josserand,Sylvie,Mme,1968-08-23,58,no,30-6,Occitanie,Gard,30,6,2024-07-07/2026-09-30,Rassemblement National,RN
+PA841075,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841075.webp,Josserand,Sylvie,Mme,1968-08-23,58,no,30-6,Occitanie,Gard,30,6,2024-07-07/2026-09-30,Rassemblement National,RN
 PA841091,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841091.webp,Simion,Arnaud,M.,1968-05-19,58,yes,31-6,Occitanie,Haute-Garonne,31,6,2024-07-07/,Socialistes et apparentés,SOC
 PA841107,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841107.webp,Oberti,Jacques,M.,1960-11-26,65,yes,31-10,Occitanie,Haute-Garonne,31,10,2024-07-07/,Socialistes et apparentés,SOC
-PA841131,,Bouquin,Manon,Mme,1992-06-02,34,no,34-4,Occitanie,Hérault,34,4,2024-07-07/2026-09-30,Rassemblement National,RN
+PA841131,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841131.webp,Bouquin,Manon,Mme,1992-06-02,34,no,34-4,Occitanie,Hérault,34,4,2024-07-07/2026-09-30,Rassemblement National,RN
 PA841139,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841139.webp,Gabarron,Julien,M.,1981-03-11,45,yes,34-6,Occitanie,Hérault,34,6,2024-07-07/,Rassemblement National,RN
 PA841151,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841151.webp,Fruchon,Alix,Mme,1994-10-14,31,yes,36-2,Centre-Val de Loire,Indre,36,2,2024-07-07/,Droite Républicaine,DR
-PA841167,,Prevost,Hugo,M.,1999-09-09,27,no,38-1,Auvergne-Rhône-Alpes,Isère,38,1,2024-07-07/2024-10-15,Non inscrit,NI
+PA841167,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841167.webp,Prevost,Hugo,M.,1999-09-09,27,no,38-1,Auvergne-Rhône-Alpes,Isère,38,1,2024-07-07/2024-10-15,Non inscrit,NI
 PA841183,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841183.webp,Mansouri,Hanane,Mme,2000-11-24,25,yes,38-8,Auvergne-Rhône-Alpes,Isère,38,8,2024-07-07/,Union des droites pour la République,UDDPLR
 PA841191,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841191.webp,Nosbé,Sandrine,Mme,1972-10-29,53,yes,38-9,Auvergne-Rhône-Alpes,Isère,38,9,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA841199,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841199.webp,Perez,Thierry,M.,1966-11-19,59,yes,38-10,Auvergne-Rhône-Alpes,Isère,38,10,2024-07-07/,Rassemblement National,RN
@@ -567,14 +567,14 @@ PA841495,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84149
 PA841507,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841507.webp,Bonnet,Nicolas,M.,1981-02-11,45,yes,63-3,Auvergne-Rhône-Alpes,Puy-de-Dôme,63,3,2024-07-07/,Écologiste et Social,ECOS
 PA841515,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841515.webp,Le Coq,Aurélien,M.,1996-09-28,30,yes,59-1,Hauts-de-France,Nord,59,1,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA841531,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841531.webp,Bentorki,Shéhérazade,Mme,1986-11-06,39,yes,59-8,Hauts-de-France,Nord,59,8,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA841539,,Gokel,Julien,M.,1983-03-13,43,no,59-13,Hauts-de-France,Nord,59,13,2024-07-07/2026-04-19,Socialistes et apparentés,SOC
+PA841539,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841539.webp,Gokel,Julien,M.,1983-03-13,43,no,59-13,Hauts-de-France,Nord,59,13,2024-07-07/2026-04-19,Socialistes et apparentés,SOC
 PA841543,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841543.webp,Bodart,Jean,M.,1946-02-21,80,yes,59-13,Hauts-de-France,Nord,59,13,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT
 PA841553,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841553.webp,Tesson,Thierry,M.,1957-04-22,69,yes,59-17,Hauts-de-France,Nord,59,17,2024-07-07/,Rassemblement National,RN
 PA841563,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841563.webp,Marais-Beuil,Claire,Mme,1958-11-04,67,yes,60-1,Hauts-de-France,Oise,60,1,2024-07-07/,Rassemblement National,RN
 PA841575,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841575.webp,Vos,Frédéric-Pierre,M.,1963-03-10,63,yes,60-5,Hauts-de-France,Oise,60,5,2024-07-07/,Rassemblement National,RN
 PA841587,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841587.webp,Magnier,David,M.,1972-06-05,54,yes,60-7,Hauts-de-France,Oise,60,7,2024-07-07/,Rassemblement National,RN
 PA841595,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841595.webp,Chazé,Cendrine,Mme,1977-10-14,48,yes,61-3,Normandie,Orne,61,3,2024-07-07/,Droite Républicaine,DR
-PA841601,,Levasseur,Pauline,Mme,1991-07-24,35,no,62-2,Hauts-de-France,Pas-de-Calais,62,2,2024-07-07/2025-11-12,Ensemble pour la République,EPR
+PA841601,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841601.webp,Levasseur,Pauline,Mme,1991-07-24,35,no,62-2,Hauts-de-France,Pas-de-Calais,62,2,2024-07-07/2025-11-12,Ensemble pour la République,EPR
 PA841605,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841605.webp,Golliot,Antoine,M.,1985-08-13,41,yes,62-5,Hauts-de-France,Pas-de-Calais,62,5,2024-07-07/,Rassemblement National,RN
 PA841613,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841613.webp,de Fleurian,Marc,M.,1989-02-07,37,yes,62-7,Hauts-de-France,Pas-de-Calais,62,7,2024-07-07/,Rassemblement National,RN
 PA841621,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841621.webp,Evrard,Auguste,M.,2000-05-04,26,yes,62-8,Hauts-de-France,Pas-de-Calais,62,8,2024-07-07/,Rassemblement National,RN
@@ -583,26 +583,26 @@ PA841645,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84164
 PA841657,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841657.webp,Belouassa-Cherifi,Anaïs,Mme,1995-02-07,31,yes,69-1,Auvergne-Rhône-Alpes,Rhône,69,1,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA841665,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841665.webp,Fégné,Denis,M.,1960-07-31,66,yes,65-2,Occitanie,Hautes-Pyrénées,65,2,2024-07-07/,Socialistes et apparentés,SOC
 PA841681,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841681.webp,Sother,Thierry,M.,1982-02-02,44,yes,67-3,Grand Est,Bas-Rhin,67,3,2024-07-07/,Socialistes et apparentés,SOC
-PA841693,,Laussucq,Jean,M.,1990-02-04,36,no,75-2,Ile-de-France,Paris,75,2,2024-07-07/2025-07-11,Ensemble pour la République,EPR
+PA841693,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841693.webp,Laussucq,Jean,M.,1990-02-04,36,no,75-2,Ile-de-France,Paris,75,2,2024-07-07/2025-07-11,Ensemble pour la République,EPR
 PA841701,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841701.webp,Balage El Mariky,Léa,Mme,1990-04-09,36,yes,75-3,Ile-de-France,Paris,75,3,2024-07-07/,Écologiste et Social,ECOS
 PA841709,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841709.webp,Hoffman,Emmanuelle,Mme,1964-12-17,61,yes,75-4,Ile-de-France,Paris,75,4,2024-07-07/2025-11-05|2024-07-07/,Ensemble pour la République,EPR
 PA841713,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841713.webp,Tavernier,Boris,M.,1979-08-23,47,yes,69-2,Auvergne-Rhône-Alpes,Rhône,69,2,2024-07-07/,Écologiste et Social,ECOS
 PA841717,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841717.webp,Runel,Sandrine,Mme,1979-06-01,47,yes,69-4,Auvergne-Rhône-Alpes,Rhône,69,4,2024-07-07/,Socialistes et apparentés,SOC
 PA841729,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841729.webp,Lahmar,Abdelkader,M.,1971-05-12,55,yes,69-7,Auvergne-Rhône-Alpes,Rhône,69,7,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA841737,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841737.webp,Gery,Jonathan,M.,1986-10-12,39,yes,69-8,Auvergne-Rhône-Alpes,Rhône,69,8,2024-07-07/,Rassemblement National,RN
-PA841745,,Bay,Pascale,Mme,1956-09-15,70,no,69-9,Auvergne-Rhône-Alpes,Rhône,69,9,2024-07-07/2025-01-23,Droite Républicaine,DR
+PA841745,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841745.webp,Bay,Pascale,Mme,1956-09-15,70,no,69-9,Auvergne-Rhône-Alpes,Rhône,69,9,2024-07-07/2025-01-23,Droite Républicaine,DR
 PA841749,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841749.webp,Joncour,Tiffany,Mme,1989-09-02,37,yes,69-13,Auvergne-Rhône-Alpes,Rhône,69,13,2024-07-07/,Rassemblement National,RN
 PA841761,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841761.webp,Dutremble,Aurélien,M.,1978-12-23,47,yes,71-3,Bourgogne-Franche-Comté,Saône-et-Loire,71,3,2024-07-07/,Rassemblement National,RN
 PA841769,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841769.webp,Michoux,Éric,M.,1959-06-17,67,yes,71-4,Bourgogne-Franche-Comté,Saône-et-Loire,71,4,2024-07-07/,Union des droites pour la République,UDDPLR
-PA841777,,Sanvert,Arnaud,M.,1983-08-03,43,no,71-5,Bourgogne-Franche-Comté,Saône-et-Loire,71,5,2024-07-07/2025-03-07,Rassemblement National,RN
+PA841777,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841777.webp,Sanvert,Arnaud,M.,1983-08-03,43,no,71-5,Bourgogne-Franche-Comté,Saône-et-Loire,71,5,2024-07-07/2025-03-07,Rassemblement National,RN
 PA841801,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841801.webp,Carteron,Danièle,Mme,1984-10-31,41,yes,74-2,Auvergne-Rhône-Alpes,Haute-Savoie,74,2,2024-07-07/2025-01-23|2024-07-07/,Ensemble pour la République,EPR
 PA841813,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841813.webp,Herouin-Léautey,Florence,Mme,1972-12-28,53,yes,76-1,Normandie,Seine-Maritime,76,1,2024-07-07/,Socialistes et apparentés,SOC
 PA841825,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841825.webp,Martin,Patrice,M.,1963-09-13,63,yes,76-6,Normandie,Seine-Maritime,76,6,2024-07-07/,Rassemblement National,RN
-PA841833,,Guerin,David,M.,1966-01-09,60,no,76-9,Normandie,Seine-Maritime,76,9,2024-07-07/2025-01-23,Horizons & Indépendants,HOR
+PA841833,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841833.webp,Guerin,David,M.,1966-01-09,60,no,76-9,Normandie,Seine-Maritime,76,9,2024-07-07/2025-01-23,Horizons & Indépendants,HOR
 PA841837,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841837.webp,Le Bourgeois,Robert,M.,1969-11-12,56,yes,76-10,Normandie,Seine-Maritime,76,10,2024-07-07/,Rassemblement National,RN
 PA841845,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841845.webp,Saint-Martin,Arnaud,M.,1979-01-25,47,yes,77-1,Ile-de-France,Seine-et-Marne,77,1,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
 PA841853,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841853.webp,Hervieu,Céline,Mme,1993-08-19,33,yes,75-11,Ile-de-France,Paris,75,11,2024-07-07/,Socialistes et apparentés,SOC
-PA841869,,Gonord,Michel,M.,1955-03-31,71,no,77-3,Ile-de-France,Seine-et-Marne,77,3,2024-07-07/2025-01-23,Droite Républicaine,DR
+PA841869,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841869.webp,Gonord,Michel,M.,1955-03-31,71,no,77-3,Ile-de-France,Seine-et-Marne,77,3,2024-07-07/2025-01-23,Droite Républicaine,DR
 PA841873,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841873.webp,Limongi,Julien,M.,1996-02-12,30,yes,77-4,Ile-de-France,Seine-et-Marne,77,4,2024-07-07/,Rassemblement National,RN
 PA841885,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841885.webp,Bonnet,Arnaud,M.,1977-02-23,49,yes,77-8,Ile-de-France,Seine-et-Marne,77,8,2024-07-07/,Écologiste et Social,ECOS
 PA841893,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA841893.webp,Thiébault-Martinez,Céline,Mme,1974-08-04,52,yes,77-9,Ile-de-France,Seine-et-Marne,77,9,2024-07-07/,Socialistes et apparentés,SOC
@@ -623,10 +623,10 @@ PA842073,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84207
 PA842085,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842085.webp,Humbert,Sébastien,M.,1990-07-10,36,yes,88-4,Grand Est,Vosges,88,4,2024-07-07/,Rassemblement National,RN
 PA842097,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842097.webp,Roy,Sophie-Laurence,Mme,1955-12-23,70,yes,89-2,Bourgogne-Franche-Comté,Yonne,89,2,2024-07-07/,Rassemblement National,RN
 PA842105,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842105.webp,Arnault,Raphaël,M.,1995-01-08,31,yes,84-1,Provence-Alpes-Côte d'Azur,Vaucluse,84,1,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
-PA842117,,Jeanbrun,Vincent,M.,1984-05-05,42,no,94-7,Ile-de-France,Val-de-Marne,94,7,2024-07-07/2025-11-12,Droite Républicaine,DR
+PA842117,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842117.webp,Jeanbrun,Vincent,M.,1984-05-05,42,no,94-7,Ile-de-France,Val-de-Marne,94,7,2024-07-07/2025-11-12,Droite Républicaine,DR
 PA842121,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842121.webp,Tryzna,Nicolas,M.,1987-12-15,38,yes,94-7,Ile-de-France,Val-de-Marne,94,7,2024-07-07/,Droite Républicaine,DR
 PA842125,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842125.webp,Lam,Thomas,M.,1981-10-22,44,yes,92-2,Ile-de-France,Hauts-de-Seine,92,2,2024-07-07/,Horizons & Indépendants,HOR
-PA842137,,Séjourné,Stéphane,M.,1985-03-26,41,no,92-9,Ile-de-France,Hauts-de-Seine,92,9,2024-07-07/2024-11-30,Ensemble pour la République,EPR
+PA842137,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842137.webp,Séjourné,Stéphane,M.,1985-03-26,41,no,92-9,Ile-de-France,Hauts-de-Seine,92,9,2024-07-07/2024-11-30,Ensemble pour la République,EPR
 PA842141,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842141.webp,de Maistre,Élisabeth,Mme,1975-10-07,50,yes,92-9,Ile-de-France,Hauts-de-Seine,92,9,2025-02-09/,Droite Républicaine,DR
 PA842147,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842147.webp,Mongardien,Christophe,M.,1963-01-09,63,yes,92-13,Ile-de-France,Hauts-de-Seine,92,13,2024-07-07/2025-01-13|2024-07-07/,Ensemble pour la République,EPR
 PA842155,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842155.webp,Diouara,Aly,M.,1987-03-01,39,yes,93-5,Ile-de-France,Seine-Saint-Denis,93,5,2024-07-07/,La France insoumise - Nouveau Front Populaire,LFI-NFP
@@ -641,10 +641,10 @@ PA842271,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA84227
 PA842279,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842279.webp,Bamana,Anchya,Mme,1971-03-12,55,yes,976-2,Mayotte,Mayotte,976,2,2024-07-07/,Rassemblement National,RN
 PA842299,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842299.webp,Tjibaou,Emmanuel,M.,1976-03-17,50,yes,988-2,Nouvelle-Calédonie,Nouvelle-Calédonie,988,2,2024-07-07/,Gauche Démocrate et Républicaine,GDR
 PA842311,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842311.webp,Caure,Vincent,M.,1992-12-31,33,yes,099-3,Français établis hors de France,Français établis hors de France,099,3,2024-07-07/,Ensemble pour la République,EPR
-PA842323,,Provendier,Remi,M.,1971-12-24,54,no,099-11,Français établis hors de France,Français établis hors de France,099,11,2024-07-07/2025-01-23,Ensemble pour la République,EPR
+PA842323,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA842323.webp,Provendier,Remi,M.,1971-12-24,54,no,099-11,Français établis hors de France,Français établis hors de France,099,11,2024-07-07/2025-01-23,Ensemble pour la République,EPR
 PA857021,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA857021.webp,Latrèche,Alim,M.,1979-12-05,46,yes,38-1,Auvergne-Rhône-Alpes,Isère,38,1,2025-01-19/,Ensemble pour la République,EPR
 PA870009,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA870009.webp,Duparay,Lionel,M.,1981-02-07,45,yes,71-5,Bourgogne-Franche-Comté,Saône-et-Loire,71,5,2025-05-25/,Droite Républicaine,DR
-PA870010,,Martin,Sébastien,M.,1977-11-24,48,no,71-5,Bourgogne-Franche-Comté,Saône-et-Loire,71,5,2025-05-25/2025-11-12,Droite Républicaine,DR
+PA870010,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA870010.webp,Martin,Sébastien,M.,1977-11-24,48,no,71-5,Bourgogne-Franche-Comté,Saône-et-Loire,71,5,2025-05-25/2025-11-12,Droite Républicaine,DR
 PA878242,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA878242.webp,Valentin,Antoine,M.,1992-10-16,33,yes,74-3,Auvergne-Rhône-Alpes,Haute-Savoie,74,3,2026-02-01/,Union des droites pour la République,UDDPLR
 PA879389,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA879389.webp,Lubet,Marie-Philippe,Mme,1957-09-06,69,yes,45-1,Centre-Val de Loire,Loiret,45,1,2026-01-25/,Ensemble pour la République,EPR
 PA942,https://raw.githubusercontent.com/brissa-a/lcdg-nobg/test-v2/v2/PA942.webp,de Courson,Charles,M.,1952-04-02,74,yes,51-5,Grand Est,Marne,51,5,2024-07-07/,"Libertés, Indépendants, Outre-mer et Territoires",LIOT

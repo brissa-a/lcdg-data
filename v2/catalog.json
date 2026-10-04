@@ -6,8 +6,8 @@
    "entity": "deputy",
    "key": "deputy_id",
    "rows": 649,
-   "size": 132049,
-   "gzipSize": 23949,
+   "size": 136284,
+   "gzipSize": 24188,
    "features": [
     {
      "title": "Photo",
@@ -31,6 +31,10 @@
       "M.",
       "Mme"
      ],
+     "colors": {
+      "M.": "#4a86a8",
+      "Mme": "#b0549a"
+     },
      "column": "civility"
     },
     {
@@ -41,6 +45,10 @@
     {
      "title": "Âge",
      "type": "number",
+     "gradient": [
+      "#fde0c5",
+      "#7a2e0e"
+     ],
      "column": "age"
     },
     {
@@ -50,17 +58,72 @@
       "yes",
       "no"
      ],
+     "colors": {
+      "yes": "#2e7d32",
+      "no": "#bdbdbd"
+     },
      "column": "in_office"
     },
     {
      "title": "Circonscription",
-     "type": "reference",
-     "entity": "constituency",
+     "type": "code",
      "column": "constituency"
     },
     {
      "title": "Région",
      "type": "category",
+     "values": [
+      "Auvergne-Rhône-Alpes",
+      "Bourgogne-Franche-Comté",
+      "Bretagne",
+      "Centre-Val de Loire",
+      "Corse",
+      "Grand Est",
+      "Hauts-de-France",
+      "Ile-de-France",
+      "Normandie",
+      "Nouvelle-Aquitaine",
+      "Occitanie",
+      "Pays de la Loire",
+      "Provence-Alpes-Côte d'Azur",
+      "Guadeloupe",
+      "Guyane",
+      "Martinique",
+      "Mayotte",
+      "Réunion",
+      "Nouvelle-Calédonie",
+      "Polynésie française",
+      "Saint-Barthélemy et Saint-Martin",
+      "Saint-Pierre-et-Miquelon",
+      "Wallis-et-Futuna",
+      "Français établis hors de France"
+     ],
+     "colors": {
+      "Auvergne-Rhône-Alpes": "#1f77b4",
+      "Bourgogne-Franche-Comté": "#8c564b",
+      "Bretagne": "#2ca02c",
+      "Centre-Val de Loire": "#bcbd22",
+      "Corse": "#9467bd",
+      "Grand Est": "#ff7f0e",
+      "Hauts-de-France": "#d62728",
+      "Ile-de-France": "#e377c2",
+      "Normandie": "#17becf",
+      "Nouvelle-Aquitaine": "#aec7e8",
+      "Occitanie": "#ffbb78",
+      "Pays de la Loire": "#98df8a",
+      "Provence-Alpes-Côte d'Azur": "#c5b0d5",
+      "Guadeloupe": "#00796b",
+      "Guyane": "#00897b",
+      "Martinique": "#009688",
+      "Mayotte": "#26a69a",
+      "Réunion": "#4db6ac",
+      "Nouvelle-Calédonie": "#0277bd",
+      "Polynésie française": "#0288d1",
+      "Saint-Barthélemy et Saint-Martin": "#80cbc4",
+      "Saint-Pierre-et-Miquelon": "#4fc3f7",
+      "Wallis-et-Futuna": "#29b6f6",
+      "Français établis hors de France": "#757575"
+     },
      "column": "region"
     },
     {
@@ -126,18 +189,13 @@
    ]
   },
   {
-   "file": "constituencies/hemicycle.csv",
-   "entity": "constituency",
-   "key": "constituency",
-   "rows": 569,
-   "size": 13698,
-   "gzipSize": 5223,
+   "file": "seats/hemicycle.csv",
+   "entity": "seat",
+   "key": "seat",
+   "rows": 582,
+   "size": 16117,
+   "gzipSize": 5903,
    "features": [
-    {
-     "title": "Siège",
-     "type": "code",
-     "column": "seat"
-    },
     {
      "title": "x",
      "type": "number",
@@ -147,10 +205,16 @@
      "title": "y",
      "type": "number",
      "column": "y"
+    },
+    {
+     "title": "Député",
+     "type": "reference",
+     "entity": "deputy",
+     "column": "deputy"
     }
    ],
    "layout": {
-    "background": "constituencies/hemicycle.svg"
+    "background": "seats/hemicycle.svg"
    }
   },
   {
@@ -209,6 +273,16 @@
     {
      "title": "Type de scrutin",
      "type": "category",
+     "values": [
+      "scrutin public ordinaire",
+      "scrutin public solennel",
+      "motion de censure"
+     ],
+     "colors": {
+      "scrutin public ordinaire": "#90a4ae",
+      "scrutin public solennel": "#3949ab",
+      "motion de censure": "#c62828"
+     },
      "column": "kind"
     },
     {
@@ -218,6 +292,10 @@
       "adopté",
       "rejeté"
      ],
+     "colors": {
+      "adopté": "#2e7d32",
+      "rejeté": "#c62828"
+     },
      "column": "result"
     },
     {
@@ -227,6 +305,10 @@
       "yes",
       "no"
      ],
+     "colors": {
+      "yes": "#2e7d32",
+      "no": "#bdbdbd"
+     },
      "column": "major"
     },
     {
