@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-04",
+ "generated": "2026-10-09",
  "files": [
   {
    "file": "deputies/init.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 133479,
-   "gzipSize": 24071,
+   "rows": 654,
+   "size": 134375,
+   "gzipSize": 24219,
    "features": [
     {
      "title": "Photo",
@@ -90,8 +90,8 @@
    "entity": "seat",
    "key": "seat",
    "rows": 582,
-   "size": 16117,
-   "gzipSize": 5903,
+   "size": 16157,
+   "gzipSize": 5922,
    "features": [
     {
      "title": "x",
@@ -118,9 +118,9 @@
    "file": "deputies/communes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 799429,
-   "gzipSize": 275286,
+   "rows": 654,
+   "size": 806818,
+   "gzipSize": 277832,
    "features": [
     {
      "title": "Communes de la circonscription",
@@ -133,9 +133,9 @@
    "file": "deputies/links.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 42155,
-   "gzipSize": 3771,
+   "rows": 654,
+   "size": 42480,
+   "gzipSize": 3801,
    "features": [
     {
      "title": "Fiche sur le site de l'Assemblée",
@@ -148,9 +148,9 @@
    "file": "votes/votes.csv",
    "entity": "vote",
    "key": "vote_id",
-   "rows": 8509,
-   "size": 3795162,
-   "gzipSize": 203773,
+   "rows": 8660,
+   "size": 3879532,
+   "gzipSize": 207500,
    "features": [
     {
      "title": "Numéro",
@@ -206,9 +206,9 @@
    "file": "deputies/major-votes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 973318,
-   "gzipSize": 55454,
+   "rows": 654,
+   "size": 982183,
+   "gzipSize": 55587,
    "columnsOf": {
     "entity": "vote",
     "count": 252,
@@ -223,12 +223,12 @@
    "file": "deputies/votes/other.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1206391,
-   "gzipSize": 55263,
+   "rows": 654,
+   "size": 1232238,
+   "gzipSize": 56212,
    "columnsOf": {
     "entity": "vote",
-    "count": 296,
+    "count": 300,
     "feature": {
      "title": "Position de vote",
      "type": "category",
@@ -240,9 +240,9 @@
    "file": "deputies/votes/projet-de-loi-de-finances-pour-2025.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1480154,
-   "gzipSize": 42031,
+   "rows": 654,
+   "size": 1492204,
+   "gzipSize": 42117,
    "columnsOf": {
     "entity": "vote",
     "count": 343,
@@ -257,9 +257,9 @@
    "file": "deputies/votes/projet-de-loi-de-financement-de-la-securite-sociale-pour-2025.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 341729,
-   "gzipSize": 15390,
+   "rows": 654,
+   "size": 344539,
+   "gzipSize": 15433,
    "columnsOf": {
     "entity": "vote",
     "count": 79,
@@ -274,9 +274,9 @@
    "file": "deputies/votes/projet-de-loi-de-finances-de-fin-des-gestion-pour-2024.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 36095,
-   "gzipSize": 3262,
+   "rows": 654,
+   "size": 36385,
+   "gzipSize": 3280,
    "columnsOf": {
     "entity": "vote",
     "count": 7,
@@ -291,9 +291,9 @@
    "file": "deputies/votes/proposition-de-loi-organique-portant-reforme-du-financement-de-l-audiovisuel.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 32878,
-   "gzipSize": 2852,
+   "rows": 654,
+   "size": 33133,
+   "gzipSize": 2869,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -308,9 +308,9 @@
    "file": "deputies/votes/proposition-de-loi-d-abrogation-de-la-retraite-a-64-ans.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 147587,
-   "gzipSize": 6178,
+   "rows": 654,
+   "size": 148752,
+   "gzipSize": 6196,
    "columnsOf": {
     "entity": "vote",
     "count": 32,
@@ -325,9 +325,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-le-traitement-des-maladies-affectant-les.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 84276,
-   "gzipSize": 4441,
+   "rows": 654,
+   "size": 84951,
+   "gzipSize": 4457,
    "columnsOf": {
     "entity": "vote",
     "count": 18,
@@ -342,9 +342,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-optimiser-la-protection-et-l-accompagnement-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 53377,
-   "gzipSize": 3274,
+   "rows": 654,
+   "size": 53807,
+   "gzipSize": 3290,
    "columnsOf": {
     "entity": "vote",
     "count": 11,
@@ -359,9 +359,9 @@
    "file": "deputies/votes/projet-de-loi-speciale-prevue-par-l-article-45-de-la-loi-organique-du-1er-aout.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 49393,
-   "gzipSize": 3830,
+   "rows": 654,
+   "size": 49858,
+   "gzipSize": 3854,
    "columnsOf": {
     "entity": "vote",
     "count": 12,
@@ -376,9 +376,9 @@
    "file": "deputies/votes/projet-de-loi-d-urgence-pour-mayotte.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 235881,
-   "gzipSize": 8895,
+   "rows": 654,
+   "size": 237851,
+   "gzipSize": 8939,
    "columnsOf": {
     "entity": "vote",
     "count": 55,
@@ -393,9 +393,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-l-exercice-de-la-democratie-agricole.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 45122,
-   "gzipSize": 3203,
+   "rows": 654,
+   "size": 45482,
+   "gzipSize": 3221,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -410,9 +410,9 @@
    "file": "deputies/votes/projet-de-loi-portant-diverses-dispositions-d-adaptation-au-droit-de-l-union.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 32266,
-   "gzipSize": 2903,
+   "rows": 654,
+   "size": 32521,
+   "gzipSize": 2918,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -427,9 +427,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-rendre-accessible-a-tous-les-etudiants-le-repas-a-1.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 32230,
-   "gzipSize": 2794,
+   "rows": 654,
+   "size": 32485,
+   "gzipSize": 2810,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -444,9 +444,9 @@
    "file": "deputies/votes/proposition-de-loi-contre-toutes-les-fraudes-aux-aides-publiques.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 157889,
-   "gzipSize": 4629,
+   "rows": 654,
+   "size": 159194,
+   "gzipSize": 4648,
    "columnsOf": {
     "entity": "vote",
     "count": 36,
@@ -461,9 +461,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-prevenir-les-litiges-relatifs-aux-obligations-de.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 70890,
-   "gzipSize": 3845,
+   "rows": 654,
+   "size": 71460,
+   "gzipSize": 3860,
    "columnsOf": {
     "entity": "vote",
     "count": 15,
@@ -478,9 +478,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-restreindre-la-vente-de-protoxyde-d-azote-aux-seuls.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 44485,
-   "gzipSize": 2896,
+   "rows": 654,
+   "size": 44845,
+   "gzipSize": 2910,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -495,9 +495,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-refuser-la-ratification-de-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 31790,
-   "gzipSize": 2513,
+   "rows": 654,
+   "size": 32045,
+   "gzipSize": 2528,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -512,9 +512,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-les-conditions-d-acces-a-la-nationalite.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 203718,
-   "gzipSize": 7417,
+   "rows": 654,
+   "size": 205373,
+   "gzipSize": 7450,
    "columnsOf": {
     "entity": "vote",
     "count": 46,
@@ -529,9 +529,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-au-renforcement-de-la-surete-dans-les-transports.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 193137,
-   "gzipSize": 7469,
+   "rows": 654,
+   "size": 194722,
+   "gzipSize": 7496,
    "columnsOf": {
     "entity": "vote",
     "count": 44,
@@ -546,9 +546,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-restaurer-l-autorite-de-la-justice-a-l-egard-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 66762,
-   "gzipSize": 3616,
+   "rows": 654,
+   "size": 67297,
+   "gzipSize": 3632,
    "columnsOf": {
     "entity": "vote",
     "count": 14,
@@ -563,9 +563,9 @@
    "file": "deputies/votes/projet-de-loi-portant-diverses-dispositions-d-adaptation-au-droit-de-l-union-2.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 145295,
-   "gzipSize": 3847,
+   "rows": 654,
+   "size": 146460,
+   "gzipSize": 3866,
    "columnsOf": {
     "entity": "vote",
     "count": 32,
@@ -580,9 +580,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-proteger-la-population-des-risques-lies-aux.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 40078,
-   "gzipSize": 3278,
+   "rows": 654,
+   "size": 40403,
+   "gzipSize": 3293,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -597,9 +597,9 @@
    "file": "deputies/votes/proposition-de-loi-instaurant-un-impot-plancher-de-2-sur-le-patrimoine-des-ultra.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 132883,
-   "gzipSize": 4757,
+   "rows": 654,
+   "size": 133943,
+   "gzipSize": 4770,
    "columnsOf": {
     "entity": "vote",
     "count": 29,
@@ -614,9 +614,9 @@
    "file": "deputies/votes/proposition-de-loi-pour-un-demarchage-telephonique-consenti-et-une-protection.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 78832,
-   "gzipSize": 3937,
+   "rows": 654,
+   "size": 79472,
+   "gzipSize": 3949,
    "columnsOf": {
     "entity": "vote",
     "count": 17,
@@ -631,9 +631,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-l-organisation-et-aux-missions-des-personnels-de.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 62099,
-   "gzipSize": 3252,
+   "rows": 654,
+   "size": 62599,
+   "gzipSize": 3266,
    "columnsOf": {
     "entity": "vote",
     "count": 13,
@@ -648,9 +648,9 @@
    "file": "deputies/votes/proposition-de-loi-simplifiant-l-ouverture-des-debits-de-boissons-en-zone-rurale.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 48445,
-   "gzipSize": 3246,
+   "rows": 654,
+   "size": 48840,
+   "gzipSize": 3260,
    "columnsOf": {
     "entity": "vote",
     "count": 10,
@@ -665,9 +665,9 @@
    "file": "deputies/votes/proposition-de-loi-sur-la-profession-d-infirmier.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 65349,
-   "gzipSize": 3606,
+   "rows": 654,
+   "size": 65884,
+   "gzipSize": 3620,
    "columnsOf": {
     "entity": "vote",
     "count": 14,
@@ -682,9 +682,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-lutter-contre-la-disparition-des-terres-agricoles-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 54818,
-   "gzipSize": 3367,
+   "rows": 654,
+   "size": 55283,
+   "gzipSize": 3375,
    "columnsOf": {
     "entity": "vote",
     "count": 12,
@@ -699,9 +699,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-appelant-au-renforcement-du-soutien-a-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 122606,
-   "gzipSize": 6261,
+   "rows": 654,
+   "size": 123631,
+   "gzipSize": 6275,
    "columnsOf": {
     "entity": "vote",
     "count": 28,
@@ -716,9 +716,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-assouplir-la-gestion-des-competences-eau-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 44636,
-   "gzipSize": 3116,
+   "rows": 654,
+   "size": 44996,
+   "gzipSize": 3128,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -733,9 +733,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-lutter-contre-les-fermetures-abusives-de-comptes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 75488,
-   "gzipSize": 2994,
+   "rows": 654,
+   "size": 76093,
+   "gzipSize": 3007,
    "columnsOf": {
     "entity": "vote",
     "count": 16,
@@ -750,9 +750,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-stabilite-economique-et-la.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 95454,
-   "gzipSize": 4683,
+   "rows": 654,
+   "size": 96234,
+   "gzipSize": 4702,
    "columnsOf": {
     "entity": "vote",
     "count": 21,
@@ -767,9 +767,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-sortir-la-france-du-piege-du-narcotrafic.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 661253,
-   "gzipSize": 17526,
+   "rows": 654,
+   "size": 666653,
+   "gzipSize": 17577,
    "columnsOf": {
     "entity": "vote",
     "count": 153,
@@ -784,9 +784,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-modifier-la-definition-penale-du-viol-et-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 31625,
-   "gzipSize": 3044,
+   "rows": 654,
+   "size": 31880,
+   "gzipSize": 3057,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -801,9 +801,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-le-controle-du-parlement-en-periode-d.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 39355,
-   "gzipSize": 3008,
+   "rows": 654,
+   "size": 39680,
+   "gzipSize": 3023,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -818,9 +818,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-valoriser-la-reserve-communale-de-securite-civile.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 90668,
-   "gzipSize": 3769,
+   "rows": 654,
+   "size": 91413,
+   "gzipSize": 3784,
    "columnsOf": {
     "entity": "vote",
     "count": 20,
@@ -835,9 +835,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-faire-executer-les-peines-d-emprisonnement-ferme.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 128070,
-   "gzipSize": 4304,
+   "rows": 654,
+   "size": 129095,
+   "gzipSize": 4319,
    "columnsOf": {
     "entity": "vote",
     "count": 28,
@@ -852,9 +852,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-harmoniser-le-mode-de-scrutin-aux-elections.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 145928,
-   "gzipSize": 5434,
+   "rows": 654,
+   "size": 147128,
+   "gzipSize": 5459,
    "columnsOf": {
     "entity": "vote",
     "count": 33,
@@ -869,9 +869,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reformer-le-mode-d-election-du-conseil-de-paris-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 49763,
-   "gzipSize": 3610,
+   "rows": 654,
+   "size": 50158,
+   "gzipSize": 3625,
    "columnsOf": {
     "entity": "vote",
     "count": 10,
@@ -886,9 +886,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reformer-le-mode-d-election-des-membres-du-conseil.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 53052,
-   "gzipSize": 3570,
+   "rows": 654,
+   "size": 53482,
+   "gzipSize": 3586,
    "columnsOf": {
     "entity": "vote",
     "count": 11,
@@ -903,9 +903,9 @@
    "file": "deputies/votes/projet-de-loi-de-simplification-de-la-vie-economique.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1948488,
-   "gzipSize": 33987,
+   "rows": 654,
+   "size": 1964143,
+   "gzipSize": 34071,
    "columnsOf": {
     "entity": "vote",
     "count": 446,
@@ -920,9 +920,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-le-parcours-inclusif-des-enfants-a-besoins.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 146059,
-   "gzipSize": 5051,
+   "rows": 654,
+   "size": 147294,
+   "gzipSize": 5069,
    "columnsOf": {
     "entity": "vote",
     "count": 34,
@@ -937,9 +937,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-appelant-a-la-liberation-immediate-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 76830,
-   "gzipSize": 4331,
+   "rows": 654,
+   "size": 77470,
+   "gzipSize": 4344,
    "columnsOf": {
     "entity": "vote",
     "count": 17,
@@ -954,9 +954,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-la-lutte-contre-l-antisemitisme-le-racisme-les.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 138463,
-   "gzipSize": 5258,
+   "rows": 654,
+   "size": 139593,
+   "gzipSize": 5279,
    "columnsOf": {
     "entity": "vote",
     "count": 31,
@@ -971,9 +971,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-l-accompagnement-et-aux-soins-palliatifs.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 487619,
-   "gzipSize": 13155,
+   "rows": 654,
+   "size": 491584,
+   "gzipSize": 13199,
    "columnsOf": {
     "entity": "vote",
     "count": 112,
@@ -988,9 +988,9 @@
    "file": "deputies/votes/proposition-de-loi-de-simplification-du-droit-de-l-urbanisme-et-du-logement.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 190543,
-   "gzipSize": 6858,
+   "rows": 654,
+   "size": 192093,
+   "gzipSize": 6886,
    "columnsOf": {
     "entity": "vote",
     "count": 43,
@@ -1005,9 +1005,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-lutter-contre-la-mortalite-infantile.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 30957,
-   "gzipSize": 2762,
+   "rows": 654,
+   "size": 31212,
+   "gzipSize": 2775,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -1022,9 +1022,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-au-droit-a-l-aide-a-mourir.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 3921047,
-   "gzipSize": 72486,
+   "rows": 654,
+   "size": 3953677,
+   "gzipSize": 72626,
    "columnsOf": {
     "entity": "vote",
     "count": 931,
@@ -1039,9 +1039,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-l-egal-acces-de-tous-a-l-accompagnement-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 318752,
-   "gzipSize": 10463,
+   "rows": 654,
+   "size": 321457,
+   "gzipSize": 10500,
    "columnsOf": {
     "entity": "vote",
     "count": 76,
@@ -1056,9 +1056,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-un-cadre-fiscal-stable-juste-et-lisible.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 29459,
-   "gzipSize": 2816,
+   "rows": 654,
+   "size": 29714,
+   "gzipSize": 2833,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -1073,9 +1073,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-au-droit-de-vote-par-correspondance-des-personnes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 105339,
-   "gzipSize": 3727,
+   "rows": 654,
+   "size": 106189,
+   "gzipSize": 3737,
    "columnsOf": {
     "entity": "vote",
     "count": 23,
@@ -1090,9 +1090,9 @@
    "file": "deputies/votes/proposition-de-loi-permettant-aux-salaries-de-participer-aux-collectes-de-sang.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 57793,
-   "gzipSize": 3238,
+   "rows": 654,
+   "size": 58258,
+   "gzipSize": 3253,
    "columnsOf": {
     "entity": "vote",
     "count": 12,
@@ -1107,9 +1107,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-accorder-le-versement-des-allocations-familiales-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 48835,
-   "gzipSize": 3208,
+   "rows": 654,
+   "size": 49230,
+   "gzipSize": 3224,
    "columnsOf": {
     "entity": "vote",
     "count": 10,
@@ -1124,9 +1124,9 @@
    "file": "deputies/votes/proposition-de-loi-portant-programmation-nationale-energie-et-climat-pour-les.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 904108,
-   "gzipSize": 18820,
+   "rows": 654,
+   "size": 911363,
+   "gzipSize": 18876,
    "columnsOf": {
     "entity": "vote",
     "count": 206,
@@ -1141,9 +1141,9 @@
    "file": "deputies/votes/projet-de-loi-de-programmation-pour-la-refondation-de-mayotte.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 872302,
-   "gzipSize": 15612,
+   "rows": 654,
+   "size": 879312,
+   "gzipSize": 15660,
    "columnsOf": {
     "entity": "vote",
     "count": 199,
@@ -1158,9 +1158,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-les-prerogatives-des-officiers-de-l-etat.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 163322,
-   "gzipSize": 4425,
+   "rows": 654,
+   "size": 164627,
+   "gzipSize": 4443,
    "columnsOf": {
     "entity": "vote",
     "count": 36,
@@ -1175,9 +1175,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-faciliter-le-maintien-en-retention-des-personnes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 99630,
-   "gzipSize": 4492,
+   "rows": 654,
+   "size": 100445,
+   "gzipSize": 4517,
    "columnsOf": {
     "entity": "vote",
     "count": 22,
@@ -1192,9 +1192,9 @@
    "file": "deputies/votes/projet-de-loi-portant-transposition-des-accords-nationaux-interprofessionnels-en.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 163579,
-   "gzipSize": 4732,
+   "rows": 654,
+   "size": 164884,
+   "gzipSize": 4757,
    "columnsOf": {
     "entity": "vote",
     "count": 36,
@@ -1209,9 +1209,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reformer-le-mode-d-election-des-membres-du-conseil-2.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 83824,
-   "gzipSize": 3459,
+   "rows": 654,
+   "size": 84499,
+   "gzipSize": 3477,
    "columnsOf": {
     "entity": "vote",
     "count": 18,
@@ -1226,9 +1226,9 @@
    "file": "deputies/votes/proposition-de-loi-portant-creation-d-un-statut-de-l-elu-local.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 505944,
-   "gzipSize": 12254,
+   "rows": 654,
+   "size": 510119,
+   "gzipSize": 12284,
    "columnsOf": {
     "entity": "vote",
     "count": 118,
@@ -1243,9 +1243,9 @@
    "file": "deputies/votes/projet-de-loi-de-finances-pour-2026.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 3910690,
-   "gzipSize": 122272,
+   "rows": 654,
+   "size": 3943180,
+   "gzipSize": 122499,
    "columnsOf": {
     "entity": "vote",
     "count": 927,
@@ -1260,9 +1260,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-rendre-systematique-l-information-du-consommateur.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 56397,
-   "gzipSize": 3681,
+   "rows": 654,
+   "size": 56862,
+   "gzipSize": 3698,
    "columnsOf": {
     "entity": "vote",
     "count": 12,
@@ -1277,9 +1277,9 @@
    "file": "deputies/votes/projet-de-loi-de-financement-de-la-securite-sociale-pour-2026.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 2204685,
-   "gzipSize": 77335,
+   "rows": 654,
+   "size": 2223105,
+   "gzipSize": 77471,
    "columnsOf": {
     "entity": "vote",
     "count": 525,
@@ -1294,9 +1294,9 @@
    "file": "deputies/votes/projet-de-loi-de-finances-de-fin-de-gestion-pour-2025.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 257767,
-   "gzipSize": 9525,
+   "rows": 654,
+   "size": 259947,
+   "gzipSize": 9570,
    "columnsOf": {
     "entity": "vote",
     "count": 61,
@@ -1311,9 +1311,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-l-etablissement-de-l-egalite-d-acces-au-service.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 186148,
-   "gzipSize": 5215,
+   "rows": 654,
+   "size": 187698,
+   "gzipSize": 5237,
    "columnsOf": {
     "entity": "vote",
     "count": 43,
@@ -1328,9 +1328,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-la-nationalisation-d-arcelormittal-france-afin-de.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 762887,
-   "gzipSize": 13763,
+   "rows": 654,
+   "size": 769127,
+   "gzipSize": 13814,
    "columnsOf": {
     "entity": "vote",
     "count": 177,
@@ -1345,9 +1345,9 @@
    "file": "deputies/votes/proposition-de-loi-organique-tendant-a-modifier-le-ii-de-l-article-43-de-la-loi.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 39625,
-   "gzipSize": 2802,
+   "rows": 654,
+   "size": 39950,
+   "gzipSize": 2814,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -1362,9 +1362,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-assurer-le-droit-de-chaque-enfant-a-etre-assiste-d.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 38782,
-   "gzipSize": 3169,
+   "rows": 654,
+   "size": 39107,
+   "gzipSize": 3186,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -1379,9 +1379,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-proteger-les-mineurs-isoles-et-a-lutter-contre-le.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 42637,
-   "gzipSize": 3351,
+   "rows": 654,
+   "size": 42997,
+   "gzipSize": 3364,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -1396,9 +1396,9 @@
    "file": "deputies/votes/proposition-de-loi-pour-retrouver-la-confiance-et-l-equilibre-dans-les-rapports.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 100061,
-   "gzipSize": 4000,
+   "rows": 654,
+   "size": 100876,
+   "gzipSize": 4017,
    "columnsOf": {
     "entity": "vote",
     "count": 22,
@@ -1413,9 +1413,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-un-renouvellement-automatique-des-titres-de.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 44562,
-   "gzipSize": 2873,
+   "rows": 654,
+   "size": 44922,
+   "gzipSize": 2886,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -1430,9 +1430,9 @@
    "file": "deputies/votes/projet-de-loi-relatif-a-l-organisation-des-jeux-olympiques-et-paralympiques-de.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 739163,
-   "gzipSize": 13515,
+   "rows": 654,
+   "size": 745263,
+   "gzipSize": 13569,
    "columnsOf": {
     "entity": "vote",
     "count": 173,
@@ -1447,9 +1447,9 @@
    "file": "deputies/votes/proposition-de-loi-portant-reparation-des-personnes-condamnees-pour.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 39426,
-   "gzipSize": 2796,
+   "rows": 654,
+   "size": 39751,
+   "gzipSize": 2811,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -1464,9 +1464,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-l-acces-au-logement-des-travailleurs-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 72744,
-   "gzipSize": 3507,
+   "rows": 654,
+   "size": 73349,
+   "gzipSize": 3529,
    "columnsOf": {
     "entity": "vote",
     "count": 16,
@@ -1481,9 +1481,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-inscrire-la-mouvance-des-freres.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 77145,
-   "gzipSize": 4344,
+   "rows": 654,
+   "size": 77785,
+   "gzipSize": 4360,
    "columnsOf": {
     "entity": "vote",
     "count": 17,
@@ -1498,9 +1498,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reconnaitre-une-presomption-de-legitime-defense-pour.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 215500,
-   "gzipSize": 5856,
+   "rows": 654,
+   "size": 217295,
+   "gzipSize": 5886,
    "columnsOf": {
     "entity": "vote",
     "count": 50,
@@ -1515,9 +1515,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-proteger-les-mineurs-des-risques-auxquels-les-expose.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 166435,
-   "gzipSize": 5990,
+   "rows": 654,
+   "size": 167810,
+   "gzipSize": 6015,
    "columnsOf": {
     "entity": "vote",
     "count": 38,
@@ -1532,9 +1532,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-exercer-l-acces-a-l-emploi-a-perenniser-et-a-etendre.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 124182,
-   "gzipSize": 3999,
+   "rows": 654,
+   "size": 125207,
+   "gzipSize": 4011,
    "columnsOf": {
     "entity": "vote",
     "count": 28,
@@ -1549,9 +1549,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-moderniser-la-gestion-du-patrimoine-immobilier-de-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 67868,
-   "gzipSize": 3524,
+   "rows": 654,
+   "size": 68438,
+   "gzipSize": 3538,
    "columnsOf": {
     "entity": "vote",
     "count": 15,
@@ -1566,9 +1566,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-la-gratuite-des-parkings-des-hopitaux.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 48475,
-   "gzipSize": 2924,
+   "rows": 654,
+   "size": 48870,
+   "gzipSize": 2939,
    "columnsOf": {
     "entity": "vote",
     "count": 10,
@@ -1583,9 +1583,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reconnaitre-les-victimes-de-l-exposition-aux-essais.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 55878,
-   "gzipSize": 2834,
+   "rows": 654,
+   "size": 56343,
+   "gzipSize": 2849,
    "columnsOf": {
     "entity": "vote",
     "count": 12,
@@ -1600,9 +1600,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-l-interet-des-enfants.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 78743,
-   "gzipSize": 2966,
+   "rows": 654,
+   "size": 79383,
+   "gzipSize": 2980,
    "columnsOf": {
     "entity": "vote",
     "count": 17,
@@ -1617,9 +1617,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-la-protection-des-commercants-grace-a-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 94803,
-   "gzipSize": 3627,
+   "rows": 654,
+   "size": 95583,
+   "gzipSize": 3642,
    "columnsOf": {
     "entity": "vote",
     "count": 21,
@@ -1634,9 +1634,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-appelant-a-la-preservation-des-principes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 34691,
-   "gzipSize": 2720,
+   "rows": 654,
+   "size": 34981,
+   "gzipSize": 2734,
    "columnsOf": {
     "entity": "vote",
     "count": 7,
@@ -1651,9 +1651,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-rejeter-le-projet-d-accord-sur-les.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 31197,
-   "gzipSize": 2772,
+   "rows": 654,
+   "size": 31452,
+   "gzipSize": 2788,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -1668,9 +1668,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-relancer-les-investissements-dans-le-secteur-de-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 171522,
-   "gzipSize": 5426,
+   "rows": 654,
+   "size": 172932,
+   "gzipSize": 5452,
    "columnsOf": {
     "entity": "vote",
     "count": 39,
@@ -1685,9 +1685,9 @@
    "file": "deputies/votes/proposition-de-loi-pour-proteger-l-eau-potable.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 110338,
-   "gzipSize": 4671,
+   "rows": 654,
+   "size": 111258,
+   "gzipSize": 4684,
    "columnsOf": {
     "entity": "vote",
     "count": 25,
@@ -1702,9 +1702,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-empecher-la-constitution-de-monopoles-economiques.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 136702,
-   "gzipSize": 4273,
+   "rows": 654,
+   "size": 137832,
+   "gzipSize": 4291,
    "columnsOf": {
     "entity": "vote",
     "count": 31,
@@ -1719,9 +1719,9 @@
    "file": "deputies/votes/projet-de-loi-relatif-a-la-lutte-contre-les-fraudes-sociales-et-fiscales.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1111678,
-   "gzipSize": 20691,
+   "rows": 654,
+   "size": 1120893,
+   "gzipSize": 20777,
    "columnsOf": {
     "entity": "vote",
     "count": 262,
@@ -1736,9 +1736,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-place-des-agriculteurs-dans-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 35580,
-   "gzipSize": 2718,
+   "rows": 654,
+   "size": 35870,
+   "gzipSize": 2736,
    "columnsOf": {
     "entity": "vote",
     "count": 7,
@@ -1753,9 +1753,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-le-droit-de-visite-des-parlementaires-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 39000,
-   "gzipSize": 3184,
+   "rows": 654,
+   "size": 39325,
+   "gzipSize": 3201,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -1770,9 +1770,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-simplifier-le-millefeuille-territorial-par-la.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 97689,
-   "gzipSize": 4937,
+   "rows": 654,
+   "size": 98504,
+   "gzipSize": 4956,
    "columnsOf": {
     "entity": "vote",
     "count": 22,
@@ -1787,9 +1787,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-accelerer-la-prevention-cardio-neuro-vasculaire-et-a.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 72217,
-   "gzipSize": 3249,
+   "rows": 654,
+   "size": 72822,
+   "gzipSize": 3265,
    "columnsOf": {
     "entity": "vote",
     "count": 16,
@@ -1804,9 +1804,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reconnaitre-une-politique-nationale-d-adaptation-au.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 38939,
-   "gzipSize": 2872,
+   "rows": 654,
+   "size": 39264,
+   "gzipSize": 2886,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -1821,9 +1821,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-encadrer-les-regroupements-pedagogiques.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 34212,
-   "gzipSize": 2857,
+   "rows": 654,
+   "size": 34502,
+   "gzipSize": 2873,
    "columnsOf": {
     "entity": "vote",
     "count": 7,
@@ -1838,9 +1838,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-le-benefice-des-prestations-familiales-aux.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 71654,
-   "gzipSize": 2950,
+   "rows": 654,
+   "size": 72259,
+   "gzipSize": 2964,
    "columnsOf": {
     "entity": "vote",
     "count": 16,
@@ -1855,9 +1855,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-penalisation-de-l-organisation-de-rave.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 139357,
-   "gzipSize": 4741,
+   "rows": 654,
+   "size": 140522,
+   "gzipSize": 4759,
    "columnsOf": {
     "entity": "vote",
     "count": 32,
@@ -1872,9 +1872,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-simplifier-la-gestion-de-la-commande-publique-par.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 35002,
-   "gzipSize": 2682,
+   "rows": 654,
+   "size": 35292,
+   "gzipSize": 2695,
    "columnsOf": {
     "entity": "vote",
     "count": 7,
@@ -1889,9 +1889,9 @@
    "file": "deputies/votes/projet-de-loi-relatif-a-la-restitution-de-biens-culturels-provenant-d-etats-qui.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 193873,
-   "gzipSize": 5172,
+   "rows": 654,
+   "size": 195493,
+   "gzipSize": 5193,
    "columnsOf": {
     "entity": "vote",
     "count": 45,
@@ -1906,9 +1906,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-securite-la-retention-administrative-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 431521,
-   "gzipSize": 11412,
+   "rows": 654,
+   "size": 435171,
+   "gzipSize": 11453,
    "columnsOf": {
     "entity": "vote",
     "count": 103,
@@ -1923,9 +1923,9 @@
    "file": "deputies/votes/projet-de-loi-actualisant-la-programmation-militaire-pour-les-annees-2024-a-2030.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1206529,
-   "gzipSize": 21465,
+   "rows": 654,
+   "size": 1216794,
+   "gzipSize": 21535,
    "columnsOf": {
     "entity": "vote",
     "count": 292,
@@ -1940,9 +1940,9 @@
    "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-condamner-la-derive-illiberale-et.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 58461,
-   "gzipSize": 3022,
+   "rows": 654,
+   "size": 58961,
+   "gzipSize": 3040,
    "columnsOf": {
     "entity": "vote",
     "count": 13,
@@ -1957,9 +1957,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-accelerer-le-developpement-du-transport-maritime-a.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 70035,
-   "gzipSize": 3723,
+   "rows": 654,
+   "size": 70640,
+   "gzipSize": 3739,
    "columnsOf": {
     "entity": "vote",
     "count": 16,
@@ -1974,9 +1974,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-l-information-et-la-protection-effective.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 94374,
-   "gzipSize": 3696,
+   "rows": 654,
+   "size": 95189,
+   "gzipSize": 3716,
    "columnsOf": {
     "entity": "vote",
     "count": 22,
@@ -1991,9 +1991,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-mettre-en-place-un-programme-de-soutien-a-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 42691,
-   "gzipSize": 2999,
+   "rows": 654,
+   "size": 43051,
+   "gzipSize": 3013,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -2008,9 +2008,9 @@
    "file": "deputies/votes/proposition-de-loi-pour-une-montagne-vivante-et-souveraine.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 312410,
-   "gzipSize": 6667,
+   "rows": 654,
+   "size": 315080,
+   "gzipSize": 6700,
    "columnsOf": {
     "entity": "vote",
     "count": 75,
@@ -2025,9 +2025,9 @@
    "file": "deputies/votes/projet-de-loi-d-urgence-pour-la-protection-et-la-souverainete-agricoles.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1735204,
-   "gzipSize": 38100,
+   "rows": 654,
+   "size": 1750019,
+   "gzipSize": 38190,
    "columnsOf": {
     "entity": "vote",
     "count": 422,
@@ -2042,9 +2042,9 @@
    "file": "deputies/votes/proposition-de-loi-organique-portant-regularisation-des-natifs-dans-le-corps.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 28231,
-   "gzipSize": 3210,
+   "rows": 654,
+   "size": 28486,
+   "gzipSize": 3229,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -2059,9 +2059,9 @@
    "file": "deputies/votes/proposition-de-loi-portant-abrogation-du-code-noir.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 44538,
-   "gzipSize": 3256,
+   "rows": 654,
+   "size": 44933,
+   "gzipSize": 3274,
    "columnsOf": {
     "entity": "vote",
     "count": 10,
@@ -2076,9 +2076,9 @@
    "file": "deputies/votes/proposition-de-loi-pour-la-mobilisation-de-l-habitat-existant-en-reponse-a-la.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 99898,
-   "gzipSize": 4084,
+   "rows": 654,
+   "size": 100748,
+   "gzipSize": 4105,
    "columnsOf": {
     "entity": "vote",
     "count": 23,
@@ -2093,9 +2093,9 @@
    "file": "deputies/votes/proposition-de-loi-portant-perennisation-du-contrat-de-professionnalisation.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 55240,
-   "gzipSize": 2877,
+   "rows": 654,
+   "size": 55705,
+   "gzipSize": 2893,
    "columnsOf": {
     "entity": "vote",
     "count": 12,
@@ -2110,9 +2110,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-proteger-les-enfants-et-a-lutter-contre-les.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 208066,
-   "gzipSize": 6315,
+   "rows": 654,
+   "size": 209861,
+   "gzipSize": 6339,
    "columnsOf": {
     "entity": "vote",
     "count": 50,
@@ -2127,9 +2127,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-la-protection-et-l-accompagnement-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 39252,
-   "gzipSize": 3112,
+   "rows": 654,
+   "size": 39612,
+   "gzipSize": 3128,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -2144,9 +2144,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-les-moyens-d-action-de-l-agence-de-gestion.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 102887,
-   "gzipSize": 4252,
+   "rows": 654,
+   "size": 103772,
+   "gzipSize": 4274,
    "columnsOf": {
     "entity": "vote",
     "count": 24,
@@ -2161,9 +2161,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-proteger-l-alimentation-des-francais-et-des.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 42916,
-   "gzipSize": 3112,
+   "rows": 654,
+   "size": 43276,
+   "gzipSize": 3127,
    "columnsOf": {
     "entity": "vote",
     "count": 9,
@@ -2178,9 +2178,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-garantir-l-interdiction-de-la-vaisselle-en-plastique.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 47030,
-   "gzipSize": 2870,
+   "rows": 654,
+   "size": 47425,
+   "gzipSize": 2888,
    "columnsOf": {
     "entity": "vote",
     "count": 10,
@@ -2195,9 +2195,9 @@
    "file": "deputies/votes/proposition-de-loi-portant-plusieurs-mesures-de-justice-en-faveur-de-la.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 51216,
-   "gzipSize": 3139,
+   "rows": 654,
+   "size": 51646,
+   "gzipSize": 3157,
    "columnsOf": {
     "entity": "vote",
     "count": 11,
@@ -2212,9 +2212,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-prevenir-le-mal-etre-et-le-risque-suicidaire-dans-le.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 104156,
-   "gzipSize": 3521,
+   "rows": 654,
+   "size": 105041,
+   "gzipSize": 3538,
    "columnsOf": {
     "entity": "vote",
     "count": 24,
@@ -2229,9 +2229,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-lever-dans-les-territoires-d-outre-mer-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 30305,
-   "gzipSize": 2803,
+   "rows": 654,
+   "size": 30560,
+   "gzipSize": 2817,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -2246,9 +2246,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-reformer-les-bourses-sur-criteres-sociaux-et-a.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 51056,
-   "gzipSize": 3023,
+   "rows": 654,
+   "size": 51486,
+   "gzipSize": 3036,
    "columnsOf": {
     "entity": "vote",
     "count": 11,
@@ -2263,9 +2263,9 @@
    "file": "deputies/votes/projet-de-loi-constitutionnelle-pour-une-corse-autonome-au-sein-de-la-republique.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 108507,
-   "gzipSize": 5201,
+   "rows": 654,
+   "size": 109427,
+   "gzipSize": 5234,
    "columnsOf": {
     "entity": "vote",
     "count": 25,
@@ -2280,9 +2280,9 @@
    "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-les-prerogatives-des-officiers-de-l-etat-2.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 30258,
-   "gzipSize": 2972,
+   "rows": 654,
+   "size": 30513,
+   "gzipSize": 2988,
    "columnsOf": {
     "entity": "vote",
     "count": 6,
@@ -2297,9 +2297,9 @@
    "file": "deputies/votes/proposition-de-loi-relative-a-l-organisation-a-la-gestion-et-au-financement-du.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 316676,
-   "gzipSize": 6984,
+   "rows": 654,
+   "size": 319381,
+   "gzipSize": 7020,
    "columnsOf": {
     "entity": "vote",
     "count": 76,
@@ -2314,9 +2314,9 @@
    "file": "deputies/votes/projet-de-loi-organique-relatif-au-renforcement-des-juridictions-criminelles.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 36960,
-   "gzipSize": 3562,
+   "rows": 654,
+   "size": 37285,
+   "gzipSize": 3585,
    "columnsOf": {
     "entity": "vote",
     "count": 8,
@@ -2331,9 +2331,9 @@
    "file": "deputies/votes/projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 331733,
-   "gzipSize": 9502,
+   "rows": 654,
+   "size": 334578,
+   "gzipSize": 9540,
    "columnsOf": {
     "entity": "vote",
     "count": 80,
@@ -2348,9 +2348,9 @@
    "file": "deputies/votes/projet-de-loi-visant-a-offrir-des-reponses-immediates-aux-phenomenes-troublant-l.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 1188676,
-   "gzipSize": 19869,
+   "rows": 654,
+   "size": 1198801,
+   "gzipSize": 19924,
    "columnsOf": {
     "entity": "vote",
     "count": 288,
@@ -2365,9 +2365,9 @@
    "file": "deputies/votes/projet-de-loi-relatif-a-la-protection-des-enfants.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 573458,
-   "gzipSize": 14334,
+   "rows": 654,
+   "size": 578403,
+   "gzipSize": 14375,
    "columnsOf": {
     "entity": "vote",
     "count": 140,
@@ -2382,18 +2382,3106 @@
    "file": "deputies/votes/proposition-de-loi-apportant-une-reponse-integrale-au-phenomene-des-violences.csv",
    "entity": "deputy",
    "key": "deputy_id",
-   "rows": 649,
-   "size": 305163,
-   "gzipSize": 8250,
+   "rows": 654,
+   "size": 856477,
+   "gzipSize": 21682,
    "columnsOf": {
     "entity": "vote",
-    "count": 75,
+    "count": 213,
     "feature": {
      "title": "Position de vote",
      "type": "category",
      "values": "deputies/values/vote_position.csv"
     }
    }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-abroger-les-zones-a-faibles-emissions-mobilites.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 42964,
+   "gzipSize": 3159,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "communes/constituencies.csv",
+   "entity": "commune",
+   "key": "commune_code",
+   "rows": 35002,
+   "size": 388011,
+   "gzipSize": 81504,
+   "features": [
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/constituency-contours.geojson",
+   "entity": "commune",
+   "key": "commune_code",
+   "rows": 328,
+   "size": 389160,
+   "gzipSize": 81913,
+   "features": [
+    {
+     "title": "Circonscription",
+     "type": "code",
+     "column": "constituency"
+    }
+   ],
+   "geometry": "MultiPolygon"
+  },
+  {
+   "file": "communes/addresses/01053.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 826,
+   "size": 21544,
+   "gzipSize": 5618,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/01098.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 87,
+   "size": 2184,
+   "gzipSize": 770,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/01138.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 113,
+   "size": 2791,
+   "gzipSize": 992,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/06069.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 664,
+   "size": 19725,
+   "gzipSize": 4782,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/06088.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3134,
+   "size": 98286,
+   "gzipSize": 19216,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/06155.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 718,
+   "size": 22114,
+   "gzipSize": 4822,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/08105.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1168,
+   "size": 33632,
+   "gzipSize": 7398,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/10003.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 215,
+   "size": 5978,
+   "gzipSize": 1738,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/10387.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 847,
+   "size": 22440,
+   "gzipSize": 6279,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/11069.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1553,
+   "size": 42197,
+   "gzipSize": 10390,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13001.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2133,
+   "size": 67812,
+   "gzipSize": 14872,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13047.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1165,
+   "size": 34486,
+   "gzipSize": 7810,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13205.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1428,
+   "size": 38566,
+   "gzipSize": 6510,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13206.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 677,
+   "size": 16937,
+   "gzipSize": 3805,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13210.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 656,
+   "size": 20317,
+   "gzipSize": 4146,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13212.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1041,
+   "size": 30799,
+   "gzipSize": 6229,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/13214.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 780,
+   "size": 22916,
+   "gzipSize": 4715,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/14005.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 76,
+   "size": 1990,
+   "gzipSize": 746,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/14118.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1652,
+   "size": 45936,
+   "gzipSize": 10489,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/14543.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 138,
+   "size": 4004,
+   "gzipSize": 1105,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/14672.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 64,
+   "size": 1844,
+   "gzipSize": 646,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/17306.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 688,
+   "size": 18507,
+   "gzipSize": 5094,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/17457.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 99,
+   "size": 2547,
+   "gzipSize": 921,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/18033.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2636,
+   "size": 75471,
+   "gzipSize": 16295,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/19248.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 165,
+   "size": 4326,
+   "gzipSize": 1296,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/21231.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2881,
+   "size": 81494,
+   "gzipSize": 17854,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/22093.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1199,
+   "size": 31225,
+   "gzipSize": 7385,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/22206.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 287,
+   "size": 7351,
+   "gzipSize": 1913,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/24026.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 369,
+   "size": 10830,
+   "gzipSize": 2703,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/24147.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 61,
+   "size": 1147,
+   "gzipSize": 508,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/25056.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1290,
+   "size": 34752,
+   "gzipSize": 8777,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/25222.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 57,
+   "size": 1339,
+   "gzipSize": 520,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/27089.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 52,
+   "size": 1493,
+   "gzipSize": 488,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/27229.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1109,
+   "size": 30917,
+   "gzipSize": 7135,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/27425.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 116,
+   "size": 2925,
+   "gzipSize": 973,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/28015.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 140,
+   "size": 3656,
+   "gzipSize": 1255,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/28085.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 825,
+   "size": 23558,
+   "gzipSize": 5826,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/29019.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2135,
+   "size": 52996,
+   "gzipSize": 14381,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/2A004.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 500,
+   "size": 13801,
+   "gzipSize": 4034,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/30007.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 991,
+   "size": 28200,
+   "gzipSize": 6898,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/30189.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3278,
+   "size": 90945,
+   "gzipSize": 20681,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/31555.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 6328,
+   "size": 180647,
+   "gzipSize": 39352,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/33063.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 4570,
+   "size": 124176,
+   "gzipSize": 25647,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/34172.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 4741,
+   "size": 138320,
+   "gzipSize": 31833,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/35238.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2745,
+   "size": 78874,
+   "gzipSize": 18333,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/37261.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1663,
+   "size": 44149,
+   "gzipSize": 11333,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/38001.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 310,
+   "size": 9378,
+   "gzipSize": 2283,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/38053.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 433,
+   "size": 12072,
+   "gzipSize": 3291,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/38152.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 149,
+   "size": 4464,
+   "gzipSize": 1223,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/38169.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 604,
+   "size": 17705,
+   "gzipSize": 3622,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/38185.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1520,
+   "size": 42322,
+   "gzipSize": 9614,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/38292.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 102,
+   "size": 2776,
+   "gzipSize": 924,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/42218.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2156,
+   "size": 58744,
+   "gzipSize": 13470,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/43157.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 803,
+   "size": 23099,
+   "gzipSize": 5211,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/44109.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 5166,
+   "size": 149048,
+   "gzipSize": 32244,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/45051.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 73,
+   "size": 2061,
+   "gzipSize": 704,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/45234.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1340,
+   "size": 35646,
+   "gzipSize": 9607,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49007.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2884,
+   "size": 83192,
+   "gzipSize": 17861,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49050.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 781,
+   "size": 22294,
+   "gzipSize": 5122,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49092.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1530,
+   "size": 58842,
+   "gzipSize": 10649,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49160.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 325,
+   "size": 10199,
+   "gzipSize": 2153,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49220.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 235,
+   "size": 6605,
+   "gzipSize": 1760,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49261.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 738,
+   "size": 21042,
+   "gzipSize": 4884,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49292.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 197,
+   "size": 4887,
+   "gzipSize": 1514,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49307.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 649,
+   "size": 18469,
+   "gzipSize": 4493,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/49328.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1177,
+   "size": 31610,
+   "gzipSize": 7435,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/50400.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 260,
+   "size": 7306,
+   "gzipSize": 2017,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/51171.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 81,
+   "size": 2191,
+   "gzipSize": 856,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/51454.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 4267,
+   "size": 130179,
+   "gzipSize": 25180,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/53130.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 999,
+   "size": 26874,
+   "gzipSize": 7450,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/54395.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2574,
+   "size": 75227,
+   "gzipSize": 14089,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/57463.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1775,
+   "size": 47542,
+   "gzipSize": 11144,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/59036.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 143,
+   "size": 4055,
+   "gzipSize": 1204,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/59183.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3172,
+   "size": 107270,
+   "gzipSize": 18017,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/59350.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 6356,
+   "size": 201778,
+   "gzipSize": 35548,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/59512.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1269,
+   "size": 34201,
+   "gzipSize": 7516,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/59588.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 209,
+   "size": 5711,
+   "gzipSize": 1745,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/59599.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2569,
+   "size": 76119,
+   "gzipSize": 14067,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/60057.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 819,
+   "size": 21667,
+   "gzipSize": 5924,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/60159.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 784,
+   "size": 22519,
+   "gzipSize": 5518,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/60175.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 266,
+   "size": 6819,
+   "gzipSize": 2302,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/60196.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 27,
+   "size": 685,
+   "gzipSize": 348,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/60256.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 86,
+   "size": 2475,
+   "gzipSize": 689,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/61081.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 88,
+   "size": 2112,
+   "gzipSize": 754,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/61275.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 173,
+   "size": 3818,
+   "gzipSize": 1297,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/61294.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 69,
+   "size": 1813,
+   "gzipSize": 675,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/62570.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 585,
+   "size": 16200,
+   "gzipSize": 3683,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/63113.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2779,
+   "size": 76573,
+   "gzipSize": 16198,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/63226.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 174,
+   "size": 4855,
+   "gzipSize": 1416,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/64445.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1965,
+   "size": 55512,
+   "gzipSize": 11990,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/65440.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 891,
+   "size": 25118,
+   "gzipSize": 6160,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/66136.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3614,
+   "size": 105289,
+   "gzipSize": 23510,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/67372.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 145,
+   "size": 3874,
+   "gzipSize": 1077,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/67482.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2185,
+   "size": 54201,
+   "gzipSize": 14063,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/68006.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 91,
+   "size": 2571,
+   "gzipSize": 654,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/68224.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1425,
+   "size": 36695,
+   "gzipSize": 8600,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69114.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 216,
+   "size": 6302,
+   "gzipSize": 1668,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69290.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 657,
+   "size": 18934,
+   "gzipSize": 4460,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69382.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 214,
+   "size": 5176,
+   "gzipSize": 1603,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69383.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 610,
+   "size": 16301,
+   "gzipSize": 3911,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69387.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 339,
+   "size": 9297,
+   "gzipSize": 2575,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69388.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1243,
+   "size": 38059,
+   "gzipSize": 7134,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/69389.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 335,
+   "size": 8821,
+   "gzipSize": 2583,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/71076.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 648,
+   "size": 17044,
+   "gzipSize": 4732,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/72181.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3325,
+   "size": 90029,
+   "gzipSize": 20455,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/74010.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1784,
+   "size": 51166,
+   "gzipSize": 11202,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/74275.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 124,
+   "size": 3430,
+   "gzipSize": 994,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75106.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 594,
+   "size": 15437,
+   "gzipSize": 3378,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75107.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 438,
+   "size": 12364,
+   "gzipSize": 2826,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75109.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 517,
+   "size": 14813,
+   "gzipSize": 2982,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75111.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1953,
+   "size": 59548,
+   "gzipSize": 9723,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75112.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 978,
+   "size": 28207,
+   "gzipSize": 5897,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75113.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 889,
+   "size": 25726,
+   "gzipSize": 5573,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75114.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1187,
+   "size": 34864,
+   "gzipSize": 6637,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75115.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1940,
+   "size": 55846,
+   "gzipSize": 10551,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75116.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1196,
+   "size": 34402,
+   "gzipSize": 7220,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75117.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 539,
+   "size": 14216,
+   "gzipSize": 3720,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75118.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1807,
+   "size": 49095,
+   "gzipSize": 9371,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75119.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1499,
+   "size": 43908,
+   "gzipSize": 8176,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/75120.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2039,
+   "size": 59507,
+   "gzipSize": 10889,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/76351.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3985,
+   "size": 112568,
+   "gzipSize": 22876,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/76540.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1337,
+   "size": 34729,
+   "gzipSize": 8789,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/78646.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1000,
+   "size": 26930,
+   "gzipSize": 6129,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/80021.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2253,
+   "size": 60004,
+   "gzipSize": 13859,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/81004.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1613,
+   "size": 45024,
+   "gzipSize": 10410,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/81065.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1780,
+   "size": 50290,
+   "gzipSize": 10431,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/83137.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2555,
+   "size": 73705,
+   "gzipSize": 17538,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/84031.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 953,
+   "size": 27023,
+   "gzipSize": 7028,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/85001.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 324,
+   "size": 9761,
+   "gzipSize": 2335,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/85191.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1962,
+   "size": 56548,
+   "gzipSize": 12917,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/86019.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 146,
+   "size": 3810,
+   "gzipSize": 1129,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/86053.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 132,
+   "size": 4043,
+   "gzipSize": 1045,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/86194.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1877,
+   "size": 53657,
+   "gzipSize": 12009,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/87085.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3671,
+   "size": 105193,
+   "gzipSize": 21869,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/90010.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 909,
+   "size": 26524,
+   "gzipSize": 6394,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/92012.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 549,
+   "size": 16644,
+   "gzipSize": 3736,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/92025.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1556,
+   "size": 44774,
+   "gzipSize": 8656,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/92026.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 285,
+   "size": 7185,
+   "gzipSize": 2294,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/92048.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 770,
+   "size": 22330,
+   "gzipSize": 4814,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/93010.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 830,
+   "size": 25288,
+   "gzipSize": 5358,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/93066.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 813,
+   "size": 21087,
+   "gzipSize": 5942,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/94017.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1337,
+   "size": 41072,
+   "gzipSize": 8200,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/94028.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 917,
+   "size": 25641,
+   "gzipSize": 5873,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/94037.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 236,
+   "size": 7081,
+   "gzipSize": 1697,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/94081.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1201,
+   "size": 35999,
+   "gzipSize": 7396,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/95127.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 563,
+   "size": 15660,
+   "gzipSize": 3967,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/95585.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 722,
+   "size": 21947,
+   "gzipSize": 4967,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/97409.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 3046,
+   "size": 91820,
+   "gzipSize": 17864,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/97411.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 2044,
+   "size": 59112,
+   "gzipSize": 12500,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/97414.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 962,
+   "size": 29181,
+   "gzipSize": 6397,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/97415.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1973,
+   "size": 59194,
+   "gzipSize": 12740,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
+  },
+  {
+   "file": "communes/addresses/97611.csv",
+   "entity": "address",
+   "key": "address",
+   "rows": 1557,
+   "size": 46344,
+   "gzipSize": 9108,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "code",
+     "column": "number"
+    },
+    {
+     "title": "Circonscriptions",
+     "type": "list",
+     "column": "constituencies"
+    }
+   ]
   }
  ]
 }

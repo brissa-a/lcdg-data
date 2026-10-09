@@ -382,6 +382,7 @@ PA794870,for,absent,absent,absent,absent,against,against
 PA794886,against,absent,absent,absent,for,against,against
 PA794894,against,for,for,for,for,against,against
 PA794906,for,absent,absent,absent,absent,against,against
+PA794910,absent,absent,absent,absent,absent,absent,absent
 PA794938,for,for,against,for,absent,against,against
 PA794946,against,for,for,for,for,against,against
 PA794954,against,for,for,for,for,against,against
@@ -491,6 +492,7 @@ PA840143,against,for,absent,absent,absent,absent,absent
 PA840159,against,absent,absent,absent,absent,absent,absent
 PA840171,for,for,against,for,absent,absent,absent
 PA840175,absent,absent,absent,absent,absent,absent,absent
+PA840195,absent,absent,absent,absent,absent,absent,absent
 PA840235,against,absent,absent,absent,absent,absent,absent
 PA840657,against,for,for,against,absent,absent,against
 PA840665,for,for,against,for,against,against,against
@@ -511,6 +513,7 @@ PA840809,against,for,for,against,for,against,against
 PA840817,absent,against,against,against,against,for,for
 PA840829,for,for,against,for,against,against,against
 PA840837,against,for,for,for,absent,absent,absent
+PA840849,absent,absent,absent,absent,absent,absent,absent
 PA840857,absent,absent,absent,absent,absent,absent,absent
 PA840869,absent,for,for,for,for,against,against
 PA840889,against,for,absent,absent,absent,absent,absent
@@ -530,9 +533,11 @@ PA841047,absent,absent,absent,absent,absent,absent,absent
 PA841059,absent,absent,absent,absent,absent,absent,absent
 PA841067,absent,absent,absent,absent,absent,absent,absent
 PA841075,absent,for,for,for,for,against,against
+PA841079,absent,absent,absent,absent,absent,absent,absent
 PA841091,for,absent,absent,absent,absent,absent,absent
 PA841107,for,absent,absent,absent,against,against,against
 PA841131,against,absent,absent,absent,for,against,against
+PA841135,absent,absent,absent,absent,absent,absent,absent
 PA841139,against,absent,for,for,for,against,against
 PA841151,absent,absent,absent,absent,absent,absent,absent
 PA841167,,,,,,,

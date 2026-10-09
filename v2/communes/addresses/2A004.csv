@@ -1,0 +1,501 @@
+address,number,constituencies
+1 Avenue Nicolas Pietri,1,2A-1
+1 Rue Ange Moretti,1,2A-1
+1 Rue Rossi,1,2A-1
+1 Terra Rossa,1,2A-2
+10 Chemin de Loretto,10,2A-1
+10 Rue Rossi,10,2A-1
+10 Terra Rossa,10,2A-1|2A-2
+11 Chemin de Loretto,11,2A-1
+11 Cours Jean Nicoli,11,2A-1
+11 Terra Rossa,11,2A-2
+12 Chemin de Loretto,12,2A-1
+12 Rue Jean Chiappe,12,2A-1
+12 Terra Rossa,12,2A-2
+13 Chemin de Loretto,13,2A-1
+13 Cours Jean Nicoli,13,2A-1
+13 Rue Jean Chiappe,13,2A-1
+13 Terra Rossa,13,2A-2
+14 Chemin de Loretto,14,2A-1
+14 Rue Jean Chiappe,14,2A-1
+14 Terra Rossa,14,2A-2
+15 Chemin de Loretto,15,2A-1
+15 Cours Jean Nicoli,15,2A-1
+15 Rue Jean Chiappe,15,2A-1
+15 Terra Rossa,15,2A-2
+16 Chemin de Loretto,16,2A-1
+16 Rue Jean Chiappe,16,2A-1
+16 Terra Rossa,16,2A-2
+17 Chemin de Loretto,17,2A-1
+17 Cours Jean Nicoli,17,2A-1
+17 Rue Jean Chiappe,17,2A-1
+17 Terra Rossa,17,2A-2
+18 Chemin de Loretto,18,2A-1
+18 Rue Jean Chiappe,18,2A-1
+19 Chemin de Loretto,19,2A-1
+19 Rue Jean Chiappe,19,2A-1
+2 Avenue Nicolas Pietri,2,2A-1
+2 Chemin de Loretto,2,2A-1
+2 Rue Rossi,2,2A-1
+2 Terra Rossa,2,2A-2
+20 Rue Jean Chiappe,20,2A-1
+21 Chemin de Loretto,21,2A-1
+21 Rue Jean Chiappe,21,2A-1
+21b Chemin de Loretto,21b,2A-1
+22 Chemin de Loretto,22,2A-1
+22 Rue Jean Chiappe,22,2A-1
+23 Chemin de Loretto,23,2A-1
+23 Rue Jean Chiappe,23,2A-1
+24 Rue Jean Chiappe,24,2A-1
+25 Rue Jean Chiappe,25,2A-1
+26 Chemin de Loretto,26,2A-1
+26 Rue Jean Chiappe,26,2A-1
+27 Chemin de Loretto,27,2A-1
+28 Chemin de Loretto,28,2A-1
+3 Chemin de Loretto,3,2A-1
+3 Rue Ange Moretti,3,2A-1
+3 Rue Rossi,3,2A-1
+31 Chemin de Loretto,31,2A-1
+32 Chemin de Loretto,32,2A-1
+34 Chemin de Loretto,34,2A-1
+35 Chemin de Loretto,35,2A-1
+37 Chemin de Loretto,37,2A-1
+38 Chemin de Loretto,38,2A-1
+4 Chemin de Loretto,4,2A-1|2A-2
+4 Rue Rossi,4,2A-1
+41 Chemin de Loretto,41,2A-1
+5 Avenue Nicolas Pietri,5,2A-1
+5 Chemin de Loretto,5,2A-1
+5 Rue Ange Moretti,5,2A-1
+5 Rue Rossi,5,2A-1
+5 Terra Rossa,5,2A-2
+51 Chemin de Loretto,51,2A-1
+6 Avenue Nicolas Pietri,6,2A-1
+6 Chemin de Loretto,6,2A-1
+6 Rue Rossi,6,2A-1
+6 Terra Rossa,6,2A-2
+7 Avenue Nicolas Pietri,7,2A-1
+7 Chemin de Loretto,7,2A-1
+7 Rue Ange Moretti,7,2A-1
+7 Terra Rossa,7,2A-2
+8 Avenue Nicolas Pietri,8,2A-1
+8 Chemin de Loretto,8,2A-1
+9 Avenue Nicolas Pietri,9,2A-1
+9 Chemin de Loretto,9,2A-1
+9 Cours Jean Nicoli,9,2A-1
+9 Rue Ange Moretti,9,2A-1
+9 Rue Rossi,9,2A-1
+9 Terra Rossa,9,2A-2
+9bis Cours Jean Nicoli,9bis,2A-1
+Alze le Piagie,,2A-1
+Aria Marina,,2A-1
+Aspretto,,2A-2
+Avenue Adolphe Landry,,2A-1
+Avenue Antoine Serafini,,2A-1
+Avenue Archipel,,2A-1
+Avenue Beverini Vico,,2A-1
+Avenue Franchini-imm Douanes,,2A-2
+Avenue Georges Pompidou,,2A-2
+Avenue Imp Eugenie-r Oliv,,2A-1
+Avenue Impératrice Eugénie,,2A-1
+Avenue Marechal Juin,,2A-2
+Avenue Napoleon III,,2A-1
+Avenue Napoléon 3,,2A-1
+Avenue Napoléon III,,2A-1
+Avenue Pascal Paoli,,2A-1
+Avenue de Paris,,2A-1
+Avenue de Verdun,,2A-1
+Avenue de la Grande Armée,,2A-1
+Avenue de l’Imperatrice Eugenie,,2A-1
+Avenue des Cretes,,2A-1
+Avenue des Crètes,,2A-1
+Avenue du 1er Consul,,2A-2
+Avenue du Docteur Noel Franchini,,2A-2
+Avenue du Docteur Noël Franchini,,2A-2
+Avenue du Marechal Lyautey,,2A-2
+Avenue du Marechal Moncey,,2A-1
+Avenue du Maréchal Juin,,2A-2
+Avenue du Mont Thabor,,2A-2
+Avenue du Premier Consul,,2A-1
+Avenue du President Kennedy,,2A-1
+Balestrino,,2A-1
+Bd Dominique Pugliesi Conti,,2A-1
+Bd Jerome et Barthelemy Maglioli,,2A-1
+Bd Nicephore Stephanopoli Comene,,2A-1
+Belvedere,,2A-2
+Boulevard Albert 1er,,2A-1
+Boulevard Danielle Casanova,,2A-1
+Boulevard Dominique Fabiani,,2A-1
+Boulevard Dominique Paoli,,2A-1
+Boulevard François Salini,,2A-1
+Boulevard Fred Scamaroni,,2A-1
+Boulevard Henri Maillot,,2A-1
+Boulevard Louis Campi,,2A-2
+Boulevard Madame Mère,,2A-1
+Boulevard Masseria,,2A-1
+Boulevard Pascal Rossini,,2A-1
+Boulevard Sampiero,,2A-1
+Boulevard Sylvestre Marcaggi,,2A-1
+Boulevard Sébastianu Costa,,2A-2
+Boulevard Tino Rossi,,2A-1
+Boulevard de l'Abbé Recco,,2A-1
+Boulevard du Commandant Benielli,,2A-1
+Boulevard du Roi Jerome,,2A-1
+Cala Di Sole,,2A-1
+Campo Dell Oro,,2A-2
+Campo Di Fiori,,2A-1
+Candia,,2A-2
+Capo Di Feno,,2A-1
+Carosaccia,,2A-1
+Castelluccio,,2A-1
+Chemin Alzo Di Leva,,2A-2
+Chemin Candia-res Imperiale,,2A-2
+Chemin I Frati,,2A-1
+Chemin Pietralba-imm Darna,,2A-2
+Chemin Scierie St Joseph,,2A-2
+Chemin d'Acqualonga,,2A-1
+Chemin d'Erbajolo,,2A-2
+Chemin de Biancarello,,2A-1
+Chemin de Cala Di Sole,,2A-1
+Chemin de Candia,,2A-2
+Chemin de Lisa,,2A-1
+Chemin de Loreto-le Cinto,,2A-1
+Chemin de Loreto-le Panorama,,2A-1
+Chemin de Pietralba,,2A-2
+Chemin de Saint Joseph,,2A-2
+Chemin de Torreta,,2A-1
+Chemin de Valli,,2A-1
+Chemin de la Carosaccia,,2A-1
+Chemin de la Pietrina,,2A-1
+Chemin de la Sposata,,2A-1
+Chemin de la Torretta,,2A-1
+Chemin des Agaves,,2A-1
+Chemin des Agaves 1,,2A-1
+Chemin des Calanques,,2A-1
+Chemin des Chopiccioli,,2A-1
+Chemin des Cypres,,2A-1
+Chemin des Genets,,2A-1
+Chemin des Lentisques,,2A-1
+Chemin des Myrthes,,2A-1
+Chemin des Pervenches,,2A-1
+Chemin du Bois des Anglais,,2A-1
+Chemin du Finosello,,2A-2
+Chemin du Fort,,2A-1
+Chemin d’Acqualonga,,2A-1
+Chemin d’Appietto,,2A-1
+Cite des Pins,,2A-1
+Colleta Di Mezzavia,,2A-1
+Confina,,2A-1
+Cours Grandval,,2A-1
+Cours Lucien Bonaparte,,2A-1
+Cours Napoléon,,2A-1
+Cours Prince Impérial,,2A-2
+Cours du General Leclerc,,2A-1
+Cours du Prince Imperial,,2A-2
+Croix d'Alexandre,,2A-1
+Domaine de Loretto,,2A-1
+Domaine de Suartello,,2A-1
+Finosello,,2A-2
+Frati,,2A-1
+Hlm Cannes Ageco N Peraldi,,2A-1
+Hlm Pietralba II,,2A-2
+Hlm Saint Jean,,2A-1
+Imm Neptune,,2A-1
+Immeuble Martinetti,,2A-1|2A-2
+Immeuble Suaralta,,2A-1|2A-2
+Impasse Bertin,,2A-1
+Impasse Colonna d’Ornano,,2A-1
+Impasse Loreto,,2A-1
+Impasse Loretto,,2A-1
+Jardins de Suartello,,2A-1
+Ldt Bagleto,,2A-1
+Les Jardins de l'Empereur,,2A-1
+Les Sept Chapelles,,2A-1
+Les Sept Ponts,,2A-1
+Loreto,,2A-1
+Lotissement Bella Vista Vazzio,,2A-2
+Lotissement Collines du Scudo,,2A-1
+Lotissement Croix d'Alexandre,,2A-1
+Lotissement Pasci Pecora,,2A-1
+Lotissement les Barraques,,2A-1
+Manicola Vecchia,,2A-1
+Mezzavia,,2A-1
+Miniatojo,,2A-1
+Monte Cacalovo,,2A-1
+Montée Saint Jean,,2A-1
+Mozzo,,2A-1
+N 196 Ajaccio Bonifacio,,2A-2
+Padule,,2A-1
+Parc Belvédère,,2A-1
+Parc Berthault,,2A-1
+Parc Cuneo d’Ornano,,2A-1
+Parc Imperial Amboise,,2A-1
+Parc Sainte-Lucie,,2A-1
+Passage Poggiolo,,2A-1
+Passage de la Guinguette,,2A-1
+Pietra Di Mela,,2A-1
+Pietralba,,2A-2
+Pietrina,,2A-1
+Place Maréchal Foch,,2A-1
+Place de la Gare,,2A-1
+Pole de Suartello 2,,2A-1
+Pont du Ricanto,,2A-2
+Punta E Frati,,2A-1
+Qrt Castelvecchio,,2A-1
+Qrt Mezzavia 3e Impasse,,2A-1
+Qrt Mezzavia C Acqualonga,,2A-1
+Qrt Mezzavia I Martinetti,,2A-1
+Qrt Mezzavia Rte Nationale,,2A-1
+Quai Napoleon,,2A-1
+Qur Aspretto,,2A-2
+Qur Mezzavia,,2A-1
+Res E Case Di Pietralba,,2A-2
+Res Jardins des Milelli,,2A-1
+Res la Pinede Santa Lina,,2A-1
+Residence Acqualonga 2 Mezzavia,,2A-1
+Residence Alto Castello,,2A-1
+Residence Alzo Di Sole Aspretto,,2A-2
+Residence Bellevue,,2A-1
+Residence Brasilia,,2A-1
+Residence Collines Salario Colisee,,2A-1
+Residence Collines de Pietralba,,2A-2
+Residence Collines du Salario,,2A-1
+Residence Domaine de la Confina,,2A-1
+Residence Domaine de la Confina 2,,2A-1
+Residence Domaine des Aulnes,,2A-2
+Residence Ecrins Rubis le Finosello,,2A-2
+Residence Genëts d'Alzo,,2A-2
+Residence Goeland Bleu,,2A-1
+Residence Hlm du Vazzio Erilia,,2A-2
+Residence Jardins Ajaccio Rte Alata,,2A-1
+Residence Laetitia Ave Gde Armée,,2A-1
+Residence Laetizia V le Panoramic,,2A-1|2A-2
+Residence Logis de l'Aqueduc Mezzavi,,2A-1
+Residence Logos Ave Mont Thabor,,2A-2
+Residence Lot Fontaine du Salario,,2A-1
+Residence Mariani,,2A-2
+Residence Mediterranee,,2A-2
+Residence Monte Mare Ave Mal Juin,,2A-2
+Residence Opera Nabucco,,2A-2
+Residence Opera Norma,,2A-2
+Residence Opera Tosca,,2A-2
+Residence Opera Traviata,,2A-2
+Residence Parc Azur l'Albatros,,2A-2
+Residence Parc Azur le Pingouin,,2A-2
+Residence Parc Azur les Mouettes,,2A-2
+Residence Parc Lucie Bat Feno,,2A-1
+Residence Parc Lucie Bat Muro,,2A-1
+Residence Parc Lucie Bat Rosso,,2A-1
+Residence Petra Di Mare 2 Av Ml Juin,,2A-2
+Residence Primavera Alba,,2A-1
+Residence Primavera Chiaro Di Luna,,2A-1
+Residence Primavera Sole Belo,,2A-1
+Residence Primeveres,,2A-1
+Residence Rocade Padules,,2A-1
+Residence San Angelu Vazzio,,2A-2
+Residence Santa Lina,,2A-1
+Residence Soleil de Mezzavia,,2A-1
+Residence Ste Cecile Chem Biancarell,,2A-1
+Residence Triana,,2A-1
+Residence U Piopu Padule,,2A-1
+Residence Valle Serena,,2A-2
+Residence Vazzio,,2A-2
+Residence Victoria,,2A-1
+Residence des Cannes,,2A-1
+Residence des Golfes Santa Manza,,2A-2
+Residence des Iles le Crete I,,2A-1
+Residence du Diamant,,2A-1
+Residence du Parc Lucie Lavezzi,,2A-1
+Residence du Parc Lucie le Murano,,2A-1
+Residence du Roi Theodore,,2A-1
+Residence l'Aiglon,,2A-1
+Residence l'Aigue Marine Aspretto,,2A-2
+Residence la Pietrina Ave Gde Armée,,2A-1
+Residence la Pinede Ave Mont Thabor,,2A-2
+Residence le Savana I,,2A-2
+Residence le Vivaldi 1,,2A-2
+Residence les Aloes Batiment E,,2A-1
+Residence les Amethystes,,2A-1
+Residence les Galets,,2A-1
+Residence les Grenadines,,2A-1
+Residence les Horizons,,2A-1
+Residence les Jardins de Mezzavia,,2A-1
+Residence les Jardins de Trabacchina,,2A-2
+Residence les Jardins du Finosello,,2A-2
+Residence les Palmiers,,2A-1
+Residence les Patios de Pietralba,,2A-2
+Residence les Terrasses d'Assunta,,2A-2
+Residence les Violettes Aspretto,,2A-2
+Residence à Crucianella Candia,,2A-2
+Residence à Mandarina Chem Finosello,,2A-2
+Residence à Seta Chemin de Candia,,2A-2
+Ricanto,,2A-2
+Route Saint Joseph,,2A-2
+Route a Madunuccia,,2A-1|2A-2
+Route d'Alata,,2A-1
+Route de Calvi,,2A-1
+Route de Mezzavia,,2A-1|2A-2
+Route de Sartène,,2A-2
+Route de St Antoine,,2A-1
+Route de l'Amiraute,,2A-1
+Route des Cedres,,2A-1
+Route des Milelli,,2A-1
+Route des Sanguinaires,,2A-1
+Route du Salario,,2A-1
+Route du Vittulo,,2A-1
+Rue Achille Peretti,,2A-2
+Rue Albert Decaris,,2A-1
+Rue Andre Touranjon,,2A-2
+Rue Antoine Sollacaro,,2A-1
+Rue Aspirant Michelin,,2A-1
+Rue Balestrino,,2A-1
+Rue Biancamaria Amandiers,,2A-1
+Rue Bonaparte,,2A-1
+Rue Colomba,,2A-1
+Rue Colonel Colonna d'Ornano,,2A-1
+Rue Comtesse Walewska,,2A-1
+Rue Cyrnos,,2A-1
+Rue Davin,,2A-1
+Rue De La Méditerranée,,2A-1|2A-2
+Rue Elie Exiga,,2A-2
+Rue Emmanuel Arene,,2A-1
+Rue Etienne Conti,,2A-1
+Rue Eugene Macchini,,2A-1
+Rue Forcioli Conti,,2A-1
+Rue François Maglioli,,2A-1
+Rue François Pietri,,2A-2
+Rue Frediani,,2A-1
+Rue Gabriel Peri,,2A-1
+Rue General Sebastiani,,2A-1
+Rue Henri Dunant,,2A-1
+Rue Hyacinthe Campiglia,,2A-1
+Rue Jacques Gavini,,2A-2
+Rue Jacques Tessarech,,2A-1
+Rue Jean Baptiste Bassoul,,2A-1
+Rue Jean Baptiste Marcaggi,,2A-1
+Rue Jean Chieze,,2A-1
+Rue Jérôme Peri,,2A-1
+Rue Laetitia,,2A-1
+Rue Lorenzo Vero,,2A-1
+Rue Major Lambroschini,,2A-1
+Rue Marechal Lyautey,,2A-2
+Rue Marechal d’Ornano,,2A-1
+Rue Martin Borgomano,,2A-2
+Rue Maurice Choury,,2A-1
+Rue Michel Bozzi,,2A-1
+Rue Miss Campbell,,2A-1
+Rue Nonce Bénielli,,2A-2
+Rue Notre-dame,,2A-1
+Rue Ottavi,,2A-1
+Rue Paul Colonna d’Istria,,2A-1
+Rue Paul Giacobbi,,2A-2
+Rue Paul Letia,,2A-2
+Rue Paul Poggionovo,,2A-2
+Rue Pierre Bonardi,,2A-1
+Rue Pozzo Di Borgo,,2A-1
+Rue Prefet Cauro,,2A-1
+Rue Prosper Merimee,,2A-1
+Rue Saint Antoine,,2A-1
+Rue Saint-charles,,2A-1
+Rue Saint-roch,,2A-1
+Rue Sainte Claire,,2A-1
+Rue Sainte Lucie,,2A-1
+Rue San Lazaro,,2A-1
+Rue Sergent Casalonga,,2A-1
+Rue Soeur Alphonse,,2A-1
+Rue Stephanopoli,,2A-1
+Rue U Fangu,,2A-1
+Rue U Fiumorbu,,2A-1
+Rue U Taravu,,2A-1
+Rue Vincent de Moro Giafferi,,2A-2
+Rue Zevaco-maire,,2A-1
+Rue d'Iena,,2A-1
+Rue d'Iéna,,2A-1
+Rue de Candia,,2A-2
+Rue de Marengo,,2A-1
+Rue de Rivoli,,2A-1
+Rue de Solferino,,2A-1
+Rue de Wagram,,2A-1
+Rue de l'Archipel,,2A-1
+Rue de l'Assomption,,2A-1
+Rue de la 1ere Dfl,,2A-1
+Rue de la Barrière,,2A-1
+Rue de la Porta,,2A-1
+Rue de l’Archipel,,2A-2
+Rue des 3 Marie,,2A-1
+Rue des 7 Chapelles,,2A-1
+Rue des Aloes,,2A-2
+Rue des Anciens Fossés,,2A-1
+Rue des Arbousiers,,2A-1|2A-2
+Rue des Archives,,2A-2
+Rue des Bucherons,,2A-1
+Rue des Cactus,,2A-1
+Rue des Cannes,,2A-1
+Rue des Charrons,,2A-1
+Rue des Cigales,,2A-2
+Rue des Citronniers,,2A-1
+Rue des Cyclamens,,2A-1
+Rue des Eucalyptus,,2A-1
+Rue des Glacis,,2A-1
+Rue des Halles,,2A-1
+Rue des Joncs,,2A-1
+Rue des Magnolias,,2A-2
+Rue des Orangers,,2A-1
+Rue des Pommiers,,2A-1
+Rue des Romarins,,2A-1
+Rue des Septs Chapelles,,2A-1
+Rue des Terrasses Fleuries,,2A-2
+Rue du 1er Bataillon de Choc,,2A-1
+Rue du Capitaine Bosc,,2A-1
+Rue du Capitaine Livrelli,,2A-1
+Rue du Cardinal Fesch,,2A-1
+Rue du Comte Bacciochi,,2A-1
+Rue du Conventionnel Chiappe,,2A-1
+Rue du Docteur Clada,,2A-1
+Rue du Docteur Del Pellegrino,,2A-1
+Rue du Docteur Pompeani,,2A-1
+Rue du Docteur Versini,,2A-1
+Rue du General Campi,,2A-1
+Rue du General Fiorella,,2A-1
+Rue du General Levie,,2A-1
+Rue du Liamone,,2A-1
+Rue du Pont d’Arcole,,2A-1
+Rue du Rizzanese,,2A-1
+Rue du Roi de Rome,,2A-1
+Rue du Soleil Levant,,2A-2
+Rue du Vittulo,,2A-1
+Rés les Marines d'Aspretto,,2A-2
+Résidence Aspretto,,2A-2
+Résidence Bois des Anglais,,2A-1
+Résidence Casabianca,,2A-1
+Résidence Domaine de la Confina,,2A-1
+Résidence Les Balcons d'Aspretto,,2A-2
+Résidence Les Hauts de Petra di Mare,,2A-2
+Résidence Les Marines d'Aspretto,,2A-2
+Résidence San Angelo,,2A-2
+Résidence Santa Lina,,2A-1
+Résidence du Scudo,,2A-1
+Résidence les Balcons d'Aspretto,,2A-2
+Résidence les Coteaux de Timizzolo,,2A-2
+Résidence les Jardins de Campo dell'Oro,,2A-2
+Saint Joseph,,2A-2
+San Biaggio,,2A-1
+San Biaggiolo,,2A-1
+San Salvadore,,2A-1
+Scudo,,2A-1
+Terrasse de la Villette,,2A-1
+Terrasse des Sanguinaires,,2A-1
+Terrasses des Milelli,,2A-1
+U Palazzu,,2A-2
+U Palazzu Forcioli Conti,,2A-1
+Valle Maggiore,,2A-2
+Vazzio,,2A-2
+Vignola,,2A-1
+Villa de Barbicaja,,2A-1
+chemin chemin de morone,,2A-1
+la Colline du Scudo,,2A-2
+les Cannes,,2A-1
+les Hauts de Mezzavia,,2A-1
+les hauts de mezzavia,,2A-1
+route de l'ancienne batterie d'aspretto,,2A-2
+route du docteur j paul de rocca serra,,2A-2

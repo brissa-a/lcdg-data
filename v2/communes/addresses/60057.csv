@@ -1,0 +1,820 @@
+address,number,constituencies
+1 Avenue Nelson Mandela,1,60-2
+1 Avenue de la République,1,60-2
+1 Rue Francois Truffaut,1,60-1
+1 Rue Lucien Lainé,1,60-2
+1 Rue de Grandvilliers,1,60-1
+1 Rue des Cheminots,1,60-2
+10 Avenue de la République,10,60-2
+10 Rue de Grandvilliers,10,60-1
+10 Rue de Tillé,10,60-1
+10 Rue de la Bergerette,10,60-1
+10bis Rue des Cheminots,10bis,60-2
+11 Avenue de la République,11,60-2
+11 Rue Francois Truffaut,11,60-1
+11 Rue Lucien Lainé,11,60-2
+11 Rue de Grandvilliers,11,60-1
+11 Rue de Tillé,11,60-1
+11 Rue de la Bergerette,11,60-1
+11bis Rue de Grandvilliers,11bis,60-1
+12 Rue Lucien Lainé,12,60-2
+12 Rue de Tillé,12,60-1
+12 Rue de la Bergerette,12,60-1
+12 Rue des Cheminots,12,60-2
+13 Cours Scellier,13,60-1
+13 Rue Francois Truffaut,13,60-1
+13 Rue Lucien Lainé,13,60-1
+13 Rue de Tillé,13,60-1
+13 Rue de la Bergerette,13,60-1
+13 Rue des Cheminots,13,60-2
+13bis Cours Scellier,13bis,60-1|60-2
+14 Avenue de la République,14,60-2
+14 Rue Lucien Lainé,14,60-1
+14 Rue de Grandvilliers,14,60-1
+14 Rue de Tillé,14,60-1
+14 Rue de la Bergerette,14,60-1
+14 Rue des Cheminots,14,60-2
+15 Avenue de la République,15,60-2
+15 Cours Scellier,15,60-1
+15 Rue de la Bergerette,15,60-1|60-2
+15 Rue des Cheminots,15,60-2
+16 Rue de Grandvilliers,16,60-1
+16 Rue de Tillé,16,60-1
+16 Rue de la Bergerette,16,60-1
+16 Rue des Cheminots,16,60-2
+16bis Rue des Cheminots,16bis,60-2
+17 Rue de Grandvilliers,17,60-1
+17 Rue de Tillé,17,60-1
+17 Rue de la Bergerette,17,60-1|60-2
+18 Rue de Grandvilliers,18,60-1
+18 Rue de Tillé,18,60-1
+18 Rue des Cheminots,18,60-2
+19 Rue Lucien Lainé,19,60-1
+19 Rue de la Bergerette,19,60-2
+1bis Avenue de la République,1bis,60-2
+2 Rue Francois Truffaut,2,60-1
+2 Rue de Tillé,2,60-1|60-2
+2 Rue de la Bergerette,2,60-1
+2 Rue des Cheminots,2,60-2
+20 Rue de Grandvilliers,20,60-1
+20 Rue de Tillé,20,60-1
+20 Rue des Cheminots,20,60-2
+200 Avenue Nelson Mandela,200,60-1
+201 Avenue Nelson Mandela,201,60-1
+202 Avenue Nelson Mandela,202,60-1
+203 Avenue Nelson Mandela,203,60-1
+204 Avenue Nelson Mandela,204,60-1
+207 Avenue Nelson Mandela,207,60-1
+208 Avenue Nelson Mandela,208,60-1
+21 Avenue de la République,21,60-1
+21 Rue de Tillé,21,60-1
+21 Rue de la Bergerette,21,60-1
+22 Rue de Tillé,22,60-1
+23 Rue de Grandvilliers,23,60-1
+23 Rue de Tillé,23,60-1
+24 Avenue de la République,24,60-1
+24 Rue des Cheminots,24,60-2
+25 Rue Lucien Lainé,25,60-1
+25 Rue de Grandvilliers,25,60-1
+25 Rue de Tillé,25,60-1
+25 Rue de la Bergerette,25,60-1
+25bis Rue de Tillé,25bis,60-1
+26 Rue de Grandvilliers,26,60-1
+26 Rue de la Bergerette,26,60-1
+26 Rue des Cheminots,26,60-2
+27 Rue de Grandvilliers,27,60-1
+28 Rue de Grandvilliers,28,60-1
+28 Rue de la Bergerette,28,60-1
+28 Rue des Cheminots,28,60-2
+29 Rue de Grandvilliers,29,60-1
+3 Avenue Nelson Mandela,3,60-2
+3 Rue Francois Truffaut,3,60-1
+3 Rue Lucien Lainé,3,60-2
+3 Rue de Grandvilliers,3,60-1
+3 Rue de la Bergerette,3,60-1
+3 Rue des Cheminots,3,60-2
+30 Rue de Grandvilliers,30,60-1
+30 Rue des Cheminots,30,60-2
+31 Rue Lucien Lainé,31,60-1
+31 Rue de Grandvilliers,31,60-1
+31 Rue de Tillé,31,60-1
+32 Rue de Grandvilliers,32,60-1
+32 Rue de la Bergerette,32,60-1
+32 Rue des Cheminots,32,60-2
+33 Rue Lucien Lainé,33,60-1
+33 Rue de Grandvilliers,33,60-1
+34 Rue des Cheminots,34,60-2
+35 Rue de Grandvilliers,35,60-1
+35 Rue de Tillé,35,60-1
+35 Rue de la Bergerette,35,60-1
+36 Rue de Grandvilliers,36,60-1
+36 Rue des Cheminots,36,60-2
+36bis Rue de Grandvilliers,36bis,60-1
+37 Rue de Tillé,37,60-1
+37 Rue de la Bergerette,37,60-1
+37 Rue des Cheminots,37,60-1
+38 Rue de Grandvilliers,38,60-1
+39 Rue Lucien Lainé,39,60-1
+39 Rue de Tillé,39,60-1
+39 Rue des Cheminots,39,60-1
+3bis Rue de Grandvilliers,3bis,60-1
+4 Rue Francois Truffaut,4,60-1
+4 Rue Lucien Lainé,4,60-2
+4 Rue de Grandvilliers,4,60-1
+4 Rue de Tillé,4,60-1|60-2
+4 Rue de la Bergerette,4,60-1
+4 Rue des Cheminots,4,60-2
+40 Avenue de la République,40,60-1
+40 Rue Lucien Lainé,40,60-1
+40 Rue de Grandvilliers,40,60-1
+40 Rue des Cheminots,40,60-2
+41 Rue Lucien Lainé,41,60-1
+41 Rue de Tillé,41,60-1
+42 Rue de Grandvilliers,42,60-1
+42 Rue de Tillé,42,60-1
+42 Rue des Cheminots,42,60-2
+43 Rue de Tillé,43,60-1
+44 Rue Lucien Lainé,44,60-1
+44 Rue de Grandvilliers,44,60-1
+44 Rue de Tillé,44,60-1
+44 Rue des Cheminots,44,60-2
+45 Rue Lucien Lainé,45,60-1
+45 Rue de la Bergerette,45,60-1
+46 Rue de Grandvilliers,46,60-1
+46 Rue de Tillé,46,60-1
+46 Rue des Cheminots,46,60-2
+47 Rue Lucien Lainé,47,60-1
+47 Rue de Tillé,47,60-1
+47 Rue de la Bergerette,47,60-1
+48 Rue des Cheminots,48,60-2
+49 Rue de Tillé,49,60-1
+49 Rue de la Bergerette,49,60-1
+5 Cours Scellier,5,60-1
+5 Rue Francois Truffaut,5,60-1
+5 Rue Lucien Lainé,5,60-2
+5 Rue de Grandvilliers,5,60-1
+5 Rue de la Bergerette,5,60-1
+50 Avenue de la République,50,60-1
+50 Rue Lucien Lainé,50,60-1
+50 Rue de Grandvilliers,50,60-1
+50 Rue de Tillé,50,60-1
+51 Rue de la Bergerette,51,60-1
+52 Rue Lucien Lainé,52,60-1
+52 Rue de Tillé,52,60-1
+53 Rue de la Bergerette,53,60-1
+55 Rue de la Bergerette,55,60-1
+5b Rue de Grandvilliers,5b,60-1
+6 Rue de Grandvilliers,6,60-1
+6 Rue de Tillé,6,60-1|60-2
+6 Rue de la Bergerette,6,60-1
+6 Rue des Cheminots,6,60-2
+7 Avenue de la République,7,60-2
+7 Rue Francois Truffaut,7,60-1
+7 Rue Lucien Lainé,7,60-2
+7 Rue de Grandvilliers,7,60-1
+7 Rue de Tillé,7,60-1
+7 Rue de la Bergerette,7,60-1
+74 Avenue de la République,74,60-1
+74 Rue des Cheminots,74,60-1
+76 Rue des Cheminots,76,60-1
+76bis Rue des Cheminots,76bis,60-1
+7bis Rue de Grandvilliers,7bis,60-1
+8 Rue Lucien Lainé,8,60-2
+8 Rue des Cheminots,8,60-2
+9 Rue Francois Truffaut,9,60-1
+9 Rue Lucien Lainé,9,60-2
+9 Rue de Grandvilliers,9,60-1
+9 Rue de Tillé,9,60-1
+9B Rue de Grandvilliers,9B,60-2
+9b Rue de Grandvilliers,9b,60-1
+Allee Alain,,60-2
+Allee Alfred de Musset,,60-2
+Allee Anatole France,,60-2
+Allee Beethoven,,60-2
+Allee Blaise Cendrars,,60-2
+Allee Camille Saint Saens,,60-2
+Allee Charles Gounod,,60-2
+Allee Clement Marot,,60-2
+Allee Emmanuel Chabrier,,60-2
+Allee Felix Leclerc,,60-2
+Allee Francois Couperin,,60-2
+Allee Francois Villon,,60-2
+Allee Gabriel Faure,,60-2
+Allee Georges Feydeau,,60-2
+Allee Georges Simenon,,60-2
+Allee Guillaume Apollinaire,,60-2
+Allee Gustave Dumont,,60-1
+Allee Jean Baptiste Lulli,,60-2
+Allee Jean Paul Sartre,,60-2
+Allee Jean Philippe Rameau,,60-2
+Allee Johann Strauss,,60-2
+Allee Jules Renard,,60-2
+Allee Maurice Utrillo,,60-1
+Allee Maurice de Vlaminck,,60-1
+Allee Mozart,,60-2
+Allee Rossini,,60-2
+Allee Stendhal,,60-2
+Allee Stephane Mallarme,,60-2
+Allee Virgil Gheorghiu,,60-2
+Allee de la Manufacture,,60-2
+Allee des Chapeliers,,60-1
+Allee des Crins,,60-1
+Allee des Epingliers,,60-1
+Allee des Platanes,,60-1
+Allee du Docteur Jean Piedecocq,,60-1
+Allee du Rond Point,,60-1
+Allée Albinoni,,60-2
+Allée André Derain,,60-1
+Allée Beethoven,,60-2
+Allée Brahms,,60-2
+Allée César Franck,,60-2
+Allée Edgar Degas,,60-1
+Allée Frédéric Chopin,,60-2
+Allée Guy de Maupassant,,60-2
+Allée Maryse Bastié,,60-1
+Allée Montesquieu,,60-2
+Allée Mozart,,60-2
+Allée Paganini,,60-2
+Allée Paul Valéry,,60-2
+Allée Puccini,,60-2
+Allée Scarlatti,,60-2
+Allée Schubert,,60-2
+Allée Voltaire,,60-2
+Allée de Corberon,,60-1
+Allée de l'Hôtel de Chaalis,,60-1
+Allée de la Borne Trouée,,60-1
+Allée de la Fosse à Baillevent,,60-1
+Allée de la Goutte d'Or,,60-2
+Allée des Acacias,,60-1
+Allée des Cavaliers,,60-1
+Allée des Cerisiers,,60-1
+Allée des Charmilles,,60-1
+Allée des Cèdres,,60-1
+Allée des Flandres,,60-1
+Allée des Frênes,,60-1
+Allée des Hêtres,,60-1
+Allée des Mathurènes,,60-1
+Allée des Merisiers,,60-1
+Allée des Noisetiers,,60-1
+Allée des Peupliers,,60-1
+Allée des Pins,,60-1
+Allée des Saules,,60-1
+Allée des Sorbiers,,60-1
+Allée des Tennis,,60-1
+Allée des Tilleuls,,60-1
+Allée du Tir à l'Arc,,60-1
+Av du Pdt J Fitzgerald Kennedy,,60-1
+Avenue Blaise Pascal,,60-2
+Avenue Corot,,60-1
+Avenue Foch,,60-2
+Avenue Jean Moulin,,60-1
+Avenue Jean Rostand,,60-2
+Avenue Léon Blum,,60-1
+Avenue Marcel Dassault,,60-1
+Avenue Montaigne,,60-2
+Avenue Pierre Bérégovoy,,60-1
+Avenue Pierre Mendes France,,60-2
+Avenue Victor Hugo,,60-1
+Avenue de Bourgogne,,60-1
+Avenue de Champagne,,60-1
+Avenue de Flandre Dunkerque 40,,60-1
+Avenue de Picardie,,60-1
+Avenue de l'Europe,,60-1
+Avenue de la Paix,,60-2
+Avenue des Châtaigniers,,60-1
+Avenue des Chênes,,60-1
+Avenue des Ecoles,,60-1
+Avenue du 8 Mai 1945,,60-1
+Boulevard Amyot d'Inville,,60-1
+Boulevard Antoine Loisel,,60-2
+Boulevard Aristide Briand,,60-2
+Boulevard Jules Brière,,60-1
+Boulevard Saint - André,,60-1
+Boulevard Saint-jean,,60-2
+Boulevard de Normandie,,60-2
+Boulevard de l'Assaut,,60-1
+Boulevard de l’Ile de France,,60-2
+Boulevard du Docteur Lamotte,,60-1
+Boulevard du Général de Gaulle,,60-1
+Chaussée Feldtrappe,,60-1
+Chemin Noir,,60-1
+Chemin de Sainte Helene,,60-1
+Chemin de la Basse Montagne,,60-1
+Chemin de la Cavee aux Pierres,,60-2
+Chemin de la Ruellette,,60-1
+Chemin des Vallées,,60-1
+Chemin du Fosse Robert,,60-1
+Chemin du Plouy,,60-1
+Clos Saint Antoine,,60-1
+Clos Saint-Antoine,,60-1
+Cour de la Musique,,60-1
+Cour des 3 Lanternes,,60-1
+Cours Lemoine,,60-1
+Impasse Cadet Piot,,60-1
+Impasse Corot,,60-1
+Impasse Demorlaine,,60-1
+Impasse Francois Ledru,,60-1
+Impasse Jean Lecomte,,60-1
+Impasse Jean Lormier,,60-1
+Impasse Jean Vie,,60-1
+Impasse Joseph Leduc,,60-1
+Impasse Louis Borel,,60-1
+Impasse Paul Delansay,,60-1
+Impasse Pierre Bertrand,,60-1
+Impasse Pierre Masson,,60-1
+Impasse Pierre Potier,,60-1
+Impasse Rebours Lachaise,,60-1
+Impasse Saint Antoine,,60-1
+Impasse Saint Lazare,,60-1
+Impasse Sainte Reine,,60-1
+Impasse Toussaint Bertin,,60-1
+Impasse de Binche,,60-2
+Impasse de Fromentel,,60-2
+Impasse de la Liberation,,60-2
+Impasse de l’Elysee,,60-1
+Impasse des Cheminots,,60-2
+Impasse du 8 Mai 1945,,60-1
+Impasse du Caveau,,60-1
+Passage Madeleine Renaud,,60-2
+Place Georges Clémenceau,,60-2
+Place Georges Desmarquest,,60-2
+Place Jeanne Hachette,,60-2
+Place Octave Colozier,,60-1
+Place Saint Barthelemy,,60-2
+Place Saint Etienne,,60-2
+Place de Plouy Saint Lucien,,60-1
+Place de Voisinlieu,,60-2
+Place de l'Hôtel Dieu,,60-1
+Place de la Claie,,60-2
+Place de la Poterne Saint Louis,,60-2
+Place de la Préfecture,,60-1
+Place des Etuves,,60-1
+Place des Treilles,,60-1
+Place du Fouloir,,60-2
+Place du Grugeoire,,60-2
+Residence Jeanne Hachette,,60-2
+Rue Achille Sirouy,,60-1
+Rue Aime Cesaire,,60-2
+Rue Aimé Besnard,,60-1
+Rue Alain Colas,,60-2
+Rue Albert Calmette,,60-1
+Rue Albert Héraude,,60-1
+Rue Albert et Arthur Desjardins,,60-1
+Rue Aldebert Bellier,,60-2
+Rue Alexandre Borodine,,60-2
+Rue Alexandre Dumas,,60-2
+Rue Alfred Dancourt,,60-1
+Rue Alfred Debrie,,60-1
+Rue Alfred Leblanc,,60-2
+Rue Alfred de Vigny,,60-2
+Rue Aloff de Wignacourt,,60-1
+Rue Alphonse Dupont,,60-2
+Rue Amand Brault,,60-1
+Rue Amédée Bourdon,,60-2
+Rue Anciens Combattants A.f.n.,,60-1
+Rue Anciens Combattants Indo,,60-1
+Rue André Gide,,60-2
+Rue Angrand Leprince,,60-2
+Rue Antoine Caron,,60-1
+Rue Antoine Manceaux,,60-2
+Rue Antoine de Saint-exupéry,,60-1
+Rue Antonio de Hojas,,60-1
+Rue Arago,,60-2
+Rue Arnaud Bisson,,60-2
+Rue Arthur Magot,,60-1
+Rue Arthur Rimbaud,,60-2
+Rue Auguste Delaherche,,60-2
+Rue Auguste Joly,,60-1
+Rue Beaulieu,,60-2
+Rue Beauregard,,60-2
+Rue Berthe Morisot,,60-1
+Rue Binet,,60-2
+Rue Biot,,60-2
+Rue Bossuet,,60-1
+Rue Brulet,,60-1
+Rue Camille Guerin,,60-1
+Rue Carnot,,60-1
+Rue Chambiges,,60-1
+Rue Chanoine Crepin,,60-1
+Rue Chantereine,,60-1
+Rue Charles Baudelaire,,60-2
+Rue Charles Bonfils,,60-2
+Rue Charles Caron,,60-1
+Rue Charles Fauqueux,,60-2
+Rue Charles Nungesser,,60-1
+Rue Charvet,,60-1
+Rue Chevalier,,60-2
+Rue Claude Debussy,,60-2
+Rue Clément Ader,,60-1
+Rue Colbert,,60-2
+Rue Colette,,60-2
+Rue Corréus,,60-1
+Rue Demorlaine,,60-1
+Rue Denis Papin,,60-2
+Rue Denis Simon,,60-2
+Rue Denoix des Vergnes,,60-1
+Rue Desgroux,,60-2
+Rue Dieudonne Costes,,60-1
+Rue Diogène Maillart,,60-1
+Rue Edmond Léveillé,,60-2
+Rue Edouard Delafontaine,,60-2
+Rue Edouard Duquesne,,60-1
+Rue Emmaus,,60-2
+Rue Eric Tabarly,,60-2
+Rue Erik Satie,,60-2
+Rue Fermepin,,60-1
+Rue Fernand Braudel,,60-2
+Rue Franz Liszt,,60-2
+Rue Frere Gagne,,60-1
+Rue Gambetta,,60-1
+Rue Gaston Jouannet,,60-2
+Rue Gaston et Marguerite Cahen,,60-1
+Rue Gay Lussac,,60-2
+Rue Georges Auriol,,60-2
+Rue Georges Bizet,,60-2
+Rue Georges Buisson,,60-2
+Rue Georges Guillemeau,,60-1
+Rue Georges Guynemer,,60-1
+Rue Giuseppe Verdi,,60-2
+Rue Gui Patin,,60-1
+Rue Gustave Flaubert,,60-2
+Rue Haendel,,60-2
+Rue Hector Berlioz,,60-2
+Rue Henri Brispot,,60-2
+Rue Henri Farman,,60-1
+Rue Henri Gaudichet,,60-2
+Rue Henri Gréber,,60-1
+Rue Henri de Ridder,,60-1
+Rue Honoré de Balzac,,60-2
+Rue Jacques de Guehengnies,,60-1
+Rue Jacques-yves Cousteau,,60-2
+Rue Jean Jaurès,,60-1
+Rue Jean Mazille,,60-1
+Rue Jean Minasse,,60-2
+Rue Jean Racine,,60-1
+Rue Jean Rebour,,60-2
+Rue Jean Sébastien Bach,,60-2
+Rue Jean Vast,,60-2
+Rue Jean de Lignières,,60-1
+Rue Jean-baptiste Baillière,,60-1
+Rue Jean-baptiste Boyer,,60-1
+Rue Jean-baptiste Oudry,,60-2
+Rue Jean-bertrand,,60-1
+Rue Jean-jacques Fénot,,60-1
+Rue Jean-jacques Rousseau,,60-2
+Rue Jean-marie Legras,,60-1
+Rue Jeanne Hachette,,60-1
+Rue Jeanne d'Arc,,60-1
+Rue Joachim du Bellay,,60-2
+Rue Joseph Cugnot,,60-1
+Rue Joseph Gaitas,,60-1
+Rue Josquin des Prés,,60-2
+Rue Jules Ferry,,60-1
+Rue Jules Isaac,,60-1
+Rue Jules Massenet,,60-2
+Rue Jules Michelet,,60-1
+Rue Jules Verne,,60-2
+Rue Lamartine,,60-1
+Rue Langlet Dufresnoy,,60-1
+Rue Laversines,,60-1
+Rue Leopold Sedar Senghor,,60-2
+Rue Lesieur,,60-1
+Rue Louis Blériot,,60-1
+Rue Louis Borel,,60-1
+Rue Louis Graves,,60-2
+Rue Louis Pot,,60-1
+Rue Louis Prache,,60-1
+Rue Louis Pérois,,60-2
+Rue Louis Roger,,60-2
+Rue Louvet,,60-2
+Rue Léon Bernard,,60-1
+Rue Léon Blot,,60-2
+Rue Léon Zeude,,60-2
+Rue Léonidas Gourdain,,60-1
+Rue Léontine Barbé,,60-1
+Rue Maidstone,,60-1
+Rue Many,,60-1
+Rue Marcadé,,60-1
+Rue Marcel Dassault,,60-2
+Rue Marcelle Geudelin,,60-1
+Rue Maria Montessori,,60-1
+Rue Mathéas,,60-1
+Rue Maurice Brayet,,60-2
+Rue Maurice Segonds,,60-2
+Rue Mazagran,,60-2
+Rue Maître-denis,,60-1
+Rue Michel Gorin,,60-1
+Rue Molière,,60-2
+Rue Moyrenc,,60-1
+Rue Neuve,,60-1
+Rue Nicolas Pastour,,60-1
+Rue Nully d'Hécourt,,60-2
+Rue Odet de Chatillon,,60-2
+Rue Pasteur,,60-2
+Rue Paul Doumer,,60-1
+Rue Paul Gauguin,,60-1
+Rue Paul Sénéchal,,60-1
+Rue Paul Vaillant-couturier,,60-2
+Rue Paul Verlaine,,60-2
+Rue Philippe Bonnet Laborderie,,60-1
+Rue Philippe de Beaumanoir,,60-2
+Rue Philippe de Dreux,,60-1
+Rue Pierre Garbet,,60-1
+Rue Pierre Jacoby,,60-2
+Rue Pierre Loti,,60-2
+Rue Pierre Waguet,,60-1
+Rue Pierre du Mage,,60-2
+Rue Pierre et Marie Curie,,60-2
+Rue Preville,,60-2
+Rue Prosper Mérimée,,60-2
+Rue Quentin-varin,,60-2
+Rue Rabelais,,60-2
+Rue Raymond Casanova,,60-2
+Rue René Fonck,,60-1
+Rue Ricard,,60-1
+Rue Roger Salengro,,60-1
+Rue Ronsard,,60-2
+Rue Saint - Laurent,,60-1
+Rue Saint - Lucien,,60-1
+Rue Saint Jacques,,60-2
+Rue Saint Nicolas,,60-2
+Rue Saint Pantaléon,,60-2
+Rue Saint Paul,,60-2
+Rue Saint-germer,,60-2
+Rue Saint-louis,,60-2
+Rue Saint-pierre,,60-1
+Rue Saint-quentin,,60-1
+Rue Sainte Angadrème,,60-2
+Rue Sainte Marguerite,,60-1
+Rue Serpente,,60-2
+Rue Simone Signoret,,60-2
+Rue Surmontier,,60-1
+Rue Suzanne Lenglen,,60-1
+Rue Therese Verschueren,,60-2
+Rue Tierce,,60-1
+Rue Tétard,,60-2
+Rue Van Hollebecke,,60-1
+Rue Veuve Sénéchal,,60-2
+Rue Victoria Mxenge,,60-1
+Rue Villebois Mareuil,,60-1
+Rue Villiers de l'Isle Adam,,60-2
+Rue Vincent Van Gogh,,60-1
+Rue Vincent de Beauvais,,60-1
+Rue Vinot Préfontaine,,60-2
+Rue Vivaldi,,60-2
+Rue Wagner,,60-2
+Rue Ziegler,,60-2
+Rue aux Fourmies,,60-1
+Rue d'Agincourt,,60-1
+Rue d'Allonne,,60-2
+Rue d'Alsace,,60-2
+Rue d'Amiens,,60-1
+Rue d'Anjou,,60-1
+Rue d'Aquitaine,,60-1
+Rue d'Auneuil,,60-1
+Rue d'Auvergne,,60-1
+Rue de Beauséjour,,60-1
+Rue de Binche,,60-2
+Rue de Boislisle,,60-1
+Rue de Bracheux,,60-1
+Rue de Bretagne,,60-2
+Rue de Buzanval,,60-1
+Rue de Calais,,60-1
+Rue de Cambry,,60-1
+Rue de Clairefontaine,,60-2
+Rue de Clermont,,60-1
+Rue de Crevecoeur,,60-1
+Rue de Formerie,,60-1
+Rue de Fouquenies,,60-1
+Rue de Froissy,,60-1
+Rue de Gascogne,,60-1
+Rue de Gerberoy,,60-1
+Rue de Gesvres,,60-1
+Rue de Lorraine,,60-2
+Rue de Malherbe,,60-2
+Rue de Marissel,,60-1
+Rue de Marseille,,60-1
+Rue de Metz,,60-1
+Rue de Navarre,,60-1
+Rue de Nivillers,,60-1
+Rue de Notre-dame-du-thil,,60-1
+Rue de Paris,,60-2
+Rue de Pontoise,,60-2
+Rue de Prayon,,60-1
+Rue de Provence,,60-1
+Rue de Rieux,,60-1
+Rue de Roncières,,60-1
+Rue de Saint-just-des-marais,,60-1
+Rue de Saint-just-en-chaussée,,60-1
+Rue de Saintonge,,60-1
+Rue de San-francisco,,60-1
+Rue de Savignies,,60-1
+Rue de Savoie,,60-1
+Rue de Sologne,,60-1
+Rue de Songeons,,60-1
+Rue de Sénéfontaine,,60-2
+Rue de Thierache,,60-1
+Rue de Thére,,60-2
+Rue de Tilloy,,60-1
+Rue de Touraine,,60-1
+Rue de Villers-saint-lucien,,60-1
+Rue de Villers-sur-thère,,60-2
+Rue de l'Abbaye,,60-1
+Rue de l'Abbé Gellée,,60-1
+Rue de l'Abbé du Bos,,60-1
+Rue de l'Ancienne Ecole,,60-1
+Rue de l'Argentine,,60-1
+Rue de l'Avelon,,60-1
+Rue de l'Echelle,,60-1
+Rue de l'Ecole Maternelle,,60-2
+Rue de l'Ecole du Chant,,60-2
+Rue de l'Eglise,,60-2
+Rue de l'Esterel,,60-1
+Rue de l'Etamine,,60-2
+Rue de l'Orangerie,,60-1
+Rue de la Banque,,60-2
+Rue de la Bauve,,60-1
+Rue de la Belle Mouleuse,,60-1
+Rue de la Briqueterie,,60-2
+Rue de la Corse,,60-1
+Rue de la Fontaine Bellerie,,60-2
+Rue de la Fontaine Bourgeoise,,60-1
+Rue de la Fontaine Brocard,,60-1
+Rue de la Fosse aux Loups,,60-2
+Rue de la Fraternite,,60-2
+Rue de la Frette,,60-2
+Rue de la Fromenterie,,60-1
+Rue de la Garenne,,60-1
+Rue de la Harpe,,60-1
+Rue de la Joliette,,60-1
+Rue de la Liovette,,60-1
+Rue de la Loire,,60-1
+Rue de la Longue Haie,,60-2
+Rue de la Lyrette,,60-1
+Rue de la Madeleine,,60-2
+Rue de la Mie au Roy,,60-1
+Rue de la Procession,,60-2
+Rue de la Préfecture,,60-1
+Rue de la Sans Terre,,60-1
+Rue de la Taillerie,,60-2
+Rue de la Tapisserie,,60-2
+Rue de la Tour,,60-1
+Rue de la Tour Gaillon,,60-1
+Rue de la Tour de Crou,,60-1
+Rue de la Trépinière,,60-1
+Rue de l’Argiliere,,60-1
+Rue de l’Hermitage,,60-1
+Rue des Agachots,,60-1
+Rue des Alouettes,,60-1
+Rue des Alpes,,60-1
+Rue des Arbalétriers,,60-2
+Rue des Ardennes,,60-1
+Rue des Aulnaies,,60-1
+Rue des Bas Romains,,60-1
+Rue des Batisseurs,,60-2
+Rue des Bellovaques,,60-1
+Rue des Blancs Pains,,60-1
+Rue des Bleuets,,60-1
+Rue des Boutieres,,60-1
+Rue des Bouvreuils,,60-1
+Rue des Capucines,,60-1
+Rue des Capucins,,60-1
+Rue des Castors,,60-2
+Rue des Chanvrières,,60-1
+Rue des Chardonnerets,,60-1
+Rue des Coquelicots,,60-1
+Rue des Cordeliers,,60-1
+Rue des Cyclamens,,60-1
+Rue des Cévennes,,60-1
+Rue des Dahlias,,60-1
+Rue des Drapiers,,60-2
+Rue des Déportés,,60-2
+Rue des Erables,,60-1
+Rue des Fauvettes,,60-1
+Rue des Filatures,,60-1
+Rue des Fleurs,,60-2
+Rue des Foulons,,60-2
+Rue des Glycines,,60-1
+Rue des Hortensias,,60-1
+Rue des Iris,,60-1
+Rue des Jacinthes,,60-1
+Rue des Jacobins,,60-1
+Rue des Jonquilles,,60-1
+Rue des Larris,,60-1
+Rue des Lilas,,60-1
+Rue des Lys,,60-1
+Rue des Marronniers,,60-1
+Rue des Moulins,,60-2
+Rue des Mourides,,60-1
+Rue des Myosotis,,60-1
+Rue des Mésanges,,60-1
+Rue des Métiers,,60-2
+Rue des Oeillets,,60-1
+Rue des Pensées,,60-1
+Rue des Philosophes,,60-1
+Rue des Pierres,,60-1
+Rue des Pinsons,,60-1
+Rue des Pivoines,,60-1
+Rue des Primevères,,60-1
+Rue des Pyrénées,,60-1
+Rue des Rosiers,,60-1
+Rue des Ruisselets,,60-1
+Rue des Teinturiers,,60-1
+Rue des Tisserands,,60-2
+Rue des Tuileries,,60-2
+Rue des Tulipes,,60-1
+Rue des Vignes,,60-1
+Rue des Violettes,,60-1
+Rue des Vosges,,60-1
+Rue du 11 Novembre 1918,,60-1
+Rue du 27 Juin,,60-1
+Rue du 51e Regiment d'Infanterie,,60-2
+Rue du 51e Regiment d’Infanterie,,60-2
+Rue du Berry,,60-1
+Rue du Bois,,60-1
+Rue du Bosquet,,60-1
+Rue du Breuil,,60-2
+Rue du Béarn,,60-1
+Rue du Camard,,60-2
+Rue du Caporal,,60-1
+Rue du Caurroy,,60-2
+Rue du Charolais,,60-1
+Rue du Charron,,60-1
+Rue du Clos Forest,,60-1
+Rue du Clos Lieutenant,,60-1
+Rue du Clozeau,,60-1
+Rue du Colonel Agel,,60-2
+Rue du Dauphiné,,60-1
+Rue du Docteur Dardignac,,60-2
+Rue du Docteur Gérard,,60-2
+Rue du Docteur Jean Braillon,,60-1
+Rue du Docteur Leblond,,60-2
+Rue du Docteur Magnier,,60-1
+Rue du Docteur Schweitzer,,60-2
+Rue du Faubourg Saint André,,60-1
+Rue du Faubourg Saint-jacques,,60-2
+Rue du Faubourg Saint-jean,,60-2
+Rue du Fouloir,,60-2
+Rue du Franc-marché,,60-1
+Rue du General Leclerc,,60-1
+Rue du Grand Pré,,60-1
+Rue du Grenier à Sel,,60-1
+Rue du Grugeoire,,60-2
+Rue du Général Koenig,,60-1
+Rue du Général Watrin,,60-2
+Rue du Jardin Maître Jacques,,60-1
+Rue du Jasmin,,60-1
+Rue du Jeu de Tamis,,60-1
+Rue du Languedoc,,60-1
+Rue du Maine,,60-1
+Rue du Maire,,60-1
+Rue du Marais Saint-quentin,,60-1
+Rue du Maréchal Joffre,,60-1
+Rue du Maréchal de Boufflers,,60-2
+Rue du Mont Capron,,60-1
+Rue du Montier,,60-1
+Rue du Morvan,,60-1
+Rue du Moulin de Bracheux,,60-1
+Rue du Muguet,,60-1
+Rue du Muid,,60-1
+Rue du Musée,,60-1
+Rue du Nivernais,,60-1
+Rue du Paradis,,60-2
+Rue du Pays de Bray,,60-2
+Rue du Pays de Thelle,,60-1
+Rue du Poitou,,60-1
+Rue du Pont Laverdure,,60-1
+Rue du Pont d'Arcole,,60-1
+Rue du Pressoir Coquet,,60-1
+Rue du Pré Martinet,,60-1
+Rue du Périgord,,60-1
+Rue du Rouergue,,60-1
+Rue du Roussillon,,60-1
+Rue du Réservoir,,60-2
+Rue du Sentier,,60-1
+Rue du Sénégal,,60-1
+Rue du Thoret,,60-1
+Rue du Thérain,,60-2
+Rue du Tour de Ville,,60-1
+Rue du Tourne Broche,,60-2
+Rue du Val,,60-1
+Rue du Velay,,60-1
+Rue du Vercors,,60-1
+Rue du Vexin,,60-1
+Rue du Wage,,60-1
+Ruelle Saint Symphorien,,60-2
+Ruelle aux Loups,,60-2
+Ruelle du Limaçon,,60-1
+Sentier de la Croix des Pelerins,,60-2
+Sentier de la Place,,60-2
+Square Bellot,,60-1
+Square Boileau,,60-2
+Square Clairefontaine,,60-2
+Square Fontaine Bellerie,,60-2
+Square Godefroy Hermant,,60-1
+Square Henri Dunant,,60-1
+Square Maurice Ravel,,60-2
+Square Phileas Lebesgue,,60-1
+Square Vauban,,60-1
+impasse du 30 août 1944,,60-2
+rue henry lebesgue,,60-2

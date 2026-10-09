@@ -1,0 +1,434 @@
+address,number,constituencies
+1 Avenue Professeur Tixier,1,38-6
+1 Rue du Verger,1,38-6|38-10
+10 Avenue Maréchal Leclerc,10,38-10
+10 Avenue Professeur Tixier,10,38-10
+10 Rue du Verger,10,38-6|38-10
+12 Avenue Maréchal Leclerc,12,38-10
+12 Rue du Verger,12,38-6|38-10
+14 Avenue Maréchal Leclerc,14,38-10
+14 Avenue Professeur Tixier,14,38-10
+14 Rue du Verger,14,38-6|38-10
+15 Avenue Professeur Tixier,15,38-6
+16 Avenue Maréchal Leclerc,16,38-10
+16 Place Jean Jacques Rousseau,16,38-6
+16 Rue du Verger,16,38-6|38-10
+17 Avenue Professeur Tixier,17,38-6
+18 Avenue Maréchal Leclerc,18,38-10
+18 Rue du Verger,18,38-6
+19 Avenue Maréchal Leclerc,19,38-10
+19 Avenue Professeur Tixier,19,38-6
+2 Avenue Professeur Tixier,2,38-10
+2 Rue du Verger,2,38-6|38-10
+21 Avenue Maréchal Leclerc,21,38-10
+21 Avenue Professeur Tixier,21,38-6
+22 Avenue Maréchal Leclerc,22,38-10
+23 Avenue Maréchal Leclerc,23,38-10
+24 Avenue Maréchal Leclerc,24,38-10
+25 Avenue Maréchal Leclerc,25,38-10
+26 Avenue Maréchal Leclerc,26,38-10
+27 Avenue Maréchal Leclerc,27,38-10
+28 Avenue Maréchal Leclerc,28,38-10
+28 Avenue Professeur Tixier,28,38-10
+29 Avenue Maréchal Leclerc,29,38-10
+29 Avenue Professeur Tixier,29,38-6
+3 Avenue Maréchal Leclerc,3,38-10
+3 Rue du Verger,3,38-6|38-10
+30 Avenue Maréchal Leclerc,30,38-10
+31 Avenue Maréchal Leclerc,31,38-10
+31 Avenue Professeur Tixier,31,38-6
+32 Avenue Maréchal Leclerc,32,38-6|38-10
+32 Avenue Professeur Tixier,32,38-10
+34 Avenue Maréchal Leclerc,34,38-6|38-10
+34 Avenue Professeur Tixier,34,38-10
+35 Avenue Professeur Tixier,35,38-6
+36 Avenue Professeur Tixier,36,38-10
+37 Avenue Maréchal Leclerc,37,38-10
+37 Avenue Professeur Tixier,37,38-6
+39 Avenue Professeur Tixier,39,38-6
+4 Avenue Maréchal Leclerc,4,38-10
+4 Rue du Verger,4,38-6
+40 Avenue Professeur Tixier,40,38-10
+42 Avenue Professeur Tixier,42,38-10
+43 Avenue Professeur Tixier,43,38-6
+44 Avenue Professeur Tixier,44,38-10
+46 Avenue Professeur Tixier,46,38-10
+47 Avenue Professeur Tixier,47,38-6
+49 Avenue Professeur Tixier,49,38-6
+5 Avenue Professeur Tixier,5,38-6
+51 Avenue Professeur Tixier,51,38-6
+51bis Avenue Professeur Tixier,51bis,38-6
+52 Avenue Professeur Tixier,52,38-10
+53 Avenue Professeur Tixier,53,38-6
+54 Avenue Professeur Tixier,54,38-10
+55 Avenue Professeur Tixier,55,38-6
+56 Avenue Professeur Tixier,56,38-10
+58 Avenue Professeur Tixier,58,38-10
+59 Avenue Professeur Tixier,59,38-6
+6 Avenue Maréchal Leclerc,6,38-10
+60 Avenue Professeur Tixier,60,38-10
+62 Avenue Professeur Tixier,62,38-10
+63 Avenue Professeur Tixier,63,38-6
+66 Avenue Professeur Tixier,66,38-10
+70 Avenue Professeur Tixier,70,38-10
+72 Avenue Professeur Tixier,72,38-10
+75 Avenue Professeur Tixier,75,38-6
+8 Avenue Professeur Tixier,8,38-10
+8 Rue du Verger,8,38-6|38-10
+87 Avenue Professeur Tixier,87,38-6
+88 Avenue Professeur Tixier,88,38-10
+90 Avenue Professeur Tixier,90,38-10
+93 Avenue Professeur Tixier,93,38-10
+95 Avenue Professeur Tixier,95,38-10
+98 Avenue Professeur Tixier,98,38-10
+Allee Saint Honore,,38-6
+Allee de la Fontaine Froide,,38-10
+Allee des Arts,,38-6
+Allee des Lievres,,38-6
+Allee des Rives,,38-6
+Allee du Docteur Pierre Berthier,,38-10
+Allée Claude Bernard,,38-6
+Allée Gaston Bonnier,,38-6
+Allée Louise Michel,,38-6
+Allée Ninon Vallin,,38-6
+Allée Pasteur,,38-6
+Allée de Montauban,,38-6
+Allée de l’Eden,,38-10
+Allée de l’Orme,,38-10
+Allée des Cartonniers,,38-6
+Allée des Echalas,,38-6
+Allée des Graveurs,,38-10
+Allée des Marettes,,38-10
+Allée des Palombes,,38-10
+Allée des Robines,,38-6
+Allée des Soyeux,,38-10
+Allée des Sétives,,38-6
+Allée du Panorama,,38-6
+Allée du Réservoir,,38-6
+Av Pasteur Martin Luther King,,38-6
+Avenue Alexandre Flemming,,38-10
+Avenue Alsace Lorraine,,38-10
+Avenue Ambroise Genin,,38-10
+Avenue Aristide Briand,,38-10
+Avenue Emile Zola,,38-10
+Avenue Frédéric Dard,,38-6
+Avenue Gambetta,,38-10
+Avenue Henri Barbusse,,38-6
+Avenue President Kennedy,,38-6
+Avenue de Bourg En Bresse,,38-6
+Avenue de Champ - Fleuri,,38-6
+Avenue de Champ-Fleuri,,38-6
+Avenue de Chantereine,,38-6
+Avenue de Charges,,38-10
+Avenue de Pré Bénit,,38-6
+Avenue des Alpes,,38-10
+Avenue des Frères Lumière,,38-10
+Avenue des Marronniers,,38-10
+Avenue des Nations Unies,,38-6
+Avenue des Prairies,,38-6
+Avenue du Dauphiné,,38-10
+Avenue du Grand Tissage,,38-6
+Avenue du Maréchal Leclerc,,38-10
+Avenue du Médipôle,,38-10
+Avenue du Parc,,38-6
+Avenue du Rivet,,38-10
+Avenue du Stade,,38-6
+Avenue d’Italie,,38-10
+Bd I et Frederic Joliot Curie,,38-10
+Boulevard Beau Site,,38-6
+Boulevard Jean - Jacques Rousseau,,38-10
+Boulevard Pré Pommier,,38-6
+Boulevard Saint Michel,,38-10
+Boulevard Vincent Scotto,,38-6
+Boulevard de Champaret,,38-10
+Boulevard des Tuileries,,38-10
+Chemin de Bois - Martel,,38-10
+Chemin de Boulu,,38-6
+Chemin de Champagneux,,38-6
+Chemin de Champfort,,38-6
+Chemin de Charbonnières,,38-6
+Chemin de Charges,,38-10
+Chemin de Chatillon,,38-10
+Chemin de Comberadix,,38-10
+Chemin de Montbernier,,38-6
+Chemin de Mozas,,38-6
+Chemin de Plan Bourgoin,,38-10
+Chemin de Rosière,,38-6
+Chemin de Saint - Barthélemy,,38-6
+Chemin de Sainte - Catherine,,38-6
+Chemin de la Bernache,,38-6
+Chemin de la Combe,,38-6
+Chemin de la Creuse,,38-6
+Chemin de la Serve,,38-10
+Chemin des Brosses,,38-6
+Chemin des Bâties,,38-6
+Chemin des Couloures,,38-6
+Chemin des Marais,,38-10
+Chemin des Perthies,,38-6
+Chemin des Sommes,,38-10
+Chemin des Sétives,,38-6
+Chemin du Bois,,38-10
+Chemin du Centre Aéré,,38-6
+Chemin du Chanoine Engelvin,,38-6
+Chemin du Goyet,,38-10
+Chemin du Grasset,,38-6
+Chemin du Hameau,,38-6
+Chemin du Loup,,38-6
+Chemin du Mouleau Blanc,,38-10
+Chemin du Petit Bois,,38-10
+Chemin du Plateau,,38-6
+Chemin du Tillaret,,38-10
+Cour des Albizzias,,38-6
+Cour des Saules,,38-6
+Cours André Messager,,38-6
+Esplanade de la Folatiere,,38-10
+Impasse Beau Soleil,,38-6
+Impasse Bel Air,,38-6
+Impasse Bovier Lapierre,,38-10
+Impasse Edouard Marion,,38-10
+Impasse Jean Jaurès,,38-10
+Impasse Jules Ferry,,38-6
+Impasse Lamarck Jean Baptiste,,38-6
+Impasse Mère - Grand,,38-6
+Impasse de Beauregard,,38-10
+Impasse de Champaret,,38-10
+Impasse de Charges,,38-10
+Impasse de Rosière,,38-6
+Impasse de la Batie,,38-6
+Impasse de la Cour de Mure,,38-6
+Impasse de la Croix Blanche,,38-10
+Impasse de la Maison - Blanche,,38-10
+Impasse de la Plaine,,38-6
+Impasse de la Rivoire,,38-6
+Impasse de l’Oiselet,,38-10
+Impasse de l’Échangeur,,38-10
+Impasse des Belges,,38-6
+Impasse des Buissières,,38-10
+Impasse des Colombes,,38-10
+Impasse des Etourneaux,,38-10
+Impasse des Frères Lumière,,38-10
+Impasse des Geais,,38-10
+Impasse des Perdrix,,38-10
+Impasse des Pinsons,,38-10
+Impasse des Tisserands,,38-6
+Impasse des Tourterelles,,38-10
+Impasse du Belvédère,,38-6
+Impasse du Bion,,38-10
+Impasse du General Voisin,,38-6
+Impasse du Petit Bion,,38-10
+Impasse du Plateau,,38-6
+Impasse du Sablon,,38-6
+Montée de la Croix Blanche,,38-10
+Montée du Nid,,38-10
+Passage de Launay,,38-10
+Petite Rue de la Plaine,,38-6
+Place Albert Schweitzer,,38-10
+Place André Gide,,38-10
+Place Charles Diederichs,,38-6
+Place Charlie Chaplin,,38-10
+Place Hector Berlioz,,38-10
+Place Jacquard,,38-10
+Place Jacques Monod,,38-10
+Place Pierre Semard,,38-10
+Place Président Carnot,,38-10
+Place Raoul Follereau,,38-10
+Place René Cassin,,38-10
+Place Saint-Michel,,38-10
+Place de la Bourbre,,38-6
+Place de la Halle,,38-10
+Place de la Republique,,38-10
+Place des Palombes,,38-10
+Place du 23 Aout 1944,,38-10
+Place du 8 Mai 1945,,38-6
+Place du Champ de Mars,,38-6
+Place du Chateau,,38-10
+Quai Sophie Durand,,38-6
+Quai de Pré Bénit,,38-6
+Quai de la Bourbre,,38-6
+Quai des Belges,,38-6
+Route de Chambéry,,38-10
+Route de Demptézieu,,38-6
+Route de Grenoble,,38-10
+Route de Lyon,,38-10
+Route de Lyon - La Grive,,38-10
+Route de Saint Jean de Bournay,,38-10
+Route de Saint-Jean de Bournay,,38-10
+Route de l’Isle - d’Abeau,,38-6
+Route du Bugey,,38-6
+Rte de Saint Marcel Bel Accueil,,38-6
+Rue Albert Camus,,38-6
+Rue Ampère,,38-10
+Rue Aristote,,38-6
+Rue Blanchefleur,,38-10
+Rue Bovier Lapierre,,38-10
+Rue Brigadier Megevand,,38-10
+Rue Brunet - Lecomte,,38-6
+Rue Buffon,,38-6
+Rue Camille Saint - Saëns,,38-6
+Rue Charcot,,38-10
+Rue Claude Bernard,,38-6
+Rue Claude Debussy,,38-6
+Rue Clémenceau,,38-10
+Rue Cuvière,,38-10
+Rue Delphine Neyret,,38-6
+Rue Diet,,38-10
+Rue Docteur André Chaix,,38-10
+Rue Docteur Desgranges,,38-10
+Rue Docteur Polosson,,38-10
+Rue Docteur Pontié,,38-6
+Rue Edouard Branly,,38-10
+Rue Edouard Herriot,,38-10
+Rue Edouard Marion,,38-10
+Rue Ferdinand Buisson,,38-10
+Rue Fochier,,38-10
+Rue Francois Mauriac,,38-10
+Rue Frederic Chopin,,38-6
+Rue Félix Faure,,38-10
+Rue G de Gaulle Anthonioz,,38-10
+Rue Gabriel Fauré,,38-6
+Rue Gaston Bonnier,,38-6
+Rue Georges Bizet,,38-6
+Rue Georges Cuvier,,38-6
+Rue Georges Guynemer,,38-6
+Rue Henri Dunant,,38-6
+Rue Isaac Asimov,,38-10
+Rue Jean Baptiste Lamarck,,38-6
+Rue Jean Henri Fabre,,38-6
+Rue Jean Jaurès,,38-10
+Rue Jean Macé,,38-10
+Rue Jean Mermoz,,38-10
+Rue Jean Moulin,,38-10
+Rue Jean Rostand,,38-6
+Rue Joseph Bédor,,38-10
+Rue Joseph Cugnot,,38-10
+Rue Joseph Seigner,,38-10
+Rue Jules Ferry,,38-6
+Rue Lamartine,,38-6
+Rue Landousse,,38-6
+Rue Lavoisier,,38-10
+Rue Linné,,38-6
+Rue Louis Braille,,38-10
+Rue Louis Legrand,,38-10
+Rue Lucien Cuenot,,38-6
+Rue Manivelle,,38-10
+Rue Marcel Féline,,38-6
+Rue Maréchal Foch,,38-6
+Rue Massenet,,38-10
+Rue Maurice Ravel,,38-6
+Rue Michelet,,38-10
+Rue Moliere,,38-6
+Rue Mozart,,38-6
+Rue Pasteur,,38-6
+Rue Paul Bert,,38-10
+Rue Pierre Curie,,38-10
+Rue Pontcottier,,38-10
+Rue Pouchelon,,38-10
+Rue Rabelais,,38-6
+Rue Ravier,,38-10
+Rue Robert Belmont,,38-10
+Rue Réaumur,,38-6
+Rue Saint Honoré,,38-6
+Rue Stalingrad,,38-10
+Rue Suzette Couturier,,38-10
+Rue Tranchant,,38-10
+Rue Vauban,,38-10
+Rue Vaucanson,,38-10
+Rue Victor Hugo,,38-10
+Rue Waldeck Rousseau,,38-6
+Rue de Belle-Rive,,38-6
+Rue de Bellevue,,38-6
+Rue de Bourgogne,,38-10
+Rue de Boussieu,,38-10
+Rue de Bretagne,,38-10
+Rue de Champagneux,,38-10
+Rue de Charbonnières,,38-6
+Rue de Funas,,38-6
+Rue de Genève,,38-10
+Rue de Jussieu,,38-6
+Rue de Luepe,,38-6
+Rue de Montauban,,38-6
+Rue de Savoie,,38-10
+Rue de Verdun,,38-10
+Rue de l'Hôtel de Ville,,38-6
+Rue de la Berjallière,,38-6
+Rue de la Butte,,38-6
+Rue de la Cascade,,38-10
+Rue de la Charité,,38-10
+Rue de la Cressonnière,,38-6
+Rue de la Distillerie,,38-6
+Rue de la Fontaine Froide,,38-10
+Rue de la Halle,,38-10
+Rue de la Liberté,,38-10
+Rue de la Libération,,38-6
+Rue de la Marne,,38-6
+Rue de la Paix,,38-10
+Rue de la Piscine,,38-6
+Rue de la Plaine,,38-6
+Rue de la Rivoire,,38-6
+Rue de la République,,38-10
+Rue de la Résidence,,38-6
+Rue de la Soie,,38-6
+Rue de l’Epargne,,38-6
+Rue de l’Escot,,38-10
+Rue de l’Etissey,,38-6
+Rue de l’Hôtel de Ville,,38-6
+Rue de l’Oiselet,,38-10
+Rue de l’Orme,,38-10
+Rue des Aberaux,,38-6
+Rue des Acacias,,38-6
+Rue des Alouettes,,38-10
+Rue des Augustins,,38-10
+Rue des Bois,,38-10
+Rue des Buissières,,38-10
+Rue des Cartonniers,,38-6
+Rue des Charmettes,,38-6
+Rue des Ecoles,,38-6
+Rue des Fauvettes,,38-10
+Rue des Glycines,,38-6
+Rue des Hirondelles,,38-6
+Rue des Jonquilles,,38-6
+Rue des Lilattes,,38-6
+Rue des Maines,,38-10
+Rue des Marettes,,38-10
+Rue des Moineaux,,38-6
+Rue des Moulins,,38-10
+Rue des Mésanges,,38-6
+Rue des Palombes,,38-10
+Rue des Papetiers,,38-6
+Rue des Paquerettes,,38-6
+Rue des Pivollets,,38-6
+Rue des Poêtes,,38-6
+Rue des Rosiers,,38-6
+Rue des Rotoirs à Chanvre,,38-10
+Rue des Silos,,38-10
+Rue des Tuiliers,,38-10
+Rue du 19 Mars 1962,,38-10
+Rue du Bacholet,,38-10
+Rue du Belvédère,,38-6
+Rue du Berry,,38-10
+Rue du Bois de la Casse,,38-6
+Rue du Boulodrome,,38-6
+Rue du Collège,,38-10
+Rue du Cygne,,38-10
+Rue du Dos de l’Ane,,38-10
+Rue du General Voisin,,38-6
+Rue du Hibou des Marais,,38-10
+Rue du Héron,,38-10
+Rue du Jura,,38-10
+Rue du Languedoc,,38-10
+Rue du Marathon,,38-6
+Rue du Martin Pêcheur,,38-10
+Rue du Mollard,,38-6
+Rue du Monument,,38-10
+Rue du Mouturier,,38-10
+Rue du Petit Bion,,38-10
+Rue du Plan,,38-6
+Rue du Sablon,,38-6
+Rue du Saugey,,38-6
+Rue du Tonkin,,38-6
+Rue du Train de l’Est,,38-6
+Rue du Transvaal,,38-10
+Rue du Trianon,,38-10
+Rue du Tribunal,,38-10
+Résidence Les Grives,,38-10
+Square du Parc,,38-6

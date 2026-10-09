@@ -1,0 +1,827 @@
+address,number,constituencies
+1 boulevard de brou,1,01-1
+10 avenue jean-marie verne,10,01-4
+10 rue de la fraternite,10,01-1
+10 rue de la prevoyance,10,01-4
+10 rue tony ferret,10,01-4
+100 boulevard de brou,100,01-1
+100 rue du stand,100,01-4
+100bis rue du stand,100bis,01-4
+102 boulevard de brou,102,01-1
+102 rue du stand,102,01-4
+104 boulevard de brou,104,01-1
+104 rue du stand,104,01-4
+108 boulevard de brou,108,01-1
+108 rue du stand,108,01-4
+109 boulevard de brou,109,01-4
+11 avenue jean-marie verne,11,01-4
+11 boulevard de brou,11,01-1
+11 rue de la fraternite,11,01-1
+11 rue de la prevoyance,11,01-4
+11 rue du stand,11,01-1
+110 boulevard de brou,110,01-1
+111 boulevard de brou,111,01-4
+112 boulevard de brou,112,01-1
+114 boulevard de brou,114,01-1
+116 boulevard de brou,116,01-1
+118 boulevard de brou,118,01-1
+12 allee des moineaux,12,01-4
+12 avenue d'alsace lorraine,12,01-1
+12 avenue jean-marie verne,12,01-4
+12 boulevard de brou,12,01-1
+12 rue de la fraternite,12,01-1
+12 rue de la prevoyance,12,01-4
+12 rue tony ferret,12,01-4
+122 boulevard de brou,122,01-1
+13 avenue d'alsace lorraine,13,01-1
+13 avenue jean-marie verne,13,01-4
+13 boulevard de brou,13,01-1
+13 rue amedee fornet,13,01-1
+13 rue de la fraternite,13,01-1
+13 rue de la prevoyance,13,01-4
+13 rue du stand,13,01-1
+13 rue tony ferret,13,01-1
+136 boulevard de brou,136,01-1
+138 boulevard de brou,138,01-1
+13bis rue amedee fornet,13bis,01-1
+13bis rue de la prevoyance,13bis,01-4
+13bis rue tony ferret,13bis,01-1
+14 avenue jean-marie verne,14,01-4
+14 boulevard de brou,14,01-1
+14 rue de la prevoyance,14,01-4
+140 boulevard de brou,140,01-1
+14a rue tony ferret,14a,01-4
+14b rue tony ferret,14b,01-4
+14c rue tony ferret,14c,01-4
+14d rue tony ferret,14d,01-4
+15 allee des moineaux,15,01-4
+15 avenue d'alsace lorraine,15,01-1
+15 avenue jean-marie verne,15,01-4
+15 rue de la fraternite,15,01-1
+15 rue du stand,15,01-1
+15 rue tony ferret,15,01-1
+152 boulevard de brou,152,01-1
+158bis boulevard de brou,158bis,01-1
+16 avenue jean-marie verne,16,01-4
+16 boulevard de brou,16,01-1
+16 rue de la prevoyance,16,01-4
+16 rue tony ferret,16,01-4
+160bis boulevard de brou,160bis,01-1
+162 boulevard de brou,162,01-1
+164 boulevard de brou,164,01-1
+166 boulevard de brou,166,01-1
+168 boulevard de brou,168,01-1
+17 avenue jean-marie verne,17,01-4
+17 boulevard de brou,17,01-1
+17 rue de la fraternite,17,01-1
+17 rue de la prevoyance,17,01-4
+17 rue du stand,17,01-1
+17 rue tony ferret,17,01-1
+170 boulevard de brou,170,01-4
+170bis boulevard de brou,170bis,01-4
+172 boulevard de brou,172,01-4
+174 boulevard de brou,174,01-4
+18 avenue jean-marie verne,18,01-4
+18 boulevard de brou,18,01-1
+18 rue du stand,18,01-1
+18 rue tony ferret,18,01-4
+18bis boulevard de brou,18bis,01-1
+19 avenue d'alsace lorraine,19,01-1
+19 rue de la prevoyance,19,01-4
+19 rue du stand,19,01-4
+19 rue tony ferret,19,01-1
+19bis rue de la prevoyance,19bis,01-4
+2 avenue jean-marie verne,2,01-4
+2 rue amedee fornet,2,01-4
+2 rue de la prevoyance,2,01-4
+2 rue du stand,2,01-1
+20 avenue jean-marie verne,20,01-4
+20 boulevard de brou,20,01-1
+21 rue de la prevoyance,21,01-4
+21 rue du stand,21,01-4
+21 rue tony ferret,21,01-1
+22 boulevard de brou,22,01-1
+23 boulevard de brou,23,01-1
+23 rue du stand,23,01-4
+23 rue tony ferret,23,01-1
+24 boulevard de brou,24,01-1
+25 rue du stand,25,01-4
+26 avenue d'alsace lorraine,26,01-1
+26 boulevard de brou,26,01-1
+27 avenue d'alsace lorraine,27,01-1
+27 rue du stand,27,01-4
+27 rue tony ferret,27,01-1
+28 boulevard de brou,28,01-1
+28 rue du stand,28,01-1
+29 avenue d'alsace lorraine,29,01-1
+29 rue du stand,29,01-4
+2a rue de la prevoyance,2a,01-4
+2b rue de la prevoyance,2b,01-4
+2c rue de la prevoyance,2c,01-4
+2d rue tony ferret,2d,01-4
+2e rue tony ferret,2e,01-4
+3 avenue d'alsace lorraine,3,01-1
+3 avenue jean-marie verne,3,01-4
+3 rue amedee fornet,3,01-1
+3 rue de la fraternite,3,01-1
+3 rue de la prevoyance,3,01-1|01-4
+3 rue du stand,3,01-1
+3 rue tony ferret,3,01-1
+30 rue du stand,30,01-1
+31 avenue d'alsace lorraine,31,01-1
+31 boulevard de brou,31,01-1
+31 rue du stand,31,01-4
+31bis rue du stand,31bis,01-4
+33 boulevard de brou,33,01-1
+33bis rue du stand,33bis,01-4
+34 boulevard de brou,34,01-1
+34 rue du stand,34,01-1
+34bis rue du stand,34bis,01-1
+35 boulevard de brou,35,01-1
+35 rue du stand,35,01-4
+36 boulevard de brou,36,01-1
+37 allee des moineaux,37,01-4
+37 avenue d'alsace lorraine,37,01-1
+37 boulevard de brou,37,01-1
+37 rue du stand,37,01-4
+37bis boulevard de brou,37bis,01-1
+39 avenue d'alsace lorraine,39,01-1
+39 boulevard de brou,39,01-1
+39bis boulevard de brou,39bis,01-1
+4 boulevard de brou,4,01-1
+4 rue de la fraternite,4,01-4
+4 rue du stand,4,01-1
+40 allee des moineaux,40,01-4
+41 avenue d'alsace lorraine,41,01-1
+41 boulevard de brou,41,01-1
+41 rue du stand,41,01-4
+41bis boulevard de brou,41bis,01-1
+41ter boulevard de brou,41ter,01-1
+43 boulevard de brou,43,01-1
+43 rue du stand,43,01-4
+44 allee des moineaux,44,01-4
+44 boulevard de brou,44,01-1
+45 allee des moineaux,45,01-1|01-4
+45 rue du stand,45,01-4
+46 boulevard de brou,46,01-1
+49 avenue d'alsace lorraine,49,01-4
+49 boulevard de brou,49,01-1
+5 avenue d'alsace lorraine,5,01-1
+5 avenue jean-marie verne,5,01-1
+5 boulevard de brou,5,01-1
+5 rue de la prevoyance,5,01-4
+5 rue du stand,5,01-1
+50 boulevard de brou,50,01-1
+51 avenue d'alsace lorraine,51,01-4
+53 avenue d'alsace lorraine,53,01-4
+53 boulevard de brou,53,01-1
+53 rue du stand,53,01-4
+55 rue du stand,55,01-4
+56 boulevard de brou,56,01-1
+57 boulevard de brou,57,01-1
+57 rue du stand,57,01-4
+58 boulevard de brou,58,01-1
+59 rue du stand,59,01-4
+6 rue amedee fornet,6,01-1
+6 rue de la fraternite,6,01-1
+61 boulevard de brou,61,01-1
+62 boulevard de brou,62,01-1
+63 boulevard de brou,63,01-1
+63 rue du stand,63,01-4
+64 boulevard de brou,64,01-1
+64 rue du stand,64,01-4
+65 rue du stand,65,01-4
+66 boulevard de brou,66,01-1
+66 rue du stand,66,01-4
+68 boulevard de brou,68,01-1
+68 rue du stand,68,01-4
+7 avenue d'alsace lorraine,7,01-1
+7 boulevard de brou,7,01-1
+7 rue amedee fornet,7,01-1
+7 rue de la fraternite,7,01-1
+7 rue de la prevoyance,7,01-1|01-4
+7 rue tony ferret,7,01-1
+70 boulevard de brou,70,01-1
+70 rue du stand,70,01-4
+72 rue du stand,72,01-4
+74 rue du stand,74,01-4
+76 boulevard de brou,76,01-1
+76 rue du stand,76,01-4
+79 boulevard de brou,79,01-1
+8 rue de la prevoyance,8,01-4
+8 rue du stand,8,01-1
+80 rue du stand,80,01-4
+81 boulevard de brou,81,01-1
+82 boulevard de brou,82,01-1
+82 rue du stand,82,01-4
+84 boulevard de brou,84,01-1
+86 rue du stand,86,01-4
+88 boulevard de brou,88,01-1
+88 rue du stand,88,01-4
+9 avenue d'alsace lorraine,9,01-1
+9 avenue jean-marie verne,9,01-4
+9 boulevard de brou,9,01-1
+9 rue amedee fornet,9,01-1
+9 rue de la prevoyance,9,01-4
+9 rue tony ferret,9,01-1
+90 boulevard de brou,90,01-1
+90 rue du stand,90,01-4
+90bis rue du stand,90bis,01-4
+91 boulevard de brou,91,01-4
+92 boulevard de brou,92,01-1
+92 rue du stand,92,01-4
+93 boulevard de brou,93,01-4
+94 rue du stand,94,01-4
+95 boulevard de brou,95,01-4
+96 rue du stand,96,01-4
+98 boulevard de brou,98,01-1
+9bis rue de la fraternite,9bis,01-1
+Allée Jean Macé,,01-4
+Allée des Aéroplanes,,01-4
+Allée des Bolets,,01-4
+Avenue Alphonse Baudin,,01-4
+Avenue Louis Jourdan,,01-1
+Avenue Maginot,,01-1
+Avenue de Jasseron,,01-1
+Avenue de Lyon,,01-4
+Avenue du Mail,,01-4
+Boulevard Jules Ferry,,01-4
+Boulevard Saint-Nicolas,,01-1
+Boulevard de Brou,,01-1
+Boulevard de l'Hippodrome,,01-4
+Boulevard du Maréchal Leclerc,,01-1
+Chemin de l'Alagnier,,01-1
+Impasse Saint-Roch,,01-4
+Rue Abbé Gorini,,01-4
+Rue Boileau,,01-4
+Rue Bourgmayer,,01-1
+Rue Branly,,01-4
+Rue Brichemer,,01-1
+Rue Condorcet,,01-1
+Rue Georges Guynemer,,01-4
+Rue Louis Mouthier,,01-4
+Rue Molière,,01-4
+Rue Pasteur,,01-1
+Rue Philibert le Beau,,01-1
+Rue Roland Garros,,01-4
+Rue Saint-Roch,,01-4
+Rue Tony Ferret,,01-4
+Rue Victor Basch,,01-1
+Rue de Montholon,,01-4
+Rue de la Chambière,,01-1
+Rue de la Muette,,01-4
+Rue des Acacias,,01-1
+Rue des Arbelles,,01-1
+Rue des Baudières,,01-1
+Rue des Cartellets,,01-4
+Rue des Casernes,,01-1
+Rue des Crêts,,01-1
+Rue des Hirondelles,,01-4
+Rue des Marguerites,,01-4
+Rue du Docteur Bouveret,,01-1
+Rue du Docteur Nodet,,01-4
+Rue du Grand Challes,,01-1
+Rue du Moulin de Brou,,01-1
+Rue du Peloux,,01-4
+Rue du Point du Jour,,01-1
+Rue du Revermont,,01-1
+Rue du Stand,,01-4
+allee bievre,,01-1
+allee chantecler,,01-1
+allee clovis blanc,,01-4
+allee dame fiere,,01-1
+allee de beaugency,,01-1
+allee de challes,,01-1
+allee de la cedraie,,01-4
+allee des aviateurs,,01-4
+allee des bouvreuils,,01-4
+allee des charmettes,,01-1
+allee des chevreuils,,01-4
+allee des cites du peloux,,01-4
+allee des coquelicots,,01-1
+allee des coucous,,01-4
+allee des girolles,,01-4
+allee des glaneuses,,01-1
+allee des iris,,01-1
+allee des martinets,,01-4
+allee des merles,,01-4
+allee des mesanges,,01-4
+allee des morilles,,01-1
+allee des myosotis,,01-1
+allee des pinsons,,01-4
+allee des piverts,,01-4
+allee des primeveres,,01-4
+allee des robiniers,,01-1
+allee des roseaux,,01-1
+allee des roses,,01-1
+allee des sorbiers,,01-1
+allee des tiercelets,,01-1
+allee des troubadours,,01-1
+allee du centre nautique,,01-1
+allee du chateau de challes,,01-1
+allee du clos terrasson,,01-4
+allee du devorah,,01-1
+allee du four à chaux,,01-1
+allee du furet,,01-4
+allee du moulin de brou,,01-1
+allee du moulin des loups,,01-1
+allee du parc saint nicolas,,01-1
+allee du pavillon,,01-1
+allee du point du jour,,01-1
+allee du pre neuf,,01-1
+allee du premier mai,,01-1
+allee du rouge gorge,,01-4
+allee edouard manet,,01-1
+allee felicien proust,,01-4
+allee goupil,,01-1
+allee hermeline,,01-1
+allee isengrin,,01-1
+allee jean ferrat,,01-1
+allee jean mace,,01-4
+allee la petite reyssouze,,01-1
+allee louis robin,,01-4
+allee marcelle appleton,,01-1
+allee maurice ravel,,01-1
+allee percehaie,,01-1
+allee pierre-françois blanc-desiles,,01-1
+allee renardel,,01-1
+allee simone signoret,,01-1
+allee tibert,,01-1
+allee vincent benony,,01-1
+avenue alphonse baudin,,01-4
+avenue alphonse muscat,,01-1
+avenue amedee mercier,,01-1
+avenue andre maginot,,01-1
+avenue de bad kreuznach,,01-1
+avenue de jasseron,,01-1
+avenue de l'egalite,,01-1
+avenue de la victoire,,01-4
+avenue de lyon,,01-4
+avenue de macon,,01-1
+avenue de marboz,,01-1
+avenue des anciens combattants,,01-1
+avenue des belges,,01-1
+avenue des sports,,01-1
+avenue du champ de foire,,01-1
+avenue du mail,,01-4
+avenue jean jaures,,01-4
+avenue louis jourdan,,01-1
+avenue marechal juin,,01-4
+avenue pierre semard,,01-4
+boulevard andre levrier,,01-1
+boulevard de l'hippodrome,,01-4
+boulevard edouard herriot,,01-1
+boulevard emile huchet,,01-4
+boulevard irene joliot-curie,,01-1
+boulevard jules ferry,,01-4
+boulevard marechal leclerc,,01-1
+boulevard paul bert,,01-4
+boulevard paul valery,,01-4
+boulevard saint-nicolas,,01-1
+boulevard victor hugo,,01-1
+boulevard voltaire,,01-4
+chemin d'eternaz,,01-4
+chemin de cuegres,,01-1
+chemin de curtafray,,01-1
+chemin de l'alagnier,,01-1
+chemin de la chagne,,01-1
+chemin de la miche,,01-1
+chemin de la perrinche,,01-1
+chemin de la providence,,01-1
+chemin de la serpoyere,,01-1
+chemin de majornas,,01-1
+chemin de saint-georges,,01-1
+chemin de tirand,,01-1
+chemin des boutons d'or,,01-1
+chemin des guillermettes,,01-1
+chemin des lazaristes,,01-4
+chemin des narcisses,,01-4
+chemin des paquerettes,,01-1
+chemin des quarante coupees,,01-1
+chemin des sardieres,,01-1
+chemin du canal,,01-1
+chemin du devorah,,01-1
+chemin du moulin des loups,,01-1
+chemin du plan,,01-1
+cours de verdun,,01-1
+impasse andre chenier,,01-4
+impasse auguste perrodin,,01-1
+impasse comte de la teyssonniere,,01-4
+impasse de cuiron,,01-4
+impasse de fenille,,01-1
+impasse de l'est,,01-4
+impasse de saint-roch,,01-4
+impasse des arbelles,,01-1
+impasse des granges bardes,,01-1
+impasse des hauts de challes,,01-1
+impasse des jonquilles,,01-1
+impasse des lazaristes,,01-4
+impasse du chevrefeuille,,01-1
+impasse du four bage,,01-1
+impasse du lycee,,01-1
+impasse gabriel vicaire,,01-1
+impasse jean jaures,,01-4
+impasse lazare carnot,,01-1
+impasse le chenil,,01-1
+impasse littre,,01-1
+impasse louis mouthier,,01-4
+impasse marcelin berthelot,,01-4
+impasse moliere,,01-4
+mail de la conference de rio,,01-1
+montee du bastion,,01-1
+passage de l'ecole du peloux,,01-4
+passage des cordeliers,,01-1
+passage louise michel,,01-1
+place alexandre dumas,,01-1
+place alfred de musset,,01-4
+place alphonse dupont,,01-1
+place bernard,,01-1
+place carriat,,01-1
+place de l'hotel de ville,,01-1
+place de la basilique,,01-4
+place de la commune,,01-1
+place de la grenouillere,,01-1
+place de la liberation,,01-4
+place des bons enfants,,01-1
+place des cyclamens,,01-4
+place des ebaudis,,01-1
+place des lices,,01-1
+place docteur touillon,,01-1
+place du maquis colonel romans petit,,01-1
+place edgar quinet,,01-1
+place fenelon,,01-4
+place georges clemenceau,,01-1
+place georges loiseau,,01-1
+place jean-jacques rousseau,,01-4
+place joubert,,01-1
+place la rochefoucauld,,01-4
+place louis bleriot,,01-1
+place maryse bastie,,01-1
+place perrier-labalme,,01-1
+place pierre goujon,,01-1
+place saint-vincent de paul,,01-1
+quai henri groboz,,01-1
+route de seillon,,01-4
+rue abbe cottard josserand,,01-4
+rue abbe gorini,,01-4
+rue abbe gregoire,,01-4
+rue abbe gringoz,,01-1
+rue abbe pierre,,01-1
+rue aime cotton,,01-4
+rue alain lesage,,01-1
+rue albert 1er,,01-1
+rue albert camus,,01-4
+rue alexandre dumas,,01-1
+rue alfred bertholet,,01-1
+rue alfred blanchet,,01-1
+rue alfred chanut,,01-1
+rue alfred de vigny,,01-4
+rue alphonse dupont,,01-1
+rue alphonse mas,,01-1
+rue ambroise thomas,,01-4
+rue ampere,,01-4
+rue andre utter,,01-1
+rue antoine belayssoud,,01-1
+rue antoine de saint-exupery,,01-1
+rue antoine lorin,,01-4
+rue antoine ritti,,01-1
+rue antony viot,,01-4
+rue archimede,,01-1
+rue aristide briand,,01-1
+rue arthur durafour,,01-4
+rue auguste perrodin,,01-1
+rue auguste renoir,,01-1
+rue bara,,01-1
+rue beau site,,01-1
+rue beaucent,,01-1
+rue beaumarchais,,01-4
+rue bernard,,01-1
+rue bichat,,01-1
+rue bievre,,01-1
+rue bizet,,01-4
+rue boileau,,01-4
+rue bossuet,,01-4
+rue boulanger,,01-4
+rue bourgmayer,,01-1
+rue bouvard,,01-4
+rue branly,,01-4
+rue brichemer,,01-1
+rue brillat savarin,,01-4
+rue buffon,,01-4
+rue cesar,,01-1
+rue chantemerle,,01-1
+rue charles antonin,,01-4
+rue charles demia,,01-4
+rue charles guillon,,01-1
+rue charles jarrin,,01-1
+rue charles peguy,,01-1
+rue charles robin,,01-1
+rue charles tardy,,01-4
+rue chintreuil,,01-4
+rue claude bernard,,01-1
+rue clavagry,,01-1
+rue clement ader,,01-4
+rue colonel arnaud beltrame,,01-1
+rue colonel gastaldo,,01-4
+rue commandant cousteau,,01-1
+rue comte de la teyssonniere,,01-4
+rue comte de montrevel,,01-1
+rue condorcet,,01-1
+rue corneille,,01-4
+rue creve cœur,,01-1
+rue d'auvergne,,01-1
+rue d'espagne,,01-1
+rue d'italie,,01-1
+rue d'ypres,,01-4
+rue daguerre,,01-4
+rue dallemagne,,01-1
+rue danton,,01-1
+rue de bourgogne,,01-1
+rue de bouvent,,01-4
+rue de carthage,,01-4
+rue de champagne,,01-1
+rue de crouy,,01-4
+rue de cuiron,,01-4
+rue de fenille,,01-1
+rue de franche-comte,,01-1
+rue de jemmapes,,01-1
+rue de l'alagnier,,01-1
+rue de l'astragale,,01-4
+rue de l'aubepin,,01-4
+rue de l'ecole,,01-1
+rue de l'ecole normale,,01-4
+rue de l'essart,,01-1
+rue de l'est,,01-4
+rue de l'etoile,,01-1
+rue de l'industrie,,01-1
+rue de la basilique,,01-4
+rue de la butte,,01-4
+rue de la chambiere,,01-1
+rue de la chartreuse,,01-4
+rue de la citadelle,,01-1
+rue de la croix-blanche,,01-1
+rue de la grenouillere,,01-1
+rue de la liberte,,01-4
+rue de la muette,,01-4
+rue de la paix,,01-1
+rue de la petite hollande,,01-4
+rue de la republique,,01-1
+rue de la vielle,,01-1
+rue de loëze,,01-1
+rue de maupertuis,,01-1
+rue de mogador,,01-4
+rue de monte cassino,,01-4
+rue de montholon,,01-4
+rue de pennessuy,,01-1
+rue de saint-roch,,01-4
+rue de savoie,,01-1
+rue de solferino,,01-1
+rue de touraine,,01-1
+rue de varenne,,01-1
+rue denis papin,,01-1
+rue des acacias,,01-1
+rue des aeroplanes,,01-4
+rue des arbelles,,01-1
+rue des aulnes,,01-1
+rue des baudieres,,01-1
+rue des blanchisseries,,01-1
+rue des bolets,,01-4
+rue des bons enfants,,01-1
+rue des cartellets,,01-4
+rue des casernes,,01-1
+rue des cedres,,01-4
+rue des cerisiers,,01-4
+rue des chanterelles,,01-4
+rue des chardonnerets,,01-1
+rue des charmes,,01-4
+rue des charmettes,,01-1
+rue des chenes,,01-1
+rue des chrysanthemes,,01-1
+rue des compagnons,,01-4
+rue des crets,,01-1
+rue des deux saules,,01-1
+rue des dimes,,01-1
+rue des ecureuils,,01-4
+rue des eglantines,,01-4
+rue des erables,,01-1
+rue des fauvettes,,01-4
+rue des fontanettes,,01-1
+rue des fougeres,,01-1
+rue des frenes,,01-4
+rue des freres lumiere,,01-1
+rue des genets,,01-1
+rue des girolles,,01-4
+rue des glycines,,01-1
+rue des granges bardes,,01-1
+rue des graves,,01-1
+rue des hauts de challes,,01-1
+rue des hirondelles,,01-4
+rue des joncs,,01-1
+rue des lazaristes,,01-4
+rue des lilas,,01-4
+rue des marguerites,,01-4
+rue des marronniers,,01-1
+rue des menetriers,,01-1
+rue des mousserons,,01-4
+rue des myosotis,,01-1
+rue des naturalistes,,01-4
+rue des ormeaux,,01-4
+rue des pervenches,,01-4
+rue des petites vennes,,01-4
+rue des peupliers,,01-1
+rue des pins,,01-4
+rue des pres de brou,,01-1
+rue des remparts,,01-1
+rue des rippes brulees,,01-1
+rue des sources,,01-1
+rue des sycomores,,01-4
+rue des tilleuls,,01-1
+rue des tourterelles,,01-4
+rue des tulipes,,01-4
+rue des vavres,,01-4
+rue des violettes,,01-4
+rue descartes,,01-4
+rue docteur duby,,01-1
+rue docteur ebrard,,01-1
+rue docteur hudellet,,01-1
+rue docteur nodet,,01-4
+rue docteur roux,,01-1
+rue docteur touillon,,01-1
+rue du berry,,01-1
+rue du bourbonnais,,01-1
+rue du clair matin,,01-1
+rue du cordier,,01-1
+rue du docteur bouveret,,01-1
+rue du docteur temporal,,01-1
+rue du grand-challes,,01-1
+rue du limousin,,01-1
+rue du lycee,,01-1
+rue du malivert,,01-1
+rue du manege,,01-4
+rue du muguet,,01-1
+rue du nivernais,,01-1
+rue du palais,,01-1
+rue du pavillon,,01-1
+rue du peloux,,01-4
+rue du petit cuiron,,01-4
+rue du petit montholon,,01-4
+rue du point du jour,,01-1
+rue du poitou,,01-1
+rue du pont des chevres,,01-1
+rue du pre neuf,,01-1
+rue du pressoir,,01-1
+rue du quatre septembre,,01-1
+rue du revermont,,01-1
+rue du rossignol,,01-4
+rue du vingt-troisieme r.i.,,01-1
+rue edgar quinet,,01-1
+rue edith piaf,,01-1
+rue edouard manet,,01-1
+rue eme,,01-1
+rue emile bonnet,,01-1
+rue emilien cabuchet,,01-1
+rue ernest chaudouet,,01-1
+rue eugene dubois,,01-4
+rue felicien proust,,01-4
+rue françois villon,,01-4
+rue frobert,,01-1
+rue gabriel et charles voisin,,01-1
+rue gabriel vicaire,,01-1
+rue gambetta,,01-1
+rue gaspard monge,,01-1
+rue general debeney,,01-1
+rue general delestraint,,01-4
+rue general logerot,,01-4
+rue general vadot,,01-1
+rue georges brassens,,01-1
+rue georges courteline,,01-4
+rue georges cuvier,,01-1
+rue georges guynemer,,01-4
+rue georges loiseau,,01-1
+rue girod de l'ain,,01-4
+rue gounod,,01-4
+rue guichard,,01-1
+rue guichenon,,01-1
+rue gustave dore,,01-1
+rue haroun tazieff,,01-1
+rue hector berlioz,,01-1
+rue helene boucher,,01-1
+rue henri dunant,,01-1
+rue henri grosjean,,01-1
+rue honore d'urfe,,01-4
+rue honore de balzac,,01-4
+rue jacques brel,,01-1
+rue jacques prevert,,01-1
+rue jean mermoz,,01-4
+rue jean moulin,,01-1
+rue jean puthet,,01-4
+rue jean rostand,,01-1
+rue jean-baptiste clement,,01-4
+rue jean-louis massot,,01-1
+rue joachim du bellay,,01-4
+rue joseph brossard,,01-4
+rue joseph cugnot,,01-1
+rue joseph egleme,,01-1
+rue joseph jacquard,,01-1
+rue jules baux,,01-1
+rue jules belley,,01-1
+rue jules guerin,,01-1
+rue jules migonney,,01-1
+rue julien et marius roche,,01-4
+rue julien tiersot,,01-4
+rue juliette recamier,,01-1
+rue la bruyere,,01-4
+rue la fontaine,,01-4
+rue lalande,,01-1
+rue lamartine,,01-4
+rue langevin,,01-4
+rue largilliere,,01-4
+rue lazare carnot,,01-1
+rue lenormand,,01-1
+rue leo ferre,,01-1
+rue leopold le hon,,01-4
+rue leopold sedar senghor,,01-1
+rue littre,,01-1
+rue louis bleriot,,01-1
+rue louis braille,,01-1
+rue louis leygue,,01-1
+rue louis mouthier,,01-4
+rue louise chevrier,,01-1
+rue lucien brazier,,01-1
+rue magenta,,01-1
+rue malherbe,,01-4
+rue marc seguin,,01-1
+rue marcelin berthelot,,01-4
+rue marechal de lattre de tassigny,,01-1
+rue marechal foch,,01-1
+rue marechal joffre,,01-1
+rue marguerite d'autriche,,01-1
+rue marguerite de bourbon,,01-1
+rue maria geral,,01-1
+rue marquise de sevigne,,01-4
+rue maryse bastie,,01-1
+rue massena,,01-4
+rue massenet,,01-4
+rue maurice diethelm,,01-4
+rue maurice utrillo,,01-1
+rue michel pesce,,01-4
+rue moliere,,01-4
+rue montaigne,,01-4
+rue montesquieu,,01-4
+rue ney,,01-4
+rue nicolas faret,,01-1
+rue niepce,,01-4
+rue notre-dame,,01-1
+rue octave morel,,01-1
+rue pardaillan,,01-1
+rue parmentier,,01-1
+rue pascal,,01-4
+rue pasteur,,01-1
+rue paul doumer,,01-1
+rue paul emile victor,,01-1
+rue paul painleve,,01-1
+rue paul pioda,,01-1
+rue paul verlaine,,01-4
+rue pave d'amour,,01-1
+rue pere marie joseph lagrange,,01-1
+rue peter fink,,01-1
+rue philibert le beau,,01-1
+rue philippe lebon,,01-4
+rue pierre gauthier,,01-1
+rue pierre granet,,01-1
+rue pierre terrasson,,01-4
+rue pompe bourgmayer,,01-1
+rue prevôte,,01-1
+rue prosper convert,,01-1
+rue prosper montagne,,01-1
+rue prosper neyraud,,01-1
+rue rabelais,,01-4
+rue racine,,01-4
+rue raymond poincare,,01-1
+rue rene cassin,,01-1
+rue reyer,,01-4
+rue rhin et danube,,01-4
+rue robert schuman,,01-1
+rue roland garros,,01-4
+rue ronsard,,01-4
+rue saint-antoine,,01-1
+rue saint-isidore,,01-4
+rue saint-pierre chanel,,01-1
+rue samaritaine,,01-1
+rue santos dumont,,01-1
+rue suzanne valadon,,01-1
+rue teyniere,,01-1
+rue theodore monod,,01-1
+rue thomas riboud,,01-1
+rue tiecelin,,01-1
+rue traversiere,,01-1
+rue valmy,,01-1
+rue vaugelas,,01-4
+rue viala,,01-1
+rue victor basch,,01-1
+rue victor faguet,,01-1
+rue villeneuve,,01-4
+rue xavier privas,,01-1
+rue yves klein,,01-1
+rue yves montand,,01-1
+ruelle marion,,01-1
