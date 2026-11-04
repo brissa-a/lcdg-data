@@ -1,0 +1,785 @@
+address,number,constituencies
+1 Boulevard Gambetta,1,60-6
+1 Square Marcel Forestier,1,60-5|60-6
+10 Rue Albert Robida,10,60-5|60-6
+10 Rue Saint-Joseph,10,60-6
+10 Rue de Paris,10,60-6
+10 Square Marcel Forestier,10,60-5
+100 Boulevard des États-Unis,100,60-5
+100 Rue de Paris,100,60-5
+101 Boulevard des États-Unis,101,60-6
+101 Rue Saint-Joseph,101,60-5
+101 Rue de Paris,101,60-5
+102 Rue Saint-Joseph,102,60-5
+102 Rue de Paris,102,60-5
+103 Rue Saint-Joseph,103,60-5
+103 Rue de Paris,103,60-5
+104 Boulevard des États-Unis,104,60-5
+104 Rue Saint-Joseph,104,60-5
+104 Rue de Paris,104,60-5
+105 Rue Saint-Joseph,105,60-5
+105 Rue de Paris,105,60-5
+106 Boulevard des États-Unis,106,60-5
+107 Boulevard des États-Unis,107,60-6
+107 Rue Saint-Joseph,107,60-5
+107 Rue de Paris,107,60-5
+108 Boulevard des États-Unis,108,60-5
+108 Rue Saint-Joseph,108,60-5
+108bis Boulevard des États-Unis,108bis,60-5
+108ter Boulevard des États-Unis,108ter,60-5
+109 Rue Saint-Joseph,109,60-5
+109 Rue de Paris,109,60-5
+11 Boulevard Gambetta,11,60-6
+11 Rue Saint-Joseph,11,60-6
+11 Rue de Paris,11,60-6
+11 Square Marcel Forestier,11,60-5|60-6
+110 Boulevard des États-Unis,110,60-5
+110 Rue Saint-Joseph,110,60-5
+110bis Boulevard des États-Unis,110bis,60-5
+111 Boulevard des États-Unis,111,60-6
+111 Rue Saint-Joseph,111,60-5
+111 Rue de Paris,111,60-5
+112 Boulevard des États-Unis,112,60-5
+112bis Boulevard des États-Unis,112bis,60-5
+112ter Boulevard des États-Unis,112ter,60-5
+113 Boulevard des États-Unis,113,60-6
+113 Rue Saint-Joseph,113,60-5
+113 Rue de Paris,113,60-5
+113bis Boulevard des États-Unis,113bis,60-6
+114 Boulevard des États-Unis,114,60-5
+114bis Boulevard des États-Unis,114bis,60-5
+115 Boulevard des États-Unis,115,60-6
+115 Rue Saint-Joseph,115,60-5
+115 Rue de Paris,115,60-5
+116 Boulevard des États-Unis,116,60-5
+117 Boulevard des États-Unis,117,60-6
+117 Rue Saint-Joseph,117,60-5
+118 Boulevard des États-Unis,118,60-5
+118bis Boulevard des États-Unis,118bis,60-5
+119 Boulevard des États-Unis,119,60-6
+119 Rue de Paris,119,60-5
+11a Square Marcel Forestier,11a,60-6
+11b Square Marcel Forestier,11b,60-6
+12 Rue Albert Robida,12,60-5
+12 Rue de Paris,12,60-6
+12 Square Marcel Forestier,12,60-5|60-6
+120 Boulevard des États-Unis,120,60-5
+120bis Boulevard des États-Unis,120bis,60-5
+121 Boulevard des États-Unis,121,60-6
+121 Rue de Paris,121,60-5
+122 Boulevard des États-Unis,122,60-5
+122 Rue de Paris,122,60-5
+124 Boulevard des États-Unis,124,60-5
+124 Rue de Paris,124,60-5
+124bis Rue de Paris,124bis,60-5
+124ter Rue de Paris,124ter,60-5
+125 Rue de Paris,125,60-5
+126 Rue de Paris,126,60-5
+127 Boulevard des États-Unis,127,60-6
+127 Rue de Paris,127,60-5
+128 Boulevard des États-Unis,128,60-5
+128 Rue de Paris,128,60-5
+129 Rue de Paris,129,60-5
+13 Boulevard Gambetta,13,60-6
+13 Rue Saint-Joseph,13,60-6
+13 Rue de Paris,13,60-6
+13 Square Marcel Forestier,13,60-5|60-6
+130 Boulevard des États-Unis,130,60-5
+130 Rue de Paris,130,60-5
+131 Rue de Paris,131,60-5
+132 Boulevard des États-Unis,132,60-5
+132 Rue de Paris,132,60-5
+134 Boulevard des États-Unis,134,60-5
+136 Boulevard des États-Unis,136,60-5
+136 Rue de Paris,136,60-5
+137 Rue de Paris,137,60-5
+139 Boulevard des États-Unis,139,60-6
+13bis Rue Saint-Joseph,13bis,60-6
+14 Boulevard Gambetta,14,60-5
+14 Rue Albert Robida,14,60-5|60-6
+14 Rue Saint-Joseph,14,60-6
+14 Rue de Paris,14,60-6
+14 Square Marcel Forestier,14,60-5|60-6
+140bis Rue de Paris,140bis,60-5
+143 Boulevard des États-Unis,143,60-6
+143 Rue de Paris,143,60-5
+145 Boulevard des États-Unis,145,60-6
+145 Rue de Paris,145,60-5
+147 Boulevard des États-Unis,147,60-6
+147 Rue de Paris,147,60-5
+14bis Rue Albert Robida,14bis,60-6
+15 Boulevard Gambetta,15,60-6
+15 Rue Saint-Joseph,15,60-6
+15 Square Marcel Forestier,15,60-5|60-6
+153 Boulevard des États-Unis,153,60-6
+155 Boulevard des États-Unis,155,60-6
+157 Boulevard des États-Unis,157,60-6
+159 Boulevard des États-Unis,159,60-6
+16 Boulevard Gambetta,16,60-5
+16 Rue Albert Robida,16,60-6
+16 Rue Saint-Joseph,16,60-6
+16 Rue de Paris,16,60-6
+16 Square Marcel Forestier,16,60-6
+161 Boulevard des États-Unis,161,60-6
+165 Boulevard des États-Unis,165,60-6
+169 Boulevard des États-Unis,169,60-6
+17 Rue Saint-Joseph,17,60-6
+17 Rue de Paris,17,60-6
+171 Rue de Paris,171,60-5
+172 Rue de Paris,172,60-5
+173 Rue de Paris,173,60-5
+175 Rue de Paris,175,60-5
+179 Rue de Paris,179,60-5
+17bis Boulevard Gambetta,17bis,60-6
+18 Boulevard Gambetta,18,60-5
+18 Rue Albert Robida,18,60-6
+18 Rue Saint-Joseph,18,60-6
+18 Rue de Paris,18,60-6
+18 Square Marcel Forestier,18,60-6
+183 Rue de Paris,183,60-5
+189 Rue de Paris,189,60-5
+19 Rue Saint-Joseph,19,60-6
+19 Rue de Paris,19,60-6
+195 Rue de Paris,195,60-5
+1bis Boulevard Gambetta,1bis,60-6
+2 Rue Albert Robida,2,60-5|60-6
+2 Square Marcel Forestier,2,60-6
+20 Boulevard Gambetta,20,60-5
+20 Rue Albert Robida,20,60-6
+20 Rue Saint-Joseph,20,60-6
+20 Rue de Paris,20,60-6
+20 Square Marcel Forestier,20,60-5|60-6
+21 Rue Saint-Joseph,21,60-6
+21 Square Marcel Forestier,21,60-5
+22 Boulevard Gambetta,22,60-5
+22 Rue Saint-Joseph,22,60-6
+22 Rue de Paris,22,60-6
+22 Square Marcel Forestier,22,60-5
+23 Rue Saint-Joseph,23,60-6
+23 Square Marcel Forestier,23,60-5|60-6
+24 Boulevard Gambetta,24,60-5
+24 Rue Albert Robida,24,60-6
+24 Rue Saint-Joseph,24,60-6
+25 Boulevard Gambetta,25,60-6
+25 Rue Saint-Joseph,25,60-6
+26 Boulevard Gambetta,26,60-5
+26 Rue Albert Robida,26,60-6
+26 Rue Saint-Joseph,26,60-6
+27 Boulevard Gambetta,27,60-6
+27 Rue Saint-Joseph,27,60-6
+28 Boulevard Gambetta,28,60-5
+28 Rue Albert Robida,28,60-6
+28 Rue Saint-Joseph,28,60-6
+29 Rue Albert Robida,29,60-6
+29 Rue Saint-Joseph,29,60-6
+29 Rue de Paris,29,60-6
+29 Rue de la Victoire,29,60-6
+3 Rue Saint-Joseph,3,60-6
+3 Square Marcel Forestier,3,60-5
+30 Boulevard Gambetta,30,60-5
+30 Rue Albert Robida,30,60-6
+30 Rue Saint-Joseph,30,60-6
+31 Boulevard Gambetta,31,60-6
+31 Rue de Paris,31,60-6
+32 Boulevard Gambetta,32,60-5
+32 Rue Albert Robida,32,60-6
+33 Boulevard Gambetta,33,60-6
+33 Rue Albert Robida,33,60-6
+33 Rue Saint-Joseph,33,60-6
+33bis Boulevard Gambetta,33bis,60-6
+34 Boulevard Gambetta,34,60-5
+34 Rue Albert Robida,34,60-6
+35 Boulevard Gambetta,35,60-6
+35 Rue Albert Robida,35,60-6
+35 Rue Saint-Joseph,35,60-6
+36 Boulevard Gambetta,36,60-5
+36 Rue Albert Robida,36,60-6
+36 Rue de Paris,36,60-6
+36bis Rue Saint-Joseph,36bis,60-6
+36bis Rue de Paris,36bis,60-6
+37 Boulevard Gambetta,37,60-6
+37 Rue Albert Robida,37,60-6
+37 Rue de Paris,37,60-6
+38 Boulevard Gambetta,38,60-5
+38 Rue Saint-Joseph,38,60-6
+39 Rue Saint-Joseph,39,60-6
+39 Rue de Paris,39,60-6
+4 Rue Albert Robida,4,60-5|60-6
+4 Square Marcel Forestier,4,60-6
+40 Boulevard Gambetta,40,60-5
+40 Rue Albert Robida,40,60-6
+40 Rue Saint-Joseph,40,60-6
+40 Rue de Paris,40,60-6
+42 Boulevard Gambetta,42,60-5
+42 Rue Saint-Joseph,42,60-6
+42 Rue de Paris,42,60-6
+42Q Rue Saint-Joseph,42Q,60-6
+42bis Rue de Paris,42bis,60-6
+42ter Rue Saint-Joseph,42ter,60-6
+43 Rue de Paris,43,60-6
+43bis Rue de Paris,43bis,60-6
+44 Boulevard Gambetta,44,60-5
+45 Rue Saint-Joseph,45,60-5
+45 Rue de Paris,45,60-6
+46 Boulevard Gambetta,46,60-5
+46 Rue de Paris,46,60-6
+46bis Rue Saint-Joseph,46bis,60-6
+47 Boulevard des États-Unis,47,60-6
+47 Rue Saint-Joseph,47,60-5
+47 Rue de Paris,47,60-6
+47bis Rue de Paris,47bis,60-6
+48 Boulevard Gambetta,48,60-5
+49 Boulevard des États-Unis,49,60-6
+49 Rue Saint-Joseph,49,60-5
+49 Rue de Paris,49,60-6
+5 Boulevard Gambetta,5,60-6
+5 Rue Saint-Joseph,5,60-6
+5 Square Marcel Forestier,5,60-5|60-6
+50 Boulevard Gambetta,50,60-5
+50 Rue Saint-Joseph,50,60-5
+50 Rue de Paris,50,60-6
+51 Boulevard des États-Unis,51,60-6
+51 Rue Saint-Joseph,51,60-5
+51 Rue de Paris,51,60-6
+52 Boulevard Gambetta,52,60-5
+52 Rue Saint-Joseph,52,60-5
+53 Boulevard des États-Unis,53,60-6
+53 Rue Saint-Joseph,53,60-5
+53 Rue de Paris,53,60-6
+53bis Rue de Paris,53bis,60-6
+54 Boulevard Gambetta,54,60-5
+54 Rue Saint-Joseph,54,60-5
+54 Rue de Paris,54,60-6
+55 Boulevard des États-Unis,55,60-6
+56 Boulevard Gambetta,56,60-5
+56 Rue Saint-Joseph,56,60-5
+56 Rue de Paris,56,60-6
+57 Rue Saint-Joseph,57,60-5
+57bis Rue de Paris,57bis,60-6
+58 Boulevard Gambetta,58,60-5
+58 Rue de Paris,58,60-6
+59 Boulevard des États-Unis,59,60-6
+59 Rue Saint-Joseph,59,60-5
+59 Rue de Paris,59,60-6
+6 Rue Albert Robida,6,60-5|60-6
+6 Rue Saint-Joseph,6,60-6
+6 Rue de Paris,6,60-6
+6 Square Marcel Forestier,6,60-6
+60 Rue Saint-Joseph,60,60-5
+60 Rue de Paris,60,60-6
+61 Boulevard des États-Unis,61,60-6
+61 Rue Saint-Joseph,61,60-5
+61 quater Rue Saint-Joseph,61 quater,60-5
+61bis Rue Saint-Joseph,61bis,60-5
+61ter Rue Saint-Joseph,61ter,60-5
+62 Rue Saint-Joseph,62,60-5
+62 Rue de Paris,62,60-6
+63 Boulevard des États-Unis,63,60-6
+63 Rue Saint-Joseph,63,60-5
+64 Rue de Paris,64,60-6
+65 Boulevard des États-Unis,65,60-6
+65 Rue Saint-Joseph,65,60-5
+65 Rue de Paris,65,60-6
+66 Rue Saint-Joseph,66,60-5
+66 Rue de Paris,66,60-6
+67 Rue Saint-Joseph,67,60-5
+68 Boulevard des États-Unis,68,60-5
+68 Rue Saint-Joseph,68,60-5
+68 Rue de Paris,68,60-6
+68bis Boulevard des États-Unis,68bis,60-5
+69 Rue de Paris,69,60-6
+7 Boulevard Gambetta,7,60-6
+7 Square Marcel Forestier,7,60-6
+70 Boulevard des États-Unis,70,60-5
+71 Boulevard des États-Unis,71,60-6
+71 Rue Saint-Joseph,71,60-5
+71 Rue de Paris,71,60-6
+71bis Rue de Paris,71bis,60-6
+72 Boulevard des États-Unis,72,60-5
+72 Rue Saint-Joseph,72,60-5
+73 Boulevard des États-Unis,73,60-6
+73 Rue Saint-Joseph,73,60-5
+73 Rue de Paris,73,60-6
+73bis Rue de Paris,73bis,60-6
+75 Boulevard des États-Unis,75,60-6
+75 Rue Saint-Joseph,75,60-5
+75bis Boulevard des États-Unis,75bis,60-6
+76 Rue Saint-Joseph,76,60-5
+76 Rue de Paris,76,60-6
+77 Boulevard des États-Unis,77,60-6
+77 Rue Saint-Joseph,77,60-5
+77 Rue de Paris,77,60-6
+78 Boulevard des États-Unis,78,60-5
+78 Rue Saint-Joseph,78,60-5
+78 Rue de Paris,78,60-6
+79 Boulevard des États-Unis,79,60-6
+79 Rue Saint-Joseph,79,60-5
+79 Rue de Paris,79,60-6
+8 Rue Albert Robida,8,60-5|60-6
+8 Rue Saint-Joseph,8,60-6
+8 Rue de Paris,8,60-6
+8 Square Marcel Forestier,8,60-5|60-6
+80 Rue Saint-Joseph,80,60-5
+80bis Rue Saint-Joseph,80bis,60-5
+81 Boulevard des États-Unis,81,60-6
+81 Rue Saint-Joseph,81,60-5
+82 Boulevard des États-Unis,82,60-5
+82 Rue de Paris,82,60-6
+82bis Rue de Paris,82bis,60-6
+82ter Rue de Paris,82ter,60-6
+83 Rue de Paris,83,60-6
+84 Boulevard des États-Unis,84,60-5
+84 Rue Saint-Joseph,84,60-5
+84bis Rue Saint-Joseph,84bis,60-5
+85 Rue Saint-Joseph,85,60-5
+85 Rue de Paris,85,60-6
+86 Boulevard des États-Unis,86,60-5
+86 Rue Saint-Joseph,86,60-5
+86 Rue de Paris,86,60-6
+86 quater Boulevard des États-Unis,86 quater,60-5
+86bis Boulevard des États-Unis,86bis,60-5
+86bis Rue de Paris,86bis,60-6
+86ter Boulevard des États-Unis,86ter,60-5
+87 Boulevard des États-Unis,87,60-6
+87 Rue Saint-Joseph,87,60-5
+87 Rue de Paris,87,60-6
+87bis Boulevard des États-Unis,87bis,60-6
+88 Boulevard des États-Unis,88,60-5
+89 Boulevard des États-Unis,89,60-6
+89 Rue de Paris,89,60-6
+9 Boulevard Gambetta,9,60-6
+9 Rue Saint-Joseph,9,60-6
+9 Square Marcel Forestier,9,60-5|60-6
+90 Rue Saint-Joseph,90,60-5
+91 Boulevard des États-Unis,91,60-6
+91 Rue Saint-Joseph,91,60-5
+91 Rue de Paris,91,60-6
+92 Boulevard des États-Unis,92,60-5
+92bis Rue de Paris,92bis,60-5
+93 Boulevard des États-Unis,93,60-6
+93 Rue Saint-Joseph,93,60-5
+94 Boulevard des États-Unis,94,60-5
+94 Rue de Paris,94,60-5
+95 Boulevard des États-Unis,95,60-6
+95 Rue Saint-Joseph,95,60-5
+95 Rue de Paris,95,60-6
+95bis Rue de Paris,95bis,60-6
+96 Boulevard des États-Unis,96,60-5
+96 Rue Saint-Joseph,96,60-5
+96 Rue de Paris,96,60-5
+97 Boulevard des États-Unis,97,60-6
+97 Rue de Paris,97,60-6
+98 Boulevard des États-Unis,98,60-5
+99 Boulevard des États-Unis,99,60-6
+99 Rue Saint-Joseph,99,60-5
+99 Rue de Paris,99,60-5
+9bis Boulevard Gambetta,9bis,60-6
+Allée Pierre Coquerel,,60-5
+Allée de Diane,,60-5
+Allée de Marteville,,60-5
+Allée de l'Aurore,,60-5
+Allée de la Tilloye,,60-5
+Allée des Avenues,,60-6
+Allée des Hamadryades,,60-5
+Allée des Naiades,,60-5
+Allée des Nymphes,,60-5
+Allée du Carmel,,60-6
+Allée du Clos Pompadour,,60-6
+Avenue Alphonse Chovet,,60-6
+Avenue Marcelin Berthelot,,60-5
+Avenue Napoléon,,60-6
+Avenue Pierre et Marie Curie,,60-5
+Avenue Royale,,60-6
+Avenue Thiers,,60-6
+Avenue de Bury Saint-Edmunds,,60-5
+Avenue de Flandres Dunkerque,,60-5
+Avenue de Grande-Bretagne,,60-6
+Avenue de Huy,,60-5
+Avenue de Landshut,,60-5
+Avenue de Quennevières,,60-5
+Avenue de Royallieu,,60-5
+Avenue de Verdun,,60-5
+Avenue de l'Armistice,,60-6
+Avenue de l'Europe,,60-5
+Avenue de la Division Leclerc,,60-6
+Avenue de la Faisanderie,,60-5
+Avenue de la Forêt,,60-6
+Avenue de la Libération,,60-5
+Avenue de la Marne,,60-5
+Avenue de la Résistance,,60-6
+Avenue de la Somme,,60-5
+Avenue des Martyrs de la Liberté,,60-5
+Avenue des Peupliers,,60-5
+Avenue du 1er Septembre,,60-6
+Avenue du Camp de Royallieu,,60-5
+Avenue du Chemin de Fer,,60-6
+Avenue du Général Weygand,,60-5
+Avenue du Maréchal Foch,,60-5
+Avenue du Maréchal Joffre,,60-5
+Avenue du Maréchal Juin,,60-5
+Avenue du Maréchal de Lattre de Tassigny,,60-5
+Avenue du Président Georges Clémenceau,,60-6
+Avenue du Vermandois,,60-6
+Boulevard Victor Hugo,,60-6
+Chemin Sainte-Catherine,,60-5
+Chemin de Mercières,,60-5
+Chemin de Saint-Corneille,,60-6
+Cour des Cavaliers,,60-6
+Cours Guynemer,,60-6
+Impasse Dupuis Correard,,60-6
+Impasse Hersan,,60-6
+Impasse Jeannetot,,60-6
+Impasse Laly,,60-6
+Impasse Laville,,60-6
+Impasse Pasteur,,60-6
+Impasse d'Alger,,60-6
+Impasse de Choisy,,60-6
+Impasse de Clamart,,60-6
+Impasse de l'Épée,,60-6
+Impasse de la Justice,,60-6
+Impasse de la Ménardière,,60-6
+Impasse des Fossés,,60-6
+L'Ortille,,60-6
+Passage Anatole France,,60-5
+Passage de la Croix Blanche,,60-6
+Passage du Marché aux Herbes,,60-6
+Place Carnot,,60-6
+Place Jean-Baptiste Carpeaux,,60-5
+Place Philippe Grisel,,60-6
+Place Saint-Antoine,,60-6
+Place Saint-Clément,,60-6
+Place Saint-Jacques,,60-6
+Place d'Armes,,60-6
+Place de Choiseul,,60-6
+Place de l'Ancien Hôpital,,60-6
+Place de l'Hôtel de Ville,,60-6
+Place de l'Écharde,,60-6
+Place de la Croix Blanche,,60-6
+Place de la Gare,,60-6
+Place de la Porte Chapelle,,60-6
+Place du 14 Juillet,,60-6
+Place du 54ème Régiment d'Infanterie,,60-6
+Place du Change,,60-6
+Place du Général De Gaulle,,60-6
+Place du Marché aux Herbes,,60-6
+Quai de Venette,,60-6
+Quai de la République,,60-6
+Quai du Clos des Roses,,60-5
+Route de Choisy,,60-6
+Route du Moulin,,60-6
+Rue Alexandre Dumas,,60-5
+Rue Alfred de Vigny,,60-5
+Rue Ampère,,60-5
+Rue Amédée Bouquerel,,60-6
+Rue Ancel,,60-6
+Rue André Astoux,,60-5
+Rue André Baduel,,60-5
+Rue André Malraux,,60-5
+Rue André Poirmeur,,60-5
+Rue Anna de Noailles,,60-5
+Rue Arthur Rimbaud,,60-5
+Rue Aubrelicque,,60-6
+Rue Auguste Boyenval,,60-6
+Rue Auguste Martel,,60-6
+Rue Augustin Thierry,,60-6
+Rue Baudrimont,,60-6
+Rue Béranger,,60-6
+Rue Carnot,,60-6
+Rue Charles Demonchy,,60-5
+Rue Charles Faroux,,60-5
+Rue Charles Gand,,60-5
+Rue Charles le Chauve,,60-6
+Rue Charmolue,,60-6
+Rue Cheneval,,60-6
+Rue Clément Bayard,,60-5
+Rue Dame Segaude,,60-6
+Rue Denis Papin,,60-5
+Rue Edmond Rostand,,60-5
+Rue Eugène Floquet,,60-6
+Rue Eugène Jacquet,,60-6
+Rue Eugénie Louis,,60-5
+Rue Evette,,60-5
+Rue Ferdinand Bac,,60-6
+Rue Fleurie,,60-5
+Rue Fournier Sarlovèze,,60-6
+Rue Fournier-Sarlovèze,,60-6
+Rue François Claux,,60-6
+Rue Gabriel,,60-5
+Rue Gabriel Fauré,,60-5
+Rue Geneviève Anthonioz / de Gaulle,,60-5
+Rue Georges Bernanos,,60-6
+Rue Georges Bizet,,60-5
+Rue Georges Charpak,,60-5
+Rue Georges Forest,,60-5
+Rue Georges Gouigoux,,60-6
+Rue Guillaume Apollinaire,,60-5
+Rue Henri de Séroux,,60-6
+Rue Hersan,,60-6
+Rue Hippolyte Bottier,,60-6
+Rue Hubert Mesnil,,60-5
+Rue Hurtebise,,60-6
+Rue Jacques Amyot,,60-6
+Rue James de Rothschild,,60-6
+Rue Jean Antoine Léré,,60-6
+Rue Jean Brachard,,60-5
+Rue Jean Legendre,,60-6
+Rue Jean Lhuillier,,60-5
+Rue Jean-Jacques Bernard,,60-5
+Rue Jeanne d'Arc,,60-6
+Rue Joseph Leprince,,60-6
+Rue Jules Dulac,,60-6
+Rue Jules Méline,,60-5
+Rue Lavoisier,,60-5
+Rue Louis Leborgne,,60-5
+Rue Magenta,,60-6
+Rue Marcel Proust,,60-5
+Rue Maurice Barres,,60-6
+Rue Maurice Ravel,,60-5
+Rue Napoléon,,60-6
+Rue Niepce,,60-5
+Rue Notre-Dame de Bon Secours,,60-6
+Rue Notre-Dame-de-Bon-Secours,,60-6
+Rue Othenin,,60-6
+Rue Parmentier,,60-6
+Rue Pasteur,,60-6
+Rue Personne de Roberval,,60-5
+Rue Philippe Auguste,,60-6
+Rue Philéas Lebesgue,,60-5
+Rue Pierre Crin,,60-6
+Rue Pierre Grange,,60-5
+Rue Pierre Loti,,60-5
+Rue Pierre Sauvage,,60-6
+Rue Pierre d'Ailly,,60-6
+Rue Pillet Will,,60-5
+Rue René Firmin,,60-5
+Rue Rhin et Danube,,60-5
+Rue Robert Desnos,,60-5
+Rue Robert Toustou,,60-5
+Rue Roger Couttolenc,,60-6
+Rue Ronsard,,60-5
+Rue Rouget de Lisle,,60-5
+Rue Royale,,60-6
+Rue Saint-Antoine,,60-6
+Rue Saint-Corneille,,60-6
+Rue Saint-Fiacre,,60-5
+Rue Saint-Germain,,60-5
+Rue Saint-Lazare,,60-6
+Rue Saint-Louis,,60-6
+Rue Saint-Martin,,60-6
+Rue Saint-Nicolas,,60-6
+Rue Saint-Simon,,60-6
+Rue Saint-Vincent de Paul,,60-5
+Rue Sainte-Euphrosine,,60-5
+Rue Sainte-Marie,,60-6
+Rue Soeur Thérèse Massin,,60-6
+Rue Solférino,,60-6
+Rue Stendhal,,60-5
+Rue Vermenton,,60-6
+Rue Victor Schoelcher,,60-5
+Rue Vivenel,,60-6
+Rue Winston Churchill,,60-5
+Rue d'Alsace,,60-6
+Rue d'Amiens,,60-6
+Rue d'Arona,,60-5
+Rue d'Austerlitz,,60-6
+Rue d'Humières,,60-6
+Rue d'Ulm,,60-6
+Rue de Bourgogne,,60-5
+Rue de Bournonville,,60-6
+Rue de Bouvines,,60-6
+Rue de Bretagne,,60-5
+Rue de Cayrol,,60-6
+Rue de Champagne,,60-5
+Rue de Clamart,,60-6
+Rue de Clermont,,60-6
+Rue de Gramont,,60-6
+Rue de Harlay,,60-6
+Rue de Lancry,,60-6
+Rue de Lorraine,,60-6
+Rue de Metz,,60-6
+Rue de Normandie,,60-5
+Rue de Noyon,,60-6
+Rue de Picardie,,60-5
+Rue de Pierrefonds,,60-6
+Rue de Provence,,60-5
+Rue de Senlis,,60-5
+Rue de Soissons,,60-6
+Rue de Stalingrad,,60-5
+Rue de Strasbourg,,60-6
+Rue de Vianden,,60-6
+Rue de l'Abbaye,,60-6
+Rue de l'Aigle,,60-6
+Rue de l'Ailette,,60-5
+Rue de l'Aisne,,60-6
+Rue de l'Amiral Wemyss,,60-5
+Rue de l'Anthémis,,60-6
+Rue de l'Epargne,,60-5
+Rue de l'Estacade,,60-6
+Rue de l'Oise,,60-6
+Rue de l'Orangerie,,60-6
+Rue de l'Écu,,60-6
+Rue de l'Église Saint-Germain,,60-6
+Rue de l'Étoile,,60-6
+Rue de la 8ème Division,,60-6
+Rue de la Baguette,,60-6
+Rue de la Bannière du Roi,,60-6
+Rue de la Corne du Cerf,,60-6
+Rue de la Desserte,,60-6
+Rue de la Glacière,,60-5
+Rue de la Haute Borne,,60-6
+Rue de la Justice,,60-6
+Rue de la Madeleine,,60-6
+Rue de la Ménardière,,60-6
+Rue de la Palette,,60-6
+Rue de la Procession,,60-6
+Rue de la Sous-Préfecture,,60-6
+Rue de la Surveillance,,60-6
+Rue des Acres,,60-6
+Rue des Anciens Combattants d'Afrique du Nord,,60-5
+Rue des Anciens d'Afrique du Nord,,60-5
+Rue des Archers,,60-6
+Rue des Ateliers,,60-6
+Rue des Bonnetiers,,60-6
+Rue des Boucheries,,60-6
+Rue des Capucins,,60-6
+Rue des Clochettes,,60-6
+Rue des Cordeliers,,60-6
+Rue des Domeliers,,60-6
+Rue des Fossés,,60-6
+Rue des Frères Gréban,,60-6
+Rue des Frères Lumière,,60-5
+Rue des Gourneaux,,60-6
+Rue des Lombards,,60-6
+Rue des Minimes,,60-6
+Rue des Pommerelles,,60-6
+Rue des Pâtissiers,,60-6
+Rue des Pèlerins,,60-5
+Rue des Réservoirs,,60-6
+Rue des Sablons,,60-6
+Rue des Trois Barbeaux,,60-6
+Rue des Veneurs,,60-6
+Rue du 14 Juillet,,60-6
+Rue du 4 Janvier 1944,,60-5
+Rue du 67ème Régiment d'Infanterie,,60-5
+Rue du Bac,,60-6
+Rue du Bataillon de France,,60-6
+Rue du Bernago,,60-6
+Rue du Camp de Compiègne,,60-6
+Rue du Change,,60-6
+Rue du Chevreuil,,60-6
+Rue du Couvent,,60-5
+Rue du Croissant,,60-6
+Rue du Dahomey,,60-6
+Rue du Docteur Calmette,,60-5
+Rue du Docteur Charles Nicolle,,60-5
+Rue du Docteur Henri Woimant,,60-6
+Rue du Docteur Roux,,60-5
+Rue du Docteur Théry,,60-5
+Rue du Four,,60-6
+Rue du Grand Ferré,,60-6
+Rue du Général Debeney,,60-5
+Rue du Général Gouraud,,60-5
+Rue du Général Leclerc,,60-6
+Rue du Général Mangin,,60-5
+Rue du Général Pershing,,60-5
+Rue du Général Sarrail,,60-5
+Rue du Jeu de Paume,,60-6
+Rue du Lieutenant René Ducloux,,60-6
+Rue du Maréchal Douglas Haig,,60-5
+Rue du Maréchal Fayolle,,60-5
+Rue du Maréchal French,,60-5
+Rue du Maréchal Koenig,,60-5
+Rue du Maréchal Maunoury,,60-5
+Rue du Mont Ganelon,,60-6
+Rue du Moulin,,60-6
+Rue du Petit Château,,60-6
+Rue du Petit Margny,,60-6
+Rue du Plémont,,60-5
+Rue du Port à Bateaux,,60-6
+Rue du Président Lanusse,,60-6
+Rue du Président Sorel,,60-6
+Rue du Président Édouard Herriot,,60-5
+Rue du Puget,,60-5
+Rue du Valois,,60-5
+Rue du Vivier Corax,,60-5
+Rue le Féron,,60-6
+Rue Édouard Branly,,60-5
+Rue Édouard Dubloc,,60-6
+Sente d'Atalante,,60-5
+Sente des Dryades,,60-5
+Square Acary,,60-6
+Square Alphonse Chovet,,60-6
+Square Baudelaire,,60-5
+Square Bernard Palissy,,60-5
+Square Blaise Pascal,,60-5
+Square Bonnault,,60-5
+Square Chanel,,60-5
+Square Charles Barriquand,,60-5
+Square Charles Garnier,,60-5
+Square Charles Gounod,,60-5
+Square Charles Péguy,,60-5
+Square Chateaubriand,,60-5
+Square Claude Debussy,,60-5
+Square Claude Mercier,,60-6
+Square Claude Nicolas Ledoux,,60-5
+Square François Arago,,60-5
+Square Gabriel-Auguste Ancelet,,60-5
+Square Gustave Charpentier,,60-5
+Square Gérard de Nerval,,60-5
+Square Hector Berlioz,,60-5
+Square Honoré de Balzac,,60-5
+Square Jacques-Germain Soufflot,,60-5
+Square Jean Mermoz,,60-5
+Square Jean Moulin,,60-5
+Square Jean-Baptiste Clément,,60-5
+Square Jules Hardouin Mansart,,60-5
+Square Lafayette,,60-6
+Square Lamartine,,60-5
+Square Léon Barras,,60-6
+Square Marie-Louise Delaïdde,,60-5
+Square Maryse Bastié,,60-6
+Square Michel Mahieux,,60-6
+Square Norbert Lajous,,60-5
+Square Paul Claudel,,60-5
+Square Paul Verlaine,,60-5
+Square Philibert Delorme,,60-5
+Square Prosper Mérimée,,60-5
+Square René Binet,,60-5
+Square Robert Dubois,,60-6
+Square Rochambeau,,60-6
+Square Saint-Exupéry,,60-5
+Square Saint-Joseph,,60-5
+Square Viollet le Duc,,60-5
+Square Winston Churchill,,60-5
+Square de Mercières,,60-5
+Square de Quessy,,60-5
+Square de Senlis,,60-5
+Square de Valmy,,60-5
+Square de l'Aubépine,,60-5
+Square de l'Aérostation,,60-5
+Square de la Batellerie,,60-6
+Square de la Brasserie,,60-6
+Square de la Mare Gaudry,,60-5
+Square des Abbesses,,60-5
+Square des Acacias,,60-5
+Square des Frères Perret,,60-5
+Square des Tilleuls,,60-5
+Square du 6ème Spahis,,60-6
+Square du 8 Mai,,60-5
+Square du Colonel Driant,,60-5
+Square du Colonel Sutterlin,,60-5
+Square du Commandant Gabriel Fournaise,,60-5
+Square du Commandant Raynal,,60-5
+Square du Docteur Ferrand,,60-6
+Square du Général Guillaumat,,60-5
+Square du Général de Castelnau,,60-5
+Square du Lieutenant Colonel Boissaud,,60-5
+Square du Maréchal Franchet d'Espérey,,60-5
+Square du Maréchal Galliéni,,60-5
+Square du Maréchal Lyautey,,60-5
+Square du Président Kennedy,,60-5
+Square du Puy d'Orléans,,60-5
+Square du Puy du Roy,,60-5
+Square du Vivier Corax,,60-5
+Square le Corbusier,,60-5
+Square Émile Zola,,60-5

@@ -72,7 +72,7 @@ PA610654,absent,absent,absent,absent,absent,absent
 PA610968,for,for,for,for,absent,absent
 PA642695,absent,absent,absent,absent,absent,absent
 PA642725,absent,absent,absent,absent,absent,absent
-PA642734,absent,absent,absent,absent,absent,absent
+PA642734,,,,,,
 PA642764,absent,absent,absent,absent,absent,absent
 PA642847,against,against,absent,absent,absent,against
 PA642868,,,,,,
@@ -275,7 +275,7 @@ PA793452,absent,absent,absent,absent,absent,absent
 PA793464,absent,absent,for,absent,for,for
 PA793508,absent,absent,absent,absent,absent,absent
 PA793520,absent,absent,absent,absent,absent,absent
-PA793528,absent,absent,absent,absent,absent,absent
+PA793528,,,,,,
 PA793532,absent,absent,for,for,for,for
 PA793548,absent,absent,absent,absent,absent,absent
 PA793556,absent,absent,absent,absent,absent,absent
@@ -305,7 +305,7 @@ PA793872,absent,absent,absent,absent,absent,absent
 PA793892,absent,absent,absent,absent,absent,absent
 PA793904,,,,,,
 PA793912,absent,absent,absent,absent,absent,absent
-PA793924,absent,absent,absent,absent,absent,absent
+PA793924,,,,,,
 PA793928,absent,absent,absent,absent,absent,absent
 PA793940,,,,,,
 PA793944,absent,absent,absent,absent,absent,absent
@@ -329,7 +329,7 @@ PA794146,absent,absent,absent,absent,absent,absent
 PA794154,absent,absent,absent,absent,absent,absent
 PA794166,absent,absent,absent,absent,absent,absent
 PA794178,absent,absent,absent,absent,absent,absent
-PA794182,absent,absent,absent,absent,absent,absent
+PA794182,,,,,,
 PA794198,absent,absent,absent,absent,absent,absent
 PA794206,absent,absent,absent,absent,absent,absent
 PA794234,absent,absent,absent,absent,absent,absent
@@ -382,7 +382,7 @@ PA794870,for,for,for,for,for,for
 PA794886,absent,absent,absent,absent,absent,absent
 PA794894,against,absent,against,against,against,against
 PA794906,for,for,absent,absent,absent,for
-PA794910,absent,absent,absent,absent,absent,absent
+PA794910,,,,,,
 PA794938,absent,absent,absent,absent,absent,absent
 PA794946,absent,absent,absent,absent,absent,absent
 PA794954,absent,absent,absent,absent,absent,absent
@@ -492,7 +492,7 @@ PA840143,absent,absent,absent,absent,absent,absent
 PA840159,absent,absent,absent,absent,absent,absent
 PA840171,,,,,,
 PA840175,absent,absent,absent,absent,absent,absent
-PA840195,absent,absent,absent,absent,absent,absent
+PA840195,,,,,,
 PA840235,absent,absent,absent,absent,absent,absent
 PA840657,absent,absent,absent,absent,against,absent
 PA840665,absent,absent,absent,absent,absent,absent
@@ -513,7 +513,7 @@ PA840809,absent,absent,absent,absent,absent,absent
 PA840817,absent,absent,absent,absent,absent,absent
 PA840829,absent,absent,absent,absent,absent,for
 PA840837,absent,absent,absent,absent,absent,absent
-PA840849,absent,absent,absent,absent,absent,absent
+PA840849,,,,,,
 PA840857,absent,absent,absent,absent,absent,absent
 PA840869,absent,absent,absent,absent,absent,absent
 PA840889,against,absent,against,absent,against,absent
@@ -533,11 +533,11 @@ PA841047,against,against,absent,absent,against,absent
 PA841059,against,against,absent,absent,against,absent
 PA841067,against,absent,absent,absent,absent,absent
 PA841075,absent,absent,absent,absent,absent,absent
-PA841079,absent,absent,absent,absent,absent,absent
+PA841079,,,,,,
 PA841091,for,absent,for,for,for,absent
 PA841107,absent,for,for,for,for,for
 PA841131,absent,absent,absent,absent,absent,absent
-PA841135,absent,absent,absent,absent,absent,absent
+PA841135,,,,,,
 PA841139,absent,absent,absent,absent,absent,absent
 PA841151,absent,absent,absent,absent,absent,absent
 PA841167,,,,,,
@@ -590,7 +590,7 @@ PA841665,absent,absent,absent,absent,absent,absent
 PA841681,for,absent,for,for,for,absent
 PA841693,,,,,,
 PA841701,for,for,for,for,for,for
-PA841709,absent,absent,absent,absent,absent,absent
+PA841709,,,,,,
 PA841713,absent,absent,absent,absent,absent,absent
 PA841717,absent,absent,absent,absent,absent,for
 PA841729,absent,absent,absent,absent,absent,absent

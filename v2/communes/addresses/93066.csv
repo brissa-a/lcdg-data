@@ -1,0 +1,814 @@
+address,number,constituencies
+1 Impasse Picou,1,93-2
+1 Rue du Parc,1,93-2
+10 Impasse Picou,10,93-2
+10 Rue Pasteur,10,93-2
+10 Rue de Tunis,10,93-1
+10 Rue du Chevalier de la Barre,10,93-1
+10 Rue du Parc,10,93-2
+11 Impasse Picou,11,93-2
+11 Rue Pasteur,11,93-2
+11 Rue Paul Lafargue,11,93-2
+11 Rue du Chevalier de la Barre,11,93-2
+12 Impasse Picou,12,93-2
+12 Rue du Chevalier de la Barre,12,93-2
+12 Rue du Parc,12,93-2
+13 Impasse Picou,13,93-2
+13 Rue Pasteur,13,93-2
+13 Rue Paul Lafargue,13,93-2
+13 Rue du Chevalier de la Barre,13,93-2
+14 Rue Francis de Pressensé,14,93-1
+14 Rue de Tunis,14,93-1
+14 Rue du Parc,14,93-2
+14bis Rue du Parc,14bis,93-2
+14ter Rue du Parc,14ter,93-2
+15 Impasse Picou,15,93-2
+15 Rue Pasteur,15,93-2
+15 Rue du Chevalier de la Barre,15,93-2
+15 Rue du Parc,15,93-2
+16 Impasse Picou,16,93-2
+16 Rue de Tunis,16,93-1
+16 Rue du Chevalier de la Barre,16,93-2
+16 Rue du Parc,16,93-2
+163 Boulevard Anatole France,163,93-1
+165 Boulevard Anatole France,165,93-1
+167 Boulevard Anatole France,167,93-1
+169 Boulevard Anatole France,169,93-1
+17 Impasse Picou,17,93-2
+17 Rue Paul Lafargue,17,93-2
+17 Rue du Chevalier de la Barre,17,93-2
+178 Boulevard Anatole France,178,93-1
+178bis Boulevard Anatole France,178bis,93-1
+178ter Boulevard Anatole France,178ter,93-1
+18 Impasse Picou,18,93-2
+18 Rue Francis de Pressensé,18,93-1
+18 Rue de Tunis,18,93-1
+18 Rue du Parc,18,93-2
+180 Boulevard Anatole France,180,93-1
+180bis Boulevard Anatole France,180bis,93-1
+182 Boulevard Anatole France,182,93-1
+182bis Boulevard Anatole France,182bis,93-1
+184 Boulevard Anatole France,184,93-1
+184bis Boulevard Anatole France,184bis,93-1
+185 Boulevard Anatole France,185,93-1
+186 Boulevard Anatole France,186,93-1
+188 Boulevard Anatole France,188,93-1
+19 Impasse Picou,19,93-2
+19 Rue Pasteur,19,93-2
+19 Rue Paul Lafargue,19,93-2
+19 Rue du Chevalier de la Barre,19,93-2
+19 Rue du Parc,19,93-2
+190 Boulevard Anatole France,190,93-1
+192 Boulevard Anatole France,192,93-1
+194 Boulevard Anatole France,194,93-1
+196 Boulevard Anatole France,196,93-1
+2 Impasse Picou,2,93-2
+2 Rue Olympe de Gouges,2,93-1|93-2
+2 Rue Pasteur,2,93-2
+2 Rue du Parc,2,93-1|93-2
+20 Impasse Picou,20,93-2
+20 Rue de Tunis,20,93-1
+20 Rue du Parc,20,93-2
+200 Boulevard Anatole France,200,93-1
+202 Boulevard Anatole France,202,93-1
+21 Impasse Picou,21,93-2
+21 Rue Paul Lafargue,21,93-2
+21 Rue du Chevalier de la Barre,21,93-2
+21 Rue du Parc,21,93-2
+210 Boulevard Anatole France,210,93-1
+214 Boulevard Anatole France,214,93-1
+22 Rue Pasteur,22,93-2
+22 Rue Paul Lafargue,22,93-2
+22 Rue du Chevalier de la Barre,22,93-2
+22 Rue du Parc,22,93-2
+223 Boulevard Anatole France,223,93-1
+226 Boulevard Anatole France,226,93-1
+226bis Boulevard Anatole France,226bis,93-1
+23 Impasse Picou,23,93-2
+23 Rue Paul Lafargue,23,93-2
+23 Rue du Chevalier de la Barre,23,93-2
+230 Boulevard Anatole France,230,93-1
+236 Boulevard Anatole France,236,93-1
+238 Boulevard Anatole France,238,93-1
+24 Rue Pasteur,24,93-2
+24 Rue du Chevalier de la Barre,24,93-2
+24 Rue du Parc,24,93-2
+240 Boulevard Anatole France,240,93-1
+242 Boulevard Anatole France,242,93-1
+25 Impasse Picou,25,93-2
+25 Rue Paul Lafargue,25,93-2
+250 Boulevard Anatole France,250,93-1
+252 Boulevard Anatole France,252,93-1
+26 Impasse Picou,26,93-2
+26 Rue Pasteur,26,93-2
+26 Rue de Tunis,26,93-1
+27 Boulevard Anatole France,27,93-1
+27 Impasse Picou,27,93-2
+28 Rue de Tunis,28,93-1
+28 Rue du Parc,28,93-2
+29 Boulevard Anatole France,29,93-1
+29 Rue Paul Lafargue,29,93-2
+2bis Rue du Chevalier de la Barre,2bis,93-2
+3 Impasse Picou,3,93-2
+3 Rue Pasteur,3,93-2
+3 Rue du Chevalier de la Barre,3,93-2
+3 Rue du Parc,3,93-2
+30 Rue de Tunis,30,93-1
+30 Rue du Parc,30,93-2
+31 Boulevard Anatole France,31,93-1
+31 Rue Paul Lafargue,31,93-2
+32 Rue de Tunis,32,93-1
+33 Rue Paul Lafargue,33,93-2
+34 Rue de Tunis,34,93-1
+36 Rue Paul Lafargue,36,93-2
+37 Rue Paul Lafargue,37,93-2
+38 Rue Paul Lafargue,38,93-2
+38 Rue de Tunis,38,93-1
+39 Rue Paul Lafargue,39,93-2
+4 Impasse Picou,4,93-2
+4 Rue Olympe de Gouges,4,93-1
+4 Rue Pasteur,4,93-2
+4 Rue Paul Lafargue,4,93-2
+4 Rue de Tunis,4,93-1
+4 Rue du Chevalier de la Barre,4,93-1
+4 Rue du Parc,4,93-2
+41 Rue Paul Lafargue,41,93-2
+46 Rue Francis de Pressensé,46,93-2
+46 Rue Paul Lafargue,46,93-2
+4bis Rue du Parc,4bis,93-2
+5 Rue Paul Lafargue,5,93-1
+5 Rue du Chevalier de la Barre,5,93-2
+5 Rue du Parc,5,93-2
+5 Écluse de la Briche,5,93-2
+50 Rue Paul Lafargue,50,93-2
+52 Rue Francis de Pressensé,52,93-2
+52 Rue Paul Lafargue,52,93-2
+52bis Rue Paul Lafargue,52bis,93-2
+54 Rue Paul Lafargue,54,93-2
+6 Boulevard Anatole France,6,93-2
+6 Rue Francis de Pressensé,6,93-1
+6 Rue de Tunis,6,93-1
+6 Écluse de la Briche,6,93-1
+68 Rue Francis de Pressensé,68,93-2
+7 Impasse Picou,7,93-1|93-2
+7 Rue Pasteur,7,93-2
+7 Rue du Chevalier de la Barre,7,93-2
+7 Rue du Parc,7,93-2
+7 Écluse de la Briche,7,93-1
+8 Rue de Tunis,8,93-1
+8 Rue du Chevalier de la Barre,8,93-1
+80 Rue Francis de Pressensé,80,93-2
+82 Rue Francis de Pressensé,82,93-2
+84 Rue Francis de Pressensé,84,93-2
+9 Impasse Picou,9,93-1
+9 Rue Pasteur,9,93-2
+9 Rue du Chevalier de la Barre,9,93-2
+9 Rue du Parc,9,93-2
+Allee Boris Vian,,93-2
+Allee Cecile Brunschvicg,,93-2
+Allee Ermenonville,,93-2
+Allee Ernesto Che Guevara,,93-2
+Allee Guernica,,93-2
+Allee Jean Renoir,,93-2
+Allee Jean Vilar,,93-2
+Allee Jeanne Alexandre,,93-2
+Allee Maryse Conde,,93-2
+Allee de Kalendia,,93-2
+Allee de Rudersdorf,,93-2
+Allee de la Sellerie,,93-2
+Allee de l’Isle Adam,,93-2
+Allee des Marronniers,,93-2
+Allee des Saules,,93-2
+Allee du Moulin de la Trinite,,93-2
+Allée Antoine de Saint-exupery,,93-2
+Allée Camelinat,,93-2
+Allée Françoise Dolto,,93-2
+Allée Gutenberg,,93-2
+Allée Jean Catelas,,93-2
+Allée José Marti,,93-2
+Allée Koussané,,93-2
+Allée Léonard de Vinci,,93-2
+Allée Miguel Angel Asturias,,93-2
+Allée Parmentier,,93-2
+Allée Poètes,,93-2
+Allée René Char,,93-2
+Allée Stéphane Mallarme,,93-2
+Allée Tristan Tzara,,93-2
+Allée de Braintree,,93-2
+Allée de Noailles,,93-2
+Allée de Seine,,93-1
+Allée de l'Europe,,93-2
+Allée de l'Ile de France,,93-2
+Allée de la Paix,,93-2
+Allée des Acacias,,93-2
+Allée des Myosotis,,93-2
+Allée des Platanes,,93-2
+Allée du Professeur Frühling,,93-2
+Av I et Frederic Joliot Curie,,93-2
+Avenue Amilcar Cabral,,93-1
+Avenue Elisée Reclus,,93-2
+Avenue Emile Zola,,93-2
+Avenue Emilie,,93-2
+Avenue Gabriel Péri,,93-2
+Avenue George Sand,,93-1
+Avenue Guiard,,93-2
+Avenue Henri Rol-tanguy,,93-1
+Avenue Jacques Prévert,,93-2
+Avenue Jean Moulin,,93-2
+Avenue Jeanne d’Arc,,93-2
+Avenue Laënnec,,93-2
+Avenue Leroy des Barres,,93-2
+Avenue Lénine,,93-2
+Avenue Marcel Cachin,,93-2
+Avenue Molière,,93-2
+Avenue Paul Vaillant-couturier,,93-2
+Avenue Pierre Brossolette,,93-2
+Avenue Roger Sémat,,93-2
+Avenue Romain Rolland,,93-2
+Avenue Sacco et Vanzetti,,93-2
+Avenue Saint Rémy,,93-2
+Avenue Victor Hugo,,93-2
+Avenue de Stalingrad,,93-2
+Avenue de Verdun,,93-2
+Avenue de l'Hirondelle,,93-2
+Avenue de la Concorde,,93-2
+Avenue de la Métallurgie,,93-1
+Avenue de la République,,93-2
+Avenue des Ecoles,,93-2
+Avenue des Fruitiers,,93-1
+Avenue des Vignes Blanches,,93-2
+Avenue du Colonel Fabien,,93-2
+Avenue du Docteur Lamaze,,93-2
+Avenue du Franc Moisin,,93-2
+Avenue du Général Galliéni,,93-2
+Avenue du Maréchal Foch,,93-2
+Avenue du Président Wilson,,93-1
+Boulevard Carnot,,93-2
+Boulevard Charles de Gaulle,,93-2
+Boulevard Finot,,93-1
+Boulevard Félix Faure,,93-2
+Boulevard Jean Mermoz,,93-2
+Boulevard Jules Guesde,,93-2
+Boulevard Marcel Sembat,,93-2
+Boulevard Ornano,,93-1
+Boulevard Pasteur,,93-2
+Boulevard de la Commune de Paris,,93-2
+Boulevard de la Libération,,93-1
+Chemin Abel Tissot,,93-1
+Chemin Latéral,,93-2
+Chemin de Crévecoeur,,93-2
+Chemin de Marville,,93-2
+Chemin de Saint Leger,,93-2
+Chemin des Bas Prés,,93-2
+Chemin des Fourches,,93-2
+Chemin des Joncherolles,,93-2
+Chemin des Petits Cailloux,,93-1
+Chemin des Poulies,,93-2
+Chemin du Cornillon,,93-1
+Chemin du Croult,,93-2
+Chemin du Fort de la Briche,,93-2
+Chemin du Moulin Basset,,93-2
+Cite Gabriel Peri,,93-2
+Cite Marcel Cachin,,93-2
+Cite President Salvador Allende,,93-2
+Cite Saint Remy Sud,,93-2
+Cite de Chantilly,,93-2
+Cite de Stalingrad,,93-2
+Cite de la Courtille,,93-2
+Cite de la Metairie,,93-2
+Cite des Francs Moisins,,93-2
+Cité Guynemer,,93-2
+Cité Jacques Duclos,,93-2
+Cité Montjoie,,93-1
+Cité Pablo Picasso,,93-2
+Cité de la Saussaie,,93-2
+Cours du Ru de Montfort,,93-2
+Domaine Montjoie,,93-2
+Esplanade de la Rosace,,93-2
+Impasse Auguste Blanqui,,93-2
+Impasse Branly,,93-2
+Impasse Camelinat,,93-2
+Impasse Cauchin,,93-2
+Impasse Chanut,,93-2
+Impasse Charles Beaugrand,,93-2
+Impasse Chaudron,,93-1
+Impasse Chevalier,,93-1
+Impasse Dalis,,93-2
+Impasse Delamarre,,93-2
+Impasse Delescluze,,93-2
+Impasse Duval,,93-1
+Impasse Edouard Vaillant,,93-2
+Impasse Faron,,93-1
+Impasse Franklin,,93-2
+Impasse Gabriel,,93-2
+Impasse Gabriel Tuleu,,93-2
+Impasse Havy,,93-2
+Impasse Jules Daunay,,93-1
+Impasse Laudet,,93-2
+Impasse Lormet,,93-2
+Impasse Louis,,93-1
+Impasse Marteau,,93-1
+Impasse Mathieu Gillet,,93-2
+Impasse Michel,,93-1|93-2
+Impasse Potier,,93-2
+Impasse Riboulet,,93-2
+Impasse Saint Clement,,93-2
+Impasse Saint Jean,,93-2
+Impasse Talma,,93-2
+Impasse Thiers,,93-2
+Impasse Trézel,,93-1
+Impasse de Chateaudun,,93-2
+Impasse de Metz,,93-2
+Impasse de la Ferme,,93-2
+Impasse de la Folie Briais,,93-2
+Impasse des Boucheries,,93-2
+Impasse des Fortes Terres,,93-2
+Impasse du Moulin,,93-2
+Impasse du Parc,,93-2
+Impasse du Quartier Neuf,,93-2
+Jardin Fatima Bedar,,93-2
+Mail Ada Lovelace,,93-1
+Mail Jean Zay,,93-1
+Mail des Maraichers,,93-1
+Parc de la Metairie,,93-2
+Passage Beauséjour,,93-2
+Passage Boise,,93-1
+Passage Bréchon,,93-1
+Passage Compoint,,93-2
+Passage Crabouillet,,93-2
+Passage Dupont,,93-1
+Passage Fructidor,,93-2
+Passage Gallieni,,93-2
+Passage Georges Picot,,93-2
+Passage Germinal,,93-2
+Passage Gillet,,93-2
+Passage Haguette,,93-2
+Passage Henri Boucher,,93-2
+Passage Jules Siegfried,,93-2
+Passage Lacroix,,93-2
+Passage Maurice,,93-2
+Passage Mercher,,93-2
+Passage Meunier,,93-2
+Passage Michel,,93-1
+Passage Pierre Abelard,,93-2
+Passage Saint Michel du Degre,,93-2
+Passage Saint-Michel du Degré,,93-2
+Passage de Jouy,,93-2
+Passage de l'Ancienne Tannerie,,93-2
+Passage de l'Aqueduc,,93-2
+Passage de la Colombe,,93-2
+Passage des Ecoles,,93-2
+Passage des Etoffes,,93-2
+Passage des Gauguières,,93-1
+Passage du Canal,,93-2
+Passage du Moulin Brise Echalas,,93-2
+Passage du Moulin Choisel,,93-2
+Pierre Degeyter,,93-2
+Place Andreï Sakharov,,93-2
+Place Antoine de Lavoisier,,93-2
+Place Barbara,,93-2
+Place Benito Sacristan,,93-1
+Place Edouard Branly,,93-2
+Place Gaston Dourdin,,93-2
+Place Jacques Brel,,93-2
+Place Jean Jaures,,93-2
+Place Jean Jaurès,,93-2
+Place Jean Poulmarch,,93-1
+Place Jean d’Alembert,,93-2
+Place Jules Verne,,93-2
+Place Julian Grimau,,93-2
+Place Lautréamont,,93-2
+Place Lucien Sampaix,,93-2
+Place Messidor,,93-2
+Place Paul Eluard,,93-2
+Place Paul Langevin,,93-2
+Place Pierre Semard,,93-2
+Place Pleyel,,93-1
+Place René Guilbault,,93-2
+Place Robert Desnos,,93-2
+Place Stéphane Mallarme,,93-2
+Place Victor Hugo,,93-2
+Place Youri Gagarine,,93-2
+Place aux Grumes,,93-1
+Place de l'Ermitage,,93-2
+Place de la Halle,,93-2
+Place de la Resistance,,93-2
+Place des Pianos,,93-1
+Place des Sports,,93-2
+Place du 8 Mai 1945,,93-2
+Place du Bel Air,,93-2
+Place du Caquet,,93-2
+Place du Groupe Manouchian,,93-2
+Place du Square Pierre de Geyter,,93-2
+Promenade de la Basilique,,93-2
+Quai de Seine,,93-1
+Quai du Port,,93-2
+Quai du Square,,93-2
+Residence Georges Politzer,,93-2
+Residence Saint Leger,,93-2
+Residence la Tournelle Saint-Louis,,93-2
+Route de la Courneuve,,93-2
+Rue Adeline,,93-2
+Rue Albert Einstein,,93-2
+Rue Albert Francon,,93-2
+Rue Albert Walter,,93-2
+Rue Albert Walter Prolongee,,93-2
+Rue Alcide d'Orbigny,,93-2
+Rue Alexis Léonov,,93-2
+Rue Alice Milliat,,93-1
+Rue Ambroise Croizat,,93-1
+Rue Ampère,,93-1
+Rue Anatole France,,93-2
+Rue Annie Fratellini,,93-1
+Rue Armand Brette,,93-2
+Rue Arthur Fontaine,,93-2
+Rue Arthur Rimbaud,,93-2
+Rue Aubert,,93-2
+Rue Audenet,,93-2
+Rue Auguste Blanqui,,93-2
+Rue Auguste Delaune,,93-2
+Rue Auguste Gillot,,93-2
+Rue Auguste Poullain,,93-2
+Rue Augustine Maréchal,,93-2
+Rue Babeuf,,93-2
+Rue Barnold,,93-2
+Rue Baudet,,93-2
+Rue Beausejour,,93-2
+Rue Berthelot,,93-2
+Rue Bobby Sands,,93-2
+Rue Bonnevide,,93-2
+Rue Briais,,93-2
+Rue Brise Echalas,,93-2
+Rue Brise Échalas,,93-2
+Rue Brohan,,93-2
+Rue Calon,,93-1
+Rue Camille Simonet,,93-2
+Rue Camélinat,,93-2
+Rue Catulienne,,93-2
+Rue Caubert de Cléry,,93-2
+Rue Cayeux,,93-2
+Rue Charles Baudelaire,,93-2
+Rue Charles Cros,,93-2
+Rue Charles Michels,,93-1
+Rue Charles Perrin,,93-2
+Rue Chopin,,93-2
+Rue Claude Nougaro,,93-2
+Rue Clovis Hugues,,93-2
+Rue Coignet,,93-1
+Rue Corneille,,93-2
+Rue Corot,,93-2
+Rue Courte,,93-2
+Rue Cristino Garcia,,93-1
+Rue Danielle Casanova,,93-2
+Rue David Siqueiros,,93-2
+Rue Delescluze,,93-2
+Rue Denfert Rochereau,,93-2
+Rue Denis Papin,,93-2
+Rue Desire le Lay,,93-2
+Rue Dezobry,,93-2
+Rue Diderot,,93-2
+Rue Dohis,,93-2
+Rue Désiré Tuleu,,93-2
+Rue Edith Piaf,,93-2
+Rue Edouard Maze,,93-1
+Rue Edouard Vaillant,,93-2
+Rue Edouard White,,93-2
+Rue Elsa Triolet,,93-2
+Rue Emile,,93-2
+Rue Emile Chretien,,93-2
+Rue Emile Connoy,,93-2
+Rue Emile Zola,,93-2
+Rue Ernest Fabre,,93-2
+Rue Ernest Renan,,93-2
+Rue Etienne Dolet,,93-2
+Rue Etienne Michard,,93-2
+Rue Eugene Fourniere,,93-2
+Rue Eugene Hénaff,,93-2
+Rue Eugène Pottier,,93-2
+Rue Federico Fellini,,93-1
+Rue Ferdinand Gambon,,93-2
+Rue Fernand Grenier,,93-1
+Rue Fernand Leger,,93-2
+Rue Fernand Pelloutier,,93-2
+Rue Ferrer,,93-2
+Rue Flora Tristan,,93-1
+Rue Fontaine,,93-2
+Rue Fraizier,,93-1
+Rue Franciade,,93-2
+Rue Francisco Asensi,,93-1
+Rue Francisque Sarcey,,93-2
+Rue Francois Gillet,,93-2
+Rue Franklin,,93-2
+Rue François Mitterrand,,93-2
+Rue Frederic Joliot Curie,,93-2
+Rue Frédéric Lemaître,,93-2
+Rue Gabriel,,93-2
+Rue Gabriel Péri,,93-2
+Rue Gaston Dourdin,,93-2
+Rue Gaston Monmousseau,,93-2
+Rue Gaston Philippe,,93-2
+Rue Gaëtan Bruyère,,93-2
+Rue Georges Bizet,,93-2
+Rue Georges Braque,,93-2
+Rue Georges Politzer,,93-2
+Rue Gerard Philipe,,93-2
+Rue Germain Nouveau,,93-2
+Rue Gibault,,93-2
+Rue Gilles Margaritis,,93-1
+Rue Gisquet,,93-2
+Rue Granados,,93-2
+Rue Guillaume Apollinaire,,93-2
+Rue Gustave Eiffel,,93-1
+Rue Guy Moquet,,93-2
+Rue Guynemer,,93-2
+Rue Guéroux,,93-2
+Rue Génin,,93-2
+Rue Gérard de Nerval,,93-2
+Rue Haguette,,93-2
+Rue Havy,,93-2
+Rue Haydn,,93-2
+Rue Henri Barbusse,,93-2
+Rue Henri Delaunay,,93-1
+Rue Henri Matisse,,93-2
+Rue Henri Murger Prolongee,,93-1
+Rue Jacques,,93-2
+Rue Jacques Brel,,93-2
+Rue Jacques Duclos,,93-2
+Rue Jacques Petit,,93-2
+Rue Jacques Prévert,,93-2
+Rue Jacques Vaché,,93-2
+Rue Jacques Woog,,93-2
+Rue James Watt,,93-1
+Rue Jamin,,93-1
+Rue Jean Baptiste Clement,,93-2
+Rue Jean Jacques Rousseau,,93-2
+Rue Jean Jaures,,93-2
+Rue Jean Lurçat,,93-2
+Rue Jean Macé,,93-2
+Rue Jean Marcenac,,93-2
+Rue Jean Mermoz,,93-2
+Rue Jean Pierre Timbaud,,93-2
+Rue Jean-baptiste Clément,,93-2
+Rue Jeanne d'Arc,,93-2
+Rue Jesse Owens,,93-1
+Rue Jeumont,,93-1
+Rue Jules Chatenay,,93-2
+Rue Jules Génovési,,93-1
+Rue Jules Joffrin,,93-2
+Rue Jules Vallès,,93-2
+Rue Jules Védrines,,93-2
+Rue Kateb Yacine,,93-2
+Rue Langlier Renaud,,93-1
+Rue Lanne,,93-2
+Rue Legras,,93-1
+Rue Lesne,,93-2
+Rue Lorget,,93-2
+Rue Lormier,,93-2
+Rue Loubet,,93-2
+Rue Louis,,93-2
+Rue Louis Collerais,,93-2
+Rue Louis Feuillade,,93-2
+Rue Louis Jouvet,,93-2
+Rue Louis Lariviére,,93-2
+Rue Louis Marchand,,93-1
+Rue Lounès Matoub,,93-2
+Rue Léo Ferré,,93-2
+Rue Léon Carémé,,93-2
+Rue Léon Nozal,,93-1
+Rue M Claude Vaillant Couturier,,93-2
+Rue Marcel Croxo,,93-2
+Rue Marguerite,,93-2
+Rue Maria Leonor Rubiano,,93-1
+Rue Marie Dubois,,93-2
+Rue Martin Deleuze,,93-1
+Rue Massenet,,93-2
+Rue Maurice,,93-2
+Rue Maurice Audin,,93-2
+Rue Maurice Bokanowski,,93-2
+Rue Maurice David,,93-2
+Rue Maurice Thorez,,93-2
+Rue Max Jacob,,93-2
+Rue Menand,,93-2
+Rue Michael Faraday,,93-1
+Rue Micheline Ostermeyer,,93-1
+Rue Miriam Makeba,,93-2
+Rue Mohamed Dib,,93-2
+Rue Moreau,,93-2
+Rue Morel d'Arleux,,93-2
+Rue Mumia Abu-jamal,,93-1
+Rue Nay,,93-2
+Rue Nicolas Leblanc,,93-2
+Rue Nungesser et Coli,,93-2
+Rue Orange,,93-2
+Rue Pablo Picasso,,93-2
+Rue Parmentier,,93-2
+Rue Paul Cezanne,,93-2
+Rue Paul Eluard,,93-2
+Rue Paul Gauguin,,93-2
+Rue Paul Strauss,,93-2
+Rue Paul Verlaine,,93-2
+Rue Pierre,,93-2
+Rue Pierre Brossolette,,93-2
+Rue Pierre Curie,,93-2
+Rue Pierre Dupont,,93-2
+Rue Pierre Giffard,,93-2
+Rue Pinel,,93-2
+Rue Pleyel,,93-1
+Rue Prairial,,93-2
+Rue Pralet Lefèvre,,93-1
+Rue Proudhon,,93-1
+Rue Quinsonnas,,93-2
+Rue Rachel,,93-2
+Rue Raspail,,93-2
+Rue Reboussin,,93-2
+Rue René Char,,93-2
+Rue Riant,,93-2
+Rue Ribot,,93-2
+Rue Robert Coatanroch,,93-2
+Rue Robert Desnos,,93-2
+Rue Roland Vachette,,93-2
+Rue Rosa Parks,,93-2
+Rue Roussel,,93-2
+Rue Saint Clément,,93-2
+Rue Saint-just,,93-1
+Rue Samson,,93-2
+Rue Simon,,93-2
+Rue Sisley,,93-2
+Rue Sorin,,93-1
+Rue Soulier du Brabant,,93-1
+Rue Suger,,93-2
+Rue Séverin Tuleu,,93-2
+Rue Séverine,,93-2
+Rue Taittinger,,93-2
+Rue Talma,,93-2
+Rue Toussaint Louverture,,93-2
+Rue Traverse,,93-2
+Rue Valentina Terechkova,,93-2
+Rue Vendemiaire,,93-2
+Rue Vincent Van Gogh,,93-2
+Rue Viollet le Duc,,93-2
+Rue Virgil Grissom,,93-2
+Rue Vladimir Komarov,,93-2
+Rue Volta,,93-1
+Rue Voltaire,,93-2
+Rue Yves Rousval,,93-2
+Rue d'Alembert,,93-2
+Rue d'Amiens,,93-2
+Rue d'Andilly,,93-2
+Rue d'Argenteuil,,93-2
+Rue d'Arnouville,,93-2
+Rue d'Aulnay,,93-2
+Rue d'Eaubonne,,93-2
+Rue d'Ecouen,,93-2
+Rue d'Enghien,,93-2
+Rue d'Ermont,,93-2
+Rue d'Ezanville,,93-2
+Rue de Berne,,93-2
+Rue de Bonneuil,,93-2
+Rue de Boulogne,,93-2
+Rue de Chantilly,,93-2
+Rue de Choisy,,93-2
+Rue de Compiègne,,93-2
+Rue de Dalmas,,93-2
+Rue de Deuil,,93-2
+Rue de Falla,,93-2
+Rue de Gessé,,93-2
+Rue de Livry,,93-2
+Rue de Lorraine,,93-2
+Rue de Meriel,,93-2
+Rue de Montmagny,,93-2
+Rue de Montmorency,,93-2
+Rue de Neuilly,,93-2
+Rue de Paris,,93-2
+Rue de Sevran,,93-2
+Rue de Strasbourg,,93-2
+Rue de Suresnes,,93-2
+Rue de Toul,,93-2
+Rue de Verdun,,93-2
+Rue de Villiers,,93-2
+Rue de l'Amiral Caillard,,93-2
+Rue de l'Emaillerie,,93-2
+Rue de l'Encyclopédie,,93-1
+Rue de l'Imprimerie,,93-1
+Rue de l'Industrie,,93-1
+Rue de l'Octroi,,93-1
+Rue de l'Olympisme,,93-1
+Rue de la Barbacane,,93-2
+Rue de la Boulangerie,,93-2
+Rue de la Briche,,93-2
+Rue de la Butte Pinson,,93-2
+Rue de la Charronnerie,,93-2
+Rue de la Confluence,,93-1
+Rue de la Ferme,,93-2
+Rue de la Fortification,,93-2
+Rue de la Garenne,,93-2
+Rue de la Legion d'Honneur,,93-2
+Rue de la Liberté,,93-2
+Rue de la Metairie,,93-2
+Rue de la Montjoie,,93-1
+Rue de la Prairie,,93-2
+Rue de la République,,93-2
+Rue de la Saussaie,,93-2
+Rue de la Tannerie Darpentigny,,93-2
+Rue de la Vieille Mer,,93-2
+Rue des Aulnes,,93-2
+Rue des Blancs Chandins,,93-2
+Rue des Bleuets,,93-2
+Rue des Blés,,93-1
+Rue des Boucheries,,93-2
+Rue des Brigades Internationales,,93-1
+Rue des Carmelites,,93-2
+Rue des Cervoisiers,,93-1
+Rue des Chaumettes,,93-2
+Rue des Cheminots,,93-1
+Rue des Courses,,93-2
+Rue des Drapiers,,93-1
+Rue des Echalots,,93-2
+Rue des Fillettes,,93-1
+Rue des Fresnes,,93-2
+Rue des Liziards,,93-2
+Rue des Maraîchers,,93-1
+Rue des Marnaudes,,93-2
+Rue des Marronniers,,93-2
+Rue des Martyrs de Chateaubriant,,93-2
+Rue des Moulins Gemeaux,,93-2
+Rue des Muguets,,93-2
+Rue des Oeillets,,93-2
+Rue des Postillons,,93-2
+Rue des Renouilleres,,93-1
+Rue des Sablons,,93-2
+Rue des Tartres,,93-2
+Rue des Ursulines,,93-2
+Rue des Victimes du Franquisme,,93-2
+Rue du 19 Mars 1962,,93-2
+Rue du 4 Septembre,,93-2
+Rue du 8 Mai 1945,,93-2
+Rue du Bailly,,93-1
+Rue du Bec à Loué,,93-2
+Rue du Bourget,,93-2
+Rue du Canal,,93-2
+Rue du Capitaine Alfred Dreyfus,,93-1
+Rue du Chemin Vert,,93-2
+Rue du Chemin de Fer,,93-2
+Rue du Corbillon,,93-2
+Rue du Cygne,,93-2
+Rue du Docteur Delafontaine,,93-2
+Rue du Docteur Finot,,93-1
+Rue du Docteur Ménard,,93-2
+Rue du Docteur Poiré,,93-1
+Rue du Fort de la Briche,,93-2
+Rue du Four Becard,,93-2
+Rue du Gaz,,93-1
+Rue du Général Joinville,,93-2
+Rue du Général Moulin,,93-2
+Rue du Jambon,,93-2
+Rue du Landy,,93-1
+Rue du Languedoc,,93-2
+Rue du Maréchal Lyautey,,93-2
+Rue du Mondial 1998,,93-1
+Rue du Nord,,93-2
+Rue du Parchemin,,93-1
+Rue du Plouich,,93-2
+Rue du Pont Godet,,93-2
+Rue du Port,,93-1
+Rue du Progrès,,93-2
+Rue du Rouillon,,93-2
+Rue du Sergent Bobillot,,93-2
+Rue du Théâtre,,93-2
+Rue du Tournoi des 5 Nations,,93-1
+Rue la Revolution des Oeillets,,93-2
+Sen Limites Bois Richebourg,,93-2
+Sente Verte,,93-2
+Sente des Echalots,,93-2
+Sente du Fort,,93-2
+Sentier Joseph Baum,,93-2
+Sentier de la Planchette,,93-2
+Sentier des Cailloux,,93-2
+Sentier des Charpies,,93-2
+Sentier des Moutonnes,,93-2
+Sentier des Rosaires,,93-2
+Sentier des Sablons,,93-2
+Sentier du Bois de Richebourg,,93-2
+Sentier du Chemin Neuf,,93-2
+Sentier du Clos,,93-2
+Sentier du Faite des Abbayes,,93-2
+Square de la Muande,,93-2
+Square des Marialles,,93-2
+Villa Anatole France,,93-1
+Villa Danré,,93-2
+Villa Diderot,,93-2
+Villa Franklin,,93-2
+Villa Gabriel,,93-2
+Villa Gloriette,,93-2
+Villa Hochard,,93-2
+Villa Monjardin,,93-2
+Villa Thierry,,93-2
+Villa des Joncherolles,,93-2
+Villa des Palmiers,,93-2
+Villa des Tilleuls,,93-2
+Villa du Bel-air,,93-2
+Villa du Belvédère,,93-2
+Villa du Nord,,93-2
+Villa du Sud,,93-2
+avenue julie potier,,93-2
+rue marie-louise taos amrouche,,93-2

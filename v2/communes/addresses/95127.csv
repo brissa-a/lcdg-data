@@ -1,0 +1,564 @@
+address,number,constituencies
+1 Avenue des Grouettes,1,95-2
+1 Passage des Crayons,1,95-10
+1 Rue de Pontoise,1,95-2
+1 Rue de la Justice Brune,1,95-10
+1 Rue de la Justice Mauve,1,95-10
+10 Allée de Bellevue,10,95-2
+10 Passage des Crayons,10,95-10
+10 Rue de Pontoise,10,95-2
+10 Rue de la Justice Mauve,10,95-10
+11 Allée de Bellevue,11,95-10
+11 Avenue des Grouettes,11,95-2
+11 Passage des Crayons,11,95-10
+11 Rue de Pontoise,11,95-2
+11 Rue de la Justice Mauve,11,95-10
+12 Allée de Bellevue,12,95-2
+12 Passage des Crayons,12,95-10
+13 Avenue des Grouettes,13,95-2
+13 Passage des Crayons,13,95-10
+13 Rue de Pontoise,13,95-2
+14 Allée de Bellevue,14,95-2
+14 Passage des Crayons,14,95-10
+14 Rue de Pontoise,14,95-2
+15 Avenue des Grouettes,15,95-2
+15 Rue de Pontoise,15,95-2
+16 Allée de Bellevue,16,95-2
+16 Passage des Crayons,16,95-10
+16bis Allée de Bellevue,16bis,95-2
+17 Avenue des Grouettes,17,95-2
+17 Passage des Crayons,17,95-10
+17 Rue de Pontoise,17,95-2
+18 Allée de Bellevue,18,95-2
+18 Passage des Crayons,18,95-10
+18 Rue de Pontoise,18,95-2
+19 Avenue des Grouettes,19,95-2
+19 Passage des Crayons,19,95-10
+2 Allée de Bellevue,2,95-2
+2 Passage des Crayons,2,95-10
+2 Rue de la Justice Brune,2,95-10
+2 Rue de la Justice Mauve,2,95-10
+20 Passage des Crayons,20,95-10
+20 Rue de Pontoise,20,95-2
+21 Avenue des Grouettes,21,95-2
+21 Passage des Crayons,21,95-10
+21bis Rue de Pontoise,21bis,95-2
+22 Avenue des Grouettes,22,95-2
+22 Passage des Crayons,22,95-10
+22 Rue de Pontoise,22,95-2
+23 Avenue des Grouettes,23,95-2
+24 Avenue des Grouettes,24,95-2
+24 Rue de Pontoise,24,95-2
+25 Avenue des Grouettes,25,95-2
+25 Rue de Pontoise,25,95-2
+26 Avenue des Grouettes,26,95-2
+26 Rue de Pontoise,26,95-2
+27 Avenue des Grouettes,27,95-2
+27 Rue de Pontoise,27,95-2
+28 Rue de Pontoise,28,95-10
+29 Avenue des Grouettes,29,95-2
+29quater Rue de Pontoise,29quater,95-10
+3 Avenue des Grouettes,3,95-2
+3 Passage des Crayons,3,95-10
+3 Rue de Pontoise,3,95-2
+3 Rue de la Justice Brune,3,95-10
+3 Rue de la Justice Mauve,3,95-10
+30 Rue de Pontoise,30,95-10
+31 Avenue des Grouettes,31,95-2
+31 Rue de Pontoise,31,95-10
+31b Rue de Pontoise,31b,95-10
+33 Avenue des Grouettes,33,95-2
+33 Rue de Pontoise,33,95-10
+34 Rue de Pontoise,34,95-10
+35 Avenue des Grouettes,35,95-2
+36 Rue de Pontoise,36,95-10
+36bis Rue de Pontoise,36bis,95-10
+37 Avenue des Grouettes,37,95-2
+39 Avenue des Grouettes,39,95-2
+4 Allée de Bellevue,4,95-2
+4 Passage des Crayons,4,95-10
+4 Rue de la Justice Brune,4,95-2|95-10
+4 Rue de la Justice Mauve,4,95-10
+47 Rue de Pontoise,47,95-10
+4bis Rue de la Justice Mauve,4bis,95-10
+5 Allée de Bellevue,5,95-10
+5 Passage des Crayons,5,95-10
+5 Rue de Pontoise,5,95-2
+5 Rue de la Justice Brune,5,95-10
+5 Rue de la Justice Mauve,5,95-10
+50 Rue de Pontoise,50,95-10
+6 Allée de Bellevue,6,95-2
+6 Passage des Crayons,6,95-10
+6 Rue de la Justice Mauve,6,95-10
+7 Passage des Crayons,7,95-10
+7 Rue de la Justice Mauve,7,95-2
+7ter Rue de Pontoise,7ter,95-2
+8 Allée de Bellevue,8,95-2
+8 Passage des Crayons,8,95-10
+8 Rue de Pontoise,8,95-2
+9 Avenue des Grouettes,9,95-2
+9 Passage des Crayons,9,95-10
+9 Rue de Pontoise,9,95-2
+9 Rue de la Justice Mauve,9,95-10
+Allee Cantabile,,95-10
+Allee Floreal,,95-10
+Allee de Giverny,,95-10
+Allee de la Concorde,,95-10
+Allee de la Coquerelle,,95-10
+Allee de la Futaie,,95-10
+Allee de la Girandole,,95-10
+Allee de la Mouliniere,,95-10
+Allee de la Sabretache,,95-10
+Allee de la Sebille,,95-10
+Allee de l’Angelique,,95-10
+Allee de l’Isara,,95-2
+Allee des Acacias,,95-2
+Allee des Agapanthes,,95-10
+Allee des Charmes,,95-10
+Allee des Citronniers,,95-10
+Allee des Coteaux,,95-10
+Allee des Courtillieres,,95-10
+Allee des Fontenettes,,95-10
+Allee des Grouettes,,95-2
+Allee des Lozeres,,95-2
+Allee des Mandariniers,,95-10
+Allee des Marmousets,,95-10
+Allee des Meteores de Paille,,95-10
+Allee des Myrtilles,,95-10
+Allee des Nations,,95-10
+Allee des Noisetiers,,95-10
+Allee des Nympheas,,95-10
+Allee des Plantes,,95-2
+Allee des Platanes,,95-2
+Allee des Pourpres,,95-10
+Allee des Vanneaux,,95-10
+Allee du Belvedere,,95-10
+Allee du Brigantin,,95-2
+Allee du Tapis Vert,,95-10
+Allee du Trefle,,95-10
+Allee du Vif Argent,,95-10
+Allée des Courlis,,95-10
+Allée des Grands Champs,,95-10
+Allée des Matines,,95-10
+Allée des Météores de Paille,,95-10
+Allée des Oiseaux,,95-2
+Allée des Petits Pains,,95-10
+Allée des Voies,,95-2
+Allée du Champ Virot,,95-10
+Allée du Vaurois,,95-10
+Avenue Bernard Hirsch,,95-2
+Avenue Jean Bart,,95-2
+Avenue Mondetour,,95-10
+Avenue de l'Embellie,,95-10
+Avenue de la Belle Heaumiere,,95-10
+Avenue de la Constellation,,95-10
+Avenue de la Plaine des Sports,,95-10
+Avenue de la Poste,,95-2
+Avenue de l’Ados,,95-10
+Avenue de l’Enclos,,95-10
+Avenue de l’Orangerie,,95-10
+Avenue des 3 Epis,,95-10
+Avenue des 3 Fontaines,,95-2
+Avenue des Beguines,,95-10
+Avenue des Clos Billes,,95-10
+Avenue des Essarts,,95-10
+Avenue des Genottes,,95-10
+Avenue des Hérons,,95-10
+Avenue du Bois,,95-2
+Avenue du Bois Lapelote,,95-10
+Avenue du Bontemps,,95-10
+Avenue du Centaure,,95-10
+Avenue du Haut Pave,,95-10
+Avenue du Hazay,,95-10
+Avenue du Jour,,95-10
+Avenue du Martelet,,95-10
+Avenue du Nord,,95-10
+Avenue du Parc,,95-2
+Avenue du Ponceau,,95-10
+Avenue du Sud,,95-2
+Avenue du Terroir,,95-10
+Avenue du Tertre,,95-2
+Boulevard Merveilles,,95-10
+Boulevard d'Erkrath,,95-10
+Boulevard de l'Hautil,,95-2
+Boulevard de l'Oise,,95-10
+Boulevard de la Crete,,95-10
+Boulevard de la Paix,,95-10
+Boulevard de l’Evasion,,95-10
+Boulevard des Explorateurs,,95-10
+Boulevard du Golf,,95-10
+Boulevard du Port,,95-2
+Carrefour de l’Albatros,,95-10
+Chemin Dupuis Brun,,95-2
+Chemin Dupuis Vert,,95-2
+Chemin Lateral,,95-2
+Chemin Neuf,,95-2
+Chemin d'Osny,,95-10
+Chemin de Derriere les Clos,,95-2
+Chemin de Gency à Osny,,95-2
+Chemin de la Galaxie,,95-10
+Chemin de la Guepiere,,95-2
+Chemin de la Surprise,,95-10
+Chemin de la Voirie,,95-2
+Chemin de l’Arabesque,,95-10
+Chemin des 4 Saisons,,95-10
+Chemin des Bourgognes,,95-2
+Chemin des Eguerets,,95-2
+Chemin des Patis,,95-2
+Chemin des Pilets,,95-10
+Chemin des Pipeaux,,95-10
+Chemin des Poetes,,95-10
+Chemin des Tambours,,95-10
+Chemin des Touleuses,,95-2
+Chemin des Voies,,95-2
+Chemin du Bac de Gency,,95-2
+Chemin du Bord de l'Eau,,95-2
+Chemin du Montoir,,95-2
+Chemin du Port a Gilles,,95-2
+Chemin du Soleil,,95-10
+Clos de la Roseraie,,95-10
+Clos de l’Astree,,95-10
+Clos des Agathes,,95-10
+Clos des Avettes,,95-10
+Clos des Etourneaux,,95-10
+Clos des Pruniers,,95-10
+Clos des Sylthes,,95-10
+Clos du Chapitre,,95-10
+Cour Celeste,,95-10
+Cour de la Bastide,,95-10
+Cour de la Chamade,,95-10
+Cour de la Comete,,95-10
+Cour de la Duchesse,,95-10
+Cour de la Feuillee,,95-10
+Cour de l’Escale,,95-10
+Cour des Chapiteaux,,95-10
+Cour des Enchanteurs,,95-10
+Cour des Liserons,,95-10
+Cour des Mures,,95-10
+Cour des Reinettes,,95-10
+Cour du Gros Caillou,,95-10
+Cours des Frontons,,95-10
+Cours des Merveilles,,95-10
+Grand Place Place Gal de Gaulle,,95-2
+Grande Place Grand Place,,95-2
+Groupe Scolaire Chemin Dup,,95-2
+Groupe Scolaire Les Genottes,,95-10
+Groupe Scolaire de la Sebi,,95-10
+Groupe Scolaire de la Sebille,,95-10
+Groupe Scolaire des Chenes,,95-2
+Groupe Scolaire des Chênes,,95-10
+Groupe Scolaire des Linand,,95-10
+Groupe Scolaire la Justice,,95-10
+Impasse Etienne,,95-2
+Impasse Menandon,,95-2
+Impasse des Pressoirs,,95-2
+Impasse des Rougettes,,95-10
+Impasse des Terrasses,,95-10
+Impasse du Bocqueteau,,95-10
+Impasse du Bruloir,,95-2
+Impasse du Clos Bruloir,,95-2
+La Croix Saint Sylvere,,95-2
+Le Clos du Matin,,95-10
+Les Heuruelles Orange,,95-10
+Les Heuruelles Vertes,,95-10
+Les Linandes Mauves,,95-10
+Les Linandes Orange,,95-10
+Les Montalants Pourpres,,95-2
+Les Touleuses Pourpres,,95-2
+Les Touleuses Vertes,,95-2
+Mail des Cerclades,,95-2
+Parvis de la Prefecture,,95-2
+Passage Florentin,,95-10
+Passage Lucile,,95-10
+Passage Saint Clair,,95-2
+Passage de l'Aquarelle,,95-10
+Passage de la Fugue,,95-10
+Passage de la Guignette,,95-10
+Passage de la Marelle,,95-10
+Passage de la Marotte,,95-10
+Passage de la Musaraigne,,95-10
+Passage de la Pommeraie,,95-10
+Passage de la Porte Comprise,,95-10
+Passage de la Sarabande,,95-10
+Passage de la Sonate,,95-10
+Passage de la Symphonie,,95-10
+Passage de l’Adagio,,95-10
+Passage de l’Aurore,,95-10
+Passage de l’Ecritoire,,95-10
+Passage de l’Envol,,95-10
+Passage de l’Escapade,,95-10
+Passage des Altises,,95-10
+Passage des Artisans,,95-2
+Passage des Ballades,,95-10
+Passage des Ballerines,,95-10
+Passage des Cerisiers Roses,,95-10
+Passage des Espaliers,,95-10
+Passage des Framboises,,95-10
+Passage des Griottes,,95-10
+Passage des Lauzes,,95-10
+Passage des Murmures,,95-10
+Passage des Neiges d’Antan,,95-10
+Passage des Petits Champs,,95-2
+Passage des Pommiers Blancs,,95-10
+Passage du Bateau Ivre,,95-10
+Passage du Cerf Volant,,95-10
+Passage du Champ Devant,,95-10
+Passage du Concerto,,95-10
+Passage du Menuet,,95-10
+Passage du Petit-gris,,95-10
+Passage du Pinceau,,95-10
+Passage du Rondo,,95-10
+Passage d’Adrienne,,95-10
+Place Belle Helene,,95-10
+Place Olympe de Gouges,,95-10
+Place aux Dames,,95-2
+Place de Verdun,,95-2
+Place de la Conversation,,95-10
+Place de la Republique,,95-2
+Place de la Serpette,,95-10
+Place de l’Eglise,,95-2
+Place des 3 Gares,,95-10
+Place des Allees et Venues,,95-10
+Place des Arts,,95-2
+Place des Cerclades,,95-2
+Place des Colonnes Hubert Renaud,,95-10
+Place des Genottes,,95-10
+Place des Institutions,,95-10
+Place des Linandes,,95-10
+Place des Touleuses,,95-2
+Place des Trois Cedres,,95-10
+Place du Grand Hunier,,95-2
+Place du Haut Montoir,,95-10
+Place du Haut de Gency,,95-10
+Place du Marche,,95-10
+Place du Montoir,,95-10
+Place du Nautilus,,95-10
+Place du Ponceau,,95-10
+Place du Tertre,,95-10
+Place du Thyrse,,95-10
+Promenade des Irlandais,,95-10
+Quai de la Tourelle,,95-2
+Rond Point de l’Aube,,95-10
+Rue Bouvet de Lozier,,95-2
+Rue Chevée,,95-10
+Rue Francis Combe,,95-10
+Rue Francois Villon,,95-2
+Rue Haute du Ponceau,,95-10
+Rue Haute du Tertre,,95-10
+Rue Joliot Curie,,95-10
+Rue Lebon,,95-2
+Rue Michel Strogoff,,95-10
+Rue Nationale,,95-2
+Rue Passe Partout,,95-10
+Rue Phileas Fogg,,95-10
+Rue Pierre Scheringa,,95-2
+Rue Pierre Vogler,,95-2
+Rue Rhin et Danube,,95-2
+Rue Saint-martin,,95-2
+Rue Serpente,,95-10
+Rue Sully,,95-2
+Rue Traversiere,,95-2
+Rue Vieille de Gency,,95-2
+Rue de Courdimanche,,95-2
+Rue de Neuville,,95-2
+Rue de Puiseux,,95-2
+Rue de Vauréal,,95-2
+Rue de Villarceaux,,95-2
+Rue de l'Abondance,,95-10
+Rue de l'Aven,,95-10
+Rue de l'Espérance,,95-10
+Rue de l'Hélice,,95-10
+Rue de la Bastide,,95-10
+Rue de la Bergelade,,95-10
+Rue de la Boissellerie,,95-10
+Rue de la Chanterelle,,95-10
+Rue de la Croix Petit Verte,,95-2
+Rue de la Croix des Maheux,,95-2
+Rue de la Destinée,,95-10
+Rue de la Feculerie,,95-2
+Rue de la Ferme,,95-2
+Rue de la Gerboise,,95-10
+Rue de la Justice Orange,,95-10
+Rue de la Justice Pourpre,,95-10
+Rue de la Justice Turquoise,,95-10
+Rue de la Justice Verte,,95-10
+Rue de la Lanterne,,95-10
+Rue de la Licorne,,95-10
+Rue de la Lune Corail,,95-10
+Rue de la Moisson,,95-10
+Rue de la Parabole,,95-10
+Rue de la Pastorale,,95-10
+Rue de la Pierre Miclare,,95-2
+Rue de la Pierre Perdue,,95-10
+Rue de la Plaine,,95-2
+Rue de la Prairie,,95-2
+Rue de la Providence,,95-10
+Rue de la Romance,,95-10
+Rue de la Sardane,,95-10
+Rue de la Terminale,,95-10
+Rue de la Veillee,,95-10
+Rue de l’Abbaye,,95-2
+Rue de l’Abbe Bourcier,,95-2
+Rue de l’Aisselette,,95-10
+Rue de l’Amandier,,95-2
+Rue de l’Amiral,,95-2
+Rue de l’Aubepine,,95-10
+Rue de l’Eclipse,,95-10
+Rue de l’Eglantier,,95-10
+Rue de l’Embarquement,,95-10
+Rue de l’Esplanade de Paris,,95-10
+Rue des 2 Marchés,,95-10
+Rue des 3 Cedres,,95-10
+Rue des Abricotiers,,95-2
+Rue des Arpèges,,95-10
+Rue des Astres Beiges,,95-10
+Rue des Aubevoys,,95-10
+Rue des Bleuets,,95-2
+Rue des Bocages Bruns,,95-2
+Rue des Bocages Mauves,,95-2
+Rue des Bocages Pourpres,,95-2
+Rue des Bocages Verts,,95-2
+Rue des Bories,,95-10
+Rue des Bouviers,,95-10
+Rue des Brumes Lactees,,95-10
+Rue des Celettes,,95-2
+Rue des Cerisiers,,95-2
+Rue des Chataigniers,,95-10
+Rue des Chateaux Bruloir,,95-2
+Rue des Chateaux Saint-Sylvere,,95-2
+Rue des Chauffours,,95-2
+Rue des Chenes,,95-2
+Rue des Chenes Bruns,,95-2
+Rue des Chenes Emeraudes,,95-2
+Rue des Chenes Mauves,,95-2
+Rue des Chenes Pourpres,,95-2
+Rue des Chenes Verts,,95-2
+Rue des Cherchevets,,95-10
+Rue des Châteaux Saint-Sylvère,,95-2
+Rue des Clairieres Vertes,,95-2
+Rue des Clairières Brunes,,95-2
+Rue des Clairières Orange,,95-2
+Rue des Clairières Rouges,,95-2
+Rue des Coquelicots,,95-2
+Rue des Courtils,,95-10
+Rue des Entrechats,,95-10
+Rue des Etangs,,95-2
+Rue des Fournieres,,95-2
+Rue des Galeries,,95-2
+Rue des Galoubets,,95-10
+Rue des Gaucheres,,95-2
+Rue des Gemeaux,,95-10
+Rue des Genevriers,,95-10
+Rue des Harsans,,95-2
+Rue des Hauts Sentiers,,95-10
+Rue des Heulines,,95-2
+Rue des Heuruelles Beiges,,95-10
+Rue des Heuruelles Brunes,,95-10
+Rue des Heuruelles Pourpres,,95-10
+Rue des Huguenots,,95-2
+Rue des Italiens,,95-2
+Rue des Jonquilles,,95-2
+Rue des Lilas,,95-2
+Rue des Linandes Beiges,,95-10
+Rue des Linandes Mauves,,95-10
+Rue des Linandes Orange,,95-10
+Rue des Linandes Pourpres,,95-10
+Rue des Linandes Vertes,,95-10
+Rue des Macons de Lumiere,,95-10
+Rue des Merites,,95-10
+Rue des Montalants Pourpres,,95-2
+Rue des Mousserons,,95-10
+Rue des Paradis,,95-2
+Rue des Petits Prés,,95-2
+Rue des Plants Bruns,,95-2
+Rue des Plants Mauves,,95-2
+Rue des Plants Orange,,95-2
+Rue des Plants Pourpres,,95-2
+Rue des Plants Verts,,95-2
+Rue des Primeveres,,95-2
+Rue des Roulants,,95-10
+Rue des Touleuses Brunes,,95-2
+Rue des Touleuses Mauves,,95-2
+Rue des Tournesols,,95-10
+Rue des Trois Cédres,,95-10
+Rue des Tuileries,,95-2
+Rue des Vendanges Prochaines,,95-10
+Rue des Verseaux de Feu,,95-10
+Rue des Violettes,,95-2
+Rue des Voyageurs,,95-10
+Rue du Bruloir,,95-2
+Rue du Buisson Prunelle,,95-10
+Rue du Capitaine Nemo,,95-10
+Rue du Chemin de Fer,,95-10
+Rue du Cloitre,,95-10
+Rue du Clos Bruloir,,95-2
+Rue du Clos Couturier,,95-2
+Rue du Clos Geoffroy,,95-2
+Rue du Clos des Avettes,,95-10
+Rue du Clos des Etourneaux,,95-10
+Rue du Desert aux Nuages,,95-10
+Rue du Diablotin,,95-2
+Rue du Fond des Ponceaux,,95-2
+Rue du Futier,,95-10
+Rue du Gerfaut,,95-10
+Rue du Ginglet,,95-10
+Rue du Grand Foc,,95-2
+Rue du Haut Lieu,,95-10
+Rue du Haut Montoir,,95-10
+Rue du Lendemain,,95-10
+Rue du Marche Neuf,,95-2
+Rue du Montoir,,95-10
+Rue du Moutier,,95-2
+Rue du Pampre d’Or,,95-10
+Rue du Panorama,,95-10
+Rue du Pas Saint Christophe,,95-10
+Rue du Passeur d’Etoiles,,95-10
+Rue du Pays de France,,95-2
+Rue du Petit Albi,,95-10
+Rue du Petit Sol,,95-10
+Rue du Ponceau,,95-10
+Rue du Prieure,,95-2
+Rue du Puits,,95-2
+Rue du Repos,,95-2
+Rue du Stade Jean Roger Gault,,95-2
+Rue du Tertre,,95-2
+Rue du Verger,,95-2
+Rue la Perouse,,95-2
+Rue les Chenes d'Or,,95-2
+Ruelle Leveque,,95-2
+Ruelle de la Cite,,95-2
+Ruelle de la Feculerie,,95-2
+Ruelle de la Grande Cour,,95-2
+Ruelle des Clos,,95-2
+Ruelle des Sentiers,,95-2
+Sente Margot,,95-10
+Sente de la Rousselette,,95-2
+Sente des Roches,,95-2
+Sentier des Etessiaux,,95-2
+Square Columbia,,95-2
+Square de l'Echiquier,,95-10
+Square de la Belle Epine,,95-10
+Square de la Rouvraie,,95-10
+Square du Chevalier Gambette,,95-10
+Square du Closeau,,95-10
+Square du Diapason,,95-2
+Square du Midi,,95-10
+Square du Quadrille,,95-10
+Terrasse de la Pirouette,,95-10
+Traverse de la Cigale,,95-10
+Traverse de l’Imprevu,,95-10
+Venelle de Merrain,,95-10
+Venelle de la Douelle,,95-10
+Venelle des Cerceaux,,95-10
+Venelle des Echalas,,95-10
+Venelle des Ramures,,95-10
+Venelle du Cep,,95-10
+Venelle du Chais,,95-10
+Villa Passiflore,,95-10
+Villa Plaisance,,95-10
+Villa de l’Obier,,95-10
+Villa des Aubades,,95-10
+Villa des Elfes,,95-10
+passage de la terre à la lune,,95-10
+rue de la dame jeanne,,95-10
+rue des marjoberts,,95-2

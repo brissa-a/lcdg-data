@@ -1,0 +1,236 @@
+address,number,constituencies
+1 Rue Saint-Nicolas,1,49-3
+1 Rue de la Liberté,1,49-3
+1 Rue de la Martiniere,1,49-1
+1 Rue des Mimosas (Daumeray),1,49-1|49-3
+1 Rue du Château,1,49-3
+10 Allée du Port,10,49-3
+10 Place Charles de Gaulle,10,49-3
+10 Rue de la Martiniere,10,49-1
+10 Rue des Mimosas (Daumeray),10,49-3
+11 Place Charles de Gaulle,11,49-3
+11 Rue Saint-Nicolas,11,49-3
+11 Rue des Mimosas (Daumeray),11,49-1|49-3
+11 Rue du Château,11,49-3
+11bis Rue Saint-Nicolas,11bis,49-3
+12 Rue Saint-Nicolas,12,49-3
+12 Rue de la Martiniere,12,49-1
+13 Place Charles de Gaulle,13,49-3
+13 Rue des Mimosas (Daumeray),13,49-3
+14 Allée du Port,14,49-3
+14 Rue de la Martiniere,14,49-1
+15 Rue Saint-Nicolas,15,49-3
+15 Rue des Mimosas (Daumeray),15,49-3
+17 Rue des Mimosas (Daumeray),17,49-3
+19 Rue Saint-Nicolas,19,49-3
+2 Allée du Port,2,49-3
+2 Place Charles de Gaulle,2,49-3
+2 Rue Saint-Nicolas,2,49-3
+2 Rue de la Liberté,2,49-3
+2 Rue de la Martiniere,2,49-1
+2 Rue des Mimosas (Daumeray),2,49-1|49-3
+2 Rue des Vignes,2,49-1|49-3
+20 Rue Saint-Nicolas,20,49-3
+22 Rue Saint-Nicolas,22,49-3
+3 Rue Saint-Nicolas,3,49-3
+3 Rue des Mimosas (Daumeray),3,49-1|49-3
+3 Rue du Château,3,49-3
+4 Allée du Port,4,49-3
+4 Rue Saint-Nicolas,4,49-3
+4 Rue de la Liberté,4,49-3
+4 Rue de la Martiniere,4,49-1
+4 Rue des Mimosas (Daumeray),4,49-1|49-3
+4 Rue du Château,4,49-3
+5 Allée du Port,5,49-3
+5 Place Charles de Gaulle,5,49-3
+5 Rue de la Liberté,5,49-3
+5 Rue de la Martiniere,5,49-1
+5 Rue des Mimosas (Daumeray),5,49-1|49-3
+5 Rue du Château,5,49-3
+547 Route de la Rotière,547,49-3
+6 Allée du Port,6,49-3
+6 Place Charles de Gaulle,6,49-3
+6 Rue Saint-Nicolas,6,49-3
+6 Rue de la Liberté,6,49-3
+6 Rue de la Martiniere,6,49-1
+6 Rue des Mimosas (Daumeray),6,49-3
+7 Place Charles de Gaulle,7,49-3
+7 Rue de la Martiniere,7,49-1
+7 Rue des Mimosas (Daumeray),7,49-1|49-3
+7 Rue du Château,7,49-3
+8 Allée du Port,8,49-3
+8 Rue de la Martiniere,8,49-1
+8 Rue des Mimosas (Daumeray),8,49-3
+9 Rue Saint-Nicolas,9,49-3
+9 Rue des Mimosas (Daumeray),9,49-3
+Allée Pierre Subout,,49-3
+Allée de la Liberté,,49-3
+Allée de la Roche Jacquelin,,49-3
+Allée des Genêts,,49-3
+Allée des Sources,,49-3
+Allée du Domaine,,49-3
+Chemin de Fosse Hubert,,49-3
+Chemin de Givaux,,49-3
+Chemin de Réseurieux,,49-3
+Chemin de Vindrau,,49-3
+Chemin de la Baronnière,,49-3
+Chemin de la Bellonière,,49-3
+Chemin de la Bigaudière,,49-3
+Chemin de la Brosse du Bois,,49-3
+Chemin de la Chevrie,,49-3
+Chemin de la Crayère,,49-3
+Chemin de la Durelière,,49-3
+Chemin de la Fauvelière,,49-3
+Chemin de la Fontaine,,49-3
+Chemin de la Gauterie,,49-3
+Chemin de la Grande Huinière,,49-3
+Chemin de la Grande Métairie,,49-3
+Chemin de la Grange,,49-3
+Chemin de la Haute Folie,,49-3
+Chemin de la Ménotière,,49-3
+Chemin de la Patrie,,49-3
+Chemin de la Pelouse,,49-3
+Chemin de la Pescherie,,49-3
+Chemin de la Pingrière,,49-3
+Chemin de la Prée Neuve,,49-3
+Chemin de la Ronderie,,49-3
+Chemin de la Saulaie,,49-3
+Chemin de la Tesnière,,49-3
+Chemin de la Vieillère,,49-3
+Chemin de l’Assemblee,,49-3
+Chemin de l’Evennerie,,49-3
+Chemin de l’Homonerie,,49-3
+Chemin des Crosneries,,49-3
+Chemin des Mazeries,,49-3
+Chemin des Pâtis aux Chevaux,,49-3
+Chemin des Varennes,,49-3
+Chemin du Brossay,,49-3
+Chemin du Colombeau,,49-3
+Chemin du Moulin d’Alancé,,49-3
+Chemin du Petit Roissé,,49-3
+Chemin du Plessis Rodiveau,,49-3
+Chemin du Poirier Aubert,,49-3
+Chemin du Pont Davy,,49-3
+Chemin du Port de Gratz,,49-3
+Grande Rue,,49-3
+Hameau de la Bruère,,49-3
+Impasse de Montgoult,,49-3
+Impasse des Eglantines,,49-3
+Impasse des Ormeaux,,49-3
+Impasse des Peupliers,,49-3
+Impasse du Lavoir,,49-3
+La Grande Maison (Daumeray),,49-1|49-3
+Passage du Cheval Blanc,,49-3
+Place Beaumont,,49-3
+Place Saint Nicolas,,49-3
+Place de l’Eglise,,49-3
+Quai des Moulins,,49-3
+Rocade du Château,,49-3
+Route de Beauregard,,49-3
+Route de Chartres,,49-3
+Route de Cordé,,49-3
+Route de Daumeray,,49-3
+Route de Doucé,,49-3
+Route de Durtal,,49-3
+Route de Huille,,49-3
+Route de Juigné,,49-3
+Route de Juigné (Daumeray),,49-3
+Route de Juigné (Morannes),,49-3
+Route de Miré,,49-1
+Route de Morannes,,49-3
+Route de Notre Dame du Pé,,49-3
+Route de Piffaudon,,49-3
+Route de Tiercé,,49-3
+Route de la Bourgognerie,,49-3
+Route de la Cailletière,,49-3
+Route de la Cerclerie,,49-3
+Route de la Davière,,49-3
+Route de la Derouauderie,,49-3
+Route de la Géherie,,49-3
+Route de la Jarriais,,49-3
+Route de la Noë,,49-3
+Route de la Petite Chevalerie,,49-3
+Route de la Petite Morinière,,49-3
+Route de la Roche Jacquelin,,49-3
+Route de la Rousselière,,49-3
+Route de la Tabardière,,49-3
+Route de l’Effrière,,49-3
+Route de l’Ouche Maurice,,49-1|49-3
+Route des Croix Vertes,,49-3
+Route des Giraudières,,49-3
+Route des Harnaisières,,49-3
+Route des Jaltières,,49-3
+Route des Mirés,,49-3
+Route du Chênet,,49-3
+Route du Grand Mariet,,49-3
+Route du Moulin à Vent,,49-3
+Route du Petit Cormier,,49-3
+Route d’Angers (Morannes),,49-3
+Rue Charles de Gaulle,,49-3
+Rue Daniel Prevost,,49-3
+Rue Elie de Mieulle,,49-1
+Rue Emile Trouvé,,49-3
+Rue Guillaume Lemaire,,49-3
+Rue Henri Trouilleau,,49-3
+Rue Henry Arnault,,49-3
+Rue Jacques Brouard,,49-3
+Rue Jean de Blois,,49-3
+Rue Joseph Chenon,,49-3
+Rue Louise Renault,,49-3
+Rue Maimbourg,,49-3
+Rue Morice Rene,,49-3
+Rue Pierre Morain,,49-3
+Rue Rouget le Braconnier,,49-3
+Rue Saint Etienne,,49-3
+Rue Saint Martin,,49-1
+Rue Traversière,,49-3
+Rue de Bel-Air,,49-3
+Rue de Montgoult,,49-3
+Rue de la Boule d’Or,,49-3
+Rue de la Caillère,,49-3
+Rue de la Croix Verte,,49-3
+Rue de la Forge,,49-3
+Rue de la Fraternité,,49-3
+Rue de la Gare,,49-3
+Rue de la Poterie,,49-3
+Rue de la Pré,,49-1|49-3
+Rue de l’Arche,,49-1
+Rue de l’Eglise,,49-1
+Rue de l’Etang,,49-3
+Rue des Acacias,,49-3
+Rue des Angles,,49-3
+Rue des Ecoles,,49-1
+Rue des Eglantines,,49-3
+Rue des Grignons,,49-3
+Rue des Groseilliers,,49-1
+Rue des Marronniers,,49-3
+Rue des Moulins,,49-3
+Rue des Noyers,,49-3
+Rue des Ormeaux,,49-3
+Rue des Pannettes,,49-3
+Rue des Peupliers,,49-3
+Rue des Pruniers,,49-3
+Rue des Roseaux,,49-3
+Rue des Sablons,,49-3
+Rue des Saulais,,49-3
+Rue des Tilleuls,,49-3
+Rue des Varennes,,49-3
+Rue du Chanoine Baron,,49-3
+Rue du Clos des Vignes,,49-3
+Rue du Commerce,,49-3
+Rue du Cormier,,49-3
+Rue du Docteur Picard,,49-3
+Rue du Genetay,,49-3
+Rue du Haut Anjou,,49-1
+Rue du Maine,,49-3
+Rue du Pommier Vert,,49-3
+Rue du Pont,,49-3
+Rue du Port Saint Aubin,,49-3
+Rue du Puits Bienvenu,,49-3
+Rue du Puits Ménard,,49-3
+Rue du Relais de Poste,,49-3
+Rue du Verdoyant,,49-3
+Rue le Clos des Cosses,,49-3
+Square Mathieu Cointerel,,49-3
+impasse des Lilas,,49-1
+le Gué (Chemiré-sur-Sarthe),,49-1

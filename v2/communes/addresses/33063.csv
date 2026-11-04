@@ -1,0 +1,4571 @@
+address,number,constituencies
+1 Cours Marc Nouaux,1,33-2
+1 Cours de Tournon,1,33-1
+1 Passage Hermitte,1,33-2
+1 Place Gambetta,1,33-2
+1 Place Pey Berland,1,33-2
+1 Route de Toulouse,1,33-2
+1 Rue Corot,1,33-1
+1 Rue Elie Gintrac,1,33-3
+1 Rue Gramont,1,33-3
+1 Rue Jean de la Fontaine,1,33-1
+1 Rue Jean-Jacques Rousseau,1,33-1
+1 Rue Lucien Duffau,1,33-1
+1 Rue Luckner,1,33-1
+1 Rue Professeur Bergonie,1,33-3
+1 Rue Turenne,1,33-2
+1 Rue du Commandant Charcot,1,33-1
+1 Rue du Hamel,1,33-2
+1 Rue du Loup,1,33-1|33-2
+10 Avenue d'Ares,10,33-2
+10 Boulevard du Président Wilson,10,33-2
+10 Cours d'Albret,10,33-2
+10 Cours de Tournon,10,33-2
+10 Cours de la Somme,10,33-3
+10 Place Gambetta,10,33-2
+10 Place Pey Berland,10,33-2
+10 Place de la Victoire,10,33-3
+10 Rue Camille Saint-Saëns,10,33-1|33-2
+10 Rue Camille Sauvageau,10,33-2
+10 Rue Causserouge,10,33-2
+10 Rue Colbert,10,33-2
+10 Rue Corot,10,33-1|33-2
+10 Rue Docteur Albert Barraud,10,33-2
+10 Rue Fondaudege,10,33-2
+10 Rue Gramont,10,33-2|33-3
+10 Rue Huguerie,10,33-2
+10 Rue Jean de la Fontaine,10,33-1
+10 Rue Jean-Jacques Rousseau,10,33-1|33-2
+10 Rue Leyteire,10,33-2
+10 Rue Lucien Duffau,10,33-1
+10 Rue Luckner,10,33-1|33-2
+10 Rue Maréchal Joffre,10,33-1|33-2
+10 Rue Mazarin,10,33-2
+10 Rue Pierre Loti,10,33-3
+10 Rue Professeur Bergonie,10,33-3
+10 Rue Turenne,10,33-2
+10 Rue de Lacanau,10,33-2
+10 Rue de la Porte de la Monnaie,10,33-3
+10 Rue du Hamel,10,33-3
+10 Rue du Jardin Public,10,33-1
+10 Rue du Loup,10,33-2
+100 Cours d'Albret,100,33-2
+100 Cours de la Somme,100,33-3
+100 Rue Camille Sauvageau,100,33-3
+100 Rue Chevalier,100,33-2
+100 Rue Croix de Seguey,100,33-2
+100 Rue Leyteire,100,33-3
+100 Rue Manon Cormier,100,33-2
+100 Rue Mazarin,100,33-2
+100 Rue Turenne,100,33-2
+100 Rue du Jardin Public,100,33-1
+101 Boulevard du Président Wilson,101,33-1
+101 Cours de la Somme,101,33-2
+101 Rue Camille Sauvageau,101,33-3
+101 Rue Croix de Seguey,101,33-1
+101 Rue Docteur Albert Barraud,101,33-2
+101 Rue Kleber,101,33-1
+101 Rue Manon Cormier,101,33-2
+101 Rue Mazarin,101,33-2
+101 Rue Turenne,101,33-2
+101 Rue du Jardin Public,101,33-1
+101bis Rue Mazarin,101bis,33-2
+102 Cours de la Somme,102,33-3
+102 Rue Croix de Seguey,102,33-2
+102 Rue Docteur Albert Barraud,102,33-2
+102 Rue Leyteire,102,33-3
+102 Rue Manon Cormier,102,33-2
+103 Avenue d'Ares,103,33-1
+103 Boulevard du Président Wilson,103,33-1
+103 Cours d'Albret,103,33-2
+103 Cours de la Somme,103,33-2
+103 Rue Camille Sauvageau,103,33-3
+103 Rue Croix de Seguey,103,33-1
+103 Rue Docteur Albert Barraud,103,33-2
+103 Rue Fondaudege,103,33-1
+103 Rue Kleber,103,33-1
+103 Rue Manon Cormier,103,33-2
+103 Rue Turenne,103,33-2
+103 Rue de Lacanau,103,33-1
+103 Rue du Jardin Public,103,33-1
+104 Cours d'Albret,104,33-2
+104 Cours de la Somme,104,33-3
+104 Rue Croix de Seguey,104,33-2
+104 Rue Kleber,104,33-3
+104 Rue Leyteire,104,33-3
+104 Rue Manon Cormier,104,33-2
+104 Rue Turenne,104,33-2
+104 Rue de Kater,104,33-2
+105 Avenue d'Ares,105,33-1
+105 Cours d'Albret,105,33-2
+105 Cours de la Somme,105,33-2
+105 Rue Croix de Seguey,105,33-1
+105 Rue Fondaudege,105,33-1
+105 Rue Manon Cormier,105,33-2
+105 Rue Mazarin,105,33-2
+106 Cours d'Albret,106,33-2
+106 Cours de la Somme,106,33-3
+106 Rue Croix de Seguey,106,33-2
+106 Rue Kleber,106,33-3
+106 Rue Leyteire,106,33-3
+106 Rue Manon Cormier,106,33-2
+106 Rue Turenne,106,33-2
+106 Rue du Jardin Public,106,33-1
+107 Avenue d'Ares,107,33-1
+107 Cours d'Albret,107,33-2
+107 Cours de la Somme,107,33-2
+107 Rue Croix de Seguey,107,33-1
+107 Rue Fondaudege,107,33-1
+107 Rue Leyteire,107,33-3
+107 Rue Manon Cormier,107,33-2
+107 Rue Mazarin,107,33-2
+107 Rue du Jardin Public,107,33-1
+108 Boulevard du Président Wilson,108,33-2
+108 Cours de la Somme,108,33-3
+108 Rue Croix de Seguey,108,33-2
+108 Rue Docteur Albert Barraud,108,33-2
+108 Rue Fondaudege,108,33-2
+108 Rue Kleber,108,33-3
+108 Rue Manon Cormier,108,33-1|33-2
+108 Rue Mazarin,108,33-2
+108 Rue Turenne,108,33-2
+108 Rue du Jardin Public,108,33-1
+109 Avenue d'Ares,109,33-1
+109 Cours d'Albret,109,33-2
+109 Cours de la Somme,109,33-2
+109 Rue Camille Sauvageau,109,33-3
+109 Rue Croix de Seguey,109,33-1
+109 Rue Fondaudege,109,33-1
+109 Rue Leyteire,109,33-3
+109 Rue Manon Cormier,109,33-2
+109 Rue Mazarin,109,33-2
+109 Rue Turenne,109,33-2
+109bis Rue de Kater,109bis,33-2
+10b Boulevard du Président Wilson,10b,33-2
+10b Cours Marc Nouaux,10b,33-2
+11 Cours Marc Nouaux,11,33-2
+11 Cours de la Somme,11,33-2
+11 Cours du XXX Juillet,11,33-2
+11 Place Gambetta,11,33-2
+11 Place Pey Berland,11,33-2
+11 Place de la Victoire,11,33-3
+11 Place des Quinconces,11,33-1
+11 Rue Camille Saint-Saëns,11,33-1|33-2
+11 Rue Carpenteyre,11,33-2
+11 Rue Colbert,11,33-2
+11 Rue Croix de Seguey,11,33-1
+11 Rue Docteur Albert Barraud,11,33-2
+11 Rue Fondaudege,11,33-1
+11 Rue Gramont,11,33-3
+11 Rue Huguerie,11,33-2
+11 Rue Jean de la Fontaine,11,33-1
+11 Rue Jean-Jacques Rousseau,11,33-1|33-2
+11 Rue Leyteire,11,33-2
+11 Rue Lucien Duffau,11,33-1
+11 Rue Maréchal Joffre,11,33-1|33-2
+11 Rue Pierre Loti,11,33-1|33-3
+11 Rue Professeur Bergonie,11,33-3
+11 Rue Turenne,11,33-2
+11 Rue de Cheverus,11,33-2
+11 Rue de Lacanau,11,33-1|33-2
+11 Rue de l'Arsenal,11,33-1
+11 Rue de la Porte de la Monnaie,11,33-2
+11 Rue du Commandant Charcot,11,33-2
+11 Rue du Hamel,11,33-2
+11 Rue du Jardin Public,11,33-1
+11 Rue du Loup,11,33-1|33-2
+110 Boulevard du Président Wilson,110,33-2
+110 Cours de la Somme,110,33-3
+110 Rue Croix de Seguey,110,33-2
+110 Rue Docteur Albert Barraud,110,33-2
+110 Rue Kleber,110,33-3
+110 Rue Manon Cormier,110,33-2
+110 Rue Turenne,110,33-2
+110 Rue de Kater,110,33-2
+111 Avenue d'Ares,111,33-1
+111 Cours de la Somme,111,33-2
+111 Rue Camille Sauvageau,111,33-3
+111 Rue Croix de Seguey,111,33-1
+111 Rue Fondaudege,111,33-1
+111 Rue Leyteire,111,33-3
+111 Rue Manon Cormier,111,33-2
+111 Rue Mazarin,111,33-2
+111 Rue Turenne,111,33-2
+111 Rue de Kater,111,33-2
+111bis Cours d'Albret,111bis,33-2
+112 Boulevard du Président Wilson,112,33-2
+112 Rue Croix de Seguey,112,33-2
+112 Rue Docteur Albert Barraud,112,33-2
+112 Rue Fondaudege,112,33-2
+112 Rue Kleber,112,33-3
+112 Rue Manon Cormier,112,33-2
+112 Rue Turenne,112,33-2
+112 Rue de Kater,112,33-2
+113 Avenue d'Ares,113,33-1
+113 Cours de la Somme,113,33-2
+113 Rue Croix de Seguey,113,33-1
+113 Rue Kleber,113,33-3
+113 Rue Leyteire,113,33-3
+113 Rue Mazarin,113,33-2
+113 Rue Turenne,113,33-2
+114 Avenue d'Ares,114,33-2
+114 Boulevard du Président Wilson,114,33-2
+114 Cours de la Somme,114,33-3
+114 Rue Docteur Albert Barraud,114,33-2
+114 Rue Fondaudege,114,33-2
+114 Rue Manon Cormier,114,33-2
+114 Rue Mazarin,114,33-2
+114 Rue Turenne,114,33-2
+114 Rue de Kater,114,33-2
+114 Rue du Jardin Public,114,33-1
+115 Avenue d'Ares,115,33-1
+115 Cours d'Albret,115,33-2
+115 Cours de la Somme,115,33-2
+115 Rue Croix de Seguey,115,33-1
+115 Rue Docteur Albert Barraud,115,33-2
+115 Rue Fondaudege,115,33-1
+115 Rue Leyteire,115,33-3
+115 Rue Manon Cormier,115,33-2
+115 Rue Mazarin,115,33-2
+115 Rue Turenne,115,33-2
+115 Rue de Kater,115,33-2
+116 Cours de la Somme,116,33-3
+116 Rue Croix de Seguey,116,33-2
+116 Rue Docteur Albert Barraud,116,33-2
+116 Rue Turenne,116,33-2
+117 Avenue d'Ares,117,33-1
+117 Cours d'Albret,117,33-2
+117 Cours de la Somme,117,33-2
+117 Rue Fondaudege,117,33-1
+117 Rue Leyteire,117,33-3
+117 Rue Manon Cormier,117,33-2
+117 Rue Mazarin,117,33-2
+118 Cours de la Somme,118,33-3
+118 Rue Croix de Seguey,118,33-2
+118 Rue Docteur Albert Barraud,118,33-2
+118 Rue Fondaudege,118,33-2
+118 Rue Mazarin,118,33-2
+118 Rue Turenne,118,33-2
+118 Rue de Kater,118,33-2
+118 Rue du Jardin Public,118,33-1
+119 Boulevard du Président Wilson,119,33-1
+119 Cours d'Albret,119,33-1|33-2
+119 Rue Croix de Seguey,119,33-1
+119 Rue Docteur Albert Barraud,119,33-2
+119 Rue Fondaudege,119,33-1
+119 Rue Kleber,119,33-3
+119 Rue Mazarin,119,33-2
+11b Rue de Lacanau,11b,33-2
+12 Boulevard du Président Wilson,12,33-2
+12 Cours Marc Nouaux,12,33-2
+12 Cours d'Albret,12,33-2
+12 Cours de la Somme,12,33-3
+12 Place Gambetta,12,33-2
+12 Place Pey Berland,12,33-2
+12 Place des Quinconces,12,33-1
+12 Quai Louis XVIII,12,33-1
+12 Rue Camille Saint-Saëns,12,33-1|33-2
+12 Rue Camille Sauvageau,12,33-2
+12 Rue Carpenteyre,12,33-2
+12 Rue Colbert,12,33-2
+12 Rue Corot,12,33-1
+12 Rue Croix de Seguey,12,33-2
+12 Rue Docteur Albert Barraud,12,33-2
+12 Rue Fondaudege,12,33-2
+12 Rue Huguerie,12,33-2
+12 Rue Jean de la Fontaine,12,33-1
+12 Rue Kleber,12,33-1
+12 Rue Leyteire,12,33-2
+12 Rue Lucien Duffau,12,33-1
+12 Rue Manon Cormier,12,33-2
+12 Rue Maréchal Joffre,12,33-2
+12 Rue Mazarin,12,33-2
+12 Rue Professeur Bergonie,12,33-3
+12 Rue Turenne,12,33-2
+12 Rue de Lacanau,12,33-2
+12 Rue de l'Arsenal,12,33-1
+12 Rue de la Porte de la Monnaie,12,33-3
+12 Rue du Commandant Charcot,12,33-1|33-2
+12 Rue du Hamel,12,33-3
+12 Rue du Jardin Public,12,33-1
+12 Rue du Loup,12,33-2
+120 Cours de la Somme,120,33-3
+120 Rue Croix de Seguey,120,33-2
+120 Rue Docteur Albert Barraud,120,33-2
+120 Rue Kleber,120,33-3
+120 Rue Manon Cormier,120,33-2
+120 Rue de Kater,120,33-2
+120 Rue du Jardin Public,120,33-1
+121 Avenue d'Ares,121,33-1
+121 Cours d'Albret,121,33-2
+121 Cours de la Somme,121,33-2
+121 Rue Croix de Seguey,121,33-1
+121 Rue Fondaudege,121,33-1
+121 Rue Kleber,121,33-3
+121 Rue Mazarin,121,33-2
+122 Boulevard du Président Wilson,122,33-2
+122 Cours de la Somme,122,33-3
+122 Rue Fondaudege,122,33-2
+122 Rue Manon Cormier,122,33-2
+122 Rue Turenne,122,33-2
+122 Rue de Kater,122,33-2
+122 Rue du Jardin Public,122,33-1
+123 Cours de la Somme,123,33-2
+123 Rue Croix de Seguey,123,33-1
+123 Rue Fondaudege,123,33-1
+123 Rue Kleber,123,33-3
+123 Rue de Kater,123,33-2
+124 Cours de la Somme,124,33-3
+124 Rue Croix de Seguey,124,33-2
+124 Rue Fondaudege,124,33-2
+124 Rue Kleber,124,33-3
+124 Rue de Kater,124,33-2
+125 Cours d'Albret,125,33-2
+125 Cours de la Somme,125,33-2
+125 Rue Kleber,125,33-3
+126 Boulevard du Président Wilson,126,33-2
+126 Cours de la Somme,126,33-3
+126 Rue Fondaudege,126,33-2
+126 Rue Kleber,126,33-3
+126 Rue Manon Cormier,126,33-2
+126 Rue de Kater,126,33-2
+126 Rue du Jardin Public,126,33-1
+127 Avenue d'Ares,127,33-1
+127 Cours de la Somme,127,33-2
+127 Rue Docteur Albert Barraud,127,33-2
+127 Rue Fondaudege,127,33-1
+127 Rue Kleber,127,33-3
+127 Rue Mazarin,127,33-2
+127 Rue Turenne,127,33-2
+127 Rue de Kater,127,33-2
+127 Rue du Jardin Public,127,33-1
+128 Boulevard du Président Wilson,128,33-2
+128 Cours de la Somme,128,33-3
+128 Rue Docteur Albert Barraud,128,33-1|33-2
+128 Rue Fondaudege,128,33-2
+128 Rue Kleber,128,33-3
+128 Rue Turenne,128,33-2
+129 Cours d'Albret,129,33-2
+129 Rue Croix de Seguey,129,33-1
+129 Rue Docteur Albert Barraud,129,33-2
+129 Rue Manon Cormier,129,33-2
+129 Rue Turenne,129,33-2
+129 Rue de Kater,129,33-2
+12b Place Gambetta,12b,33-2
+12b Rue Colbert,12b,33-2
+12b Rue Turenne,12b,33-2
+12bis Rue Professeur Bergonie,12bis,33-3
+13 Boulevard du Président Wilson,13,33-1
+13 Cours de Tournon,13,33-1
+13 Cours de la Somme,13,33-2
+13 Rue Camille Saint-Saëns,13,33-2
+13 Rue Carpenteyre,13,33-2
+13 Rue Corot,13,33-2
+13 Rue Croix de Seguey,13,33-1
+13 Rue Fondaudege,13,33-1
+13 Rue Gramont,13,33-3
+13 Rue Jean-Jacques Rousseau,13,33-1
+13 Rue Kleber,13,33-1|33-3
+13 Rue Leyteire,13,33-2
+13 Rue Lucien Duffau,13,33-1
+13 Rue Luckner,13,33-1
+13 Rue Léon Jouhaux,13,33-3
+13 Rue Pierre Loti,13,33-1|33-3
+13 Rue Professeur Bergonie,13,33-3
+13 Rue de Lacanau,13,33-1|33-2
+13 Rue de l'Arsenal,13,33-1
+13 Rue de la Porte de la Monnaie,13,33-2
+13 Rue du Commandant Charcot,13,33-2
+13 Rue du Hamel,13,33-2
+13 Rue du Loup,13,33-1
+130 Avenue d'Ares,130,33-2
+130 Boulevard du Président Wilson,130,33-2
+130 Rue Manon Cormier,130,33-2
+130 Rue Mazarin,130,33-2
+130 Rue Turenne,130,33-2
+130 Rue du Jardin Public,130,33-1
+131 Cours d'Albret,131,33-2
+131 Cours de la Somme,131,33-2
+131 Rue Docteur Albert Barraud,131,33-2
+131 Rue Kleber,131,33-3
+131 Rue Manon Cormier,131,33-2
+131 Rue Mazarin,131,33-2
+131 Rue Turenne,131,33-2
+131 Rue du Jardin Public,131,33-1
+132 Rue Docteur Albert Barraud,132,33-2
+132 Rue Turenne,132,33-2
+133 Cours d'Albret,133,33-2
+133 Cours de la Somme,133,33-2
+133 Rue Docteur Albert Barraud,133,33-2
+133 Rue Fondaudege,133,33-1
+133 Rue Manon Cormier,133,33-2
+133 Rue Mazarin,133,33-2
+133 Rue Turenne,133,33-2
+134 Cours de la Somme,134,33-3
+134 Rue Docteur Albert Barraud,134,33-2
+134 Rue Mazarin,134,33-2
+134 Rue Turenne,134,33-2
+134 Rue de Kater,134,33-2
+134 Rue du Jardin Public,134,33-1
+135 Cours d'Albret,135,33-2
+135 Rue Croix de Seguey,135,33-1
+135 Rue Docteur Albert Barraud,135,33-2
+135 Rue Manon Cormier,135,33-2
+135 Rue Turenne,135,33-2
+135 Rue de Kater,135,33-1|33-2
+136 Boulevard du Président Wilson,136,33-2
+136 Cours de la Somme,136,33-3
+136 Rue Docteur Albert Barraud,136,33-2
+136 Rue Turenne,136,33-2
+136 Rue de Kater,136,33-2
+137 Boulevard du Président Wilson,137,33-1
+137 Cours de la Somme,137,33-2
+137 Rue Docteur Albert Barraud,137,33-2
+137 Rue Fondaudege,137,33-1
+137 Rue Manon Cormier,137,33-2
+137 Rue Mazarin,137,33-2
+137 Rue Turenne,137,33-2
+137 Rue de Kater,137,33-2
+138 Boulevard du Président Wilson,138,33-2
+138 Cours de la Somme,138,33-3
+138 Rue Docteur Albert Barraud,138,33-2
+138 Rue Mazarin,138,33-2
+138 Rue de Kater,138,33-2
+138 Rue du Jardin Public,138,33-1
+139 Cours de la Somme,139,33-2
+139 Rue Croix de Seguey,139,33-1
+139 Rue Docteur Albert Barraud,139,33-2
+139 Rue Fondaudege,139,33-1
+139 Rue Kleber,139,33-3
+139 Rue Turenne,139,33-2
+13bis Rue Elie Gintrac,13bis,33-3
+14 Avenue d'Ares,14,33-2
+14 Place des Quinconces,14,33-1
+14 Quai Louis XVIII,14,33-1
+14 Rue Camille Saint-Saëns,14,33-1|33-2
+14 Rue Carpenteyre,14,33-2
+14 Rue Causserouge,14,33-2
+14 Rue Colbert,14,33-2
+14 Rue Corot,14,33-1|33-2
+14 Rue Croix de Seguey,14,33-2
+14 Rue Fondaudege,14,33-2
+14 Rue Gramont,14,33-3
+14 Rue Huguerie,14,33-2
+14 Rue Jean de la Fontaine,14,33-1
+14 Rue Jean-Jacques Rousseau,14,33-1
+14 Rue Kleber,14,33-1
+14 Rue Leyteire,14,33-2
+14 Rue Maréchal Joffre,14,33-1
+14 Rue Mazarin,14,33-2
+14 Rue Pierre Loti,14,33-3
+14 Rue Professeur Bergonie,14,33-1|33-3
+14 Rue Turenne,14,33-2
+14 Rue de Lacanau,14,33-1
+14 Rue de l'Arsenal,14,33-1
+14 Rue de la Porte de la Monnaie,14,33-3
+14 Rue du Commandant Charcot,14,33-1|33-2
+14 Rue du Loup,14,33-1|33-2
+140 Boulevard du Président Wilson,140,33-2
+140 Cours de la Somme,140,33-3
+140 Rue Mazarin,140,33-2
+140 Rue du Jardin Public,140,33-1
+141 Boulevard du Président Wilson,141,33-1
+141 Rue Croix de Seguey,141,33-1
+141 Rue Fondaudege,141,33-1
+141 Rue Kleber,141,33-3
+141 Rue Manon Cormier,141,33-2
+141 Rue de Kater,141,33-2
+142 Cours de la Somme,142,33-3
+142 Rue Fondaudege,142,33-2
+142 Rue Manon Cormier,142,33-2
+142 Rue Mazarin,142,33-2
+142 Rue Turenne,142,33-2
+142 Rue du Jardin Public,142,33-1
+143 Avenue d'Ares,143,33-1
+143 Boulevard du Président Wilson,143,33-1
+143 Rue Docteur Albert Barraud,143,33-2
+143 Rue Fondaudege,143,33-1
+143 Rue Manon Cormier,143,33-2
+143 Rue Turenne,143,33-2
+143 Rue de Kater,143,33-2
+143 Rue du Jardin Public,143,33-1
+143b Rue Croix de Seguey,143b,33-1
+144 Boulevard du Président Wilson,144,33-2
+144 Rue Fondaudege,144,33-2
+144 Rue Mazarin,144,33-2
+144 Rue Turenne,144,33-2
+144 Rue du Jardin Public,144,33-1
+145 Avenue d'Ares,145,33-1
+145 Boulevard du Président Wilson,145,33-1
+145 Cours de la Somme,145,33-2
+145 Rue Croix de Seguey,145,33-1
+145 Rue Manon Cormier,145,33-2
+145 Rue Turenne,145,33-2
+145 Rue de Kater,145,33-2
+145 Rue du Jardin Public,145,33-1
+145b Boulevard du Président Wilson,145b,33-1
+146 Boulevard du Président Wilson,146,33-2
+146 Cours de la Somme,146,33-3
+146 Rue Turenne,146,33-2
+147 Boulevard du Président Wilson,147,33-1
+147 Cours de la Somme,147,33-2
+147 Rue de Kater,147,33-2
+147 Rue du Jardin Public,147,33-1
+148 Boulevard du Président Wilson,148,33-2
+148 Rue Manon Cormier,148,33-2
+148 Rue Turenne,148,33-2
+149 Avenue d'Ares,149,33-1
+149 Cours de la Somme,149,33-2
+149 Rue Croix de Seguey,149,33-1
+149 Rue Fondaudege,149,33-1
+149 Rue Turenne,149,33-2
+149 Rue de Kater,149,33-2
+149 Rue du Jardin Public,149,33-1
+14b Place Gambetta,14b,33-2
+15 Avenue d'Ares,15,33-1
+15 Boulevard du Président Wilson,15,33-1
+15 Cours de Tournon,15,33-1
+15 Cours de la Somme,15,33-2
+15 Place Pey Berland,15,33-2
+15 Place des Quinconces,15,33-1
+15 Quai Louis XVIII,15,33-1
+15 Route de Toulouse,15,33-2
+15 Rue Camille Saint-Saëns,15,33-1|33-2
+15 Rue Camille Sauvageau,15,33-2
+15 Rue Chevalier,15,33-2
+15 Rue Corot,15,33-2
+15 Rue Croix de Seguey,15,33-1
+15 Rue Elie Gintrac,15,33-3
+15 Rue Fondaudege,15,33-1
+15 Rue Huguerie,15,33-2
+15 Rue Jean-Jacques Rousseau,15,33-1|33-2
+15 Rue Kleber,15,33-1|33-3
+15 Rue Leyteire,15,33-2
+15 Rue Luckner,15,33-1
+15 Rue Maréchal Joffre,15,33-1
+15 Rue Mazarin,15,33-2
+15 Rue Pierre Loti,15,33-3
+15 Rue Professeur Bergonie,15,33-3
+15 Rue de Lacanau,15,33-2
+15 Rue de l'Arsenal,15,33-1
+15 Rue de la Porte de la Monnaie,15,33-2
+15 Rue du Commandant Charcot,15,33-2
+15 Rue du Hamel,15,33-2
+150 Cours de la Somme,150,33-3
+150 Rue Fondaudege,150,33-2
+150 Rue Turenne,150,33-2
+151 Boulevard du Président Wilson,151,33-1
+151 Cours de la Somme,151,33-2
+151 Rue Croix de Seguey,151,33-1
+151 Rue Fondaudege,151,33-1
+151 Rue Manon Cormier,151,33-2
+152 Cours de la Somme,152,33-3
+152 Rue Fondaudege,152,33-2
+152 Rue du Jardin Public,152,33-1
+153 Avenue d'Ares,153,33-1
+153 Boulevard du Président Wilson,153,33-1
+153 Cours de la Somme,153,33-2
+153 Rue Fondaudege,153,33-1
+153 Rue Manon Cormier,153,33-2
+154 Rue Fondaudege,154,33-2
+154 Rue Manon Cormier,154,33-2
+154 Rue Turenne,154,33-2
+154 Rue du Jardin Public,154,33-1
+155 Boulevard du Président Wilson,155,33-1
+155 Cours de la Somme,155,33-2
+155 Rue Turenne,155,33-2
+155 Rue du Jardin Public,155,33-1
+156 Cours de la Somme,156,33-3
+156 Rue Manon Cormier,156,33-2
+156 Rue Turenne,156,33-2
+156 Rue du Jardin Public,156,33-1
+157 Avenue d'Ares,157,33-1
+157 Boulevard du Président Wilson,157,33-1
+157 Cours de la Somme,157,33-2
+157 Rue Croix de Seguey,157,33-1
+157 Rue Fondaudege,157,33-1
+157 Rue du Jardin Public,157,33-1
+158 Boulevard du Président Wilson,158,33-2
+158 Cours de la Somme,158,33-3
+158 Rue Manon Cormier,158,33-2
+158 Rue Turenne,158,33-2
+158 Rue du Jardin Public,158,33-1
+158b Rue du Jardin Public,158b,33-1
+159 Boulevard du Président Wilson,159,33-1
+159 Cours de la Somme,159,33-2
+159 Rue Croix de Seguey,159,33-1
+159 Rue Fondaudege,159,33-1
+159 Rue Turenne,159,33-2
+15b Cours du Maréchal Foch,15b,33-1
+15b Rue de Lacanau,15b,33-1
+16 Avenue d'Ares,16,33-2
+16 Boulevard du Président Wilson,16,33-2
+16 Cours Marc Nouaux,16,33-2
+16 Cours d'Albret,16,33-2
+16 Cours de la Somme,16,33-3
+16 Place Pey Berland,16,33-2
+16 Place de la Victoire,16,33-2
+16 Quai Louis XVIII,16,33-1
+16 Rue Camille Saint-Saëns,16,33-2
+16 Rue Carpenteyre,16,33-2
+16 Rue Causserouge,16,33-2
+16 Rue Colbert,16,33-2
+16 Rue Croix de Seguey,16,33-2
+16 Rue Fondaudege,16,33-2
+16 Rue Gramont,16,33-3
+16 Rue Jean de la Fontaine,16,33-1
+16 Rue Kleber,16,33-1|33-3
+16 Rue Leyteire,16,33-2
+16 Rue Lucien Duffau,16,33-1
+16 Rue Luckner,16,33-1
+16 Rue Manon Cormier,16,33-2
+16 Rue Maréchal Joffre,16,33-1
+16 Rue Mazarin,16,33-2
+16 Rue Pierre Loti,16,33-3
+16 Rue Professeur Bergonie,16,33-3
+16 Rue de Lacanau,16,33-1|33-2
+16 Rue de l'Arsenal,16,33-1
+16 Rue de la Porte de la Monnaie,16,33-3
+16 Rue du Commandant Charcot,16,33-1|33-2
+16 Rue du Jardin Public,16,33-1
+160 Cours de la Somme,160,33-3
+160 Rue Turenne,160,33-2
+160 Rue du Jardin Public,160,33-1
+161 Avenue d'Ares,161,33-1
+161 Cours de la Somme,161,33-2
+161 Rue Manon Cormier,161,33-2
+161 Rue Turenne,161,33-2
+162 Cours de la Somme,162,33-3
+162 Rue Turenne,162,33-2
+162 Rue du Jardin Public,162,33-1
+163 Boulevard du Président Wilson,163,33-1
+163 Cours de la Somme,163,33-2
+163 Rue Fondaudege,163,33-1
+163 Rue Manon Cormier,163,33-2
+163 Rue Turenne,163,33-2
+163 Rue du Jardin Public,163,33-1
+164 Boulevard du Président Wilson,164,33-2
+164 Cours de la Somme,164,33-3
+164 Rue Fondaudege,164,33-2
+164 Rue Manon Cormier,164,33-2
+164 Rue Turenne,164,33-2
+164 Rue du Jardin Public,164,33-1
+165 Avenue d'Ares,165,33-1
+165 Boulevard du Président Wilson,165,33-1
+165 Cours de la Somme,165,33-2
+165 Rue Fondaudege,165,33-1
+165 Rue Turenne,165,33-2
+166 Cours de la Somme,166,33-3
+166 Rue Fondaudege,166,33-2
+166 Rue Manon Cormier,166,33-2
+166 Rue du Jardin Public,166,33-1
+167 Avenue d'Ares,167,33-1
+167 Boulevard du Président Wilson,167,33-1
+167 Rue Fondaudege,167,33-1
+167 Rue Manon Cormier,167,33-2
+167 Rue Turenne,167,33-2
+167 Rue du Jardin Public,167,33-1
+168 Cours de la Somme,168,33-3
+168 Rue Manon Cormier,168,33-2
+168 Rue Turenne,168,33-2
+169 Avenue d'Ares,169,33-1
+169 Boulevard du Président Wilson,169,33-1
+169 Cours de la Somme,169,33-2
+169 Rue Fondaudege,169,33-1
+169 Rue Manon Cormier,169,33-2
+17 Avenue d'Ares,17,33-1
+17 Boulevard du Président Wilson,17,33-1
+17 Cours de la Somme,17,33-2
+17 Cours du Maréchal Foch,17,33-1
+17 Place Pey Berland,17,33-2
+17 Place des Quinconces,17,33-1
+17 Quai Louis XVIII,17,33-1
+17 Route de Toulouse,17,33-2
+17 Rue Camille Saint-Saëns,17,33-1|33-2
+17 Rue Camille Sauvageau,17,33-2
+17 Rue Corot,17,33-2
+17 Rue Elie Gintrac,17,33-3
+17 Rue Fondaudege,17,33-1
+17 Rue Huguerie,17,33-2
+17 Rue Jean-Jacques Rousseau,17,33-1|33-2
+17 Rue Kleber,17,33-1
+17 Rue Leyteire,17,33-2
+17 Rue Manon Cormier,17,33-2
+17 Rue Maréchal Joffre,17,33-1
+17 Rue Professeur Bergonie,17,33-3
+17 Rue Turenne,17,33-2
+17 Rue de Lacanau,17,33-1|33-2
+17 Rue de l'Arsenal,17,33-1
+17 Rue de la Porte de la Monnaie,17,33-2
+17 Rue du Commandant Charcot,17,33-2
+170 Boulevard du Président Wilson,170,33-2
+170 Cours de la Somme,170,33-3
+170 Rue Manon Cormier,170,33-2
+170 Rue Turenne,170,33-2
+170 Rue du Jardin Public,170,33-1
+171 Boulevard du Président Wilson,171,33-1
+171 Cours de la Somme,171,33-2
+171 Rue Manon Cormier,171,33-2
+171 Rue Turenne,171,33-2
+171 Rue du Jardin Public,171,33-1
+172 Boulevard du Président Wilson,172,33-2
+172 Cours de la Somme,172,33-3
+172 Rue Fondaudege,172,33-2
+172 Rue Manon Cormier,172,33-2
+172 Rue Turenne,172,33-2
+172 Rue du Jardin Public,172,33-1
+173 Boulevard du Président Wilson,173,33-1
+173 Cours de la Somme,173,33-2
+173 Rue Fondaudege,173,33-1
+173 Rue Turenne,173,33-2
+174 Cours de la Somme,174,33-3
+174 Rue Fondaudege,174,33-2
+174 Rue Manon Cormier,174,33-2
+174 Rue Turenne,174,33-2
+174 Rue du Jardin Public,174,33-1
+175 Avenue d'Ares,175,33-1
+175 Rue Manon Cormier,175,33-2
+175 Rue Turenne,175,33-2
+175 Rue du Jardin Public,175,33-1
+175b Rue Turenne,175b,33-2
+176 Boulevard du Président Wilson,176,33-2
+176 Cours de la Somme,176,33-3
+176 Rue Fondaudege,176,33-2
+176 Rue Turenne,176,33-2
+176 Rue du Jardin Public,176,33-1
+177 Boulevard du Président Wilson,177,33-1
+177 Rue Fondaudege,177,33-1
+177 Rue Turenne,177,33-2
+177 Rue du Jardin Public,177,33-1
+178 Boulevard du Président Wilson,178,33-2
+178 Cours de la Somme,178,33-3
+178 Rue Fondaudege,178,33-2
+178 Rue Turenne,178,33-2
+178 Rue du Jardin Public,178,33-1
+179 Boulevard du Président Wilson,179,33-1
+179 Cours de la Somme,179,33-2
+179 Rue Fondaudege,179,33-1
+179 Rue Manon Cormier,179,33-2
+179 Rue Turenne,179,33-2
+179 Rue du Jardin Public,179,33-1
+179b Rue Turenne,179b,33-2
+17b Rue Turenne,17b,33-2
+18 Cours Marc Nouaux,18,33-2
+18 Cours de la Somme,18,33-3
+18 Cours du Maréchal Foch,18,33-1
+18 Place Pey Berland,18,33-2
+18 Place de la Victoire,18,33-2
+18 Rue Camille Sauvageau,18,33-2
+18 Rue Carpenteyre,18,33-2
+18 Rue Colbert,18,33-2
+18 Rue Corot,18,33-2
+18 Rue Croix de Seguey,18,33-2
+18 Rue Fondaudege,18,33-2
+18 Rue Gramont,18,33-3
+18 Rue Huguerie,18,33-2
+18 Rue Jean de la Fontaine,18,33-1
+18 Rue Jean-Jacques Rousseau,18,33-2
+18 Rue Kleber,18,33-3
+18 Rue Leyteire,18,33-2
+18 Rue Lucien Duffau,18,33-1
+18 Rue Manon Cormier,18,33-2
+18 Rue Maréchal Joffre,18,33-1
+18 Rue Mazarin,18,33-2
+18 Rue Pierre Loti,18,33-3
+18 Rue Professeur Bergonie,18,33-3
+18 Rue Turenne,18,33-2
+18 Rue de Lacanau,18,33-2
+18 Rue de la Porte de la Monnaie,18,33-3
+18 Rue du Commandant Charcot,18,33-2
+18 Rue du Jardin Public,18,33-1
+180 Boulevard du Président Wilson,180,33-2
+180 Cours de la Somme,180,33-3
+180 Rue Fondaudege,180,33-2
+180 Rue du Jardin Public,180,33-1
+181 Avenue d'Ares,181,33-1
+181 Boulevard du Président Wilson,181,33-1
+181 Rue Fondaudege,181,33-1
+181 Rue Turenne,181,33-2
+181 Rue du Jardin Public,181,33-1
+182 Boulevard du Président Wilson,182,33-2
+182 Rue Fondaudege,182,33-2
+182 Rue Turenne,182,33-2
+182 Rue du Jardin Public,182,33-1
+183 Avenue d'Ares,183,33-1
+183 Boulevard du Président Wilson,183,33-1
+183 Cours de la Somme,183,33-2
+183 Rue Fondaudege,183,33-1
+183 Rue Turenne,183,33-2
+183 Rue du Jardin Public,183,33-1
+184 Boulevard du Président Wilson,184,33-2
+184 Cours de la Somme,184,33-3
+184 Rue Fondaudege,184,33-2
+184 Rue Turenne,184,33-2
+185 Avenue d'Ares,185,33-1
+185 Boulevard du Président Wilson,185,33-1
+185 Rue Turenne,185,33-2
+185 Rue du Jardin Public,185,33-1
+186 Boulevard du Président Wilson,186,33-2
+186 Rue Fondaudege,186,33-2
+186 Rue Turenne,186,33-2
+186 Rue du Jardin Public,186,33-1
+187 Avenue d'Ares,187,33-1
+187 Boulevard du Président Wilson,187,33-1
+187 Cours de la Somme,187,33-2
+187 Rue Turenne,187,33-2
+187 Rue du Jardin Public,187,33-1
+188 Boulevard du Président Wilson,188,33-2
+188 Rue Turenne,188,33-2
+189 Avenue d'Ares,189,33-1
+189 Cours de la Somme,189,33-2
+189 Rue Fondaudege,189,33-1
+189 Rue Turenne,189,33-2
+19 Avenue d'Ares,19,33-1
+19 Cours de la Somme,19,33-2
+19 Cours du Maréchal Foch,19,33-1
+19 Place Pey Berland,19,33-2
+19 Rue Camille Saint-Saëns,19,33-1
+19 Rue Camille Sauvageau,19,33-2
+19 Rue Carpenteyre,19,33-2
+19 Rue Colbert,19,33-2
+19 Rue Corot,19,33-2
+19 Rue Croix de Seguey,19,33-1
+19 Rue Fondaudege,19,33-1
+19 Rue Gramont,19,33-3
+19 Rue Huguerie,19,33-2
+19 Rue Jean de la Fontaine,19,33-1
+19 Rue Jean-Jacques Rousseau,19,33-2
+19 Rue Kleber,19,33-1
+19 Rue Lucien Duffau,19,33-1|33-2
+19 Rue Manon Cormier,19,33-2
+19 Rue Maréchal Joffre,19,33-1
+19 Rue Mazarin,19,33-2
+19 Rue Pierre Loti,19,33-3
+19 Rue Professeur Bergonie,19,33-3
+19 Rue Turenne,19,33-2
+19 Rue de Cheverus,19,33-2
+19 Rue de la Porte de la Monnaie,19,33-2
+19 Rue du Commandant Charcot,19,33-2
+19 Rue du Hamel,19,33-2
+19 Rue du Loup,19,33-2
+190 Boulevard du Président Wilson,190,33-2
+190 Cours de la Somme,190,33-3
+190 Rue Turenne,190,33-2
+191 Avenue d'Ares,191,33-1
+191 Boulevard du Président Wilson,191,33-1
+191 Rue Turenne,191,33-2
+191bis Cours de la Somme,191bis,33-2
+192 Boulevard du Président Wilson,192,33-2
+192 Rue Fondaudege,192,33-2
+192 Rue Turenne,192,33-2
+193 Avenue d'Ares,193,33-1
+193 Boulevard du Président Wilson,193,33-1
+193 Cours de la Somme,193,33-2
+193 Rue Fondaudege,193,33-1
+193 Rue Turenne,193,33-2
+193 Rue du Jardin Public,193,33-1
+193bis Cours de la Somme,193bis,33-2
+194 Boulevard du Président Wilson,194,33-2
+194 Rue Fondaudege,194,33-2
+194 Rue Turenne,194,33-2
+195 Avenue d'Ares,195,33-1
+195 Boulevard du Président Wilson,195,33-1
+195 Cours de la Somme,195,33-2
+195 Rue Fondaudege,195,33-1
+195 Rue Turenne,195,33-2
+195 Rue du Jardin Public,195,33-1
+196 Boulevard du Président Wilson,196,33-2
+197 Avenue d'Ares,197,33-1
+197 Cours de la Somme,197,33-2
+197 Rue Fondaudege,197,33-1
+197 Rue Turenne,197,33-2
+198 Cours de la Somme,198,33-3
+198 Rue Fondaudege,198,33-2
+199 Avenue d'Ares,199,33-1
+199 Boulevard du Président Wilson,199,33-1
+199 Cours de la Somme,199,33-2
+199 Rue Fondaudege,199,33-1
+199 Rue Turenne,199,33-2
+199 Rue du Jardin Public,199,33-1
+1bis Place des Capucins,1bis,33-3
+2 Cours Marc Nouaux,2,33-2
+2 Cours de Tournon,2,33-2
+2 Place de la Victoire,2,33-2
+2 Place des Quinconces,2,33-2
+2 Rue Camille Saint-Saëns,2,33-2
+2 Rue Colbert,2,33-2
+2 Rue Corot,2,33-2
+2 Rue Croix de Seguey,2,33-2
+2 Rue Docteur Albert Barraud,2,33-2
+2 Rue Fondaudege,2,33-2
+2 Rue Gramont,2,33-3
+2 Rue Jean de la Fontaine,2,33-1
+2 Rue Kleber,2,33-1
+2 Rue Lucien Duffau,2,33-1
+2 Rue Luckner,2,33-1
+2 Rue Léon Jouhaux,2,33-3
+2 Rue Maréchal Joffre,2,33-1|33-2
+2 Rue Mazarin,2,33-2
+2 Rue Turenne,2,33-2
+2 Rue du Jardin Public,2,33-1
+20 Avenue d'Ares,20,33-2
+20 Cours Marc Nouaux,20,33-2
+20 Cours de la Somme,20,33-3
+20 Place Gambetta,20,33-2
+20 Rue Camille Sauvageau,20,33-2
+20 Rue Causserouge,20,33-2
+20 Rue Colbert,20,33-2
+20 Rue Corot,20,33-2
+20 Rue Croix de Seguey,20,33-2
+20 Rue Docteur Albert Barraud,20,33-2
+20 Rue Fondaudege,20,33-2
+20 Rue Gramont,20,33-3
+20 Rue Huguerie,20,33-2
+20 Rue Jean de la Fontaine,20,33-1
+20 Rue Jean-Jacques Rousseau,20,33-2
+20 Rue Kleber,20,33-1|33-3
+20 Rue Lucien Duffau,20,33-1
+20 Rue Manon Cormier,20,33-2
+20 Rue Maréchal Joffre,20,33-1
+20 Rue Pierre Loti,20,33-3
+20 Rue Professeur Bergonie,20,33-3
+20 Rue Turenne,20,33-2
+20 Rue de Lacanau,20,33-1|33-2
+20 Rue de l'Arsenal,20,33-1
+20 Rue du Jardin Public,20,33-1|33-2
+200 Cours de la Somme,200,33-3
+200 Rue Fondaudege,200,33-2
+200 Rue Turenne,200,33-2
+201 Boulevard du Président Wilson,201,33-1
+201b Rue Turenne,201b,33-2
+202 Boulevard du Président Wilson,202,33-2
+202 Cours de la Somme,202,33-3
+202 Rue du Jardin Public,202,33-1
+203 Boulevard du Président Wilson,203,33-1
+203 Cours de la Somme,203,33-2
+203 Rue Fondaudege,203,33-1
+203 Rue Turenne,203,33-2
+204 Boulevard du Président Wilson,204,33-2
+204 Cours de la Somme,204,33-3
+204 Rue du Jardin Public,204,33-1
+205 Cours de la Somme,205,33-2
+205 Rue Fondaudege,205,33-1
+205 Rue Turenne,205,33-2
+206 Boulevard du Président Wilson,206,33-2
+206 Cours de la Somme,206,33-3
+207 Rue Turenne,207,33-2
+207 Rue du Jardin Public,207,33-1
+208 Boulevard du Président Wilson,208,33-2
+209 Boulevard du Président Wilson,209,33-1
+209 Rue Fondaudege,209,33-1
+209 Rue du Jardin Public,209,33-1
+21 Avenue d'Ares,21,33-1
+21 Cours Marc Nouaux,21,33-2
+21 Cours de la Somme,21,33-2
+21 Route de Toulouse,21,33-2
+21 Rue Camille Saint-Saëns,21,33-1
+21 Rue Colbert,21,33-2
+21 Rue Corot,21,33-2
+21 Rue Croix de Seguey,21,33-1
+21 Rue Gramont,21,33-3
+21 Rue Huguerie,21,33-2
+21 Rue Jean de la Fontaine,21,33-1
+21 Rue Jean-Jacques Rousseau,21,33-2
+21 Rue Kleber,21,33-3
+21 Rue Leyteire,21,33-2
+21 Rue Lucien Duffau,21,33-1
+21 Rue Maréchal Joffre,21,33-1
+21 Rue Professeur Bergonie,21,33-3
+21 Rue de Lacanau,21,33-1|33-2
+21 Rue de la Porte de la Monnaie,21,33-2
+21 Rue du Commandant Charcot,21,33-2
+21 Rue du Hamel,21,33-2
+21 Rue du Jardin Public,21,33-1
+21 Rue du Loup,21,33-1|33-2
+210 Boulevard du Président Wilson,210,33-2
+210 Cours de la Somme,210,33-3
+210b Boulevard du Président Wilson,210b,33-2
+211 Boulevard du Président Wilson,211,33-1
+211 Rue Fondaudege,211,33-1
+211 Rue Turenne,211,33-2
+211 Rue du Jardin Public,211,33-1
+212 Boulevard du Président Wilson,212,33-2
+212 Cours de la Somme,212,33-3
+212 Rue Turenne,212,33-2
+213 Boulevard du Président Wilson,213,33-1
+213 Rue Fondaudege,213,33-1
+213 Rue Turenne,213,33-2
+214 Boulevard du Président Wilson,214,33-2
+214 Rue Turenne,214,33-2
+214b Rue du Jardin Public,214b,33-1
+215 Boulevard du Président Wilson,215,33-1
+215 Rue Fondaudege,215,33-1
+215 Rue Turenne,215,33-2
+216 Boulevard du Président Wilson,216,33-2
+216 Cours de la Somme,216,33-3
+216b Rue Turenne,216b,33-2
+217 Boulevard du Président Wilson,217,33-1
+217 Rue du Jardin Public,217,33-1
+218 Boulevard du Président Wilson,218,33-2
+218 Cours de la Somme,218,33-3
+218 Rue Turenne,218,33-2
+219 Rue Turenne,219,33-2
+219 Rue du Jardin Public,219,33-1
+21b Rue Turenne,21b,33-2
+21b Rue de Lacanau,21b,33-2
+22 Avenue d'Ares,22,33-2
+22 Boulevard du Président Wilson,22,33-2
+22 Cours Marc Nouaux,22,33-2
+22 Place Pey Berland,22,33-2
+22 Rue Camille Sauvageau,22,33-2
+22 Rue Carpenteyre,22,33-2
+22 Rue Causserouge,22,33-2
+22 Rue Colbert,22,33-1
+22 Rue Corot,22,33-2
+22 Rue Docteur Albert Barraud,22,33-2
+22 Rue Fondaudege,22,33-2
+22 Rue Gramont,22,33-3
+22 Rue Jean de la Fontaine,22,33-1
+22 Rue Jean-Jacques Rousseau,22,33-1|33-2
+22 Rue Kleber,22,33-3
+22 Rue Leyteire,22,33-2
+22 Rue Lucien Duffau,22,33-1
+22 Rue Luckner,22,33-1
+22 Rue Manon Cormier,22,33-2
+22 Rue Maréchal Joffre,22,33-2
+22 Rue Mazarin,22,33-1|33-2
+22 Rue Pierre Loti,22,33-3
+22 Rue Professeur Bergonie,22,33-3
+22 Rue de Lacanau,22,33-1
+22 Rue de l'Arsenal,22,33-1
+22 Rue de la Porte de la Monnaie,22,33-3
+22 Rue du Commandant Charcot,22,33-2
+22 Rue du Jardin Public,22,33-1
+220 Cours de la Somme,220,33-3
+220 Rue Turenne,220,33-2
+220 Rue du Jardin Public,220,33-1
+221 Cours de la Somme,221,33-2
+221 Rue Turenne,221,33-2
+222 Rue Turenne,222,33-2
+223 Avenue d'Ares,223,33-1
+223 Cours de la Somme,223,33-2
+224 Boulevard du Président Wilson,224,33-2
+224 Cours de la Somme,224,33-3
+224 Rue du Jardin Public,224,33-1
+226 Boulevard du Président Wilson,226,33-2
+226 Rue Turenne,226,33-2
+227 Cours de la Somme,227,33-2
+227 Rue du Jardin Public,227,33-1
+228 Rue Turenne,228,33-2
+229 Avenue d'Ares,229,33-1
+229 Rue Turenne,229,33-2
+229 Rue du Jardin Public,229,33-1
+23 Avenue d'Ares,23,33-1
+23 Boulevard du Président Wilson,23,33-1
+23 Cours Marc Nouaux,23,33-2
+23 Cours de la Somme,23,33-2
+23 Place Pey Berland,23,33-2
+23 Place de la Victoire,23,33-2
+23 Route de Toulouse,23,33-2
+23 Rue Camille Saint-Saëns,23,33-1
+23 Rue Carpenteyre,23,33-2
+23 Rue Colbert,23,33-2
+23 Rue Corot,23,33-2
+23 Rue Croix de Seguey,23,33-1
+23 Rue Gramont,23,33-3
+23 Rue Huguerie,23,33-2
+23 Rue Jean de la Fontaine,23,33-1
+23 Rue Kleber,23,33-1|33-3
+23 Rue Leyteire,23,33-2
+23 Rue Lucien Duffau,23,33-1
+23 Rue Léon Jouhaux,23,33-3
+23 Rue Manon Cormier,23,33-2
+23 Rue Maréchal Joffre,23,33-1
+23 Rue Mazarin,23,33-2
+23 Rue Professeur Bergonie,23,33-3
+23 Rue Turenne,23,33-2
+23 Rue de Lacanau,23,33-1|33-2
+23 Rue de l'Arsenal,23,33-1
+23 Rue de la Porte de la Monnaie,23,33-2
+23 Rue du Commandant Charcot,23,33-2
+23 Rue du Hamel,23,33-2
+23 Rue du Loup,23,33-2
+230 Boulevard du Président Wilson,230,33-2
+230 Cours de la Somme,230,33-3
+230 Rue Turenne,230,33-2
+231 Avenue d'Ares,231,33-1
+231 Cours de la Somme,231,33-2
+231 Rue Turenne,231,33-2
+231 Rue du Jardin Public,231,33-1
+232 Boulevard du Président Wilson,232,33-2
+232 Cours de la Somme,232,33-3
+232 Rue Turenne,232,33-2
+233 Avenue d'Ares,233,33-1
+233 Cours de la Somme,233,33-2
+233 Rue Turenne,233,33-2
+233 Rue du Jardin Public,233,33-1
+234 Boulevard du Président Wilson,234,33-2
+234 Cours de la Somme,234,33-3
+234 Rue Turenne,234,33-2
+235 Cours de la Somme,235,33-2
+235 Rue Turenne,235,33-2
+236 Boulevard du Président Wilson,236,33-2
+236 Cours de la Somme,236,33-3
+236 Rue Turenne,236,33-2
+237 Cours de la Somme,237,33-2
+237 Rue Turenne,237,33-2
+238 Boulevard du Président Wilson,238,33-2
+238 Rue Turenne,238,33-2
+239 Avenue d'Ares,239,33-1
+239 Cours de la Somme,239,33-2
+239 Rue Turenne,239,33-2
+23b Rue de Lacanau,23b,33-1
+24 Avenue d'Ares,24,33-2
+24 Boulevard du Président Wilson,24,33-2
+24 Cours de la Somme,24,33-3
+24 Cours du Maréchal Foch,24,33-1
+24 Place Gambetta,24,33-2
+24 Place Pey Berland,24,33-2
+24 Place de la Victoire,24,33-2
+24 Rue Camille Sauvageau,24,33-2
+24 Rue Colbert,24,33-2
+24 Rue Corot,24,33-2
+24 Rue Croix de Seguey,24,33-2
+24 Rue Docteur Albert Barraud,24,33-2
+24 Rue Fondaudege,24,33-2
+24 Rue Huguerie,24,33-2
+24 Rue Jean de la Fontaine,24,33-1
+24 Rue Kleber,24,33-3
+24 Rue Leyteire,24,33-2
+24 Rue Luckner,24,33-1
+24 Rue Manon Cormier,24,33-2
+24 Rue Maréchal Joffre,24,33-1
+24 Rue Pierre Loti,24,33-3
+24 Rue Professeur Bergonie,24,33-3
+24 Rue de Cheverus,24,33-2
+24 Rue de Lacanau,24,33-2
+24 Rue de l'Arsenal,24,33-1
+24 Rue de la Porte de la Monnaie,24,33-3
+240 Boulevard du Président Wilson,240,33-2
+240 Cours de la Somme,240,33-3
+240b Boulevard du Président Wilson,240b,33-2
+241 Cours de la Somme,241,33-2
+241 Rue Turenne,241,33-2
+241 Rue du Jardin Public,241,33-1
+241b Avenue d'Ares,241b,33-1
+242 Boulevard du Président Wilson,242,33-2
+242 Cours de la Somme,242,33-3
+242 Rue du Jardin Public,242,33-1
+242bis Cours de la Somme,242bis,33-3
+243 Avenue d'Ares,243,33-1
+243 Rue Turenne,243,33-2
+243 Rue du Jardin Public,243,33-1
+244 Cours de la Somme,244,33-3
+244 Rue du Jardin Public,244,33-1
+245 Avenue d'Ares,245,33-1
+246 Rue du Jardin Public,246,33-1
+247 Rue Turenne,247,33-2
+248 Boulevard du Président Wilson,248,33-2
+248 Rue du Jardin Public,248,33-1
+249 Avenue d'Ares,249,33-1
+249 Cours de la Somme,249,33-2
+25 Avenue d'Ares,25,33-1
+25 Boulevard du Président Wilson,25,33-1
+25 Cours Marc Nouaux,25,33-2
+25 Cours de la Somme,25,33-2
+25 Place Pey Berland,25,33-2
+25 Rue Camille Sauvageau,25,33-2
+25 Rue Carpenteyre,25,33-2
+25 Rue Chevalier,25,33-2
+25 Rue Colbert,25,33-2
+25 Rue Croix de Seguey,25,33-1
+25 Rue Jean de la Fontaine,25,33-1|33-2
+25 Rue Jean-Jacques Rousseau,25,33-1
+25 Rue Kleber,25,33-1
+25 Rue Maréchal Joffre,25,33-1
+25 Rue de Cheverus,25,33-2
+25 Rue de Lacanau,25,33-2
+25 Rue de l'Arsenal,25,33-1
+25 Rue de la Porte de la Monnaie,25,33-2
+25 Rue du Hamel,25,33-2
+25 Rue du Loup,25,33-1|33-2
+250 Boulevard du Président Wilson,250,33-2
+250 Rue du Jardin Public,250,33-1
+251 Avenue d'Ares,251,33-1
+251 Rue Turenne,251,33-2
+252 Boulevard du Président Wilson,252,33-2
+252 Rue du Jardin Public,252,33-1
+253 Cours de la Somme,253,33-2
+254 Boulevard du Président Wilson,254,33-2
+254 Rue du Jardin Public,254,33-1
+255 Avenue d'Ares,255,33-1
+255 Rue Turenne,255,33-2
+257 Avenue d'Ares,257,33-1
+257 Cours de la Somme,257,33-2
+257 Rue Turenne,257,33-2
+257b Avenue d'Ares,257b,33-1
+258 Boulevard du Président Wilson,258,33-2
+258 Cours de la Somme,258,33-3
+259 Avenue d'Ares,259,33-1
+26 Avenue d'Ares,26,33-2
+26 Boulevard du Président Wilson,26,33-2
+26 Cours de la Somme,26,33-3
+26 Cours du Maréchal Foch,26,33-1
+26 Passage Hermitte,26,33-2
+26 Place Pey Berland,26,33-2
+26 Route de Toulouse,26,33-3
+26 Rue Carpenteyre,26,33-2
+26 Rue Colbert,26,33-2
+26 Rue Corot,26,33-2
+26 Rue Croix de Seguey,26,33-2
+26 Rue Docteur Albert Barraud,26,33-2
+26 Rue Fondaudege,26,33-2
+26 Rue Maréchal Joffre,26,33-1|33-2
+26 Rue Mazarin,26,33-2
+26 Rue Moulinie,26,33-2
+26 Rue Pierre Loti,26,33-1|33-3
+26 Rue Professeur Bergonie,26,33-3
+26 Rue de Lacanau,26,33-2
+26 Rue de l'Arsenal,26,33-1
+26 Rue de la Porte de la Monnaie,26,33-3
+26 Rue du Commandant Charcot,26,33-2
+260 Boulevard du Président Wilson,260,33-2
+260 Cours de la Somme,260,33-3
+261 Cours de la Somme,261,33-2
+262 Rue du Jardin Public,262,33-1
+263 Rue Turenne,263,33-2
+264 Cours de la Somme,264,33-3
+264 Rue du Jardin Public,264,33-1
+265 Avenue d'Ares,265,33-1
+266 Boulevard du Président Wilson,266,33-2
+266 Cours de la Somme,266,33-3
+267 Avenue d'Ares,267,33-1
+267 Cours de la Somme,267,33-2
+268 Boulevard du Président Wilson,268,33-2
+269 Avenue d'Ares,269,33-1
+269 Boulevard du Président Wilson,269,33-1
+269 Cours de la Somme,269,33-2
+27 Boulevard du Président Wilson,27,33-1
+27 Cours de la Somme,27,33-2
+27 Cours du Maréchal Foch,27,33-1
+27 Passage Hermitte,27,33-2
+27 Route de Toulouse,27,33-2
+27 Rue Chevalier,27,33-2
+27 Rue Corot,27,33-2
+27 Rue Croix de Seguey,27,33-1
+27 Rue Docteur Albert Barraud,27,33-2
+27 Rue Fondaudege,27,33-1
+27 Rue Gramont,27,33-3
+27 Rue Jean-Jacques Rousseau,27,33-1
+27 Rue Kleber,27,33-3
+27 Rue Manon Cormier,27,33-2
+27 Rue Mazarin,27,33-2
+27 Rue Moulinie,27,33-2
+27 Rue Pierre Loti,27,33-3
+27 Rue Turenne,27,33-2
+27 Rue de l'Arsenal,27,33-1
+27 Rue du Commandant Charcot,27,33-2
+27 Rue du Hamel,27,33-2
+27 Rue du Jardin Public,27,33-1
+27 Rue du Loup,27,33-1
+270 Cours de la Somme,270,33-3
+270 Rue du Jardin Public,270,33-1
+271 Boulevard du Président Wilson,271,33-1
+272 Cours de la Somme,272,33-3
+272 Rue du Jardin Public,272,33-1
+273 Cours de la Somme,273,33-2
+273 Rue Turenne,273,33-2
+274 Cours de la Somme,274,33-3
+274 Rue du Jardin Public,274,33-1
+275 Boulevard du Président Wilson,275,33-1
+275 Cours de la Somme,275,33-2
+275 Rue Turenne,275,33-2
+276 Boulevard du Président Wilson,276,33-2
+276 Cours de la Somme,276,33-3
+276 Rue du Jardin Public,276,33-1
+277 Rue Turenne,277,33-2
+277 Rue du Jardin Public,277,33-1
+278 Boulevard du Président Wilson,278,33-2
+278 Cours de la Somme,278,33-3
+278 Rue du Jardin Public,278,33-1
+279 Boulevard du Président Wilson,279,33-1
+279 Cours de la Somme,279,33-2
+279 Rue du Jardin Public,279,33-1
+27bis Rue Pierre Loti,27bis,33-3
+28 Avenue d'Ares,28,33-2
+28 Cours Marc Nouaux,28,33-2
+28 Cours de la Somme,28,33-3
+28 Cours du Maréchal Foch,28,33-1
+28 Place Pey Berland,28,33-2
+28 Route de Toulouse,28,33-3
+28 Rue Camille Sauvageau,28,33-2
+28 Rue Carpenteyre,28,33-2
+28 Rue Colbert,28,33-2
+28 Rue Corot,28,33-2
+28 Rue Croix de Seguey,28,33-2
+28 Rue Docteur Albert Barraud,28,33-2
+28 Rue Fondaudege,28,33-2
+28 Rue Gramont,28,33-3
+28 Rue Huguerie,28,33-2
+28 Rue Jean de la Fontaine,28,33-1
+28 Rue Jean-Jacques Rousseau,28,33-1|33-2
+28 Rue Leyteire,28,33-2
+28 Rue Maréchal Joffre,28,33-1|33-2
+28 Rue Moulinie,28,33-2
+28 Rue Professeur Bergonie,28,33-3
+28 Rue de Cheverus,28,33-2
+28 Rue de Lacanau,28,33-1
+28 Rue de l'Arsenal,28,33-1
+28 Rue de la Porte de la Monnaie,28,33-3
+28 Rue du Commandant Charcot,28,33-1|33-2
+28 Rue du Jardin Public,28,33-1
+281 Cours de la Somme,281,33-2
+281 Rue du Jardin Public,281,33-1
+282 Rue Turenne,282,33-2
+283 Boulevard du Président Wilson,283,33-1
+283 Cours de la Somme,283,33-2
+283 Rue du Jardin Public,283,33-1
+284 Boulevard du Président Wilson,284,33-2
+284 Rue Turenne,284,33-1|33-2
+285 Boulevard du Président Wilson,285,33-1
+285 Rue du Jardin Public,285,33-1
+286 Boulevard du Président Wilson,286,33-2
+286 Cours de la Somme,286,33-3
+286 Rue du Jardin Public,286,33-1
+287 Boulevard du Président Wilson,287,33-1
+288 Boulevard du Président Wilson,288,33-2
+289 Boulevard du Président Wilson,289,33-1
+289 Cours de la Somme,289,33-2
+29 Cours d'Albret,29,33-2
+29 Cours du Maréchal Foch,29,33-1
+29 Place Gambetta,29,33-2
+29 Place Pey Berland,29,33-2
+29 Place des Capucins,29,33-3
+29 Route de Toulouse,29,33-2
+29 Rue Camille Sauvageau,29,33-2
+29 Rue Corot,29,33-2
+29 Rue Croix de Seguey,29,33-1
+29 Rue Docteur Albert Barraud,29,33-2
+29 Rue Fondaudege,29,33-1
+29 Rue Jean-Jacques Rousseau,29,33-1|33-2
+29 Rue Kleber,29,33-1
+29 Rue Manon Cormier,29,33-2
+29 Rue Maréchal Joffre,29,33-1
+29 Rue Moulinie,29,33-2
+29 Rue Pierre Loti,29,33-3
+29 Rue de Lacanau,29,33-2
+29 Rue de l'Arsenal,29,33-1
+29 Rue de la Porte de la Monnaie,29,33-2
+29 Rue du Commandant Charcot,29,33-2
+29 Rue du Hamel,29,33-2
+29 Rue du Jardin Public,29,33-1
+29 Rue du Loup,29,33-2
+290 Boulevard du Président Wilson,290,33-2
+290 Rue du Jardin Public,290,33-1
+291 Boulevard du Président Wilson,291,33-1
+292 Boulevard du Président Wilson,292,33-2
+293 Boulevard du Président Wilson,293,33-1
+294 Boulevard du Président Wilson,294,33-2
+294 Cours de la Somme,294,33-3
+295 Boulevard du Président Wilson,295,33-1
+296 Boulevard du Président Wilson,296,33-2
+297 Avenue d'Ares,297,33-1
+297 Boulevard du Président Wilson,297,33-1
+297 Cours de la Somme,297,33-2
+299 Boulevard du Président Wilson,299,33-1
+2b Rue de l'Arsenal,2b,33-1
+3 Cours Marc Nouaux,3,33-2
+3 Rue Camille Saint-Saëns,3,33-1|33-2
+3 Rue Camille Sauvageau,3,33-2
+3 Rue Chevalier,3,33-2
+3 Rue Colbert,3,33-2
+3 Rue Corot,3,33-1
+3 Rue Docteur Albert Barraud,3,33-2
+3 Rue Elie Gintrac,3,33-3
+3 Rue Gramont,3,33-3
+3 Rue Huguerie,3,33-2
+3 Rue Jean de la Fontaine,3,33-1
+3 Rue Kleber,3,33-1|33-3
+3 Rue Luckner,3,33-1
+3 Rue Léon Jouhaux,3,33-2|33-3
+3 Rue Pierre Loti,3,33-1
+3 Rue de Lacanau,3,33-2
+3 Rue du Commandant Charcot,3,33-2
+3 Rue du Hamel,3,33-2
+30 Boulevard du Président Wilson,30,33-2
+30 Cours du Maréchal Foch,30,33-1
+30 Place Gambetta,30,33-2
+30 Place Pey Berland,30,33-2
+30 Rue Carpenteyre,30,33-2
+30 Rue Colbert,30,33-2
+30 Rue Corot,30,33-2
+30 Rue Croix de Seguey,30,33-2
+30 Rue Docteur Albert Barraud,30,33-2
+30 Rue Fondaudege,30,33-2
+30 Rue Gramont,30,33-3
+30 Rue Huguerie,30,33-2
+30 Rue Jean de la Fontaine,30,33-1
+30 Rue Leyteire,30,33-2
+30 Rue Manon Cormier,30,33-2
+30 Rue Maréchal Joffre,30,33-1
+30 Rue Moulinie,30,33-2
+30 Rue Professeur Bergonie,30,33-3
+30 Rue de Cheverus,30,33-2
+30 Rue de l'Arsenal,30,33-1
+30 Rue de la Porte de la Monnaie,30,33-3
+30 Rue du Commandant Charcot,30,33-1|33-2
+30 Rue du Hamel,30,33-3
+30 Rue du Jardin Public,30,33-1
+300 Rue Turenne,300,33-2
+301 Avenue d'Ares,301,33-1
+301 Cours de la Somme,301,33-2
+303 Avenue d'Ares,303,33-1
+303 Boulevard du Président Wilson,303,33-1
+303 Cours de la Somme,303,33-2
+305 Cours de la Somme,305,33-2
+307 Boulevard du Président Wilson,307,33-1
+307 Cours de la Somme,307,33-2
+307b Boulevard du Président Wilson,307b,33-1
+308 Cours de la Somme,308,33-3
+309 Boulevard du Président Wilson,309,33-1
+309 Cours de la Somme,309,33-2
+31 Boulevard du Président Wilson,31,33-1
+31 Cours Marc Nouaux,31,33-2
+31 Cours de la Somme,31,33-2
+31 Cours du Maréchal Foch,31,33-2
+31 Passage Hermitte,31,33-2
+31 Place Pey Berland,31,33-2
+31 Route de Toulouse,31,33-2
+31 Rue Camille Sauvageau,31,33-2
+31 Rue Colbert,31,33-2
+31 Rue Corot,31,33-2
+31 Rue Croix de Seguey,31,33-1
+31 Rue Docteur Albert Barraud,31,33-2
+31 Rue Elie Gintrac,31,33-3
+31 Rue Gramont,31,33-3
+31 Rue Huguerie,31,33-2
+31 Rue Jean-Jacques Rousseau,31,33-1
+31 Rue Leyteire,31,33-2
+31 Rue Manon Cormier,31,33-2
+31 Rue Maréchal Joffre,31,33-1
+31 Rue Turenne,31,33-2
+31 Rue de Cheverus,31,33-2
+31 Rue de Lacanau,31,33-1|33-2
+31 Rue de l'Arsenal,31,33-1
+31 Rue de la Porte de la Monnaie,31,33-2
+31 Rue du Commandant Charcot,31,33-2
+31 Rue du Hamel,31,33-2
+31 Rue du Loup,31,33-1|33-2
+310 Boulevard du Président Wilson,310,33-2
+311 Avenue d'Ares,311,33-1
+311 Boulevard du Président Wilson,311,33-1
+312 Boulevard du Président Wilson,312,33-2
+313 Avenue d'Ares,313,33-1
+313 Cours de la Somme,313,33-2
+314 Boulevard du Président Wilson,314,33-2
+314 Cours de la Somme,314,33-3
+315 bis Cours de la Somme,315 bis,33-2
+316 Cours de la Somme,316,33-3
+317 Boulevard du Président Wilson,317,33-1
+317 Cours de la Somme,317,33-2
+318 Boulevard du Président Wilson,318,33-2
+318 Cours de la Somme,318,33-3
+319 Boulevard du Président Wilson,319,33-1
+319 Cours de la Somme,319,33-2
+32 Avenue d'Ares,32,33-2
+32 Boulevard du Président Wilson,32,33-2
+32 Cours de la Somme,32,33-3
+32 Place Gambetta,32,33-1|33-2
+32 Place Pey Berland,32,33-2
+32 Rue Colbert,32,33-2
+32 Rue Corot,32,33-2
+32 Rue Croix de Seguey,32,33-2
+32 Rue Docteur Albert Barraud,32,33-2
+32 Rue Fondaudege,32,33-2
+32 Rue Gramont,32,33-3
+32 Rue Huguerie,32,33-1|33-2
+32 Rue Jean de la Fontaine,32,33-1
+32 Rue Leyteire,32,33-2
+32 Rue Manon Cormier,32,33-2
+32 Rue Maréchal Joffre,32,33-2
+32 Rue Turenne,32,33-2
+32 Rue de Lacanau,32,33-2
+32 Rue de l'Arsenal,32,33-1
+32 Rue de la Porte de la Monnaie,32,33-3
+32 Rue du Commandant Charcot,32,33-1|33-2
+320 Boulevard du Président Wilson,320,33-2
+320 Cours de la Somme,320,33-3
+321 Avenue d'Ares,321,33-1
+321 Boulevard du Président Wilson,321,33-1
+321 Cours de la Somme,321,33-2
+322 Boulevard du Président Wilson,322,33-2
+322 Cours de la Somme,322,33-3
+324 Boulevard du Président Wilson,324,33-2
+324 Cours de la Somme,324,33-3
+325 Boulevard du Président Wilson,325,33-1
+325 Cours de la Somme,325,33-2
+327 Boulevard du Président Wilson,327,33-1
+327 Cours de la Somme,327,33-2
+328 Boulevard du Président Wilson,328,33-2
+328 Cours de la Somme,328,33-3
+329 Boulevard du Président Wilson,329,33-1
+33 Boulevard du Président Wilson,33,33-1
+33 Cours Marc Nouaux,33,33-2
+33 Cours de la Somme,33,33-2
+33 Place Gambetta,33,33-2
+33 Route de Toulouse,33,33-2
+33 Rue Camille Sauvageau,33,33-2
+33 Rue Carpenteyre,33,33-2
+33 Rue Chevalier,33,33-2
+33 Rue Colbert,33,33-2
+33 Rue Croix de Seguey,33,33-1
+33 Rue Docteur Albert Barraud,33,33-2
+33 Rue Elie Gintrac,33,33-3
+33 Rue Kleber,33,33-3
+33 Rue Leyteire,33,33-2
+33 Rue Léon Jouhaux,33,33-3
+33 Rue Manon Cormier,33,33-2
+33 Rue Maréchal Joffre,33,33-1
+33 Rue Moulinie,33,33-2
+33 Rue Turenne,33,33-2
+33 Rue de Lacanau,33,33-1
+33 Rue de la Porte de la Monnaie,33,33-2
+33 Rue du Commandant Charcot,33,33-1
+33 Rue du Jardin Public,33,33-1
+330 Boulevard du Président Wilson,330,33-2
+331 Boulevard du Président Wilson,331,33-1
+332 Boulevard du Président Wilson,332,33-2
+333 Avenue d'Ares,333,33-1
+333 Cours de la Somme,333,33-2
+334 Boulevard du Président Wilson,334,33-2
+334 Cours de la Somme,334,33-3
+335 Cours de la Somme,335,33-2
+336 Boulevard du Président Wilson,336,33-2
+336 Cours de la Somme,336,33-3
+337 Avenue d'Ares,337,33-1
+337 Cours de la Somme,337,33-2
+338 Boulevard du Président Wilson,338,33-2
+338 Cours de la Somme,338,33-3
+339 Cours de la Somme,339,33-2
+339 Rue du Jardin Public,339,33-1
+34 Avenue d'Ares,34,33-2
+34 Boulevard du Président Wilson,34,33-2
+34 Cours de la Somme,34,33-3
+34 Place Gambetta,34,33-2
+34 Rue Colbert,34,33-2
+34 Rue Croix de Seguey,34,33-2
+34 Rue Docteur Albert Barraud,34,33-2
+34 Rue Fondaudege,34,33-2
+34 Rue Gramont,34,33-3
+34 Rue Jean de la Fontaine,34,33-1
+34 Rue Manon Cormier,34,33-2
+34 Rue Maréchal Joffre,34,33-1|33-2
+34 Rue Mazarin,34,33-2
+34 Rue Moulinie,34,33-2
+34 Rue Turenne,34,33-2
+34 Rue de l'Arsenal,34,33-1
+34 Rue du Commandant Charcot,34,33-1|33-2
+34 Rue du Hamel,34,33-3
+34 Rue du Jardin Public,34,33-1
+341 Cours de la Somme,341,33-2
+341 Rue du Jardin Public,341,33-1
+343 Avenue d'Ares,343,33-1
+343 Cours de la Somme,343,33-2
+346 Cours de la Somme,346,33-3
+349 Avenue d'Ares,349,33-1
+35 Avenue d'Ares,35,33-1
+35 Boulevard du Président Wilson,35,33-1
+35 Cours Marc Nouaux,35,33-2
+35 Cours de la Somme,35,33-2
+35 Place Pey Berland,35,33-2
+35 Route de Toulouse,35,33-2
+35 Rue Carpenteyre,35,33-2
+35 Rue Croix de Seguey,35,33-1
+35 Rue Elie Gintrac,35,33-3
+35 Rue Fondaudege,35,33-1
+35 Rue Gramont,35,33-3
+35 Rue Huguerie,35,33-2
+35 Rue Kleber,35,33-3
+35 Rue Leyteire,35,33-2
+35 Rue Manon Cormier,35,33-2
+35 Rue Maréchal Joffre,35,33-1
+35 Rue Mazarin,35,33-2
+35 Rue Turenne,35,33-2
+35 Rue de Cheverus,35,33-2
+35 Rue de Lacanau,35,33-1|33-2
+35 Rue de l'Arsenal,35,33-1
+35 Rue du Jardin Public,35,33-1
+351 Avenue d'Ares,351,33-1
+353 Avenue d'Ares,353,33-1
+359 Avenue d'Ares,359,33-1
+36 Avenue d'Ares,36,33-2
+36 Boulevard du Président Wilson,36,33-2
+36 Cours de la Somme,36,33-3
+36 Cours du Maréchal Foch,36,33-1
+36 Passage Hermitte,36,33-2
+36 Place Gambetta,36,33-2
+36 Place Pey Berland,36,33-2
+36 Place des Capucins,36,33-3
+36 Route de Toulouse,36,33-3
+36 Rue Croix de Seguey,36,33-2
+36 Rue Docteur Albert Barraud,36,33-2
+36 Rue Elie Gintrac,36,33-2
+36 Rue Gramont,36,33-3
+36 Rue Kleber,36,33-3
+36 Rue Manon Cormier,36,33-2
+36 Rue Maréchal Joffre,36,33-1|33-2
+36 Rue Moulinie,36,33-2
+36 Rue Turenne,36,33-2
+36 Rue de Cheverus,36,33-2
+36 Rue de Lacanau,36,33-2
+36 Rue de l'Arsenal,36,33-1
+36 Rue de la Porte de la Monnaie,36,33-3
+36 Rue du Commandant Charcot,36,33-1|33-2
+36 Rue du Hamel,36,33-3
+36 Rue du Jardin Public,36,33-1
+36 Rue du Loup,36,33-2
+360 Cours de la Somme,360,33-3
+361 Avenue d'Ares,361,33-1
+362 Cours de la Somme,362,33-3
+366 Cours de la Somme,366,33-3
+367 Boulevard du Président Wilson,367,33-1
+367 Cours de la Somme,367,33-2
+368 Cours de la Somme,368,33-3
+369 Boulevard du Président Wilson,369,33-1
+37 Avenue d'Ares,37,33-1
+37 Cours Marc Nouaux,37,33-2
+37 Cours de la Somme,37,33-2
+37 Place des Capucins,37,33-3
+37 Route de Toulouse,37,33-2
+37 Rue Chevalier,37,33-2
+37 Rue Colbert,37,33-2
+37 Rue Croix de Seguey,37,33-1
+37 Rue Fondaudege,37,33-1
+37 Rue Huguerie,37,33-2
+37 Rue Kleber,37,33-3
+37 Rue Manon Cormier,37,33-2
+37 Rue Maréchal Joffre,37,33-1
+37 Rue Moulinie,37,33-2
+37 Rue de Cheverus,37,33-2
+37 Rue de Lacanau,37,33-2
+37 Rue du Commandant Charcot,37,33-1|33-2
+370 Boulevard du Président Wilson,370,33-2
+370 Cours de la Somme,370,33-3
+372 Boulevard du Président Wilson,372,33-2
+373 Boulevard du Président Wilson,373,33-1
+373 Cours de la Somme,373,33-2
+375 Cours de la Somme,375,33-2
+376 Cours de la Somme,376,33-3
+377 Cours de la Somme,377,33-2
+379 Avenue d'Ares,379,33-1
+379 Boulevard du Président Wilson,379,33-1
+379 Cours de la Somme,379,33-2
+38 Avenue d'Ares,38,33-2
+38 Boulevard du Président Wilson,38,33-2
+38 Cours Marc Nouaux,38,33-2
+38 Cours du Maréchal Foch,38,33-1
+38 Place des Capucins,38,33-3
+38 Route de Toulouse,38,33-3
+38 Rue Camille Sauvageau,38,33-2
+38 Rue Carpenteyre,38,33-2
+38 Rue Colbert,38,33-2
+38 Rue Croix de Seguey,38,33-2
+38 Rue Docteur Albert Barraud,38,33-2
+38 Rue Fondaudege,38,33-2
+38 Rue Huguerie,38,33-2
+38 Rue Jean de la Fontaine,38,33-1
+38 Rue Leyteire,38,33-2
+38 Rue Manon Cormier,38,33-2
+38 Rue Maréchal Joffre,38,33-1
+38 Rue Moulinie,38,33-2
+38 Rue Turenne,38,33-2
+38 Rue de Lacanau,38,33-2
+38 Rue de l'Arsenal,38,33-1
+38 Rue de la Porte de la Monnaie,38,33-3
+38 Rue du Commandant Charcot,38,33-1
+38 Rue du Hamel,38,33-3
+38 Rue du Jardin Public,38,33-1
+38 Rue du Loup,38,33-2
+386 Boulevard du Président Wilson,386,33-2
+388 Boulevard du Président Wilson,388,33-2
+389 Avenue d'Ares,389,33-1
+39 Boulevard du Président Wilson,39,33-1
+39 Cours du Maréchal Foch,39,33-1
+39 Place des Capucins,39,33-3
+39 Route de Toulouse,39,33-2
+39 Rue Chevalier,39,33-2
+39 Rue Colbert,39,33-2
+39 Rue Corot,39,33-2
+39 Rue Docteur Albert Barraud,39,33-2
+39 Rue Elie Gintrac,39,33-3
+39 Rue Fondaudege,39,33-1
+39 Rue Gramont,39,33-3
+39 Rue Kleber,39,33-1|33-3
+39 Rue Leyteire,39,33-2
+39 Rue Maréchal Joffre,39,33-1
+39 Rue Moulinie,39,33-2
+39 Rue du Commandant Charcot,39,33-1|33-2
+39 Rue du Hamel,39,33-2
+390 Boulevard du Président Wilson,390,33-2
+3b Cours de Tournon,3b,33-1
+3ter Place de la Victoire,3ter,33-2
+4 Cours Marc Nouaux,4,33-2
+4 Cours d'Albret,4,33-2
+4 Cours de la Somme,4,33-3
+4 Passage Hermitte,4,33-2
+4 Place Léon Duguit,4,33-3
+4 Rue Camille Saint-Saëns,4,33-1|33-2
+4 Rue Colbert,4,33-2
+4 Rue Croix de Seguey,4,33-2
+4 Rue Docteur Albert Barraud,4,33-2
+4 Rue Fondaudege,4,33-2
+4 Rue Huguerie,4,33-2
+4 Rue Jean de la Fontaine,4,33-1
+4 Rue Leyteire,4,33-2
+4 Rue Lucien Duffau,4,33-1
+4 Rue Luckner,4,33-1
+4 Rue Léon Jouhaux,4,33-3
+4 Rue Professeur Bergonie,4,33-3
+4 Rue Turenne,4,33-2
+4 Rue de Lacanau,4,33-1|33-2
+4 Rue du Loup,4,33-1|33-2
+40 Boulevard du Président Wilson,40,33-2
+40 Cours du Maréchal Foch,40,33-1
+40 Passage Hermitte,40,33-2
+40 Place Gambetta,40,33-2
+40 Route de Toulouse,40,33-3
+40 Rue Camille Sauvageau,40,33-2
+40 Rue Carpenteyre,40,33-2
+40 Rue Colbert,40,33-2
+40 Rue Croix de Seguey,40,33-2
+40 Rue Docteur Albert Barraud,40,33-2
+40 Rue Fondaudege,40,33-2
+40 Rue Gramont,40,33-3
+40 Rue Jean de la Fontaine,40,33-1
+40 Rue Leyteire,40,33-2
+40 Rue Manon Cormier,40,33-2
+40 Rue Maréchal Joffre,40,33-1|33-2
+40 Rue Mazarin,40,33-2
+40 Rue Moulinie,40,33-2
+40 Rue Turenne,40,33-2
+40 Rue de Cheverus,40,33-2
+40 Rue de Lacanau,40,33-1|33-2
+40 Rue de la Porte de la Monnaie,40,33-3
+40 Rue du Commandant Charcot,40,33-2
+41 Avenue d'Ares,41,33-1
+41 Boulevard du Président Wilson,41,33-1
+41 Cours de la Somme,41,33-2
+41 Route de Toulouse,41,33-2
+41 Rue Colbert,41,33-2
+41 Rue Croix de Seguey,41,33-1
+41 Rue Fondaudege,41,33-1
+41 Rue Gramont,41,33-3
+41 Rue Huguerie,41,33-2
+41 Rue Manon Cormier,41,33-2
+41 Rue Moulinie,41,33-2
+41 Rue de Cheverus,41,33-1|33-2
+41 Rue du Commandant Charcot,41,33-1|33-2
+41 Rue du Loup,41,33-2
+42 Boulevard du Président Wilson,42,33-2
+42 Cours de la Somme,42,33-3
+42 Cours du Maréchal Foch,42,33-1
+42 Passage Hermitte,42,33-2
+42 Place des Capucins,42,33-3
+42 Route de Toulouse,42,33-3
+42 Rue Camille Sauvageau,42,33-2
+42 Rue Carpenteyre,42,33-2
+42 Rue Colbert,42,33-2
+42 Rue Croix de Seguey,42,33-2
+42 Rue Docteur Albert Barraud,42,33-2
+42 Rue Elie Gintrac,42,33-2
+42 Rue Fondaudege,42,33-2
+42 Rue Gramont,42,33-3
+42 Rue Leyteire,42,33-2
+42 Rue Maréchal Joffre,42,33-2
+42 Rue Moulinie,42,33-1|33-2
+42 Rue Turenne,42,33-2
+42 Rue de Cheverus,42,33-2
+42 Rue de Lacanau,42,33-1|33-2
+42 Rue de l'Arsenal,42,33-1
+42 Rue de la Porte de la Monnaie,42,33-3
+42 Rue du Commandant Charcot,42,33-1
+42 Rue du Hamel,42,33-3
+42 Rue du Jardin Public,42,33-1
+42b Boulevard du Président Wilson,42b,33-2
+43 Boulevard du Président Wilson,43,33-1
+43 Cours de la Somme,43,33-2
+43 Cours du Maréchal Foch,43,33-1
+43 Place Gambetta,43,33-2
+43 Rue Camille Sauvageau,43,33-2
+43 Rue Carpenteyre,43,33-2
+43 Rue Chevalier,43,33-2
+43 Rue Colbert,43,33-2
+43 Rue Docteur Albert Barraud,43,33-2
+43 Rue Fondaudege,43,33-1
+43 Rue Gramont,43,33-3
+43 Rue Huguerie,43,33-2
+43 Rue Kleber,43,33-1|33-3
+43 Rue Léon Jouhaux,43,33-3
+43 Rue Maréchal Joffre,43,33-1
+43 Rue Moulinie,43,33-2
+43 Rue Turenne,43,33-2
+43 Rue de Cheverus,43,33-2
+43 Rue du Commandant Charcot,43,33-2
+43 Rue du Hamel,43,33-2
+44 Avenue d'Ares,44,33-2
+44 Cours Marc Nouaux,44,33-2
+44 Cours d'Albret,44,33-2
+44 Passage Hermitte,44,33-2
+44 Place Gambetta,44,33-2
+44 Route de Toulouse,44,33-3
+44 Rue Camille Sauvageau,44,33-2
+44 Rue Carpenteyre,44,33-2
+44 Rue Croix de Seguey,44,33-2
+44 Rue Docteur Albert Barraud,44,33-2
+44 Rue Gramont,44,33-3
+44 Rue Huguerie,44,33-2
+44 Rue Kleber,44,33-1|33-3
+44 Rue Leyteire,44,33-2
+44 Rue Manon Cormier,44,33-2
+44 Rue Maréchal Joffre,44,33-2
+44 Rue Mazarin,44,33-2
+44 Rue Moulinie,44,33-2
+44 Rue de Cheverus,44,33-2
+44 Rue de Lacanau,44,33-2
+44 Rue du Hamel,44,33-3
+44 Rue du Jardin Public,44,33-1
+45 Boulevard du Président Wilson,45,33-1
+45 Cours de la Somme,45,33-2
+45 Cours du Maréchal Foch,45,33-1
+45 Rue Camille Sauvageau,45,33-2
+45 Rue Carpenteyre,45,33-2
+45 Rue Chevalier,45,33-2
+45 Rue Docteur Albert Barraud,45,33-2
+45 Rue Fondaudege,45,33-1
+45 Rue Gramont,45,33-3
+45 Rue Huguerie,45,33-2
+45 Rue Manon Cormier,45,33-2
+45 Rue Turenne,45,33-2
+45 Rue du Commandant Charcot,45,33-2
+45 Rue du Hamel,45,33-2
+45 Rue du Loup,45,33-2
+46 Boulevard du Président Wilson,46,33-2
+46 Cours Marc Nouaux,46,33-2
+46 Cours d'Albret,46,33-2
+46 Cours de la Somme,46,33-3
+46 Rue Chevalier,46,33-2
+46 Rue Croix de Seguey,46,33-2
+46 Rue Fondaudege,46,33-2
+46 Rue Gramont,46,33-3
+46 Rue Huguerie,46,33-2
+46 Rue Jean de la Fontaine,46,33-1
+46 Rue Leyteire,46,33-2
+46 Rue Manon Cormier,46,33-2
+46 Rue Maréchal Joffre,46,33-1
+46 Rue Turenne,46,33-2
+46 Rue de Lacanau,46,33-1
+46 Rue de l'Arsenal,46,33-1|33-2
+46 Rue du Commandant Charcot,46,33-1
+46 Rue du Hamel,46,33-3
+46 Rue du Jardin Public,46,33-1
+47 Boulevard du Président Wilson,47,33-1
+47 Cours Marc Nouaux,47,33-2
+47 Cours d'Albret,47,33-2
+47 Cours de la Somme,47,33-2
+47 Place des Capucins,47,33-2
+47 Rue Camille Sauvageau,47,33-2
+47 Rue Carpenteyre,47,33-2
+47 Rue Chevalier,47,33-2
+47 Rue Croix de Seguey,47,33-1
+47 Rue Elie Gintrac,47,33-3
+47 Rue Fondaudege,47,33-1
+47 Rue Gramont,47,33-3
+47 Rue Huguerie,47,33-2
+47 Rue Kleber,47,33-1
+47 Rue Manon Cormier,47,33-2
+47 Rue Maréchal Joffre,47,33-1
+47 Rue Turenne,47,33-2
+47 Rue de Cheverus,47,33-2
+48 Avenue d'Ares,48,33-2
+48 Boulevard du Président Wilson,48,33-2
+48 Cours Marc Nouaux,48,33-2
+48 Cours d'Albret,48,33-2
+48 Cours de la Somme,48,33-3
+48 Place des Capucins,48,33-2
+48 Rue Camille Sauvageau,48,33-2
+48 Rue Carpenteyre,48,33-2
+48 Rue Croix de Seguey,48,33-2
+48 Rue Fondaudege,48,33-2
+48 Rue Huguerie,48,33-2
+48 Rue Kleber,48,33-3
+48 Rue Leyteire,48,33-2
+48 Rue Manon Cormier,48,33-2
+48 Rue Maréchal Joffre,48,33-1|33-2
+48 Rue Mazarin,48,33-2
+48 Rue Moulinie,48,33-2
+48 Rue Turenne,48,33-2
+48 Rue de l'Arsenal,48,33-1
+48 Rue du Jardin Public,48,33-1
+48 Rue du Loup,48,33-2
+49 Avenue d'Ares,49,33-1
+49 Boulevard du Président Wilson,49,33-1
+49 Cours Marc Nouaux,49,33-2
+49 Passage Hermitte,49,33-1|33-2
+49 Route de Toulouse,49,33-2
+49 Rue Camille Sauvageau,49,33-2
+49 Rue Carpenteyre,49,33-2
+49 Rue Chevalier,49,33-2
+49 Rue Elie Gintrac,49,33-3
+49 Rue Gramont,49,33-3
+49 Rue Huguerie,49,33-2
+49 Rue Manon Cormier,49,33-2
+49 Rue Turenne,49,33-2
+49 Rue de Cheverus,49,33-2
+49 Rue du Commandant Charcot,49,33-1
+49 Rue du Hamel,49,33-2
+49 Rue du Jardin Public,49,33-1
+49ter Cours de la Somme,49ter,33-2
+4b Cours de Tournon,4b,33-2
+5 Avenue d'Ares,5,33-1
+5 Cours Marc Nouaux,5,33-2
+5 Cours de Tournon,5,33-1
+5 Place Gambetta,5,33-2
+5 Place Pey Berland,5,33-2
+5 Place de la Victoire,5,33-3
+5 Place des Quinconces,5,33-2
+5 Route de Toulouse,5,33-2
+5 Rue Camille Saint-Saëns,5,33-1|33-2
+5 Rue Camille Sauvageau,5,33-2
+5 Rue Chevalier,5,33-2
+5 Rue Corot,5,33-1
+5 Rue Croix de Seguey,5,33-1
+5 Rue Docteur Albert Barraud,5,33-2
+5 Rue Fondaudege,5,33-1
+5 Rue Gramont,5,33-3
+5 Rue Jean de la Fontaine,5,33-1
+5 Rue Jean-Jacques Rousseau,5,33-1
+5 Rue Kleber,5,33-3
+5 Rue Leyteire,5,33-2
+5 Rue Lucien Duffau,5,33-1
+5 Rue Luckner,5,33-1
+5 Rue Professeur Bergonie,5,33-3
+5 Rue de Lacanau,5,33-1|33-2
+5 Rue de l'Arsenal,5,33-1
+5 Rue du Commandant Charcot,5,33-1
+5 Rue du Hamel,5,33-2
+5 Rue du Loup,5,33-1|33-2
+50 Avenue d'Ares,50,33-2
+50 Boulevard du Président Wilson,50,33-2
+50 Cours d'Albret,50,33-2
+50 Cours de la Somme,50,33-3
+50 Passage Hermitte,50,33-2
+50 Place des Capucins,50,33-2
+50 Rue Carpenteyre,50,33-2
+50 Rue Chevalier,50,33-2
+50 Rue Elie Gintrac,50,33-2
+50 Rue Fondaudege,50,33-2
+50 Rue Huguerie,50,33-2
+50 Rue Jean de la Fontaine,50,33-1
+50 Rue Kleber,50,33-1
+50 Rue Manon Cormier,50,33-2
+50 Rue Maréchal Joffre,50,33-1|33-2
+50 Rue de Lacanau,50,33-1
+50 Rue du Hamel,50,33-3
+50 Rue du Jardin Public,50,33-1
+50bis Avenue d'Ares,50bis,33-2
+51 Cours Marc Nouaux,51,33-2
+51 Passage Hermitte,51,33-2
+51 Rue Camille Sauvageau,51,33-2
+51 Rue Carpenteyre,51,33-2
+51 Rue Chevalier,51,33-2
+51 Rue Croix de Seguey,51,33-1
+51 Rue Huguerie,51,33-2
+51 Rue Kleber,51,33-1
+51 Rue Manon Cormier,51,33-2
+51 Rue Maréchal Joffre,51,33-1
+51 Rue Turenne,51,33-2
+51 Rue du Jardin Public,51,33-1
+52 Avenue d'Ares,52,33-2
+52 Boulevard du Président Wilson,52,33-2
+52 Cours Marc Nouaux,52,33-2
+52 Cours d'Albret,52,33-2
+52 Route de Toulouse,52,33-3
+52 Rue Camille Sauvageau,52,33-2
+52 Rue Croix de Seguey,52,33-2
+52 Rue Docteur Albert Barraud,52,33-2
+52 Rue Huguerie,52,33-2
+52 Rue Kleber,52,33-1
+52 Rue Leyteire,52,33-2
+52 Rue Maréchal Joffre,52,33-1|33-2
+52 Rue du Jardin Public,52,33-1
+53 Cours Marc Nouaux,53,33-1|33-2
+53 Place des Capucins,53,33-2
+53 Rue Chevalier,53,33-2
+53 Rue Croix de Seguey,53,33-1
+53 Rue Fondaudege,53,33-1
+53 Rue Huguerie,53,33-2
+53 Rue Kleber,53,33-1|33-3
+53 Rue Léon Jouhaux,53,33-3
+53 Rue Turenne,53,33-2
+53 Rue du Jardin Public,53,33-1
+54 Avenue d'Ares,54,33-2
+54 Boulevard du Président Wilson,54,33-2
+54 Cours Marc Nouaux,54,33-2
+54 Cours d'Albret,54,33-2
+54 Cours de la Somme,54,33-3
+54 Passage Hermitte,54,33-2
+54 Place des Capucins,54,33-2
+54 Route de Toulouse,54,33-3
+54 Rue Carpenteyre,54,33-2
+54 Rue Chevalier,54,33-2
+54 Rue Croix de Seguey,54,33-2
+54 Rue Fondaudege,54,33-2
+54 Rue Kleber,54,33-1
+54 Rue Maréchal Joffre,54,33-1
+54 Rue Mazarin,54,33-2
+54 Rue Turenne,54,33-2
+54 Rue du Jardin Public,54,33-1
+54 Rue du Loup,54,33-2
+55 Avenue d'Ares,55,33-1
+55 Boulevard du Président Wilson,55,33-1
+55 Cours d'Albret,55,33-2
+55 Place des Capucins,55,33-2
+55 Rue Camille Sauvageau,55,33-2
+55 Rue Chevalier,55,33-2
+55 Rue Croix de Seguey,55,33-1
+55 Rue Docteur Albert Barraud,55,33-2
+55 Rue Fondaudege,55,33-1
+55 Rue Huguerie,55,33-2
+55 Rue Kleber,55,33-1|33-3
+55 Rue Maréchal Joffre,55,33-1
+55 Rue Mazarin,55,33-2
+55 Rue Turenne,55,33-2
+55 Rue du Jardin Public,55,33-1
+55 Rue du Loup,55,33-2
+56 Avenue d'Ares,56,33-2
+56 Boulevard du Président Wilson,56,33-2
+56 Cours Marc Nouaux,56,33-2
+56 Cours d'Albret,56,33-2
+56 Cours de la Somme,56,33-3
+56 Passage Hermitte,56,33-2
+56 Place des Capucins,56,33-2
+56 Rue Carpenteyre,56,33-2
+56 Rue Fondaudege,56,33-2
+56 Rue Huguerie,56,33-2
+56 Rue Kleber,56,33-1
+56 Rue Mazarin,56,33-2
+56 Rue Turenne,56,33-2
+56 Rue du Commandant Charcot,56,33-1
+56 Rue du Hamel,56,33-3
+56 Rue du Jardin Public,56,33-1
+57 Avenue d'Ares,57,33-1
+57 Boulevard du Président Wilson,57,33-1
+57 Cours d'Albret,57,33-2
+57 Rue Camille Sauvageau,57,33-2
+57 Rue Chevalier,57,33-2
+57 Rue Croix de Seguey,57,33-1
+57 Rue Docteur Albert Barraud,57,33-2
+57 Rue Fondaudege,57,33-1
+57 Rue Huguerie,57,33-2
+57 Rue Kleber,57,33-1
+57 Rue Maréchal Joffre,57,33-1
+57 Rue Mazarin,57,33-2
+57 Rue Turenne,57,33-2
+57 Rue de Lacanau,57,33-1
+57 Rue du Jardin Public,57,33-1
+57 Rue du Loup,57,33-2
+57b Boulevard du Président Wilson,57b,33-1
+58 Avenue d'Ares,58,33-2
+58 Cours Marc Nouaux,58,33-2
+58 Cours de la Somme,58,33-3
+58 Place des Capucins,58,33-2
+58 Rue Carpenteyre,58,33-2
+58 Rue Fondaudege,58,33-2
+58 Rue Huguerie,58,33-2
+58 Rue Kleber,58,33-1
+58 Rue Leyteire,58,33-2
+58 Rue Maréchal Joffre,58,33-1
+58 Rue Turenne,58,33-2
+58 Rue de Lacanau,58,33-1
+58 Rue du Commandant Charcot,58,33-1
+58 Rue du Hamel,58,33-3
+58 Rue du Jardin Public,58,33-1
+59 Avenue d'Ares,59,33-1
+59 Boulevard du Président Wilson,59,33-1
+59 Cours Marc Nouaux,59,33-2
+59 Rue Carpenteyre,59,33-2
+59 Rue Croix de Seguey,59,33-1
+59 Rue Fondaudege,59,33-1
+59 Rue Huguerie,59,33-2
+59 Rue Kleber,59,33-3
+59 Rue Leyteire,59,33-2
+59 Rue Maréchal Joffre,59,33-1
+59 Rue Mazarin,59,33-2
+59 Rue de Lacanau,59,33-1
+59 Rue du Jardin Public,59,33-1
+59 Rue du Loup,59,33-2
+5b Rue de Lacanau,5b,33-2
+6 Avenue d'Ares,6,33-2
+6 Cours Marc Nouaux,6,33-2
+6 Cours d'Albret,6,33-2
+6 Quai Louis XVIII,6,33-2
+6 Rue Camille Saint-Saëns,6,33-1|33-2
+6 Rue Carpenteyre,6,33-2
+6 Rue Causserouge,6,33-2
+6 Rue Corot,6,33-1
+6 Rue Croix de Seguey,6,33-2
+6 Rue Docteur Albert Barraud,6,33-2
+6 Rue Huguerie,6,33-2
+6 Rue Jean de la Fontaine,6,33-1
+6 Rue Jean-Jacques Rousseau,6,33-1|33-2
+6 Rue Kleber,6,33-1|33-3
+6 Rue Leyteire,6,33-2
+6 Rue Lucien Duffau,6,33-1
+6 Rue Luckner,6,33-1
+6 Rue Manon Cormier,6,33-2
+6 Rue Maréchal Joffre,6,33-1|33-2
+6 Rue Mazarin,6,33-2
+6 Rue Moulinie,6,33-2
+6 Rue Professeur Bergonie,6,33-3
+6 Rue Turenne,6,33-2
+6 Rue de Lacanau,6,33-1|33-2
+6 Rue de l'Arsenal,6,33-1
+6 Rue de la Porte de la Monnaie,6,33-3
+6 Rue du Hamel,6,33-3
+6 Rue du Jardin Public,6,33-1
+6 Rue du Loup,6,33-2
+60 Boulevard du Président Wilson,60,33-2
+60 Cours Marc Nouaux,60,33-2
+60 Cours de la Somme,60,33-3
+60 Passage Hermitte,60,33-2
+60 Route de Toulouse,60,33-3
+60 Rue Croix de Seguey,60,33-2
+60 Rue Huguerie,60,33-2
+60 Rue Kleber,60,33-3
+60 Rue Leyteire,60,33-2
+60 Rue Manon Cormier,60,33-2
+60 Rue Maréchal Joffre,60,33-1
+60 Rue Mazarin,60,33-2
+60 Rue Turenne,60,33-2
+60 Rue de Lacanau,60,33-1
+60 Rue du Loup,60,33-2
+61 Avenue d'Ares,61,33-1
+61 Boulevard du Président Wilson,61,33-1
+61 Cours Marc Nouaux,61,33-2
+61 Cours d'Albret,61,33-2
+61 Rue Camille Sauvageau,61,33-2
+61 Rue Carpenteyre,61,33-2
+61 Rue Chevalier,61,33-2
+61 Rue Croix de Seguey,61,33-1
+61 Rue Elie Gintrac,61,33-3
+61 Rue Fondaudege,61,33-1
+61 Rue Huguerie,61,33-2
+61 Rue Kleber,61,33-1|33-3
+61 Rue Leyteire,61,33-2
+61 Rue Manon Cormier,61,33-2
+61 Rue Mazarin,61,33-2
+61bis Cours Marc Nouaux,61bis,33-2
+62 Boulevard du Président Wilson,62,33-2
+62 Route de Toulouse,62,33-3
+62 Rue Camille Sauvageau,62,33-2
+62 Rue Carpenteyre,62,33-3
+62 Rue Huguerie,62,33-2
+62 Rue Maréchal Joffre,62,33-1
+62 Rue Mazarin,62,33-2
+62 Rue de Lacanau,62,33-1
+62 Rue du Hamel,62,33-3
+62 Rue du Jardin Public,62,33-1
+62 Rue du Loup,62,33-2
+63 Avenue d'Ares,63,33-1
+63 Boulevard du Président Wilson,63,33-1
+63 Cours d'Albret,63,33-2
+63 Rue Chevalier,63,33-2
+63 Rue Croix de Seguey,63,33-1
+63 Rue Fondaudege,63,33-1
+63 Rue Huguerie,63,33-2
+63 Rue Kleber,63,33-3
+63 Rue Léon Jouhaux,63,33-3
+63 Rue Maréchal Joffre,63,33-1
+63 Rue Mazarin,63,33-2
+63 Rue Turenne,63,33-2
+63 Rue du Jardin Public,63,33-1
+63 Rue du Loup,63,33-2
+64 Boulevard du Président Wilson,64,33-2
+64 Cours de la Somme,64,33-3
+64 Passage Hermitte,64,33-2
+64 Route de Toulouse,64,33-3
+64 Rue Camille Sauvageau,64,33-2
+64 Rue Carpenteyre,64,33-3
+64 Rue Chevalier,64,33-2
+64 Rue Croix de Seguey,64,33-2
+64 Rue Fondaudege,64,33-2
+64 Rue Huguerie,64,33-2
+64 Rue Kleber,64,33-1|33-3
+64 Rue Maréchal Joffre,64,33-1
+64 Rue de Lacanau,64,33-1
+64 Rue du Jardin Public,64,33-1
+64 Rue du Loup,64,33-2
+65 Boulevard du Président Wilson,65,33-1
+65 Cours d'Albret,65,33-2
+65 Rue Camille Sauvageau,65,33-2
+65 Rue Docteur Albert Barraud,65,33-2
+65 Rue Huguerie,65,33-2
+65 Rue Kleber,65,33-1
+65 Rue Maréchal Joffre,65,33-1
+65 Rue Mazarin,65,33-2
+65 Rue Turenne,65,33-2
+65 Rue du Jardin Public,65,33-1
+66 Cours Marc Nouaux,66,33-2
+66 Cours de la Somme,66,33-3
+66 Passage Hermitte,66,33-2
+66 Route de Toulouse,66,33-3
+66 Rue Camille Sauvageau,66,33-2
+66 Rue Croix de Seguey,66,33-2
+66 Rue Fondaudege,66,33-2
+66 Rue Huguerie,66,33-2
+66 Rue Kleber,66,33-1|33-3
+66 Rue Manon Cormier,66,33-2
+66 Rue du Jardin Public,66,33-1
+67 Avenue d'Ares,67,33-1
+67 Boulevard du Président Wilson,67,33-1
+67 Cours Marc Nouaux,67,33-2
+67 Rue Camille Sauvageau,67,33-2
+67 Rue Carpenteyre,67,33-3
+67 Rue Croix de Seguey,67,33-1
+67 Rue Docteur Albert Barraud,67,33-2
+67 Rue Fondaudege,67,33-1
+67 Rue Kleber,67,33-3
+67 Rue Leyteire,67,33-2
+67 Rue du Jardin Public,67,33-1
+68 Avenue d'Ares,68,33-2
+68 Boulevard du Président Wilson,68,33-2
+68 Passage Hermitte,68,33-2
+68 Route de Toulouse,68,33-3
+68 Rue Carpenteyre,68,33-3
+68 Rue Croix de Seguey,68,33-2
+68 Rue Fondaudege,68,33-2
+68 Rue Huguerie,68,33-2
+68 Rue Kleber,68,33-1|33-3
+68 Rue Leyteire,68,33-2
+68 Rue du Jardin Public,68,33-1
+68 Rue du Loup,68,33-2
+69 Avenue d'Ares,69,33-1
+69 Boulevard du Président Wilson,69,33-1
+69 Cours Marc Nouaux,69,33-2
+69 Cours d'Albret,69,33-2
+69 Cours de la Somme,69,33-2
+69 Rue Camille Sauvageau,69,33-2
+69 Rue Carpenteyre,69,33-3
+69 Rue Chevalier,69,33-1|33-2
+69 Rue Fondaudege,69,33-1
+69 Rue Kleber,69,33-1
+69 Rue Leyteire,69,33-2
+69 Rue Manon Cormier,69,33-2
+69 Rue Maréchal Joffre,69,33-1
+69 Rue Turenne,69,33-2
+69 Rue de Lacanau,69,33-1
+6b Cours Marc Nouaux,6b,33-2
+7 Avenue d'Ares,7,33-1
+7 Boulevard du Président Wilson,7,33-1
+7 Cours de la Somme,7,33-2
+7 Place Léon Duguit,7,33-2
+7 Place Pey Berland,7,33-2
+7 Place des Quinconces,7,33-2
+7 Route de Toulouse,7,33-2
+7 Rue Camille Saint-Saëns,7,33-1|33-2
+7 Rue Camille Sauvageau,7,33-2
+7 Rue Chevalier,7,33-2
+7 Rue Colbert,7,33-2
+7 Rue Corot,7,33-1
+7 Rue Docteur Albert Barraud,7,33-2
+7 Rue Elie Gintrac,7,33-3
+7 Rue Gramont,7,33-3
+7 Rue Huguerie,7,33-2
+7 Rue Jean-Jacques Rousseau,7,33-1|33-2
+7 Rue Kleber,7,33-1|33-3
+7 Rue Leyteire,7,33-2
+7 Rue Lucien Duffau,7,33-1
+7 Rue Pierre Loti,7,33-1|33-3
+7 Rue Professeur Bergonie,7,33-3
+7 Rue de Cheverus,7,33-2
+7 Rue de Lacanau,7,33-1|33-2
+7 Rue de l'Arsenal,7,33-1
+7 Rue de la Porte de la Monnaie,7,33-2
+7 Rue du Hamel,7,33-2
+7 Rue du Jardin Public,7,33-1
+7 Rue du Loup,7,33-1
+70 Boulevard du Président Wilson,70,33-2
+70 Cours Marc Nouaux,70,33-2
+70 Route de Toulouse,70,33-3
+70 Rue Fondaudege,70,33-2
+70 Rue Kleber,70,33-1|33-3
+70 Rue Turenne,70,33-2
+70 Rue du Jardin Public,70,33-1
+70 Rue du Loup,70,33-2
+71 Avenue d'Ares,71,33-1
+71 Cours Marc Nouaux,71,33-2
+71 Cours d'Albret,71,33-2
+71 Cours de la Somme,71,33-2
+71 Passage Hermitte,71,33-2
+71 Rue Camille Sauvageau,71,33-2
+71 Rue Croix de Seguey,71,33-1
+71 Rue Fondaudege,71,33-1
+71 Rue Huguerie,71,33-2
+71 Rue Kleber,71,33-3
+71 Rue Leyteire,71,33-2
+71 Rue Manon Cormier,71,33-2
+71 Rue Maréchal Joffre,71,33-1
+71 Rue Turenne,71,33-2
+71 Rue de Lacanau,71,33-1
+71 Rue du Jardin Public,71,33-1
+71 Rue du Loup,71,33-2
+72 Avenue d'Ares,72,33-2
+72 Boulevard du Président Wilson,72,33-2
+72 Cours Marc Nouaux,72,33-2
+72 Passage Hermitte,72,33-2
+72 Route de Toulouse,72,33-3
+72 Rue Croix de Seguey,72,33-2
+72 Rue Docteur Albert Barraud,72,33-2
+72 Rue Fondaudege,72,33-2
+72 Rue Kleber,72,33-1|33-3
+72 Rue Manon Cormier,72,33-2
+72 Rue Mazarin,72,33-2
+72 Rue du Loup,72,33-2
+73 Cours Marc Nouaux,73,33-2
+73 Cours d'Albret,73,33-2
+73 Passage Hermitte,73,33-2
+73 Rue Camille Sauvageau,73,33-2
+73 Rue Croix de Seguey,73,33-1
+73 Rue Docteur Albert Barraud,73,33-2
+73 Rue Fondaudege,73,33-1
+73 Rue Kleber,73,33-1|33-3
+73 Rue Manon Cormier,73,33-2
+73 Rue Maréchal Joffre,73,33-1
+73 Rue Turenne,73,33-2
+73 Rue de Lacanau,73,33-1
+73 Rue du Jardin Public,73,33-1
+73 Rue du Loup,73,33-2
+74 Boulevard du Président Wilson,74,33-2
+74 Cours Marc Nouaux,74,33-2
+74 Cours de la Somme,74,33-3
+74 Passage Hermitte,74,33-2
+74 Rue Croix de Seguey,74,33-2
+74 Rue Docteur Albert Barraud,74,33-2
+74 Rue Kleber,74,33-1
+74 Rue Leyteire,74,33-2
+74 Rue Manon Cormier,74,33-2
+74 Rue Mazarin,74,33-2
+74 Rue du Jardin Public,74,33-1
+74 Rue du Loup,74,33-2
+75 Avenue d'Ares,75,33-1
+75 Cours Marc Nouaux,75,33-2
+75 Cours d'Albret,75,33-2
+75 Cours de la Somme,75,33-2
+75 Passage Hermitte,75,33-2
+75 Rue Camille Sauvageau,75,33-2
+75 Rue Carpenteyre,75,33-3
+75 Rue Croix de Seguey,75,33-1
+75 Rue Docteur Albert Barraud,75,33-2
+75 Rue Fondaudege,75,33-1
+75 Rue Kleber,75,33-3
+75 Rue Leyteire,75,33-2
+75 Rue Manon Cormier,75,33-2
+75 Rue Maréchal Joffre,75,33-1
+75 Rue du Loup,75,33-2
+76 Avenue d'Ares,76,33-2
+76 Boulevard du Président Wilson,76,33-2
+76 Cours de la Somme,76,33-3
+76 Passage Hermitte,76,33-2
+76 Rue Croix de Seguey,76,33-2
+76 Rue Kleber,76,33-3
+76 Rue Manon Cormier,76,33-2
+76 Rue du Loup,76,33-2
+77 Boulevard du Président Wilson,77,33-1
+77 Cours Marc Nouaux,77,33-2
+77 Cours de la Somme,77,33-2
+77 Rue Camille Sauvageau,77,33-2
+77 Rue Croix de Seguey,77,33-1
+77 Rue Docteur Albert Barraud,77,33-2
+77 Rue Fondaudege,77,33-1
+77 Rue Kleber,77,33-1|33-3
+77 Rue Manon Cormier,77,33-2
+77 Rue du Loup,77,33-2
+77b Rue Maréchal Joffre,77b,33-1
+78 Boulevard du Président Wilson,78,33-2
+78 Cours Marc Nouaux,78,33-2
+78 Cours de la Somme,78,33-3
+78 Rue Docteur Albert Barraud,78,33-2
+78 Rue Fondaudege,78,33-2
+78 Rue Kleber,78,33-3
+78 Rue Manon Cormier,78,33-2
+78 Rue de Lacanau,78,33-1
+79 Avenue d'Ares,79,33-1
+79 Boulevard du Président Wilson,79,33-1
+79 Cours Marc Nouaux,79,33-2
+79 Cours d'Albret,79,33-2
+79 Cours de la Somme,79,33-2
+79 Rue Camille Sauvageau,79,33-2
+79 Rue Croix de Seguey,79,33-1
+79 Rue Fondaudege,79,33-1
+79 Rue Kleber,79,33-1|33-3
+79 Rue Leyteire,79,33-2
+79 Rue Manon Cormier,79,33-2
+79 Rue Maréchal Joffre,79,33-1
+79 Rue Turenne,79,33-2
+79 Rue du Loup,79,33-2
+8 Avenue d'Ares,8,33-2
+8 Cours Marc Nouaux,8,33-2
+8 Cours d'Albret,8,33-2
+8 Cours de Tournon,8,33-2
+8 Cours de la Somme,8,33-3
+8 Passage Hermitte,8,33-2
+8 Place de la Victoire,8,33-3
+8 Place des Quinconces,8,33-2
+8 Rue Carpenteyre,8,33-2
+8 Rue Causserouge,8,33-2
+8 Rue Colbert,8,33-2
+8 Rue Corot,8,33-1
+8 Rue Croix de Seguey,8,33-2
+8 Rue Docteur Albert Barraud,8,33-2
+8 Rue Fondaudege,8,33-2
+8 Rue Huguerie,8,33-2
+8 Rue Jean de la Fontaine,8,33-1
+8 Rue Jean-Jacques Rousseau,8,33-1|33-2
+8 Rue Kleber,8,33-1
+8 Rue Leyteire,8,33-2
+8 Rue Luckner,8,33-1
+8 Rue Manon Cormier,8,33-2
+8 Rue Maréchal Joffre,8,33-1|33-2
+8 Rue Mazarin,8,33-2
+8 Rue Pierre Loti,8,33-3
+8 Rue Professeur Bergonie,8,33-3
+8 Rue Turenne,8,33-2
+8 Rue de Cheverus,8,33-2
+8 Rue de Lacanau,8,33-2
+8 Rue du Commandant Charcot,8,33-2
+8 Rue du Hamel,8,33-3
+8 Rue du Jardin Public,8,33-1
+8 Rue du Loup,8,33-1|33-2
+80 Avenue d'Ares,80,33-2
+80 Cours Marc Nouaux,80,33-2
+80 Cours de la Somme,80,33-3
+80 Route de Toulouse,80,33-3
+80 Rue Camille Sauvageau,80,33-3
+80 Rue Carpenteyre,80,33-3
+80 Rue Chevalier,80,33-2
+80 Rue Croix de Seguey,80,33-2
+80 Rue Docteur Albert Barraud,80,33-2
+80 Rue Fondaudege,80,33-2
+80 Rue Kleber,80,33-1|33-3
+80 Rue Manon Cormier,80,33-2
+80 Rue de Lacanau,80,33-1|33-2
+80 Rue du Loup,80,33-2
+81 Avenue d'Ares,81,33-1
+81 Boulevard du Président Wilson,81,33-1
+81 Cours de la Somme,81,33-2
+81 Rue Camille Sauvageau,81,33-2
+81 Rue Croix de Seguey,81,33-1
+81 Rue Fondaudege,81,33-1
+81 Rue Kleber,81,33-1|33-3
+81 Rue Manon Cormier,81,33-2
+82 Avenue d'Ares,82,33-2
+82 Cours Marc Nouaux,82,33-2
+82 Rue Carpenteyre,82,33-3
+82 Rue Croix de Seguey,82,33-2
+82 Rue Kleber,82,33-1|33-3
+82 Rue Manon Cormier,82,33-2
+82 Rue du Jardin Public,82,33-1
+83 Cours Marc Nouaux,83,33-2
+83 Cours d'Albret,83,33-2
+83 Cours de la Somme,83,33-2
+83 Rue Croix de Seguey,83,33-1
+83 Rue Docteur Albert Barraud,83,33-2
+83 Rue Fondaudege,83,33-1
+83 Rue Kleber,83,33-1|33-3
+83 Rue Manon Cormier,83,33-2
+83 Rue Mazarin,83,33-2
+84 Boulevard du Président Wilson,84,33-2
+84 Cours Marc Nouaux,84,33-2
+84 Rue Camille Sauvageau,84,33-3
+84 Rue Carpenteyre,84,33-3
+84 Rue Chevalier,84,33-2
+84 Rue Croix de Seguey,84,33-2
+84 Rue Docteur Albert Barraud,84,33-2
+84 Rue Fondaudege,84,33-2
+84 Rue Kleber,84,33-1
+84 Rue Manon Cormier,84,33-2
+84 Rue Mazarin,84,33-2
+84 Rue Turenne,84,33-2
+84 Rue du Jardin Public,84,33-1
+84 Rue du Loup,84,33-2
+85 Avenue d'Ares,85,33-1
+85 Cours Marc Nouaux,85,33-2
+85 Cours d'Albret,85,33-2
+85 Rue Camille Sauvageau,85,33-3
+85 Rue Carpenteyre,85,33-3
+85 Rue Docteur Albert Barraud,85,33-2
+85 Rue Fondaudege,85,33-1
+85 Rue Kleber,85,33-1|33-3
+85 Rue Leyteire,85,33-2
+85 Rue Manon Cormier,85,33-2
+85 Rue Mazarin,85,33-2
+85 Rue Turenne,85,33-2
+85 Rue de Lacanau,85,33-1
+85 Rue du Loup,85,33-2
+86 Cours Marc Nouaux,86,33-1|33-2
+86 Cours d'Albret,86,33-2
+86 Rue Carpenteyre,86,33-3
+86 Rue Chevalier,86,33-2
+86 Rue Docteur Albert Barraud,86,33-2
+86 Rue Fondaudege,86,33-2
+86 Rue Kleber,86,33-1
+86 Rue Manon Cormier,86,33-2
+87 Rue Camille Sauvageau,87,33-3
+87 Rue Chevalier,87,33-2
+87 Rue Docteur Albert Barraud,87,33-2
+87 Rue Kleber,87,33-1
+87 Rue Leyteire,87,33-2
+87 Rue Manon Cormier,87,33-2
+87 Rue Turenne,87,33-2
+87 Rue de Lacanau,87,33-1
+87 Rue du Loup,87,33-2
+88 Avenue d'Ares,88,33-2
+88 Cours Marc Nouaux,88,33-2
+88 Cours de la Somme,88,33-3
+88 Rue Carpenteyre,88,33-3
+88 Rue Chevalier,88,33-2
+88 Rue Croix de Seguey,88,33-2
+88 Rue Fondaudege,88,33-2
+88 Rue Kleber,88,33-1
+88 Rue Manon Cormier,88,33-2
+88 Rue Turenne,88,33-2
+89 Cours d'Albret,89,33-2
+89 Rue Camille Sauvageau,89,33-3
+89 Rue Croix de Seguey,89,33-1
+89 Rue Docteur Albert Barraud,89,33-2
+89 Rue Kleber,89,33-1
+89 Rue Leyteire,89,33-2
+89 Rue Mazarin,89,33-2
+89 Rue Turenne,89,33-2
+89 Rue de Lacanau,89,33-1
+8b Rue Jean-Jacques Rousseau,8b,33-1
+9 Cours Marc Nouaux,9,33-2
+9 Cours de Tournon,9,33-1
+9 Cours de la Somme,9,33-2
+9 Place Gambetta,9,33-2
+9 Place des Capucins,9,33-3
+9 Rue Camille Saint-Saëns,9,33-1|33-2
+9 Rue Carpenteyre,9,33-2
+9 Rue Causserouge,9,33-1|33-2
+9 Rue Chevalier,9,33-2
+9 Rue Corot,9,33-2
+9 Rue Croix de Seguey,9,33-1
+9 Rue Docteur Albert Barraud,9,33-2
+9 Rue Elie Gintrac,9,33-3
+9 Rue Fondaudege,9,33-1
+9 Rue Huguerie,9,33-2
+9 Rue Kleber,9,33-3
+9 Rue Leyteire,9,33-2
+9 Rue Maréchal Joffre,9,33-1
+9 Rue Pierre Loti,9,33-1|33-3
+9 Rue Professeur Bergonie,9,33-3
+9 Rue de Cheverus,9,33-2
+9 Rue de Lacanau,9,33-1|33-2
+9 Rue de l'Arsenal,9,33-1
+9 Rue de la Porte de la Monnaie,9,33-2
+9 Rue du Commandant Charcot,9,33-1
+9 Rue du Hamel,9,33-2
+9 Rue du Jardin Public,9,33-1
+9 Rue du Loup,9,33-1
+90 Avenue d'Ares,90,33-2
+90 Cours Marc Nouaux,90,33-2
+90 Cours de la Somme,90,33-3
+90 Rue Camille Sauvageau,90,33-3
+90 Rue Carpenteyre,90,33-3
+90 Rue Croix de Seguey,90,33-2
+90 Rue Fondaudege,90,33-2
+90 Rue Leyteire,90,33-2
+90 Rue Manon Cormier,90,33-2
+90 Rue Turenne,90,33-2
+90 Rue du Loup,90,33-2
+90bis Rue Mazarin,90bis,33-2
+91 Avenue d'Ares,91,33-1
+91 Rue Camille Sauvageau,91,33-3
+91 Rue Croix de Seguey,91,33-1
+91 Rue Docteur Albert Barraud,91,33-2
+91 Rue Fondaudege,91,33-1
+91 Rue Kleber,91,33-1|33-3
+91 Rue Manon Cormier,91,33-2
+91 Rue Mazarin,91,33-2
+91 Rue Turenne,91,33-2
+91 Rue de Lacanau,91,33-1
+91 Rue du Loup,91,33-2
+91bis Rue Camille Sauvageau,91bis,33-3
+92 Avenue d'Ares,92,33-2
+92 Cours Marc Nouaux,92,33-2
+92 Rue Camille Sauvageau,92,33-3
+92 Rue Carpenteyre,92,33-3
+92 Rue Croix de Seguey,92,33-2
+92 Rue Docteur Albert Barraud,92,33-2
+92 Rue Fondaudege,92,33-2
+92 Rue Kleber,92,33-3
+92 Rue Turenne,92,33-2
+93 Avenue d'Ares,93,33-1
+93 Boulevard du Président Wilson,93,33-1
+93 Rue Camille Sauvageau,93,33-3
+93 Rue Croix de Seguey,93,33-1
+93 Rue Docteur Albert Barraud,93,33-2
+93 Rue Fondaudege,93,33-1
+93 Rue Kleber,93,33-1|33-3
+93 Rue Manon Cormier,93,33-2
+93 Rue Mazarin,93,33-2
+93 Rue Turenne,93,33-2
+93 Rue de Lacanau,93,33-1|33-2
+94 Avenue d'Ares,94,33-2
+94 Cours de la Somme,94,33-3
+94 Rue Croix de Seguey,94,33-2
+94 Rue Fondaudege,94,33-2
+94 Rue Leyteire,94,33-3
+94 Rue Manon Cormier,94,33-2
+94 Rue Mazarin,94,33-2
+94 Rue Turenne,94,33-2
+94b Rue Croix de Seguey,94b,33-2
+95 Avenue d'Ares,95,33-1
+95 Cours d'Albret,95,33-2
+95 Rue Camille Sauvageau,95,33-3
+95 Rue Croix de Seguey,95,33-1
+95 Rue Docteur Albert Barraud,95,33-2
+95 Rue Fondaudege,95,33-1
+95 Rue Kleber,95,33-1
+95 Rue Mazarin,95,33-2
+95 Rue Turenne,95,33-2
+95 Rue du Jardin Public,95,33-1
+96 Avenue d'Ares,96,33-2
+96 Rue Camille Sauvageau,96,33-3
+96 Rue Chevalier,96,33-2
+96 Rue Croix de Seguey,96,33-2
+96 Rue Docteur Albert Barraud,96,33-2
+96 Rue Fondaudege,96,33-2
+96 Rue Kleber,96,33-3
+96 Rue Manon Cormier,96,33-2
+96 Rue Mazarin,96,33-2
+96 Rue Turenne,96,33-2
+96 Rue du Jardin Public,96,33-1
+97 Cours d'Albret,97,33-2
+97 Cours de la Somme,97,33-2
+97 Rue Croix de Seguey,97,33-1
+97 Rue Docteur Albert Barraud,97,33-2
+97 Rue Fondaudege,97,33-1
+97 Rue Kleber,97,33-1|33-3
+97 Rue Manon Cormier,97,33-2
+97 Rue Mazarin,97,33-2
+97 Rue Turenne,97,33-2
+97 Rue du Jardin Public,97,33-1
+98 Boulevard du Président Wilson,98,33-2
+98 Cours d'Albret,98,33-2
+98 Rue Camille Sauvageau,98,33-3
+98 Rue Croix de Seguey,98,33-2
+98 Rue Docteur Albert Barraud,98,33-2
+98 Rue Fondaudege,98,33-2
+98 Rue Manon Cormier,98,33-2
+98 Rue Turenne,98,33-2
+98 Rue du Jardin Public,98,33-1
+98b Boulevard du Président Wilson,98b,33-2
+99 Avenue d'Ares,99,33-1
+99 Boulevard du Président Wilson,99,33-1
+99 Cours de la Somme,99,33-2
+99 Rue Camille Sauvageau,99,33-3
+99 Rue Croix de Seguey,99,33-1
+99 Rue Fondaudege,99,33-1
+99 Rue Manon Cormier,99,33-2
+99 Rue Turenne,99,33-2
+99 Rue du Jardin Public,99,33-1
+Allée Alexandra David-Neel,,33-1
+Allée Arago,,33-1
+Allée Baden Powell,,33-1
+Allée Balzac,,33-1
+Allée Blériot,,33-1
+Allée Bordelaise,,33-1
+Allée Branly,,33-1
+Allée Carmouze,,33-1
+Allée Chantilly,,33-1
+Allée Corneille,,33-1
+Allée Davezac,,33-1
+Allée Dieudonne Costes,,33-1
+Allée Duc de Sully,,33-1
+Allée Eugène Delacroix,,33-3
+Allée Fabelle,,33-1
+Allée Francis Delobelle,,33-1
+Allée Ganda,,33-1
+Allée George Sand,,33-1
+Allée Haussmann,,33-1
+Allée Henri Moreau,,33-1
+Allée Jean Benais,,33-1
+Allée Jean Giono,,33-2
+Allée Lafayette,,33-1
+Allée Listrac,,33-2
+Allée Louvois,,33-1
+Allée Mermoz,,33-1
+Allée Mirabeau,,33-1
+Allée Mistral,,33-1
+Allée Monge,,33-1
+Allée Montesquieu,,33-1
+Allée Montgolfier,,33-1
+Allée Queyret,,33-1
+Allée Raymond-Jean Dupouy,,33-1
+Allée Roland Garros,,33-1
+Allée Ronsard,,33-1
+Allée Saint-Exupéry,,33-1
+Allée Serr,,33-2
+Allée Stendhal,,33-1
+Allée Vignolles,,33-3
+Allée d'Orleans,,33-2
+Allée de Boutaut,,33-1
+Allée de Chartres,,33-1
+Allée de Passy,,33-1
+Allée de Tourny,,33-2
+Allée de Vampeule,,33-1
+Allée de l'Orangeraie,,33-1
+Allée de l'Union,,33-1
+Allée de la Chenaie,,33-1
+Allée de la Pacific,,33-3
+Allée des Charrettes,,33-3
+Allée des Douelles,,33-3
+Allée des Frères Lumière,,33-1
+Allée des Hirondelles,,33-1
+Allée des Marronniers,,33-1
+Allée des Pasteurines,,33-1
+Allée des Peupliers,,33-2
+Allée des Pins,,33-2
+Allée des Roses,,33-1
+Allée du Milan Noir,,33-1
+Allée du Parc du Consul,,33-1
+Allée du Trident,,33-1
+Avenue Abadie,,33-2
+Avenue Alfred Grimal,,33-1
+Avenue Alsace Lorraine,,33-1
+Avenue André Reinson,,33-1
+Avenue Bel Air,,33-1
+Avenue Carnot,,33-1
+Avenue Charles de Gaulle,,33-1
+Avenue Emile Counord,,33-1
+Avenue Félix Faure,,33-1
+Avenue Georges Clémenceau,,33-1
+Avenue Jeanne d'Arc,,33-2
+Avenue Louis Barthou,,33-1
+Avenue Léon Blum,,33-1
+Avenue Marcel Dassault,,33-1
+Avenue Maurice Martin,,33-2
+Avenue Monrabeau,,33-1
+Avenue Raymond Poincare,,33-1
+Avenue Saint Amand,,33-1
+Avenue Thiers,,33-2
+Avenue Vercingetorix,,33-2
+Avenue d'Eysines,,33-1
+Avenue de Caudéran,,33-1
+Avenue de Labarde,,33-1
+Avenue de Laroque,,33-1
+Avenue de Mirande,,33-1
+Avenue de Mirmont,,33-1
+Avenue de Mérignac,,33-1
+Avenue de Strasbourg,,33-1
+Avenue de Verdun,,33-1
+Avenue de la Gare,,33-1
+Avenue de la Preservation,,33-2
+Avenue de la République,,33-1
+Avenue des Azalées,,33-1
+Avenue des Quarante Journaux,,33-1
+Avenue du Docteur Schinazi,,33-1
+Avenue du Golf,,33-1
+Avenue du Général Leclerc,,33-1
+Avenue du Jeu de Paume,,33-1
+Avenue du Maréchal de Lattre de Tassigny,,33-1
+Avenue du Parc de Lescure,,33-2
+Avenue du Pernon,,33-1
+Boulevard Albert 1er,,33-3
+Boulevard Albert Brandenburg,,33-1
+Boulevard Alfred Daney,,33-1
+Boulevard Antoine Gautier,,33-2
+Boulevard George V,,33-2
+Boulevard Georges Pompidou,,33-2
+Boulevard Godard,,33-1
+Boulevard Jean-Jacques Bosc,,33-3
+Boulevard Joliot-Curie,,33-2
+Boulevard Jules Simon,,33-2
+Boulevard Ludovic Trarieux,,33-2
+Boulevard Maréchal Leclerc,,33-2
+Boulevard Pierre 1er,,33-1
+Boulevard du Président Franklin Roosevelt,,33-2
+Chemin Lafitte,,33-1
+Chemin Maurice Lagardere,,33-1
+Chemin Pomerol,,33-2
+Chemin de Suzon,,33-2
+Cité Antoine Dupuch,,33-2
+Cité Brulatour,,33-3
+Cité Chantecrit,,33-1
+Cité Conrad,,33-1
+Cité Dasvin de Boismarin,,33-2
+Cité Dugay,,33-2
+Cité Dunoyer,,33-2
+Cité Dutrey,,33-1
+Cité Feaugas,,33-2
+Cité Laclaverie,,33-1
+Cité Lafon,,33-1
+Cité Martin Videau,,33-2
+Cité Montagut,,33-1
+Cité Morion,,33-3
+Cité Mouneyra,,33-2
+Cité Pavie,,33-2
+Cité Peyronneaud,,33-1
+Cité Roger Lorentz,,33-1
+Cité Roques,,33-2
+Cité Saint Martin,,33-2
+Cité Souriaux,,33-2
+Cité Tirepois,,33-1
+Cité de Libourne,,33-2
+Cité de Lisbonne,,33-2
+Cité de Magenta,,33-2
+Cité de Nantes,,33-1
+Cité de Vadelaincourt,,33-2
+Cité de l'Eglise Saint Augustin,,33-2
+Cité de la Souys,,33-2
+Cité de la Touratte,,33-2
+Cité des Ormières,,33-1
+Cité du Commerce,,33-1
+Cité du Perier,,33-2
+Cour de l'Economat,,33-2
+Cours Anatole France,,33-2
+Cours Aristide Briand,,33-2
+Cours Balguerie Stuttenberg,,33-1
+Cours Barbey,,33-3
+Cours Dupré de Saint Maur,,33-1
+Cours Edouard Vaillant,,33-1
+Cours Evrard de Fayolle,,33-1
+Cours Georges Clémenceau,,33-2
+Cours Henri Brunet,,33-1
+Cours Journu Auber,,33-1
+Cours Jules Ladoumègue,,33-1
+Cours Louis Fargue,,33-1
+Cours Maréchal Juin,,33-2
+Cours Pasteur,,33-2
+Cours Portal,,33-1
+Cours Saint Louis,,33-1
+Cours Victor Hugo,,33-2
+Cours Xavier Arnozan,,33-1
+Cours d'Alsace Et Lorraine,,33-2
+Cours de Gourgue,,33-1
+Cours de Luze,,33-1
+Cours de Québec,,33-1
+Cours de Verdun,,33-1
+Cours de l'Argonne,,33-2
+Cours de l'Intendance,,33-2
+Cours de l'Yser,,33-3
+Cours de la Libération,,33-2
+Cours de la Marne,,33-3
+Cours de la Martinique,,33-1
+Cours des Aubiers,,33-1
+Cours du Chapeau Rouge,,33-2
+Cours du Maréchal Gallieni,,33-2
+Cours du Médoc,,33-1
+Cours du Raccordement,,33-1
+Cours le Rouzic,,33-2
+Esplanade Charles de Gaulle,,33-2
+Impasse Alfred Molina,,33-2
+Impasse Astie Cere,,33-1
+Impasse Barbot,,33-2
+Impasse Bardos,,33-3
+Impasse Barreyre,,33-1
+Impasse Barreyre 1ère,,33-1
+Impasse Basque,,33-1
+Impasse Berthus,,33-2
+Impasse Birouette,,33-2
+Impasse Bon Gré Mal Gré,,33-2
+Impasse Bouquière,,33-2
+Impasse Bouscatier,,33-2
+Impasse Bouthier,,33-2
+Impasse Brulatour,,33-3
+Impasse Buscaillet,,33-1
+Impasse Caillabet,,33-2
+Impasse Caillou,,33-1
+Impasse Chanau,,33-2
+Impasse Clémenceau,,33-1
+Impasse Coli,,33-2
+Impasse Conrad,,33-1
+Impasse Conti,,33-2
+Impasse Cézanne,,33-1
+Impasse Delbos 1ère,,33-1
+Impasse Delbos 2ème,,33-1
+Impasse Ducaule,,33-2
+Impasse Dulac,,33-2
+Impasse Durban,,33-1
+Impasse Elvina Sivan,,33-2
+Impasse Fabelle,,33-1
+Impasse Fabreguette,,33-1
+Impasse Falgerat,,33-2
+Impasse Faure,,33-2
+Impasse Faye,,33-2
+Impasse Fenouil,,33-2
+Impasse Fontaine de Guillot,,33-3
+Impasse Fontan,,33-3
+Impasse Forestier,,33-2
+Impasse Gauguin,,33-1
+Impasse Genesta,,33-1
+Impasse Gondalma,,33-1
+Impasse Gourdin,,33-1
+Impasse Guestier,,33-1
+Impasse Hustin,,33-1
+Impasse Jeanne Lafond,,33-2
+Impasse Jeannin,,33-1
+Impasse Labottière,,33-1
+Impasse Lacoste,,33-2
+Impasse Lacroix,,33-2
+Impasse Lafargue,,33-2
+Impasse Lafitte,,33-1
+Impasse Laforet,,33-2
+Impasse Laine,,33-3
+Impasse Laurendon,,33-2
+Impasse Laville,,33-1
+Impasse Leyrat,,33-2
+Impasse Louis Mesplet,,33-3
+Impasse Luckner,,33-1
+Impasse Margaux,,33-2
+Impasse Marie Jeanne,,33-3
+Impasse Marion,,33-2
+Impasse Maubec,,33-2
+Impasse Maubourguet,,33-1
+Impasse Maucouyade,,33-2
+Impasse Mauriac,,33-2
+Impasse Mitchell,,33-1
+Impasse Morton,,33-1
+Impasse Noel,,33-1
+Impasse Nuyens,,33-2
+Impasse Pierre Melin,,33-3
+Impasse Pierre-Paul Courau,,33-1
+Impasse Poitevine,,33-2
+Impasse Pomme d'Or,,33-1
+Impasse Poyenne,,33-1
+Impasse Rateau,,33-3
+Impasse Renoir,,33-1
+Impasse Robert,,33-1
+Impasse Rouillard,,33-1
+Impasse Saillan,,33-3
+Impasse Saint Amand,,33-1
+Impasse Saint Augustin,,33-2
+Impasse Saint Lazare,,33-2
+Impasse Saint Louis,,33-1
+Impasse Saint Martial,,33-1
+Impasse Saint Paul,,33-2
+Impasse Saint Pierre,,33-2
+Impasse Saint-James,,33-2
+Impasse Saint-Jean,,33-3
+Impasse Saint-Projet,,33-2
+Impasse Sainte Cadenne,,33-2
+Impasse Sainte Elisabeth,,33-1
+Impasse Sainte Luce,,33-2
+Impasse Sainte Ursule,,33-2
+Impasse Sainte-Catherine,,33-2
+Impasse Sainte-Croix du Mont,,33-2
+Impasse Sale,,33-2
+Impasse Signoret,,33-2
+Impasse Soubiran,,33-2
+Impasse Sully,,33-2
+Impasse Thomasson,,33-2
+Impasse Tiffonet,,33-3
+Impasse Toussaint-Louverture,,33-2
+Impasse Victoire Americaine,,33-1
+Impasse Videau,,33-2
+Impasse Villedieu,,33-2
+Impasse Wilson,,33-1
+Impasse d'Agen,,33-3
+Impasse de Cestas,,33-2
+Impasse de Kater,,33-1
+Impasse de Lestonnat,,33-1
+Impasse de Marmande,,33-2
+Impasse de Marrakech,,33-2
+Impasse de Maître Jean,,33-2
+Impasse de l'Hermitage,,33-1
+Impasse de la Benatte,,33-2
+Impasse de la Fraternité,,33-2
+Impasse de la Merci,,33-2
+Impasse de la Prairie,,33-1
+Impasse de la Preceinte,,33-2
+Impasse de la Reinette,,33-2
+Impasse de la Rue Neuve,,33-2
+Impasse des Cossus,,33-1
+Impasse des Gants,,33-2
+Impasse des Minimettes,,33-2
+Impasse des Tanneries,,33-1
+Impasse du Clos des Orangers,,33-1
+Impasse du Couvent,,33-1
+Impasse du Pas Saint-Georges,,33-2
+Impasse du Petit Bert,,33-1
+Impasse du Professeur Pachon,,33-1
+Mail des Bordelais,,33-1
+Parvis des Chartrons,,33-1
+Passage Bardos,,33-3
+Passage Beaujau,,33-1
+Passage Belair,,33-3
+Passage Bernard Jabouin,,33-1
+Passage Bertin,,33-2
+Passage Birly,,33-2
+Passage Brian,,33-2
+Passage Brémontier,,33-3
+Passage Buhan,,33-2
+Passage Cairon,,33-2
+Passage Cantecric,,33-2
+Passage Delcruzel,,33-2
+Passage Despujols,,33-2
+Passage Feger,,33-1
+Passage François Ducom,,33-2
+Passage Fronsac,,33-2
+Passage Furt,,33-1
+Passage Félix Faure,,33-1
+Passage Gaugeacq,,33-3
+Passage Grenier,,33-3
+Passage Kieser,,33-2
+Passage Lafontaine,,33-3
+Passage Laliment,,33-2
+Passage Lestonnat,,33-1
+Passage Leydet,,33-1
+Passage Marcel,,33-2
+Passage Martin Videau,,33-2
+Passage Moreau,,33-3
+Passage Morton,,33-1
+Passage Nicot,,33-2
+Passage Notre Dame,,33-1
+Passage Nungesser,,33-2
+Passage Pambrun,,33-3
+Passage Robert Cami,,33-2
+Passage Sarget,,33-2
+Passage Terrasson,,33-2
+Passage Tourney,,33-3
+Passage de Paris,,33-1
+Passage de l'Hopital,,33-2
+Passage de la Jalle,,33-1
+Passage de la Nelly,,33-1
+Passage de la Tour de Gassies,,33-2
+Passage de la Villa,,33-2
+Passage des Argentiers,,33-2
+Passage des Graves,,33-2
+Passage des Marronniers,,33-2
+Passage des Vignerons,,33-2
+Passage du Puits,,33-1
+Petite Rue de Saintonge,,33-2
+Place Amédée Larrieu,,33-2
+Place Amélie Raba Léon,,33-2
+Place André Donis,,33-2
+Place André Meunier Dit Mureine,,33-3
+Place André Recapet,,33-3
+Place Bardineau,,33-1
+Place Bir Hakeim,,33-2
+Place Calixte Camelle,,33-2
+Place Camille Jullian,,33-2
+Place Camille Pelletan,,33-2
+Place Canteloup,,33-2
+Place Cardinal Donnet,,33-3
+Place Charles Gruet,,33-2
+Place Croix de Lestonnat,,33-1
+Place Doyen Poplawski,,33-3
+Place Duburg,,33-2
+Place Ferdinand Buisson,,33-3
+Place Fernand Lafargue,,33-2
+Place Francis de Pressense,,33-2
+Place Frédéric Ozanam,,33-1
+Place Gabriel,,33-2
+Place Gabriel Faure,,33-1
+Place Gavinies,,33-2
+Place Georges de Porto-Riche,,33-2
+Place Ginette Neveu,,33-1
+Place Général Sarrail,,33-2
+Place Henri Barckhausen,,33-1
+Place Jean Cayrol,,33-1
+Place Jean Jacques Rabaud,,33-1
+Place Jean Jaurès,,33-2
+Place Jean Moulin,,33-2
+Place Johnston,,33-2
+Place Lehu,,33-1
+Place Louis Barthou,,33-2
+Place Lucien Victor Meunier,,33-2
+Place Lucien-Victor Meunier,,33-2
+Place Mabit,,33-2
+Place Mareilhac,,33-1
+Place Martyrs de la Résistance,,33-2
+Place Meynard,,33-2
+Place Mitchell,,33-1
+Place Montaud,,33-2
+Place Nansouty,,33-3
+Place Paul Doumer,,33-1
+Place Paul Et Jean-Paul Avisseau,,33-1
+Place Philippe Lebon,,33-1
+Place Pierre Cétois,,33-1
+Place Pierre Jacques Dormoy,,33-3
+Place Pierre Renaudel,,33-3
+Place Puy Paulin,,33-2
+Place René Maran,,33-1
+Place Rodesse,,33-2
+Place Saint Julien,,33-2
+Place Saint Martial,,33-1
+Place Saint Pierre,,33-2
+Place Saint-Christoly,,33-2
+Place Saint-Projet,,33-2
+Place Sainte-Eulalie,,33-2
+Place Simiot,,33-2
+Place Tartas,,33-2
+Place Tourny,,33-2
+Place d'Armagnac,,33-3
+Place de Campeyraut,,33-2
+Place de Lerme,,33-2
+Place de Leyre,,33-1
+Place de Longchamps,,33-1
+Place de Stalingrad,,33-2
+Place de Valmy,,33-2
+Place de l'Eglise Saint Augustin,,33-2
+Place de l'Europe,,33-1
+Place de l'Orme,,33-2
+Place de la Cité des Fleurs,,33-2
+Place de la Ferme de Richemont,,33-2
+Place des Basques,,33-2
+Place des Cèdres,,33-2
+Place des Grands Hommes,,33-2
+Place des Tilleuls,,33-2
+Place des Tridons,,33-1
+Place du 11 Novembre,,33-2
+Place du Champ de Mars,,33-1
+Place du Chapelet,,33-2
+Place du Marche des Chartrons,,33-1
+Place du Maucaillou,,33-2
+Place du Palais,,33-2
+Place du Parlement,,33-2
+Place du Pradeau,,33-2
+Place du Seminaire,,33-2
+Promenade de la Cité,,33-1
+Promenade du Lac,,33-1
+Quai Armand Lalande,,33-1
+Quai Deschamps,,33-2
+Quai Hubert Prom,,33-1
+Quai Richelieu,,33-2
+Quai Sainte-Croix,,33-3
+Quai de Bacalan,,33-1
+Quai de Brazza,,33-2
+Quai de Brienne,,33-3
+Quai de Paludate,,33-3
+Quai de la Douane,,33-2
+Quai de la Grave,,33-2
+Quai de la Monnaie,,33-2
+Quai de la Souys,,33-2
+Quai des Chartrons,,33-1
+Quai des Queyries,,33-2
+Quai des Salinières,,33-2
+Quai du Senegal,,33-1
+Rond-point de Fukuoka,,33-1
+Rue Abbé de l'Epée,,33-2
+Rue Achard,,33-1
+Rue Adolphe Chales,,33-2
+Rue Adolphe d'Eichtal,,33-3
+Rue Adrien Baysselance,,33-2
+Rue Agis Chety,,33-3
+Rue Albert,,33-1
+Rue Albert Camus,,33-1
+Rue Albert Marquet,,33-2
+Rue Albert Nodon,,33-3
+Rue Albert Pitres,,33-1
+Rue Albert Thomas,,33-2
+Rue Albert Tournier,,33-1
+Rue Albert de Mun,,33-1
+Rue Alexander Fleming,,33-2
+Rue Alfred Dalancourt,,33-1
+Rue Alfred Duprat,,33-1
+Rue Alfred Poirier,,33-1
+Rue Alfred Smith,,33-2
+Rue Alfred de Musset,,33-1
+Rue Alfred de Vigny,,33-1
+Rue Alix d'Unienville,,33-2
+Rue Alphonse Dupeux,,33-2
+Rue Alphonse de Lamartine,,33-1
+Rue Ambroise,,33-3
+Rue Ampère,,33-2
+Rue Amédée Saint-Germain,,33-3
+Rue Amélie,,33-1
+Rue Anatole France,,33-1
+Rue Andronne,,33-2
+Rue André,,33-1
+Rue André Bac,,33-1
+Rue André Caverne,,33-2
+Rue André Darbon,,33-1
+Rue André Degain,,33-2
+Rue André Dumercq,,33-2
+Rue André Hible,,33-2
+Rue André Lamande,,33-2
+Rue André Maginot,,33-1
+Rue André Seguin,,33-1
+Rue Andrée Putman,,33-2
+Rue Andrée Tamisé,,33-1
+Rue Anne Frank,,33-1
+Rue Antoine Bourdelle,,33-2
+Rue Antoine Monier,,33-2
+Rue Arago,,33-1
+Rue Aristide Sousa Mendès,,33-1
+Rue Armand Caduc,,33-3
+Rue Armand Dulamon,,33-1
+Rue Armand Got,,33-1
+Rue Armand Lamarque,,33-3
+Rue Arnaud Miqueu,,33-2
+Rue Arthur Rimbaud,,33-1
+Rue Audubert,,33-1
+Rue Auguin,,33-2
+Rue Auguste Brutails,,33-1
+Rue Auguste Couat,,33-2
+Rue Auguste Merillon,,33-2
+Rue Auguste Poirson,,33-1
+Rue Aurelien Scholl,,33-2
+Rue Ausone,,33-2
+Rue Avelane,,33-2
+Rue Azam,,33-3
+Rue Babin,,33-2
+Rue Baillon,,33-1
+Rue Barada,,33-1
+Rue Barennes,,33-1
+Rue Barillet Deschamps,,33-1
+Rue Barrau,,33-2
+Rue Barreyre,,33-1
+Rue Barthelemy,,33-2
+Rue Basque,,33-1
+Rue Baste,,33-1
+Rue Batailley,,33-2
+Rue Baudrimont,,33-2
+Rue Baudry Lacantinerie,,33-2
+Rue Bauducheu,,33-3
+Rue Baurein,,33-2
+Rue Bavard,,33-1
+Rue Bazemont,,33-3
+Rue Beaubadat,,33-2
+Rue Beaufleury,,33-3
+Rue Beck,,33-3
+Rue Belair,,33-3
+Rue Belle Etoile,,33-3
+Rue Belleville,,33-2
+Rue Bellus Mareilhac,,33-1
+Rue Bense,,33-1
+Rue Beranger,,33-2
+Rue Bergeon,,33-3
+Rue Bergeret,,33-2
+Rue Bernard Adour,,33-1
+Rue Bernard Carmouze,,33-1
+Rue Berrouet,,33-3
+Rue Berruer,,33-2
+Rue Bertin,,33-3
+Rue Bertrand Andrieu,,33-3
+Rue Bertrand de Goth,,33-2
+Rue Beyssac,,33-2
+Rue Bigot,,33-2
+Rue Bigourdan,,33-3
+Rue Billaudel,,33-3
+Rue Binaud,,33-1
+Rue Blaise Pascal,,33-3
+Rue Blanc Dutrouilh,,33-1
+Rue Blanchard Latour,,33-2
+Rue Blanche,,33-1
+Rue Blanqui,,33-1
+Rue Bobillot,,33-3
+Rue Boileau,,33-1
+Rue Boistaud,,33-1
+Rue Bolivar,,33-1
+Rue Bongrand,,33-2
+Rue Bonnaffe,,33-2
+Rue Bonnefin,,33-2
+Rue Borda,,33-2
+Rue Borie,,33-1
+Rue Bossuet,,33-3
+Rue Boudet,,33-1
+Rue Bouffard,,33-2
+Rue Bouguereau,,33-2
+Rue Boulan,,33-2
+Rue Boulanger,,33-1
+Rue Bouquière,,33-2
+Rue Bourbon,,33-1
+Rue Bouthier,,33-2
+Rue Boutin,,33-2
+Rue Boyer,,33-2
+Rue Brachet,,33-1
+Rue Bradley,,33-1
+Rue Bragard,,33-2
+Rue Brascassat,,33-3
+Rue Breau,,33-1
+Rue Brian,,33-2
+Rue Brizard,,33-2
+Rue Brulatour,,33-3
+Rue Brun,,33-2
+Rue Brémontier,,33-3
+Rue Buchou,,33-3
+Rue Buffon,,33-2
+Rue Buhan,,33-2
+Rue Cabanac,,33-3
+Rue Cabirol,,33-2
+Rue Cadroin,,33-2
+Rue Caillou,,33-1
+Rue Calendrin,,33-1
+Rue Calvimont,,33-2
+Rue Calvé,,33-2
+Rue Cambon,,33-3
+Rue Camena d'Almeida,,33-2
+Rue Camille Claudel,,33-1
+Rue Camille Flammarion,,33-2
+Rue Camille Godard,,33-1
+Rue Camille Renouil,,33-1
+Rue Canihac,,33-2
+Rue Cantemerle,,33-1
+Rue Capdeville,,33-2
+Rue Capitaine Ferrand,,33-2
+Rue Capitaine Kleber Dupuy,,33-1
+Rue Capitaine Madon,,33-1
+Rue Capitaine Montauban,,33-2
+Rue Capitaine Philippe Koenigswerther,,33-1
+Rue Capitaine Raffin,,33-2
+Rue Carbonneau,,33-2
+Rue Cardinal Feltin,,33-1
+Rue Carle Vernet,,33-3
+Rue Carruade,,33-1
+Rue Carton,,33-1
+Rue Cassignard,,33-1
+Rue Cassignol,,33-1
+Rue Casteja,,33-2
+Rue Castelmoron,,33-2
+Rue Castelnau d'Auros,,33-2
+Rue Castillon,,33-2
+Rue Catherine et William Booth,,33-2
+Rue Catros,,33-1
+Rue Catros-Gerand,,33-1
+Rue Catulle Mendès,,33-3
+Rue Caussade,,33-3
+Rue Cazalis,,33-1
+Rue Cazaubon,,33-3
+Rue Cazeaux,,33-3
+Rue Cazemajor,,33-3
+Rue Cazenave,,33-2
+Rue Cerey,,33-1
+Rue Chabrely,,33-2
+Rue Chabry,,33-2
+Rue Chaigneau,,33-1
+Rue Champion de Cice,,33-2
+Rue Champlain,,33-1
+Rue Chanoine André Lacaze,,33-1
+Rue Chanoine Vidal,,33-1
+Rue Chantecrit,,33-1
+Rue Chantre,,33-3
+Rue Charles Baudelaire,,33-1
+Rue Charles Chaumet,,33-1
+Rue Charles Domercq,,33-3
+Rue Charles Durand,,33-1
+Rue Charles Gounod,,33-1
+Rue Charles Lamoureux,,33-2
+Rue Charles Leveque,,33-2
+Rue Charles Marionneau,,33-2
+Rue Charles Martin,,33-1
+Rue Charles Monselet,,33-2
+Rue Charles Puyo,,33-1
+Rue Charles Péguy,,33-2
+Rue Charles Tournemire,,33-1
+Rue Charles Versein,,33-1
+Rue Charlevoix de Villers,,33-1
+Rue Charpentier,,33-1
+Rue Chauffour,,33-2
+Rue Cheminade,,33-2
+Rue Christian Solar,,33-2
+Rue Christine,,33-2
+Rue Château Jouguet,,33-1
+Rue Claire,,33-1
+Rue Clairefontaine,,33-1
+Rue Clare,,33-2
+Rue Claude Bernard,,33-1
+Rue Claude Bonnier,,33-2
+Rue Claude Debussy,,33-1
+Rue Claude Taffanel,,33-3
+Rue Cleirac,,33-2
+Rue Clerambault,,33-1
+Rue Clément,,33-2
+Rue Cléo,,33-1
+Rue Coiffard,,33-1
+Rue Colette,,33-2
+Rue Colonel Grandier-Vazeille,,33-2
+Rue Comayrou,,33-3
+Rue Commandant Arnould,,33-2
+Rue Commandant Charcot,,33-1
+Rue Commandant Guilbaud,,33-2
+Rue Commandant Hautreux,,33-1
+Rue Commandant Marchand,,33-2
+Rue Condillac,,33-2
+Rue Condorcet,,33-1
+Rue Conrad Gaussen,,33-1
+Rue Constantin,,33-1
+Rue Contrescarpe,,33-2
+Rue Corcelle,,33-2
+Rue Cornac,,33-1
+Rue Corps Franc Pommies,,33-2
+Rue Cotrel,,33-2
+Rue Courbin,,33-2
+Rue Courpon,,33-2
+Rue Cousin,,33-2
+Rue Crampel,,33-3
+Rue Cremer,,33-3
+Rue Crozilhac,,33-1
+Rue Cruchinet,,33-2
+Rue Cyrano,,33-1
+Rue Dabadie,,33-2
+Rue Daniel Guestier,,33-1
+Rue Daniel Iffla-Osiris,,33-1
+Rue Dardenne,,33-1
+Rue Darnal,,33-2
+Rue Dauzats,,33-2
+Rue David Gradis,,33-2
+Rue David Johnston,,33-1
+Rue David Raynal,,33-1
+Rue Delacroix,,33-1
+Rue Delandre,,33-1
+Rue Delbos,,33-1
+Rue Delf,,33-3
+Rue Delmestre,,33-1
+Rue Delord,,33-1
+Rue Denise,,33-1
+Rue Denise Vernay,,33-2
+Rue Depe,,33-1
+Rue Desbiey,,33-2
+Rue Descartes,,33-2
+Rue Desfourniel,,33-2
+Rue Despax,,33-1
+Rue Despin,,33-3
+Rue Despujols,,33-2
+Rue Desse,,33-2
+Rue Destanque,,33-1
+Rue Detrois,,33-1
+Rue Deveaux,,33-1
+Rue Deyries,,33-2
+Rue Diaz,,33-2
+Rue Diderot,,33-2
+Rue Dieu,,33-2
+Rue Docteur Bert,,33-1
+Rue Docteur Charles Nancel Pénard,,33-2
+Rue Docteur Paul Castanet,,33-1
+Rue Docteur Yersin,,33-2
+Rue Dominique Maggesi,,33-1
+Rue Domion,,33-1
+Rue Donissan,,33-2
+Rue Doyen Radet,,33-3
+Rue Doyen Sigalas,,33-3
+Rue Doyen Vizioz,,33-3
+Rue Drouot,,33-1
+Rue Dubessan,,33-2
+Rue Dublan,,33-2
+Rue Dubourdieu,,33-2
+Rue Ducau,,33-1
+Rue Ducru,,33-2
+Rue Dudon,,33-2
+Rue Dufau,,33-2
+Rue Duffour Dubergier,,33-2
+Rue Duluc,,33-2
+Rue Dumaine,,33-1
+Rue Dumonteil,,33-2
+Rue Dupaty,,33-1
+Rue Dupleix,,33-1
+Rue Duplessy,,33-1
+Rue Dupré de Saint Maur,,33-1
+Rue Duquesne,,33-1
+Rue Duranteau,,33-2
+Rue Duret,,33-1
+Rue Durieu de Maisonneuve,,33-1
+Rue Dutour,,33-1
+Rue Duvergier,,33-1
+Rue Edmond Besse,,33-1
+Rue Edmond Costedoat,,33-2
+Rue Edmond Labasse,,33-1
+Rue Edmond Michelet,,33-2
+Rue Edmond Rostand,,33-1
+Rue Edouard Branly,,33-2
+Rue Edouard Colonne,,33-1
+Rue Edouard Larroque,,33-2
+Rue Edouard Mayaudon,,33-2
+Rue El-Alamein,,33-2
+Rue Elisee Reclus,,33-2
+Rue Emile Combes,,33-2
+Rue Emile Dreux,,33-1
+Rue Emile Duploye,,33-2
+Rue Emile Fourcand,,33-2
+Rue Emile Gentil,,33-2
+Rue Emile Gery,,33-1
+Rue Emile Laparra,,33-3
+Rue Emile Maurel,,33-3
+Rue Emile Pereire,,33-3
+Rue Emile Peynaud,,33-1
+Rue Emile Zola,,33-1
+Rue Emilien Tauriac,,33-1
+Rue Entre Deux Murs,,33-2
+Rue Erik Satie,,33-1
+Rue Ermend Bonnal,,33-1
+Rue Ernest Bersot,,33-2
+Rue Ernest Denis,,33-2
+Rue Ernest Godard,,33-1
+Rue Ernest Renan,,33-2
+Rue Esmangard,,33-3
+Rue Espiot,,33-1
+Rue Esprit-Des-Lois,,33-2
+Rue Etchenique,,33-1
+Rue Etcheto,,33-2
+Rue Etienne Duperat,,33-1
+Rue Etienne Huyard,,33-1
+Rue Etienne Lhoste,,33-1
+Rue Etobon Chenebier,,33-2
+Rue Eugène Jacquet,,33-2
+Rue Eugène Tenot,,33-2
+Rue Eugène le Roy,,33-3
+Rue Faidherbe,,33-3
+Rue Falquet,,33-1
+Rue Famatina,,33-1
+Rue Feaugas,,33-2
+Rue Fenelon,,33-2
+Rue Ferbeyre,,33-1
+Rue Ferbos,,33-3
+Rue Ferdinand Palau,,33-2
+Rue Ferdinand de Lesseps,,33-1
+Rue Fernand Audeguil,,33-2
+Rue Fernand Barthelemy,,33-1
+Rue Fernand Belliard,,33-2
+Rue Fernand Cazeres,,33-1
+Rue Fernand Habasque,,33-2
+Rue Fernand Marin,,33-2
+Rue Fernand Philippart,,33-2
+Rue Ferrère,,33-1
+Rue Fieffe,,33-3
+Rue Filaurie,,33-3
+Rue Fleche,,33-1
+Rue Flornoy,,33-2
+Rue Fonfrede,,33-3
+Rue Forestier,,33-2
+Rue Fourteau,,33-2
+Rue Foy,,33-1
+Rue Fragonard,,33-1
+Rue Franc Sanson,,33-2
+Rue Francin,,33-3
+Rue Francis Jammes,,33-1
+Rue Francis Martin,,33-1
+Rue Franklin,,33-2
+Rue Frantz Despagnet,,33-2
+Rue Frantz Malvezin,,33-1
+Rue Franz Schrader,,33-2
+Rue François Chambrelent,,33-1
+Rue François Coppee,,33-1
+Rue François Daunes,,33-2
+Rue François Leveque,,33-1
+Rue François Marceau,,33-1
+Rue François Mauriac,,33-1
+Rue François Roganeau,,33-1
+Rue François de Sourdis,,33-2
+Rue François le Gallais,,33-2
+Rue Frere,,33-1
+Rue Frédéric Bastiat,,33-2
+Rue Frédéric Bentayoux,,33-1
+Rue Furtado,,33-3
+Rue Félix Carme,,33-1
+Rue Gabillon,,33-2
+Rue Gabriel Frizeau,,33-1
+Rue Gabriel Leglise,,33-1
+Rue Galilée,,33-1
+Rue Galin,,33-2
+Rue Gambetta,,33-1
+Rue Garat,,33-3
+Rue Gaspard Philippe,,33-2
+Rue Gaston Lespiault,,33-2
+Rue Gaston Marchou,,33-1
+Rue Gaston Schnegg,,33-1
+Rue Gaugeacq,,33-3
+Rue Gay-Lussac,,33-2
+Rue Gaëtan Dumas,,33-2
+Rue Genesta,,33-1
+Rue Gensan,,33-2
+Rue Gensonne,,33-2
+Rue Geo Delvaille,,33-2
+Rue Georges Baziadoly,,33-1
+Rue Georges Bonnac,,33-2
+Rue Georges Boubes,,33-2
+Rue Georges Dalidet,,33-1
+Rue Georges Juzan,,33-2
+Rue Georges Lesieur,,33-1
+Rue Georges Mandel,,33-2
+Rue Georges Rioux,,33-2
+Rue Georges de Sonneville,,33-1
+Rue Gerbier,,33-3
+Rue Gergeres,,33-1
+Rue Giacomo Matteotti,,33-2
+Rue Giner de Los Rios,,33-3
+Rue Gloris,,33-1
+Rue Godard,,33-1
+Rue Gondalma,,33-1
+Rue Gouais Lanos,,33-2
+Rue Goubeau,,33-3
+Rue Gouffrand,,33-1
+Rue Gourgues Et Marsaud,,33-1
+Rue Gouvea,,33-2
+Rue Goya,,33-2
+Rue Grand Rabbin Joseph Cohen,,33-2
+Rue Grangeneuve,,33-1
+Rue Grateloup,,33-2
+Rue Gratiolet,,33-2
+Rue Guadet,,33-1
+Rue Guenard,,33-1
+Rue Guepin,,33-3
+Rue Guerin,,33-2
+Rue Guilhou,,33-1
+Rue Guillaume Brochon,,33-2
+Rue Guillaume Leblanc,,33-2
+Rue Guiraude,,33-2
+Rue Gustave Carde,,33-2
+Rue Gustave Danflou,,33-1
+Rue Gustave Eiffel,,33-2
+Rue Gustave Gounouilhou,,33-1
+Rue Guyart,,33-3
+Rue Guynemer,,33-1
+Rue Général Du Cheyron,,33-2
+Rue Général Gouraud,,33-1
+Rue Général Mangin,,33-1
+Rue Général de Castelnau,,33-1
+Rue Général de Larminat,,33-2
+Rue Hanappier,,33-1
+Rue Hazera,,33-1
+Rue Hector Berlioz,,33-1
+Rue Henri Collet,,33-1
+Rue Henri Collignon,,33-1
+Rue Henri Dunant,,33-2
+Rue Henri Expert,,33-1
+Rue Henri Guillemin,,33-1
+Rue Henri IV,,33-2
+Rue Henri Libreau,,33-1
+Rue Henri Matisse,,33-2
+Rue Henri Merand,,33-1
+Rue Henri Rodel,,33-1
+Rue Henri Salmide,,33-1
+Rue Henry Deffes,,33-2
+Rue Heriard Dubreuil,,33-2
+Rue Heron,,33-2
+Rue Hippolyte Minier,,33-3
+Rue Hoche,,33-1
+Rue Honoré Picon,,33-2
+Rue Honoré Tessier,,33-2
+Rue Hortense,,33-2
+Rue Hugla,,33-2
+Rue Hustin,,33-1
+Rue Ingres,,33-1
+Rue Jac Belaubre,,33-1
+Rue Jacques Camille Paris,,33-1
+Rue Jacques Cartier,,33-1
+Rue Jacques Ellul,,33-3
+Rue Jacques Lemarchand,,33-1
+Rue Jacques Rivière,,33-2
+Rue Jacques Thibaud,,33-1
+Rue Jacques d'Welles,,33-3
+Rue Jardel,,33-2
+Rue Jean Anouilh,,33-1
+Rue Jean Artus,,33-1
+Rue Jean Balde,,33-2
+Rue Jean Bart,,33-1
+Rue Jean Bedouret,,33-2
+Rue Jean Burguet,,33-2
+Rue Jean Cocteau,,33-1
+Rue Jean Coudanne,,33-1
+Rue Jean Croix Treyeran,,33-1
+Rue Jean Descas,,33-3
+Rue Jean Dollfus,,33-2
+Rue Jean Dumas,,33-3
+Rue Jean Dupas,,33-2
+Rue Jean Et Charles Pannetier,,33-3
+Rue Jean Fleuret,,33-2
+Rue Jean Forton,,33-2
+Rue Jean Grondel,,33-1
+Rue Jean Hameau,,33-1
+Rue Jean Lalanne,,33-3
+Rue Jean Mermoz,,33-2
+Rue Jean Odin,,33-1
+Rue Jean Paul Alaux,,33-2
+Rue Jean Renaud Dandicolle,,33-2
+Rue Jean Richepin,,33-1
+Rue Jean Royer,,33-1
+Rue Jean Sabarots,,33-2
+Rue Jean Soula,,33-2
+Rue Jean Vaquier,,33-1
+Rue Jean de Malet,,33-3
+Rue Jean-Baptiste Colbert,,33-1
+Rue Jean-Jacques Bel,,33-2
+Rue Jean-Jacques Rabaud,,33-1
+Rue Jean-Pierre Marie Bouron,,33-2
+Rue Jeanne,,33-1
+Rue Jeanne Jugan,,33-1
+Rue Jeannin,,33-1
+Rue Jenny Lepreux,,33-2
+Rue Jerome Mauvigney,,33-1
+Rue Jiel Laval,,33-1
+Rue Joseph Abria,,33-2
+Rue Joseph Aube,,33-2
+Rue Joseph Brun,,33-1
+Rue Joseph Brunet,,33-1
+Rue Joseph Faure,,33-2
+Rue Joseph Pujol,,33-2
+Rue Joseph de Carayon Latour,,33-2
+Rue Joseph le Brix,,33-2
+Rue Josephine,,33-1
+Rue Josephine Baker,,33-1
+Rue Jouannet,,33-2
+Rue Judaïque,,33-2
+Rue Jude,,33-1
+Rue Jules Badal,,33-2
+Rue Jules Betbeder,,33-1
+Rue Jules Delpit,,33-2
+Rue Jules Dugas,,33-1
+Rue Jules Ferry,,33-1
+Rue Jules Guesde,,33-3
+Rue Jules Lemaitre,,33-2
+Rue Jules Mabit,,33-1
+Rue Jules Michelet,,33-1
+Rue Jules Perrens,,33-3
+Rue Jules Steeg,,33-3
+Rue Jules Verne,,33-2
+Rue Julie,,33-3
+Rue Julien Manès,,33-1
+Rue Kieser,,33-2
+Rue Kyrie,,33-3
+Rue La-Boubee,,33-2
+Rue Labat,,33-2
+Rue Labirat,,33-2
+Rue Labottière,,33-1
+Rue Laboye,,33-2
+Rue Lachassaigne,,33-2
+Rue Laclotte,,33-1
+Rue Lacornee,,33-2
+Rue Lacour,,33-1
+Rue Lacroix,,33-2
+Rue Lafaurie de Monbadon,,33-2
+Rue Lafayette,,33-2
+Rue Laffiteau,,33-3
+Rue Lafon,,33-2
+Rue Lafontaine,,33-3
+Rue Lageyre,,33-1
+Rue Lagrange,,33-1
+Rue Lagraveyre,,33-1
+Rue Lajarte,,33-3
+Rue Lajaunie,,33-2
+Rue Laliment,,33-2
+Rue Lamolinerie,,33-1
+Rue Lamothe Pichon,,33-3
+Rue Lamourous,,33-2
+Rue Lapie,,33-1
+Rue Laplace,,33-2
+Rue Laplacette,,33-2
+Rue Laporte,,33-1
+Rue Larmee,,33-2
+Rue Laroche,,33-1
+Rue Lartigue,,33-1
+Rue Lasserre,,33-3
+Rue Latesta,,33-1
+Rue Latour,,33-1
+Rue Laure Gatet,,33-2
+Rue Laurent Sens,,33-2
+Rue Laville Fatin,,33-2
+Rue Lavoisier,,33-1
+Rue Le-Reynart,,33-2
+Rue Leberthon,,33-2
+Rue Lebrun,,33-2
+Rue Lecocq,,33-2
+Rue Lefol,,33-3
+Rue Leonie,,33-1
+Rue Leupold,,33-2
+Rue Levieux,,33-2
+Rue Leydet,,33-2
+Rue Leyronneire,,33-2
+Rue Lherisson,,33-2
+Rue Lhote,,33-2
+Rue Lieutenant Delvert,,33-2
+Rue Ligier,,33-2
+Rue Lombard,,33-1
+Rue Louis,,33-2
+Rue Louis Beydts,,33-1
+Rue Louis Braille,,33-2
+Rue Louis Cabie,,33-3
+Rue Louis Combes,,33-2
+Rue Louis Coullet,,33-1
+Rue Louis David Allegre,,33-1
+Rue Louis Emié,,33-2
+Rue Louis Geandreau,,33-1
+Rue Louis Jacques Guichard,,33-3
+Rue Louis Liard,,33-2
+Rue Louis Maydieu,,33-1
+Rue Louis Mesplet,,33-3
+Rue Louis Mie,,33-2
+Rue Louis Sabourin,,33-1
+Rue Louis de Foix,,33-2
+Rue Lucie Aubrac,,33-1
+Rue Lucien Faure,,33-1
+Rue Luflade,,33-2
+Rue Lugeol,,33-2
+Rue Léo Drouyn,,33-2
+Rue Léo Saignat,,33-2
+Rue Léon Aucoc,,33-3
+Rue Léon Blum,,33-1
+Rue Léon Bourgeois,,33-1
+Rue Léon Paillère,,33-3
+Rue Léon Pallière,,33-3
+Rue Léon Roches,,33-2
+Rue Léonard Lenoir,,33-2
+Rue Léonce Jugla,,33-3
+Rue Léonce Motelay,,33-2
+Rue Léonce Peyrecave,,33-2
+Rue Mably,,33-2
+Rue Mac Carthy,,33-1
+Rue Magendie,,33-2
+Rue Magnificat,,33-1
+Rue Mal Franchet d'Esperey,,33-1
+Rue Malbec,,33-3
+Rue Malescaut,,33-3
+Rue Malleret,,33-2
+Rue Mandron,,33-1
+Rue Marbotin,,33-3
+Rue Marc Boeuf,,33-1
+Rue Marceau,,33-2
+Rue Marcel,,33-2
+Rue Marcel Issartier,,33-2
+Rue Marcel Pagnol,,33-1
+Rue Marcel Sembat,,33-2
+Rue Marcelin,,33-2
+Rue Marcelin Berthelot,,33-1
+Rue Marcelin Jourdan,,33-1
+Rue Marceline Desbordes-Valmore,,33-1
+Rue Margaux,,33-2
+Rue Marguerite Crauste,,33-2
+Rue Marsan,,33-1
+Rue Martignac,,33-2
+Rue Maryse Bastié,,33-1
+Rue Maréchal Fayolle,,33-1
+Rue Maréchal Foch,,33-1
+Rue Maréchal Gallieni,,33-1
+Rue Maréchal Lyautey,,33-1
+Rue Maréchal Maunoury,,33-1
+Rue Massena,,33-1
+Rue Masson,,33-1
+Rue Mathieu,,33-2
+Rue Matignon,,33-1
+Rue Maubec,,33-2
+Rue Maubourguet,,33-1
+Rue Maucoudinat,,33-2
+Rue Mauriac,,33-2
+Rue Maurice,,33-1
+Rue Maurice Bersagol,,33-1
+Rue Maurice Druon,,33-1
+Rue Maurice Lanoire,,33-2
+Rue Maurice Ravel,,33-1
+Rue Mautrec,,33-2
+Rue Max Coyne,,33-3
+Rue Maxime Lalanne,,33-2
+Rue Maydieu,,33-1
+Rue Mazagran,,33-3
+Rue Medecin Colonel Albert Chemin,,33-2
+Rue Mellis,,33-3
+Rue Mercière,,33-2
+Rue Meret,,33-2
+Rue Mery,,33-1
+Rue Meste Verdie,,33-1
+Rue Mestre,,33-1
+Rue Mestrezat,,33-2
+Rue Metivier,,33-2
+Rue Mexico,,33-1
+Rue Michel Favreau,,33-3
+Rue Michel Montaigne,,33-2
+Rue Michel Slitinsky,,33-1
+Rue Millanges,,33-2
+Rue Millière,,33-2
+Rue Minvielle,,33-1
+Rue Molière,,33-1
+Rue Monadey,,33-3
+Rue Mondenard,,33-2
+Rue Mondesir,,33-1
+Rue Moni,,33-2
+Rue Monneron,,33-1
+Rue Monsarrat,,33-2
+Rue Montaigne,,33-1
+Rue Montbazon,,33-2
+Rue Montesquieu,,33-2
+Rue Montfaucon,,33-3
+Rue Montgolfier,,33-1
+Rue Monthyon,,33-3
+Rue Montmejean,,33-2
+Rue Morin,,33-3
+Rue Morion,,33-3
+Rue Morton,,33-1
+Rue Mouneyra,,33-2
+Rue Mozart,,33-2
+Rue Murat,,33-1
+Rue Nadeau,,33-1
+Rue Naujac,,33-2
+Rue Nauville,,33-2
+Rue Nelson Suq,,33-1
+Rue Nerigean,,33-2
+Rue Neuve,,33-2
+Rue Ney,,33-1
+Rue Nicolas Beaujon,,33-1
+Rue Nicot,,33-2
+Rue Notre Dame,,33-1
+Rue Nuyens,,33-2
+Rue Odette Pilpoul,,33-1
+Rue Odilon Redon,,33-2
+Rue Oscar Balaresque,,33-1
+Rue Oscar Et Jean Auriac,,33-3
+Rue Padouin,,33-1
+Rue Pages,,33-2
+Rue Pascal Lafargue,,33-1
+Rue Pascal Mothes,,33-3
+Rue Pasteur,,33-1
+Rue Paul Antin,,33-3
+Rue Paul Bert,,33-2
+Rue Paul Berthelot,,33-1
+Rue Paul Broca,,33-2
+Rue Paul Camelle,,33-2
+Rue Paul Courteault,,33-2
+Rue Paul Denuce,,33-2
+Rue Paul Doumer,,33-1
+Rue Paul Louis Lande,,33-2
+Rue Paul Mamert,,33-3
+Rue Paul Painleve,,33-2
+Rue Paul Proteau,,33-1
+Rue Paul Quinsac,,33-2
+Rue Paul Valéry,,33-1
+Rue Paul Verlaine,,33-1
+Rue Paule Marrot,,33-1
+Rue Paulin,,33-2
+Rue Pauline Kergomard,,33-2
+Rue Pedroni,,33-2
+Rue Pelleport,,33-3
+Rue Penicaud,,33-1
+Rue Pere Dieuzaide,,33-2
+Rue Pere Louis de Jabrun,,33-2
+Rue Perey,,33-2
+Rue Perinot,,33-1
+Rue Permentade,,33-2
+Rue Peyreblanque,,33-2
+Rue Peyrodeau Minoy,,33-1
+Rue Peyronnet,,33-3
+Rue Pierre,,33-2
+Rue Pierre Baour,,33-1
+Rue Pierre Brossolette,,33-1
+Rue Pierre Chareau,,33-1
+Rue Pierre Charron,,33-2
+Rue Pierre Curie,,33-2
+Rue Pierre Duhem,,33-2
+Rue Pierre Latecoere,,33-1
+Rue Pierre Noguey,,33-2
+Rue Pierre Paris,,33-2
+Rue Pierre Trebod,,33-1
+Rue Pierre de Coubertin,,33-2
+Rue Pierre de Ladime,,33-3
+Rue Pilet,,33-2
+Rue Planterose,,33-2
+Rue Poissonnier,,33-3
+Rue Poitevin,,33-2
+Rue Pomme d'Or,,33-1
+Rue Pomme-d'Or,,33-1
+Rue Ponthelier,,33-2
+Rue Poquelin Molière,,33-2
+Rue Portes de Caudéran Caud,,33-1
+Rue Poudensan,,33-2
+Rue Poujeau,,33-1
+Rue Pourmann,,33-1
+Rue Poyenne,,33-1
+Rue Premeynard,,33-1
+Rue Preville,,33-2
+Rue Privat,,33-2
+Rue Professeur André Lambinet,,33-2
+Rue Professeur Benzacar,,33-3
+Rue Professeur Calmette,,33-2
+Rue Professeur Chavannaz,,33-2
+Rue Professeur Daguin,,33-3
+Rue Professeur Delmas Marsalet,,33-1
+Rue Professeur Demons,,33-1
+Rue Professeur Lannelongue,,33-1
+Rue Professeur Pachon,,33-1
+Rue Professeur Timothée Piechaud,,33-2
+Rue Professeur Vezes,,33-1
+Rue Professeur Villemin,,33-1
+Rue Professeur Vincent,,33-2
+Rue Promis,,33-2
+Rue Prosper,,33-2
+Rue Prunier,,33-1
+Rue Président Coty,,33-1
+Rue Puysegur,,33-2
+Rue Périnot,,33-1
+Rue Queyret,,33-1
+Rue Quintin,,33-2
+Rue Rabanis,,33-3
+Rue Rabot,,33-1
+Rue Racine,,33-1
+Rue Ramonet,,33-1
+Rue Raoul Dufy,,33-1
+Rue Rateau,,33-3
+Rue Ravez,,33-2
+Rue Raymond Auguste Monvoisin,,33-3
+Rue Raymond Bordier,,33-1
+Rue Raymond Lartigue,,33-2
+Rue Raymond Lavigne,,33-2
+Rue Raymond Poincare,,33-2
+Rue Raze,,33-1
+Rue Regis,,33-2
+Rue Reignier,,33-2
+Rue Reinette,,33-2
+Rue Renault,,33-1
+Rue Renière,,33-2
+Rue René Char,,33-2
+Rue René Magne,,33-1
+Rue René Roy de Clotte,,33-2
+Rue Repond,,33-2
+Rue Riausac,,33-3
+Rue Richard,,33-3
+Rue Richelieu,,33-1
+Rue Robert Caumont,,33-1
+Rue Robert Charazac,,33-1
+Rue Robert Schuman,,33-1
+Rue Robert d'Ennery,,33-1
+Rue Roborel de Climens,,33-2
+Rue Rochambeau,,33-1
+Rue Rode,,33-1
+Rue Rodrigues Pereire,,33-2
+Rue Roger Allo,,33-2
+Rue Roger Bigorre,,33-3
+Rue Roger Ducasse,,33-1
+Rue Roger Mirassou,,33-3
+Rue Roger Touton,,33-1
+Rue Roland Dorgeles,,33-2
+Rue Roland Tylipski,,33-1
+Rue Rolland,,33-2
+Rue Rosa Bonheur,,33-2
+Rue Rosalie,,33-3
+Rue Rose,,33-1
+Rue Roturier,,33-2
+Rue Roullet,,33-3
+Rue Saige,,33-2
+Rue Saincric,,33-2
+Rue Saint Benoit,,33-3
+Rue Saint Etienne,,33-2
+Rue Saint Fort,,33-2
+Rue Saint Hubert,,33-1
+Rue Saint Joseph,,33-1
+Rue Saint Laurent,,33-1
+Rue Saint Maur,,33-1
+Rue Saint Nicolas,,33-2
+Rue Saint Rémi,,33-2
+Rue Saint Sernin,,33-2
+Rue Saint Vincent de Paul,,33-3
+Rue Saint-Eloi,,33-2
+Rue Saint-Emilion,,33-2
+Rue Saint-François,,33-2
+Rue Saint-Gilbert,,33-2
+Rue Saint-James,,33-2
+Rue Saint-Jean,,33-3
+Rue Saint-Sernin,,33-2
+Rue Saint-Simeon,,33-2
+Rue Sainte Cecile,,33-2
+Rue Sainte Colombe,,33-2
+Rue Sainte Elisabeth,,33-1
+Rue Sainte Eugenie,,33-1
+Rue Sainte Genevieve,,33-2
+Rue Sainte Germaine,,33-2
+Rue Sainte Luce,,33-2
+Rue Sainte Marguerite,,33-3
+Rue Sainte Marie,,33-2
+Rue Sainte Therese,,33-1
+Rue Sainte-Catherine,,33-2
+Rue Sainte-Monique,,33-2
+Rue Sainte-Philomene,,33-1
+Rue Samuel Kirsz,,33-1
+Rue Sanche de Pomiers,,33-2
+Rue Sansas,,33-2
+Rue Sante Garibaldi,,33-2
+Rue Sarrette,,33-3
+Rue Saumenude,,33-2
+Rue Sauteyron,,33-2
+Rue Sauvageon,,33-1
+Rue Savigne Chanteloup,,33-2
+Rue Scaliger,,33-2
+Rue Sebastien Prevot,,33-1
+Rue Segalier,,33-2
+Rue Seraphin,,33-2
+Rue Sergent Henry,,33-2
+Rue Servandoni,,33-2
+Rue Sicard,,33-1
+Rue Simone,,33-1
+Rue Soldat Moncourrier,,33-2
+Rue Solle,,33-1
+Rue Soubiras,,33-1
+Rue Stehelin,,33-1
+Rue Succursale,,33-2
+Rue Sullivan,,33-2
+Rue Surson,,33-1
+Rue Tanesse,,33-2
+Rue Tastet,,33-2
+Rue Taudin,,33-1
+Rue Terrasson,,33-2
+Rue Teulere,,33-2
+Rue Thebeau,,33-2
+Rue Theresia Cabarrus,,33-2
+Rue Thiac,,33-2
+Rue Théodore Ducos,,33-2
+Rue Théodore Gardere,,33-2
+Rue Tiffonet,,33-3
+Rue Tillet,,33-2
+Rue Tombe l'Oly,,33-2
+Rue Tourat,,33-1
+Rue Tranchere,,33-2
+Rue Traversanne,,33-2
+Rue Tustal,,33-2
+Rue Ulysse Despaux,,33-2
+Rue Ulysse Gayon,,33-2
+Rue Valdec,,33-2
+Rue Valentin Hauy,,33-2
+Rue Vandebrande,,33-1
+Rue Vantrasson,,33-1
+Rue Vauban,,33-1
+Rue Vaucher,,33-3
+Rue Vauquelin,,33-3
+Rue Verdier,,33-2
+Rue Vergniaud,,33-1
+Rue Verte,,33-1
+Rue Verteuil,,33-2
+Rue Veyrines,,33-2
+Rue Veyssière,,33-3
+Rue Victoire Americaine,,33-1
+Rue Victor Caffin,,33-1
+Rue Victor Duruy,,33-1
+Rue Victor Et Louis Liotard,,33-2
+Rue Victor Hugo,,33-1
+Rue Victor Schoelcher,,33-1
+Rue Videau,,33-3
+Rue Vieillard,,33-1
+Rue Vilaris,,33-3
+Rue Villedieu,,33-2
+Rue Villeneuve,,33-2
+Rue Vincent Thuron,,33-2
+Rue Vinet,,33-2
+Rue Virginia,,33-1
+Rue Vital Carles,,33-2
+Rue Vital-Mareille,,33-1
+Rue Voltaire,,33-2
+Rue Walter Poupot,,33-2
+Rue William Lacoste,,33-1
+Rue Wilson,,33-1
+Rue Wustenberg,,33-2
+Rue Xaintrailles,,33-2
+Rue Xavier Arsène Henry,,33-1
+Rue d'Agen,,33-3
+Rue d'Alembert,,33-2
+Rue d'Alzon,,33-2
+Rue d'Arcachon,,33-2
+Rue d'Arlac,,33-2
+Rue d'Armagnac,,33-3
+Rue d'Artagnan,,33-2
+Rue d'Artiguemale,,33-2
+Rue d'Aubidey,,33-3
+Rue d'Audenge,,33-2
+Rue d'Auperie,,33-3
+Rue d'Aupérie,,33-3
+Rue d'Austerlitz,,33-1
+Rue d'Aviau,,33-1
+Rue d'Enghien,,33-1
+Rue d'Ormilly,,33-1
+Rue d'Ornano,,33-2
+Rue de Bac Ninh,,33-3
+Rue de Balaclava,,33-2
+Rue de Barsac,,33-3
+Rue de Bazas,,33-3
+Rue de Beautiran,,33-3
+Rue de Beira,,33-2
+Rue de Bel Orme,,33-2
+Rue de Belfort,,33-2
+Rue de Belgique,,33-3
+Rue de Belles Iles,,33-2
+Rue de Berliquet,,33-2
+Rue de Bethmann,,33-2
+Rue de Beziers,,33-3
+Rue de Blanquefort,,33-1
+Rue de Blaye,,33-2
+Rue de Bouliac,,33-2
+Rue de Bourillon,,33-2
+Rue de Brach,,33-2
+Rue de Brezets,,33-3
+Rue de Bruges,,33-1
+Rue de Budos,,33-2
+Rue de Bègles,,33-3
+Rue de Cadaujac,,33-3
+Rue de Calembert,,33-2
+Rue de Campeyraut,,33-2
+Rue de Candale,,33-2
+Rue de Canolle,,33-2
+Rue de Cantenac,,33-2
+Rue de Capeyron,,33-1
+Rue de Cardoze,,33-1
+Rue de Carros,,33-2
+Rue de Cauderes,,33-2
+Rue de Caudéran,,33-2
+Rue de Caulet,,33-2
+Rue de Cenon,,33-2
+Rue de Cerons,,33-3
+Rue de Cestas,,33-2
+Rue de Chambrun,,33-1
+Rue de Chateaudun,,33-2
+Rue de Chateauneuf,,33-2
+Rue de Colmar,,33-2
+Rue de Condé,,33-2
+Rue de Creon,,33-2
+Rue de Cursol,,33-2
+Rue de Cénac,,33-2
+Rue de Deyme,,33-2
+Rue de Dijon,,33-2
+Rue de Domremy,,33-2
+Rue de Doumerc,,33-2
+Rue de Ferron,,33-3
+Rue de Fleurus,,33-2
+Rue de Fumel,,33-2
+Rue de Galard,,33-3
+Rue de Gaulne,,33-1
+Rue de Gironde,,33-1
+Rue de Grassi,,33-2
+Rue de Gravelotte,,33-3
+Rue de Guienne,,33-2
+Rue de Guillot,,33-3
+Rue de Hourtins,,33-2
+Rue de Janeau,,33-2
+Rue de La Boétie,,33-2
+Rue de La-Sau,,33-2
+Rue de Labrede,,33-3
+Rue de Ladous,,33-3
+Rue de Lalande,,33-2
+Rue de Landiras,,33-2
+Rue de Langon,,33-3
+Rue de Laseppe,,33-1
+Rue de Lauradey,,33-2
+Rue de Lauzac,,33-2
+Rue de Lavaud,,33-3
+Rue de Lescure,,33-2
+Rue de Lesparre,,33-1
+Rue de Leybardie,,33-1
+Rue de Libourne,,33-2
+Rue de Lille,,33-2
+Rue de Lisleferme,,33-1
+Rue de Longchamps,,33-1
+Rue de Luchey,,33-2
+Rue de Lurbe,,33-2
+Rue de Lyon,,33-2
+Rue de Léognan,,33-2
+Rue de Macau,,33-1
+Rue de Madagascar,,33-2
+Rue de Madere,,33-2
+Rue de Madrid,,33-2
+Rue de Mahela,,33-2
+Rue de Majunga,,33-2
+Rue de Marengo,,33-2
+Rue de Marmande,,33-2
+Rue de Marseille,,33-2
+Rue de Maître Jean,,33-2
+Rue de Metz,,33-2
+Rue de Moulis,,33-1
+Rue de Mulhouse,,33-2
+Rue de Mérignac,,33-2
+Rue de Navarre,,33-2
+Rue de Nerac,,33-3
+Rue de New York,,33-1
+Rue de Nuits,,33-2
+Rue de Ouagadougou,,33-1
+Rue de Patay,,33-2
+Rue de Pauillac,,33-1
+Rue de Pessac,,33-2
+Rue de Pineau,,33-2
+Rue de Preignac,,33-3
+Rue de Rigoulet,,33-2
+Rue de Rivière,,33-1
+Rue de Rosny,,33-1
+Rue de Ruat,,33-2
+Rue de Saget,,33-3
+Rue de Saigon,,33-3
+Rue de Saint Genès,,33-2
+Rue de Saint Macaire,,33-3
+Rue de Saintonge,,33-2
+Rue de Sauternes,,33-3
+Rue de Sete,,33-3
+Rue de Soissons,,33-2
+Rue de Solferino,,33-2
+Rue de Son Tay,,33-3
+Rue de Soulac,,33-1
+Rue de Strasbourg,,33-2
+Rue de Sèze,,33-2
+Rue de Ségur,,33-2
+Rue de Talence,,33-2
+Rue de Tamatave,,33-2
+Rue de Taregua,,33-2
+Rue de Tauzia,,33-3
+Rue de Tivoli,,33-1
+Rue de Toulon,,33-2
+Rue de Toulouse Lautrec,,33-2
+Rue de Tours,,33-2
+Rue de Tregey,,33-2
+Rue de Tresses,,33-2
+Rue de Trégey,,33-2
+Rue de Varize,,33-1
+Rue de Vaucouleurs,,33-3
+Rue de Vincennes,,33-2
+Rue de l'Abattoir,,33-3
+Rue de l'Abbesse,,33-3
+Rue de l'Asile,,33-2
+Rue de l'Avenir,,33-1
+Rue de l'Ecole,,33-2
+Rue de l'Ecole Normale,,33-1
+Rue de l'Eglise,,33-1
+Rue de l'Hermitage,,33-1
+Rue de l'Ile,,33-1
+Rue de l'Industrie,,33-1
+Rue de l'Observance,,33-2
+Rue de l'Ormeau Mort,,33-2
+Rue de l'École Normale,,33-1
+Rue de la Bechade,,33-2
+Rue de la Benatte,,33-2
+Rue de la Benauge,,33-2
+Rue de la Cage Verte,,33-1
+Rue de la Cape,,33-1
+Rue de la Chapelle Saint-Jean,,33-2
+Rue de la Concorde,,33-2
+Rue de la Coquille,,33-2
+Rue de la Cour des Aides,,33-2
+Rue de la Course,,33-1
+Rue de la Croix Blanche,,33-2
+Rue de la Dauphine,,33-1
+Rue de la Devise,,33-2
+Rue de la Devèze,,33-2
+Rue de la Faiencerie,,33-1
+Rue de la Franchise,,33-2
+Rue de la Fusterie,,33-2
+Rue de la Halle,,33-2
+Rue de la Jalle,,33-2
+Rue de la Liberté,,33-1
+Rue de la Maison Daurade,,33-2
+Rue de la Manutention,,33-2
+Rue de la Merci,,33-2
+Rue de la Misericorde,,33-2
+Rue de la Paix,,33-1
+Rue de la Passerelle,,33-2
+Rue de la Pelouse de Douet,,33-2
+Rue de la Plateforme,,33-2
+Rue de la Porte Basse,,33-2
+Rue de la Porte Dijeaux,,33-2
+Rue de la Porte Saint-Jean,,33-2
+Rue de la Porte des Portanets,,33-2
+Rue de la Porte du Cailhau,,33-2
+Rue de la Prévôté,,33-2
+Rue de la Renaissance,,33-2
+Rue de la Reole,,33-3
+Rue de la Rotonde,,33-2
+Rue de la Rousselle,,33-2
+Rue de la Sauve,,33-2
+Rue de la Source,,33-1
+Rue de la Tour d'Auvergne,,33-1
+Rue de la Tour de Gassies,,33-2
+Rue de la Tour du Pin,,33-2
+Rue de la Tresne,,33-2
+Rue de la Verrerie,,33-1
+Rue de la Vieille Tour,,33-2
+Rue de la Ville de Mirmont,,33-1
+Rue des Acacias,,33-1
+Rue des Alaudettes,,33-2
+Rue des Allamandiers,,33-2
+Rue des Anciens Combattants d'Afrique,,33-3
+Rue des Argentiers,,33-2
+Rue des Arts,,33-2
+Rue des Augustins,,33-2
+Rue des Ayres,,33-2
+Rue des Bahutiers,,33-2
+Rue des Beaux Arts,,33-3
+Rue des Benedictines,,33-3
+Rue des Bleuets,,33-1
+Rue des Boucheries,,33-2
+Rue des Bouviers,,33-2
+Rue des Camélias,,33-1
+Rue des Caperans,,33-2
+Rue des Capucines,,33-1
+Rue des Carmes,,33-2
+Rue des Chênes Lièges,,33-2
+Rue des Cordeliers,,33-2
+Rue des Cèdres,,33-2
+Rue des Deux Ormeaux,,33-2
+Rue des Douves,,33-3
+Rue des Ecoles,,33-1
+Rue des Enfants Assistes,,33-2
+Rue des Esteys,,33-2
+Rue des Etables,,33-3
+Rue des Etrangers,,33-1
+Rue des Etuves,,33-2
+Rue des Faures,,33-2
+Rue des Faussets,,33-2
+Rue des Fauvettes,,33-1
+Rue des Fours,,33-2
+Rue des Frères Bonie,,33-2
+Rue des Frères Faucher,,33-2
+Rue des Frères Portmann,,33-1
+Rue des Gants,,33-2
+Rue des Generaux Duche,,33-1
+Rue des Girondins,,33-1
+Rue des Herbes,,33-2
+Rue des Hollandais,,33-1
+Rue des Hortensias,,33-1
+Rue des Impasses,,33-3
+Rue des Lauriers,,33-2
+Rue des Lendemains,,33-1
+Rue des Lilas,,33-1
+Rue des Liserons,,33-1
+Rue des Lièges,,33-1
+Rue des Maraichers,,33-3
+Rue des Marronniers,,33-2
+Rue des Menuts,,33-2
+Rue des Mimosas,,33-1
+Rue des Orangers,,33-1
+Rue des Palanques,,33-2
+Rue des Pelourdes,,33-1
+Rue des Pervenches,,33-1
+Rue des Petits Caperans,,33-2
+Rue des Piliers de Tutelle,,33-2
+Rue des Pins Francs,,33-1
+Rue des Plantes,,33-1
+Rue des Poilus 1914-1918,,33-3
+Rue des Pontets,,33-2
+Rue des Queyries,,33-2
+Rue des Remparts,,33-2
+Rue des Resiniers,,33-3
+Rue des Retaillons,,33-1
+Rue des Rosiers,,33-1
+Rue des Sablières,,33-2
+Rue des Terres de Borde,,33-3
+Rue des Treuils,,33-2
+Rue des Trois Chandeliers,,33-2
+Rue des Trois Conils,,33-2
+Rue des Vignerons,,33-2
+Rue des Vignes,,33-2
+Rue des Villas,,33-1
+Rue des Violettes,,33-1
+Rue des Vivants,,33-2
+Rue du 11 Novembre,,33-2
+Rue du 144eme R.i.,,33-2
+Rue du 8eme Regiment d'Infanterie,,33-1
+Rue du Bocage,,33-1
+Rue du Bosquet,,33-1
+Rue du Cancera,,33-2
+Rue du Capitaine Kleber Dupuy,,33-1
+Rue du Cardinal Lavigerie,,33-2
+Rue du Cardinal Lecot,,33-1
+Rue du Cellier,,33-2
+Rue du Cerf Volant,,33-2
+Rue du Chai des Farines,,33-2
+Rue du Chalet,,33-2
+Rue du Château,,33-1
+Rue du Château Trompette,,33-2
+Rue du Château d'Eau,,33-2
+Rue du Cloitre,,33-2
+Rue du Colisee,,33-2
+Rue du Commandant Arnould,,33-2
+Rue du Commandant Cousteau,,33-2
+Rue du Commandant Edouard Gamas,,33-1
+Rue du Commerce,,33-3
+Rue du Couvent,,33-1
+Rue du Cypressat,,33-2
+Rue du Docteur Cachau,,33-1
+Rue du Docteur Hoffmann Martinot,,33-2
+Rue du Docteur Rocaz,,33-2
+Rue du Docteur Roux,,33-1
+Rue du Docteur Schweitzer,,33-1
+Rue du Docteur Souverbie,,33-1
+Rue du Doyen Cirot,,33-2
+Rue du Faubourg des Arts,,33-1
+Rue du Fils,,33-2
+Rue du Fort Dauphin,,33-2
+Rue du Grand Barail,,33-1
+Rue du Grand Lebrun,,33-1
+Rue du Grand Maurian,,33-2
+Rue du Ha,,33-2
+Rue du Haillan,,33-2
+Rue du Haut Queyron,,33-2
+Rue du Haut-Brion,,33-2
+Rue du Jardin de l'Ars,,33-3
+Rue du Lavoir,,33-1
+Rue du Livran,,33-2
+Rue du Manege,,33-2
+Rue du Marais,,33-2
+Rue du Maréchal Lyautey,,33-1
+Rue du Mascaret,,33-3
+Rue du Mirail,,33-2
+Rue du Moulin,,33-3
+Rue du Moulin Rouge,,33-1
+Rue du Mouton,,33-3
+Rue du Muguet,,33-2
+Rue du Mulet,,33-2
+Rue du Noviciat,,33-3
+Rue du Palais Gallien,,33-2
+Rue du Palais de l'Ombrière,,33-2
+Rue du Panorama,,33-1
+Rue du Parc,,33-1
+Rue du Parlement Saint Pierre,,33-2
+Rue du Parlement Sainte-Catherine,,33-2
+Rue du Pas Saint-Georges,,33-2
+Rue du Paveil,,33-1
+Rue du Pavillon,,33-2
+Rue du Petit Cardinal,,33-2
+Rue du Petit Goave,,33-2
+Rue du Petit Miot,,33-1
+Rue du Petit Parc,,33-1
+Rue du Peugue,,33-2
+Rue du Pont de la Mousque,,33-2
+Rue du Port,,33-3
+Rue du Portail,,33-3
+Rue du Prof. Georges Jeanneney,,33-1
+Rue du Professeur Denigés,,33-1
+Rue du Professeur Devaux,,33-3
+Rue du Professeur Moreau,,33-1
+Rue du Professeur Rechou,,33-2
+Rue du Professeur Sabrazes,,33-1
+Rue du Puits Descazeaux,,33-2
+Rue du Puits Descujols,,33-2
+Rue du Quai Bourgeois,,33-2
+Rue du Recteur Thamin,,33-2
+Rue du Sablonat,,33-2
+Rue du Sacre Coeur,,33-1
+Rue du Serpolet,,33-2
+Rue du Serporat,,33-3
+Rue du Soleil,,33-2
+Rue du Taillan,,33-1
+Rue du Tauzin,,33-2
+Rue du Temple,,33-2
+Rue du Temps Passé,,33-1
+Rue du Tondu,,33-2
+Rue du Velodrome,,33-1
+Rue du Vieux Marche,,33-2
+Rue jeanne lanvin,,33-2
+Rue la Mothe,,33-3
+Rue la Perouse,,33-1
+Rue le Chapelier,,33-1
+Rue le Clos des Acacias,,33-1
+Résidence Léon Blum,,33-1
+Résidence Marly,,33-3
+Sente Albert Turpain,,33-2
+Sente Armande Lacaze,,33-2
+Sente Canis,,33-1
+Sente Jean-Jacques Valleton,,33-2
+Sente Marie-Galante,,33-1
+Sente de la Nancy,,33-1
+Sente des Caboteurs,,33-1
+Sente des Carrelets,,33-1
+Sente des Compagnons,,33-1
+Sente des Gabarres,,33-1
+Sente des Mariniers,,33-1
+Sente des Morutiers,,33-1
+Sente des Mousses,,33-1
+Sente des Radoubs,,33-1
+Square Loupiac,,33-2
+Square Passicos,,33-2
+Square René Rougerie,,33-1
+Square Saint-Estephe,,33-2
+Terrasse Front du Médoc,,33-2
