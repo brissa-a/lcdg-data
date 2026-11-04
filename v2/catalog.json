@@ -1,0 +1,2501 @@
+{
+ "generated": "2026-11-04",
+ "files": [
+  {
+   "file": "deputies/init.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 132525,
+   "gzipSize": 24216,
+   "features": [
+    {
+     "title": "Photo",
+     "type": "image",
+     "column": "photo"
+    },
+    {
+     "title": "Nom",
+     "type": "text",
+     "column": "last_name"
+    },
+    {
+     "title": "Prénom",
+     "type": "text",
+     "column": "first_name"
+    },
+    {
+     "title": "Civilité",
+     "type": "category",
+     "values": "deputies/values/civility.csv",
+     "column": "civility"
+    },
+    {
+     "title": "Date de naissance",
+     "type": "date",
+     "column": "birth_date"
+    },
+    {
+     "title": "Âge",
+     "type": "number",
+     "column": "age"
+    },
+    {
+     "title": "En exercice",
+     "type": "category",
+     "values": "deputies/values/yes_no.csv",
+     "column": "in_office"
+    },
+    {
+     "title": "Circonscription",
+     "type": "code",
+     "column": "constituency"
+    },
+    {
+     "title": "Région",
+     "type": "category",
+     "values": "deputies/values/region.csv",
+     "column": "region"
+    },
+    {
+     "title": "Département",
+     "type": "text",
+     "column": "department"
+    },
+    {
+     "title": "N° de département",
+     "type": "code",
+     "column": "department_number"
+    },
+    {
+     "title": "N° de circonscription",
+     "type": "code",
+     "column": "constituency_number"
+    },
+    {
+     "title": "Périodes de mandat",
+     "type": "list",
+     "column": "mandate_periods"
+    },
+    {
+     "title": "Groupe politique",
+     "type": "category",
+     "values": "deputies/values/group.csv",
+     "column": "group"
+    }
+   ]
+  },
+  {
+   "file": "seats/hemicycle.csv",
+   "entity": "seat",
+   "key": "seat",
+   "rows": 582,
+   "size": 16157,
+   "gzipSize": 5921,
+   "features": [
+    {
+     "title": "x",
+     "type": "number",
+     "column": "x"
+    },
+    {
+     "title": "y",
+     "type": "number",
+     "column": "y"
+    },
+    {
+     "title": "Député",
+     "type": "reference",
+     "entity": "deputy",
+     "column": "deputy"
+    }
+   ],
+   "layout": {
+    "background": "seats/hemicycle.svg"
+   }
+  },
+  {
+   "file": "deputies/communes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 806818,
+   "gzipSize": 277832,
+   "features": [
+    {
+     "title": "Communes de la circonscription",
+     "type": "list",
+     "column": "communes"
+    }
+   ]
+  },
+  {
+   "file": "deputies/links.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 42480,
+   "gzipSize": 3801,
+   "features": [
+    {
+     "title": "Fiche sur le site de l'Assemblée",
+     "type": "link",
+     "column": "official_page"
+    }
+   ]
+  },
+  {
+   "file": "votes/votes.csv",
+   "entity": "vote",
+   "key": "vote_id",
+   "rows": 9697,
+   "size": 4280960,
+   "gzipSize": 229122,
+   "features": [
+    {
+     "title": "Numéro",
+     "type": "number",
+     "column": "number"
+    },
+    {
+     "title": "Date",
+     "type": "date",
+     "column": "date"
+    },
+    {
+     "title": "Objet",
+     "type": "text",
+     "column": "title"
+    },
+    {
+     "title": "Type de scrutin",
+     "type": "category",
+     "values": "votes/values/kind.csv",
+     "column": "kind"
+    },
+    {
+     "title": "Résultat",
+     "type": "category",
+     "values": "votes/values/result.csv",
+     "column": "result"
+    },
+    {
+     "title": "Vote majeur",
+     "type": "category",
+     "values": "votes/values/yes_no.csv",
+     "column": "major"
+    },
+    {
+     "title": "Texte",
+     "type": "text",
+     "column": "bill"
+    },
+    {
+     "title": "Fichier des positions",
+     "type": "code",
+     "column": "file"
+    },
+    {
+     "title": "Scrutin sur le site de l'Assemblée",
+     "type": "link",
+     "column": "url"
+    }
+   ]
+  },
+  {
+   "file": "deputies/major-votes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1006887,
+   "gzipSize": 56969,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 259,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/other.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1266839,
+   "gzipSize": 57669,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 309,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-finances-pour-2025.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1492204,
+   "gzipSize": 42117,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 343,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-financement-de-la-securite-sociale-pour-2025.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 344539,
+   "gzipSize": 15433,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 79,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-finances-de-fin-des-gestion-pour-2024.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 36385,
+   "gzipSize": 3280,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 7,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-organique-portant-reforme-du-financement-de-l-audiovisuel.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 33133,
+   "gzipSize": 2869,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-d-abrogation-de-la-retraite-a-64-ans.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 148752,
+   "gzipSize": 6196,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 32,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-le-traitement-des-maladies-affectant-les.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 84951,
+   "gzipSize": 4457,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 18,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-optimiser-la-protection-et-l-accompagnement-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 53807,
+   "gzipSize": 3290,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 11,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-speciale-prevue-par-l-article-45-de-la-loi-organique-du-1er-aout.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 49858,
+   "gzipSize": 3854,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 12,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-d-urgence-pour-mayotte.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 237851,
+   "gzipSize": 8939,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 55,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-l-exercice-de-la-democratie-agricole.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 45482,
+   "gzipSize": 3221,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-portant-diverses-dispositions-d-adaptation-au-droit-de-l-union.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 32521,
+   "gzipSize": 2918,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-rendre-accessible-a-tous-les-etudiants-le-repas-a-1.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 32485,
+   "gzipSize": 2810,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-contre-toutes-les-fraudes-aux-aides-publiques.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 159194,
+   "gzipSize": 4648,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 36,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-prevenir-les-litiges-relatifs-aux-obligations-de.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 71460,
+   "gzipSize": 3860,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 15,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-restreindre-la-vente-de-protoxyde-d-azote-aux-seuls.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 44845,
+   "gzipSize": 2910,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-refuser-la-ratification-de-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 32045,
+   "gzipSize": 2528,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-les-conditions-d-acces-a-la-nationalite.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 205373,
+   "gzipSize": 7450,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 46,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-au-renforcement-de-la-surete-dans-les-transports.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 194722,
+   "gzipSize": 7496,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 44,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-restaurer-l-autorite-de-la-justice-a-l-egard-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 67297,
+   "gzipSize": 3632,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 14,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-portant-diverses-dispositions-d-adaptation-au-droit-de-l-union-2.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 146460,
+   "gzipSize": 3866,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 32,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-proteger-la-population-des-risques-lies-aux.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 40403,
+   "gzipSize": 3293,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-instaurant-un-impot-plancher-de-2-sur-le-patrimoine-des-ultra.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 133943,
+   "gzipSize": 4770,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 29,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-pour-un-demarchage-telephonique-consenti-et-une-protection.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 79472,
+   "gzipSize": 3949,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 17,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-l-organisation-et-aux-missions-des-personnels-de.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 62599,
+   "gzipSize": 3266,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 13,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-simplifiant-l-ouverture-des-debits-de-boissons-en-zone-rurale.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 48840,
+   "gzipSize": 3260,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 10,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-sur-la-profession-d-infirmier.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 65884,
+   "gzipSize": 3620,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 14,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-lutter-contre-la-disparition-des-terres-agricoles-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 55283,
+   "gzipSize": 3375,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 12,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-appelant-au-renforcement-du-soutien-a-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 123631,
+   "gzipSize": 6275,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 28,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-assouplir-la-gestion-des-competences-eau-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 44996,
+   "gzipSize": 3128,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-lutter-contre-les-fermetures-abusives-de-comptes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 76093,
+   "gzipSize": 3007,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 16,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-stabilite-economique-et-la.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 96234,
+   "gzipSize": 4702,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 21,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-sortir-la-france-du-piege-du-narcotrafic.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 666653,
+   "gzipSize": 17577,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 153,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-modifier-la-definition-penale-du-viol-et-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 31880,
+   "gzipSize": 3057,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-le-controle-du-parlement-en-periode-d.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39680,
+   "gzipSize": 3023,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-valoriser-la-reserve-communale-de-securite-civile.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 91413,
+   "gzipSize": 3784,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 20,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-faire-executer-les-peines-d-emprisonnement-ferme.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 129095,
+   "gzipSize": 4319,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 28,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-harmoniser-le-mode-de-scrutin-aux-elections.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 147128,
+   "gzipSize": 5459,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 33,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reformer-le-mode-d-election-du-conseil-de-paris-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 50158,
+   "gzipSize": 3625,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 10,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reformer-le-mode-d-election-des-membres-du-conseil.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 53482,
+   "gzipSize": 3586,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 11,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-simplification-de-la-vie-economique.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1964143,
+   "gzipSize": 34071,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 446,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-le-parcours-inclusif-des-enfants-a-besoins.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 147294,
+   "gzipSize": 5069,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 34,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-appelant-a-la-liberation-immediate-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 77470,
+   "gzipSize": 4344,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 17,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-la-lutte-contre-l-antisemitisme-le-racisme-les.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 139593,
+   "gzipSize": 5279,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 31,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-l-accompagnement-et-aux-soins-palliatifs.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 491584,
+   "gzipSize": 13199,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 112,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-de-simplification-du-droit-de-l-urbanisme-et-du-logement.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 192093,
+   "gzipSize": 6886,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 43,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-lutter-contre-la-mortalite-infantile.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 31212,
+   "gzipSize": 2775,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-au-droit-a-l-aide-a-mourir.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 3953677,
+   "gzipSize": 72626,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 931,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-l-egal-acces-de-tous-a-l-accompagnement-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 321457,
+   "gzipSize": 10500,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 76,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-un-cadre-fiscal-stable-juste-et-lisible.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 29714,
+   "gzipSize": 2833,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-au-droit-de-vote-par-correspondance-des-personnes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 106189,
+   "gzipSize": 3737,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 23,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-permettant-aux-salaries-de-participer-aux-collectes-de-sang.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 58258,
+   "gzipSize": 3253,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 12,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-accorder-le-versement-des-allocations-familiales-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 49230,
+   "gzipSize": 3224,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 10,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-portant-programmation-nationale-energie-et-climat-pour-les.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 911363,
+   "gzipSize": 18876,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 206,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-programmation-pour-la-refondation-de-mayotte.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 879312,
+   "gzipSize": 15660,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 199,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-les-prerogatives-des-officiers-de-l-etat.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 164627,
+   "gzipSize": 4443,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 36,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-faciliter-le-maintien-en-retention-des-personnes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 100445,
+   "gzipSize": 4517,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 22,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-portant-transposition-des-accords-nationaux-interprofessionnels-en.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 164884,
+   "gzipSize": 4757,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 36,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reformer-le-mode-d-election-des-membres-du-conseil-2.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 84499,
+   "gzipSize": 3477,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 18,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-portant-creation-d-un-statut-de-l-elu-local.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 510119,
+   "gzipSize": 12284,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 118,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-finances-pour-2026.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 3943180,
+   "gzipSize": 122499,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 927,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-rendre-systematique-l-information-du-consommateur.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 56862,
+   "gzipSize": 3698,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 12,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-financement-de-la-securite-sociale-pour-2026.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 2223105,
+   "gzipSize": 77471,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 525,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-finances-de-fin-de-gestion-pour-2025.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 259947,
+   "gzipSize": 9570,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 61,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-l-etablissement-de-l-egalite-d-acces-au-service.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 187698,
+   "gzipSize": 5237,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 43,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-la-nationalisation-d-arcelormittal-france-afin-de.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 769127,
+   "gzipSize": 13814,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 177,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-organique-tendant-a-modifier-le-ii-de-l-article-43-de-la-loi.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39950,
+   "gzipSize": 2814,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-assurer-le-droit-de-chaque-enfant-a-etre-assiste-d.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39107,
+   "gzipSize": 3186,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-proteger-les-mineurs-isoles-et-a-lutter-contre-le.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 42997,
+   "gzipSize": 3364,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-pour-retrouver-la-confiance-et-l-equilibre-dans-les-rapports.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 100876,
+   "gzipSize": 4017,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 22,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-un-renouvellement-automatique-des-titres-de.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 44922,
+   "gzipSize": 2886,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-relatif-a-l-organisation-des-jeux-olympiques-et-paralympiques-de.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 745263,
+   "gzipSize": 13569,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 173,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-portant-reparation-des-personnes-condamnees-pour.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39751,
+   "gzipSize": 2811,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-l-acces-au-logement-des-travailleurs-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 73349,
+   "gzipSize": 3529,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 16,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-inscrire-la-mouvance-des-freres.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 77785,
+   "gzipSize": 4360,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 17,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reconnaitre-une-presomption-de-legitime-defense-pour.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 217295,
+   "gzipSize": 5886,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 50,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-proteger-les-mineurs-des-risques-auxquels-les-expose.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 167810,
+   "gzipSize": 6015,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 38,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-exercer-l-acces-a-l-emploi-a-perenniser-et-a-etendre.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 125207,
+   "gzipSize": 4011,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 28,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-moderniser-la-gestion-du-patrimoine-immobilier-de-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 68438,
+   "gzipSize": 3538,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 15,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-la-gratuite-des-parkings-des-hopitaux.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 48870,
+   "gzipSize": 2939,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 10,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reconnaitre-les-victimes-de-l-exposition-aux-essais.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 56343,
+   "gzipSize": 2849,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 12,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-l-interet-des-enfants.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 79383,
+   "gzipSize": 2980,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 17,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-la-protection-des-commercants-grace-a-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 95583,
+   "gzipSize": 3642,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 21,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-appelant-a-la-preservation-des-principes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 34981,
+   "gzipSize": 2734,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 7,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-rejeter-le-projet-d-accord-sur-les.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 31452,
+   "gzipSize": 2788,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-relancer-les-investissements-dans-le-secteur-de-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 172932,
+   "gzipSize": 5452,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 39,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-pour-proteger-l-eau-potable.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 111258,
+   "gzipSize": 4684,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 25,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-empecher-la-constitution-de-monopoles-economiques.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 137832,
+   "gzipSize": 4291,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 31,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-relatif-a-la-lutte-contre-les-fraudes-sociales-et-fiscales.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1120893,
+   "gzipSize": 20777,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 262,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-place-des-agriculteurs-dans-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 35870,
+   "gzipSize": 2736,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 7,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-le-droit-de-visite-des-parlementaires-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39325,
+   "gzipSize": 3201,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-simplifier-le-millefeuille-territorial-par-la.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 98504,
+   "gzipSize": 4956,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 22,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-accelerer-la-prevention-cardio-neuro-vasculaire-et-a.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 72822,
+   "gzipSize": 3265,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 16,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reconnaitre-une-politique-nationale-d-adaptation-au.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39264,
+   "gzipSize": 2886,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-encadrer-les-regroupements-pedagogiques.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 34502,
+   "gzipSize": 2873,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 7,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-le-benefice-des-prestations-familiales-aux.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 72259,
+   "gzipSize": 2964,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 16,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-penalisation-de-l-organisation-de-rave.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 140522,
+   "gzipSize": 4759,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 32,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-simplifier-la-gestion-de-la-commande-publique-par.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 35292,
+   "gzipSize": 2695,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 7,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-relatif-a-la-restitution-de-biens-culturels-provenant-d-etats-qui.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 195493,
+   "gzipSize": 5193,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 45,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-la-securite-la-retention-administrative-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 435171,
+   "gzipSize": 11453,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 103,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-actualisant-la-programmation-militaire-pour-les-annees-2024-a-2030.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1216794,
+   "gzipSize": 21535,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 292,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-resolution-europeenne-visant-a-condamner-la-derive-illiberale-et.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 58961,
+   "gzipSize": 3040,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 13,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-accelerer-le-developpement-du-transport-maritime-a.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 70640,
+   "gzipSize": 3739,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 16,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-l-information-et-la-protection-effective.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 95189,
+   "gzipSize": 3716,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 22,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-mettre-en-place-un-programme-de-soutien-a-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 43051,
+   "gzipSize": 3013,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-pour-une-montagne-vivante-et-souveraine.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 315080,
+   "gzipSize": 6700,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 75,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-d-urgence-pour-la-protection-et-la-souverainete-agricoles.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1750019,
+   "gzipSize": 38190,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 422,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-organique-portant-regularisation-des-natifs-dans-le-corps.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 28486,
+   "gzipSize": 3229,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-portant-abrogation-du-code-noir.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 44933,
+   "gzipSize": 3274,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 10,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-pour-la-mobilisation-de-l-habitat-existant-en-reponse-a-la.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 100748,
+   "gzipSize": 4105,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 23,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-portant-perennisation-du-contrat-de-professionnalisation.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 55705,
+   "gzipSize": 2893,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 12,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-proteger-les-enfants-et-a-lutter-contre-les.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 209861,
+   "gzipSize": 6339,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 50,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-la-protection-et-l-accompagnement-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 39612,
+   "gzipSize": 3128,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-ameliorer-les-moyens-d-action-de-l-agence-de-gestion.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 103772,
+   "gzipSize": 4274,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 24,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-proteger-l-alimentation-des-francais-et-des.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 43276,
+   "gzipSize": 3127,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-garantir-l-interdiction-de-la-vaisselle-en-plastique.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 47425,
+   "gzipSize": 2888,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 10,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-portant-plusieurs-mesures-de-justice-en-faveur-de-la.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 51646,
+   "gzipSize": 3157,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 11,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-prevenir-le-mal-etre-et-le-risque-suicidaire-dans-le.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 105041,
+   "gzipSize": 3538,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 24,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-lever-dans-les-territoires-d-outre-mer-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 30560,
+   "gzipSize": 2817,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-reformer-les-bourses-sur-criteres-sociaux-et-a.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 51486,
+   "gzipSize": 3036,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 11,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-constitutionnelle-pour-une-corse-autonome-au-sein-de-la-republique.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 109427,
+   "gzipSize": 5234,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 25,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-renforcer-les-prerogatives-des-officiers-de-l-etat-2.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 30513,
+   "gzipSize": 2988,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 6,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-relative-a-l-organisation-a-la-gestion-et-au-financement-du.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 319381,
+   "gzipSize": 7020,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 76,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-organique-relatif-au-renforcement-des-juridictions-criminelles.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 37285,
+   "gzipSize": 3585,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 8,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-sur-la-justice-criminelle-et-le-respect-des-victimes.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 334578,
+   "gzipSize": 9540,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 80,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-visant-a-offrir-des-reponses-immediates-aux-phenomenes-troublant-l.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 1206261,
+   "gzipSize": 20437,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 290,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-relatif-a-la-protection-des-enfants.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 578403,
+   "gzipSize": 14375,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 140,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-apportant-une-reponse-integrale-au-phenomene-des-violences.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 919423,
+   "gzipSize": 23620,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 230,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-abroger-les-zones-a-faibles-emissions-mobilites.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 42964,
+   "gzipSize": 3159,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 9,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-moderniser-et-reequilibrer-le-fonctionnement-du.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 91168,
+   "gzipSize": 3808,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 21,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-finances-pour-2027.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 2658556,
+   "gzipSize": 53978,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 653,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 831631,
+   "gzipSize": 19855,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 203,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-visant-a-creer-un-parcours-de-soins-integralement-pris-en.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 158030,
+   "gzipSize": 4348,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 38,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  },
+  {
+   "file": "deputies/votes/proposition-de-loi-pour-proteger-durablement-les-jeunes-majeurs-de-l-aide.csv",
+   "entity": "deputy",
+   "key": "deputy_id",
+   "rows": 654,
+   "size": 387877,
+   "gzipSize": 6088,
+   "columnsOf": {
+    "entity": "vote",
+    "count": 94,
+    "feature": {
+     "title": "Position de vote",
+     "type": "category",
+     "values": "deputies/values/vote_position.csv"
+    }
+   }
+  }
+ ]
+}
